@@ -37,7 +37,11 @@
   ],
   "implemented_cli_commands": [
     "lex list [--country CC] [--language LANG] [--json]",
-    "lex check [PATH] [--json]"
+    "lex search QUERY [--country CC] [--language LANG] [--json]",
+    "lex get ID [--language LANG] [--provision ANCHOR] [--body] [--json]",
+    "lex source ID [--language LANG] [--verify] [--path-only]",
+    "lex check [PATH] [--json]",
+    "lex update COUNTRY [--id ID] [--dry-run]"
   ],
   "error_codes": [
     "LEX_NOT_FOUND",

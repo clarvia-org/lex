@@ -6,7 +6,9 @@
 
 **Current national legislation in one predictable format for AI agents.**
 
-> Status: repository scaffold. No legislation is published yet.
+```bash
+uv run lex get lu/code-civil --provision art-13
+```
 
 ---
 
@@ -25,27 +27,27 @@ No database. No API keys. No scraping. Just Git.
 
 **Browse** any law directly on GitHub — the Markdown renders natively.
 
-**Clone** the entire dataset:
-
-```bash
-git clone https://github.com/clarvia-org/lex.git
-```
-
-**Install** the CLI from source:
+**Clone** and install the CLI from source:
 
 ```bash
 git clone https://github.com/clarvia-org/lex.git
 cd lex
-uv sync
+uv sync --frozen
 ```
 
 ```bash
-# List all published laws
-lex list
-
-# Validate the dataset integrity
-lex check
+uv run lex list
+uv run lex search "Code civil" --country lu
+uv run lex get lu/code-civil --provision art-13
+uv run lex source lu/code-civil --verify
+uv run lex check
 ```
+
+## Published coverage
+
+| Country | Laws | Notes |
+|---|---|---|
+| Luxembourg (`lu`) | `code-civil` | Partial coverage — filesystem is the list |
 
 ## The contract
 
@@ -87,7 +89,7 @@ Version 1 is deliberately focused:
 - ✅ Current national legislation from official sources
 - ✅ Normalized Markdown + retained official source files
 - ✅ Official identifiers and citation URLs
-- ✅ Local CLI for validation and querying
+- ✅ Local CLI for search and retrieval
 - ✅ Partial country coverage welcomed
 - ❌ No historical versions, no amendment graphs, no AI summaries
 - ❌ No hosted API, no database, no paid infrastructure
@@ -102,6 +104,7 @@ See [ROADMAP.md](ROADMAP.md) for the expansion path.
 | [DATA_MODEL.md](DATA_MODEL.md) | Stable IDs, frontmatter fields, Markdown conventions |
 | [COUNTRY_ADAPTER.md](COUNTRY_ADAPTER.md) | The three-function adapter contract |
 | [SOURCES.md](SOURCES.md) | Official-source-only policy, rights and attribution |
+| [countries/lu/CASEMATES.md](countries/lu/CASEMATES.md) | Luxembourg Casemates SPARQL + filestore access notes |
 | [AGENTS.md](AGENTS.md) | Machine-readable instructions for AI agents |
 | [BLUEPRINT.md](BLUEPRINT.md) | Full architectural specification |
 
