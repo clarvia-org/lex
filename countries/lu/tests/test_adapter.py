@@ -83,7 +83,7 @@ def test_registry_covers_active_batches() -> None:
     ids = {spec.id for spec in module.LAWS}
     assert "lu/code-civil" in ids
     assert "lu/loi-2024-07-31-a339" in ids
-    assert len(ids) == 755  # 737 prior + 18 security-data
+    assert len(ids) == 1207  # 755 prior + 452 tail
     assert "lu/loi-1817-12-27-n1" in ids
     assert "lu/conv-2016-12-21-n1" in ids
     assert "lu/loi-1915-08-10-n1" in ids
@@ -93,6 +93,7 @@ def test_registry_covers_active_batches() -> None:
     assert "lu/agd-1913-02-14-n1" in ids
     assert "lu/loi-1843-01-13-n1" in ids
     assert "lu/amin-2022-07-15-a355" in ids
+    assert "lu/agd-1904-01-16-n2" in ids
     constitution = module.LAWS_BY_ID["lu/constitution"]
     assert constitution.languages == ("fr", "de")
     html_law = module.LAWS_BY_ID["lu/loi-2024-07-31-a339"]
