@@ -4,12 +4,12 @@
 - **Official entry point**: https://legilux.public.lu/
 - **Data access**: Casemates open-data layer (`sparqlendpoint` + filestore). See [CASEMATES.md](CASEMATES.md).
 - **Rights**: CC-BY-4.0 with attribution to Service central de législation, Luxembourg
-- **Coverage**: Partial — Stage 1B ten-law slice
+- **Coverage**: Partial — Stage 1B ten-law slice + Stage 2 remaining official codes
 - **Supported families**: Codes, ordinary laws, grand-ducal regulations, constitution (LegalDocML/XML; one HTML Journal memorial)
 - **Default language**: French (Constitution also published in German)
 - **Source selection**: Prefer complete LegalDocML/XML; HTML retained when selected (see Stage 1B)
 - **Known caveats**: The public Legilux website is an Angular SPA and must not be scraped. Use Casemates only.
-- **Update command**: `uv run lex update lu` (or `--id <law-id>`)
+- **Update command**: `uv run lex update lu` (or `--id <law-id>` / `--from-file …`)
 - **Reviewer credits**: Maintainer review required before merge
 - **Stage 1B selection**: [`STAGE_1B_SELECTION.md`](STAGE_1B_SELECTION.md) (approved — implemented)
 - **Stage 2 expansion**: [`STAGE_2.md`](STAGE_2.md) (inventory gate → batch ID manifests)
@@ -29,3 +29,7 @@
 | `lu/rgd-2024-12-20-a595` | RGD du 20 décembre 2024 (consol.) | official_consolidation | Rectification warning |
 | `lu/code-travail` | Code du travail | official_consolidation | Large corpus |
 | `lu/code-procedure-civile` | Nouveau Code de procédure civile | official_consolidation | Deep hierarchy |
+| `lu/code-consommation` | Code de la consommation | official_consolidation | Stage 2 batch 04 |
+| `lu/code-fonction-publique` | Code de la fonction publique | official_consolidation | Stage 2 batch 04 |
+| `lu/code-instruction-criminelle` | Code d'Instruction Criminelle | official_consolidation | Stage 2 batch 04 |
+| `lu/code-procedure-penale` | Code de procédure pénale | official_consolidation | Stage 2 batch 04 |
