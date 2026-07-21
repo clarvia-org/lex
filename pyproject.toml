@@ -7,7 +7,9 @@ license = "Apache-2.0"
 readme = "README.md"
 dependencies = [
     "click>=8.1,<9",
+    "httpx>=0.28,<1",
     "jsonschema>=4.23,<5",
+    "lxml>=5.3,<6",
     "PyYAML>=6.0,<7",
 ]
 
@@ -20,6 +22,7 @@ dev = [
     "pytest>=8.3,<9",
     "pytest-cov>=6,<7",
     "ruff>=0.9,<1",
+    "types-lxml>=2024.12.0",
     "types-PyYAML>=6.0,<7",
 ]
 
