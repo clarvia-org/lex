@@ -4,7 +4,7 @@
 - **Official entry point**: https://legilux.public.lu/
 - **Data access**: Casemates open-data layer (`sparqlendpoint` + filestore). See [CASEMATES.md](CASEMATES.md).
 - **Rights**: CC-BY-4.0 with attribution to Service central de législation, Luxembourg
-- **Coverage**: Partial — Stage 1B + Stage 2 batches `04-codes` … `10-health-welfare` (552 discoverable IDs)
+- **Coverage**: Partial — Stage 1B + Stage 2 batches `04-codes` … `11-environment-energy` (627 discoverable IDs)
 - **Supported families**: Codes, ordinary laws, grand-ducal / government acts, constitution (LegalDocML/XML; one HTML Journal memorial)
 - **Default language**: French (Constitution also published in German)
 - **Source selection**: Prefer complete LegalDocML/XML; HTML retained when selected (see Stage 1B)
@@ -40,3 +40,4 @@
 | *(+105)* | Commercial, corporate & finance | official_consolidation | Stage 2 batch 08 — see `batches/08-commercial-finance.txt` |
 | *(+59)* | Tax, customs & public finance | official_consolidation | Stage 2 batch 09 — see `batches/09-tax-finance.txt` |
 | *(+46)* | Health, welfare & family support | official_consolidation | Stage 2 batch 10 — see `batches/10-health-welfare.txt` |
+| *(+75)* | Environment, agriculture & energy | official_consolidation | Stage 2 batch 11 — see `batches/11-environment-energy.txt` |
