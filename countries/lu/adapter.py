@@ -78,6 +78,7 @@ ACTIVE_BATCHES: frozenset[str] = frozenset(
         "stage-1b",
         "04-codes",
         "05-state-admin",
+        "06-civil-family",
     }
 )
 
