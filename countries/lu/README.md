@@ -4,8 +4,8 @@
 - **Official entry point**: https://legilux.public.lu/
 - **Data access**: Casemates open-data layer (`sparqlendpoint` + filestore). See [CASEMATES.md](CASEMATES.md).
 - **Rights**: CC-BY-4.0 with attribution to Service central de législation, Luxembourg
-- **Coverage**: Partial — Stage 1B ten-law slice + Stage 2 remaining official codes
-- **Supported families**: Codes, ordinary laws, grand-ducal regulations, constitution (LegalDocML/XML; one HTML Journal memorial)
+- **Coverage**: Partial — Stage 1B + Stage 2 batches `04-codes` and `05-state-admin` (230 discoverable IDs)
+- **Supported families**: Codes, ordinary laws, grand-ducal / government acts, constitution (LegalDocML/XML; one HTML Journal memorial)
 - **Default language**: French (Constitution also published in German)
 - **Source selection**: Prefer complete LegalDocML/XML; HTML retained when selected (see Stage 1B)
 - **Known caveats**: The public Legilux website is an Angular SPA and must not be scraped. Use Casemates only.
@@ -13,18 +13,19 @@
 - **Reviewer credits**: Maintainer review required before merge
 - **Stage 1B selection**: [`STAGE_1B_SELECTION.md`](STAGE_1B_SELECTION.md) (approved — implemented)
 - **Stage 2 expansion**: [`STAGE_2.md`](STAGE_2.md) (inventory gate → batch ID manifests)
+- **Adapter registry**: catalog-backed via `batches/catalog.jsonl` + `ACTIVE_BATCHES` in `adapter.py`
 
 
 ## Published laws
 
 | ID | Title | Status | Notes |
 |---|---|---|---|
-| `lu/code-civil` | Code civil | official_consolidation | Stage 1A |
+| `lu/code-civil` | Code civil | official_consolidation | Stage 1A (`resolve_latest`) |
 | `lu/loi-2006-09-21-n1` | Loi du 21 septembre 2006 (consol.) | official_consolidation | Ordinary law |
 | `lu/rgd-2025-03-13-a93` | RGD du 13 mars 2025 (consol.) | official_consolidation | Regulation |
 | `lu/code-commerce` | Code de commerce | official_consolidation | Second code |
 | `lu/constitution` | Constitution | official_consolidation | FR + DE |
-| `lu/loi-2024-07-31-a339` | Loi du 31 juillet 2024 | official_current | HTML source |
+| `lu/loi-2024-07-31-a339` | Loi du 31 juillet 2024 | official_current | HTML Journal memorial |
 | `lu/code-penal` | Code pénal | official_consolidation | Irregular anchors |
 | `lu/rgd-2024-12-20-a595` | RGD du 20 décembre 2024 (consol.) | official_consolidation | Rectification warning |
 | `lu/code-travail` | Code du travail | official_consolidation | Large corpus |
@@ -33,3 +34,4 @@
 | `lu/code-fonction-publique` | Code de la fonction publique | official_consolidation | Stage 2 batch 04 |
 | `lu/code-instruction-criminelle` | Code d'Instruction Criminelle | official_consolidation | Stage 2 batch 04 |
 | `lu/code-procedure-penale` | Code de procédure pénale | official_consolidation | Stage 2 batch 04 |
+| *(+216)* | Constitutional & state administration | official_consolidation | Stage 2 batch 05 — see `batches/05-state-admin.txt` |

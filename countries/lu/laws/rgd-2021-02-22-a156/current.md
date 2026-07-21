@@ -1,0 +1,142 @@
+---
+id: lu/rgd-2021-02-22-a156
+country: lu
+title: 'Version consolidée applicable au 16/10/2022 : Règlement grand-ducal du 22
+  février 2021 fixant les programmes de la formation spéciale et les modalités de
+  l’examen de fin de stage sanctionnant la formation spéciale en vue de l’admission
+  définitive des fonctionnaires stagiaires relevant des différentes catégories de
+  traitement auprès de l’Institut de formation de l’Éducation nationale.'
+language: fr
+document_type: regulation
+status: official_consolidation
+official_id: rgd/2021/02/22/a156
+eli_uri: http://data.legilux.public.lu/eli/etat/leg/rgd/2021/02/22/a156/consolide/20221016
+source_url: https://data.legilux.public.lu/filestore/eli/etat/leg/rgd/2021/02/22/a156/consolide/20221016/fr/xml/eli-etat-leg-rgd-2021-02-22-a156-consolide-20221016-fr-xml.xml
+source_file: source.xml
+source_sha256: 0cd4e726cdbe321dbb1226b953da6fe02b2af2d527e381102989de5fbdb4e4aa
+source_license: CC-BY-4.0
+source_attribution: Service central de législation, Luxembourg
+source_terms_url: https://data.legilux.public.lu/home/intro
+rights_reviewed_at: '2026-07-21'
+published_at: '2021-02-26'
+consolidated_at: '2022-10-16'
+retrieved_at: '2026-07-21T20:49:28Z'
+warning: Official consolidation. Cite the official ELI URI and publisher; lex is not
+  the legal authority.
+---
+
+# Version consolidée applicable au 16/10/2022 : Règlement grand-ducal du 22 février 2021 fixant les programmes de la formation spéciale et les modalités de l’examen de fin de stage sanctionnant la formation spéciale en vue de l’admission définitive des fonctionnaires stagiaires relevant des différentes catégories de traitement auprès de l’Institut de formation de l’Éducation nationale.
+
+#### Chapitre 1er Programme de la formation spéciale
+
+<a id="art-1er"></a>
+## Art. 1er.
+
+La formation spéciale des stagiaires des catégories de traitement suivantes :
+
+a une durée totale fixée à soixante heures et comprend des modules dont la durée est fixée comme suit :
+
+Module de formation Durée Module 1 : Organisation, m issions et attributions de l’administration Connaissance du monde de l’Éducation nationale : organigramme, structure des services du ministère de l’Éducation nationale, de l’Enfance et de la Jeunesse, cadre et structure du personnel en vue d’assurer son rôle et ses missions. 4 heures Dispositions légales et règlementaires de l’administration : connaissance de la loi modifiée du 30 juillet 2015 portant création d’un Institut de formation de l’Éducation nationale et des règlements grand-ducaux pris en son exécution ; organisation détaillée, structure et fonctionnement. 6 heures Gestion du temps dans l’administration : familiariser le fonctionnaire stagiaire avec les heures d’ouverture définies par la direction (horaire, roulement, permanence, …), système de mesure du temps de travail en place, règles de l’horaire mobile et application de ces règles, régime des congés. 2 heures Module 2 : Missions et attributions du fonctionnaire stagiaire Plan d’insertion professionnelle : familiariser le fonctionnaire stagiaire avec le plan d’insertion professionnelle, le rôle et les missions du patron de stage, l’utilisation et la structure du carnet de stage, présentation du livret d’accueil. 2 heures Domaine d’activité et missions du fonctionnaire stagiaire : initier de façon détaillée le fonctionnaire stagiaire à ses missions et attributions, ainsi qu’à la gestion de la qualité. 10 heures Module 3 : Identité professionnelle Construire son identité professionnelle : familiariser le fonctionnaire stagiaire avec la vision, les valeurs et règles déontologiques partagées au sein de l’administration ; le soutenir dans la construction de son identité professionnelle et l’aider à trouver sa place dans l’institution. 10 heures Module 4 : Gestion de l’administration Gestion des procédures internes : familiariser le fonctionnaire stagiaire avec les procédures internes existantes et avec la manière selon laquelle ces procédures sont gérées et mises en pratique. 12 heures Outils de travail, bureautique et sécurité informatique : familiariser le fonctionnaire stagiaire avec les outils de travail et les outils bureautiques et informatiques en place dans l’administration, ainsi qu’avec les règles de sécurité informatique appliquées. 12 heures Travail collaboratif : familiariser le fonctionnaire stagiaire avec la manière dont le travail collaboratif (en équipe, en réseau, etc.) est organisé dans l’administration. 2 heures
+
+<a id="art-1bis"></a>
+## Art. 1bis.
+
+La formation spéciale des stagiaires de la catégorie de traitement B, groupe de traitement B1, sous-groupe administratif, sous-groupe technique, sous-groupe éducatif et psycho-social, ainsi que sous-groupe à attributions particulières a une durée totale fixée à cent heures et comprend des modules dont la durée est fixée comme suit :
+
+Module de formation Durée Module 1 : Organisation, missions et attributions de l’administration Connaissance du monde de l’Éducation nationale : organigramme, structure des services du ministère de l’Éducation nationale, de l’Enfance et de la Jeunesse, cadre et structure du personnel en vue d’assurer son rôle et ses missions. 4 heures Dispositions légales et règlementaires de l’administration : connaissance de la loi modifiée du 30 juillet 2015 portant création d’un Institut de formation de l’éducation nationale et des règlements grand-ducaux pris en son exécution ; organisation détaillée, structure et fonctionnement. 6 heures Gestion du temps dans l’administration : familiariser le fonctionnaire stagiaire avec les heures d’ouverture définies par la direction (horaire, roulement, permanence, …), système de mesure du temps de travail en place, règles de l’horaire mobile et application de ces règles, régime des congés. 2 heures Module 2 : Missions et attributions du fonctionnaire stagiaire Plan d’insertion professionnelle : familiariser le fonctionnaire stagiaire avec le plan d’insertion professionnelle, le rôle et les missions du patron de stage, l’utilisation et la structure du carnet de stage, présentation du livret d’accueil. 2 heures Domaine d’activité et missions du fonctionnaire stagiaire : initier de façon détaillée le fonctionnaire stagiaire à ses missions et attributions, ainsi qu’à la gestion de la qualité. 10 heures Module 3 : Identité professionnelle Construire son identité professionnelle : familiariser le fonctionnaire stagiaire avec la vision, les valeurs et règles déontologiques partagées au sein de l’administration ; le soutenir dans la construction de son identité professionnelle et l’aider à trouver sa place dans l’institution. 10 heures Module 4 : Gestion de l’administration Gestion des procédures internes : familiariser le fonctionnaire stagiaire avec les procédures internes existantes et avec la manière selon laquelle ces procédures sont gérées et mises en pratique. 22 heures Outils de travail, bureautique et sécurité informatique : familiariser le fonctionnaire stagiaire avec les outils de travail et les outils bureautiques et informatiques en place dans l’administration, ainsi qu’avec les règles de sécurité informatique appliquées. 42 heures Travail collaboratif : familiariser le fonctionnaire stagiaire avec la manière dont le travail collaboratif (en équipe, en réseau, etc.) est organisé dans l’administration. 2 heures
+
+#### Chapitre 2 Organisation de la formation spéciale
+
+<a id="art-2"></a>
+## Art. 2.
+
+#### Chapitre 3 Modalités de l’examen de fin de formation spéciale
+
+<a id="art-3"></a>
+## Art. 3.
+
+<a id="art-4"></a>
+## Art. 4.
+
+Les modules sanctionnés par un examen de fin de formation spéciale et le nombre maximal de points à attribuer à chaque épreuve sont fixés comme suit :
+
+Épreuves portant sur les modules de formation suivants Points Durée Module 1 : Organisation, m issions et attributions de l’administration Connaissance du monde de l’Éducation nationale 60 30 min. Dispositions légales et règlementaires de l’administration 60 60 min. Module 2 : Missions et attributions du fonctionnaire stagiaire Domaine d’activité et missions du fonctionnaire stagiaire 60 30 min. Module 4 : Gestion de l’administration Gestion des procédures internes 60 30 min. Outils de travail, bureautique et sécurité informatique 60 30 min. TOTAL 300
+
+<a id="art-5"></a>
+## Art. 5.
+
+L’appréciation de la réussite ou de l’échec de l’examen de fin de formation spéciale se fait conformément aux dispositions du règlement grand-ducal du 31 octobre 2018 portant organisation de la formation pendant le stage pour les fonctionnaires stagiaires de l’État et des établissements publics de l’État ainsi que du cycle de formation de début de carrière des employés de l’État.
+
+<a id="art-6"></a>
+## Art. 6.
+
+Le procès-verbal visé à l’article 5, paragraphe 16, du règlement grand-ducal précité du 13 avril 1984 est dressé au plus tard au cours du troisième mois qui précède la fin du stage.
+
+#### Chapitre 4 Dispense de formation
+
+<a id="art-7"></a>
+## Art. 7.
+
+Une dispense de formation peut être accordée conformément aux dispositions de l’article 18 alinéas 1er et 2, du règlement grand-ducal précité du 31 octobre 2018.
+
+#### Chapitre 4bis Formation et examen de promotion
+
+##### Section 1ère Formation préparatoire à l’examen de promotion
+
+<a id="art-7bis"></a>
+## Art. 7bis.
+
+Pour les fonctionnaires de la catégorie de traitement B, la durée de la formation préparatoire à l’examen de promotion est fixée à soixante-douze heures. Le contenu des formations et le nombre d’heures de formation y afférents sont fixés comme suit :
+
+Module de formation Durée Module 1 : Organisation, missions et attributions de l’administration Connaissance du monde de l’Éducation nationale : organigramme, structure des services du ministère de l’Éducation nationale, de l’Enfance et de la Jeunesse, cadre et structure du personnel en vue d’assurer son rôle et ses missions. 6 heures Dispositions légales et règlementaires de l’administration : connaissance de la loi modifiée du 30 juillet 2015 portant création d’un Institut de formation de l’éducation nationale et des règlements grand-ducaux pris en son exécution ; organisation détaillée, structure et fonctionnement. 6 heures Module 2 : Gestion des procédures internes : connaissance des procédures internes existantes et de la manière selon laquelle ces procédures sont gérées et mises en pratique. 21 heures Module 3 : Outils de travail, bureautique et sécurité informatique : connaissance des outils de travail et les outils bureautiques et informatiques en place dans l’administration, ainsi qu’avec les règles de sécurité informatique appliquées. 21 heures Module 4 : Protection des données et archivage Protection des données : connaissance de la politique de confidentialité et de protection des données à caractère personnel de l’administration. 9 heures Archivage : connaissance du tableau de tri, du cycle de vie des documents, de la gestion des archives papier et des archives électroniques. 9 heures
+
+<a id="art-7ter"></a>
+## Art. 7ter.
+
+Pour les fonctionnaires des catégories de traitement C et D, la durée de la formation préparatoire à l’examen de promotion est fixée à soixante-dix-huit heures. Le contenu des formations et le nombre d’heures de formation y afférents sont fixés comme suit :
+
+Module de formation Durée Module 1 : Organisation, missions et attributions de l’administration Connaissance du monde de l’Éducation nationale : organigramme, structure des services du ministère de l’Éducation nationale, de l’Enfance et de la Jeunesse, cadre et structure du personnel en vue d’assurer son rôle et ses missions. 6 heures Dispositions légales et règlementaires de l’administration : connaissance de la loi modifiée du 30 juillet 2015 portant création d’un Institut de formation de l’éducation nationale et des règlements grand-ducaux pris en son exécution ; organisation détaillée, structure et fonctionnement. 6 heures Module 2 : Gestion des procédures internes : connaissance des procédures internes existantes et de la manière selon laquelle ces procédures sont gérées et mises en pratique. 21 heures Module 3 : Outils de travail, bureautique et sécurité informatique : connaissance des outils de travail et les outils bureautiques et informatiques en place dans l’administration, ainsi qu’avec les règles de sécurité informatique appliquées. 21 heures Module 4 : Protection des données et archivage Protection des données : connaissance de la politique de confidentialité et de protection des données à caractère personnel de l’administration. 9 heures Archivage : connaissance du tableau de tri, du cycle de vie des documents, de la gestion des archives papier et des archives électroniques. 9 heures
+
+<a id="art-7quater"></a>
+## Art. 7quater.
+
+##### Section 2 Examen de promotion
+
+<a id="art-7quinquies"></a>
+## Art. 7quinquies.
+
+<a id="art-7sexies"></a>
+## Art. 7sexies.
+
+<a id="art-7septies"></a>
+## Art. 7septies.
+
+Le travail de promotion consiste en un travail d’analyse et de réflexion sur un sujet en relation avec les attributions du fonctionnaire.
+
+Le sujet du travail de promotion, choisi par le président de la commission d’examen, sa date de remise et sa date de présentation orale sont communiqués au fonctionnaire, qui dispose d’un délai minimum de trois mois pour son élaboration.
+
+L’appréciation du travail de promotion est faite par au moins deux membres de la commission.
+
+À la date fixée par le président, le fonctionnaire présente son travail de promotion oralement et de façon succincte aux membres de la commission, qui le discutent avec le fonctionnaire.
+
+Après délibération, la commission établit la note finale.
+
+<a id="art-7octies"></a>
+## Art. 7octies.
+
+Le maximum de points à attribuer s’élève, pour chaque épreuve de l’examen de promotion, à soixante points. Est considérée comme une note suffisante, pour chaque épreuve de l’examen, un nombre total de points supérieur ou égal à trente.
+
+A réussi à l’examen de promotion le fonctionnaire qui a obtenu au moins les trois cinquièmes du nombre total des points pouvant être obtenus dans le cadre de cet examen et une note suffisante dans chacune des épreuves de l’examen de promotion.
+
+A échoué à l’examen de promotion le fonctionnaire qui n’a pas obtenu au moins les trois cinquièmes du nombre total des points pouvant être obtenus dans le cadre de cet examen ou qui a obtenu une note insuffisante dans plus d’une épreuve de l’examen de promotion.
+
+Est ajourné à une épreuve de l’examen de promotion le fonctionnaire qui a obtenu au moins les trois cinquièmes du nombre total des points pouvant être obtenus dans le cadre de cet examen et une seule note insuffisante dans l’épreuve de l’examen de promotion concernée.
+
+A échoué à l’examen de promotion le fonctionnaire qui n’a pas obtenu une note suffisante dans l’épreuve dans laquelle il a été ajourné.
+
+#### Chapitre 5 Dispositions finales
+
+<a id="art-8"></a>
+## Art. 8.
+
+Notre ministre ayant l’Institut de formation de l’Éducation nationale dans ses attributions et Notre ministre ayant la Fonction publique dans ses attributions sont chargés, chacun en ce qui le concerne, de l’exécution du présent règlement qui sera publié au Journal officiel du Grand-Duché de Luxembourg.

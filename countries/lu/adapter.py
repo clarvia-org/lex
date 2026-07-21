@@ -1,4 +1,4 @@
-"""Luxembourg Casemates adapter — Stage 1B slice + Stage 2 remaining codes."""
+"""Luxembourg Casemates adapter — Stage 1B + Stage 2 catalog-backed registry."""
 
 from __future__ import annotations
 
@@ -7,6 +7,7 @@ import re
 from collections.abc import Sequence
 from dataclasses import dataclass
 from datetime import UTC, date, datetime
+from pathlib import Path
 from typing import Any, Literal
 from urllib.parse import urlencode
 
@@ -71,100 +72,93 @@ class LawSpec:
     warning_mode: Literal["default", "rectification", "current"] = "default"
 
 
-# Stage 1B (10) + Stage 2 batch 04-codes (4 remaining official codes).
-LAWS: tuple[LawSpec, ...] = (
-    LawSpec(
-        id="lu/code-civil",
-        document_type="code",
+# Batches included in discover(). Grow this as Stage 2 PRs merge.
+ACTIVE_BATCHES: frozenset[str] = frozenset(
+    {
+        "stage-1b",
+        "04-codes",
+        "05-state-admin",
+    }
+)
+
+_ELI_PREFIX = "http://data.legilux.public.lu/eli/"
+_LEG_PREFIX = "http://data.legilux.public.lu/eli/etat/leg/"
+_CATALOG_PATH = Path(__file__).resolve().parent / "batches" / "catalog.jsonl"
+
+_FAMILY_DOCUMENT_TYPE: dict[str, str] = {
+    "code": "code",
+    "constitution": "constitution",
+    "loi": "law",
+}
+
+
+def _filestore_url(work_eli: str, language: str, fmt: FormatName) -> str:
+    if not work_eli.startswith(_ELI_PREFIX):
+        raise ValueError(f"Unexpected work ELI: {work_eli}")
+    path = work_eli[len(_ELI_PREFIX) :]
+    slug = f"eli-{path.replace('/', '-')}-{language}-{fmt}.{fmt}"
+    return f"http://data.legilux.public.lu/filestore/eli/{path}/{language}/{fmt}/{slug}"
+
+
+def _official_id_from_work(work_eli: str) -> str:
+    clean = re.sub(r"/consolide/\d{8}$", "", work_eli.rstrip("/"))
+    clean = re.sub(r"/\d{8}$", "", clean)
+    if clean.startswith(_LEG_PREFIX):
+        return clean[len(_LEG_PREFIX) :]
+    return clean
+
+
+def _document_type_for(family: str) -> str:
+    return _FAMILY_DOCUMENT_TYPE.get(family, "regulation")
+
+
+def _title_fallback(title: str, stable_id: str) -> str:
+    cleaned = title.strip()
+    if cleaned:
+        return cleaned
+    return stable_id.removeprefix("lu/")
+
+
+def _spec_from_catalog_row(row: dict[str, Any]) -> LawSpec:
+    stable_id = str(row["stable_id"])
+    work_eli = str(row["work_eli"])
+    title = str(row.get("title") or "")
+    family = str(row.get("document_family") or "loi")
+    preferred = str(row.get("preferred_format") or "xml")
+    if preferred not in {"xml", "html"}:
+        raise ValueError(f"{stable_id}: unsupported preferred_format {preferred}")
+    fmt: FormatName = "html" if preferred == "html" else "xml"
+    warning_mode: Literal["default", "rectification", "current"] = (
+        "rectification" if "rectifi" in title.casefold() else "default"
+    )
+    languages: tuple[str, ...] = ("fr", "de") if stable_id == "lu/constitution" else ("fr",)
+    sources = {lang: _filestore_url(work_eli, lang, fmt) for lang in languages}
+    official_id = _official_id_from_work(work_eli)
+    if family == "code":
+        # Prefer a short human label when the catalog title is a long consolidation banner.
+        short = title.split(":", 1)[-1].strip() if ":" in title else title
+        if short.lower().startswith("code"):
+            official_id = short
+        elif stable_id.startswith("lu/code-"):
+            official_id = "Code " + stable_id.removeprefix("lu/code-").replace("-", " ")
+    elif stable_id == "lu/constitution":
+        official_id = "Constitution"
+    return LawSpec(
+        id=stable_id,
+        document_type=_document_type_for(family),
         status="official_consolidation",
-        format="xml",
-        languages=("fr",),
-        title_fallback="Code civil",
-        official_id="Code civil",
-        work_eli="http://data.legilux.public.lu/eli/etat/leg/code/civil",
-        sources={},
-        resolve_latest=True,
-        eli_fragment="eli/etat/leg/code/civil/",
-    ),
-    LawSpec(
-        id="lu/loi-2006-09-21-n1",
-        document_type="law",
-        status="official_consolidation",
-        format="xml",
-        languages=("fr",),
-        title_fallback="Loi du 21 septembre 2006",
-        official_id="loi/2006/09/21/n1",
-        work_eli=(
-            "http://data.legilux.public.lu/eli/etat/leg/loi/2006/09/21/n1/consolide/20240801"
-        ),
-        sources={
-            "fr": (
-                "http://data.legilux.public.lu/filestore/eli/etat/leg/loi/2006/09/21/n1/"
-                "consolide/20240801/fr/xml/"
-                "eli-etat-leg-loi-2006-09-21-n1-consolide-20240801-fr-xml.xml"
-            ),
-        },
-    ),
-    LawSpec(
-        id="lu/rgd-2025-03-13-a93",
-        document_type="regulation",
-        status="official_consolidation",
-        format="xml",
-        languages=("fr",),
-        title_fallback="Règlement grand-ducal du 13 mars 2025",
-        official_id="rgd/2025/03/13/a93",
-        work_eli=(
-            "http://data.legilux.public.lu/eli/etat/leg/rgd/2025/03/13/a93/consolide/20250321"
-        ),
-        sources={
-            "fr": (
-                "http://data.legilux.public.lu/filestore/eli/etat/leg/rgd/2025/03/13/a93/"
-                "consolide/20250321/fr/xml/"
-                "eli-etat-leg-rgd-2025-03-13-a93-consolide-20250321-fr-xml.xml"
-            ),
-        },
-    ),
-    LawSpec(
-        id="lu/code-commerce",
-        document_type="code",
-        status="official_consolidation",
-        format="xml",
-        languages=("fr",),
-        title_fallback="Code de commerce",
-        official_id="Code de commerce",
-        work_eli="http://data.legilux.public.lu/eli/etat/leg/code/commerce/20230201",
-        sources={
-            "fr": (
-                "http://data.legilux.public.lu/filestore/eli/etat/leg/code/commerce/"
-                "20230201/fr/xml/eli-etat-leg-code-commerce-20230201-fr-xml.xml"
-            ),
-        },
-    ),
-    LawSpec(
-        id="lu/constitution",
-        document_type="constitution",
-        status="official_consolidation",
-        format="xml",
-        languages=("fr", "de"),
-        title_fallback="Constitution",
-        official_id="Constitution",
-        work_eli=(
-            "http://data.legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/"
-            "consolide/20230701"
-        ),
-        sources={
-            "fr": (
-                "http://data.legilux.public.lu/filestore/eli/etat/leg/constitution/"
-                "1868/10/17/n1/consolide/20230701/fr/xml/"
-                "eli-etat-leg-constitution-1868-10-17-n1-consolide-20230701-fr-xml.xml"
-            ),
-            "de": (
-                "http://data.legilux.public.lu/filestore/eli/etat/leg/constitution/"
-                "1868/10/17/n1/consolide/20230701/de/xml/"
-                "eli-etat-leg-constitution-1868-10-17-n1-consolide-20230701-de-xml.xml"
-            ),
-        },
-    ),
+        format=fmt,
+        languages=languages,
+        title_fallback=_title_fallback(title, stable_id),
+        official_id=official_id,
+        work_eli=work_eli,
+        sources=sources,
+        warning_mode=warning_mode,
+    )
+
+
+# Journal memorial HTML — not present in the Consolidation catalog.
+_EXTRA_SPECS: tuple[LawSpec, ...] = (
     LawSpec(
         id="lu/loi-2024-07-31-a339",
         document_type="law",
@@ -182,143 +176,64 @@ LAWS: tuple[LawSpec, ...] = (
         },
         warning_mode="current",
     ),
-    LawSpec(
-        id="lu/code-penal",
-        document_type="code",
-        status="official_consolidation",
-        format="xml",
-        languages=("fr",),
-        title_fallback="Code pénal",
-        official_id="Code pénal",
-        work_eli="http://data.legilux.public.lu/eli/etat/leg/code/penal/20250311",
-        sources={
-            "fr": (
-                "http://data.legilux.public.lu/filestore/eli/etat/leg/code/penal/"
-                "20250311/fr/xml/eli-etat-leg-code-penal-20250311-fr-xml.xml"
-            ),
-        },
-    ),
-    LawSpec(
-        id="lu/rgd-2024-12-20-a595",
-        document_type="regulation",
-        status="official_consolidation",
-        format="xml",
-        languages=("fr",),
-        title_fallback="Règlement grand-ducal du 20 décembre 2024",
-        official_id="rgd/2024/12/20/a595",
-        work_eli=(
-            "http://data.legilux.public.lu/eli/etat/leg/rgd/2024/12/20/a595/consolide/20250101"
-        ),
-        sources={
-            "fr": (
-                "http://data.legilux.public.lu/filestore/eli/etat/leg/rgd/2024/12/20/a595/"
-                "consolide/20250101/fr/xml/"
-                "eli-etat-leg-rgd-2024-12-20-a595-consolide-20250101-fr-xml.xml"
-            ),
-        },
-        warning_mode="rectification",
-    ),
-    LawSpec(
-        id="lu/code-travail",
-        document_type="code",
-        status="official_consolidation",
-        format="xml",
-        languages=("fr",),
-        title_fallback="Code du travail",
-        official_id="Code du travail",
-        work_eli="http://data.legilux.public.lu/eli/etat/leg/code/travail/20260701",
-        sources={
-            "fr": (
-                "http://data.legilux.public.lu/filestore/eli/etat/leg/code/travail/"
-                "20260701/fr/xml/eli-etat-leg-code-travail-20260701-fr-xml.xml"
-            ),
-        },
-    ),
-    LawSpec(
-        id="lu/code-procedure-civile",
-        document_type="code",
-        status="official_consolidation",
-        format="xml",
-        languages=("fr",),
-        title_fallback="Nouveau Code de procédure civile",
-        official_id="Code de procédure civile",
-        work_eli="http://data.legilux.public.lu/eli/etat/leg/code/procedure_civile/20251219",
-        sources={
-            "fr": (
-                "http://data.legilux.public.lu/filestore/eli/etat/leg/code/procedure_civile/"
-                "20251219/fr/xml/eli-etat-leg-code-procedure_civile-20251219-fr-xml.xml"
-            ),
-        },
-    ),
-    LawSpec(
-        id="lu/code-consommation",
-        document_type="code",
-        status="official_consolidation",
-        format="xml",
-        languages=("fr",),
-        title_fallback="Code de la consommation",
-        official_id="Code de la consommation",
-        work_eli="http://data.legilux.public.lu/eli/etat/leg/code/consommation/20260515",
-        sources={
-            "fr": (
-                "http://data.legilux.public.lu/filestore/eli/etat/leg/code/consommation/"
-                "20260515/fr/xml/eli-etat-leg-code-consommation-20260515-fr-xml.xml"
-            ),
-        },
-    ),
-    LawSpec(
-        id="lu/code-fonction-publique",
-        document_type="code",
-        status="official_consolidation",
-        format="xml",
-        languages=("fr",),
-        title_fallback="Code de la fonction publique",
-        official_id="Code de la fonction publique",
-        work_eli="http://data.legilux.public.lu/eli/etat/leg/code/fonction_publique/20260612",
-        sources={
-            "fr": (
-                "http://data.legilux.public.lu/filestore/eli/etat/leg/code/fonction_publique/"
-                "20260612/fr/xml/eli-etat-leg-code-fonction_publique-20260612-fr-xml.xml"
-            ),
-        },
-    ),
-    LawSpec(
-        id="lu/code-instruction-criminelle",
-        document_type="code",
-        status="official_consolidation",
-        format="xml",
-        languages=("fr",),
-        title_fallback="Code d'Instruction Criminelle",
-        official_id="Code d'Instruction Criminelle",
-        work_eli=(
-            "http://data.legilux.public.lu/eli/etat/leg/code/instruction_criminelle/20161001"
-        ),
-        sources={
-            "fr": (
-                "http://data.legilux.public.lu/filestore/eli/etat/leg/code/"
-                "instruction_criminelle/20161001/fr/xml/"
-                "eli-etat-leg-code-instruction_criminelle-20161001-fr-xml.xml"
-            ),
-        },
-    ),
-    LawSpec(
-        id="lu/code-procedure-penale",
-        document_type="code",
-        status="official_consolidation",
-        format="xml",
-        languages=("fr",),
-        title_fallback="Code de procédure pénale",
-        official_id="Code de procédure pénale",
-        work_eli="http://data.legilux.public.lu/eli/etat/leg/code/procedure_penale/20260607",
-        sources={
-            "fr": (
-                "http://data.legilux.public.lu/filestore/eli/etat/leg/code/procedure_penale/"
-                "20260607/fr/xml/eli-etat-leg-code-procedure_penale-20260607-fr-xml.xml"
-            ),
-        },
-    ),
 )
 
+# Per-ID overrides applied after catalog load (wins over catalog defaults).
+_SPEC_OVERRIDES: dict[str, dict[str, Any]] = {
+    "lu/code-civil": {
+        "official_id": "Code civil",
+        "title_fallback": "Code civil",
+        "work_eli": "http://data.legilux.public.lu/eli/etat/leg/code/civil",
+        "sources": {},
+        "resolve_latest": True,
+        "eli_fragment": "eli/etat/leg/code/civil/",
+    },
+    "lu/constitution": {
+        "official_id": "Constitution",
+        "title_fallback": "Constitution",
+    },
+    "lu/rgd-2024-12-20-a595": {
+        "warning_mode": "rectification",
+    },
+}
+
+
+def _load_laws() -> tuple[LawSpec, ...]:
+    by_id: dict[str, LawSpec] = {spec.id: spec for spec in _EXTRA_SPECS}
+    with _CATALOG_PATH.open(encoding="utf-8") as handle:
+        for line in handle:
+            line = line.strip()
+            if not line:
+                continue
+            row = json.loads(line)
+            if row.get("skip_reason"):
+                continue
+            if row.get("batch") not in ACTIVE_BATCHES:
+                continue
+            spec = _spec_from_catalog_row(row)
+            by_id[spec.id] = spec
+    for law_id, overrides in _SPEC_OVERRIDES.items():
+        base = by_id.get(law_id)
+        if base is None:
+            continue
+        by_id[law_id] = LawSpec(
+            id=base.id,
+            document_type=overrides.get("document_type", base.document_type),
+            status=overrides.get("status", base.status),
+            format=overrides.get("format", base.format),
+            languages=overrides.get("languages", base.languages),
+            title_fallback=overrides.get("title_fallback", base.title_fallback),
+            official_id=overrides.get("official_id", base.official_id),
+            work_eli=overrides.get("work_eli", base.work_eli),
+            sources=overrides.get("sources", base.sources),
+            resolve_latest=overrides.get("resolve_latest", base.resolve_latest),
+            eli_fragment=overrides.get("eli_fragment", base.eli_fragment),
+            warning_mode=overrides.get("warning_mode", base.warning_mode),
+        )
+    return tuple(sorted(by_id.values(), key=lambda spec: spec.id))
+
+
+LAWS: tuple[LawSpec, ...] = _load_laws()
 LAWS_BY_ID: dict[str, LawSpec] = {spec.id: spec for spec in LAWS}
 
 
@@ -405,10 +320,12 @@ class LuxembourgAdapter:
                 title = meta_title
             pub = _jolux_value(root, "publicationDate")
             if pub:
-                published_at = date.fromisoformat(pub)
+                published_at = _parse_jolux_date(pub) or published_at
             applicability = _jolux_value(root, "dateApplicability")
             if applicability:
-                consolidated_at = date.fromisoformat(applicability)
+                parsed = _parse_jolux_date(applicability)
+                if parsed is not None:
+                    consolidated_at = parsed
             if spec.warning_mode == "rectification":
                 warning = _rectification_warning(root, title)
         else:
@@ -521,8 +438,11 @@ class LuxembourgAdapter:
                     self._walk(child, lines)
 
     def _emit_article(self, article: etree._Element, lines: list[str]) -> None:
-        raw_id = article.get("id") or _child_text(article, "num") or "article"
-        anchor = normalize_anchor(raw_id)
+        xml_id = article.get("id")
+        raw_id = xml_id or _child_text(article, "num") or "article"
+        # Casemates sometimes distinguishes ids only by a trailing separator
+        # (e.g. art_5- vs art_5). Preserve that marker after normalization.
+        anchor = _normalize_xml_article_id(xml_id) if xml_id else normalize_anchor(raw_id)
         num = _child_text(article, "num") or raw_id
         lines.append(f'<a id="{anchor}"></a>')
         lines.append(f"## {num}")
@@ -656,6 +576,59 @@ def _date_from_work_uri(work_uri: str) -> date | None:
         return None
     raw = match.group(1)
     return date(int(raw[0:4]), int(raw[4:6]), int(raw[6:8]))
+
+
+_FR_MONTHS = {
+    "janvier": 1,
+    "fevrier": 2,
+    "février": 2,
+    "mars": 3,
+    "avril": 4,
+    "mai": 5,
+    "juin": 6,
+    "juillet": 7,
+    "aout": 8,
+    "août": 8,
+    "septembre": 9,
+    "octobre": 10,
+    "novembre": 11,
+    "decembre": 12,
+    "décembre": 12,
+}
+
+
+def _parse_jolux_date(raw: str) -> date | None:
+    """Parse Jolux date values (ISO or French long form)."""
+    text = raw.strip()
+    if not text:
+        return None
+    if re.fullmatch(r"\d{4}-\d{2}-\d{2}", text):
+        return date.fromisoformat(text)
+    if re.fullmatch(r"\d{8}", text):
+        return date(int(text[0:4]), int(text[4:6]), int(text[6:8]))
+    match = re.fullmatch(
+        r"(\d{1,2}|1er)\s+([A-Za-zéûôà]+)\s+(\d{4})",
+        text,
+        flags=re.IGNORECASE,
+    )
+    if match:
+        day_raw = match.group(1).casefold()
+        day = 1 if day_raw == "1er" else int(day_raw)
+        month = _FR_MONTHS.get(match.group(2).casefold())
+        year = int(match.group(3))
+        if month is not None:
+            return date(year, month, day)
+    return None
+
+
+def _normalize_xml_article_id(xml_id: str) -> str:
+    """Normalize an AKN/Casemates article @id, preserving trailing separators."""
+    lowered = xml_id.strip().lower()
+    trailing_marker = bool(re.search(r"[^a-z0-9]+$", lowered))
+    collapsed = re.sub(r"[^a-z0-9]+", "-", lowered).strip("-")
+    if trailing_marker and collapsed:
+        return f"{collapsed}-"
+    return collapsed
 
 
 def _jolux_value(root: etree._Element, name: str) -> str | None:
