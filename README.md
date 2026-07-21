@@ -47,7 +47,7 @@ uv run lex check
 
 | Country | Laws | Notes |
 |---|---|---|
-| Luxembourg (`lu`) | `code-civil` | Partial coverage — filesystem is the list |
+| Luxembourg (`lu`) | Stage 1B ten-law slice (`code-civil` + 9) | Partial — Casemates only; see `countries/lu/README.md` |
 
 ## The contract
 
