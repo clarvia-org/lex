@@ -1529,23 +1529,62 @@ The second unchanged `lex update lu --id lu/code-civil` must produce a clean Git
 
 A reviewer must verify the complete pipeline against the official source.
 
-### Stage 1B — Luxembourg ten-law slice
+### Stage 1B — Luxembourg representative ten-law slice
 
-Stage 1B is **not authorized by this revision**.
+Add nine additional Luxembourg laws, for ten total.
 
-Before Stage 1B starts, the maintainer must amend this blueprint with:
+The nine laws must be selected to exercise materially different source and normalization cases. The selection must include, where available:
 
-- the exact nine additional stable IDs;
-- the exact document families;
-- any additional source formats;
-- required parser edge cases;
-- acceptance anchors for provision retrieval.
+1. an ordinary law;
+2. a grand-ducal regulation;
+3. a code other than the Code civil;
+4. the Constitution;
+5. a document with multiple official languages;
+6. a document whose preferred retained source is HTML;
+7. a document with nested or irregular provision structure;
+8. a document carrying an official consolidation warning or known freshness limitation;
+9. a large or structurally complex document.
 
-Agents must not select the nine laws themselves.
+Before implementation, the Stage 1B pull request or linked issue must list:
 
-### Stage 2 — Luxembourg expansion
+- each proposed stable ID;
+- its official source URL;
+- its document family;
+- its selected source format;
+- the edge case it is intended to test;
+- at least one provision anchor to verify.
 
-Stage 2 is blocked until Stage 1B is accepted and this blueprint defines the supported Luxembourg document-family scope.
+The maintainer must approve that list before code or data for the nine laws is merged. A blueprint amendment is not required unless the implementation would change a global contract, schema, CLI behavior, storage rule, licence rule, or adapter interface.
+
+Stage 1B is complete when all ten laws pass the same validation and deterministic-update guarantees established in Stage 1A.
+
+### Stage 2 — Luxembourg coverage expansion
+
+Expand Luxembourg coverage using the accepted Luxembourg adapter and data contract.
+
+Agents may add laws through ordinary pull requests when all of the following are true:
+
+- the law is retrieved from an approved official source;
+- the retained source format is supported by the accepted adapter;
+- normalization requires no change to the global schema or Markdown contract;
+- source rights and attribution are already covered by the approved Luxembourg source policy;
+- the output passes all validation and conformance tests;
+- a reviewer compares the normalized output against the official source.
+
+A blueprint amendment is required before adding:
+
+- a new Luxembourg document family with materially different semantics;
+- a new source system;
+- a new retained-source format requiring new shared parser behavior;
+- a new status value or frontmatter field;
+- historical or point-in-time versions;
+- reconstructed consolidations;
+- amendment or repeal graphs;
+- any change to stable IDs, directory structure, CLI behavior, licensing, or authority rules.
+
+Stage 2 does not require complete Luxembourg coverage before useful additions are merged. Coverage remains explicitly partial until the maintainer declares it complete in `countries/lu/README.md`.
+
+The governing distinction: ordinary data expansion follows the existing contract. Contract changes require a blueprint amendment.
 
 ### Stage 3 — France
 
@@ -1723,7 +1762,7 @@ Contains:
 
 ### 15.7 `ROADMAP.md`
 
-Mirrors section 12 exactly. It labels unauthorized stages as blocked and points to the required blueprint amendment.
+Mirrors section 12. Each stage describes its scope, entry criteria, and what requires a blueprint amendment versus an ordinary pull request.
 
 ### 15.8 `AGENTS.md`
 
@@ -1976,6 +2015,8 @@ At this revision:
 
 1. Stage 0 repository scaffold is authorized.
 2. After Stage 0 is accepted, Stage 1A for `lu/code-civil` is authorized.
-3. Stage 1B and every later stage are blocked until this blueprint is amended.
+3. After Stage 1A is accepted, Stage 1B is authorized subject to maintainer approval of the ten-law selection.
+4. After Stage 1B is accepted, Stage 2 permits ordinary data expansion within the existing contract.
+5. Stages 3–5 and hosted layers are blocked until this blueprint is amended with country-specific contracts.
 
-Do not guess beyond this boundary.
+Ordinary data expansion follows the existing contract. Contract changes require a blueprint amendment.
