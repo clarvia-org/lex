@@ -35,19 +35,21 @@ Agents execute **one Ready issue at a time**. Do not invent domain scopes from t
 
 | Order | GitHub issue | Theme | Manifest | Count |
 |---|---|---|---|---|
-| 0 | [#4](https://github.com/clarvia-org/lex/issues/4) | Inventory + classification | `catalog.jsonl` + `00-inventory-notes.md` | 2,934 total (1,502 pdf-skip, 10 stage-1b) |
-| 1 | [#5](https://github.com/clarvia-org/lex/issues/5) | Remaining official codes | `04-codes.txt` | 66 laws |
-| 2 | [#6](https://github.com/clarvia-org/lex/issues/6) | Constitutional & state admin | `05-state-admin.txt` | 114 laws |
-| 3 | [#7](https://github.com/clarvia-org/lex/issues/7) | Civil, family, property, housing | `06-civil-family.txt` | 114 laws |
-| 4 | [#8](https://github.com/clarvia-org/lex/issues/8) | Labor, employment, social security | `07-labor-social.txt` | 113 laws |
-| 5 | [#9](https://github.com/clarvia-org/lex/issues/9) | Commercial, corporate, finance | `08-commercial-finance.txt` | 113 laws |
-| 6 | [#10](https://github.com/clarvia-org/lex/issues/10) | Tax, customs, public finance | `09-tax-finance.txt` | 113 laws |
-| 7 | [#11](https://github.com/clarvia-org/lex/issues/11) | Health, welfare, family support | `10-health-welfare.txt` | 114 laws |
-| 8 | [#12](https://github.com/clarvia-org/lex/issues/12) | Environment, agriculture, energy | `11-environment-energy.txt` | 115 laws |
-| 9 | [#13](https://github.com/clarvia-org/lex/issues/13) | Education, research, culture | `12-education-culture.txt` | 118 laws |
-| 10 | [#14](https://github.com/clarvia-org/lex/issues/14) | Transport & infrastructure | `13-transport.txt` | 115 laws |
-| 11 | [#15](https://github.com/clarvia-org/lex/issues/15) | Internal security & data protection | `14-security-data.txt` | 114 laws |
-| 12 | [#16](https://github.com/clarvia-org/lex/issues/16) | Final tail / remaining RGDs | `15-tail.txt` | 113 laws |
+| 0 | [#4](https://github.com/clarvia-org/lex/issues/4) | Inventory + classification | `catalog.jsonl` + `00-inventory-notes.md` | 1,334 unique (128 pdf-skip, 9 stage-1b in catalog; + `loi-2024-07-31-a339` JO outside Consolidation) |
+| 1 | [#5](https://github.com/clarvia-org/lex/issues/5) | Remaining official codes (XML) | `04-codes.txt` | 4 |
+| 2 | [#6](https://github.com/clarvia-org/lex/issues/6) | Constitutional & state admin | `05-state-admin.txt` | 216 |
+| 3 | [#7](https://github.com/clarvia-org/lex/issues/7) | Civil, family, property, housing | `06-civil-family.txt` | 43 |
+| 4 | [#8](https://github.com/clarvia-org/lex/issues/8) | Labor, employment, social security | `07-labor-social.txt` | 69 |
+| 5 | [#9](https://github.com/clarvia-org/lex/issues/9) | Commercial, corporate, finance | `08-commercial-finance.txt` | 105 |
+| 6 | [#10](https://github.com/clarvia-org/lex/issues/10) | Tax, customs, public finance | `09-tax-finance.txt` | 59 |
+| 7 | [#11](https://github.com/clarvia-org/lex/issues/11) | Health, welfare, family support | `10-health-welfare.txt` | 46 |
+| 8 | [#12](https://github.com/clarvia-org/lex/issues/12) | Environment, agriculture, energy | `11-environment-energy.txt` | 75 |
+| 9 | [#13](https://github.com/clarvia-org/lex/issues/13) | Education, research, culture | `12-education-culture.txt` | 83 |
+| 10 | [#14](https://github.com/clarvia-org/lex/issues/14) | Transport & infrastructure | `13-transport.txt` | 27 |
+| 11 | [#15](https://github.com/clarvia-org/lex/issues/15) | Internal security & data protection | `14-security-data.txt` | 18 |
+| 12 | [#16](https://github.com/clarvia-org/lex/issues/16) | Final tail / remaining instruments | `15-tail.txt` | 452 |
+
+**Ingestible Stage 2 total:** 1,197 IDs (unique across manifests). See `batches/00-inventory-notes.md`.
 
 Tracking: [Project — lex LU Stage 2](https://github.com/orgs/clarvia-org/projects/4) · [Milestone](https://github.com/clarvia-org/lex/milestone/1)
 
