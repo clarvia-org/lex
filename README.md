@@ -47,7 +47,7 @@ uv run lex check
 
 | Country | Laws | Notes |
 |---|---|---|
-| Luxembourg (`lu`) | Stage 1B + Stage 2 batches 04–09 (506 IDs) | Partial — Casemates only; see `countries/lu/README.md` |
+| Luxembourg (`lu`) | Stage 1B + Stage 2 batches 04–10 (552 IDs) | Partial — Casemates only; see `countries/lu/README.md` |
 
 ## The contract
 
