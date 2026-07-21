@@ -61,7 +61,11 @@ Stage 1B is complete when all ten laws pass the same validation and deterministi
 
 ## Stage 2 — Luxembourg coverage expansion
 
-Expand Luxembourg coverage using the accepted Luxembourg adapter and data contract.
+Expand Luxembourg coverage using the accepted adapter and data contract.
+
+**Control plane:** [`countries/lu/STAGE_2.md`](countries/lu/STAGE_2.md) · [Project](https://github.com/orgs/clarvia-org/projects/4) · [Milestone](https://github.com/clarvia-org/lex/milestone/1)
+
+**Gate:** inventory issue [#4](https://github.com/clarvia-org/lex/issues/4) (catalog + frozen batch ID manifests) before domain ingest batches [#5](https://github.com/clarvia-org/lex/issues/5)–[#16](https://github.com/clarvia-org/lex/issues/16).
 
 Agents may add laws through ordinary pull requests when all of the following are true:
 

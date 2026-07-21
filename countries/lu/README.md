@@ -11,7 +11,9 @@
 - **Known caveats**: The public Legilux website is an Angular SPA and must not be scraped. Use Casemates only.
 - **Update command**: `uv run lex update lu` (or `--id <law-id>`)
 - **Reviewer credits**: Maintainer review required before merge
-- **Stage 1B selection**: [`STAGE_1B_SELECTION.md`](STAGE_1B_SELECTION.md) (approved with edits — implementation in this branch)
+- **Stage 1B selection**: [`STAGE_1B_SELECTION.md`](STAGE_1B_SELECTION.md) (approved — implemented)
+- **Stage 2 expansion**: [`STAGE_2.md`](STAGE_2.md) (inventory gate → batch ID manifests)
+
 
 ## Published laws
 
