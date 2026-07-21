@@ -82,6 +82,7 @@ ACTIVE_BATCHES: frozenset[str] = frozenset(
         "07-labor-social",
         "08-commercial-finance",
         "09-tax-finance",
+        "10-health-welfare",
     }
 )
 
