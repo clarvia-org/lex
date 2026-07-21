@@ -11,6 +11,7 @@
 - **Known caveats**: The public Legilux website is an Angular SPA and must not be scraped. Use Casemates only.
 - **Update command**: `uv run lex update lu --id lu/code-civil`
 - **Reviewer credits**: Maintainer review required before merge
+- **Stage 1B selection**: [`STAGE_1B_SELECTION.md`](STAGE_1B_SELECTION.md) (awaiting approval)
 
 ## Published laws
 

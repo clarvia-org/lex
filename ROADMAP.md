@@ -30,6 +30,8 @@ No second law is added until this stage passes all acceptance criteria.
 
 Add nine additional Luxembourg laws, for ten total.
 
+**Selection (approval gate):** see [`countries/lu/STAGE_1B_SELECTION.md`](countries/lu/STAGE_1B_SELECTION.md).
+
 The nine laws must be selected to exercise materially different source and normalization cases. The selection must include, where available:
 
 1. an ordinary law;
