@@ -14,14 +14,6 @@ Every country publishes law differently — Angular SPAs, PDFs, SPARQL endpoints
 
 **lex fixes this.** One repository. One format. Every country.
 
-```
-countries/
-├── de/laws/grundgesetz/current.md        ← normalized Markdown
-├── fr/laws/code-civil/current.md
-├── lu/laws/code-civil/current.md
-└── ...
-```
-
 Each law is a directory containing:
 
 - **`current.md`** — normalized Markdown with YAML frontmatter: official title, identifiers, provenance, status, and a SHA-256 checksum
@@ -39,12 +31,12 @@ No database. No API keys. No scraping. Just Git.
 git clone https://github.com/clarvia-org/lex.git
 ```
 
-**Install** the CLI for structured queries:
+**Install** the CLI from source:
 
 ```bash
-pip install clarvia-lex
-# or
-uv add clarvia-lex
+git clone https://github.com/clarvia-org/lex.git
+cd lex
+uv sync
 ```
 
 ```bash
@@ -54,8 +46,6 @@ lex list
 # Validate the dataset integrity
 lex check
 ```
-
-*Coming in the next release: `lex get`, `lex search`, and `lex source` for direct provision retrieval, full-text search, and source verification across all countries.*
 
 ## The contract
 
@@ -97,7 +87,7 @@ Version 1 is deliberately focused:
 - ✅ Current national legislation from official sources
 - ✅ Normalized Markdown + retained official source files
 - ✅ Official identifiers and citation URLs
-- ✅ Local CLI for search and retrieval
+- ✅ Local CLI for validation and querying
 - ✅ Partial country coverage welcomed
 - ❌ No historical versions, no amendment graphs, no AI summaries
 - ❌ No hosted API, no database, no paid infrastructure
