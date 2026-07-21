@@ -4,7 +4,7 @@
 - **Official entry point**: https://legilux.public.lu/
 - **Data access**: Casemates open-data layer (`sparqlendpoint` + filestore). See [CASEMATES.md](CASEMATES.md).
 - **Rights**: CC-BY-4.0 with attribution to Service central de législation, Luxembourg
-- **Coverage**: Partial — Stage 1B + Stage 2 batches `04-codes` … `13-transport` (737 discoverable IDs)
+- **Coverage**: Partial — Stage 1B + Stage 2 batches `04-codes` … `14-security-data` (755 discoverable IDs)
 - **Supported families**: Codes, ordinary laws, grand-ducal / government acts, constitution (LegalDocML/XML; one HTML Journal memorial)
 - **Default language**: French (Constitution also published in German)
 - **Source selection**: Prefer complete LegalDocML/XML; HTML retained when selected (see Stage 1B)
@@ -43,3 +43,4 @@
 | *(+75)* | Environment, agriculture & energy | official_consolidation | Stage 2 batch 11 — see `batches/11-environment-energy.txt` |
 | *(+83)* | Education, research & culture | official_consolidation | Stage 2 batch 12 — see `batches/12-education-culture.txt` |
 | *(+27)* | Transport & infrastructure | official_consolidation | Stage 2 batch 13 — see `batches/13-transport.txt` |
+| *(+18)* | Internal security & data protection | official_consolidation | Stage 2 batch 14 — see `batches/14-security-data.txt` |
