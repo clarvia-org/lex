@@ -525,9 +525,7 @@ LIMIT 20
         return candidates[0]
 
     @staticmethod
-    def _reject_invalid_payload(
-        content: bytes, url: str, *, expect_format: FormatName
-    ) -> None:
+    def _reject_invalid_payload(content: bytes, url: str, *, expect_format: FormatName) -> None:
         if _looks_like_browser_shell(content):
             raise LexError(
                 ErrorCode.LEX_INVALID_DATA,
