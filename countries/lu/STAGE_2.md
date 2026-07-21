@@ -1,6 +1,6 @@
 # Stage 2 — Luxembourg coverage expansion
 
-**Status:** inventory gate (no domain ingestion until catalog + batch ID manifests exist)  
+**Status:** inventory complete (catalog + batch ID manifests established)  
 **Authority:** `BLUEPRINT.md` Stage 2  
 **Prerequisite:** Stage 1B complete (`lu/code-civil` + nine approved laws)
 
@@ -31,28 +31,27 @@ Agents execute **one Ready issue at a time**. Do not invent domain scopes from t
 6. Single retained source file ≤ **50 MiB**.
 7. Merge one batch before starting the next unless the maintainer explicitly allows parallel drafts.
 
-## Sequence
+## Sequence & Inventory Counts
 
-| Order | GitHub issue | Theme | Manifest (after inventory) |
-|---|---|---|---|
-| 0 | [#4](https://github.com/clarvia-org/lex/issues/4) | Inventory + classification | `catalog.jsonl` + `00-inventory-notes.md` |
-| 1 | [#5](https://github.com/clarvia-org/lex/issues/5) | Remaining official codes | `04-codes.txt` |
-| 2 | [#6](https://github.com/clarvia-org/lex/issues/6) | Constitutional & state admin | `05-state-admin.txt` |
-| 3 | [#7](https://github.com/clarvia-org/lex/issues/7) | Civil, family, property, housing | `06-civil-family.txt` |
-| 4 | [#8](https://github.com/clarvia-org/lex/issues/8) | Labor, employment, social security | `07-labor-social.txt` |
-| 5 | [#9](https://github.com/clarvia-org/lex/issues/9) | Commercial, corporate, finance | `08-commercial-finance.txt` |
-| 6 | [#10](https://github.com/clarvia-org/lex/issues/10) | Tax, customs, public finance | `09-tax-finance.txt` |
-| 7 | [#11](https://github.com/clarvia-org/lex/issues/11) | Health, welfare, family support | `10-health-welfare.txt` |
-| 8 | [#12](https://github.com/clarvia-org/lex/issues/12) | Environment, agriculture, energy | `11-environment-energy.txt` |
-| 9 | [#13](https://github.com/clarvia-org/lex/issues/13) | Education, research, culture | `12-education-culture.txt` |
-| 10 | [#14](https://github.com/clarvia-org/lex/issues/14) | Transport & infrastructure | `13-transport.txt` |
-| 11 | [#15](https://github.com/clarvia-org/lex/issues/15) | Internal security & data protection | `14-security-data.txt` |
-| 12 | [#16](https://github.com/clarvia-org/lex/issues/16) | Final tail / remaining RGDs | `15-tail.txt` |
+| Order | GitHub issue | Theme | Manifest | Count |
+|---|---|---|---|---|
+| 0 | [#4](https://github.com/clarvia-org/lex/issues/4) | Inventory + classification | `catalog.jsonl` + `00-inventory-notes.md` | 1,334 unique (128 pdf-skip, 9 stage-1b in catalog; + `loi-2024-07-31-a339` JO outside Consolidation) |
+| 1 | [#5](https://github.com/clarvia-org/lex/issues/5) | Remaining official codes (XML) | `04-codes.txt` | 4 |
+| 2 | [#6](https://github.com/clarvia-org/lex/issues/6) | Constitutional & state admin | `05-state-admin.txt` | 216 |
+| 3 | [#7](https://github.com/clarvia-org/lex/issues/7) | Civil, family, property, housing | `06-civil-family.txt` | 43 |
+| 4 | [#8](https://github.com/clarvia-org/lex/issues/8) | Labor, employment, social security | `07-labor-social.txt` | 69 |
+| 5 | [#9](https://github.com/clarvia-org/lex/issues/9) | Commercial, corporate, finance | `08-commercial-finance.txt` | 105 |
+| 6 | [#10](https://github.com/clarvia-org/lex/issues/10) | Tax, customs, public finance | `09-tax-finance.txt` | 59 |
+| 7 | [#11](https://github.com/clarvia-org/lex/issues/11) | Health, welfare, family support | `10-health-welfare.txt` | 46 |
+| 8 | [#12](https://github.com/clarvia-org/lex/issues/12) | Environment, agriculture, energy | `11-environment-energy.txt` | 75 |
+| 9 | [#13](https://github.com/clarvia-org/lex/issues/13) | Education, research, culture | `12-education-culture.txt` | 83 |
+| 10 | [#14](https://github.com/clarvia-org/lex/issues/14) | Transport & infrastructure | `13-transport.txt` | 27 |
+| 11 | [#15](https://github.com/clarvia-org/lex/issues/15) | Internal security & data protection | `14-security-data.txt` | 18 |
+| 12 | [#16](https://github.com/clarvia-org/lex/issues/16) | Final tail / remaining instruments | `15-tail.txt` | 452 |
+
+**Ingestible Stage 2 total:** 1,197 IDs (unique across manifests). See `batches/00-inventory-notes.md`.
 
 Tracking: [Project — lex LU Stage 2](https://github.com/orgs/clarvia-org/projects/4) · [Milestone](https://github.com/clarvia-org/lex/milestone/1)
-
-Domain sizes stay **TBD** until inventory replaces them.
-
 
 ## Batch ID manifests
 
@@ -88,14 +87,11 @@ uv run lex update lu --from-file countries/lu/batches/04-codes.txt
 Casemates often returns many historical consolidations for one instrument
 (`/consolide/20230101`, `/consolide/20240101`, …).
 
-`scripts/lu_inventory.py` (and any SPARQL used for the catalog) **must**:
+`scripts/build_lu_inventory.py` (and any SPARQL used for the catalog):
 
-1. Group by durable legal-instrument identity (complex work / base ELI without consolidation date).
-2. Keep **one** row per instrument: the latest consolidation
-   (`ORDER BY DESC(?consolidationDate)` or equivalent sort on the dated path segment).
-3. Never emit duplicate historical consolidations as separate Stage 2 IDs.
-
-Codes that use dated paths without `/consolide/` (e.g. `/code/civil/20251226`) use the same rule: latest dated work only.
+1. Groups by durable legal-instrument identity (complex work / base ELI without consolidation date).
+2. Keeps **one** row per instrument: the latest consolidation (`ORDER BY DESC(?consolidationDate)`).
+3. Never emits duplicate historical consolidations as separate Stage 2 IDs.
 
 ## Agent session template
 
