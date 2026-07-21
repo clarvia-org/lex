@@ -413,9 +413,7 @@ def main() -> None:
             skip_reason = None
             stage_1b_count += 1
         else:
-            batch_name, skip_reason = classify_batch(
-                stable_id, title, doc_type, preferred_format
-            )
+            batch_name, skip_reason = classify_batch(stable_id, title, doc_type, preferred_format)
 
         entry = CatalogEntry(
             stable_id=stable_id,
@@ -546,9 +544,7 @@ def main() -> None:
         handle.write(f"- **Unique instruments (catalog rows):** {len(catalog):,}\n")
         handle.write(f"- **Digital (XML/HTML):** {digital_count:,}\n")
         handle.write(f"- **Stage 1B (already on main):** {stage_1b_count}\n")
-        handle.write(
-            f"- **Skipped (PDF-only):** {skip_counts.get('pdf-only', 0):,}\n"
-        )
+        handle.write(f"- **Skipped (PDF-only):** {skip_counts.get('pdf-only', 0):,}\n")
         handle.write(f"- **Ingestible Stage 2 IDs (all manifests):** {ingestible_count:,}\n\n")
         handle.write("## Batch ID Manifest Summary\n\n")
         handle.write("| Batch File | Theme | Ingestible ID Count |\n|---|---|---|\n")
