@@ -75,19 +75,21 @@ def test_source_selection_prefers_xml_over_html() -> None:
     assert ref.source_url.endswith(".xml")
 
 
-def test_stage_1b_registry_covers_ten_ids() -> None:
+def test_registry_covers_active_batches() -> None:
     _load_adapter()
     import sys
 
     module = sys.modules["lu_adapter_under_test"]
     ids = {spec.id for spec in module.LAWS}
     assert "lu/code-civil" in ids
-    assert len(ids) == 14
+    assert "lu/loi-2024-07-31-a339" in ids
+    assert len(ids) == 230  # 9 stage-1b + JO extra + 4 codes + 216 state-admin
     constitution = module.LAWS_BY_ID["lu/constitution"]
     assert constitution.languages == ("fr", "de")
     html_law = module.LAWS_BY_ID["lu/loi-2024-07-31-a339"]
     assert html_law.format == "html"
     assert module.LAWS_BY_ID["lu/rgd-2024-12-20-a595"].warning_mode == "rectification"
+    assert module.LAWS_BY_ID["lu/code-civil"].resolve_latest is True
     for code_id in (
         "lu/code-consommation",
         "lu/code-fonction-publique",
@@ -96,6 +98,12 @@ def test_stage_1b_registry_covers_ten_ids() -> None:
     ):
         assert code_id in ids
         assert module.LAWS_BY_ID[code_id].format == "xml"
+    assert "lu/agc-2025-04-04-a132" in ids
+    assert module._filestore_url(
+        "http://data.legilux.public.lu/eli/etat/leg/code/consommation/20260515",
+        "fr",
+        "xml",
+    ).endswith("eli-etat-leg-code-consommation-20260515-fr-xml.xml")
 
 
 def test_ordinary_normalization_matches_fixture() -> None:
@@ -151,6 +159,28 @@ def test_invalid_browser_shell_rejected() -> None:
     with pytest.raises(LexError) as exc:
         adapter.normalize_bytes(content)
     assert exc.value.code == ErrorCode.LEX_INVALID_DATA
+
+
+def test_parse_jolux_dates() -> None:
+    _load_adapter()
+    import sys
+    from datetime import date
+
+    module = sys.modules["lu_adapter_under_test"]
+    assert module._parse_jolux_date("2024-06-26") == date(2024, 6, 26)
+    assert module._parse_jolux_date("26 juin 2024") == date(2024, 6, 26)
+    assert module._parse_jolux_date("1er janvier 2025") == date(2025, 1, 1)
+    assert module._parse_jolux_date("not-a-date") is None
+
+
+def test_xml_article_id_preserves_trailing_marker() -> None:
+    _load_adapter()
+    import sys
+
+    module = sys.modules["lu_adapter_under_test"]
+    assert module._normalize_xml_article_id("art_5") == "art-5"
+    assert module._normalize_xml_article_id("art_5-") == "art-5-"
+    assert module._normalize_xml_article_id("art_1er") == "art-1er"
 
 
 def test_anchor_normalization() -> None:
