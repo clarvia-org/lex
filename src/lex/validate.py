@@ -25,7 +25,8 @@ def validate_dataset(root: Path) -> list[LexError]:
     validator = jsonschema.Draft202012Validator(schema) if schema else None
 
     laws = discover_laws(root)
-    seen_ids: set[str] = set()
+    # Uniqueness is per law-language record; the same id is shared across languages.
+    seen_id_langs: set[tuple[str, str]] = set()
 
     for law in laws:
         rel_path = law.path.relative_to(root)
@@ -49,14 +50,19 @@ def validate_dataset(root: Path) -> list[LexError]:
                 )
             )
 
-        # Check duplicate IDs
+        # Check duplicate ID+language pairs
         law_id = law.id
         if law_id:
-            if law_id in seen_ids:
+            key = (law_id, law.language)
+            if key in seen_id_langs:
                 errors.append(
-                    LexError(ErrorCode.LEX_INVALID_ID, rel_path, f"Duplicate ID: {law_id}")
+                    LexError(
+                        ErrorCode.LEX_INVALID_ID,
+                        rel_path,
+                        f"Duplicate ID/language: {law_id} ({law.language})",
+                    )
                 )
-            seen_ids.add(law_id)
+            seen_id_langs.add(key)
 
             # Check ID format match
             country_part = law.country

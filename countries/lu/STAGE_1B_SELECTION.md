@@ -1,6 +1,6 @@
 # Stage 1B — Proposed nine-law selection
 
-**Status:** approved with edits (2026-07-21) — ready for implementation PR  
+**Status:** approved with edits (2026-07-21) — implementation PR (adapter + data)  
 **Already on `main`:** `lu/code-civil`  
 **Target after implementation:** 10 law IDs total  
 
@@ -145,9 +145,9 @@ All nine blueprint edge cases are covered. Constitution owns both “constitutio
 
 ---
 
-## Out of scope for this PR
+## Implementation note
 
-No adapter changes and no legislation files. After approval, a separate implementation PR extends the Luxembourg adapter and publishes these nine laws.
+Selection PR (#2) was docs-only. The implementation PR extends the Luxembourg adapter and publishes these nine laws beside `lu/code-civil`.
 
 ---
 

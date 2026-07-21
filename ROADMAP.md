@@ -30,7 +30,9 @@ No second law is added until this stage passes all acceptance criteria.
 
 Add nine additional Luxembourg laws, for ten total.
 
-**Selection (approval gate):** see [`countries/lu/STAGE_1B_SELECTION.md`](countries/lu/STAGE_1B_SELECTION.md).
+**Selection (approval gate):** see [`countries/lu/STAGE_1B_SELECTION.md`](countries/lu/STAGE_1B_SELECTION.md) (approved with edits).
+
+**Implementation:** extend the Luxembourg adapter past Code civil–only and publish the nine approved IDs (Casemates only; HTML retained for `lu/loi-2024-07-31-a339`; Constitution FR + DE).
 
 The nine laws must be selected to exercise materially different source and normalization cases. The selection must include, where available:
 

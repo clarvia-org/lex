@@ -1,10 +1,12 @@
 from __future__ import annotations
 
 import json
+from datetime import UTC, datetime
 from pathlib import Path
 
 import pytest
 
+from lex.adapters import LawRef, SourceDocument
 from lex.errors import ErrorCode, LexError
 from lex.markdown import extract_provision, normalize_anchor
 
@@ -13,11 +15,13 @@ FIXTURES = Path(__file__).resolve().parent.parent / "fixtures"
 
 def _load_adapter():  # type: ignore[no-untyped-def]
     import importlib.util
+    import sys
 
     path = Path(__file__).resolve().parent.parent / "adapter.py"
     spec = importlib.util.spec_from_file_location("lu_adapter_under_test", path)
     assert spec is not None and spec.loader is not None
     module = importlib.util.module_from_spec(spec)
+    sys.modules["lu_adapter_under_test"] = module
     spec.loader.exec_module(module)
     return module.adapter
 
@@ -71,6 +75,21 @@ def test_source_selection_prefers_xml_over_html() -> None:
     assert ref.source_url.endswith(".xml")
 
 
+def test_stage_1b_registry_covers_ten_ids() -> None:
+    _load_adapter()
+    import sys
+
+    module = sys.modules["lu_adapter_under_test"]
+    ids = {spec.id for spec in module.LAWS}
+    assert "lu/code-civil" in ids
+    assert len(ids) == 10
+    constitution = module.LAWS_BY_ID["lu/constitution"]
+    assert constitution.languages == ("fr", "de")
+    html_law = module.LAWS_BY_ID["lu/loi-2024-07-31-a339"]
+    assert html_law.format == "html"
+    assert module.LAWS_BY_ID["lu/rgd-2024-12-20-a595"].warning_mode == "rectification"
+
+
 def test_ordinary_normalization_matches_fixture() -> None:
     adapter = _load_adapter()
     content = (FIXTURES / "ordinary-source.xml").read_bytes()
@@ -87,6 +106,27 @@ def test_complex_normalization_matches_fixture() -> None:
     content = (FIXTURES / "complex-source.xml").read_bytes()
     expected = (FIXTURES / "expected-complex.md").read_text(encoding="utf-8")
     assert adapter.normalize_bytes(content).body == expected
+
+
+def test_html_normalization_matches_fixture() -> None:
+    adapter = _load_adapter()
+    content = (FIXTURES / "ordinary-source.html").read_bytes()
+    expected = (FIXTURES / "expected-ordinary-html.md").read_text(encoding="utf-8")
+    ref = LawRef(id="lu/loi-2024-07-31-a339", language="fr", source_url="fixture://html")
+    source = SourceDocument(
+        content=content,
+        extension="html",
+        final_url="fixture://html",
+        media_type="text/html",
+        retrieved_at=datetime(2026, 1, 1, tzinfo=UTC),
+        title="Loi",
+        document_type="law",
+        status="official_current",
+    )
+    normalized = adapter.normalize(ref, source)
+    assert normalized.body == expected
+    assert '<a id="art-1er"></a>' in normalized.body
+    assert "Art. 1" in normalized.body
 
 
 def test_normalization_is_deterministic() -> None:
@@ -109,6 +149,7 @@ def test_anchor_normalization() -> None:
     assert normalize_anchor("art_13") == "art-13"
     assert normalize_anchor("art_1er") == "art-1er"
     assert normalize_anchor("Art. 13.") == "art-13"
+    assert normalize_anchor("art_97_et_98") == "art-97-et-98"
 
 
 def test_provision_extraction_nested_without_neighbors() -> None:
