@@ -4,7 +4,7 @@
 - **Official entry point**: https://legilux.public.lu/
 - **Data access**: Casemates open-data layer (`sparqlendpoint` + filestore). See [CASEMATES.md](CASEMATES.md).
 - **Rights**: CC-BY-4.0 with attribution to Service central de législation, Luxembourg
-- **Coverage**: Partial — Stage 1B + Stage 2 batches `04-codes` … `06-civil-family` (273 discoverable IDs)
+- **Coverage**: Partial — Stage 1B + Stage 2 batches `04-codes` … `07-labor-social` (342 discoverable IDs)
 - **Supported families**: Codes, ordinary laws, grand-ducal / government acts, constitution (LegalDocML/XML; one HTML Journal memorial)
 - **Default language**: French (Constitution also published in German)
 - **Source selection**: Prefer complete LegalDocML/XML; HTML retained when selected (see Stage 1B)
@@ -36,3 +36,4 @@
 | `lu/code-procedure-penale` | Code de procédure pénale | official_consolidation | Stage 2 batch 04 |
 | *(+216)* | Constitutional & state administration | official_consolidation | Stage 2 batch 05 — see `batches/05-state-admin.txt` |
 | *(+43)* | Civil, family, property & housing | official_consolidation | Stage 2 batch 06 — see `batches/06-civil-family.txt` |
+| *(+69)* | Labor, employment & social security | official_consolidation | Stage 2 batch 07 — see `batches/07-labor-social.txt` |
