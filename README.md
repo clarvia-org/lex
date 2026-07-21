@@ -47,7 +47,7 @@ uv run lex check
 
 | Country | Laws | Notes |
 |---|---|---|
-| Luxembourg (`lu`) | Stage 1B ten-law slice (`code-civil` + 9) | Partial — Casemates only; see `countries/lu/README.md` |
+| Luxembourg (`lu`) | Stage 1B + Stage 2 batch 04 codes (14 IDs) | Partial — Casemates only; see `countries/lu/README.md` |
 
 ## The contract
 

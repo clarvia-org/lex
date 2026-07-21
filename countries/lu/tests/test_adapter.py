@@ -82,12 +82,20 @@ def test_stage_1b_registry_covers_ten_ids() -> None:
     module = sys.modules["lu_adapter_under_test"]
     ids = {spec.id for spec in module.LAWS}
     assert "lu/code-civil" in ids
-    assert len(ids) == 10
+    assert len(ids) == 14
     constitution = module.LAWS_BY_ID["lu/constitution"]
     assert constitution.languages == ("fr", "de")
     html_law = module.LAWS_BY_ID["lu/loi-2024-07-31-a339"]
     assert html_law.format == "html"
     assert module.LAWS_BY_ID["lu/rgd-2024-12-20-a595"].warning_mode == "rectification"
+    for code_id in (
+        "lu/code-consommation",
+        "lu/code-fonction-publique",
+        "lu/code-instruction-criminelle",
+        "lu/code-procedure-penale",
+    ):
+        assert code_id in ids
+        assert module.LAWS_BY_ID[code_id].format == "xml"
 
 
 def test_ordinary_normalization_matches_fixture() -> None:

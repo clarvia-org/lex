@@ -1,4 +1,4 @@
-"""Luxembourg Casemates adapter — Stage 1B: ten-law slice."""
+"""Luxembourg Casemates adapter — Stage 1B slice + Stage 2 remaining codes."""
 
 from __future__ import annotations
 
@@ -71,7 +71,7 @@ class LawSpec:
     warning_mode: Literal["default", "rectification", "current"] = "default"
 
 
-# Stage 1B registry: code-civil + nine approved IDs.
+# Stage 1B (10) + Stage 2 batch 04-codes (4 remaining official codes).
 LAWS: tuple[LawSpec, ...] = (
     LawSpec(
         id="lu/code-civil",
@@ -250,6 +250,73 @@ LAWS: tuple[LawSpec, ...] = (
             ),
         },
     ),
+    LawSpec(
+        id="lu/code-consommation",
+        document_type="code",
+        status="official_consolidation",
+        format="xml",
+        languages=("fr",),
+        title_fallback="Code de la consommation",
+        official_id="Code de la consommation",
+        work_eli="http://data.legilux.public.lu/eli/etat/leg/code/consommation/20260515",
+        sources={
+            "fr": (
+                "http://data.legilux.public.lu/filestore/eli/etat/leg/code/consommation/"
+                "20260515/fr/xml/eli-etat-leg-code-consommation-20260515-fr-xml.xml"
+            ),
+        },
+    ),
+    LawSpec(
+        id="lu/code-fonction-publique",
+        document_type="code",
+        status="official_consolidation",
+        format="xml",
+        languages=("fr",),
+        title_fallback="Code de la fonction publique",
+        official_id="Code de la fonction publique",
+        work_eli="http://data.legilux.public.lu/eli/etat/leg/code/fonction_publique/20260612",
+        sources={
+            "fr": (
+                "http://data.legilux.public.lu/filestore/eli/etat/leg/code/fonction_publique/"
+                "20260612/fr/xml/eli-etat-leg-code-fonction_publique-20260612-fr-xml.xml"
+            ),
+        },
+    ),
+    LawSpec(
+        id="lu/code-instruction-criminelle",
+        document_type="code",
+        status="official_consolidation",
+        format="xml",
+        languages=("fr",),
+        title_fallback="Code d'Instruction Criminelle",
+        official_id="Code d'Instruction Criminelle",
+        work_eli=(
+            "http://data.legilux.public.lu/eli/etat/leg/code/instruction_criminelle/20161001"
+        ),
+        sources={
+            "fr": (
+                "http://data.legilux.public.lu/filestore/eli/etat/leg/code/"
+                "instruction_criminelle/20161001/fr/xml/"
+                "eli-etat-leg-code-instruction_criminelle-20161001-fr-xml.xml"
+            ),
+        },
+    ),
+    LawSpec(
+        id="lu/code-procedure-penale",
+        document_type="code",
+        status="official_consolidation",
+        format="xml",
+        languages=("fr",),
+        title_fallback="Code de procédure pénale",
+        official_id="Code de procédure pénale",
+        work_eli="http://data.legilux.public.lu/eli/etat/leg/code/procedure_penale/20260607",
+        sources={
+            "fr": (
+                "http://data.legilux.public.lu/filestore/eli/etat/leg/code/procedure_penale/"
+                "20260607/fr/xml/eli-etat-leg-code-procedure_penale-20260607-fr-xml.xml"
+            ),
+        },
+    ),
 )
 
 LAWS_BY_ID: dict[str, LawSpec] = {spec.id: spec for spec in LAWS}
@@ -294,7 +361,7 @@ class LuxembourgAdapter:
             raise LexError(
                 ErrorCode.LEX_INVALID_ID,
                 ref.id,
-                "Unknown Luxembourg law ID for Stage 1B adapter",
+                "Unknown Luxembourg law ID for LU adapter registry",
             )
 
         file_url = ref.source_url
