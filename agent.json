@@ -1,0 +1,61 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "name": "lex",
+  "description": "Current national legislation in one predictable format for AI agents.",
+  "blueprint": "BLUEPRINT.md",
+  "dataset_globs": [
+    "countries/*/laws/*/current.md",
+    "countries/*/laws/*/current.*.md"
+  ],
+  "source_file_pairing": {
+    "pattern": "countries/*/laws/*/source.*",
+    "linked_by": "source_file field in current.md frontmatter"
+  },
+  "frontmatter": {
+    "required": [
+      "id", "country", "title", "language", "document_type", "status",
+      "source_url", "source_file", "source_sha256",
+      "source_license", "source_attribution", "source_terms_url",
+      "rights_reviewed_at", "retrieved_at"
+    ],
+    "optional": [
+      "official_id", "eli_uri", "published_at", "consolidated_at",
+      "source_modified_at", "warning"
+    ],
+    "at_least_one_required": ["official_id", "eli_uri"]
+  },
+  "allowed_status_values": [
+    "official_current",
+    "official_consolidation"
+  ],
+  "allowed_document_types": [
+    "constitution",
+    "code",
+    "law",
+    "regulation",
+    "other"
+  ],
+  "implemented_cli_commands": [
+    "lex list [--country CC] [--language LANG] [--json]",
+    "lex check [PATH] [--json]"
+  ],
+  "error_codes": [
+    "LEX_NOT_FOUND",
+    "LEX_LANGUAGE_NOT_FOUND",
+    "LEX_PROVISION_NOT_FOUND",
+    "LEX_SOURCE_NOT_FOUND",
+    "LEX_HASH_MISMATCH",
+    "LEX_INVALID_DATA",
+    "LEX_AMBIGUOUS_MATCH",
+    "LEX_INVALID_ID",
+    "LEX_INVALID_RIGHTS",
+    "LEX_NETWORK_ERROR",
+    "LEX_SOURCE_CHANGED",
+    "LEX_UNEXPECTED_DELETION"
+  ],
+  "citation_rule": "Always cite the official source (source_url or eli_uri), not lex, as the legal authority.",
+  "semantics": {
+    "temporal": "current-only; no historical versions or point-in-time queries",
+    "coverage": "partial; the filesystem is the coverage list"
+  }
+}
