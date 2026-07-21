@@ -57,3 +57,15 @@ def test_cli_check_invalid(tmp_path: Path) -> None:
     assert result_json.exit_code == 1
     data = json.loads(result_json.output)
     assert len(data) > 0
+
+
+def test_cli_update_rejects_id_and_from_file(tmp_path: Path) -> None:
+    runner = CliRunner()
+    manifest = tmp_path / "ids.txt"
+    manifest.write_text("lu/code-civil\n", encoding="utf-8")
+    result = runner.invoke(
+        main,
+        ["update", "lu", "--id", "lu/code-civil", "--from-file", str(manifest)],
+    )
+    assert result.exit_code == 1
+    assert "--id or --from-file" in result.output

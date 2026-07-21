@@ -10,7 +10,7 @@ from lex.dataset import LawRecord, discover_laws
 from lex.errors import ErrorCode, LexError
 from lex.frontmatter import parse_frontmatter
 from lex.markdown import extract_provision
-from lex.runner import update_country
+from lex.runner import load_id_list, update_country
 from lex.validate import validate_dataset
 
 
@@ -267,11 +267,33 @@ def check_cmd(path: Path | None, as_json: bool) -> None:
 
 @main.command("update")
 @click.argument("country")
-@click.option("--id", "law_id", default=None)
+@click.option("--id", "law_id", default=None, help="Update a single law ID.")
+@click.option(
+    "--from-file",
+    "from_file",
+    type=click.Path(path_type=Path, exists=True, dir_okay=False),
+    default=None,
+    help="Update every law ID listed in a batch manifest (one ID per line).",
+)
 @click.option("--dry-run", is_flag=True)
-def update_cmd(country: str, law_id: str | None, dry_run: bool) -> None:
+def update_cmd(
+    country: str,
+    law_id: str | None,
+    from_file: Path | None,
+    dry_run: bool,
+) -> None:
+    if law_id is not None and from_file is not None:
+        click.echo("Pass only one of --id or --from-file.", err=True)
+        sys.exit(1)
     try:
-        changed = update_country(country, _root(), law_id=law_id, dry_run=dry_run)
+        law_ids = load_id_list(from_file) if from_file is not None else None
+        changed = update_country(
+            country,
+            _root(),
+            law_id=law_id,
+            law_ids=law_ids,
+            dry_run=dry_run,
+        )
     except LexError as exc:
         _emit_error(exc)
         sys.exit(1)

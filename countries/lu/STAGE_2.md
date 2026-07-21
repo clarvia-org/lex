@@ -75,7 +75,27 @@ lu/code-sante
 lu/code-route
 ```
 
-Ingestion should use an explicit ID list (CLI `--from-file` or equivalent). Do not rely on free-text domain prompts.
+Ingestion command (batch manifests):
+
+```bash
+uv run lex update lu --from-file countries/lu/batches/04-codes.txt
+```
+
+`--id` and `--from-file` are mutually exclusive. Do not rely on free-text domain prompts.
+
+## Inventory query rule — latest consolidation only
+
+Casemates often returns many historical consolidations for one instrument
+(`/consolide/20230101`, `/consolide/20240101`, …).
+
+`scripts/lu_inventory.py` (and any SPARQL used for the catalog) **must**:
+
+1. Group by durable legal-instrument identity (complex work / base ELI without consolidation date).
+2. Keep **one** row per instrument: the latest consolidation
+   (`ORDER BY DESC(?consolidationDate)` or equivalent sort on the dated path segment).
+3. Never emit duplicate historical consolidations as separate Stage 2 IDs.
+
+Codes that use dated paths without `/consolide/` (e.g. `/code/civil/20251226`) use the same rule: latest dated work only.
 
 ## Agent session template
 
@@ -85,9 +105,9 @@ Task: Execute clarvia-org/lex Stage 2 batch from GitHub issue #<N>.
 1. Open workspace C:\Users\tommi\repos\clarvia-org\lex on updated main.
 2. Read countries/lu/STAGE_2.md and the issue body.
 3. Branch batch-<nn>-<slug> from main.
-4. Ingest only IDs listed in countries/lu/batches/<file>.txt.
+4. uv run lex update lu --from-file countries/lu/batches/<file>.txt
 5. pytest + lex check + repo_size_report.py
-6. Second update → empty porcelain
+6. Second --from-file update → empty porcelain
 7. Commit, push, open PR; link the issue; move Project card to Review.
 ```
 

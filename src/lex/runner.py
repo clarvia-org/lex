@@ -3,6 +3,7 @@ from __future__ import annotations
 import hashlib
 import importlib.util
 import sys
+from collections.abc import Sequence
 from datetime import UTC, date, datetime
 from pathlib import Path
 from typing import Any
@@ -60,6 +61,7 @@ def update_country(
     root: Path,
     *,
     law_id: str | None = None,
+    law_ids: Sequence[str] | None = None,
     dry_run: bool = False,
     client: HttpClient | None = None,
 ) -> list[str]:
@@ -67,32 +69,59 @@ def update_country(
 
     Returns list of changed relative paths (empty when idempotent).
     """
+    if law_id is not None and law_ids is not None:
+        raise LexError(
+            ErrorCode.LEX_INVALID_DATA,
+            country,
+            "Pass only one of law_id or law_ids",
+        )
+
     owns_client = client is None
     http = client or HttpClient()
     try:
         source_meta = load_source_yml(country, root)
         adapter = load_adapter(country, root)
         refs = list(adapter.discover(http))
+
+        selected: set[str] | None = None
+        order: dict[str, int] | None = None
         if law_id is not None:
-            refs = [ref for ref in refs if ref.id == law_id]
-            if not refs:
+            selected = {law_id}
+            order = {law_id: 0}
+        elif law_ids is not None:
+            if not law_ids:
+                raise LexError(
+                    ErrorCode.LEX_INVALID_DATA,
+                    country,
+                    "law_ids list is empty",
+                )
+            selected = set(law_ids)
+            order = {law_id_item: index for index, law_id_item in enumerate(law_ids)}
+
+        if selected is not None:
+            refs = [ref for ref in refs if ref.id in selected]
+            found = {ref.id for ref in refs}
+            missing = selected - found
+            if missing:
                 raise LexError(
                     ErrorCode.LEX_NOT_FOUND,
-                    law_id,
-                    f"Law '{law_id}' not returned by discover()",
+                    country,
+                    "Laws not returned by discover(): " + ", ".join(sorted(missing)),
                 )
+            assert order is not None
+            refs.sort(key=lambda ref: (order.get(ref.id, 10_000), ref.language))
 
         published_ids = _published_ids(country, root)
         discovered_ids = {ref.id for ref in refs}
-        # Deletion protection applies to the full discover set when not filtering,
-        # and to the filtered ID when --id is used (missing ID is LEX_NOT_FOUND above).
-        if law_id is None:
-            missing = published_ids - discovered_ids
-            if missing:
+        # Deletion protection applies to the full discover set when not filtering.
+        if selected is None:
+            missing_published = published_ids - discovered_ids
+            if missing_published:
                 raise LexError(
                     ErrorCode.LEX_UNEXPECTED_DELETION,
                     country,
-                    "Published laws missing from discover(): " + ", ".join(sorted(missing)),
+                    "Published laws missing from discover(): "
+                    + ", ".join(sorted(missing_published)),
                 )
 
         changed: list[str] = []
@@ -121,6 +150,29 @@ def update_country(
     finally:
         if owns_client:
             http.close()
+
+
+def load_id_list(path: Path) -> list[str]:
+    """Load stable law IDs from a batch manifest (one ID per line; ``#`` comments)."""
+    if not path.is_file():
+        raise LexError(ErrorCode.LEX_NOT_FOUND, path, f"ID list file not found: {path}")
+    ids: list[str] = []
+    seen: set[str] = set()
+    for line_no, raw in enumerate(path.read_text(encoding="utf-8").splitlines(), start=1):
+        line = raw.strip()
+        if not line or line.startswith("#"):
+            continue
+        if line in seen:
+            raise LexError(
+                ErrorCode.LEX_INVALID_DATA,
+                path,
+                f"Duplicate ID in list at line {line_no}: {line}",
+            )
+        seen.add(line)
+        ids.append(line)
+    if not ids:
+        raise LexError(ErrorCode.LEX_INVALID_DATA, path, "ID list file contains no IDs")
+    return ids
 
 
 def _published_ids(country: str, root: Path) -> set[str]:
