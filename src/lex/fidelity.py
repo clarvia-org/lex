@@ -110,7 +110,8 @@ def check_law_fidelity(md_path: Path, *, rel_path: str | Path | None = None) -> 
 
 
 def _inventory_xml(content: bytes) -> list[ArticleInventory]:
-    root = etree.fromstring(content)
+    parser = etree.XMLParser(huge_tree=True, recover=True)
+    root = etree.fromstring(content, parser=parser)
     articles = root.xpath(f"//*[local-name()='article' and namespace-uri()='{AKN_NS}']")
     if not articles:
         articles = root.xpath("//*[local-name()='article']")
