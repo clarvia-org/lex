@@ -46,7 +46,21 @@ Les mesures et examens médicaux auxquels sont astreints les élèves des école
 <a id="art-4"></a>
 ## Art. 4.
 
-La médecine scolaire a pour objet: d'assurer la surveillance médicale scolaire et de veiller respectivement à la constatation des anomalies et au dépistage de maladies et de déficits, y compris les affections bucco-dentaires, en établissant des bilans de santé à certains âges-clés de l'enfant et de l'adolescent, en effectuant des examens et des mesures de médecine préventive systématiques, en procédant à toute mesure et à tout examen médical nécessaires, soit à la demande d'un membre de l'équipe médico-socio-scolaire, soit du médecin traitant, soit du responsable de l'établissement scolaire, soit du membre du corps enseignant ou éducatif qui s'occupe de l'élève, soit d'un élève ou de ses parents ou tuteurs, ceci sans préjudice des dispositions prévues à l'article 5 de la loi du 21 novembre 1980 portant organisation de la direction de la Santé; de collaborer aux tâches sociales en liaison étroite avec les commissions scolaires et les services spécialisés de l'Education nationale, tels que les services de guidance, les commissions médico-psycho-pédagogiques et les services psycho-sociaux et d’accompagnement scolaires , en établissant un bilan social de l'élève en cas de besoin, en assurant le suivi et en assistant, le cas échéant, l'enfant afin qu'il puisse bénéficier effectivement des mesures proposées; Le traitement médical ne rentre pas dans les tâches incombant à la médecine scolaire.
+La médecine scolaire a pour objet:
+
+- d'assurer la surveillance médicale scolaire et de veiller respectivement à la constatation des anomalies et au dépistage de maladies et de déficits, y compris les affections bucco-dentaires, en établissant des bilans de santé à certains âges-clés de l'enfant et de l'adolescent, en effectuant des examens et des mesures de médecine préventive systématiques, en procédant à toute mesure et à tout examen médical nécessaires, soit à la demande d'un membre de l'équipe médico-socio-scolaire, soit du médecin traitant, soit du responsable de l'établissement scolaire, soit du membre du corps enseignant ou éducatif qui s'occupe de l'élève, soit d'un élève ou de ses parents ou tuteurs, ceci sans préjudice des dispositions prévues à l'article 5 de la loi du 21 novembre 1980 portant organisation de la direction de la Santé;
+
+- de collaborer aux tâches sociales en liaison étroite avec les commissions scolaires et les services spécialisés de l'Education nationale, tels que les services de guidance, les commissions médico-psycho-pédagogiques et les services psycho-sociaux et d’accompagnement scolaires , en établissant un bilan social de l'élève en cas de besoin, en assurant le suivi et en assistant, le cas échéant, l'enfant afin qu'il puisse bénéficier effectivement des mesures proposées;
+
+- de contribuer à l'éducation à la santé;
+
+- de veiller, en accord avec la division de l'inspection sanitaire, au respect des conditions d'hygiène et de salubrité des établissements scolaires;
+
+- de donner son avis sur les conditions ergonométriques du mobilier scolaire notamment lors de nouvelles acquisitions;
+
+- d'établir des statistiques sur l'état de santé des élèves.
+
+Le traitement médical ne rentre pas dans les tâches incombant à la médecine scolaire.
 
 <a id="art-5"></a>
 ## Art. 5.
@@ -70,6 +84,12 @@ La médecine scolaire se pratique dans des locaux appropriés soit dans les éta
 ## Art. 7.
 
 Les équipes médico-socio-scolaires se composent au moins
+
+- d'un médecin généraliste ou spécialiste en pédiatrie, assumant la direction de l'équipe,
+
+- d'un médecin-dentiste,
+
+- d'un assistant d'hygiène sociale,
 
 et peuvent être complétées selon les besoins par d'autres professionnels de la santé et de l'éducation ainsi que par un secrétaire.
 
@@ -96,7 +116,31 @@ En cas d'urgence, notamment en cas d'épidémies, de maladies transmissibles ou 
 
 Le médecin chef de division de la médecine scolaire a notamment pour mission:
 
+- de planifier et de coordonner la médecine scolaire,
+
+- d'élaborer et d'évaluer des programmes d'actions de santé scolaires,
+
+- d'inspecter et de surveiller les équipes médico-socio-scolaires,
+
+- d'organiser des enquêtes épidémiologiques en milieu scolaire et d'établir des statistiques en concertation avec les services de médecine scolaire,
+
+- de surveiller, en coopération avec la divison de l'inspection sanitaire l'hygiène dans les cantines scolaires et d'établir des recommandations en ce qui concerne les repas servis aux élèves,
+
+- d'établir et d'organiser des programmes d'éducation à la santé en collaboration avec les services compétents de l'Education nationale et de la Jeunesse,
+
+- d'organiser la formation continue des médecins responsables des services de médecine scolaire,
+
+- de collaborer avec les autres services de médecine préventive et sociale ainsi qu'avec les services du ministère de l'Education nationale et de la Jeunesse.
+
 Il a en outre une mission de conseil et d'avis notamment en ce qui concerne:
+
+- les projets de construction et d'aménagement des bâtiments scolaires,
+
+- l'état du mobilier scolaire,
+
+- l'agrément des médecins responsables des services de médecine scolaire,
+
+- la détermination des rythmes scolaires ainsi que des activités physiques des élèves.
 
 <a id="art-11"></a>
 ## Art. 11.
@@ -104,6 +148,12 @@ Il a en outre une mission de conseil et d'avis notamment en ce qui concerne:
 Il est créé une division de la médecine scolaire auprès de la direction de la Santé.
 
 A cet effet les modifications suivantes sont apportées à la loi du 21 novembre 1980 portant organisation de la direction de la Santé:
+
+1. Entre le 2 e et le 3 e tiret de l'article 3 il est inséré un nouveau tiret rédigé comme suit: division de la médecine scolaire .
+
+2. Entre les paragraphes 3) et 4) de l'article 4 il est intercalé un nouveau paragraphe 4), les paragraphes 4), 5) et 6) devenant les paragraphes 5), 6) et 7). Le paragraphe 4) nouveau est rédigé comme suit: La division de la médecine scolaire a compétence pour toutes les questions concernant la surveillance et la promotion de la santé des jeunes pendant la scolarisation.
+
+3. Le 3 e tiret sous a) du paragraphe 1) de l'article 14 est remplacé par le texte suivant: quatre médecins chefs de division».
 
 <a id="art-12"></a>
 ## Art. 12.

@@ -49,8 +49,28 @@ Il a le caractère d’un établissement public.
 
 Outre les projets visés à l’article 1er, le Fonds a pour missions :
 
+1. le développement et l’aménagement du site « Midfield » situé entre le Ban de Gasperich et la zone d’activités de Howald tel que délimité par le plan cadastral figurant à l’annexe II ;
+
+2. la réalisation, à la demande de tiers, pour le compte de ceux-ci et à leurs frais, des infrastructures sur ce site.
+
 <a id="art-3"></a>
 ## Art. 3.
+
+(1)
+
+S’agissant de sa mission décrite à l’article 1er, Ie Fonds supporte les dépenses y relatives et il peut avoir recours aux moyens financiers suivants.
+
+Outre les recettes provenant d’activités du Fonds, notamment en relation avec l’urbanisation du plateau de Kirchberg, le Fonds est autorisé à se faire ouvrir sous la garantie de l’État auprès de la caisse d’épargne de l’État un crédit jusqu’à concurrence de 100 000 000 euros. Les conditions et modalités de l’ouverture de crédit sont soumises à l’approbation du ministre ayant les Finances dans ses attributions.
+
+Le Fonds est autorisé à sa procurer des moyens financiers jusqu’à concurrence de 100 000 000 euros par la voie d’un emprunt aussi bien que par l’augmentation du crédit dont il dispose auprès de la caisse d’épargne de l’Etat. Ces opérations financières se font sous la garantie de l’Etat qui en assumera les charges d’amortissement et d’intérêts en ce qui concerne l’emprunt et les charges d’intérêts en ce qui concerne la totalité du crédit dont disposera le Fonds auprès de la caisse d’épargne de l’Etat.
+
+Les modalités de l’emprunt, sa durée, sa date d’émission, les conditions de remboursement, le taux d’intérêt, la forme et la coupure des obligations à émettre, l’époque et le mode de la souscription et du paiement des coupons, ainsi que toutes les autres conditions de l’emprunt feront l’objet d’un règlement du Ministre du Trésor. Ce règlement pourra prévoir que les intérêts de l’emprunt seront exempts, en tout ou en partie, des impôts présents et futurs. Les conditions et modalités de l’ouverture du nouveau crédit auprès de la caisse d’épargne de l’Etat sont soumises à l’approbation du Ministre du Trésor et du Ministre du Budget.
+
+(2)
+
+Dans le cadre de missions acceptées en application de l’article 2bis, le Fonds conclut avec l’État, ou le tiers qui l’a mandaté, une convention prévoyant les modalités, notamment financières, encadrant sa prestation.
+
+Sous réserve de l’approbation du ministre de tutelle, le Fonds peut également mobiliser les moyens financiers décrits au paragraphe 1er du présent article dans le cadre de missions acceptées en application de l’article 2bis.
 
 <a id="art-4"></a>
 ## Art. 4.
@@ -311,11 +331,113 @@ Le Fonds est sous la tutelle du ministre ayant les travaux publics dans ses attr
 <a id="art-37"></a>
 ## Art. 37.
 
+(1)
+
+Le Fonds est géré par un conseil d’administration composé de neuf membres au plus, nommés par le Grand-Duc sur proposition du Gouvernement en conseil.
+
+(2)
+
+Ne peuvent devenir membres du conseil d’administration le ou les fonctionnaires qui, en vertu de leurs fonctions, sont appelés à surveiller ou à contrôler le Fonds ou qui, en vertu des pouvoirs leur délégués, approuvent des actes administratifs du Fonds ou signent des ordonnances de paiement ou toute autre pièce administrative entraînant une dépense de l’Etat en faveur du Fonds.
+
+(3)
+
+Le président du conseil d’administration est désigné parmi les membres du conseil d’administration par le Gouvernement en conseil sur proposition du ministre de tutelle. En cas d’absence du président, ce dernier est remplacé par le doyen d’âge du conseil d’administration.
+
 <a id="art-38"></a>
 ## Art. 38.
 
+(1)
+
+Les membres du conseil sont nommés pour une durée de cinq ans renouvelable à son terme.
+
+(2)
+
+Le conseil d’administration peut à tout moment être révoqué par le Grand-Duc. Un membre peut être révoqué avant l’expiration de son mandat, le conseil d’administration entendu en son avis.
+
+(3)
+
+En cas de démission, de décès ou de révocation avant terme du mandat d’un membre du conseil, il est pourvu à son remplacement par la nomination d’un nouveau membre qui achève le mandat de celui qu’il remplace.
+
+(4)
+
+Le conseil d’administration se réunit sur convocation de son président aussi souvent que les intérêts du Fonds l’exigent. Il doit être convoqué au moins une fois tous les trois mois ou à la demande de deux de ses membres.
+
+(5)
+
+Le conseil d’administration ne peut valablement délibérer que si la majorité de ses membres est présente et il décide à la majorité simple des voix des membres présents. En cas d’égalité des voix, le vote de celui qui assure la présidence est prépondérant.
+
+(6)
+
+Le fonctionnement du conseil d’administration est réglé dans le règlement d’ordre intérieur du Fonds. Ce règlement est soumis à l’approbation du ministre de tutelle.
+
+(7)
+
+Les indemnités et jetons de présence des membres et participants aux réunions du conseil d’administration sont fixés par le Gouvernement en conseil et sont à charge du Fonds.
+
 <a id="art-39"></a>
 ## Art. 39.
+
+(1)
+
+Le conseil d’administration décide sur les points suivants, sous réserve de l’approbation du ministre de tutelle pour les points sous a):
+
+1.
+
+- la politique générale du Fonds, notamment le concept global d’urbanisation et d’aménagement du plateau de Kirchberg,
+
+- ibis) l' acceptation des missions visées par l’article 2 bis ainsi que la conclusion des conventions prévues par l’article 3, paragraphe 2, organisant le financement de ces missions,
+
+- la politique de vente ou d’octroi de droits réels sur des immeubles appartenant au Fonds,
+
+- le budget d’exploitation ainsi que les comptes de fin d’exercice,
+
+- les programmes d’investissements annuels et les programmes d’investissements pluriannuels,
+
+- les emprunts à contracter,
+
+- l’organigramme, la grille des emplois et leur classification ainsi que les conditions et modalités de rémunération et le volume des tâches du personnel,
+
+- l’engagement et le licenciement d’un directeur,
+
+2.
+
+- l’exécution et la mise en oeuvre de la politique générale,
+
+- ibis) l’exécution et la mise en œuvre des missions visées par l’article 2 bis ,
+
+- les règles d’exécution du budget,
+
+- le rapport général d’activités,
+
+- les actions judiciaires à intenter et les transactions à conclure,
+
+- les conventions à conclure,
+
+- l’engagement et le licenciement du personnel du Fonds.
+
+(2)
+
+Le président du conseil d’administration ou celui qui le remplace représente le Fonds dans tous les actes publics et privés. Les actions judiciaires sont intentées et défendues au nom du Fonds par le président du conseil d’administration ou par son remplaçant.
+
+Le président ou son remplaçant peut déléguer ce pouvoir de représentation et de signature conformément aux dispositions qui suivent :
+
+1. la délégation de signature en matière financière ne peut concerner que la signature des contrats, commandes et paiements dont les montants n’excèdent pas la somme déterminée par règlement grand-ducal pris en exécution de l’article 20, paragraphe 1 er , alinéa 3, lettre a), de la loi modifiée du 8 avril 2018 sur les marchés publics et établissant le montant en deçà duquel les marchés publics de travaux, de fournitures et de services peuvent être passés soit par procédure restreinte sans publication d’avis, soit par procédure négociée ;
+
+2. la délégation de signature en matière administrative ne peut concerner que les documents qui correspondent à la politique établie par le conseil d’administration et qui ne requièrent pas l’attention personnelle du président.
+
+Les délégations sont écrites et formelles. Elles peuvent être conférées au directeur du Fonds, au secrétaire du conseil d’administration du Fonds ou au chef du service concerné par l’objet de la délégation, selon l’organigramme du personnel du Fonds décidé par le conseil d’administration et approuvé par le ministre de tutelle conformément au paragraphe 1er, lettre a), sous vi). Les délégations consenties ne peuvent pas faire l’objet d’une subdélégation.
+
+(3)
+
+Les budgets d’investissement et d’exploitation de l’année à venir sont soumis au ministre de tutelle avant le 1er avril de l’année précédant l’exercice en question.
+
+(4)
+
+Il est institué un Bureau chargé d’organiser, de suivre et de contrôler les travaux, de proposer l’ordre du jour pour les réunions du conseil d’administration et d’accompagner la gestion journalière des travaux du Fonds. Il peut être chargé par le conseil d’administration de toute autre mission, à charge de lui en rendre compte régulièrement.
+
+Le Bureau est composé de quatre membres du conseil d’administration, y compris le président du conseil d’administration, désignés par le Gouvernement en conseil.
+
+Le Bureau est présidé par le président du conseil d’administration et assisté par le directeur.
 
 <a id="art-39bis"></a>
 ## Art. 39bis.
@@ -336,8 +458,40 @@ Le personnel du Fonds est assisté par du personnel engagé sur la base d’un c
 <a id="art-41"></a>
 ## Art. 41.
 
+(1)
+
+Dans la mesure de ses moyens, l’Etat met à la disposition du Fonds les services, l’équipement et les installations nécessaires. Le Fonds peut, sur autorisation préalable du ministre de tutelle , s’assurer tous autres concours pour lui permettre d’exécuter sa mission.
+
+(2)
+
+Tous les marchés pour services, travaux et fournitures au nom du Fonds sont soumis aux dispositions légales et règlementaires sur les marchés publics.
+
+(3)
+
+Tous les contrats de concession au nom du Fonds sont soumis aux dispositions légales et règlementaires sur l’attribution des contrats de concessions.
+
 <a id="art-42"></a>
 ## Art. 42.
+
+(1)
+
+Les comptes du Fonds sont tenus selon les principes et les modalités de la comptabilité commerciale. L’exercice coïncide avec l’année civile. A la clôture de chaque exercice, le conseil d’administration arrête le bilan et le compte de profits et pertes.
+
+(2)
+
+Un réviseur d’entreprises, désigné par le conseil d’administration avec l’approbation du le ministre de tutelle, est chargé de contrôler les comptes du Fonds et la régularité des opérations effectuées et des écritures comptables. Le réviseur d’entreprises doit remplir les conditions requises par la législation réglant la profession de réviseur d’entreprises. Son mandat est d’une durée de trois ans et il est renouvelable. Sa rémunération est à charge du Fonds. Il remet son rapport au conseil d’administration pour le 15 mars. Il peut être chargé par le conseil d’administration de procéder à des vérifications spécifiques.
+
+(3)
+
+Pour le 1er mai au plus tard, le conseil d’administration présente au Gouvernement en conseil les comptes de fin d’exercice accompagnés d’un rapport circonstancié sur la situation et le fonctionnement du Fonds ainsi que du rapport du réviseur d’entreprises.
+
+(4)
+
+La décharge du conseil d’administration est donnée par le Gouvernement en conseil et elle est acquise de plein droit si ce dernier n’a pas pris de décision dans le délai de deux mois.
+
+(5)
+
+La gestion financière du Fonds est soumise au contrôle de la Cour des Comptes.
 
 <a id="art-43"></a>
 ## Art. 43.

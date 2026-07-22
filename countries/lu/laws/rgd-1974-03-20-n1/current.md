@@ -31,6 +31,12 @@ Les substances énumérées en annexe tombent sous les dispositions de l’artic
 
 Il en est de même:
 
+1. des stéréo-isomères de ces substances, sauf exception expresse, dans tous les cas où ces stéréo-isomères peuvent exister conformément à la désignation chimique spécifiée;
+
+2. des organismes et parties d’organismes qui contiennent l’une des substances énumérées en annexe de manière naturelle et dont, le cas échéant après une intervention humaine, le potentiel d’abus à des fins enivrantes est avéré d’après l’état actuel des connaissances en matière de toxicomanie et pour lesquels il n’existe pas d’usage coutumier licite;
+
+3. du matériel biologique apte à la reproduction et à la culture des organismes visés sous b), à l’exclusion des semences de cannabis.
+
 <a id="art-2"></a>
 ## Art. 2.
 

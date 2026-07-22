@@ -29,17 +29,65 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 <a id="art-1er"></a>
 ## Art. 1er.
 
-Les attributions de la commission médico-psycho-pédagogique nationale sont les suivantes: recueillir les informations nécessaires à leur orientation, conformément à l'article 10 de la loi modifiée du 14 mars 1973. La commission nationale fait constituer, par tous les moyens qu'elle juge appropriés, et pour chaque enfant concerné, un dossier renfermant les pièces suivantes:
+Les attributions de la commission médico-psycho-pédagogique nationale sont les suivantes:
+
+1. Attributions en général:
+
+1. conseiller le ministre de l'Education nationale et de la Formation professionnelle sur les mesures à prendre en faveur des enfants qui, par l'effet de problèmes mentaux, caractériels, moteurs, sensoriels ou sociaux, éprouvent des difficultés au cours de l'éducation préscolaire, de l'enseignement primaire ou de l'enseignement spécial ainsi que dans le cadre de l'éducation différenciée;
+
+2. veiller, dans les classes de l'éducation préscolaire et de l'enseignement primaire, au dépistage des enfants devant bénéficier de mesures préventives ou d'appui;
+
+3. faire assister toute personne ayant la garde d'un enfant présentant de telles difficultés ou étant responsable de son éducation;
+
+4. recommander des mesures préventives et des mesures d'appui pédagogique dans l'intérêt d'enfants susceptibles d'éprouver ou éprouvant des difficultés d'ordre scolaire et à surveiller l'exécution de ces mesures.
+
+2. Attributions dans l'orientation et le suivi scolaires des enfants visés à l'article 1 er de la loi modifiée du 14 mars 1973:
+
+1. organiser le dépistage de ces enfants;
+
+2. recueillir les informations nécessaires à leur orientation, conformément à l'article 10 de la loi modifiée du 14 mars 1973. La commission nationale fait constituer, par tous les moyens qu'elle juge appropriés, et pour chaque enfant concerné, un dossier renfermant les pièces suivantes:
+
+- des rapports renseignant sur le handicap spécifique éventuel, établis par des spécialistes;
+
+- un bilan psychologique établi par un membre du service de guidance compétent respectivement par un psychologue attaché à un Centre d'éducation différenciée;
+
+- des rapports émanant de services ayant assuré une prise en charge de l'enfant avant sa scolarisation;
+
+- un rapport pédagogique, rédigé par un pédagogue du Service rééducatif ambulatoire, renseignant sur les possibilités de scolarisation et les mesures d'accompagnement éventuellement à envisager;
+
+- unun rapport sur l'audition des parents de l'enfant concerné rédigé par un membre des services de l'Education différenciée; rapport d'un assistant social ou assistant d'hygiène sociale du service social concerné;
+
+- un bilan scolaire élaboré sous la responsabilité de l'inspecteur;
+
+3. émettre une proposition d'orientation parmi les possibilités prévues à l'article 3, alinéa 2 de la loi modifiée du 14 mars 1973;
+
+4. transmettre cette proposition d'orientation aux parents ou à la personne investie de l'autorité parentale qui décident parmi les possibilités que leur offre l'article 3, alinéa 2 de la loi précitée;
+
+5. recevoir la demande de transfert vers une classe de l'éducation préscolaire ou de l'enseignement primaire ou de l'enseignement spécial d'un enfant placé dans le cadre de l'éducation différenciée et la transmettre au ministre de l'Education nationale et de la Formation professionnelle, accompagnée de son avis, conformément à l'article 12 de la loi modifiée du 14 mars 1973;
+
+6. émettre un avis lors de la prolongation de l'éducation d'un enfant au-delà de la scolarité obligatoire et à propos de demandes de dispense de l'obligation scolaire pour raison de santé.
 
 <a id="art-2"></a>
 ## Art. 2.
 
-La commission nationale, composée selon l'article 3 de la loi modifiée du 14 mars 1973 portant création d'instituts et de services d'éduction différenciée, peut avoir recours aux experts qu'elle juge nécessaires. (Règl. g.-d. du 24 mars 2014) «La commission nationale est présidée par un inspecteur de l'enseignement fondamental désigné par le ministre ayant l'Education nationale dans ses attributions. Celui-ci désigne également le secrétaire et le secrétaire administratif de la commission.» La commission nationale se réunit sur convocation de son président, au moins une fois par trimestre.
+La commission nationale, composée selon l'article 3 de la loi modifiée du 14 mars 1973 portant création d'instituts et de services d'éduction différenciée, peut avoir recours aux experts qu'elle juge nécessaires.
+
+(Règl. g.-d. du 24 mars 2014)
+
+«La commission nationale est présidée par un inspecteur de l'enseignement fondamental désigné par le ministre ayant l'Education nationale dans ses attributions. Celui-ci désigne également le secrétaire et le secrétaire administratif de la commission.»
+
+La commission nationale se réunit sur convocation de son président, au moins une fois par trimestre.
 
 <a id="art-3"></a>
 ## Art. 3.
 
-Les membres de la commission nationale sont nommés par le ministre de l'Education nationale et de la Formation professionnelle. Pour ces nominations, le ministre de la Santé propose un médecin de la direction de la santé, un médecin spécialiste en neuropsychiatrie ou en neurologie ou en psychiatrie et un médecin spécialiste en pédiatrie. Le ministre de la Famille propose son représentant. Les membres sont nommés pour des mandats renouvelables de trois ans. Le mandat d'un membre de la commission nationale vient à expiration, dès qu'il ne remplit plus les conditions d'attribution spécifiées par la loi.
+Les membres de la commission nationale sont nommés par le ministre de l'Education nationale et de la Formation professionnelle.
+
+Pour ces nominations, le ministre de la Santé propose un médecin de la direction de la santé, un médecin spécialiste en neuropsychiatrie ou en neurologie ou en psychiatrie et un médecin spécialiste en pédiatrie. Le ministre de la Famille propose son représentant.
+
+Les membres sont nommés pour des mandats renouvelables de trois ans.
+
+Le mandat d'un membre de la commission nationale vient à expiration, dès qu'il ne remplit plus les conditions d'attribution spécifiées par la loi.
 
 <a id="art-4"></a>
 ## Art. 4.

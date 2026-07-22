@@ -248,9 +248,29 @@ def source_cmd(law_id: str, language: str | None, verify: bool, path_only: bool)
 @main.command("check")
 @click.argument("path", required=False, type=click.Path(exists=True, path_type=Path))
 @click.option("--json", "as_json", is_flag=True)
-def check_cmd(path: Path | None, as_json: bool) -> None:
+@click.option(
+    "--id",
+    "law_id",
+    default=None,
+    help="Limit fidelity-focused reporting to one law ID (dataset checks still scan PATH).",
+)
+def check_cmd(path: Path | None, as_json: bool, law_id: str | None) -> None:
+    """Validate frontmatter, source hashes, anchors, and Markdown↔source fidelity."""
+    from lex.fidelity import check_law_fidelity
+
     root = path if path else _root()
-    errors = validate_dataset(root)
+
+    # Single law directory: .../laws/<slug>/ containing current.md + source.*
+    if (root / "current.md").is_file() and any(root.glob("source.*")):
+        errors = check_law_fidelity(root / "current.md", rel_path=root.as_posix())
+    else:
+        errors = validate_dataset(root)
+        if law_id is not None:
+            base_id, lang = _parse_id(law_id, None)
+            md_path = _find_law(root, base_id, lang)
+            rel = md_path.relative_to(root).as_posix()
+            errors = [err for err in errors if str(err.path).replace("\\", "/") == rel]
+
     if errors:
         if as_json:
             output = [

@@ -36,11 +36,87 @@ Le présent règlement ne s’applique pas aux dispositifs d’autodiagnostic se
 <a id="art-2"></a>
 ## Art. 2.
 
+(1)
+
+Un test rapide peut être réalisé chez toute personne, soit dans son intérêt et pour son seul bénéfice, soit dans un objectif de santé publique , après l'avoir informée et avoir recueilli son consentement libre et éclairé, par :
+
+1. un médecin ;
+
+2. un infirmier ;
+
+3. un laborantin exerçant dans un laboratoire d’analyses médicales ;
+
+4. une sage-femme ;
+
+5. un assistant social ;
+
+6. un salarié ou un bénévole relevant du champ d’application de loi modifiée du 26 mars 1992 sur l’exercice et la revalorisation de certaines professions de santé, désigné par une association agréée par le ministre ayant la Santé dans ses attributions, ci-après « le ministre » et , ayant suivi la formation prévue à l’article 5 , qui réalisent le test rapide sous la direction et sous la responsabilité d’un médecin.
+
+(2)
+
+Le test rapide réalisé à des fins de détection d’une infection au virus SARS-CoV-2 peut, en sus des personnes visées au paragraphe 1er, être réalisé par :
+
+1. un pompier volontaire ou professionnel, affecté au Corps grand-ducal d’incendie et de secours ;
+
+2. un psychologue ;
+
+3. un psychothérapeute ;
+
+4. une pharmacien.
+
+(3)
+
+L’information visée au paragraphe 1er porte sur l’objectif du test, le délai de fiabilité du test ainsi que le déroulement en cas de résultat positif du test.
+
+(2)
+
+Préalablement à la réalisation d’un test rapide, les personnes visées au paragraphe 1er doivent avoir suivi une formation sur l’utilisation et l’administration des tests rapides. Cette formation est validée par le ministre ayant la Santé dans ses attributions.
+
+(3)
+
+L’association visée au paragraphe 1er, point 6, est agréée par le ministre ayant la Santé dans ses attributions sur base d’un cahier de charge fixé à l’annexe I au présent règlement grand-ducal.
+
+(4)
+
+Les professionnels de la santé désigné par une association agréée en application du paragraphe 1er, point 6, sont soumis au respect du secret médical ou professionnel dont la révélation est punie dans les conditions définies par l’article 458 du code pénal.
+
 <a id="art-3"></a>
 ## Art. 3.
 
+(1)
+
+Chaque test rapide doit être précédé et suivi d’un entretien ayant pour objet d’informer en application du paragraphe 1er la personne sur laquelle est pratiqué le test sur l’objectif du test, le délai de fiabilité du test ainsi le déroulement de la procédure en cas de test positif. L’entretien a également pour objectif de conseiller la personne testée.
+
+(2)
+
+Le test rapide est réalisé de manière anonyme.
+
+(3)
+
+En cas de test rapide positif, la personne concernée est orientée systématiquement vers un médecin.
+
 <a id="art-4"></a>
 ## Art. 4.
+
+(1)
+
+Toute association agréée en application de l’article 2, paragraphe 1er, point 6, doit conclure une convention avec un laboratoire d’analyses médicales autorisé par le ministre ayant la Santé dans ses attributions conformément à l’article 3 de la loi modifiée du 16 juillet 1984 relative aux laboratoires d’analyses médicales pour effectuer la réalisation du diagnostic biologique de l’infection, pour l’exploration d’une recherche positive, et en vue de l'orientation de la personne testée vers une prise en charge adaptée.
+
+La présente disposition ne s’applique pas au test rapide visé à l’article 2, paragraphe 2.
+
+(2)
+
+Toute personne visée à l’article 2, paragraphes 1 er et 2, qui constate un résultat positif d’un test rapide de l’infection au SARS-CoV-2, est tenue d’en faire la déclaration le jour même au directeur de la Santé ou à son délégué. Cette déclaration comprend au moins les données individuelles suivantes :
+
+1. nom, prénom du patient et son adresse,
+
+2. date de naissance et sexe du patient,
+
+3. date du test,
+
+4. date des premiers symptômes, si connue,
+
+5. source d’infection si connue.
 
 <a id="art-5"></a>
 ## Art. 5.

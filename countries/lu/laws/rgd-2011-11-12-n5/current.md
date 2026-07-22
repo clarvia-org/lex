@@ -56,10 +56,44 @@ L’agent qui, de manière répétée, ne respecte pas les règles sur l’horai
 <a id="art-4"></a>
 ## Art. 4.
 
+1.
+
+La durée de travail journalière ne peut être ni supérieure à dix heures ni inférieure à six heures.
+
+2.
+
+L’amplitude de la durée de travail journalière comprend la période qui s’étend de 7.00 heures à 19.30 heures.
+
+Elle est divisée en phases successives dénommées plages.
+
 <a id="art-5"></a>
 ## Art. 5.
 
 La durée de travail journalière est constituée par la plage fixe, la plage mobile et la coupure.
+
+1.
+
+La plage fixe est la période de la journée pendant laquelle l’agent doit être présent sur le lieu de travail à moins d’une dispense dûment accordée par le chef d’administration ou son délégué.
+
+La plage fixe s’étend le matin de 9.00 heures à 11.30 heures et l’après-midi de 14.30 heures à 16.00 heures.
+
+2.
+
+La plage mobile est la période de la journée à l’intérieur de laquelle l’agent peut fixer librement son arrivée le matin, son départ en fin de journée et l’interruption du travail à midi.
+
+Les périodes de la plage mobile se situent entre 7.00 heures et 9.00 heures, 11.30 heures et 14.30 heures et entre 16.00 heures et 19.30 heures.
+
+3.
+
+Par coupure, il y a lieu d’entendre une interruption dans la durée du travail et qui est obligatoire pour tout le personnel. Il y a deux types de coupures:
+
+1. la coupure de midi qui est une interruption d’une heure au moins s’intercalant dans la plage mobile de 11.30 heures à 14.30 heures, sans distinction du degré de la tâche de l’agent;
+
+2. la coupure de repos journalière qui est la durée minimale de repos située entre deux jours de travail consécutifs et qui est fixée au moins à douze heures consécutives.
+
+Par dérogation au point a), le chef d’administration peut, par voie de règlement interne, prévoir que les agents travaillant à tâche partielle à raison de six heures par jour peuvent, dans l’intérêt du service, travailler sans devoir observer la coupure de midi.
+
+Dans des cas exceptionnels liés aux contraintes de service, le chef d’administration peut, par voie de règlement interne, fixer la coupure de midi pour certains agents à une demi-heure.
 
 <a id="art-6"></a>
 ## Art. 6.
@@ -73,11 +107,63 @@ A défaut de règlement interne, les heures d’ouverture de l’administration 
 <a id="art-7"></a>
 ## Art. 7.
 
+1.
+
+Le temps de travail des agents est enregistré chaque jour.
+
+2.
+
+L’enregistrement des heures d’arrivée et de départ ainsi que le décompte des heures de présence sont effectués par un système de gestion d’horaire informatique.
+
+3.
+
+Chaque mois, le décompte des heures de présence est établi. Il est communiqué à l’agent.
+
 <a id="art-8"></a>
 ## Art. 8.
 
+1.
+
+La durée mensuelle de travail peut être dépassée par un solde positif de quarante heures au maximum. Elle ne peut accuser un solde négatif de plus de six heures.
+
+2.
+
+Le solde négatif est à récupérer au cours du mois suivant, le solde positif étant compensé selon les modalités de l’horaire mobile telles que prévues ci-avant.
+
+Toutefois, un solde positif de quatre heures par mois peut être converti mensuellement en une demi-journée de congé de récréation à prendre obligatoirement au cours du mois qui suit. Un solde positif de huit heures par mois peut être converti mensuellement en une journée de congé de récréation à prendre obligatoirement au cours du mois qui suit.
+
 <a id="art-9"></a>
 ## Art. 9.
+
+1.
+
+Outre les heures de travail effectivement prestées, sont bonifiées comme heures normales de service en vue de l’établissement du décompte mensuel:
+
+- tous les congés tels qu’ils sont définis au règlement grand-ducal fixant le régime des congés des fonctionnaires et employés de l’Etat;
+
+- les voyages et déplacements de service;
+
+- les retards dus à des cas de force majeure;
+
+- les dispenses de service.
+
+2.
+
+Sont notamment considérées comme dispenses de service au sens des dispositions du paragraphe 1er ci-dessus:
+
+- l’accomplissement des devoirs civiques et politiques;
+
+- les convocations auprès d’instances officielles;
+
+- les absences résultant de la formation professionnelle;
+
+- les consultations de médecin et les soins prescrits par un médecin et pris en charge par la Caisse nationale de santé;
+
+- la participation autorisée à l’enterrement d’un collègue de travail proche.
+
+3.
+
+Les bonifications d’heures d’absence dont question ci-dessus ne peuvent en aucun cas dépasser le maximum de huit heures par jour. En cas de voyage de service à l’étranger, cette bonification ne peut pas dépasser dix heures par jour.
 
 <a id="art-10"></a>
 ## Art. 10.

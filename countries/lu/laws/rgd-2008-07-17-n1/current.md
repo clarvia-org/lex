@@ -38,7 +38,18 @@ L'élection des membres effectifs et suppléants se fait d'après les règles de
 
 Elle a lieu par correspondance.
 
-La composition numérique, la répartition sectorielle et la répartition des sièges sont fixées comme suit: Groupe 1: Salariés appartenant au secteur de la sidérurgie: 5 sièges Groupe 2: Salariés appartenant aux secteurs des autres industries: 8 sièges Groupe 3: Salariés appartenant au secteur de la construction: 6 sièges Groupe 4: Salariés appartenant au secteur des services financiers et de l’intermédiation financière: 8 sièges Groupe 5: Salariés appartenant au secteur des services ainsi qu’aux autres branches non spécialement dénommées: 14 sièges Groupe 6: Salariés appartenant au secteur de l’administration publique et des entreprises à caractère public du secteur des communications, de l’eau et de l’énergie: 4 sièges Groupe 7: Salariés appartenant au secteur de la santé et de l’action sociale: 6 sièges Groupe 8: Agents actifs et retraités de la CFL ainsi que les agents de la CFL bénéficiant d’une pension d’invalidité : 3 sièges Groupe 9: Bénéficiaires d’une pension de vieillesse et d’invalidité à l’exception des agents retraités de la CFL et des agents de la CFL bénéficiant d’une pension d’invalidité : 6 sièges
+La composition numérique, la répartition sectorielle et la répartition des sièges sont fixées comme suit:
+
+| Groupe 1: | Salariés appartenant au secteur de la sidérurgie: 5 sièges |
+| --- | --- |
+| Groupe 2: | Salariés appartenant aux secteurs des autres industries: 8 sièges |
+| Groupe 3: | Salariés appartenant au secteur de la construction: 6 sièges |
+| Groupe 4: | Salariés appartenant au secteur des services financiers et de l’intermédiation financière: 8 sièges |
+| Groupe 5: | Salariés appartenant au secteur des services ainsi qu’aux autres branches non spécialement dénommées: 14 sièges |
+| Groupe 6: | Salariés appartenant au secteur de l’administration publique et des entreprises à caractère public du secteur des communications, de l’eau et de l’énergie: 4 sièges |
+| Groupe 7: | Salariés appartenant au secteur de la santé et de l’action sociale: 6 sièges |
+| Groupe 8: | Agents actifs et retraités de la CFL ainsi que les agents de la CFL bénéficiant d’une pension d’invalidité : 3 sièges |
+| Groupe 9: | Bénéficiaires d’une pension de vieillesse et d’invalidité à l’exception des agents retraités de la CFL et des agents de la CFL bénéficiant d’une pension d’invalidité : 6 sièges |
 
 Si un employeur s'est vu attribuer plusieurs codes NACE, celui de l'activité principale est déterminant pour le classement des salariés dans les différents groupes.
 
@@ -105,6 +116,12 @@ Une copie des listes électorales définitivement arrêtées est transmise, dans
 ## Art. 8.
 
 Pour chaque groupe les listes de candidats sont présentées par dix électeurs inscrits dans ce groupe. La présentation des listes de candidats doit être accompagnée, outre les preuves requises par l'article 6 de la loi modifiée du 4 avril 1924 portant création de chambres professionnelles à base élective:
+
+1. d'une attestation délivrée à chaque candidat par le ministre ayant le travail dans ses attributions et certifiant qu'il est électeur et dans quel groupe;
+
+2. d'une déclaration signée par les candidats et attestant qu'ils acceptent la candidature dans ce groupe ;
+
+3. d’un bulletin n°3 du casier judiciaire de chaque candidat voire un extrait du casier judiciaire équivalent pour les candidats qui n’habitent pas sur le territoire du Grand-Duché du Luxembourg.
 
 Chaque liste porte la désignation d'un mandataire choisi parmi les signataires de la présentation à l'effet de faire le dépôt de la liste et de remplir les autres devoirs lui imposés par les articles suivants.
 
@@ -268,6 +285,18 @@ Par dérogation à l'alinéa qui précède, le bureau électoral peut décider d
 ## Art. 27.
 
 Est nul
+
+1. tout bulletin qui n'a pas été envoyé ou remis aux électeurs par le président;
+
+2. tout bulletin qui
+
+1. ne contient l'expression d'aucun suffrage;
+
+2. contient plus de suffrages qu'il n'y a de membres à élire;
+
+3. porte une marque quelconque;
+
+4. fait connaître le votant.
 
 <a id="art-28"></a>
 ## Art. 28.

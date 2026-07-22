@@ -44,12 +44,36 @@ Si pour une même période le fonctionnaire peut se prévaloir et du point 4. de
 <a id="art-3"></a>
 ## Art. 3.
 
-Dans les cas visés sous d) il est présumé que l’enfant a été élevé par le parent touchant le revenu professionnel le moins élevé, subsidiairement, par le conjoint le plus jeune. La preuve ne peut être rapportée que jusqu’à l’échéance d’un risque assuré dans le chef d’un des conjoints.
+1. Pour la mise en compte des périodes prévues à l’article 4, point 4. de la loi modifiée du 3 août 1998 il est présumé que la mère a élevé l’enfant. Le père de l’enfant peut rapporter la preuve contraire Dans les cas visés sous d) il est présumé que l’enfant a été élevé par le parent touchant le revenu professionnel le moins élevé, subsidiairement, par le conjoint le plus jeune. La preuve ne peut être rapportée que jusqu’à l’échéance d’un risque assuré dans le chef d’un des conjoints.
+
+1. si la garde de l’enfant lui a été confiée,
+
+2. si la mère a exercé une occupation professionnelle alors que le père n’exerçait pas une telle occupation,
+
+3. si le père habitait seul avec l’enfant,
+
+4. si les deux conjoints exerçaient simultanément une activité professionnelle.
+
+2. L’infirmité éventuelle de l’enfant doit être telle qu’il ne peut subsister sans l’assistance et les soins du parent concerné et doit être constatée par la Commission des pensions prévue à l’article 68 de la loi modifiée du 3 août 1998 , respectivement par l’organe compétent du régime de pension spécial concerné.
 
 <a id="art-4"></a>
 ## Art. 4.
 
-Sont assimilées aux études:
+1. Sont prises en considération comme périodes d’études et de formation professionnelle au titre du même article 4, sous point 2. les périodes où l’intéressé Sont assimilées aux études:
+
+1. a suivi effectivement, sur place, au Grand-Duché ou à l’étranger, dans un établissement public ou privé d’enseignement secondaire, supérieur ou universitaire, des cours d’enseignement général ou professionnel,
+
+2. a suivi des cours d’adultes du soir de l’enseignement secondaire ou technique,
+
+3. a effectué un stage prévu par le programme d’études et prescrit en vue de l’obtention du diplôme clôturant lesdites études.
+
+1. les périodes de vacances annuelles à l’inclusion de celles consécutives à l’année scolaire,
+
+2. les interruptions d’études pour des raisons de santé,
+
+3. à la fin des études, la période se situant entre la fin de l’année scolaire et le 31 octobre subséquent.
+
+2. L’intéressé doit rapporter la preuve des périodes d’études et de formation, notamment moyennant des diplômes, des certificats d’études, des certificats d’apprentissage, pour la période se situant entre l’âge de dix-huit ans et la fin de ses études ou de sa formation professionnelle.
 
 <a id="art-5"></a>
 ## Art. 5.
@@ -76,6 +100,10 @@ L’assurance continuée, complémentaire ou facultative doit couvrir une pério
 L’assiette de cotisation mensuelle ne peut être inférieure au salaire social minimum mensuel. Toutefois, l’intéressé peut demander qu’elle soit réduite à un tiers du salaire social minimum mensuel pendant un total ne dépassant pas soixante mois d’assurance au cours de sa carrière d’assurance. Pour compter cette durée maximale, ne sont pas pris en considération les mois mis en compte au titre de l’assurance obligatoire conformément à l’article 7 de la loi modifiée du 3 août 1998 instituant des régimes de pension spéciaux pour les fonctionnaires de l’État et des communes ainsi que pour les agents de la Société nationale des Chemins de Fer luxembourgeois.
 
 Compte tenu des dispositions prévisées, l’intéressé est libre de fixer la durée de l’assurance continuée, complémentaire ou facultative ainsi que l’assiette pour les contributions volontaires, sans que cette assiette ne puisse être inférieure au salaire social minimum, ni dépasser
+
+- soit la rémunération définie conformément aux articles 60, 80 ou 85 de la loi modifiée du 3 août 1998 suivant le régime de pension spécial compétent et réalisée avant l’admission à l’assurance continuée, complémentaire ou facultative, revalorisée, le cas échéant, par rapport à l’exercice d’une tâche complète, soit le plafond défini à l’article 49 de la loi précitée pour le cas où celui-ci est plus favorable,
+
+- soit l’indemnité parlementaire prévue à l’article 126.-1. de la loi électorale du 18 février 2003 dont bénéficie l’assuré en sa qualité de membre de la chambre des députés, à condition que ce mandat soit le fondement exclusif d’une assurance obligatoire. Toutefois, il est loisible à l’intéressé de porter l’assiette jusqu’à concurrence du plafond défini à l’article 49 de la loi précitée .
 
 Dans la limite des plafonds visés à l’alinéa 3, l’intéressé peut en outre fixer l’assiette de cotisation à une, deux, trois, quatre ou cinq fois le salaire social minimum mensuel.
 
@@ -112,6 +140,14 @@ La demande en vue d’un achat rétroactif de périodes d’assurance visé à l
 
 La période à couvrir rétroactivement ne peut ni se situer avant l’âge de dix-huit ans ni excéder:
 
+1. les périodes de mariage,
+
+2. les périodes d’éducation d’un enfant mineur,
+
+3. les périodes d’aides et de soins assurés à une personne reconnue dépendante conformément aux articles 348 et 349 du Code de la sécurité sociale ou bénéficiant d’une allocation de soins prévue par la loi du 22 mai 1989 , d’une allocation spéciale pour personnes gravement handicapées au titre de la loi modifiée du 16 avril 1979 , d’une majoration de la rente d’accident en vertu de l’article 97, alinéa 10 du Code de la sécurité sociale ou d’une majoration du complément du revenu minimum garanti prévu par l’article 3, alinéa 4 de la loi modifiée du 26 juillet 1986 conformément à l’article VIII de la loi du 19 juin 1998 portant introduction d’une assurance dépendance,
+
+4. les périodes d’affiliation à un régime de pension étranger ou à un régime de pension d’une organisation internationale.
+
 Le régime de pension spécial compétent peut demander à l’intéressé de fournir les pièces justificatives au sujet des périodes ci-dessus.
 
 Les périodes visées aux points 1) à 3) ci-avant peuvent se superposer à des périodes d’assurance obligatoire, mais les mois d’assurance afférents ne sont mis en compte qu’une seule fois conformément à l’article 7 de la loi modifiée du 3 août 1998.
@@ -119,7 +155,9 @@ Les périodes visées aux points 1) à 3) ci-avant peuvent se superposer à des 
 <a id="art-14"></a>
 ## Art. 14.
 
-1) Pour un mois d’assurance à couvrir rétroactivement pendant une période visée aux points 1) à 3) de l’article 13, il est mis en compte, à la demande de l’intéressé, un revenu correspondant, soit au minimum cotisable défini par le salaire social minimum pour un travailleur non qualifié âgé de dix-huit ans au moins en vigueur pendant ces périodes, soit à des multiples de 1,5, de 2,0 et de 2,5 de ce minimum. En aucun cas, les revenus portés en compte au titre de l’assurance obligatoire, continuée et facultative et de l’achat rétroactif ne peuvent dépasser soit la rémunération définie conformément aux articles 60, 80 ou 85 de la loi modifiée du 3 août 1998 suivant le régime de pension spécial compétent, revalorisée, le cas échéant, par rapport à l’exercice d’une tâche complète et réalisée pendant l’année de calendrier en question, soit le maximum cotisable en vigueur auprès de la Caisse nationale d’assurance pension pendant la même année si celui-ci est plus favorable. Toutefois, si le forfait de rachat ou l’équivalent actuariel est transféré par l’organisme étranger ou international directement au régime de pension spécial compétent luxembourgeois, le montant est converti en revenus cotisables. Dans la mesure où le montant transféré est insuffisant par rapport au montant de l’achat déterminé compte tenu des limites prévues à l’alinéa qui précède et des dispositions de l’article 15 qui suit, l’intéressé devra le compléter à ses frais. Si le montant transféré dépasse la valeur maximale de l’achat, l’excédent est versé à l’intéressé.
+1. 1) Pour un mois d’assurance à couvrir rétroactivement pendant une période visée aux points 1) à 3) de l’article 13, il est mis en compte, à la demande de l’intéressé, un revenu correspondant, soit au minimum cotisable défini par le salaire social minimum pour un travailleur non qualifié âgé de dix-huit ans au moins en vigueur pendant ces périodes, soit à des multiples de 1,5, de 2,0 et de 2,5 de ce minimum. En aucun cas, les revenus portés en compte au titre de l’assurance obligatoire, continuée et facultative et de l’achat rétroactif ne peuvent dépasser soit la rémunération définie conformément aux articles 60, 80 ou 85 de la loi modifiée du 3 août 1998 suivant le régime de pension spécial compétent, revalorisée, le cas échéant, par rapport à l’exercice d’une tâche complète et réalisée pendant l’année de calendrier en question, soit le maximum cotisable en vigueur auprès de la Caisse nationale d’assurance pension pendant la même année si celui-ci est plus favorable.
+
+2. Pour les périodes visées à au point 4) de l’article qui précède, l’intéressé est libre de fixer le revenu à mettre en compte dans sa carrière d’assurance sans pouvoir être inférieur au salaire social minimum ci-avant défini en vigueur pendant l’année de calendrier en question, ni dépasser soit la rémunération, définie conformément aux articles 60, 80 ou 85 de la loi modifiée du 3 août 1998 suivant le régime de pension spécial applicable, dont le fonctionnaire bénéficie au moment de l’entrée en service, revalorisée, le cas échéant, par rapport à l’exercice d’une tâche complète, soit le maximum cotisable en vigueur pour l’année de calendrier en cause auprès de la Caisse nationale d’assurance pension pour le cas où celui-ci est plus favorable. Toutefois, si le forfait de rachat ou l’équivalent actuariel est transféré par l’organisme étranger ou international directement au régime de pension spécial compétent luxembourgeois, le montant est converti en revenus cotisables. Dans la mesure où le montant transféré est insuffisant par rapport au montant de l’achat déterminé compte tenu des limites prévues à l’alinéa qui précède et des dispositions de l’article 15 qui suit, l’intéressé devra le compléter à ses frais. Si le montant transféré dépasse la valeur maximale de l’achat, l’excédent est versé à l’intéressé.
 
 <a id="art-15"></a>
 ## Art. 15.

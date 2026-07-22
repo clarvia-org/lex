@@ -31,6 +31,18 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 La commission d'experts chargée de donner au ministre ayant dans ses attributions la Santé un avis motivé sur les demandes d'autorisation de mise sur le marché des spécialités pharmaceutiques et des médicaments préfabriqués, appelée ci-après la commission, se compose des membres suivants:
 
+- de quatre délégués du ministre ayant dans ses attributions la santé, dont deux médecins et deux pharmaciens;
+
+- de deux représentants du corps médical;
+
+- de deux représentants du corps pharmaceutique, dont l'un représente le secteur hospitalier et l'autre le secteur extra-hospitalier;
+
+- de deux représentants du Contrôle médical de la sécurité sociale;
+
+- d'un représentant de l'Union des caisses de maladie;
+
+- de deux membres du Comité des spécialités pharmaceutiques.
+
 Pour chaque membre effectif, à l'exception des membres du Comité des spécialités pharmaceutiques, il y a un membre suppléant.
 
 <a id="art-2"></a>

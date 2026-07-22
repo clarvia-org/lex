@@ -35,6 +35,22 @@ Les agents visés à l’article 78 de la loi communale du 13 décembre 1988 ont
 
 Le congé politique de ces agents, lorsqu’ils remplissent les fonctions respectivement de bourgmestre, d’échevin ou de conseiller, comprend le nombre maximum de jours de travail ou de parties de jours de travail par semaine indiqué ci-après :
 
+1. dans les communes qui ne comptent pas plus de 999 habitants : 11 heures pour le bourgmestre, 6 heures pour chacun des échevins et 3 heures pour chacun des conseillers ;
+
+2. dans les communes qui comptent 1.000 à 2.999 habitants : 15 heures pour le bourgmestre, 8 heures pour chacun des échevins et 3 heures pour chacun des conseillers ;
+
+3. dans les communes qui comptent 3.000 à 5.999 habitants : 24 heures pour le bourgmestre, 12 heures pour chacun des échevins et 5 heures pour chacun des conseillers ;
+
+4. dans les communes qui comptent 6.000 à 9.999 habitants : 40 heures pour le bourgmestre, 18 heures pour chacun des échevins et 5 heures pour chacun des conseillers ;
+
+5. dans les communes qui comptent 10.000 à 14.999 habitants : 40 heures pour le bourgmestre, 24 heures pour chacun des échevins et 5 heures pour chacun des conseillers ;
+
+6. dans les communes qui comptent 15.000 à 19.999 habitants : 40 heures pour le bourgmestre, 24 heures pour chacun des échevins et 5 heures pour chacun des conseillers ;
+
+7. dans les communes qui comptent 20.000 et plus : 40 heures pour le bourgmestre, 24 heures pour chacun des échevins et 8 heures pour chacun des conseillers ;
+
+8. dans la commune fusionnée de Groussbus-Wal, pendant la période transitoire telle que définie à l’article 9 de la loi du 3 mars 2023 portant fusion des communes de Grosbous et de Wahl : 24 heures pour le bourgmestre et 12 heures pour chacun des échevins.
+
 Le nombre d’habitants correspond à la population réelle par commune déterminée sur base du registre national des personnes physiques au 1er janvier de l’année concernée.
 
 <a id="art-3-20240801"></a>
@@ -42,8 +58,38 @@ Le nombre d’habitants correspond à la population réelle par commune détermi
 
 Pour les agents qui remplissent un mandat de conseiller communal, le congé politique comprend le nombre maximum de jours de travail ou de parties de jours de travail par semaine indiqué ci-après:
 
+- dans les communes qui votent d’après le système de la majorité relative: 3 heures;
+
+- dans les communes qui votent d’après le système de la représentation proportionnelle: 5 heures.
+
 <a id="art-3bis"></a>
 ## Art. 3bis.
+
+(1)
+
+Par dérogation à l’article 2 , un supplément de 15 heures de congé politique par semaine au maximum est institué pour chaque conseil communal selon les modalités suivantes.
+
+(2)
+
+Le conseil communal fixe par délibération la répartition du supplément de congé politique entre les agents visés à l’article 1er et les personnes visées à l’article 8. qui ont été désignés comme délégués dans les syndicats de communes dont la commune est membre
+
+Lors de cette répartition, il sera tenu compte par ordre de priorité décroissant, de l’envergure nationale, régionale ou intercommunale du syndicat concerné.
+
+(3)
+
+Le collège des bourgmestre et échevins délivre à chaque élu communal concerné, sur base d’une expédition de la délibération conforme à l’article 26 de la loi communale, un certificat portant la date de délivrance et renseignant sur le nombre supplémentaire d’heures de congé politique lui accordé.
+
+Ce certificat sert comme titre justificatif auprès de l’employeur.
+
+L’agent concerné est tenu de signaler immédiatement à son employeur tout changement ayant une incidence sur le supplément de congé politique qui lui a été accordé.
+
+(4)
+
+Le droit au congé politique commence le 1er du mois qui suit la date de délivrance du certificat précité. et prend fin le jour de la cessation du mandat au syndicat de communes
+
+(5)
+
+En aucun cas, le total du congé politique ne saurait dépasser un maximum de 40 heures par semaine.
 
 <a id="art-4"></a>
 ## Art. 4.

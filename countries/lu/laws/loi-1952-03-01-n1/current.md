@@ -62,6 +62,20 @@ Par dérogation au paragraphe 32, al. 3, N° 1, litt. a de la loi du 27 février
 
 Les dispositions qui régissent l’impôt commercial communal d’après les bénéfice et capital d’exploitation sont modifiées comme suit à partir de l’année d’imposition 1952 :
 
+1. Le taux de base d’après le bénéfice d’exploitation est fixé à 4% de ce bénéfice, préalablement diminué d’un abattement de 1 983,15 euros.
+
+2. Sans préjudice de l’article 9, l’impôt commercial est attribué
+
+1. en ce qui concerne l’impôt dû par les personnes exerçant une profession ambulante et ayant leur domicile fiscal au Grand-Duché, à la commune du domicile fiscal des contribuables ;
+
+2. en ce qui concerne l’impôt dû par les contribuables dont les exploitations sont situées dans une zone d’activité intercommunale qui répond aux critères à fixer par règlement grand-ducal, aux communes associées pour l’exploitation de la zone d’activité intercommunale; un règlement grand-ducal déterminera les règles de ventilation à suivre;
+
+3. en ce qui concerne l’impôt dû par les autres contribuables, aux communes de situation des exploitations en cause; un règlement grand-ducal déterminera les règles de ventilation à suivre lorsqu’une exploitation possède des établissements stables sur le territoire de plusieurs communes ou qu’un établissement stable s’étend sur le territoire de plusieurs communes.
+
+3. L’Administration des contributions directes informe annuellement chaque commune, nommément par contribuable, du montant de l’impôt commercial recouvré pour son compte pendant l’année civile écoulée.
+
+4. La participation des communes de résidence des salariés et des communes de résidence de la population sera fixée par voie de règlement grand-ducal.
+
 <a id="art-7"></a>
 ## Art. 7.
 

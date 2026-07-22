@@ -75,6 +75,14 @@ Aux fins de l’application des articles 2 et 3 du règlement (CE) n° 1082/2003
 <a id="art-8"></a>
 ## Art. 8.
 
+(1)
+
+Aux fins de l’application des articles 1er, 2 et 4 du règlement (CE) n° 494/98 précité l’administration impose des limitations de mouvements et la destruction des bovins.
+
+(2)
+
+Les infractions aux dispositions des articles 4, 6 et 7 du règlement (CE) n° 1760/2000 précité sont punies d’une amende de 251 à 100.000 euros.
+
 <a id="art-9"></a>
 ## Art. 9.
 

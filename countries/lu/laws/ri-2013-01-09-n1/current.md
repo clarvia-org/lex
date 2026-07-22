@@ -35,6 +35,8 @@ Vu l’article 11 (6) de la Constitution, vu l’article 19 de la Loi, le Consei
 <a id="art-1-2"></a>
 ## Art. 1.2.
 
+Principes essentiels
+
 La profession d’avocat est une profession libérale et indépendante.
 
 L’avocat doit respecter les lois et règlements qui le concernent et les règles inscrites dans le présent règlement.
@@ -56,10 +58,14 @@ L’avocat doit disposer d’une infrastructure lui permettant de se conformer �
 <a id="art-2-1"></a>
 ## Art. 2.1.
 
+Généralités
+
 L’avocat conseille, assiste, représente, rédige et plaide. Il peut également, dans les limites légales, être désigné notamment comme mandataire, dépositaire, séquestre, arbitre, médiateur, conciliateur, curateur, expert, liquidateur ou administrateur provisoire.
 
 <a id="art-2-2"></a>
 ## Art. 2.2.
+
+Participation de l’avocat dans les activités de sociétés commerciales
 
 L’avocat peut être administrateur, gérant, membre du conseil d’administration ou de gérance de sociétés commerciales. Il ne peut pas, à l’occasion de l’exercice de ces fonctions, exercer une activité commerciale, agricole ou artisanale, ni être titulaire d’une autorisation de faire le commerce.
 
@@ -68,18 +74,26 @@ L’avocat ne peut être en charge ni de la gestion journalière de sociétés a
 <a id="art-2-3"></a>
 ## Art. 2.3.
 
+Participation aux assemblées
+
 L’avocat peut assister et/ou représenter ses mandants au cours d’une assemblée générale des associés, actionnaires ou sociétaires d’une personne morale, ainsi qu’à toute autre assemblée.
 
 <a id="art-2-4"></a>
 ## Art. 2.4.
 
+Rapports de l’avocat avec ses mandants
+
 <a id="art-2-4-1"></a>
 ## Art. 2.4.1.
+
+Lieu de rencontre avec le mandant
 
 L’avocat reçoit ses mandants dans son étude ou, s’il estime que des circonstances particulières l’exigent, en tout lieu compatible avec la dignité de la profession, préservant son indépendance et son secret professionnel.
 
 <a id="art-2-4-2"></a>
 ## Art. 2.4.2.
+
+Opposition d’intérêts
 
 <a id="art-2-4-2-1"></a>
 ## Art. 2.4.2.1.
@@ -87,6 +101,12 @@ L’avocat reçoit ses mandants dans son étude ou, s’il estime que des circon
 L’avocat ne doit être ni le conseil ni le représentant ou le défenseur de plus d’un mandant dans une même affaire s’il y a conflit entre les intérêts des mandants ou un risque sérieux d’un tel conflit.
 
 En particulier, il y a conflit d’intérêts si:
+
+1. l’avocat doit conseiller, représenter ou défendre une partie lorsqu’il aura précédemment conseillé, dans le cadre de la même affaire, une ou des parties opposées;
+
+2. l’avocat doit assumer des obligations distinctes afin d’agir au mieux des intérêts de deux clients ou davantage concernant des questions identiques ou connexes et que ces obligations entrent en conflit ou qu’elles risquent d’entrer en conflit;
+
+3. le devoir de l’avocat d’agir au mieux des intérêts de son client dans une affaire crée un conflit, ou s’il existe un risque de conflit avec les intérêts personnels de l’avocat au regard de l’affaire ou d’une affaire liée.
 
 <a id="art-2-4-2-2"></a>
 ## Art. 2.4.2.2.
@@ -122,6 +142,8 @@ Seul le dispositif de la décision d’arbitrage peut être versé aux tribunaux
 <a id="art-2-4-3"></a>
 ## Art. 2.4.3.
 
+Reprise d’un mandat
+
 <a id="art-2-4-3-1"></a>
 ## Art. 2.4.3.1.
 
@@ -152,6 +174,8 @@ L’avocat dessaisi doit, dans la quinzaine, remettre au Conseil de l’Ordre so
 <a id="art-2-4-4"></a>
 ## Art. 2.4.4.
 
+Compétence et diligence
+
 <a id="art-2-4-4-1"></a>
 ## Art. 2.4.4.1.
 
@@ -164,6 +188,8 @@ L’avocat ne peut accepter une affaire s’il n’est pas en mesure d’y appor
 
 <a id="art-2-4-5"></a>
 ## Art. 2.4.5.
+
+Honoraires
 
 <a id="art-2-4-5-1"></a>
 ## Art. 2.4.5.1.
@@ -188,8 +214,20 @@ Il est interdit à l’avocat de passer avec son mandant un pacte de quota litis
 
 Ne constituent notamment pas un pacte de quota litis les conventions suivantes:
 
+- celles en vertu desquelles les honoraires ne dépasseront en aucun cas un montant déterminé, ou se situeront entre un montant déterminé minimum et un montant déterminé maximum;
+
+- celles qui tiennent compte respectivement des diverses étapes de la procédure et de l’avancement des prestations faites par l’avocat;
+
+- celles par lesquelles le mandant convient avec son avocat d’un honoraire forfaitaire en rémunération de son activité, à condition toutefois que ces conventions ne soient pas exclusivement liées au résultat judiciaire ou autre obtenu par l’avocat;
+
+- celles qui, outre la rémunération des prestations effectuées, prévoient la fixation d’un honoraire complémentaire en fonction du résultat obtenu ou du service rendu;
+
+- celles qui font référence à un abonnement entre le mandant et son avocat.
+
 <a id="art-2-4-6"></a>
 ## Art. 2.4.6.
+
+Conflits en matière d’honoraires entre un avocat et son mandant
 
 <a id="art-2-4-6-1"></a>
 ## Art. 2.4.6.1.
@@ -241,6 +279,8 @@ L’avocat dont il s’avère qu’il a demandé des honoraires largement exagé
 <a id="art-2-4-7"></a>
 ## Art. 2.4.7.
 
+Responsabilité pécuniaire entre avocats
+
 <a id="art-2-4-7-1"></a>
 ## Art. 2.4.7.1.
 
@@ -254,6 +294,8 @@ L’avocat peut convenir de dispositions particulières en début de relations. 
 <a id="art-2-5"></a>
 ## Art. 2.5.
 
+Relations de l’avocat avec les instances ordinales
+
 <a id="art-2-5-1"></a>
 ## Art. 2.5.1.
 
@@ -266,6 +308,8 @@ L’avocat qui se voit adresser un courrier par les instances ordinales, que ce 
 
 <a id="art-2-6"></a>
 ## Art. 2.6.
+
+Commissions et désignations d’office
 
 <a id="art-2-6-1"></a>
 ## Art. 2.6.1.
@@ -283,6 +327,8 @@ La validité du motif de refus est soumise à l’appréciation du Bâtonnier ou
 
 <a id="art-2-7"></a>
 ## Art. 2.7.
+
+Assistance judiciaire
 
 <a id="art-2-7-1"></a>
 ## Art. 2.7.1.
@@ -312,6 +358,8 @@ L’avocat commis au titre de l’assistance judiciaire est tenu d’informer le
 <a id="art-2-8"></a>
 ## Art. 2. 8.
 
+Avocat de l’enfant
+
 <a id="art-2-8-1"></a>
 ## Art. 2.8.1.
 
@@ -319,6 +367,8 @@ L’avocat qui se voit confier la défense des intérêts d’un mineur, soit pa
 
 <a id="art-2-9"></a>
 ## Art. 2.9.
+
+Obligations du stage judiciaire
 
 <a id="art-2-9-1"></a>
 ## Art. 2.9.1.
@@ -339,12 +389,16 @@ Le patron de stage veillera à assurer un suivi effectif du travail réalisé pa
 <a id="art-3-1"></a>
 ## Art. 3.1.
 
+Présentation et plaidoirie
+
 L’avocat veillera à se présenter tête nue et en tenue correcte en toutes circonstances. Il se présentera en robe devant les juridictions où le port de la robe est d’usage.
 
 L’avocat ne peut porter ni décoration, ni signe manifestant une appartenance religieuse, communautaire, philosophique ou politique.
 
 <a id="art-3-2"></a>
 ## Art. 3.2.
+
+Conduite du procès
 
 <a id="art-3-2-1"></a>
 ## Art. 3.2.1.
@@ -378,6 +432,14 @@ Si une affaire fixée pour plaidoiries doit être décommandée, l’avocat en i
 
 Cette information s’impose dans toutes les hypothèses où il est à prévoir que l’affaire fixée pour plaidoiries ne pourra pas être prise, et notamment dans les cas suivants:
 
+- affaire arrangée;
+
+- mesure d’instruction non terminée;
+
+- voie de recours introduite non vidée;
+
+- reprise d’instance.
+
 <a id="art-3-2-7"></a>
 ## Art. 3.2.7.
 
@@ -385,6 +447,8 @@ Dans la conduite du procès, l’avocat est dispensé de l’accord écrit de so
 
 <a id="art-3-3"></a>
 ## Art. 3.3.
+
+Instruction des affaires, communication entre avocats et communication des pièces
 
 <a id="art-3-3-1"></a>
 ## Art. 3.3.1.
@@ -450,10 +514,14 @@ Seul le dispositif de la décision d’arbitrage peut être versé aux tribunaux
 <a id="art-3-4"></a>
 ## Art. 3.4.
 
+Périodes de vacances judiciaires
+
 Les règles de loyauté et de confraternité recommandent, en cas d’absence du confrère, pendant les vacances judiciaires, de ne pas faire procéder à des significations faisant courir des délais ou de requérir défaut devant une juridiction, sauf urgence particulière.
 
 <a id="art-3-5"></a>
 ## Art. 3.5.
+
+Rapports avec la partie adverse
 
 <a id="art-3-5-1"></a>
 ## Art. 3.5.1.
@@ -467,6 +535,8 @@ L’avocat qui s’adresse directement à la partie adverse doit observer la plu
 
 <a id="art-3-6"></a>
 ## Art. 3.6.
+
+Rapports avec les témoins
 
 <a id="art-3-6-1"></a>
 ## Art. 3.6.1.
@@ -496,15 +566,21 @@ Dans le cadre des modes de règlement des conflits qui ont un fondement contract
 <a id="art-3-7"></a>
 ## Art. 3.7.
 
+Election de domicile
+
 Le mandant ne peut élire domicile en l’étude de son avocat qu’avec l’accord de celui-ci.
 
 <a id="art-3-8"></a>
 ## Art. 3.8.
 
+Procès personnel
+
 Il est interdit à l’avocat, en cas de procès personnel, à l’exception des procédures de recouvrement de ses honoraires, de plaider lui-même son affaire. Il lui est recommandé de confier la défense de ses intérêts à un confrère ne faisant pas partie de la même étude. En cas de procès d’un proche, l’avocat veillera à préserver distance et indépendance.
 
 <a id="art-3-9"></a>
 ## Art. 3.9.
+
+Relations avec la magistrature
 
 <a id="art-3-9-1"></a>
 ## Art. 3.9.1.
@@ -520,6 +596,8 @@ L’avocat s’abstient de faire état de ses relations étroites avec des membr
 
 <a id="art-4-1"></a>
 ## Art. 4.1.
+
+Généralités
 
 <a id="art-4-1-1"></a>
 ## Art. 4.1.1.
@@ -539,10 +617,14 @@ Il ne peut accepter aucun mandat susceptible de donner un caractère commercial 
 <a id="art-4-2"></a>
 ## Art. 4.2.
 
+Consultation
+
 L’avocat doit veiller avec une particulière attention à recueillir tous les éléments nécessaires, préalablement à toute consultation ou avis qu’il donne.
 
 <a id="art-4-3"></a>
 ## Art. 4.3.
+
+Négociation
 
 <a id="art-4-3-1"></a>
 ## Art. 4.3.1.
@@ -567,6 +649,8 @@ L’avocat est tenu d’assurer la confidentialité des pourparlers auxquels il 
 <a id="art-4-4"></a>
 ## Art. 4.4.
 
+Rédaction
+
 <a id="art-4-4-1"></a>
 ## Art. 4.4.1.
 
@@ -585,12 +669,20 @@ L’avocat rédacteur doit remettre au conseil de chacune des parties l’ayant 
 <a id="art-4-5"></a>
 ## Art. 4.5.
 
+Difficultés contentieuses relatives à un acte à la préparation ou à la rédaction duquel l’avocat a participé
+
 <a id="art-4-5-1"></a>
 ## Art. 4.5.1.
 
 L’avocat, rédacteur ou co-rédacteur d’un acte à la demande d’une seule partie, peut agir ou défendre sur l’exécution, la validité ou l’interprétation dudit acte, dans le plus strict respect des règles de dignité et de délicatesse qui s’imposent à lui.
 
 Il devra s’abstenir d’intervenir dès lors qu’il apparaît:
+
+- soit que son intervention le conduit à s’ériger en témoin de l’une ou l’autre des parties,
+
+- soit que sa responsabilité professionnelle est recherchée,
+
+- soit que son intervention est de nature à porter atteinte au secret professionnel ou à la confidence dus aux pourparlers.
 
 <a id="art-4-5-2"></a>
 ## Art. 4.5.2.
@@ -601,6 +693,8 @@ L’avocat, rédacteur unique d’un acte à la demande et sur intervention de d
 
 <a id="art-5-1"></a>
 ## Art. 5.1.
+
+Avocat mandataire spécial
 
 <a id="art-5-1-1"></a>
 ## Art. 5.1.1.
@@ -635,6 +729,8 @@ Lorsque le mandat comporte le pouvoir de disposer des fonds, effets ou valeurs o
 <a id="art-5-2"></a>
 ## Art. 5.2.
 
+Avocat dépositaire ou séquestre conventionnel
+
 <a id="art-5-2-1"></a>
 ## Art. 5.2.1.
 
@@ -658,6 +754,8 @@ L’avocat qui reçoit des fonds en tant que dépositaire ou séquestre conventi
 <a id="art-5-3"></a>
 ## Art. 5.3.
 
+Avocat arbitre, conciliateur et médiateur
+
 <a id="art-5-3-1"></a>
 ## Art. 5.3.1.
 
@@ -671,12 +769,16 @@ Lorsqu’il est chargé d’une telle mission, l’avocat demeure soumis aux pri
 <a id="art-5-4"></a>
 ## Art. 5.4.
 
+Mandats de justice de l’avocat
+
 L’avocat peut accepter des missions confiées par la justice et notamment être nommé curateur de faillites, commissaire à des gestions contrôlées, liquidateur à des procédures de liquidations judiciaires et de successions vacantes, expert, administrateur provisoire.
 
 Il exercera ces missions dans le respect des principes essentiels de sa profession.
 
 <a id="art-5-5"></a>
 ## Art. 5.5.
+
+Avocat domiciliataire de sociétés
 
 <a id="art-5-5-1"></a>
 ## Art. 5.5.1.
@@ -728,15 +830,23 @@ Il est recommandé à l’avocat de souscrire une police d’assurance couvrant 
 <a id="art-6-1"></a>
 ## Art. 6.1.
 
+Relation avec les médias
+
 L’avocat communique avec les médias, en respectant les principes et les règles de la profession et du secret de l’instruction.
 
 <a id="art-6-2"></a>
 ## Art. 6.2.
 
+Publicité et papier à en-tête
+
 <a id="art-6-2-1"></a>
 ## Art. 6.2.1.
 
 Au sens des dispositions qui suivent, on entend par:
+
+1. Publicité fonctionnelle: toute communication publique ayant pour objet la promotion de la profession d’avocat.
+
+2. Publicité personnelle: toute communication publique, quels que soient les moyens utilisés, ayant pour objet de faire connaître son auteur ou de donner une information sur la nature ou la qualité de sa pratique professionnelle.
 
 <a id="art-6-2-2"></a>
 ## Art. 6.2.2.
@@ -780,6 +890,8 @@ L’avocat peut toujours indiquer ses titres universitaires et faire état de se
 <a id="art-6-3"></a>
 ## Art. 6.3.
 
+Sites Internet
+
 <a id="art-6-3-1"></a>
 ## Art. 6.3.1.
 
@@ -792,6 +904,8 @@ Le site Internet peut mentionner l’ensemble des collaborateurs, avocats ou non
 
 <a id="art-6-4"></a>
 ## Art. 6.4.
+
+Liens de correspondance organique
 
 <a id="art-6-4-1"></a>
 ## Art. 6.4.1.
@@ -815,6 +929,8 @@ Le contrat ne doit impliquer aucune subordination.
 <a id="art-6-5"></a>
 ## Art. 6.5.
 
+Activités préférentielles
+
 <a id="art-6-5-1"></a>
 ## Art. 6.5.1.
 
@@ -837,6 +953,8 @@ Le Conseil de l’Ordre pourra refuser ou supprimer l’inscription d’une acti
 <a id="art-7-1"></a>
 ## Art. 7.1.
 
+Secret professionnel
+
 <a id="art-7-1-1"></a>
 ## Art. 7.1.1.
 
@@ -855,6 +973,16 @@ Le secret professionnel s’applique à toutes les informations au sujet du clie
 Le secret professionnel s’applique également à tous les documents et communications émanant de l’avocat tant dans son activité de conseil juridique que de représentation et d’assistance en justice de son client.
 
 Sont ainsi couverts notamment:
+
+- les consultations adressées par un avocat à son mandant ou destinées à celui-ci;
+
+- les correspondances échangées entre le mandant et son avocat, ainsi que celles échangées entre l’avocat et ses confrères;
+
+- les notes d’entretien et plus généralement toutes les informations et confidences reçues par l’avocat dans l’exercice de la profession;
+
+- le nom des mandants, l’agenda de l’avocat;
+
+- les règlements pécuniaires entre l’avocat et son mandant.
 
 <a id="art-7-1-4"></a>
 ## Art. 7.1.4.
@@ -881,10 +1009,14 @@ Les règles qui précèdent s’appliquent également lorsque l’avocat exerce 
 <a id="art-7-2"></a>
 ## Art. 7.2.
 
+Secret de l’instruction
+
 L’avocat, sans préjudice des droits de la défense, doit respecter le secret de l’instruction en matière pénale en s’abstenant de communiquer, sauf à son mandant pour les besoins de la défense, des renseignements extraits du dossier ou de publier des documents, pièces ou lettres intéressant une information en cours.
 
 <a id="art-7-3"></a>
 ## Art. 7.3.
+
+Communications verbales entre avocats
 
 <a id="art-7-3-1"></a>
 ## Art. 7.3.1.
@@ -906,6 +1038,8 @@ La présence d’une tierce personne lors d’une conversation téléphonique en
 <a id="art-7-4"></a>
 ## Art. 7.4.
 
+Correspondance entre avocats
+
 <a id="art-7-4-1"></a>
 ## Art. 7.4.1.
 
@@ -915,6 +1049,12 @@ La correspondance entre avocats est confidentielle par nature.
 ## Art. 7.4.2.
 
 Par dérogation à ce principe sont non confidentielles, les communications échangées entre avocats:
+
+- lorsque le courrier, qualifié expressément de non confidentiel par son auteur, ne contient aucune divulgation d’un élément de nature confidentielle;
+
+- lorsque les communications concrétisent un accord inconditionnel entre parties;
+
+- lorsque les communications ont un caractère non confidentiel par leur nature.
 
 <a id="art-7-4-3"></a>
 ## Art. 7.4.3.
@@ -933,6 +1073,8 @@ L’avocat doit respecter une certaine prudence, lors de contacts qu’il prend 
 
 <a id="art-7-5"></a>
 ## Art. 7.5.
+
+Différends au sujet de la confidentialité
 
 <a id="art-7-5-1"></a>
 ## Art. 7.5.1.
@@ -957,6 +1099,8 @@ Seul le disposititf de la décision d’arbitrage peut être versé aux tribunau
 <a id="art-8-1"></a>
 ## Art. 8.1.
 
+Indépendance
+
 L’avocat exerce sa profession de façon indépendante. Toute participation directe ou indirecte à une activité incompatible avec l’exercice de la profession est prohibée, de même que toute participation directe ou indirecte à l’activité professionnelle d’avocat par des personnes physiques ou morales n’appartenant pas à la profession.
 
 L’avocat doit veiller à éviter de tomber sous la dépendance du mandant, et plus encore, de tiers qui prétendront diriger la défense du mandant et qui éventuellement régleront les honoraires.
@@ -965,6 +1109,8 @@ Lorsque l’indépendance de l’avocat n’est plus garantie dans un dossier d�
 
 <a id="art-8-2"></a>
 ## Art. 8.2.
+
+Incompatibilités
 
 <a id="art-8-2-1"></a>
 ## Art. 8.2.1.
@@ -980,6 +1126,8 @@ L’avocat investi d’une charge ou d’un mandat public, électif ou non, doit
 
 <a id="art-9-1"></a>
 ## Art. 9.1.
+
+Inscription au tableau
 
 <a id="art-9-1-1"></a>
 ## Art. 9.1.1.
@@ -1012,6 +1160,8 @@ L’avocat doit informer le Conseil de l’Ordre de son inscription à un barrea
 
 <a id="art-9-2"></a>
 ## Art. 9.2.
+
+Omission du tableau
 
 <a id="art-9-2-1"></a>
 ## Art. 9.2.1.
@@ -1048,6 +1198,8 @@ Contre la décision d’omission l’intéressé dispose d’un recours devant l
 <a id="art-9-3"></a>
 ## Art. 9.3.
 
+Effets de l’omission
+
 <a id="art-9-3-1"></a>
 ## Art. 9.3.1.
 
@@ -1081,6 +1233,8 @@ En cas d’omission, le Bâtonnier peut prendre les mesures prévues à l’arti
 <a id="art-9-4"></a>
 ## Art. 9.4.
 
+Réinscription au tableau
+
 <a id="art-9-4-1"></a>
 ## Art. 9.4.1.
 
@@ -1094,6 +1248,8 @@ L’intéressé doit fournir au Conseil de l’Ordre tous renseignements et docu
 <a id="art-9-5"></a>
 ## Art. 9.5.
 
+Démission
+
 <a id="art-9-5-1"></a>
 ## Art. 9.5.1.
 
@@ -1101,6 +1257,8 @@ L’avocat qui n’entend plus conserver la qualité de membre du Barreau doit, 
 
 <a id="art-9-6"></a>
 ## Art. 9.6.
+
+Administration provisoire
 
 <a id="art-9-6-1"></a>
 ## Art. 9.6.1.
@@ -1116,6 +1274,8 @@ Les avocats chargés de cette mission d’administration observeront la plus gra
 
 <a id="art-10-1"></a>
 ## Art. 10.1.
+
+Instruction des affaires disciplinaires
 
 <a id="art-10-1-1"></a>
 ## Art. 10.1.1.
@@ -1137,6 +1297,8 @@ Le secret professionnel de l’avocat ne peut être opposé à l’autorité dis
 <a id="art-10-2"></a>
 ## Art. 10.2.
 
+Effet des sanctions disciplinaires de suspension et d’interdiction
+
 <a id="art-10-2-1"></a>
 ## Art. 10.2.1.
 
@@ -1152,10 +1314,14 @@ L’avocat faisant l’objet d’une suspension ou d’une interdiction d’exer
 <a id="art-11-1"></a>
 ## Art. 11.1.
 
+Différentes formes de l’exercice de la profession
+
 L’avocat peut exercer sa profession, soit à titre individuel, soit au sein d’une association, soit sous forme d’une personne morale exerçant la profession d’avocat, soit en qualité de salarié ou de collaborateur non salarié d’un avocat ou d’une association d’avocats.
 
 <a id="art-11-2"></a>
 ## Art. 11.2.
+
+Associations entre avocats
 
 <a id="art-11-2-1"></a>
 ## Art. 11.2.1.
@@ -1185,6 +1351,8 @@ Le Conseil de l’Ordre peut, pour des motifs graves, enjoindre à une associati
 <a id="art-11-3"></a>
 ## Art. 11.3.
 
+Personne morale exerçant la profession d’avocat
+
 <a id="art-11-3-1"></a>
 ## Art. 11.3.1.
 
@@ -1203,6 +1371,8 @@ Le Conseil de l’Ordre peut, pour des motifs graves, enjoindre à une société
 <a id="art-11-4"></a>
 ## Art. 11.4.
 
+Collaboration et salariat
+
 <a id="art-11-4-1"></a>
 ## Art. 11.4.1.
 
@@ -1212,6 +1382,10 @@ La collaboration est un mode d’exercice professionnel exclusif de tout lien de
 ## Art. 11.4.2.
 
 La collaboration entre avocats peut être occasionnelle ou habituelle:
+
+1. Elle est occasionnelle lorsque l’avocat collaborateur ne preste que des devoirs isolés ou ne traite que certains dossiers isolés pour le compte d’un autre avocat.
+
+2. Elle est habituelle lorsque l’avocat accepte de collaborer de façon permanente avec un autre avocat à plein temps ou à temps partiel.
 
 <a id="art-11-4-3"></a>
 ## Art. 11.4.3.
@@ -1230,6 +1404,8 @@ Les avocats salariés et collaborateurs doivent assumer les mandats qui leur son
 
 <a id="art-11-5"></a>
 ## Art. 11.5.
+
+Accord de collaboration et contrat d’emploi salarié
 
 <a id="art-11-5-1"></a>
 ## Art. 11.5.1.
@@ -1293,6 +1469,8 @@ Il doit également fournir à l’étude toutes les informations nécessaires po
 <a id="art-12-1"></a>
 ## Art. 12.1.
 
+Principes
+
 <a id="art-12-1-1"></a>
 ## Art. 12.1.1.
 
@@ -1314,6 +1492,8 @@ L’avocat ne peut tirer aucun profit personnel des fonds de tiers qu’il est a
 
 <a id="art-12-2"></a>
 ## Art. 12.2.
+
+Compte de tiers
 
 <a id="art-12-2-1"></a>
 ## Art. 12.2.1.
@@ -1351,6 +1531,8 @@ Aucune compensation, fusion ou stipulation d’unicité de comptes entre le ou l
 
 <a id="art-12-3"></a>
 ## Art. 12.3.
+
+Mesures de contrôle
 
 <a id="art-12-3-1"></a>
 ## Art. 12.3.1.
@@ -1453,10 +1635,22 @@ A défaut, l’avocat peut être convoqué devant le Conseil de l’Ordre, leque
 
 Aux fins de détermination des activités que le Conseil de l’Ordre reconnaît admissibles, il tient compte notamment:
 
+- du lien entre la formation et l’exercice de la profession;
+
+- de la fréquence de la participation à des activités de même nature;
+
+- de la pertinence de la formation;
+
+- du respect des objectifs de formation continue visés au présent règlement;
+
+- du fait que les objectifs visés par l’activité de formation sont mesurables et vérifiables.
+
 ### TITRE 15. INFORMATION ET VISA DU BATONNIER
 
 <a id="art-15-1"></a>
 ## Art. 15.1.
+
+Obligation d’informer le Bâtonnier
 
 <a id="art-15-1-1"></a>
 ## Art. 15.1.1.
@@ -1470,6 +1664,8 @@ Tout avocat faisant l’objet de poursuites disciplinaires à l’étranger doit
 
 <a id="art-15-2"></a>
 ## Art. 15.2.
+
+Obligation de demander le visa du Bâtonnier
 
 <a id="art-15-2-1"></a>
 ## Art. 15.2.1.
@@ -1488,6 +1684,8 @@ Il ne saurait être fait état du visa du Bâtonnier pour se prévaloir d’une 
 
 <a id="art-15-3"></a>
 ## Art. 15.3.
+
+Procédure du visa du Bâtonnier
 
 <a id="art-15-3-1"></a>
 ## Art. 15.3.1.
@@ -1521,6 +1719,8 @@ Dans ses contacts avec le médiateur du Barreau, l’avocat est tenu à une coll
 <a id="art-17-1"></a>
 ## Art. 17.1.
 
+Activités de prestations de services, au Grand-Duché de Luxembourg, d’avocats habilités à exercer dans un autre Etat membre de l’Union européenne
+
 <a id="art-17-1-1"></a>
 ## Art. 17.1.1.
 
@@ -1533,6 +1733,8 @@ L’avocat étranger prestataire de services assisté d’un avocat, membre du B
 
 <a id="art-17-2"></a>
 ## Art. 17.2.
+
+Règles de déontologie applicables aux activités transfrontalières de l’avocat
 
 <a id="art-17-2-1"></a>
 ## Art. 17.2.1.

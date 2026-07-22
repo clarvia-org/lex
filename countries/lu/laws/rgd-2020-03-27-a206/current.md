@@ -33,6 +33,10 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 Par dérogation à l’article L. 521-9 du Code du travail :
 
+1. La proposition de la convention de collaboration individualisée prévue au paragraphe 4, alinéa 2, se fera au plus tard avant la fin du 6 ème mois de la reprise des rendez-vous physiques auprès des bureaux de placement publics.
+
+2. La dispense maximale prévue au paragraphe 5 alinéa 2 est prorogée jusqu’à la fin de l’état de crise.
+
 <a id="art-2"></a>
 ## Art. 2.
 
@@ -59,6 +63,10 @@ Par dérogation à l’article L. 543-20, du même code, le Fonds pour l’emplo
 ## Art. 6.
 
 Par dérogation à l’article L. 552-2, paragraphe 2, du même code,
+
+1. Les délais impartis au médecin du travail aux alinéas 2, 5 et 7 sont supprimés.
+
+2. Pendant la durée la durée de l’état de crise déclaré par le Gouvernement luxembourgeois, si l’intéressé ne donne pas suite à la convocation du médecin du travail compétent, le dossier sera mis en suspens et l’intéressé sera reconvoqué dès que possible.
 
 <a id="art-7"></a>
 ## Art. 7.

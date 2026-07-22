@@ -37,6 +37,12 @@ Cette redevance ne pourra dépasser deux pour cent du chiffre d’affaires annue
 
 Un règlement grand-ducal déterminera:
 
+1. les règles générales régissant l’octroi, l’exécution et le retrait de la concession, ainsi que la renonciation à la concession,
+
+2. le mode de calcul et le mode de recouvrement de la redevance annuelle,
+
+3. les modalités du cahier des charges.
+
 Une taxe d’un montant de 75 euros est due pour toute demande d’obtention d’une concession de pharmacie.
 
 Une taxe d’un montant de 75 euros est due en cas de demande de modification ou de renouvellement de concession de pharmacie.

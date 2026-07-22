@@ -29,13 +29,101 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 <a id="art-1er"></a>
 ## Art. 1er.
 
+Champ d’application.
+
+(1)
+
+La présente loi s’applique aux professions de santé suivantes :
+
+1. infirmier ;
+
+2. infirmier en anesthésie et réanimation ;
+
+3. infirmier en pédiatrie ;
+
+4. infirmier psychiatrique ;
+
+5. infirmier gradué ;
+
+6. sage-femme ;
+
+7. aide-soignant ;
+
+8. assistant technique médical ;
+
+9. laborantin ;
+
+10. assistant d’hygiène sociale ;
+
+11. assistant social ;
+
+12. pédagogue curatif ;
+
+13. diététicien ;
+
+14. ergothérapeute ;
+
+15. rééducateur en psychomotricité ;
+
+16. masseur ;
+
+17. masseur-kinésithérapeute ;
+
+18. ostéopathe ;
+
+19. orthophoniste ;
+
+20. orthoptiste ;
+
+21. podologue ;
+
+22. conseiller en génétique.
+
+(2)
+
+La présente loi ne s’applique qu’aux assistants d’hygiène sociale visés au paragraphe 1er, point 10°, qui ont été autorisés avant le 30 juin 2023 à exercer la profession d’assistant d’hygiène sociale au Grand-Duché de Luxembourg conformément à l’article 2.
+
 <a id="art-1erbis"></a>
 ## Art. 1erbis.
 
+Définitions
+
 Pour l’application de la présente loi, on entend par :
+
+1. « professionnel de santé » : la personne physique visée à l’article 2, lettre d), de la loi modifiée du 24 juillet 2014 relative aux droits et obligations du patient ;
+
+2. « dossier patient » : le dossier patient au sens de l’article 2, lettre f), de la loi modifiée du 24 juillet 2014 relative aux droits et obligations du patient ;
+
+3. « protocole » : descriptif écrit et daté, validé par l’équipe médicale ou le médecin responsable, présenté sous forme synthétique, centré sur une population ou un groupe de personnes cible et visant les soins et les actes techniques à appliquer ou les procédures ou consignes à observer par les professionnels de santé visés par la présente loi dans les situations de soins visées par les annexes ou lors de la réalisation d’un tel soin ;
+
+4. « urgence » : situation d’une personne ou d’un patient dont la vie ou l’état de santé est en danger imminent et exige une intervention rapide et adaptée d’un professionnel de santé ;
+
+5. « patient » : la personne physique visée à l’article 2, lettre b), de la loi modifiée du 24 juillet 2014 relative aux droits et obligations du patient ;
+
+6. « ministre » : le ministre ayant la Santé dans ses attributions.
 
 <a id="art-2"></a>
 ## Art. 2.
+
+Autorisation d’exercer
+
+(1)
+
+Sous réserve des dispositions de l’article 4 ci-après, l’exercice d’une de ces professions est subordonné à une autorisation du ministre qui est délivrée aux conditions suivantes:
+
+1. le candidat doit être ressortissant au sens de l’article 3, point q) de la loi du 28 octobre 2016 relative à la reconnaissance des qualifications professionnelles;
+
+2. il doit être titulaire d’un diplôme luxembourgeois relatif à la profession concernée, soit d’un diplôme étranger reconnu conformément aux dispositions de la loi du 28 octobre 2016 relative à la reconnaissance des qualifications professionnelles;
+
+3. il doit remplir les conditions de santé physique et psychique nécessaires à l’exercice de la profession;
+
+4. il doit répondre aux conditions d’honorabilité et de moralité nécessaires à l’exercice de la profession;
+
+5. il doit avoir les connaissances linguistiques nécessaires à l’exercice de la profession, soit en allemand, soit en français, et comprendre les trois langues administratives du Grand-Duché de Luxembourg ou acquérir les connaissances lui permettant de les comprendre. Une vérification des connaissances linguistiques du candidat d’une des trois langues luxembourgeoise, allemande ou française peut être faite par le ministre.
+
+(2)
+
+Un règlement grand-ducal détermine la procédure à suivre et les documents à présenter pour obtenir l’autorisation d’exercer.
 
 <a id="art-3"></a>
 ## Art. 3.
@@ -51,19 +139,101 @@ La preuve de paiement est à joindre à la demande et constitue une pièce oblig
 <a id="art-4"></a>
 ## Art. 4.
 
+Prestation de services
+
+(1)
+
+Le professionnel de santé ressortissant d’un Etat membre de l’Union européenne, qui est établi dans un autre Etat membre et y exerce légalement une des professions de santé visées à l’article 1er, peut exécuter au Luxembourg des prestations de services de façon temporaire et occasionnelle sans autorisation du ministre.
+
+(2)
+
+Afin d’éviter des dommages graves pour la santé du bénéficiaire du service, le ministre fait procéder à une vérification des qualifications professionnelles du prestataire visé au paragraphe 1er avant la première prestation de services.
+
+Cette vérification est effectuée selon les modalités prévues au titre II de la loi du 28 octobre 2016 relative à la reconnaissance des qualifications professionnelles.
+
+Les qualifications professionnelles. Le présent paragraphe ne s’applique pas aux prestations de services visant les activités d’infirmier et de sage-femme.
+
+(3)
+
+Le prestataire visé au paragraphe 1er est soumis aux règles de conduite de caractère professionnel, réglementaire ou administratif en rapport direct avec les qualifications professionnelles telles que la définition de la profession, l’usage des titres et les fautes professionnelles graves qui ont un lien direct et spécifique avec la protection et la sécurité des patients, ainsi qu’aux dispositions disciplinaires applicables aux professionnels de santé légalement établis au Luxembourg.
+
+(4)
+
+Le professionnel de santé frappé d’une peine de suspension ou d’interdiction d’exercer sa profession au Luxembourg et qui est légalement établi dans un autre Etat membre, ne peut pas effectuer de prestation de services au Luxembourg pendant la durée de sa suspension ou de son interdiction.
+
+(5)
+
+Un règlement grand-ducal détermine les conditions et modalités d’exercice de la prestation de services visée aux paragraphes 1er et 2 du présent article. Ce règlement prescrira entre autres que le prestataire visé au paragraphe 1er fasse une déclaration préalable relative à sa prestation au ministre qui en fera parvenir une copie au Conseil Supérieur de certaines professions de santé et aux organismes de sécurité sociale.
+
 <a id="art-5"></a>
 ## Art. 5.
+
+Port de titres professionnels
+
+(1)
+
+La personne autorisée à exercer une de ces professions porte le titre professionnel correspondant à cette profession.
+
+(2)
+
+Le professionnel de santé peut également être autorisé par le ministre à faire usage de son titre licite de formation tel que visé à l’article 2, paragraphe 1er, point b) et éventuellement de son abréviation dans la langue de l’Etat où il a acquis sa formation, suivi des nom et lieu de l’établissement ou du jury qui l’a délivré. Toutefois au cas où ce titre peut être confondu avec un titre exigeant une formation supplémentaire non acquise par le bénéficiaire, ce dernier ne pourra utiliser son titre de formation que dans une formule appropriée à indiquer par le ministre.
+
+(3)
+
+Le professionnel de santé peut aussi être autorisé par le Conseil Supérieur de certaines professions de santé à faire usage d’une fonction académique ou d’un titre licite de formation autre que celui visé au paragraphe 2 selon la formulation intégrale qui lui a été conféré par une université ou une autre autorité compétente, et qui est reconnu par les autorités compétentes du pays où il a été délivré. Le Conseil Supérieur de certaines professions de santé peut soumettre cette autorisation au paiement préalable d’une taxe. Le montant de cette taxe est fixé annuellement par le Conseil Supérieur de certaines professions de santé, étant entendu qu’il se situe entre 75 et 150 euros.
 
 <a id="art-6"></a>
 ## Art. 6.
 
+Situations particulières.
+
+(1)
+
+En cas de circonstances exceptionnelles, telles qu’épidémies, faits de guerre ou catastrophes, le ministre peut, par dérogation à l’article 2 paragraphe (1) a), après avoir pris l’avis de la direction de la santé, autoriser pour un temps limité des membres d’une autre profession de santé régie par la présente et de niveau de formation équivalent ou subsidiairement d’autres personnes à poser certains actes d’une de ces professions pour laquelle elles ne sont pas diplômées.
+
+(2)
+
+En cas d’impossibilité, dûment constatée par la direction de la santé, pour assurer certains actes réservés aux membres d’une profession de santé déterminée, le ministre peut sur avis du conseil supérieur des professions de santé, autoriser un membre d’une autre profession de niveau de formation équivalent et régie par la présente loi à poser des actes relevant des attributions réservées à la profession pour laquelle la pénurie a été constatée.
+
+(3)
+
+L’autorisation fixe les actes qui peuvent être exécutés par les personnes visées sous (1) et (2), la durée pendant laquelle il peut les exécuter et les conditions dans lesquelles il peut les poser. La personne autorisée ne peut pas porter le titre professionnel correspondant à la profession dont elle exerce certaines des attributions, ni un autre titre pouvant prêter à confusion.
+
 <a id="art-7"></a>
 ## Art. 7.
+
+Exercice, formation, missions et attributions des professions de santé
 
 Les règles d’exercice, les exigences en matière de formation, les missions ainsi que les attributions des professions de santé visées à l’article 1er, paragraphe 1er, sont précisées dans les annexes 1 à 22 qui font partie intégrante de la présente loi.
 
 <a id="art-8"></a>
 ## Art. 8.
+
+(1)
+
+Le ministre tient à jour un registre professionnel regroupant les informations administratives et disciplinaires relatives aux personnes autorisées à exercer une profession de santé au Luxembourg conformément aux dispositions de la présente loi ainsi que les informations relatives aux prestataires de services.
+
+(2)
+
+Le registre professionnel renseigne en outre sur les sanctions disciplinaires ou pénales qui ont été prises et renseigne sur des faits graves et précis susceptibles d’avoir des conséquences sur l’exercice d’une profession de santé.
+
+(3)
+
+Les personnes concernées ne peuvent pas s’opposer au traitement des données administratives ou professionnelles les concernant aux fins de la tenue du registre professionnel.
+
+Les personnes concernées peuvent à tout moment accéder au registre professionnel. Ils peuvent requérir la rectification d’inscriptions erronées ou le retrait d’inscriptions ne concernant pas leur activité professionnelle. Ils peuvent aussi y faire consigner leurs observations écrites éventuelles.
+
+(4)
+
+Les inscriptions du registre peuvent être communiquées au Conseil supérieur de certaines professions de santé et aux organismes de sécurité sociale et vice versa.
+
+Elles peuvent être fournies sur demande à toute autorité ou instance habilitée spécifiquement par un autre Etat membre de l’Union européenne à délivrer ou à recevoir des titres de formation et autres documents ou informations, via le système d’information mis en place par le RÈGLEMENT (UE) n° 1024/2012 DU PARLEMENT EUROPÉEN ET DU CONSEIL du 25 octobre 2012 concernant la coopération administrative par l’intermédiaire du système d’information du marché intérieur et abrogeant la décision 2008/49/CE de la Commission («règlement IMI»), à condition que ces échanges d’information se fassent dans la confidentialité et le respect de la législation sur la protection des données à caractère personnel.
+
+(5)
+
+Un règlement grand-ducal précise le détail des informations qui doivent être fournies par les intéressés concernant leur situation administrative et disciplinaire. Il peut rendre obligatoire l’usage de formulaires préétablis.
+
+Sous peine de sanction disciplinaire, tout changement intervenu dans le chef des données ainsi fournies ou de la situation professionnelle doit être signalé endéans le mois au ministre pour être mentionné dans le registre.
 
 <a id="art-8bis"></a>
 ## Art. 8bis.
@@ -82,40 +252,164 @@ Pour l’application de la présente loi, il y a lieu d’entendre par Etat memb
 <a id="art-10"></a>
 ## Art. 10.
 
+(abrogé)
+
 <a id="art-11"></a>
 ## Art. 11.
+
+Familiarisation avec la situation luxembourgeoise.
+
+(1)
+
+La personne exerçant une de ces professions doit avoir les connaissances linguistiques nécessaires à l’exercice de la profession, soit en allemand, soit en français, et comprendre les trois langues administratives du Grand-Duché de Luxembourg ou acquérir les connaissances lui permettant de les comprendre.
+
+Elle peut engager sa responsabilité disciplinaire, civile ou pénale si, par suite d’une insuffisance de ses connaissances linguistiques, elle commet une erreur dans l’exercice de sa profession.
+
+(2)
+
+Elle doit prendre contact avec les services d’information et y recueillir les informations nécessaires concernant les législations sanitaire et sociale ainsi que, le cas échéant, la déontologie luxembourgeoise. Elle engage sa responsabilité disciplinaire si elle omet de prendre contact avec lesdits services.
+
+(3)
+
+Les personnes exerçant une de ces professions doivent tenir à jour leurs connaissances professionnelles.
 
 <a id="art-12"></a>
 ## Art. 12.
 
+Objet de la formation continue.
+
+(1)
+
+La formation continue comporte des cours ou des stages de recyclage ayant pour objet la mise à jour des connaissances et leur adaptation aux exigences nouvelles en matière professionnelle. Un règlement grand-ducal détermine les critères auxquels doit répondre la formation continue pour ces professions.
+
+(2)
+
+Le ministre peut déclarer obligatoire la fréquentation de certains cours de formation continue pour les membres d’une profession déterminée ou pour certaines catégories de professionnels.
+
 <a id="art-13"></a>
 ## Art. 13.
+
+Participation à la formation continue.
+
+(1)
+
+Les personnes exerçant une de ces professions doivent tenir à jour leurs connaissances professionnelles. A cet effet la participation à des cours de formation continue organisés ou agréés par le ministre conformément à l’article 12 de la présente loi, est considérée comme activité de service jusqu’à concurrence soit de cinq jours ouvrables par an, soit de quinze jours ouvrables consécutifs par période de trois ans.
+
+Dans les cas où une formation continue est déclarée obligatoire en vertu du paragraphe (2) de l’article qui précède celle-ci est assimilée à une activité de service pendant toute la durée de cette formation continue, telle qu’elle a été déterminée par le ministre.
+
+L’employeur peut demander que la participation aux cours de formation continue soit différée pour une durée déterminée ne dépassant pas les six mois à partir de la demande de l’intéressé, lorsque l’absence de celui-ci risque d’avoir une répercussion majeure préjudiciable au bon fonctionnement du service.
+
+(2)
+
+Le titulaire d’une autorisation d’exercer qui n’a plus exercé sa profession d’une manière régulière pendant les cinq années précédant la reprise de l’exercice de la profession, peut être obligé par le ministre, sur avis de la direction de la santé, à poursuivre un enseignement théorique et pratique de réintégration avant de reprendre l’exercice de la profession. Le ministre tient compte de la spécificité de la profession exercée par le professionnel en question. Un règlement ministériel détermine les modalités de cet enseignement de réintégration.
 
 <a id="art-14"></a>
 ## Art. 14.
 
+Caducité de l’autorisation d’exercer.
+
+(1)
+
+L’autorisation d’exercer devient caduque lorsque son titulaire omet de suivre les cours et enseignements imposés en vertu de l’article 13(2) ci-dessus jusqu’à satisfaction des obligations imposées par le ministre.
+
+(2)
+
+Toutefois, dans le cas de cours de formation déclarés obligatoires en vertu de l’article 12 (2), lorsque ces cours ont pour objet de familiariser le professionnel avec une nouvelle technique, le fait de ne pas les suivre n’entraîne pour lui que la suspension d’exercer la technique en question.
+
+(3)
+
+L’autorisation d’exercer devient caduque lorsque le professionnel de santé bénéficiaire n’exerce pas sa profession au Luxembourg dans les deux années qui suivent la délivrance de l’autorisation.
+
+Il en va de même du professionnel de santé qui a cessé son activité professionnelle au Luxembourg depuis plus de deux ans.
+
 <a id="art-15"></a>
 ## Art. 15.
+
+Secret professionnel.
 
 Les personnes exerçant une de ces professions et les étudiants en formation sont tenus au secret professionnel dans les conditions et sous les réserves énoncées à l’article 458 du code pénal.
 
 <a id="art-16"></a>
 ## Art. 16.
 
+Sanctions pénales
+
+(1)
+
+Est puni d’un emprisonnement de huit jours à trois mois et d’une amende de 251 à 5.000 euros ou d’une de ces peines seulement:
+
+1. celui qui exerce, sans y être autorisé, une de ces professions, sauf le cas d’urgence avérée;
+
+2. celui qui, sans y avoir droit, pose un acte rentrant dans les attributions d’une de ces professions, sauf le cas d’urgence avérée;
+
+3. celui qui s’attribue, sans y avoir droit, un titre désignant une de ces professions ou un autre titre pouvant prêter à confusion;
+
+4. celui qui attribue le titre d’une de ces professions aux personnes qu’il emploie, soit à titre bénévole, soit moyennant salaire, sans que ces personnes soient munies du diplôme ou de l’autorisation afférente;
+
+5. celui qui occupe pour le service de ces mêmes professions des personnes non autorisées à cet effet;
+
+6. celui qui, en vertu de son autorité, oblige un professionnel à effectuer des actes qui ne rentrent pas dans ses attributions.
+
+(2)
+
+Est puni d’une amende de 251 à 5.000 euros:
+
+1. celui qui manque aux obligations qui lui sont imposées en vertu des dispositions de l’article 8 de la présente loi et de ses règlements d’exécution;
+
+2. celui qui empêche les personnes qu’il occupe de satisfaire aux obligations prévues à l’article 12 de la présente loi.
+
+(3)
+
+Les dispositions du présent article ne s’appliquent pas aux étudiants d’une profession de santé qui agissent sous la responsabilité d’un maître de stage autorisé à exercer la médecine ou une profession de santé au Luxembourg dans le cadre d’un stage de formation, d’un stage de réintégration ou d’un stage d’adaptation effectué dans le cadre de la procédure de reconnaissance prévue par la loi du 28 octobre 2016 relative à la reconnaissance des qualifications professionnelles.
+
 <a id="art-17"></a>
 ## Art. 17.
+
+Circonstances atténuantes.
 
 Les dispositions du livre Ier du code pénal ainsi que les articles 130-1 à 132-1 du Code de procédure pénale sont applicables aux infractions à la présente loi.
 
 <a id="art-18"></a>
 ## Art. 18.
 
+Peines accessoires.
+
 L’interdiction temporaire ou à vie d’exercer la profession peut être prononcée par les tribunaux accessoirement à toute peine criminelle ou correctionnelle.
 
 <a id="art-19"></a>
 ## Art. 19.
 
+Conseil supérieur de certaines professions de santé.
+
 Il est créé un conseil supérieur pour les professions régies par la présente loi dit dans la suite du présent article «le conseil».
+
+(1)
+
+Le conseil a pour mission de donner au ministre soit d’office, soit à la demande de celui-ci, des avis sur les questions intéressant l’exercice, la formation et la réglementation des professions de santé. Un code de déontologie sera établi par règlement grand-ducal, le conseil supérieur ayant été entendu en son avis. Ce code est publié au Mémorial.
+
+(2)
+
+Les membres du conseil sont nommés par le ministre pour une durée de cinq ans sur proposition d’une part des commissions professionnelles prévues sous (4) ci-après et d’autre part des organisations professionnelles représentatives dans le secteur de la santé. Il y un membre suppléant pour chaque membre effectif.
+
+(3)
+
+Un règlement grand-ducal détermine
+
+- le nombre des membres siégeant au conseil et le nombre des membres de chaque commission professionnelle;
+
+- le nombre des membres désignés pour siéger au conseil sur proposition des commissions professionnelles et celui des membres désignés sur proposition des organisations professionnelles, étant entendu que le premier nombre sera supérieur au second. Pour les membres désignés sur proposition des commissions professionnelles il sera tenu compte des secteurs d’activité et des niveaux de formation en fonction de leur importance numérique;
+
+- les modalités d’organisation et de fonctionnement du conseil et de son secrétariat;
+
+- les attributions des commissions professionnelles et les modalités de l’élection de leurs membres;
+
+- les relations du conseil avec les commissions professionnelles;
+
+- les indemnités des membres, fonctionnaires et experts délégués auprès du conseil et auprès des commissions professionnelles et celles des personnes en charge du secrétariat.
+
+(4)
+
+Le conseil comprend en outre une commission professionnelle pour chacune des professions visées par la présente loi. Les membres de ces commissions et leurs suppléants sont élus tous les cinq ans par les membres des professions respectives.
 
 <a id="art-20"></a>
 ## Art. 20.
@@ -125,13 +419,35 @@ L’autorisation d’exercer une profession de santé visée à l’article 2 es
 <a id="art-20bis"></a>
 ## Art. 20bis.
 
+(1)
+
+Dans le cas d’inaptitude, le ministre peut décider la suspension temporaire du droit d’exercer. Elle ne peut être ordonnée que sur base d’un rapport motivé adressé au ministre, établi par trois experts désignés l’un par l’intéressé ou sa famille, le deuxième par le directeur de la Santé et le troisième par les deux premiers. En cas de désaccord entre ces derniers, la désignation du troisième expert est faite sur demande du ministre par le président du tribunal d’arrondissement. Il en est de même en cas de carence de l’intéressé ou de sa famille pour la désignation du premier expert.
+
+Le ministre peut être saisi soit par le directeur de la Santé, soit par le Conseil supérieur de certaines professions de santé. L’expertise prévue à l’alinéa précédent doit être effectuée au plus tard dans le délai de deux mois à compter de la désignation des trois experts.
+
+(2)
+
+S’il y a péril en la demeure, lorsque la poursuite de l’exercice professionnel par un professionnel de la santé risque d’exposer la santé ou la sécurité des patients ou de tiers à un dommage grave, le ministre peut, sur avis du Conseil supérieur de certaines professions de santé et l’intéressé dûment mis en mesure de présenter ses observations, suspendre avec effet immédiat le droit d’exercer ou le soumettre à certaines restrictions. La décision de suspension doit être motivée et ne peut dépasser trois mois. Avant l’expiration de ce délai le ministre, sur base d’un rapport d’expertise tel que prévu au paragraphe qui précède, décide soit de restaurer l’intéressé dans son droit d’exercer, soit de prolonger la mesure de suspension, soit de prononcer le retrait de l’autorisation d’exercer.
+
+(3)
+
+La durée totale d’une mesure de suspension temporaire ne peut pas dépasser deux ans. Le ministre peut subordonner la reprise de l’activité professionnelle à la constatation de l’aptitude de l’intéressé par une nouvelle expertise effectuée à la diligence du directeur de la Santé, dans les conditions ci-dessus prévues, dans le mois qui précède l’expiration de la période de suspension.
+
+(4)
+
+Les frais d’expertise sont à charge du titulaire dont l’autorisation a été suspendue temporairement. Il en est de même en cas de renouvellement de suspension ou de retrait de l’autorisation. Dans les autres cas, les frais d’expertise sont à charge de l’Etat.
+
 <a id="art-21"></a>
 ## Art. 21.
+
+Recours.
 
 Toute décision ministérielle d’octroi, de refus, de suspension ou de retrait d’une autorisation d’exercer est susceptible d’un recours auprès du tribunal administratif qui statue comme juge du fond.
 
 <a id="art-22"></a>
 ## Art. 22.
+
+Avis à solliciter sur les règlements d’exécution.
 
 Les règlements grand-ducaux prévus par la présente loi sont soumis à l’avis du collège médical ainsi qu’à celui du conseil supérieur des professions de santé visées par la présente loi.
 
@@ -168,12 +484,28 @@ Les membres du conseil qui veulent s’abstenir pour d’autres motifs sont tenu
 
 Le conseil de discipline exerce le pouvoir de discipline sur toutes les personnes relevant de la présente loi pour:
 
+1. violation des prescriptions légales et réglementaires concernant l’exercice de la profession;
+
+2. erreurs et négligences professionnelles;
+
+3. faits contraires à l’honorabilité et à la dignité professionnelles, le tout sans préjudice de l’action judiciaire et de l’action disciplinaire prévue par le statut général des fonctionnaires de l’Etat et celui des fonctionnaires communaux pouvant naître des mêmes faits.
+
 L’action disciplinaire se prescrit par cinq ans à compter du jour où les contraventions, tant à la présente loi, qu’aux autres lois, arrêtés et règlements en la matière, ont été commises.
 
 <a id="art-26"></a>
 ## Art. 26.
 
 Les peines disciplinaires sont dans l’ordre de leur gravité:
+
+1. l’avertissement;
+
+2. la réprimande;
+
+3. la privation du droit de vote pour le conseil supérieur des professions de santé et du droit d’en faire partie, pendant six ans au maximum;
+
+4. l’amende de cinq cent un à sept mille cinq cents euros;
+
+5. la suspension de l’exercice de la profession ou d’autres professions visées par la présente loi pour un terme qui ne peut être inférieur à quinze jours ni excéder cinq ans.
 
 Au cas où une sanction est prononcée, les frais provoqués par la poursuite disciplinaire sont mis à charge du condamné; dans le cas contraire ils restent à charge de l’Etat.
 
@@ -301,20 +633,76 @@ L’appel et le délai pour interjeter un appel ont un effet suspensif.
 <a id="art-42"></a>
 ## Art. 42.
 
+Droits acquis.
+
+(1)
+
+Les diplômes ou autorisations d’exercer délivrés sur base de la loi du 18 novembre 1967 portant réglementation de certaines professions paramédicales ainsi que les diplômes et autorisations d’exercer délivrés avant le 30 juin 2023 restent acquis de plein droit.
+
+(2)
+
+Au cas où en vertu des dispositions de la présente loi un titre professionnel relatif à une profession réglementée par la loi du 18 novembre 1967 portant réglementation de certaines professions paramédicales est supprimé, les professionnels exerçant la profession concernée avant la mise en vigueur de la présente loi continueront à porter l’ancien titre professionnel. Toutefois, au cas où le nouveau titre professionnel couvre les mêmes activités professionnelles que celles couvertes par l’ancien titre, le professionnel portera le nouveau titre.
+
 <a id="art-43"></a>
 ## Art. 43.
+
+Dispositions abrogatoires.
+
+(1)
+
+La loi du 18 novembre 1967 portant réglementation de certaines professions paramédicales est abrogée, à l’exception des dispositions ayant trait aux conditions de formation et de reconnaissance des diplômes étrangers.
+
+Les règlements pris sur base de cette loi resteront en vigueur aussi longtemps qu’ils n’auront pas été remplacés par des règlements à prendre en vertu de la présente loi.
+
+(2)
+
+La référence dans des dispositions légales et réglementaires aux dispositions de la loi du 18 novembre 1967 portant réglementation de certaines professions paramédicales est remplacée de plein droit par la référence aux dispositions de la présente loi.
+
+(3)
+
+Toutefois la loi du 18 novembre 1967 précitée reste applicable aux infractions commises sous son empire.
+
+(4)
+
+L’article 1er sous 3 ainsi que le titre III.- Du pouvoir disciplinaire du collège médical - de la loi modifiée du 6 juillet 1901 concernant l’organisation et les attributions du collège médical sont abrogés pour autant qu’ils concernent les membres des professions de santé visées par la présente loi. Leurs dispositions restent cependant applicables aux faits commis sous leur empire.
 
 #### Chapitre 4. Revalorisation de certaines professions de santé
 
 <a id="art-44"></a>
 ## Art. 44.
 
+Suppléments de traitement.
+
 L’article 25bis de la loi du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’Etat est modifié comme suit:
+
+1. Les fonctionnaires exerçant la profession de médecin, de psychologue ou d’agent paramédical de la carrière moyenne de l’administration dans un hôpital neuropsychiatrique, au Centre du Rham ou dans une maison de soins bénéficient d’un supplément de traitement annuel de quinze points indiciaires.
+
+2.
+
+- Les fonctionnaires exerçant une profession de santé de la carrière inférieure de l’administration bénéficient d’un supplément de traitement de quinze points indiciaires.
+
+- Pour les fonctionnaires de ces carrières exerçant leur profession dans un hôpital neuropsychiatrique, au Centre du Rham ou dans une maison de soins, le supplément est fixé à 30 points indiciaires.
 
 <a id="art-45"></a>
 ## Art. 45.
 
+Dispositions transitoires.
+
+(1)
+
+Par dérogation aux dispositions de l’article 25bis de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’Etat, le supplément de traitement prévu au paragraphe b), alinéa 1 est fixé à
+
+- quinze points à partir du 1 er janvier 1991.
+
+(2)
+
+Le supplément de traitement prévu à l’alinéa 2 du même paragraphe est fixé à
+
+- trente points à partir du 1 er janvier 1991.
+
 <a id="art-46"></a>
 ## Art. 46.
+
+Mise en vigueur.
 
 La présente loi entrera en vigueur le premier jour du mois qui suit sa publication au Mémorial.

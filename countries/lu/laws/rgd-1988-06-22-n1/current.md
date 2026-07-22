@@ -48,6 +48,22 @@ Par partenaires au sens du présent règlement grand-ducal, il y a lieu d’ente
 <a id="art-3"></a>
 ## Art. 3.
 
+1.
+
+Au cas où les deux conjoints ou partenaires touchent la même rémunération, l’allocation de famille est liquidée avec la rémunération du conjoint ou partenaire comptant la plus grande ancienneté de service. Par rémunération il y a lieu d’entendre la rémunération fixée par les barèmes respectifs.
+
+2.
+
+Le paiement de l’allocation légalement due au conjoint ou partenaire bénéficiaire de la rémunération la moins élevée est suspendu aussi longtemps que l’allocation est liquidée avec la rémunération la plus élevée.
+
+3.
+
+Lorsque l’un des conjoints ou partenaires bénéficie d’un congé sans traitement, d’un congé pour travail à mi-temps ou lorsqu’il est occupé à tâche partielle, l’allocation est toujours calculée sur la rémunération la plus élevée effectivement touchée.
+
+4.
+
+Toutefois, lorsque les deux conjoints ou partenaires bénéficient conjointement d’une réduction de leur durée normale de travail sous la forme d’un congé pour travail à mi-temps, d’un service à temps partiel ou d’une tâche partielle, l’allocation est calculée sur base de l’article 9, paragraphe 2 de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’Etat, mais versée séparément à chacun des deux. Au cas où le montant cumulé de ces deux allocations dépasse le montant de l’allocation de famille maximale qui reviendrait à chacun des deux conjoints ou partenaires pris séparément s’ils étaient occupés à tâche complète, l’allocation de famille payée individuellement est réduite à ce montant maximal et ce au prorata du degré de la tâche de chacun des deux.
+
 ## § II Agents en retraite
 
 <a id="art-4"></a>

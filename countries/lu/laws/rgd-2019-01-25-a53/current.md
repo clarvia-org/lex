@@ -43,6 +43,12 @@ Le service hospitalier d’urgence est continu vingt-quatre heures sur vingt-qua
 
 Par dérogation à l’alinéa 1er, le service hospitalier d’urgence des deux centres hospitaliers situés sur le territoire de la Ville de Luxembourg est organisé comme suit :
 
+- une garde diurne est assurée en parallèle de sept heures à dix-sept heures les jours ouvrables ;
+
+- une garde nocturne est assurée en alternance de dix-sept heures à sept heures les jours ouvrables ;
+
+- une garde continu vingt-quatre heures sur vingt-quatre est assurée les fins de semaine à partir de vendredi dix-sept heures au lundi sept heures, ainsi que les jours fériés selon un plan de garde établi en vertu de l’article 4, paragraphe 6, de la loi modifiée du 8 mars 2018 relative aux établissements hospitaliers et à la planification hospitalière.
+
 <a id="art-4"></a>
 ## Art. 4.
 

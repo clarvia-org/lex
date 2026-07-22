@@ -29,10 +29,14 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 <a id="art-1er"></a>
 ## Art. 1er.
 
+Du champ d’application
+
 Le présent règlement grand-ducal s’applique aux services fournis de façon temporaire et occasionnelle par les prestataires ressortissants d’un Etat membre de l’Union européenne ou d’un Etat partie à l’accord sur l’Espace économique européen par la voie de la libre prestation de services en ce qui concerne les activités visées à l’article 1er, point 34, lettre b), de la loi du 23 juillet 2016 relative à la profession de l’audit .
 
 <a id="art-2"></a>
 ## Art. 2.
+
+De la procédure de reconnaissance
 
 En cas de déclaration préalable à la première fourniture de service à la Commission de Surveillance du Secteur Financier, ci-après désignée la «CSSF», en application de l’article 8 de la loi du 23 juillet 2016 relative à la profession de l’audit , la CSSF effectue une vérification des qualifications professionnelles.
 
@@ -43,10 +47,18 @@ Si la vérification révèle une différence substantielle dans les qualificatio
 <a id="art-3"></a>
 ## Art. 3.
 
+Des matières visées à l’épreuve d’aptitude
+
 La CSSF détermine l’épreuve d’aptitude qui sera imposée au prestataire dans un ou plusieurs domaines repris ci-après:
+
+- droit commercial et droit des sociétés;
+
+- les normes relatives aux activités visées.
 
 <a id="art-4"></a>
 ## Art. 4.
+
+Du déroulement de l’épreuve d’aptitude
 
 L’organisation de l’épreuve d’aptitude est arrêtée par la CSSF. L’épreuve a lieu, si nécessaire deux fois par an.
 
@@ -59,14 +71,20 @@ Pour réussir l’épreuve d’aptitude, le candidat doit avoir obtenu pour chaq
 <a id="art-5"></a>
 ## Art. 5.
 
+De la reconnaissance
+
 Lorsque le prestataire remplit les conditions exigées à l’article 8 de la loi du 23 juillet 2016 relative à la profession de l’audit ou après réussite de l’épreuve d’aptitude visée à l’article 4 du présent règlement grand-ducal, la CSSF notifie au prestataire la reconnaissance de ses qualifications professionnelles pour effectuer la prestation demandée sous le régime de la libre prestation de services.
 
 <a id="art-6"></a>
 ## Art. 6.
 
+Des dispositions finales
+
 Le présent règlement grand-ducal entre en vigueur le jour de sa publication au Mémorial.
 
 <a id="art-7"></a>
 ## Art. 7.
+
+De l’exécution
 
 Notre Ministre des Finances est chargé de l’exécution du présent règlement grand-ducal qui sera publié au Mémorial.

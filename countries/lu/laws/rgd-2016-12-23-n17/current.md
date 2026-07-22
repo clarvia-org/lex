@@ -33,6 +33,18 @@ Le crédit d'impôt pour pensionnés (ci-après dénommé « CIP » ) et un cré
 <a id="art-2"></a>
 ## Art. 2.
 
+(1)
+
+Dans une première étape, la caisse de pension ou tout autre débiteur de la pension détermine la retenue d'impôt d'après les barèmes de retenue ou d'après le taux de retenue inscrit sur la fiche de retenue d'impôt.
+
+(2)
+
+La fraction du CIP et du CI-CO2 pensionné correspondant à la période de pension prévue à l'article 154quinquies, alinéa 2 est ensuite imputée sur la retenue d'impôt correspondant à la même période de pension. L'impôt à retenir à charge du pensionné correspond au montant de la retenue, diminué des crédits d’impôt imputés .
+
+(3)
+
+Si la retenue d'impôt visée à l'alinéa 1er est inférieure au montant des fractions de crédits d'impôt imputés, l'excédent des crédits d'impôt est restitué au pensionné par la caisse de pension ou tout autre débiteur de la pension (impôt négatif).
+
 <a id="art-3"></a>
 ## Art. 3.
 

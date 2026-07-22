@@ -28,12 +28,20 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 <a id="art-1er"></a>
 ## Art. 1er.
 
-Centre de traitement : Un centre de traitement ou d’isolement est une infrastructure médicale mise en œuvre temporairement en cas de menace de pandémie ou de pandémie pour traiter ou isoler les patients infectés par un agent pathogène dès que le nombre de personnes atteintes dépassera les possibilités de prise en charge des structures médicales existantes.
+Définitions
 
-Centre de vaccination: Un centre de vaccination est une infrastructure médicale mise en œuvre temporairement pour assurer une vaccination rapide et efficace des personnes à vacciner.
+Centre de traitement :
+
+Un centre de traitement ou d’isolement est une infrastructure médicale mise en œuvre temporairement en cas de menace de pandémie ou de pandémie pour traiter ou isoler les patients infectés par un agent pathogène dès que le nombre de personnes atteintes dépassera les possibilités de prise en charge des structures médicales existantes.
+
+Centre de vaccination:
+
+Un centre de vaccination est une infrastructure médicale mise en œuvre temporairement pour assurer une vaccination rapide et efficace des personnes à vacciner.
 
 <a id="art-2"></a>
 ## Art. 2.
+
+Mise en œuvre
 
 Les centres de traitement et les centres de vaccination sont mis en œuvre sur décision du Gouvernement en Conseil. Cette décision fixe une date de mise en place.
 
@@ -44,6 +52,8 @@ Les dispositions opérationnelles relatives aux centres de traitement et aux cen
 <a id="art-3"></a>
 ## Art. 3.
 
+Fonctionnement
+
 Les centres de traitement et les centres de vaccination sont opérés sous l’autorité de l’Etat. Les missions des différents intervenants sont fixées au règlement ministériel prévu à l’article 2.
 
 L’Etat se charge de doter les centres de traitement et les centres de vaccination du personnel de santé, médecins et membres des autres professions de santé, en nombre suffisant pour garantir leur fonctionnement. Il met à leur disposition le matériel médical, les vaccins et médicaments, ainsi que le système informatique nécessaires aux mêmes fins.
@@ -53,6 +63,8 @@ L’État et les communes sont chargés d’assumer, avec les moyens qui leur so
 <a id="art-4"></a>
 ## Art. 4.
 
+Direction opérationnelle
+
 La direction opérationnelle des centres de traitement et des centres de vaccination est assurée conjointement par un médecin-fonctionnaire et le bourgmestre de la commune d’implantation ou son remplaçant, lorsque l’infrastructure du centre est la propriété de la commune concernée. Lorsque l’infrastructure du centre n’est pas la propriété d’une commune, la direction opérationnelle est assurée conjointement par un médecin-fonctionnaire et une personne désignée par la cellule de crise.
 
 Les attributions du médecin-fonctionnaire portent plus particulièrement sur les activités des médecins et du personnel soignant, et celles du bourgmestre sur les aspects administratifs et logistiques. Ils tranchent de manière collégiale les questions communes.
@@ -61,6 +73,8 @@ Le médecin-fonctionnaire peut être assisté dans sa tâche par des médecins l
 
 <a id="art-5"></a>
 ## Art. 5.
+
+Aspects financiers
 
 Les médecins libéraux affectés aux centres de traitement et aux centres de vaccination touchent une indemnité calculée sur base horaire. Le montant de la vacation horaire est déterminé par une convention à conclure entre l’Etat, représenté par le Ministre de la Santé, et l’association la plus représentative des médecins.
 
@@ -77,14 +91,20 @@ Les frais déboursés par les communes sont remboursés par l’État sur base d
 <a id="art-6"></a>
 ## Art. 6.
 
+Fermeture
+
 Les centres de traitement et les centres de vaccination cesseront de fonctionner dès que la situation de santé publique relative à la pandémie le permet. La fermeture des centres est constatée par décision du Ministre de la Santé.
 
 <a id="art-7"></a>
 ## Art. 7.
 
-L’article 1er, point 1, du règlement grand-ducal modifié du 18 octobre 2001 déterminant la liste des vaccinations recommandées est complété par une ligne, libellée comme suit:«la grippe A(H1N1) variante». «la grippe A(H1N1) variante».
+Dispositions modificatives
+
+L’article 1er, point 1, du règlement grand-ducal modifié du 18 octobre 2001 déterminant la liste des vaccinations recommandées est complété par une ligne, libellée comme suit:«la grippe A(H1N1) variante».
 
 <a id="art-8"></a>
 ## Art. 8.
+
+Exécution
 
 Notre Premier Ministre, Ministre d’Etat, Notre Ministre de la Santé, Notre Ministre de l’Intérieur et à la Grande Région et Notre Ministre des Finances sont chargés, chacun en ce qui le concerne, de l’exécution du présent règlement qui sera publié au Mémorial.

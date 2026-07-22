@@ -40,6 +40,12 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 Au sens du présent règlement, il y a lieu d’entendre par :
 
+1. « candidat » : à la fois le fonctionnaire stagiaire appelé à suivre la formation spéciale et qui doit se soumettre à un examen de formation spéciale et le fonctionnaire appelé à suivre une formation préparatoire à l’examen de promotion et qui participe à l’examen de promotion ;
+
+2. « formation de promotion » : la formation préparatoire à l’examen de promotion ;
+
+3. « ministre » : ministre ayant l’Administration gouvernementale dans ses attributions.
+
 #### Chapitre 2 Aspects organisationnels de la formation spéciale et de la formation de promotion
 
 <a id="art-2"></a>
@@ -47,11 +53,55 @@ Au sens du présent règlement, il y a lieu d’entendre par :
 
 La formation spéciale et la formation de promotion peuvent être organisées sous forme de :
 
+1. cours présentiels ;
+
+2. cours en ligne ;
+
+3. études personnelles ;
+
+4. cours alternant entre les méthodes visées aux points 1° à 3° ;
+
+5. séances d’apprentissage accompagnées sur le lieu du travail ;
+
+6. participation à des séminaires dans l’intérêt du service.
+
 <a id="art-3"></a>
 ## Art. 3.
 
+(1)
+
+Le temps de formation spéciale et de formation de promotion est considéré comme période d’activité de service.
+
+(2)
+
+Une journée de formation, quelle que soit sa forme au sens de l’article 2, compte pour six heures de formation et est considérée comme une journée d’activité de service de huit heures.
+
+Une demi-journée de formation, quelle que soit sa forme au sens de l’article 2, compte pour trois heures de formation et est considérée comme une demi-journée d’activité de service de quatre heures.
+
+(3)
+
+Le chef d’administration assure que le candidat bénéficie pour le volet de la formation suivi sous forme d’études personnelles ou de cours en ligne d’une dispense de service considérée comme période d’activité de service équivalant au nombre d’heures associées à ce volet.
+
 <a id="art-4"></a>
 ## Art. 4.
+
+(1)
+
+La fréquentation des cours, séances d’apprentissage et séminaires visés à l’article 2 est obligatoire.
+
+(2)
+
+Une liste de présence est établie par demi-journée de formation et est communiquée au président de la commission d’examen.
+
+(3)
+
+Une dispense de la participation à une ou plusieurs formations prévues par le présent règlement peut être accordée au candidat par le ministre pour des raisons exceptionnelles dûment motivées, le chef d’administration entendu en son avis.
+
+(4)
+
+Lorsque le candidat est absent lors d’une formation, il est tenu de transmettre au président de la commission d’examen au plus tard le jour ouvré suivant le début de son absence, un certificat indiquant la raison dûment justifiée de son absence.
+
+En cas d’absence justifiée, le président de la commission d’examen en informe le chef d’administration dont relève le candidat qui doit lui permettre une nouvelle inscription à cette formation dans le cadre d’une prochaine session de formation lorsqu’il le souhaite.
 
 #### Chapitre 3 Formation spéciale et examen de fin de formation spéciale
 
@@ -62,27 +112,57 @@ La formation spéciale et la formation de promotion peuvent être organisées so
 
 Pour les stagiaires de la catégorie de traitement A, la durée de la formation spéciale est fixée à 60 heures. Le contenu des formations et le nombre d’heures de formation y afférents sont fixés comme suit :
 
-Partie I : Formation certifiée par une attestation de présence Formation Durée de la formation Initiation aux missions et à l’organisation du département ministériel et de ses administrations 12 heures
+Partie I : Formation certifiée par une attestation de présence
 
-Partie II : Matières sanctionnées par un examen Matière Durée de la formation Organisation de l’État : 12 heures Gestion publique et maturité organisationnelle : 21 heures Communication et compétences comportementales : 15 heures
+| Formation | Durée de la formation |
+| --- | --- |
+| Initiation aux missions et à l’organisation du département ministériel et de ses administrations | 12 heures |
+
+Partie II : Matières sanctionnées par un examen
+
+| Matière | Durée de la formation |
+| --- | --- |
+| Organisation de l’État : Structure de l’État et la répartition des compétences entre les différentes entités Pouvoir exécutif et le fonctionnement du Conseil de gouvernement Procédure législative | 12 heures |
+| Gestion publique et maturité organisationnelle : Définition d’une organisation mature Gestion des ressources humaines Gestion de projet Relation administrative avec le citoyen Marchés publics Digitalisation de l’État Protection des données Sécurité dans la Fonction publique | 21 heures |
+| Communication et compétences comportementales : Parcours de développement en management Premier secours psychologique | 15 heures |
 
 <a id="art-6"></a>
 ## Art. 6.
 
 Pour les stagiaires de la catégorie de traitement B, la durée de la formation spéciale est fixée à 100 heures. Le contenu des formations et le nombre d’heures de formation y afférents sont fixés comme suit :
 
-Partie I : Formation certifiée par une attestation de présence Formation Durée de la formation Initiation aux missions et à l’organisation du département ministériel et de ses administrations 12 heures
+Partie I : Formation certifiée par une attestation de présence
 
-Partie II : Matières sanctionnées par un examen Matière Durée de la formation Organisation de l’État : 28 heures Gestion publique et maturité organisationnelle : 42 heures Communication et compétences comportementales : 18 heures
+| Formation | Durée de la formation |
+| --- | --- |
+| Initiation aux missions et à l’organisation du département ministériel et de ses administrations | 12 heures |
+
+Partie II : Matières sanctionnées par un examen
+
+| Matière | Durée de la formation |
+| --- | --- |
+| Organisation de l’État : Structure de l’État et la répartition des compétences entre les différentes entités Pouvoir exécutif et le fonctionnement du Conseil de gouvernement Procédure législative | 28 heures |
+| Gestion publique et maturité organisationnelle : Définition d’une organisation mature Gestion des ressources humaines Gestion de projet Relation administrative avec le citoyen Budget et comptabilité de l’État Digitalisation de l’État Protection des données Sécurité de l’information Sécurité dans la Fonction publique | 42 heures |
+| Communication et compétences comportementales : L’accueil du public Premier secours psychologique Organisation de son travail | 18 heures |
 
 <a id="art-7"></a>
 ## Art. 7.
 
 Pour les stagiaires de la catégorie de traitement C , la durée de la formation spéciale est fixée à 60 heures. Le contenu des formations et le nombre d’heures de formation y afférents sont fixés comme suit :
 
-Partie I : Formation certifiée par une attestation de présence Formation Durée de la formation Initiation aux missions et à l’organisation du département ministériel et de ses administrations 12 heures
+Partie I : Formation certifiée par une attestation de présence
 
-Partie II : Matières sanctionnées par un examen Matière Durée de la formation Organisation de l’État : 9 heures Gestion publique et maturité organisationnelle : 18 heures Communication et compétences comportementales : 21 heures
+| Formation | Durée de la formation |
+| --- | --- |
+| Initiation aux missions et à l’organisation du département ministériel et de ses administrations | 12 heures |
+
+Partie II : Matières sanctionnées par un examen
+
+| Matière | Durée de la formation |
+| --- | --- |
+| Organisation de l’État : Structure de l’État et la répartition des compétences entre les différentes entités Pouvoir exécutif et le fonctionnement du Conseil de gouvernement | 9 heures |
+| Gestion publique et maturité organisationnelle : Définition d’une organisation mature Gestion des ressources humaines Gestion de projet Relation administrative avec le citoyen Budget et comptabilité de l’État Digitalisation de l’État Protection des données Sécurité de l’information Sécurité dans la Fonction publique | 18 heures |
+| Communication et compétences comportementales : L’accueil du public Premier secours psychologique Organisation de son travail | 21 heures |
 
 <a id="art-8"></a>
 ## Art. 8.
@@ -94,10 +174,34 @@ L’inscription du candidat à une matière de la formation spéciale vaut d’o
 <a id="art-9"></a>
 ## Art. 9.
 
+(1)
+
+La nature des sessions de formation qui donnent lieu à une épreuve d’examen, leurs modalités d’organisation et leurs horaires sont déterminés par le ministre.
+
+La nature des sessions de formation certifiées par une attestation de présence, leurs modalités d’organisation et leurs horaires sont déterminés par le chef d’administration.
+
+(2)
+
+Les stagiaires sont informés des modalités d’organisation, de l’horaire et du lieu de déroulement des sessions de formation par la voie appropriée.
+
 ##### Section 2 Examen de fin de formation spéciale
 
 <a id="art-10"></a>
 ## Art. 10.
+
+(1)
+
+L’examen de fin de formation spéciale pour les catégories de traitement visées par le présent chapitre comprend pour chaque matière de la partie II des programmes de formation respectifs une épreuve écrite ou une épreuve standardisée effectuée par voie informatisée. Pour la catégorie de traitement A, il comprend également la rédaction et la présentation orale d’un travail de réflexion.
+
+(2)
+
+L’examen de fin de formation spéciale est organisé conformément aux articles 19 et 20 du règlement grand-ducal modifié du 31 octobre 2018 portant organisation de la formation pendant le stage pour les fonctionnaires stagiaires de l’État et des établissements publics de l’État ainsi que du cycle de formation de début de carrière des employés de l’État.
+
+(3)
+
+La fréquentation de la formation attestée par un certificat de présence est prise en compte au moment de l’arrêt du résultat final de l’examen de fin de formation spéciale par la commission d’examen.
+
+En cas d’absence du certificat de présence, la note finale n’est pas communiquée au stagiaire et l’accomplissement de la formation attestée par un certificat de présence est appréciée par la commission d’examen dans le cadre du prochain arrêt du résultat final de l’examen de fin de formation spéciale.
 
 <a id="art-11"></a>
 ## Art. 11.
@@ -146,16 +250,31 @@ Les notes du travail de réflexion sont communiquées par les membres de la comm
 
 Pour les fonctionnaires de la catégorie de traitement B, la durée de la formation de promotion est fixée à 72 heures. Le contenu des formations et le nombre d’heures de formation y afférents sont fixés comme suit :
 
-Partie I : Formation certifiée par une attestation de présence Formation Durée de la formation Initiation à la promotion 12 heures
+Partie I : Formation certifiée par une attestation de présence
 
-Partie II : Matières sanctionnées par un examen Matière Durée de la formation Compétences digitales : 4 modules de base : 3 modules au choix : 30 heures Compétences linguistiques françaises 30 heures
+| Formation | Durée de la formation |
+| --- | --- |
+| Initiation à la promotion | 12 heures |
+
+Partie II : Matières sanctionnées par un examen
+
+| Matière | Durée de la formation |
+| --- | --- |
+| Compétences digitales : 4 modules de base : L’essentiel sur l’ordinateur L’essentiel sur le web et la communication Traitement de texte Tableur 3 modules au choix : Utiliser les bases de données Présentation Collaboration en ligne Sécurité informatique Traitement d’images | 30 heures |
+| Compétences linguistiques françaises | 30 heures |
 
 <a id="art-16"></a>
 ## Art. 16.
 
 Pour les fonctionnaires de la catégorie de traitement C , la durée de la formation de promotion est fixée à 78 heures. Le contenu des formations et le nombre d’heures de formation y afférents sont fixés comme suit :
 
-Matières sanctionnées par un examen Matière Durée de la formation Formation de promotion : 18 heures Compétences digitales : 4 modules de base : 30 heures Compétences linguistiques françaises : 30 heures
+Matières sanctionnées par un examen
+
+| Matière | Durée de la formation |
+| --- | --- |
+| Formation de promotion : Organisation du travail Compétences de communication Sécurité dans la Fonction publique | 18 heures |
+| Compétences digitales : 4 modules de base : L’essentiel sur l’ordinateur L’essentiel sur le web et la communication Traitement de texte Tableur | 30 heures |
+| Compétences linguistiques françaises : | 30 heures |
 
 <a id="art-17"></a>
 ## Art. 17.
@@ -175,6 +294,20 @@ Les fonctionnaires inscrits sont informés des modalités d’organisation, de l
 
 <a id="art-19"></a>
 ## Art. 19.
+
+(1)
+
+L’examen de promotion pour les catégories de traitement visées par le présent chapitre porte sur les matières des programmes de formation respectifs sanctionnées par un examen et, pour la catégorie de traitement B, il comprend également la rédaction et la présentation orale d’un travail de promotion.
+
+L’examen de promotion est organisé conformément aux dispositions du règlement grand-ducal modifié du 13 avril 1984 déterminant la procédure des commissions d’examen de l’examen de fin de formation spéciale pendant le stage et de l’examen de promotion dans les administrations et services de l’État et ont lieu devant une commission d’examen composée conformément aux dispositions du même règlement grand-ducal.
+
+(2)
+
+Est admissible à une épreuve de l’examen de promotion, le fonctionnaire qui a suivi l’intégralité de la formation concernée de la formation de promotion.
+
+Par dérogation à l’alinéa 1er, le fonctionnaire est admissible à une épreuve de l’examen de promotion sans avoir suivi l’intégralité de la formation concernée de la formation de promotion dans les cas visés à l’article 4, paragraphes 3 ou 4.
+
+Les décisions d’admission à l’examen de promotion sont prises conformément aux dispositions du règlement grand-ducal modifié du 13 avril 1984 déterminant la procédure des commissions d’examen de l’examen de fin de formation spéciale pendant le stage et de l’examen de promotion dans les administrations et services de l’État.
 
 <a id="art-20"></a>
 ## Art. 20.
@@ -203,17 +336,51 @@ Les notes du travail de promotion sont communiquées par les membres de la commi
 <a id="art-22"></a>
 ## Art. 22.
 
+(1)
+
+Le maximum de points à attribuer s’élève pour chaque épreuve de l’examen de promotion à 60 points. Est considérée comme une note suffisante un nombre total de points supérieur ou égal à 30.
+
+A réussi à l’examen de promotion le fonctionnaire qui a obtenu au moins les trois cinquièmes du nombre total des points pouvant être obtenus dans le cadre de cet examen et une note suffisante dans chacune des épreuves de l’examen de promotion.
+
+A échoué à l’examen de promotion le fonctionnaire qui n’a pas obtenu au moins les trois cinquièmes du nombre total des points pouvant être obtenus dans le cadre de cet examen ou qui a obtenu une note insuffisante dans plus d’une épreuve de l’examen de promotion.
+
+Est ajourné à une épreuve de l’examen de promotion le fonctionnaire qui a obtenu au moins les trois cinquièmes du nombre total des points pouvant être obtenus dans le cadre de cet examen et une seule note insuffisante dans l’épreuve de l’examen de promotion concernée.
+
+A échoué à l’examen de promotion le fonctionnaire qui n’a pas obtenu une note suffisante dans l’épreuve dans laquelle il a été ajourné.
+
+(2)
+
+La fréquentation de la formation attestée par un certificat de présence est prise en compte au moment de l’arrêt du résultat final de l’examen de promotion par la commission d’examen.
+
+En cas d’absence du certificat de présence, la note finale n’est pas communiquée au candidat et l’accomplissement de la formation attestée par un certificat de présence est appréciée par la commission d’examen dans le cadre du prochain arrêt du résultat final de l’examen de promotion.
+
 #### Chapitre 5 Dispositions modificatives, abrogatoires, transitoires et finales
 
 <a id="art-23"></a>
 ## Art. 23.
 
-Le règlement grand-ducal modifié du 13 avril 1984 déterminant la procédure des commissions d’examen de l’examen de fin de formation spéciale pendant le stage et de l’examen de promotion dans les administrations et services de l’État est modifié comme suit : Par dérogation à l’alinéa qui précède, la règle de la double correction des épreuves ne s’applique pas en cas d’épreuves standardisées effectuées par voie informatisée. L’alinéa 1er ne s’applique pas en cas d’épreuves standardisées effectuées par voie informatisée. L’alinéa 1er ne s’applique pas en cas d’épreuves standardisées effectuées par voie informatisée. Les alinéas 1er et 2 ne s’appliquent pas en cas d’épreuves standardisées effectuées par voie informatisée.
+Le règlement grand-ducal modifié du 13 avril 1984 déterminant la procédure des commissions d’examen de l’examen de fin de formation spéciale pendant le stage et de l’examen de promotion dans les administrations et services de l’État est modifié comme suit :
+
+1. À l’article 3, paragraphe 1 er , l’alinéa 1 er est supprimé.
+
+2. À l’article 4, le paragraphe 1 er est complété par un nouvel alinéa 2, libellé comme suit : Par dérogation à l’alinéa qui précède, la règle de la double correction des épreuves ne s’applique pas en cas d’épreuves standardisées effectuées par voie informatisée.
+
+3. L’article 5 est modifié comme suit :
+
+1. Au paragraphe 3, les termes ou par voie électronique à l’adresse personnelle du président sont insérés entre les termes sous pli fermé et et avant .
+
+2. Au paragraphe 4, le terme présentés est supprimé et les termes jusqu’au début de l’épreuve concernée sont ajoutés derrière le terme observé .
+
+3. Le paragraphe 5 est complété par un nouvel alinéa 2, libellé comme suit : L’alinéa 1er ne s’applique pas en cas d’épreuves standardisées effectuées par voie informatisée.
+
+4. Le paragraphe 7 est complété par un nouvel alinéa 2, libellé comme suit : L’alinéa 1er ne s’applique pas en cas d’épreuves standardisées effectuées par voie informatisée.
+
+5. Le paragraphe 11 est complété par un nouvel alinéa 3, libellé comme suit : Les alinéas 1er et 2 ne s’appliquent pas en cas d’épreuves standardisées effectuées par voie informatisée.
 
 <a id="art-24"></a>
 ## Art. 24.
 
-L’article 18 du règlement grand-ducal modifié du 31 octobre 2018 portant organisation de la formation pendant le stage pour les fonctionnaires stagiaires de l’État et des établissements publics de l’État ainsi que du cycle de formation de début de carrière des employés de l’État est remplacé comme suit : Art. 18. (1) Est admissible à l’examen de fin de formation spéciale, le stagiaire qui a suivi l’intégralité des formations de la formation spéciale prévues. (2) Par dérogation au paragraphe 1er, le stagiaire est admissible à l’examen de fin de formation spéciale : en cas de dispense de la participation à une ou plusieurs formations de la formation spéciale, accordée au stagiaire par le chef d’administration pour des raisons exceptionnelles dûment motivées ; en cas d’absence, lorsqu’elle est considérée comme justifiée par le président de la commission d’examen sur base d’un certificat qui lui a été transmis par le stagiaire au plus tard le jour ouvrable suivant le début de son absence. (3) L’admissibilité à l’examen de fin de formation spéciale peut être prononcée, même si le stagiaire n’a pas encore passé l’examen de fin de formation générale à l’Institut. Est admissible à l’examen de fin de formation spéciale, le stagiaire qui a suivi l’intégralité des formations de la formation spéciale prévues. Par dérogation au paragraphe 1er, le stagiaire est admissible à l’examen de fin de formation spéciale : L’admissibilité à l’examen de fin de formation spéciale peut être prononcée, même si le stagiaire n’a pas encore passé l’examen de fin de formation générale à l’Institut.
+L’article 18 du règlement grand-ducal modifié du 31 octobre 2018 portant organisation de la formation pendant le stage pour les fonctionnaires stagiaires de l’État et des établissements publics de l’État ainsi que du cycle de formation de début de carrière des employés de l’État est remplacé comme suit : Art. 18. (1) Est admissible à l’examen de fin de formation spéciale, le stagiaire qui a suivi l’intégralité des formations de la formation spéciale prévues. (2) Par dérogation au paragraphe 1er, le stagiaire est admissible à l’examen de fin de formation spéciale : en cas de dispense de la participation à une ou plusieurs formations de la formation spéciale, accordée au stagiaire par le chef d’administration pour des raisons exceptionnelles dûment motivées ; en cas d’absence, lorsqu’elle est considérée comme justifiée par le président de la commission d’examen sur base d’un certificat qui lui a été transmis par le stagiaire au plus tard le jour ouvrable suivant le début de son absence. (3) L’admissibilité à l’examen de fin de formation spéciale peut être prononcée, même si le stagiaire n’a pas encore passé l’examen de fin de formation générale à l’Institut.
 
 <a id="art-25"></a>
 ## Art. 25.

@@ -43,7 +43,21 @@ Lorsqu’une exploitation passible de l’impôt commercial possède, pendant le
 
 Un préciput de 10% est attribué à la commune du siège d’exploitation, lorsque ce siège se trouve au Grand-Duché, et, au cas où ce siège est à l’étranger, à la commune sur le territoire de laquelle se trouve le principal établissement indigène.
 
-Les 90% restants se répartissent entre les communes indigènes de situation: Les dépôts et comptes courants de la clientèle et les avances à la clientèle sont à arrondir au multiple inférieur de 100 euros. Lorsqu’une banque, un institut de crédit ou un établissement stable de semblables exploitations comprend une partie d’exploitation exempte de l’impôt commercial, il faut éliminer les dépôts, comptes courants et avances de cette partie d’exploitation ainsi que les salaires payés aux salariés occupés exclusivement ou principalement auprès de cette partie d’exploitation;
+Les 90% restants se répartissent entre les communes indigènes de situation:
+
+1. en ce qui concerne les compagnies d’assurance, d’après le rapport qui existe entre d’une part les recettes brutes réalisées dans le ou les établissements stables situés sur le territoire de chaque commune indigène de situation et d’autre part les recettes brutes réalisées dans tous les établissements stables que l’exploitation considérée possède au Grand-Duché;
+
+2. en ce qui concerne les banques et autres instituts de crédits, en tenant compte, pour un tiers: Les dépôts et comptes courants de la clientèle et les avances à la clientèle sont à arrondir au multiple inférieur de 100 euros. Lorsqu’une banque, un institut de crédit ou un établissement stable de semblables exploitations comprend une partie d’exploitation exempte de l’impôt commercial, il faut éliminer les dépôts, comptes courants et avances de cette partie d’exploitation ainsi que les salaires payés aux salariés occupés exclusivement ou principalement auprès de cette partie d’exploitation;
+
+1. du rapport qui, au début de l’exercice d’exploitation, existe entre d’une part la somme des dépôts et comptes courants de la clientèle, banquiers non compris, du ou des établissements stables situés sur le territoire de chaque commune indigène de situation et d’autre part la somme des dépôts de la clientèle, banquiers non compris, de tous les établissements stables que l’exploitation considérée possède au Grand-Duché;
+
+2. du rapport qui, au début de l’exercice d’exploitation, existe entre d’une part la somme des avances à la clientèle, banquiers non compris, du ou des établissements stables situés sur le territoire de chaque commune indigène de situation et d’autre part la somme des avances a la clientèle, banquiers non compris, de tous les établissements stables que l’exploitation considérée possède au Grand-Duché;
+
+3. du rapport qui existe entre d’une part les salaires payés aux salariés occupés auprès du ou des établissements stables situés sur le territoire de chaque commune indigène de situation et d’autre part les salaires payés à tous les salariés occupés auprès des établissements stables que l’exploitation considérée possède au Grand-Duché.
+
+3. en ce qui concerne les exploitations dans le chef desquelles les ventes de gros représentent moins de 10 p.c. du chiffre d’affaires global, par moitié d’après le procédé indiqué sub a) ci-dessus et par moitié d’après le rapport qui existe entre d’une part les salaires payés aux salariés occupés auprès du ou des établissements stables situés sur le territoire de chaque commune indigène de situation et d’autre part les salaires payés à tous les salariés occupés auprès des établissements stables que l’exploitation considérée possède au Grand-Duché;
+
+4. en ce qui concerne les exploitations autres que celles visées sub a) à c) ci-dessus, d’après le rapport qui existe entre d’une part les salaires payés aux salariés occupés auprès du ou des établissements stables situés sur le territoire de chaque commune indigène de situation et d’autre part les salaires payés à tous les salariés occupés auprès des établissements stables que l’exploitation considérée possède au Grand-Duché.
 
 Lorsqu’une exploitation visée à l’alinéa premier comprend un établissement stable qui s’étend sur le territoire de plusieurs communes, la répartition a lieu comme si ledit établissement était situé sur le territoire d’une commune tierce.
 
@@ -77,6 +91,18 @@ L’impôt commercial revenant à une commune du chef de sa participation à une
 
 <a id="art-6bis"></a>
 ## Art. 6bis.
+
+(1)
+
+Au cas où les communes associées en syndicat intercommunal pour l’exploitation d’une zone d’activité intercommunale au sens de l’article 6 point 2b de la loi modifiée du 1er mars 1952 tombent d’accord dans les statuts du syndicat sur un procédé de ventilation, les dispositions des articles 2, 5 et 6 ayant trait aux établissements stables qui s’étendent sur le territoire de plusieurs communes indigènes sont d’application correspondante aux établissements stables installés dans la zone d’activité intercommunale répondant aux conditions déterminées par le règlement grand-ducal du 24 mars 1993 fixant les critères auxquels doit répondre une zone d’activité intercommunale.
+
+(2)
+
+Lorsque, pendant l’exercice d’exploitation à considérer pour la détermination du bénéfice, un établissement stable est installé dans une zone d’activité intercommunale, la base d’assiette globale ou la quote-part de base d’assiette globale qui se rapporte à l’établissement stable est ventilée d’après le procédé arrêté dans le cadre du règlement grand-ducal visé à l’alinéa précédent par toutes les communes membres du syndicat intercommunal.
+
+(3)
+
+Au cas où une ou plusieurs des communes intéressées ne tombent pas d’accord sur un procédé de ventilation, le présent article est considéré comme inexistant.
 
 ### Titre III Participation des communes au produit de l’impôt commercial
 

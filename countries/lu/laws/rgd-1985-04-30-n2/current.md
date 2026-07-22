@@ -40,7 +40,37 @@ La commission a pour mission d’émettre des avis et des recommandations et de 
 
 La commission est composée de quatorze membres au moins et de dix-sept membres au maximum.
 
-La commission comprend les membres suivants : Pour chaque membre il est désigné un suppléant.
+La commission comprend les membres suivants :
+
+1. un membre représentant le ministre ayant l’Éducation nationale dans ses attributions ;
+
+2. un membre représentant le ministre ayant l’Enfance et la Jeunesse dans ses attributions ;
+
+3. un membre représentant le ministre ayant l’Égalité dans ses attributions ;
+
+4. un membre représentant le ministre ayant l’Enseignement supérieur dans ses attributions ;
+
+5. un membre représentant le ministre ayant la Famille et l’Intégration dans ses attributions ;
+
+6. un membre représentant le ministre ayant les Finances dans ses attributions ;
+
+7. un membre représentant le ministre ayant l’Intérieur dans ses attributions ;
+
+8. un membre représentant le ministre ayant la Santé dans ses attributions ;
+
+9. un membre représentant le ministre ayant les Sports dans ses attributions ;
+
+10. un membre représentant le ministre ayant le Travail dans ses attributions ;
+
+11. deux membres représentant le Comité olympique et sportif luxembourgeois ;
+
+12. le directeur de l’INAPS ;
+
+13. un deuxième représentant de l’INAPS ;
+
+14. le cas échéant, un à trois représentants d’instances qui ont un lien avec l’activité physique et les sports.
+
+Pour chaque membre il est désigné un suppléant.
 
 Les membres non désignés d´office et les suppléants sont nommés par le ministre compétent, le cas échéant sur proposition de l´instance qui les délègue, pour un terme renouvelable de trois ans.
 

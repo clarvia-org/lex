@@ -36,8 +36,40 @@ Le Ministère des Affaires étrangères et européennes, de la Défense, de la C
 <a id="art-2"></a>
 ## Art. 2.
 
+(1)
+
+Le secrétariat général est dirigé par un Secrétaire général, qui remplit sa tâche à l’égard des ministres ayant des compétences au sein du Ministère des Affaires étrangères et européennes, de la Défense, de la Coopération et du Commerce extérieur . Il a pour mission de coordonner toutes les actions de la politique extérieure et d’en assurer la cohérence, ainsi que de veiller à l’unité de la gestion administrative du ministère, à la coordination des services qui en relèvent et au bon fonctionnement des missions diplomatiques et consulaires.
+
+(2)
+
+Le secrétariat général comporte un service juridique, qui est dirigé par un fonctionnaire du groupe de traitement A1 et qui est en charge des questions juridiques internes, européennes et internationales, ainsi qu’une cellule de communication.
+
 <a id="art-3"></a>
 ## Art. 3.
+
+(1)
+
+Les attributions générales des huit directions, qui sont chacune dirigées par un directeur, sont les suivantes :
+
+1. première direction : les affaires politiques ;
+
+2. deuxième direction : les affaires européennes et les relations économiques internationales ;
+
+3. troisième direction : le protocole et la chancellerie ;
+
+4. quatrième direction : les finances et les ressources humaines ;
+
+5. cinquième direction : la coopération au développement et l’action humanitaire ;
+
+6. sixième direction : les affaires consulaires et les relations culturelles internationales ;
+
+7. septième direction : la défense ;
+
+8. huitième direction : la promotion du commerce extérieur et des investissements.
+
+(2)
+
+Les attributions détaillées du secrétariat général et des directions peuvent être précisées par le(s) ministre(s) compétent(s) dans le cadre de leurs mission et attributions générales.
 
 <a id="art-4"></a>
 ## Art. 4.
@@ -58,6 +90,10 @@ Afin d’assurer une bonne coordination entre les directions du département, de
 ## Art. 7.
 
 Sont abrogés:
+
+1. le règlement grand-ducal du 29 juin 1998 déterminant le plan d’organisation de l’administration centrale du Ministère des Affaires étrangères et européennes, de la Défense, de la Coopération et du Commerce extérieur ;
+
+2. le règlement grand-ducal du 23 décembre 1998 déterminant les emplois à responsabilité particulière de la carrière du secrétaire de légation au Ministère des Affaires étrangères et européennes, de la Défense, de la Coopération et du Commerce extérieur .
 
 <a id="art-8"></a>
 ## Art. 8.

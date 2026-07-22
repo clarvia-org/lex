@@ -33,12 +33,48 @@ Toute demande en obtention d’une autorisation de séjour ou d’une autorisati
 <a id="art-2"></a>
 ## Art. 2.
 
+(1)
+
+Pour faire l’objet d’un examen, la demande visée à l’article 1er doit comporter les éléments suivants:
+
+- une copie certifiée conforme à l’original du passeport intégral du requérant;
+
+- un curriculum vitae ;
+
+- une copie des diplômes ou des qualifications professionnelles du requérant, avec si nécessaire, leur traduction si la pièce originale n’est pas rédigée en langue française, allemande ou anglaise ;
+
+- un contrat de travail, daté et signé par les deux parties et conforme au droit de travail luxembourgeois;
+
+- une lettre de motivation du requérant à l’appui de la demande;
+
+- le certificat récent établi par l’Agence pour le développement de l’emploi conformément à l’article L.622-4, paragraphe (5) du Code du travail , attestant le droit de l’employeur de recruter pour le poste déclaré vacant la personne de son choix ou la preuve que l’employeur a déclaré le poste vacant à l’Agence pour le développement de l’emploi dans les cas où le recrutement d’un travailleur salarié n’est pas soumis à la condition figurant à l’article 42, paragraphe (1), point 1 de la loi du 29 août 2008 précitée.
+
+(2)
+
+La demande unique introduite par le ressortissant de pays tiers en vue de résider et de travailler sur le territoire doit comporter, outre les documents énumérés au paragraphe (1), un extrait du casier judiciaire ou un affidavit.
+
+(3)
+
+Sur demande, le ressortissant de pays tiers ou son futur employeur reçoivent les informations adéquates concernant les documents requis pour introduire une demande complète.
+
 <a id="art-3-20180921"></a>
 ## Art. 3.
 
 Le ministre transmet une copie de la demande et des informations jointes à l’administration de l’emploi qui lui fera parvenir, endéans les trois semaines, un avis circonstancié relatif à l’opportunité de l’octroi d’une autorisation de séjour pour travailleur salarié.
 
 L’avis contiendra des renseignements notamment sur:
+
+- la déclaration de la vacance du poste par l’employeur;
+
+- la nécessité objective des critères exigés par l’employeur en relation avec l’exécution du travail sur le poste de travail déclaré vacant;
+
+- la vérification de la disponibilité concrète de demandeurs d’emploi bénéficiant d’un droit prioritaire à l’embauche;
+
+- le profil des candidats assignés et leur historique professionnel;
+
+- la suite réservée aux assignations;
+
+- le nombre de travailleurs soumis à autorisation par rapport au nombre de travailleurs total de l’employeur.
 
 <a id="art-3"></a>
 ## Art. 3.

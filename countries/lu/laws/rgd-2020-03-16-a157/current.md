@@ -32,7 +32,13 @@ Il sera émis au nom et pour compte du Trésor une pièce de collection en or.
 <a id="art-2"></a>
 ## Art. 2.
 
-Cette pièce présentera les caractéristiques suivantes : La pièce comporte à gauche l’inscription de la valeur faciale « 10 EURO ».
+Cette pièce présentera les caractéristiques suivantes :
+
+- L’avers de la pièce représente la statue de la « Mélusine », œuvre de Serge Ecker, ainsi qu’une représentation stylisée des fortifications de la Ville de Luxembourg. En arrière-fond est représentée la passerelle du « Stierchen » traversant la vallée de l’Alzette, où la légende de la sirène « Mélusine » se serait déroulée. La pièce comporte à gauche l’inscription de la valeur faciale « 10 EURO ».
+
+- Le revers de la pièce porte Notre portrait, l’indication « LËTZEBUERG » et le millésime « 2021 » ainsi que le logo indiquant l’origine « Fairtrade » du métal.
+
+- Elle est frappée en qualité « proof » et a la tranche lisse. Elle a un diamètre de 16 mm et un poids total de 3,11 grammes (1/10 d’once). La pièce est constituée d’or fin au titre de 0,999.
 
 <a id="art-3"></a>
 ## Art. 3.

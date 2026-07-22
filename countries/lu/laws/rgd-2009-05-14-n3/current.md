@@ -34,12 +34,16 @@ Les parents qui entendent faire scolariser leur enfant dans l'école d'une autre
 <a id="art-2"></a>
 ## Art. 2.
 
-Le collège des bourgmestre et échevins communique sa décision aux parents avant le 15 mai. En cas d'acceptation de la demande, les parents en informent la commune d'origine dans la huitaine, l'enfant est inscrit par l'administration communale concernée sur la liste des enfants scolarisés dans la commune pour l'année scolaire en question.
+Le collège des bourgmestre et échevins communique sa décision aux parents avant le 15 mai.
+
+En cas d'acceptation de la demande, les parents en informent la commune d'origine dans la huitaine, l'enfant est inscrit par l'administration communale concernée sur la liste des enfants scolarisés dans la commune pour l'année scolaire en question.
 
 <a id="art-3"></a>
 ## Art. 3.
 
-Le retour d'un élève dans l'école de sa commune de résidence se fait sur simple information par les parents de l'administration communale de résidence. L'enfant est inscrit d'office sur la liste des élèves pour l'année scolaire en question. L'administration communale en informe la commune où l'enfant était scolarisé durant l'année scolaire en cours. (Règl. g.-d. du 28 avril 2011) Art. 4. Le conseil communal de la commune d'accueil détermine la redevance annuelle pour frais de scolarité qui ne peut dépasser six cents euros par élève. Le conseil communal de la commune d'accueil détermine la redevance annuelle pour frais de scolarité qui ne peut dépasser six cents euros par élève.
+Le retour d'un élève dans l'école de sa commune de résidence se fait sur simple information par les parents de l'administration communale de résidence. L'enfant est inscrit d'office sur la liste des élèves pour l'année scolaire en question. L'administration communale en informe la commune où l'enfant était scolarisé durant l'année scolaire en cours.
+
+(Règl. g.-d. du 28 avril 2011) Art. 4. Le conseil communal de la commune d'accueil détermine la redevance annuelle pour frais de scolarité qui ne peut dépasser six cents euros par élève.
 
 <a id="art-5"></a>
 ## Art. 5.
@@ -49,7 +53,11 @@ Tout changement d'école intervenant au cours de l'année scolaire est notifié 
 <a id="art-6"></a>
 ## Art. 6.
 
-Lors d'un changement d'école la transmission des données scolaires de l'enfant, et notamment son dossier d'évaluation, de l'école d'origine à l'école d'accueil se fait par l'intermédiaire des présidents du comité d'école. Si l'enfant part sans indiquer la nouvelle école où il sera scolarisé, les documents visés ci-dessus sont gardés à l'école. Si l'enfant part pour une école à l'étranger, les documents sont remis aux parents à leur demande.
+Lors d'un changement d'école la transmission des données scolaires de l'enfant, et notamment son dossier d'évaluation, de l'école d'origine à l'école d'accueil se fait par l'intermédiaire des présidents du comité d'école.
+
+Si l'enfant part sans indiquer la nouvelle école où il sera scolarisé, les documents visés ci-dessus sont gardés à l'école.
+
+Si l'enfant part pour une école à l'étranger, les documents sont remis aux parents à leur demande.
 
 <a id="art-7"></a>
 ## Art. 7.

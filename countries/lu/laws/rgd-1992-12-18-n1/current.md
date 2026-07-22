@@ -41,13 +41,43 @@ Par dérogation aux dispositions des articles 28 à 36 et de l’article 60bis, 
 <a id="art-3"></a>
 ## Art. 3.
 
+(1)
+
+La taxe sur la valeur ajoutée est due :
+
+1. pour les tabacs fabriqués au Grand-Duché de Luxembourg, par le fabricant ;
+
+2. pour les tabacs non fabriqués au Grand-Duché de Luxembourg, par la personne qui effectue, à l'intérieur du pays, une acquisition intracommunautaire ou une importation de ces tabacs fabriqués.
+
+(2)
+
+Par dérogation au paragraphe 1er, lorsque les tabacs fabriqués y visés sont placés dans un entrepôt fiscal au sens de la réglementation relative au régime général, à la détention, à la circulation et aux contrôles des produits soumis à accises, la taxe est due par l'opérateur responsable dudit entrepôt fiscal pour ces tabacs fabriqués à leur sortie de l'entrepôt.
+
+La perception de la taxe due en vertu de l'alinéa 1 se fait par l'intermédiaire de l'Administration des douanes et accises, selon les modalités et la forme prescrites par celle-ci. Cette perception de la taxe à la sortie des biens de l’entrepôt rend les exonérations visées à l’article 60bis, paragraphe 2, de la loi précitée du 12 février 1979 définitives.
+
 <a id="art-4"></a>
 ## Art. 4.
+
+(1)
+
+Le paiement de la taxe due conformément à l'article 3 couvre toutes les livraisons ultérieures jusques et y compris celle faite au consommateur.
+
+(2)
+
+La personne redevable de la taxe conformément à l’article 3 a droit à un remboursement de la taxe déclarée ou payée en relation avec des tabacs fabriqués pour lesquels l’Administration des douanes et accises rembourse le droit d’accise perçu.
+
+(3)
+
+La perception de la taxe due en vertu de l’article 3, paragraphe 2, et le remboursement de la taxe visé au paragraphe 2 se font par l’intermédiaire de l’Administration des douanes et accises, selon les modalités et la forme prescrites par celle-ci.
+
+La perception de la taxe à la sortie des biens de l’entrepôt rend les exonérations visées à l’article 60bis, paragraphe 2, de la loi précitée du 12 février 1979 définitives.
 
 <a id="art-5"></a>
 ## Art. 5.
 
-Par dérogation à l'article 63, paragraphes 8 et 11, de la loi modifiée du 12 février 1979 , les livraisons de tabacs fabriqués effectuées à un assujetti doivent être facturées au prix taxe comprise. La facture doit porter la mention «Régime spécial:T.V.A. perçue à la source».
+Par dérogation à l'article 63, paragraphes 8 et 11, de la loi modifiée du 12 février 1979 , les livraisons de tabacs fabriqués effectuées à un assujetti doivent être facturées au prix taxe comprise.
+
+La facture doit porter la mention «Régime spécial:T.V.A. perçue à la source».
 
 <a id="art-6"></a>
 ## Art. 6.

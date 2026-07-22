@@ -885,6 +885,16 @@ provision: art-13
 - `1` when any validation error exists;
 - `2` for invalid CLI usage.
 
+Checks include frontmatter schema and field order, source file presence and SHA-256,
+unique provision anchors, and **Markdown↔retained-source fidelity** for XML/HTML
+sources (empty or heavily truncated article bodies, and vanished list items).
+
+Pass a law directory path to run the fidelity check for that law only:
+
+```bash
+uv run lex check countries/lu/laws/loi-2000-06-29-n2
+```
+
 Text errors use:
 
 ```text

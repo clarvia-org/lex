@@ -32,6 +32,12 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 Dans les zones soumises à des contraintes naturelles ou à d’autres contraintes spécifiques une indemnité compensatoire annuelle destinée à indemniser les agriculteurs pour tout ou partie des coûts supplémentaires et de la perte de revenu résultant de ces contraintes pour la production agricole dans la zone concernée est accordée :
 
+- dans les zones défavorisées qui étaient admissibles au titre de l’article 36, point a) ii), du règlement modifié (CE) n° 1698/2005 du Conseil du 20 septembre 2005 concernant le soutien au développement rural par le Fonds européen agricole pour le développement rural (Feader) et au titre de l’article 24 de la loi modifiée du 18 avril 2008 concernant le renouvellement du soutien au développement rural au cours de la période de programmation 2007-2013;
+
+- dans les limites prévues à l’article 31, paragraphe 5 du règlement (UE) n° 1305/2013 du Parlement européen et du Conseil du 17 décembre 2013 relatif au soutien au développement rural par le Fonds européen agricole pour le développement rural (Feader) et abrogeant le règlement (CE) n° 1698/2005 du Conseil; et
+
+- dans les conditions et limites prévues par le présent règlement.
+
 <a id="art-2"></a>
 ## Art. 2.
 
@@ -44,10 +50,34 @@ L’indemnité compensatoire se rapporte à une année calendaire et est calcul�
 
 Sont éligibles à l’indemnité compensatoire les surfaces répondant aux conditions définies aux articles 2, 3 et 4, paragraphe 1er du règlement grand-ducal du 30 juillet 2015 portant application, au Grand-Duché de Luxembourg, de règles communes relatives aux paiements directs en faveur des agriculteurs au titre des régimes de soutien relevant de la politique agricole commune et au soutien au développement rural, à l’exception :
 
+1. des surfaces définies à l’article 4, paragraphe 2 du règlement grand-ducal du 30 juillet 2015 portant application, au Grand-Duché de Luxembourg, de règles communes relatives aux paiements directs en faveur des agriculteurs au titre des régimes de soutien relevant de la politique agricole commune et au soutien au développement rural,
+
+2. des vignobles,
+
+3. des plantations fruitières intensives,
+
+4. des pépinières,
+
+5. des cultures maraîchères de plein air,
+
+6. des surfaces de floriculture de plein air; et
+
+7. des cultures sous serre.
+
 <a id="art-4"></a>
 ## Art. 4.
 
 L‘indemnité compensatoire est accordée aux exploitants agricoles :
+
+1. qui exercent au Grand-Duché de Luxembourg une activité agricole au sens de l’article 4, paragraphe 1, point c) du règlement (UE) n° 1307/2013 du Parlement européen et du Conseil du 17 décembre 2013 établissant les règles relatives aux paiements directs en faveur des agriculteurs au titre des régimes de soutien relevant de la politique agricole commune et abrogeant le règlement (CE) n° 637/2008 du Conseil et le règlement (CE) n° 73/2009 du Conseil et au sens de l’article 2 du règlement grand-ducal du 30 juillet 2015 portant application, au Grand-Duché de Luxembourg, des règles relatives aux paiements directs en faveur des agriculteurs au titre des régimes de soutien relevant de la politique agricole commune;
+
+2. qui sont à considérer comme agriculteurs actifs au sens de l’article 4 du règlement grand-ducal du 30 juillet 2015 portant application, au Grand-Duché de Luxembourg, des règles relatives aux paiements directs en faveur des agriculteurs au titre des régimes de soutien relevant de la politique agricole commune;
+
+3. dont l’exploitation a une dimension économique correspondant à une marge brute standard totale d’au moins 9.600 euros et une taille d‘au moins 3 hectares de surface agricole éligible situés sur le territoire du Grand-Duché de Luxembourg;
+
+4. qui s’engagent à poursuivre leur activité agricole dans une zone défavorisée pendant une période minimale de cinq ans à partir du premier paiement de l’indemnité compensatoire; et
+
+5. qui s’engagent à respecter les exigences de la conditionnalité.
 
 <a id="art-5"></a>
 ## Art. 5.
@@ -57,8 +87,48 @@ La dimension économique de l’exploitation est calculée selon la méthode fix
 <a id="art-6"></a>
 ## Art. 6.
 
+(1)
+
+Il n’est alloué qu’une seule indemnité compensatoire par exploitation agricole, même si elle est gérée par plusieurs exploitants.
+
+(2)
+
+En cas d‘association de deux ou plusieurs exploitations, les exploitations associées sont considérées comme constituant une seule unité technico-économique et elles sont à réunir dans une seule demande de paiements à la surface.
+
+(3)
+
+Les plafonds fixés à l’article 7, paragraphe 2, relatifs aux hectares éligibles sont multipliés par un coefficient déterminé en fonction des unités de travail annuel des exploitations conformément au tableau de l’annexe II.
+
+Les unités de travail annuel sont obtenues en divisant par 2.200 heures le produit de la multiplication des données relatives aux différentes productions déclarées dans la demande de paiements à la surface par les valeurs moyennes reprises au tableau de l’annexe I.
+
+Par dérogation au paragraphe 3, alinéa 2, les différentes productions animales bovines fixées à l’annexe I sont multipliées par le cheptel bovin moyen détenu pendant la période du 1er novembre au 31 octobre de l’année précédant celle à laquelle l’indemnité compensatoire se rapporte en utilisant la base centrale de données informatiques visée à l’article 13 du règlement grand-ducal du 22 avril 1999 portant mesures d’application du règlement (CE) n° 820/97 du Conseil du 21 avril 1997 en ce qui concerne l’identification et l’enregistrement des bovins.
+
 <a id="art-7"></a>
 ## Art. 7.
+
+(1)
+
+Le montant unitaire de l’indemnité compensatoire s‘élevant à 150 euros/hectare pour les 60 premiers hectares de l‘exploitation et à 75 euros/hectare pour les hectares suivants s’applique aux exploitants agricoles affiliés au régime agricole auprès du Centre commun de la sécurité sociale et :
+
+1. dont la part du temps de travail consacré aux activités extérieures à l’exploitation agricole est inférieure à la moitié du temps de travail total de l’exploitant, tout en ne dépassant pas 20 heures par semaine;
+
+2. qui ne sont pas bénéficiaires d’une pension de vieillesse; et
+
+3. qui n’ont pas atteint l’âge de 65 ans.
+
+Le nombre maximal d’hectares éligibles s’élève à 120 hectares.
+
+(2)
+
+Le montant unitaire de l’indemnité compensatoire s‘élevant à 100 euros/hectare pour les 15 premiers hectares et à 62 euros/hectare pour les hectares suivants s’applique aux exploitants agricoles affiliés au régime agricole auprès du Centre commun de la sécurité sociale et qui ne remplissent pas les conditions prévues au paragraphe 2.
+
+Le nombre maximal d’hectares éligibles s’élève à 25 hectares.
+
+Toutefois, lorsqu’une personne qui remplit les conditions prévues au paragraphe 2, travaille sur l’exploitation concernée, les montants et plafonds fixés au paragraphe 2 sont applicables.
+
+(3)
+
+Si pendant la période de l’engagement, l’exploitant agricole change de statut, la prime est adaptée au nouveau statut à partir de l’année culturale suivant le changement.
 
 #### Chapitre 3. Dispositions administratives et de contrôle
 

@@ -59,6 +59,34 @@ Dès la notification de la saisie-arrêt et au plus tard dans la huitaine de la 
 <a id="art-4"></a>
 ## Art. 4.
 
+(1)
+
+Au cas où l’autorisation visée à l’article 1er a été accordée par le juge de paix sur base d’un titre exécutoire ayant, au moment où l’autorisation est accordée, force de chose jugée, le créancier saisissant peut demander par requête la validation de la saisie-arrêt, à condition que le débiteur saisi n’ait pas, dans le délai d’un mois à partir de la notification de la prédite autorisation, introduit de recours afin de contester celle-ci. Le titre validant la saisie-arrêt en l’absence de recours du débiteur saisi est susceptible des voies de recours ouvertes à l’encontre des jugements par défaut conformément à l’article 5.
+
+Le recours du débiteur saisi visant à contester l’autorisation de la saisie pratiquée à son encontre est à introduire par lettre adressée au greffe ou par déclaration consignée sur un registre spécial. La notification de l’autorisation de saisir-arrêter adressée au débiteur saisi précise la possibilité d’introduire un recours dans le délai d’un mois et les modalités de la saisine du juge de paix ainsi que les conséquences de la non-introduction d’un recours dans le délai d’un mois.
+
+Dans les quinze jours de l’introduction du recours, le greffier convoque le créancier saisissant, le débiteur saisi, le tiers saisi et tout créancier opposant par lettre recommandée à une audience devant le juge de paix afin qu’il soit statué sur le bien-fondé des contestations émises.
+
+La convocation contient, à peine de nullité, les mentions prescrites à l’article 80 du Nouveau Code de procédure civile. Le délai de comparution entre la convocation et le jour fixé pour l’audience est de huit jours au moins. Le juge de paix statue sur la validité, la nullité ou la mainlevée de la saisie ainsi que sur la déclaration affirmative que le tiers saisi a faite ou est tenu de faire séance tenante.
+
+(2)
+
+La même procédure que celle prévue au paragraphe 1er s’applique aux demandes de convocation des intéressés à l’audience formulées à l’initiative du débiteur saisi, du tiers saisi ou d’autres créanciers saisissants du même débiteur.
+
+(3)
+
+Au cas où l’autorisation visée à l’article 1er n’a pas été accordée par le juge de paix sur base d’un titre exécutoire ayant force de chose jugée au moment où il statue, tout créancier saisissant, le débiteur et le tiers saisi peuvent requérir la convocation des intéressés devant le juge de paix du domicile du débiteur saisi par une déclaration consignée sur le registre spécial ou par lettre adressée au greffe. Dans ce cas, le greffier convoque les parties dans les formes et délais prévus par le paragraphe 1er. Le juge de paix statue sur la validité, la nullité ou la mainlevée de la saisie ainsi que sur la déclaration affirmative que le tiers saisi a faite ou est tenu de faire séance tenante.
+
+(4)
+
+Les règles de compétence définies à l’article 9 de la loi modifiée du 11 novembre 1970 sur les cessions et saisies des rémunérations de travail ainsi que des pensions et rentes s’appliquent.
+
+(5)
+
+Le tiers saisi qui n’a pas fait de déclaration, qui ne comparaît pas ou qui refuse de faire sa déclaration à l’audience en cas de convocation des parties conformément au paragraphe 1er ou au paragraphe 3, ou qui a fait une déclaration reconnue mensongère, est déclaré débiteur pur et simple des retenues non opérées, et condamné aux frais par lui occasionnés.
+
+Le jugement qui prononce la validité ne confère au saisissant sur les sommes saisies aucun droit exclusif au préjudice des intervenants.
+
 <a id="art-5"></a>
 ## Art. 5.
 
@@ -94,7 +122,31 @@ Tous les frais de contestation jugée mal fondée sont mis à charge de la parti
 <a id="art-9"></a>
 ## Art. 9.
 
-Pour l’exécution du présent règlement il est tenu au greffe de chaque justice de paix un registre sur papier non timbré sur lequel sont inscrits: Toutefois, la tenue d’un registre peut être remplacée par celle d’un fichier à feuilles mobiles, à condition que les demandes principales en saisies-arrêts contenant les indications prévues par le n° 1 de l’alinéa précédent soient inscrites de suite sur un registre spécial. Dans ce cas les arrangements amiables seront actés sur le plumitif d’audience.
+Pour l’exécution du présent règlement il est tenu au greffe de chaque justice de paix un registre sur papier non timbré sur lequel sont inscrits:
+
+1. les demandes en saisie-arrêt avec mention de la date à laquelle elles ont été présentées, et des noms du débiteur saisi, du créancier saisissant et du tiers saisi;
+
+2. les ordonnances portant autorisation ou refus de la saisie-arrêt;
+
+3. la date de la notification au tiers saisi ou à son représentant préposé au paiement des rémunérations de travail, pensions et rentes et l’indication de la personne à laquelle l’ordonnance a été adressée;
+
+4. la réquisition de la convocation des parties;
+
+5. les arrangements intervenus;
+
+6. les interventions des autres créanciers;
+
+7. la déclaration faite par le tiers saisi;
+
+8. la mention des avertissements et lettres recommandées transmises aux parties;
+
+9. les décisions du juge de paix et les recours exercés contre elles ainsi que les décisions intervenues sur ces recours;
+
+10. la mention de la transmission du dossier de la saisie-arrêt au greffe d’une autre justice de paix en conformité de l’alinéa 2 de l’article 9 de la loi du 11 novembre 1970 ;
+
+11. la date de la radiation ou de la demande tendant au maintien de la saisie.
+
+Toutefois, la tenue d’un registre peut être remplacée par celle d’un fichier à feuilles mobiles, à condition que les demandes principales en saisies-arrêts contenant les indications prévues par le n° 1 de l’alinéa précédent soient inscrites de suite sur un registre spécial. Dans ce cas les arrangements amiables seront actés sur le plumitif d’audience.
 
 <a id="art-10"></a>
 ## Art. 10.

@@ -34,10 +34,24 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 Il est créé un régime de pension spécial applicable:
 
+1. aux personnes visées à l'article 2, entrées en service ou en fonction après le 31 décembre 1998;
+
+2. en ce qui concerne les dispositions du chapitre III – «Voies et moyens», aux personnes énumérées à l’article 2 entrées en service ou en fonction avant le 1 er janvier 1999 ainsi qu’aux titulaires d’une pension au titre de la loi modifiée du 26 mai 1954 réglant les pensions des fonctionnaires de l’Etat ou de celle du 25 mars 2015 instituant un régime de pension spécial transitoire sous Titre I et II sous Chapitre 1;
+
+3. en ce qui concerne les dispositions du chapitre II – «Objet de l’assurance», aux personnes entrées en service ou en fonction avant le 1 er janvier 1999 et relevant de l’article 16.5. de la loi précitée du 26 mai 1954 ou de l’article 13 de la loi du 25 mars 2015 instituant un régime de pension spécial transitoire.
+
 <a id="art-2"></a>
 ## Art. 2.
 
 Sont assurés obligatoirement conformément aux dispositions qui suivent:
+
+1. les fonctionnaires de l’Etat visés par la loi sur les traitements ainsi que les fonctionnaires stagiaires;
+
+2. les employés de l'Etat dans les limites et sous les conditions prévues à la loi modifiée du 27 janvier 1972 qui fixe leur régime;
+
+3. les membres du Gouvernement, les parlementaires et les membres du Conseil d'Etat dans les conditions et limites de l'article 60 de la présente loi;
+
+4. les fonctionnaires et les employés bénéficiant d'un régime statutaire, dont les rémunérations sont fixées par des dispositions légales ou réglementaires autres que la loi modifiée du 22 juin 1963 concernant les traitements des fonctionnaires de l'Etat, à moins qu'ils ne bénéficient d'un régime de pension spécifique.
 
 Par «fonctionnaire» au sens des dispositions de la présente loi on entend indistinctement les personnes énumérées à l’alinéa qui précède ainsi que les bénéficiaires d'un traitement d'attente relevant de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l'Etat.
 
@@ -56,6 +70,20 @@ Est assimilée à des périodes d’assurance obligatoires, sur demande, une pé
 ## Art. 4.
 
 Sont prises en compte en outre comme périodes, mais uniquement aux fins de parfaire la durée des quatre cent quatre-vingts mois visée à l’article 12, alinéa 1er, et le stage requis pour la pension minimum, ainsi qu'aux fins de l'acquisition des majorations forfaitaires dans les pensions, les périodes ci-après pour autant qu'elles ne soient prises en compte par un régime de pension luxembourgeois ou étranger, à savoir:
+
+1. les périodes pendant lesquelles une pension d'invalidité a été versée conformément aux dispositions de la présente loi;
+
+2. au maximum neuf années de périodes d’études ou de formation professionnelle, non indemnisées au titre d’un apprentissage, pour autant que ces périodes se situent après la dix-huitième année d’âge accomplie ;
+
+3. la période correspondant au délai d'inscription imposé au jeune demandeur d'emploi avant l'ouverture du droit à l'indemnité de chômage complet;
+
+4. les périodes pendant lesquelles l'un des parents a élevé au Luxembourg un ou plusieurs enfants âgés de moins de six ans accomplis; ces périodes ne peuvent être inférieures à huit ans pour la naissance de deux enfants, ni être inférieures à dix ans pour la naissance de trois enfants; l'âge prévisé est porté à dix-huit ans si l'enfant est atteint d'une infirmité physique ou mentale, sauf si l'éducation et l'entretien de l'enfant ont été confiés à une institution spécialisée. «Le Centre de gestion du personnel et de l’organisation de l’État» peut dispenser de la condition que l’enfant soit élevé au Luxembourg;
+
+5. les périodes d'activité professionnelle soumises à assurance au titre de la législation du pays d'origine dans le chef des personnes ayant bénéficié avant l'acquisition de la nationalité luxembourgeoise du statut de réfugié politique au sens de l'article 1 er de la convention signée à Genève le 28 juillet 1951 et pour autant qu'elles soient exclues du bénéfice de prestations par tout régime international ou étranger;
+
+6. les périodes à partir du 1 er janvier 1990 pendant lesquelles une personne a assuré des soins au bénéficiaire d’une allocation de soins prévue par la loi du 22 mai 1989 portant création d´une allocation de soins et organisant le placement dans une maison de soins, d’une allocation spéciale pour personnes gravement handicapées au titre de la loi modifiée du 16 avril 1979 portant création d´une allocation spéciale pour personnes gravement handicapées, d’une majoration de rente d’accident pour impotence attribuée avant l’introduction de l’assurance dépendance ou d’une majoration de complément du revenu minimum garanti attribuée avant la mise en vigueur de la loi modifiée du 29 avril 1999 portant création d’un droit à un revenu minimum garanti;
+
+7. les périodes précédant celles au titre de l'article 171, alinéa 1, sous 17 du Code des Assurances sociales , pendant lesquelles le travailleur handicapé au sens de l'article 1 er de la loi du 12 septembre 2003 relative aux personnes handicapées n'a pas pu être occupé, pour des raisons indépendantes de sa volonté, dans un atelier protégé ainsi que les périodes se situant avant l'entrée en vigueur de cette loi au cours desquelles l'intéressé était, après l'âge de 18 ans par suite d'infirmités physiques ou intellectuelles, hors d'état de gagner sa vie.
 
 Les conditions et modalités relatives à la mise en compte des périodes prévues au présent article peuvent être précisées par règlement grand-ducal.
 
@@ -103,6 +131,12 @@ Les fonctionnaires normalement occupés au Grand-Duché de Luxembourg qui sont d
 
 Sont dispensés de l’assurance obligatoire:
 
+1. les services ou travaux extraordinaires visés à l’article 23 de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’Etat;
+
+2. les activités exercées uniquement de façon occasionnelle et non habituelle et ce pour une durée déterminée d’avance qui ne doit pas dépasser trois mois par année de calendrier;
+
+3. les activités temporaires exercées au profit de l’Etat par un bénéficiaire d’une pension de vieillesse ou d’invalidité accordée au titre du présent régime ou d'un autre régime spécial, à l’exception de celles exercées par le bénéficiaire relevant de l’article 2. 3.
+
 #### Chapitre II. Objet de l’assurance
 
 <a id="art-10"></a>
@@ -118,9 +152,18 @@ A droit à une pension de vieillesse à partir de l'âge de soixante-cinq ans, t
 <a id="art-12"></a>
 ## Art. 12.
 
-A droit à une pension de vieillesse anticipée à partir de l'âge de soixante ans, le fonctionnaire qui justifie de quatre cent quatre-vingts mois au moins au titre des articles 3 à 6, dont cent vingt au moins au titre des articles 3., 5., 5bis et 6. La durée de quatre cent quatre-vingts mois au titre des articles 3 à 6 est à augmenter par des mois entiers au titre des articles 3, 5 et 5bis dont le nombre est fixé au tableau ci-dessous en fonction de l’année au cours de laquelle cette durée est atteinte. Ces mois doivent se situer après la date à laquelle cette durée est atteinte. Cette durée n’est pas à augmenter en cas d’une ouverture du droit à la pension suite à une période d’indemnisation en préretraite.
+A droit à une pension de vieillesse anticipée à partir de l'âge de soixante ans, le fonctionnaire qui justifie de quatre cent quatre-vingts mois au moins au titre des articles 3 à 6, dont cent vingt au moins au titre des articles 3., 5., 5bis et 6.
 
-année nombre de mois entiers 2026 1 2027 2 2028 4 2029 6 2030 8 après 2030 8
+La durée de quatre cent quatre-vingts mois au titre des articles 3 à 6 est à augmenter par des mois entiers au titre des articles 3, 5 et 5bis dont le nombre est fixé au tableau ci-dessous en fonction de l’année au cours de laquelle cette durée est atteinte. Ces mois doivent se situer après la date à laquelle cette durée est atteinte. Cette durée n’est pas à augmenter en cas d’une ouverture du droit à la pension suite à une période d’indemnisation en préretraite.
+
+| année | nombre de mois entiers |
+| --- | --- |
+| 2026 | 1 |
+| 2027 | 2 |
+| 2028 | 4 |
+| 2029 | 6 |
+| 2030 | 8 |
+| après 2030 | 8 |
 
 A droit à une pension de vieillesse anticipée à partir de l'âge de cinquante-sept ans le fonctionnaire qui justifie de quatre cent quatre-vingts mois d'assurance au titre de l'article 3. Dans ce cas, l’alinéa 1er n’est pas applicable.
 
@@ -194,7 +237,19 @@ A droit à une pension de survie, sans préjudice de toutes autres conditions pr
 
 La pension de survie du conjoint ou du partenaire au sens de l'article 2 de la loi du 9 juillet 2004 relative aux effets légaux de certains partenariats, n'est pas due:
 
+- lorsque le mariage ou le partenariat a été conclu moins d'une année soit avant le décès, soit avant la mise à la retraite pour cause d'invalidité ou pour cause de vieillesse du fonctionnaire;
+
+- lorsque le mariage ou le partenariat a été contracté avec un titulaire de pension de vieillesse ou d'invalidité.
+
 Toutefois, l'alinéa 1 n'est pas applicable, si au moins l'une des conditions ci-après est remplie:
+
+1. lorsque le décès du fonctionnaire actif ou la mise à la retraite pour cause d'inaptitude au service est la suite directe d'un accident survenu après le mariage ou le partenariat;
+
+2. lorsqu'il existe lors du décès un enfant né ou conçu lors du mariage ou du partenariat, ou un enfant légitimé par le mariage;
+
+3. lorsque le bénéficiaire de pension décédé n'a pas été l’aîné de son conjoint ou de son partenaire de plus de quinze années et que le mariage ou le partenariat a duré, au moment du décès, depuis au moins une année;
+
+4. lorsque le mariage ou le partenariat a duré au moment du décès du bénéficiaire de pension depuis au moins dix années.
 
 <a id="art-20"></a>
 ## Art. 20.
@@ -216,6 +271,14 @@ Six mois après le décès du fonctionnaire ou du bénéficiaire de pension, la 
 
 Lorsqu'un bénéficiaire d'une pension de vieillesse ou d'invalidité attribuée en vertu de la présente loi ou un assuré remplissant les conditions prévues à l'article 18 décède sans laisser de conjoint ou de partenaire au sens de l'article 2 de la loi du 9 juillet 2004 relative aux effets légaux de certains partenariats survivant, le droit à pension de survie est ouvert au profit des parents et alliés en ligne directe, aux parents en ligne collatérale jusqu'au deuxième degré et aux enfants adoptifs mineurs lors de l'adoption, à condition
 
+1. qu'ils soient veufs ou veuves, divorcés, séparés de corps, anciens partenaires au sens de l'article 13 de la loi du 9 juillet 2004 relative aux effets légaux de certains partenariats, ou célibataires;
+
+2. qu'ils vivent depuis au moins cinq années précédant le décès du fonctionnaire ou du bénéficiaire de pension en communauté domestique avec lui;
+
+3. qu'ils aient fait son ménage pendant la même période et
+
+4. que le fonctionnaire ou le bénéficiaire de pension ait contribué pour une part prépondérante à leur entretien pendant la même période.
+
 Si la communauté a été dissoute avant le décès pour maladie grave du fonctionnaire ou du bénéficiaire de pension ou pour tout autre cas de force majeure, le droit à pension est maintenu, si la communauté avait duré pendant les cinq années ayant précédé cette dissolution, sans préjudice des autres dispositions prévues ci-dessus.
 
 Lorsqu'il y a plusieurs ayants droit en vertu du présent article, la pension de survie se partage par tête.
@@ -232,6 +295,14 @@ Ont droit après le décès soit du père, soit de la mère, à une pension de s
 La pension d'orphelin est accordée jusqu'à l'âge de dix-huit ans. Elle est accordée ou maintenue au maximum jusqu'à l'âge de vingt-sept ans si l'orphelin est empêché de gagner sa vie par suite de la préparation scientifique ou technique à sa future profession.
 
 Sont assimilés à des enfants légitimes au regard des dispositions qui précèdent:
+
+- les enfants légitimés;
+
+- les enfants adoptifs;
+
+- les enfants naturels;
+
+- tous les enfants, orphelins de père et de mère, à condition que le fonctionnaire ou le bénéficiaire de pension en ait assumé l'entretien et l'éducation pendant les dix mois précédant son décès et qu'ils n'aient pas droit à une pension d'orphelin du chef de leurs auteurs.
 
 <a id="art-23"></a>
 ## Art. 23.
@@ -352,7 +423,36 @@ Lorsque après l'expiration de la soixante-cinquième année d'âge, le fonction
 
 La pension de vieillesse annuelle se compose des majorations de pension suivantes:
 
-année du début du droit à la pension majorations forfaitaires majorations proportionnelles année du début du droit à la pension majorations forfaitaires majorations proportionnelles taux (%) taux (%) seuil augmentation (%) taux (%) taux (%) seuil augmentation (%) avant 2013 23,500 1,850 93 0,010 2033 25,863 1,719 96 0,018 2013 23,613 1,844 93 0,011 2034 25,975 1,713 96 0,019 2014 23,725 1,838 93 0,011 2035 26,088 1,707 97 0,019 2015 23,838 1,832 93 0,012 2036 26,200 1,700 97 0,019 2016 23,950 1,825 93 0,012 2037 26,313 1,694 97 0,020 2017 24,063 1,819 93 0,012 2038 26,425 1,688 97 0,020 2018 24,175 1,813 94 0,013 2039 26,538 1,682 97 0,021 2019 24,288 1,807 94 0,013 2040 26,650 1,675 97 0,021 2020 24,400 1,800 94 0,013 2041 26,763 1,669 98 0,021 2021 24,513 1,794 94 0,014 2042 26,875 1,663 98 0,022 2022 24,625 1,788 94 0,014 2043 26,988 1,657 98 0,022 2023 24,738 1,782 94 0,015 2044 27,100 1,650 98 0,022 2024 24,850 1,775 95 0,015 2045 27,213 1,644 98 0,023 2025 24,963 1,769 95 0,015 2046 27,325 1,638 98 0,023 2026 25,075 1,763 95 0,016 2047 27,438 1,632 99 0,024 2027 25,188 1,757 95 0,016 2048 27,550 1,625 99 0,024 2028 25,300 1,750 95 0,016 2049 27,663 1,619 99 0,024 2029 25,413 1,744 95 0,017 2050 27,775 1,613 99 0,025 2030 25,525 1,738 96 0,017 2051 27,888 1,607 99 0,025 2031 25,638 1,732 96 0,018 2052 28,000 1,600 100 0,025 2032 25,750 1,725 96 0,018 après 2052 28,000 1,600 100 0,025
+1. les majorations proportionnelles correspondant au produit de la multiplication du taux défini au tableau sous 3. ci-après pour les majorations proportionnelles par la somme des éléments de rémunération soumis à retenue pour pension, mis en compte au titre des articles 3, 5, 5bis et 6 avant le début du droit à la pension de vieillesse et déterminés conformément à l’article 43. Si à la date du début du droit à la pension la somme du nombre d’années entières accomplies au titre de l’article 3 et de l’âge du bénéficiaire dépasse le seuil fixé au tableau sous 3. ci-après, le taux prévu ci-avant est augmenté du produit de la somme des années entières dépassant ce seuil par le taux d’augmentation annuelle y fixé. Toutefois, le taux de majoration global ne peut dépasser 2,05 pour cent. Pour la détermination de la somme des années à considérer, on ne compte que les années et les mois, les journées excédentaires accomplies séparément au niveau des deux composantes étant ignorées;
+
+2. les majorations forfaitaires correspondant, après une durée d’assurance de quarante années au titre des articles 3 à 6, au produit de la multiplication du taux défini au tableau sous 3. ci-après pour les majorations forfaitaires par le montant de référence défini à l’article 45; les majorations forfaitaires s’acquièrent par quarantième par année, accomplie ou commencée, sans que le nombre des années mises en compte ne puisse dépasser celui de quarante;
+
+3. le taux, le seuil et l’augmentation par année entière des majorations proportionnelles, ainsi que le taux par année des majorations forfaitaires visés aux points 1. et 2. qui précèdent, sont fixés dans le tableau ci-dessous en fonction de l’année du début du droit à la pension.
+
+| année du début du droit à la pension | majorations forfaitaires | majorations proportionnelles |  | année du début du droit à la pension | majorations forfaitaires | majorations proportionnelles |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| taux (%) | taux (%) | seuil | augmentation (%) |  | taux (%) | taux (%) | seuil | augmentation (%) |  |  |
+| avant 2013 | 23,500 | 1,850 | 93 | 0,010 |  | 2033 | 25,863 | 1,719 | 96 | 0,018 |
+| 2013 | 23,613 | 1,844 | 93 | 0,011 |  | 2034 | 25,975 | 1,713 | 96 | 0,019 |
+| 2014 | 23,725 | 1,838 | 93 | 0,011 |  | 2035 | 26,088 | 1,707 | 97 | 0,019 |
+| 2015 | 23,838 | 1,832 | 93 | 0,012 |  | 2036 | 26,200 | 1,700 | 97 | 0,019 |
+| 2016 | 23,950 | 1,825 | 93 | 0,012 |  | 2037 | 26,313 | 1,694 | 97 | 0,020 |
+| 2017 | 24,063 | 1,819 | 93 | 0,012 |  | 2038 | 26,425 | 1,688 | 97 | 0,020 |
+| 2018 | 24,175 | 1,813 | 94 | 0,013 |  | 2039 | 26,538 | 1,682 | 97 | 0,021 |
+| 2019 | 24,288 | 1,807 | 94 | 0,013 |  | 2040 | 26,650 | 1,675 | 97 | 0,021 |
+| 2020 | 24,400 | 1,800 | 94 | 0,013 |  | 2041 | 26,763 | 1,669 | 98 | 0,021 |
+| 2021 | 24,513 | 1,794 | 94 | 0,014 |  | 2042 | 26,875 | 1,663 | 98 | 0,022 |
+| 2022 | 24,625 | 1,788 | 94 | 0,014 |  | 2043 | 26,988 | 1,657 | 98 | 0,022 |
+| 2023 | 24,738 | 1,782 | 94 | 0,015 |  | 2044 | 27,100 | 1,650 | 98 | 0,022 |
+| 2024 | 24,850 | 1,775 | 95 | 0,015 |  | 2045 | 27,213 | 1,644 | 98 | 0,023 |
+| 2025 | 24,963 | 1,769 | 95 | 0,015 |  | 2046 | 27,325 | 1,638 | 98 | 0,023 |
+| 2026 | 25,075 | 1,763 | 95 | 0,016 |  | 2047 | 27,438 | 1,632 | 99 | 0,024 |
+| 2027 | 25,188 | 1,757 | 95 | 0,016 |  | 2048 | 27,550 | 1,625 | 99 | 0,024 |
+| 2028 | 25,300 | 1,750 | 95 | 0,016 |  | 2049 | 27,663 | 1,619 | 99 | 0,024 |
+| 2029 | 25,413 | 1,744 | 95 | 0,017 |  | 2050 | 27,775 | 1,613 | 99 | 0,025 |
+| 2030 | 25,525 | 1,738 | 96 | 0,017 |  | 2051 | 27,888 | 1,607 | 99 | 0,025 |
+| 2031 | 25,638 | 1,732 | 96 | 0,018 |  | 2052 | 28,000 | 1,600 | 100 | 0,025 |
+| 2032 | 25,750 | 1,725 | 96 | 0,018 |  | après 2052 | 28,000 | 1,600 | 100 | 0,025 |
 
 <a id="art-38"></a>
 ## Art. 38.
@@ -366,7 +466,15 @@ Si le bénéficiaire de pension justifie d'une rente accident complète ou parti
 <a id="art-39"></a>
 ## Art. 39.
 
-La pension d’invalidité annuelle se compose des majorations de pension suivantes: Si l’échéance du risque se situe après l’âge de vingt-cinq ans, les majorations prévues au point 4. ci-dessus ne sont allouées qu’en proportion du nombre des années d’assurance visées à l’article 37.2. accomplies après le début de l’année civile suivant celle où le fonctionnaire a atteint l’âge de vingt-quatre ans par rapport au nombre d’années se situant entre ce début et l’échéance du risque.
+La pension d’invalidité annuelle se compose des majorations de pension suivantes:
+
+1. les majorations proportionnelles prévues à l’article 37.1.;
+
+2. les majorations proportionnelles spéciales correspondant au produit de la multiplication du taux déterminé conformément à l’article 37.1. par la base de référence définie à l’article 44 et par le nombre d’années restant à courir du début du droit à la pension jusqu’à l’accomplissement de la cinquante-cinquième année d’âge;
+
+3. les majorations forfaitaires prévues à l’article 37.2.;
+
+4. les majorations forfaitaires spéciales correspondant à autant de quarantièmes du produit de la multiplication du taux des majorations forfaitaires défini à l’article 37.2. par le montant de référence défini à l’article 45 qu’il manque d’années entre le début du droit à la pension et l’âge de soixante-cinq ans accomplis, sans que le nombre d’années mises en compte au titre des points 3. et 4. du présent article ne puisse dépasser celui de quarante; l’année commencée compte pour une année entière. Si l’échéance du risque se situe après l’âge de vingt-cinq ans, les majorations prévues au point 4. ci-dessus ne sont allouées qu’en proportion du nombre des années d’assurance visées à l’article 37.2. accomplies après le début de l’année civile suivant celle où le fonctionnaire a atteint l’âge de vingt-quatre ans par rapport au nombre d’années se situant entre ce début et l’échéance du risque.
 
 <a id="art-40"></a>
 ## Art. 40.
@@ -426,7 +534,11 @@ Si au moment du calcul de la pension le facteur de revalorisation de l’année 
 <a id="art-44"></a>
 ## Art. 44.
 
-La base de référence annuelle servant au calcul des majorations proportionnelles spéciales visées à l'article 39 est définie comme suit: Ne sont pas à comprendre dans le diviseur le nombre d'années se situant dans cette période et correspondant aux périodes prévues à l'article 4 pendant lesquelles aucune retenue pour pension n’a été opérée; au cas où une retenue aurait été opérée simultanément au titre des articles 3, 5 et 6, la prise en compte de ces éléments de traitement et de ces périodes se fait suivant le mode de calcul le plus favorable pour le fonctionnaire.
+La base de référence annuelle servant au calcul des majorations proportionnelles spéciales visées à l'article 39 est définie comme suit:
+
+1. Lorsque l'échéance du risque se situe après l'âge de vingt-cinq ans accomplis, la base de référence est égale à la somme des éléments de rémunération soumis à retenue pour pension et correspondant à la période se situant entre le début de l'année civile suivant celle où le fonctionnaire a accompli l'âge de vingt-quatre ans et l'échéance du risque, divisée par le nombre d'années se situant dans la période correspondante. Au cas où cette période est inférieure à deux années, sont prises en compte les deux années précédant l'échéance du risque. Ne sont pas à comprendre dans le diviseur le nombre d'années se situant dans cette période et correspondant aux périodes prévues à l'article 4 pendant lesquelles aucune retenue pour pension n’a été opérée; au cas où une retenue aurait été opérée simultanément au titre des articles 3, 5 et 6, la prise en compte de ces éléments de traitement et de ces périodes se fait suivant le mode de calcul le plus favorable pour le fonctionnaire.
+
+2. Lorsque l'échéance du risque se situe avant l'âge de vingt-cinq ans accomplis, la base de référence est égale à la somme des éléments de rémunération soumis à retenue pour pension portés en compte au titre des articles 3, 5 et 6, divisée par le nombre d'années d'assurance au titre des mêmes articles. Sont négligées tant au numérateur qu'au dénominateur les périodes pendant lesquelles le fonctionnaire cotisait sur une assiette inférieure au salaire social minimum de référence pour un travailleur non qualifié âgé de dix-huit ans au moins. Toutefois, la base de référence ne saurait être inférieure au montant de référence prévu à l'article 45.
 
 <a id="art-45"></a>
 ## Art. 45.
@@ -495,6 +607,38 @@ Sont pris en compte au titre des revenus personnels, les revenus professionnels 
 <a id="art-53"></a>
 ## Art. 53.
 
+(1)
+
+En cas de concours avec un revenu professionnel relevant d’une activité salariée ou un revenu de remplacement, la pension de vieillesse anticipée, la pension d’invalidité ou la pension de survie n’est recalculée qu’une fois par année conformément aux articles 49 et 52 et ce avec effet au 1er mai.
+
+Pour les activités salariées est pris en considération le revenu correspondant à l’année civile précédant le début de la pension ou le recalcul annuel prévu à l’alinéa premier. Au cas où l’activité ne couvre pas l’année civile entière, le revenu annuel à porter en compte est déterminé sur base des revenus mensuels entiers de cette année et, à défaut, sur base du dernier revenu mensuel entier de la période subséquente. Pour l’application de l’article 49, il n’est pas tenu compte des revenus provenant d’une activité exercée avant l’échéance du risque.
+
+Par dérogation aux alinéas 1er et 2, toute reprise d’une activité salariée et toute augmentation du salaire en cours d’année dépassant 25 pour cent entraînent la refixation de la pension à partir du mois qui suit cette augmentation. La refixation est effectuée sur demande du bénéficiaire lorsque celui-ci prouve une diminution de son revenu, pendant trois mois et à raison de 10 pour cent au moins, par rapport à celui mis en compte.
+
+La réduction cesse à partir du mois suivant l’abandon de l’activité salariée.
+
+(2)
+
+En cas de concours avec un revenu professionnel relevant d’une activité non salariée, la pension de vieillesse anticipée, la pension d’invalidité ou la pension de survie est recalculée conformément aux articles 49 et 52.
+
+Est pris en compte le revenu qui sert ou servirait à la détermination de l’assiette cotisable de l’année civile du début de la pension de survie ou du recalcul annuel. Il n’est fait application ni du minimum ni du maximum cotisable.
+
+En cas de redressement du revenu, un recalcul supplémentaire de la pension est effectué.
+
+La réduction cesse à partir du mois suivant l’abandon de l’activité professionnelle.
+
+(3)
+
+En cas de concours d’une pension de survie avec des pensions ou rentes, celles-ci sont mises en compte pour l’application de l’article 52 suivant le montant correspondant au mois de la réduction.
+
+(4)
+
+Le bénéficiaire de pension signale au Centre de gestion du personnel et de l’organisation de l’État les revenus au sens des articles 49 et 52 et en justifier les montants. Les montants versés en trop sont récupérés ou déduits de la pension nonobstant la limitation prévue à l’article 34. Il peut être renoncé en tout ou en partie à la récupération des montants versés en trop par décision du ministre ayant la Fonction publique dans ses attributions. Si le bénéficiaire de pension ne fournit pas les indications requises, le paiement de la pension est suspendu.
+
+(5)
+
+Pour l’application des articles 49 à 52, tous les montants sont portés en compte pour leur valeur réduite au nombre cent de l’indice pondéré du coût de la vie au 1er janvier 1948 et définis pour l’année de base prévue à l’article 43. Le revenu en concours avec la pension est réduit au niveau de l’année de base en le divisant par le produit de la multiplication du facteur de revalorisation applicable à la pension au sens de l’article 48 par les facteurs de réajustement applicables à la pension au sens de l’article 48bis.
+
 <a id="art-53bis"></a>
 ## Art. 53bis.
 
@@ -539,6 +683,34 @@ La demande doit être présentée, sous peine de forclusion, dans un délai de t
 
 Sont à considérer pour le calcul de la retenue pour pension les éléments de rémunération effectivement touchés et prévus respectivement par la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l'Etat, par le règlement modifié du Gouvernement en Conseil du 1er mars 1974 fixant le régime des indemnités des employés occupés dans les administrations et services de l'Etat et par des lois autres, à savoir:
 
+1. le traitement ou l'indemnité de base;
+
+2. le traitement d'attente des membres du Gouvernement;
+
+3. les suppléments de traitement;
+
+4. l'allocation de famille;
+
+5. l'allocation de fin d'année, sous réserve en ce qui concerne le cercle de bénéficiaires visés à l’article 1 er , d’être entrés en service après le 31 décembre 1998;
+
+6. la prime de brevet de maîtrise en ce qui concerne les agents exerçant la fonction d’artisan ou d’artisan dirigeant;
+
+7. les primes prévues à l’article 25, sous 1. et 3. de la prédite loi sur les traitements;
+
+8. jusqu’à concurrence d’un total de 22 points indiciaires les primes d’astreinte prévues à l’article 22 de la prédite loi sur les traitements;
+
+9. la prime de formation prévue à l’article 23, sous 2. de la prédite loi sur les traitements;
+
+10. la prime prévue à l’article 9 de la loi modifiée du 21 décembre 2007 portant création de l’Administration de la navigation aérienne;
+
+11. l’indemnité compensatoire prévue à l’article 34 de la prédite loi sur les traitements ;
+
+12. la prime prévue à l'article 6, III de la loi modifiée du 26 juillet 1975 portant création de l'Aéroport;
+
+13. la rente accident complète ou partielle en vertu du livre II du Code de la sécurité sociale du chef d'un accident survenu ou d'une maladie professionnelle déclarée après le 31 décembre 2010;
+
+14. la prime prévue à l’article 26 de la loi sur les traitements
+
 A l'égard des parlementaires et des conseillers d'Etat relevant du présent régime de pension ou du régime de pension général, sont pris en compte pour l'application du présent article respectivement l'indemnité parlementaire prévue à l'article 97 sous 1. ainsi que le traitement d'attente dans les conditions et limites de l'article 100 de la loi électorale du 31 juillet 1924 et l'indemnité de membre du Conseil d'Etat prévue à l'article 13 de la loi du 12 juillet 1996 portant réforme du Conseil d'Etat.
 
 <a id="art-61"></a>
@@ -558,6 +730,14 @@ Il est institué un fonds spécial, dénommé «Fonds de pension».
 Sont imputables sur ce fonds les dépenses pour pensions versées aux fonctionnaires en application de la présente loi, de la loi précitée du 26 mai 1954 ainsi que de la loi du 25 mars 2015 instituant un régime de pension spécial transitoire sous Titre I., article 1. sous a) et d) et, les cas échéant, sous Titre II., Chapitre 1. de la retenue pour pension prévu à l’article 36, les transferts de cotisations prévus en la matière ainsi que les dépenses résultant de la prise en charge par l’Etat des prestations de pension des établissements publics dans la mesure où la loi leur accorde une participation de la part de l’Etat.
 
 Le Fonds de pension est alimenté:
+
+1. par la retenue pour pension opérée conformément aux articles 5, 5bis, 6 et 61;
+
+2. par des dotations à charge des établissements publics dans la mesure où les lois instituant ces établissements leur imposent une participation aux pensions de leurs agents;
+
+3. par les transferts de cotisations résultant respectivement de l’application de l’article 9 de la loi de coordination, de l’article 12bis de la loi précitée du 26 mai 1954 et de l’article 88, sous 2. de la loi du 25 mars 2015 instituant un régime de pension spécial transitoire ainsi que par les recettes opérées en application de la loi modifiée du 27 août 1977 concernant le statut des fonctionnaires entrés au service d’institutions internationales;
+
+4. par des dotations du budget de l’Etat destinées à assurer l'équilibre entre les recettes et les dépenses du fonds.
 
 La dotation des établissements publics visée à l’alinéa qui précède sous b) est fixée par règlement grand-ducal compte tenu des dispositions légales et réglementaires régissant ces établissements.
 
@@ -585,8 +765,68 @@ Les bénéficiaires de pension sont tenus, en outre, de signaler ou de faire sig
 <a id="art-66"></a>
 ## Art. 66.
 
+1.
+
+En cas de décès d’un fonctionnaire en activité de service, des mensualités égales au montant du dernier traitement effectivement touché sont payées encore à titre de trimestre de faveur pendant la période de trois mois suivant le mois du décès; le payement de ce trimestre de faveur se fait au profit des ayants droit à pension de survivant visés aux articles 18, 21 et 22 qui ont vécu en communauté domestique avec le défunt à la date de son décès.
+
+2.
+
+Le trimestre de faveur n’est pas dû:
+
+- à défaut de personnes remplissant les conditions d’allocation énumérées ci-avant,
+
+- lorsqu’il est inférieur ou égal à la pension due pour la même période. Sous réserve du point 4 qui suit, la détermination de la prestation la plus favorable se fait en valeur annuelle au nombre indice 100, après application des dispositions de cumul applicables de part et d’autre.
+
+3.
+
+En aucun cas il ne peut y avoir payement simultané d’un trimestre de faveur et d’une pension. Dans cet ordre d’idées galement, le trimestre de faveur se substitue aux pensions échues pour la même période.
+
+4.
+
+Pour l’application des dispositions du présent article et sous réserve de l’alinéa final ci-après, il y a lieu d’entendre par dernier traitement effectivement touché la rémunération versée pour le mois du décès en activité de service, limitée aux éléments de traitement énumérés à l’article 60 à l’exception du point 5, et à laquelle est appliquée un taux de réduction égal au taux de la retenue pour pension prévu à l’article 61. L’article 1er sous A) de la loi modifiée du 22 juin 1963 fixant la valeur numérique des traitements des fonctionnaires de l’Etat ainsi que les modalités de mise en vigueur de la loi du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’Etat telle qu’elle a été modifiée est applicable.
+
+Dans l’hypothèse de l’exercice de plus d’un service ou emploi à temps partiel, chaque service ou emploi donnera lieu à versement d’un trimestre de faveur, à moins de l’application du point 2 ci-avant.
+
+Les dispositions du paragraphe II. de l’article 10 de la loi du 25 mars 2015 instituant un régime de pension spécial transitoire sont applicables pour la fixation du trimestre de faveur.
+
 <a id="art-67"></a>
 ## Art. 67.
+
+I.
+
+Le fonctionnaire ne peut prétendre à pension au titre de la présente loi qu'après avoir été préalablement démissionné, et le cas échéant, avoir été admis à la retraite.
+
+II.
+
+La mise à la retraite est prononcée sans autre forme de procédure par l'autorité à laquelle appartient le droit de nomination:
+
+1. si le fonctionnaire est atteint par la limite d’âge fixée au lendemain du jour où il atteint l’âge de soixante-cinq ans, sauf pour les personnes visées à l’article 2.3., les envoyés extraordinaires et les ministres plénipotentiaires du corps diplomatique dont les fonctions ont été prorogées, les magistrats dont la limite d’âge est fixée par la loi du 7 mars 1980 sur l’organisation judiciaire ainsi que pour les ministres des cultes. Dans l’intérêt du service, la limite d’âge peut être reportée de trois années moyennant un maintien en service. A cet effet, le fonctionnaire présente sa demande écrite et dûment motivée à son chef d’administration ou, si la demande émane du chef d’administration, au membre du Gouvernement compétent, en précisant le degré d’occupation sollicité. Le chef d’administration transmet la demande au membre du Gouvernement compétent en indiquant si le maintien est compatible avec l’intérêt du service. Sur proposition du membre du Gouvernement compétent, le Gouvernement en conseil décide du maintien en service en fixant la durée du maintien, sans que celle-ci puisse dépasser une année, et le degré d’occupation. Le maintien en service peut être renouvelé d’année en année selon les modalités prévues au présent paragraphe.
+
+2. si le fonctionnaire, âgé de soixante ans et comptant quarante années au sens des articles 3 à 6, en fait la demande dans les conditions et délais prévus à l’article 39 de la loi précitée du 16 avril 1979 ;
+
+3. si le fonctionnaire, âgé de cinquante-sept ans et comptant quarante années au sens de l’article 3, en fait la demande dans les conditions et délais prévus à l’article 39 de la loi précitée du 16 avril 1979 .
+
+La prorogation des fonctions des envoyés extraordinaires et des ministres plénipotentiaires du corps diplomatique se fait d’année en année par arrêté grand-ducal pris sur proposition du ministre des affaires étrangères.
+
+III.
+
+La mise à la retraite est prononcée d'office si le fonctionnaire est atteint d'infirmités graves et permanentes et si l'inaptitude au service a été constatée par la Commission des pensions prévue aux articles 68 et suivants de la présente loi.
+
+IV.
+
+Par dérogation aux paragraphes I. et II. qui précèdent, le fonctionnaire peut opter pour la retraite progressive dans les conditions prévues à l’article 13bis à condition que l’intérêt du service le permet, en présentant une demande y relative au chef d’administration dans les conditions et délais prévus à l’article 39 de la loi précitée du 16 avril 1979. L’admission à cette retraite progressive est prononcée par l’autorité à laquelle appartient le droit de nomination du fonctionnaire concerné sur avis favorable du ministre ayant la Fonction publique dans ses attributions.
+
+La durée du service à temps partiel pendant la retraite progressive est limitée à trois années, sauf prorogation au terme de ces trois années par l’autorité compétente dans les formes prévues à l’alinéa 1er. La période initiale ou la prorogation éventuelle prennent fin au plus tard à la limite d’âge de l’intéressé à moins de l’application des dispositions du paragraphe II. sous 1., alinéa 2 qui précède.
+
+A la fin de la retraite progressive, le fonctionnaire est mis à la retraite conformément aux paragraphes II. et III., suivant le cas.
+
+Pendant la retraite progressive la continuation de l’exercice des fonctions se fait sous le régime du service à temps partiel prévu à l’article 31.-1. de la loi sur le statut et dans les conditions et limites y prévues. Toutefois, le service à temps partiel ne pourra être inférieur à cinquante pour cent d’une tâche normale et complète.
+
+La modification du service à tâche partielle pendant la retraite progressive est subordonnée à l’accord de l’autorité dans les formes prévues à l’alinéa 1er.
+
+V.
+
+Il n'est pas dérogé par les dispositions de la présente loi aux articles 174-180 de la loi du 7 mars 1980 sur l'organisation judiciaire.
 
 <a id="art-68"></a>
 ## Art. 68.
@@ -596,6 +836,12 @@ Il est institué auprès du ministre ayant la Fonction publique dans ses attribu
 La commission comprend quatre membres effectifs et cinq membres suppléants dont deux magistrats ou fonctionnaires titulaires du certificat de fin de stage judiciaire qui sont nommés par le ministre ayant la Fonction publique dans ses attributions pour un terme de trois ans. Leur mandat peut être renouvelé. En cas de vacance par décès, démission ou autrement, le membre nommé en remplacement achèvera le mandat de son prédécesseur. Les membres de la commission ne peuvent être ni parents ni alliés jusqu’au troisième degré inclusivement, ni entre eux, ni avec le fonctionnaire dont ils examinent le dossier.
 
 Sur les quatre membres, il y a un magistrat ou fonctionnaire, titulaire du certificat de fin de stage judiciaire, un médecin du travail dans la Fonction publique et un représentant du personnel proposé par la Chambre professionnelle compétente suivant l’administration, la caisse ou la société en cause, respectivement visée aux articles 63, 78 et 83. Le quatrième membre est également désigné en fonction de l’organisme en cause, à savoir,
+
+1. s’il s’agit d’un fonctionnaire relevant du champ d’application du Titre I, ce membre est désigné parmi les fonctionnaires du département ministériel de la Fonction publique,
+
+2. s’il s’agit du cas d’un fonctionnaire relevant du champ d’application du Titre II, ce membre est proposé par le syndicat de communes représentant les communes du pays,
+
+3. s’il s’agit d’un fonctionnaire relevant du champ d’application du Titre III, ce membre est proposé par le directeur de l’organisme de pension en cause.
 
 Par dérogation à l’alinéa 3 et dans l’hypothèse de la compétence de l’organisme de pension visé au Titre III, le représentant du personnel y visé est proposé par la délégation centrale du personnel prévue aux statuts de la société.
 
@@ -657,6 +903,10 @@ L’autorité de nomination prononce la mise à la retraite du fonctionnaire con
 La commission peut décider un report de la décision définitive pour le cas où l’expertise médicale envisage une amélioration de l’état de santé du fonctionnaire à moyen terme. Toutefois, le report ne peut excéder six mois. La nouvelle décision à intervenir au terme du report est prise sur le vu d’un nouveau rapport médical.
 
 Les décisions prises aux termes des alinéas qui précèdent sont motivées et arrêtées par écrit. Elles sont communiquées au fonctionnaire ensemble avec la décision de la commission, d’après les modalités suivantes:
+
+1. soit par la remise en mains propres contre accusé de réception; si le fonctionnaire refuse d’accepter ces documents ou d’en accuser réception, il en est dressé procès-verbal;
+
+2. soit par envoi par lettre recommandée à l’adresse que le fonctionnaire a déclaré comme sa résidence; dans ce cas, la notification sort ses effets huit jours après le dépôt de la lettre recommandée à la poste.
 
 <a id="art-72"></a>
 ## Art. 72.
@@ -743,7 +993,15 @@ Le Centre de gestion du personnel et de l’organisation de l’État détermine
 <a id="art-87"></a>
 ## Art. 87.
 
-Le Code des Assurances sociales est modifié comme suit: Pour les personnes bénéficiant d’un régime de pension spécial pour les fonctionnaires ou pour les personnes leur assimilées, l’assiette de cotisation est constituée par les éléments de rémunération fixés à l’article 60 de la législation instituant un régime de pension spécial pour les fonctionnaires de l’Etat. la collaboration avec le Centre de gestion du personnel et de l’organisation de l’État et les autres administrations compétentes pour l’application des régimes spéciaux de pensions.
+Le Code des Assurances sociales est modifié comme suit:
+
+1. L’article 38 est complété par un alinéa 4 ayant la teneur suivante: Pour les personnes bénéficiant d’un régime de pension spécial pour les fonctionnaires ou pour les personnes leur assimilées, l’assiette de cotisation est constituée par les éléments de rémunération fixés à l’article 60 de la législation instituant un régime de pension spécial pour les fonctionnaires de l’Etat.
+
+2. L’article 321, alinéa 1 est modifié et complété comme suit:
+
+1. sous le point 1) les termes et du contrôle médical de la sécurité sociale sont remplacés par les termes , «du contrôle médical de la sécurité sociale et du Centre de gestion du personnel et de l’organisation de l’État»;
+
+2. Il est ajouté un numéro 6) ayant la teneur suivante: la collaboration avec le Centre de gestion du personnel et de l’organisation de l’État et les autres administrations compétentes pour l’application des régimes spéciaux de pensions.
 
 (...)
 
@@ -753,6 +1011,14 @@ Le Code des Assurances sociales est modifié comme suit: Pour les personnes bén
 Les régimes de pension particuliers existant auprès de l'Etat, des communes et de la Société nationale des Chemins de Fer luxembourgeois au moment de la mise en vigueur de la présente loi ne s'appliquent pas aux agents entrés en service après le 31 décembre 1998.
 
 Un règlement grand-ducal peut prévoir des catégories d'agents qui, sous certaines conditions, doivent se soumettre à des examens périodiques en vue de la constatation de leur aptitude à exercer leur fonction. Le règlement grand-ducal définit en outre:
+
+- les conditions d'aptitude pour chaque catégorie d'agents visée;
+
+- les attributions que les agents concernés ne peuvent plus assumer à partir d'un certain âge;
+
+- la procédure à suivre en vue de la constatation de l'aptitude;
+
+- les modalités de la réaffectation à un autre emploi correspondant à l'aptitude des agents concernés.
 
 En cas de réaffectation, les dispositions de l'article 36 de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l'Etat sont d'application.
 

@@ -40,10 +40,34 @@ Sans préjudice de l’application des sanctions prévues au chapitre XI de la l
 
 Par dérogation à l’article 1er, l’assujetti est déchargé des obligations y prévues
 
+1. lorsqu’il n’a pas d’établissement stable à l’intérieur du pays et qu’il exerce son activité exclusivement à l’étranger;
+
+2. lorsqu’il n’a pas d’établissement stable à l’intérieur du pays, ne réalise que des importations de biens à l’intérieur du pays pour lesquelles il est le débiteur de la TVA, et qu’il a fait usage de la faculté prévue à l’article 66bis de ladite loi du 12 février 1979 ;
+
+3. lorsqu’il n’a pas d’établissement stable à l’intérieur du pays et n’effectue à l’intérieur du pays que des opérations imposables pour lesquelles l’acquéreur respectivement le preneur identifié à la TVA est le redevable de la taxe;
+
+4. lorsque toute son activité est exonérée de la taxe en vertu des dispositions de l’article 44 de ladite loi du 12 février 1979 et que cette activité n’ouvre pas droit à la déduction de la taxe en amont;
+
+5. lorsqu’il bénéficie de la franchise prévue à l’article 57 de ladite loi du 12 février 1979;
+
+6. lorsqu’il bénéficie du régime forfaitaire prévu à l’article 58 de ladite loi du 12 février 1979 .
+
 ##### Chapitre II Demande d’attribution d’un numéro d’identification TVA
 
 <a id="art-3"></a>
 ## Art. 3.
+
+(1)
+
+L’assujetti qui n’est pas soumis à l’obligation visée à l’article 1er et la personne morale non assujettie telle que visée à l’article 4, paragraphe 2, de ladite loi du 12 février 1979, lorsqu’ils réalisent des opérations telles que visées à l'article 62, paragraphes 2 et 3, de ladite loi du 12 février 1979, doivent déposer une demande d’attribution d’un numéro d’identification TVA auprès de l’administration avant la réalisation de ces opérations.
+
+(2)
+
+Par dérogation au paragraphe 1er, l’assujetti et la personne morale non assujettie y visés sont déchargés de l’obligation y prévue dans les conditions suivantes:
+
+1. ils n’effectuent que des acquisitions intracommunautaires de moyens de transport neufs ou de produits soumis à accises;
+
+2. ces acquisitions sont effectuées à titre occasionnel.
 
 ##### Chapitre III Déclaration des changements dans l’exercice de l’activité, notification de modifications substantielles et déclaration de cessation d’activité
 
@@ -69,6 +93,30 @@ L’assujetti qui n’était pas tenu de respecter l’obligation de déclaratio
 ## Art. 6.
 
 L’administration identifie à la TVA, par l’attribution d’un numéro d’identification TVA,
+
+1. tout assujetti établi à l’intérieur du pays, qui doit respecter l’obligation prévue à l’article 1 er , alinéa premier;
+
+2. l’assujetti visé à l’article 2, points d) et f) qui effectue des prestations de services dont le lieu se situe sur le territoire d’un autre État membre et pour lesquelles seul le preneur est le redevable de la taxe;
+
+3. l’assujetti visé à l’article 2, point f) qui effectue des livraisons de biens dans les conditions visées à l’article 58, paragraphe 6, de ladite loi du 12 février 1979 ;
+
+4. l’assujetti visé à l’article 2, point f) qui a opté pour l’application normale de la taxe sur la valeur ajoutée à ses opérations imposables;
+
+5. l’assujetti visé à l’article 2, points d) et f) ainsi que la personne morale non assujettie telle que visée à l’article 4, paragraphe 2, de ladite loi du 12 février 1979 qui réalisent des acquisitions intracommunautaires de biens soumises à la TVA autres que celles visées à l’article 3, paragraphe 2;
+
+6. l’assujetti visé à l’article 2, points d) et f) qui reçoit à l’intérieur du pays des prestations de services pour lesquelles il est, en tant que preneur, le redevable de la TVA en vertu de l'article 61, paragraphe 5, de ladite loi du 12 février 1979 ;
+
+7. tout assujetti non établi à l’intérieur du pays, qui doit respecter l’obligation visée à l’article 1 er , alinéa 1 er , et qui effectue à l’intérieur du pays des opérations pour lesquelles il est le redevable de la taxe et qui lui ouvrent droit à déduction de la taxe en amont, à moins que ces opérations ne soient déclarées au titre de l’un des régimes particuliers visés au titre XII, chapitre 6, sections 2 à 4 de la directive 2006/112/CE relative au système commun de la taxe sur la valeur ajoutée ou aux articles 56 sexies à 56 septies de la loi modifiée du 12 février 1979 concernant la taxe sur la valeur ajoutée ;
+
+8. l’assujetti non établi à l’intérieur du pays visé à l’article 2, point a), lorsque les conditions sont remplies :
+
+1. cet assujetti n’est établi ou, en l’absence d’établissement, n’a son domicile ou sa résidence habituelle que dans un seul État membre ;
+
+2. il effectue à des personnes non identifiées à la TVA établies ou ayant leur domicile ou leur résidence habituelle à l’intérieur du pays des ventes à distance intracommunautaires, telles que définies à l’article 14, paragraphe 4, point a), de la directive 2006/112/CE relative au système commun de taxe sur la valeur ajoutée, ou des prestations de services de télécommunication, de radiodiffusion et de télévision et des prestations de services fournis par voie électronique ;
+
+3. il a opté pour que le lieu des opérations visées sous ii) soit déterminé conformément à l’article 33, point a), et à l’article 58 de la directive 2006/112/CE ;
+
+4. il ne se prévaut pas, pour déclarer les opérations visées sous ii), du régime particulier prévu au titre XII, chapitre 6, section 3, de la directive 2006/112/CE .
 
 L'administration retire le numéro d'identification attribué aux assujettis visés à l'alinéa qui précède lorsqu'elle constate, sur la base d'indices précis et concordants, qu'il y a absence d'activité économique exercée à titre indépendant au sens des articles 4 et 5 de la loi modifiée du 12 février 1979 concernant la taxe sur la valeur ajoutée dans le chef de ces opérateurs.
 

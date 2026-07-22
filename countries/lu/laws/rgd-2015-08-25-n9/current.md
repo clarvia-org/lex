@@ -32,6 +32,22 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 Au sens du présent règlement on entend par:
 
+1. Denrée alimentaire non préemballée : une denrée alimentaire
+
+- vendue en vrac ou
+
+- emballée sur le lieu de vente à la demande du consommateur ou
+
+- préemballée en vue de sa vente immédiate.
+
+2. Vente immédiate : la vente d’une denrée alimentaire qui est destinée à être vendue au plus tard le jour suivant sa fabrication et qui n’est pas vendue en libre-service.
+
+3. Structures encadrées : les établissements servant une clientèle identifiée et connue à l’avance tels que les hôpitaux, maisons de soins pour personnes âgées, personnes malades, personnes handicapées, foyers de jour, crèches, maisons relais, cantines scolaires.
+
+4. Lot : un ensemble d’unités de vente d’une denrée alimentaire produite, fabriquée ou conditionnée dans des circonstances pratiquement identiques.
+
+5. Libre-service : une mise en vente où le consommateur se sert lui-même.
+
 <a id="art-2"></a>
 ## Art. 2.
 
@@ -66,6 +82,28 @@ Par dérogation aux articles 4 et 5 , l’information concernant les ingrédient
 
 <a id="art-7"></a>
 ## Art. 7.
+
+(1)
+
+Une denrée alimentaire ne peut être commercialisée que si elle est accompagnée d’une mention qui permet d’identifier le lot auquel appartient cette denrée alimentaire.
+
+(2)
+
+Le paragraphe 1er ne s’applique pas:
+
+1. aux produits agricoles qui, au départ de la zone d’exploitation, sont:
+
+1. vendus ou livrés à des stations d’entreposage, de conditionnement ou d’emballage;
+
+2. acheminés vers des organisations de producteurs ou
+
+3. collectés en vue de leur intégration immédiate dans un système opérationnel de préparation ou de transformation;
+
+2. lorsque, sur les lieux de vente au consommateur final, les denrées alimentaires qui ne sont pas préemballées, sont emballées à la demande de l’acheteur ou préemballées en vue de leur vente immédiate;
+
+3. aux emballages ou récipients dont la face la plus grande a une surface inférieure à 10 cm²;
+
+4. aux doses individuelles de glaces alimentaires. La mention permettant d’identifier le lot figure sur les emballages de groupage.
 
 <a id="art-8"></a>
 ## Art. 8.
@@ -119,6 +157,16 @@ Les infractions aux dispositions du présent règlement, du règlement (UE) n° 
 ## Art. 16.
 
 Sont abrogés par le présents règlements:
+
+- le règlement grand-ducal modifié du 8 avril 1991 relatif aux mentions ou marques permettant d’identifier le lot auquel appartient une denrée alimentaire;
+
+- le règlement grand-ducal modifié du 25 octobre 1996 relatif à l’indication sur l’étiquetage de certaines denrées alimentaires d’autres mentions obligatoires que celles prévues dans le règlement grand-ducal modifié du 16 avril 1992 concernant l’étiquetage et la présentation de denrées alimentaires ainsi que la publicité faite à leur égard;
+
+- le règlement grand-ducal modifié du 14 décembre 2000 concernant l’étiquetage et la présentation des denrées alimentaires ainsi que la publicité faite à leur égard;
+
+- le règlement grand-ducal du 14 avril 2003 concernant l’étiquetage des denrées alimentaires contenant de la quinine, et des denrées alimentaires contenant de la caféine;
+
+- le règlement grand-ducal du 22 juin 1992 relatif à l’étiquetage nutritionnel des denrées alimentaires.
 
 <a id="art-17"></a>
 ## Art. 17.

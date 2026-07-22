@@ -53,6 +53,14 @@ Par dérogation à l’article 3, la vente par internet au public des médicamen
 
 La vente par internet visée à l’article 3bis est réservée aux pharmaciens exploitant une officine ayant notifié préalablement au ministre les informations suivantes:
 
+1. l’identité du pharmacien titulaire et l’adresse de la pharmacie à partir de laquelle les médicaments sont délivrés;
+
+2. la date de début de l’activité de l’offre à la vente par internet visée à l’article 3bis;
+
+3. l’adresse du site internet utilisé pour réaliser la vente par internet visée à l’article 3bis.
+
+4. la description du site internet et de ses fonctionnalités permettant de s’assurer du respect de la législation et de la réglementation en vigueur.
+
 <a id="art-3quater"></a>
 ## Art. 3quater.
 
@@ -96,6 +104,32 @@ Toutes les informations consultables sur le site internet sont mises à jour ré
 <a id="art-3decies"></a>
 ## Art. 3decies.
 
+(1)
+
+Le patient doit avoir accès à un espace privé, intitulé « Mon compte » recensant les commandes passées ainsi que l’intégralité de ses échanges avec le pharmacien.
+
+Un règlement grand-ducal déterminera le contenu obligatoire de l’espace privé visé à l’alinéa précédent ainsi que celui du questionnaire à remplir par le patient au cours du processus de validation de la première commande à distance.
+
+Le patient a la possibilité de se désinscrire à tout moment.
+
+Les données personnelles du patient doivent être gardées pour une durée de deux années depuis la date de la désinscription. Le traitement des données personnelles du patient visées au présent article ne pourra avoir lieu que dans le but de permettre la vente des médicaments par internet, visée par les articles 3bis à 3quaterdecies. Seul le pharmacien a accès aux données personnelles du patient. L’accès de la Direction de la santé lors d’une inspection de la pharmacie du notifiant est limité aux données pseudonymisées du patient. Le patient est informé du traitement de ses données et du droit de désinscription lors de la création du compte.
+
+(2)
+
+Le pharmacien procède à une validation du questionnaire visé au paragraphe précédent, avant d’exécuter la commande.
+
+(3)
+
+Si le questionnaire n’a pas été complètement rempli, aucun médicament ne peut être délivré.
+
+(4)
+
+Aucun médicament ne peut être délivré si des demandes d’informations du patient sont en suspens.
+
+(5)
+
+Une actualisation du questionnaire est proposée à chaque commande.
+
 <a id="art-3undecies"></a>
 ## Art. 3undecies.
 
@@ -120,6 +154,122 @@ Un règlement grand-ducal fixera des bonnes pratiques de délivrance des médica
 
 <a id="art-4"></a>
 ## Art. 4.
+
+(1)
+
+Cependant, des dépôts de médicaments peuvent être établis au sein :
+
+1. d’un établissement hospitalier défini à l’article 1 er , paragraphe 3, de la loi du 8 mars 2018 relative aux établissements hospitaliers et à la planification hospitalière, à l’exception des hôpitaux disposant d’une pharmacie hospitalière, telle que définie à l’article 35 de la loi précitée ;
+
+2. d’un établissement relevant de la loi modifiée du 23 décembre 1998 portant création de deux établissements publics dénommés 1) Centres, Foyers et Services pour personnes âgées ; 2) Centres de gériatrie ;
+
+3. d’un établissement relevant de la loi modifiée du 8 septembre 1998 réglant les relations entre l’État et les organismes œuvrant dans les domaines social, familial et thérapeutique ;
+
+4. d’un établissement agréé au sens de l’article 12, paragraphe 1 er , point 2°, de la loi modifiée du 15 novembre 1978 relative à l’information sexuelle, à la prévention de l’avortement clandestin et à la réglementation de l’interruption volontaire de grossesse ;
+
+5. des services de l’État ;
+
+6. du Corps grand-ducal d’incendie et de secours.
+
+7. des locaux dans lesquels est exercé le service de remplacement de médecine générale au sens de l’article 6, paragraphe 3, de la loi modifiée du 29 avril 1983 concernant l’exercice des professions de médecin, de médecin-dentiste et de médecin-vétérinaire.
+
+(2)
+
+La liste des médicaments à usage humain autorisés pour les dépôts de médicaments visés au paragraphe 1er, points 2° à 4°, 6° et 7°, concerne les médicaments disposant au Grand-Duché de Luxembourg d’une autorisation de mise sur le marché et :
+
+1. destinés aux soins palliatifs et aux soins urgents des personnes hébergées dans un des établissements visés au paragraphe 1 er , points 2° et 3° ;
+
+2. destinés aux personnes suivies par les structures du bas-seuil telles que prévues au paragraphe 1 er , point 3°, qui ne sont pas couvertes par l’assurance obligatoire, par l’assurance volontaire ou dispensés de l’assurance au sens du Code de la sécurité sociale ou bien utilisés dans ces structures par ces personnes en support du programme de traitement de la toxicomanie par substitution défini à l’article 8, paragraphe 2, de la loi modifiée du 19 février 1973 concernant la vente de substances médicamenteuses et la lutte contre la toxicomanie ;
+
+3. prescrits aux personnes suivies par l’établissement visé au paragraphe 1 er , point 4°, dans le cadre de la prévention et de l’interruption volontaire de grossesse ;
+
+4. utilisés par les médecins participant au service de remplacement dans le cadre de la prise en charge des patients dans un des locaux visés au paragraphe 1 er , point 7°.
+
+5. utilisés par le Corps grand-ducal d’incendie et de secours dans le cadre du Service d’aide médicale urgente défini à l’article 4, lettre h), de la loi modifiée du 27 mars 2018 portant organisation de la sécurité civile.
+
+La liste détaillée des médicaments visés aux points 1° à 4° est fixée par règlement grand-ducal selon le Système de classification anatomique, thérapeutique et chimique développé par l’Organisation mondiale de santé.
+
+(3)
+
+Pour ce qui est du paragraphe 1er, point 1°, l’approvisionnement de médicaments à usage humain doit se faire auprès des pharmacies hospitalières conformément à l’article 35 de la loi du 8 mars 2018 relative aux établissements hospitaliers et à la planification hospitalière.
+
+Pour ce qui est du paragraphe 1er, points 2°, 3°, 4° et 7°, l’approvisionnement de médicaments à usage humain doit se faire auprès d’une officine ouverte au public dans le Grand-Duché de Luxembourg.
+
+Pour ce qui est du paragraphe 1er, point 5°, et sans préjudice des dispositions spécifiques applicables aux services de l’État, l’approvisionnement de médicaments peut se faire auprès du fabricant, de l’importateur, du titulaire d’autorisation de distribution en gros de médicaments, d’une autorité compétente d’un autre pays ou de la Centrale nationale d’achat et de logistique. Pour ce qui est du paragraphe 1er, point 6°, l’approvisionnement de médicaments se fait auprès de la Centrale nationale d’achat et de logistique.
+
+(4)
+
+Sans préjudice du paragraphe 3 et uniquement sur demande écrite dûment motivée et adressée au ministre, le pharmacien en charge de la gestion d’un dépôt visé au paragraphe 1er, points 2° à 7°, peut être autorisé à s’approvisionner, à détenir et à dispenser :
+
+1. des médicaments, y compris à usage hospitalier ;
+
+2. des stupéfiants et des substances psychotropes visées à l’article 7 de la loi modifiée du 19 février 1973 concernant la vente de substances médicamenteuses et la lutte contre la toxicomanie, à condition d’obtenir des autorisations adéquates conformément aux dispositions de la loi précitée et des règlements pris en son exécution.
+
+(5)
+
+Les dépôts de médicaments visés au paragraphe 1er répondent, en ce qui concerne l’organisation et l’aménagement, ainsi que la traçabilité et la surveillance des médicaments, aux exigences suivantes :
+
+1. disposer d’un personnel qualifié et formé régulièrement à la mise en œuvre des procédures de l’assurance de la qualité, aux activités de la réception, du stockage et de la dispensation des médicaments, à la gestion du stock, aux mesures d’hygiène personnelle et des locaux et à la maintenance et l’utilisation des installations et des équipements ;
+
+2. développer et mettre à jour des procédures et instructions, rédigées avec un vocabulaire clair et sans ambiguïté, validées pour :
+
+1. la gestion du stock, y compris sa rotation et la destruction de la marchandise périmée ;
+
+2. la maintenance des installations et la maintenance et l’utilisation des équipements ;
+
+3. la qualification du processus garantissant une installation et un fonctionnement corrects des équipements ;
+
+4. le contrôle des médicaments ;
+
+5. la gestion des plaintes, des retours, des défauts de qualités, des falsifications et des retraits du marché ;
+
+6. l’audit interne ;
+
+3. détenir des locaux conçus ou adaptés de manière à assurer le maintien requis des conditions de la réception, du stockage, de la dispensation des médicaments, pourvus :
+
+1. des mesures de sécurité quant à l’accès ;
+
+2. des emplacements séparés pour la réception, le stockage, la dispensation, les retours ou la destruction ;
+
+3. des zones réservées aux produits dangereux, thermosensibles, périmés, défectueux, retournés, falsifiés ou retirés du marché ;
+
+4. disposer d’un stockage approprié et conforme aux résumés des caractéristiques du produit des médicaments stockés et muni d’instruments de contrôle de son environnement par rapport à la température, l’humidité, la lumière et la propreté des locaux ;
+
+5. détenir des équipements adéquats, calibrés et qualifiés, conçus, situés et entretenus de telle sorte qu’ils conviennent à l’usage auquel ils sont destinés, munis si nécessaire de systèmes d’alarme pour donner l’alerte en cas d’écarts par rapport aux conditions de stockage prédéfinies ;
+
+6. valider tout recours aux activités externalisées, dont le sous-traitant est audité préalablement, puis revu régulièrement pour s’assurer du respect des prestations offertes avec les conditions en matière d’organisation et de l’aménagement du dépôt et dont les responsabilités réciproques sont déterminées par contrat sous forme écrite ;
+
+7. mettre en place un système de traçabilité et de surveillance des médicaments par :
+
+1. un étiquetage adéquat des médicaments réceptionnés, dispensés, retournés et destinés à la destruction ou au retrait du marché, permettant de tracer le chemin du médicament depuis son acquisition jusqu’à sa destination finale ;
+
+2. des registres des commandes, des livraisons, des réceptions, des dispensations, des retours, des retraits du marché, des rappels des lots et de la destruction ;
+
+8. mettre en place un système de la surveillance et de veille réglementaire des médicaments consistant à :
+
+1. collecter des informations et gérer des interruptions d’approvisionnements et de contingentements, des retraits du marché, des rappels de lots, des retours, des réclamations ;
+
+2. notifier à la Direction de la santé des effets secondaires, des défauts de qualité et des falsifications ;
+
+3. la mise en œuvre des actions préventives et correctives ;
+
+9. effectuer la préparation, la division, le conditionnement et le reconditionnement des médicaments conformément à l’article 3, alinéa 4, de la loi modifiée du 4 août 1975 concernant la fabrication et l’importation des médicaments.
+
+(6)
+
+Les médecins-vétérinaires sont autorisés à détenir un stock de médicaments à usage vétérinaire pour le traitement des animaux auxquels ils apportent des soins. Le stock répond aux conditions définies au paragraphe 5 et son approvisionnement doit se faire auprès d’une officine ouverte au public.
+
+La liste de ces médicaments est fixée par règlement grand-ducal.
+
+(7)
+
+Les médecins, les médecins-dentistes et les médecins vétérinaires sont autorisés à détenir une trousse d’urgence pour répondre aux besoins de leurs patients.
+
+La liste des médicaments composant cette trousse, les conditions de stockage et la gestion des médicaments rentrant dans sa composition sont fixées par règlement grand-ducal.
+
+Chaque médecin et médecin-dentiste est responsable de la gestion de sa trousse d’urgence, dont l’approvisionnement est effectué à partir d’une officine ouverte au public.
+
+Sans préjudice de l’alinéa 3, l’approvisionnement de la trousse d’urgence se fait à partir des dépôts des médicaments visés au paragraphe 1er, points 5° et 6°, si le médecin ou médecin-dentiste intervient lors d’une mission des services de l’État ou du Corps grand-ducal d’incendie et de secours.
 
 <a id="art-5"></a>
 ## Art. 5.

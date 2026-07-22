@@ -33,9 +33,29 @@ Les étudiants en médecine et médecins non-spécialistes qui remplissent les c
 <a id="art-2"></a>
 ## Art. 2.
 
-Le candidat qui se propose de poursuivre une formation de spécialisation en médecine à l’étranger peut bénéficier de l’aide financière de l’État à condition : ou
+Le candidat qui se propose de poursuivre une formation de spécialisation en médecine à l’étranger peut bénéficier de l’aide financière de l’État à condition :
+
+1. d’être ressortissant luxembourgeois ou membre de famille d’un ressortissant luxembourgeois et être domicilié au Grand-Duché de Luxembourg, ou
+
+2. d’être ressortissant d’un autre État membre de l’Union européenne ou d’un des autres États parties à l’Accord sur l’espace économique européen et de la Confédération suisse et séjourner, conformément au chapitre 2 de la loi modifiée du 29 août 2008 sur la libre circulation des personnes et l’immigration, au Grand-Duché de Luxembourg en qualité de travailleur salarié, de travailleur non salarié, de personne qui garde ce statut ou de membre de famille de l’une des catégories de personnes qui précèdent, ou avoir acquis le droit de séjour permanent, ou
+
+3. de jouir du statut du réfugié politique au sens de l’article 23 de la convention relative au statut de réfugié politique faite à Genève le 28 juillet 1951 et être domicilié au Grand-Duché de Luxembourg, ou
+
+4. d’être ressortissant d’un État tiers ou être apatride au sens de l’article 23 de la Convention relative au statut des apatrides faite à New York le 28 septembre 1954, être domicilié au Grand-Duché de Luxembourg et y avoir résidé effectivement pendant 5 ans au moins ou avoir obtenu le statut de résident de longue durée avant la présentation de la première demande
+
+5. pour les étudiants non-résidents au Grand-Duché de Luxembourg:
+
+1. d’être un travailleur ressortissant luxembourgeois ou ressortissant de l’Union européenne ou d’un autre État partie à l’Accord sur l’espace économique européen ou de la Confédération suisse employé ou exerçant son activité au Grand-Duché de Luxembourg au moment de sa demande pour l’aide financière; ou
+
+2. d’être un enfant de travailleur ressortissant luxembourgeois ou ressortissant de l’Union européenne ou d’un autre État partie à l’Accord sur l’espace économique européen ou de la Confédération suisse employé ou exerçant son activité au Grand-Duché de Luxembourg au moment de la demande par l’étudiant pour l’aide financière à condition que ce travailleur continue à contribuer à l’entretien de l’étudiant et que ce travailleur ait été employé ou ait exercé son activité au Grand-Duché de Luxembourg pendant une durée d’au moins cinq ans au moment de la demande de l’aide financière par l’étudiant pendant une période de référence de sept ans à compter rétroactivement à partir de la date de la demande pour l’obtention de l’aide financière ou que, par dérogation, la personne qui garde le statut de travailleur ait correspondu au critère des cinq ans sur sept fixé ci-avant au moment de l’arrêt de l’activité.
 
 Est considéré comme travailleur au sens du présent paragraphe celui qui bénéficie de l’un des statuts suivants:
+
+1. travailleur qui exerce des activités salariées réelles et effectives, à l’exclusion d’activités tellement réduites qu’elles se présentent comme purement marginales ou accessoires;
+
+2. travailleur qui exerce des activités non salariées réelles et effectives, à l’exclusion d’activités tellement réduites qu’elles se présentent comme purement marginales ou accessoires, affilié obligatoirement et d’une manière continue au Grand-Duché de Luxembourg en vertu de l’article 1 er , point 4) du Code de la sécurité sociale ;
+
+3. personne qui garde le statut de travailleur ou qui fait partie des catégories suivantes: personne bénéficiaire d’une pension due au titre de la législation luxembourgeoise et travailleur bénéficiant d’une pension d’invalidité aux termes de l’article 187 du Code des assurances sociales .
 
 <a id="art-3"></a>
 ## Art. 3.
@@ -57,6 +77,26 @@ Elle doit être restituée immédiatement lorsqu’il s’avère qu’elle a ét
 Tout candidat qui désire bénéficier de l’aide financière prévue à l’article 3, doit présenter une demande écrite au ministre de la Santé au moins trois mois avant le début de la formation de spécialisation.
 
 Sont à joindre à la demande:
+
+1. un curriculum vitae;
+
+2. un certificat de nationalité;
+
+3. un certificat établi par l’autorité compétente du pays formateur attestant que le candidat remplit les conditions de formation de base préalables pour pouvoir poursuivre sa formation de spécialisation;
+
+4. des indications quant
+
+- à la discipline choisie pour la formation de spécialisation,
+
+- au début et à la durée du ou des stages envisagés,
+
+- aux coordonnées du ou des maîtres de stage et terrains de stage;
+
+5. un certificat établi par le ou les maîtres de stage attestant que les activités prestées lors des stages ne font l’objet d’aucune rémunération fixe ou régulière;
+
+6. un document écrit dans lequel le candidat s’engage à respecter les modalités de remboursement des montants alloués tel que prévu à l’article 4;
+
+7. un certificat de résidence.
 
 <a id="art-6"></a>
 ## Art. 6.

@@ -28,6 +28,8 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 <a id="art-1er"></a>
 ## Art. 1er.
 
+Prise en charge de l’acte
+
 Les actes et services des laboratoires ne peuvent être pris en charge par une des institutions de sécurité sociale visées par le Code de la sécurité sociale que si cet acte est inscrit au tableau annexé au présent règlement et qui en fait partie intégrante.
 
 Les laboratoires dans lesquels sont effectuées des analyses de biologie médicale doivent répondre aux conditions prévues dans la loi modifiée du 16 juillet 1984 relative aux laboratoires d’analyses médicales.
@@ -40,12 +42,16 @@ Les médecins effectuant personnellement et dans leur cabinet des analyses de pr
 <a id="art-3"></a>
 ## Art. 3.
 
+Autorisation par le contrôle médical de la sécurité sociale
+
 Certains actes ne peuvent être pris en charge qu’après avoir été autorisés par le Contrôle médical de la sécurité sociale.
 
 Ces actes sont signalés par les lettres APCM (autorisation préalable du Contrôle médical requise) ou les lettres ACM (autorisation du Contrôle médical requise), suivant que cette autorisation doit ou non précéder l’accomplissement de l’acte.
 
 <a id="art-4"></a>
 ## Art. 4.
+
+Tarif d’un acte
 
 Le tarif d’un acte est obtenu en multipliant son coefficient par la valeur de la lettre-clé négociée par les parties signataires de la convention prévue à l’article 61 du Code de la sécurité sociale.
 
@@ -56,14 +62,26 @@ Les tarifs comprennent les frais d’appareils, de matériel, d’installation e
 <a id="art-5"></a>
 ## Art. 5.
 
+Frais de déplacement
+
 Le forfait de déplacement peut être mis en compte pour chaque déplacement à domicile du patient en vue d’un prélèvement.
 
 Le forfait de déplacement du prestataire ne peut être mis en compte pour les prélèvements
+
+- dans les établissements d’aides et de soins au sens de l’article 390 du Code de la sécurité sociale ;
+
+- dans les établissements hospitaliers ;
+
+- dans les cabinets de médecins ou d’autres prestataires de soins de santé visés par une des conventions prévue à l’article 61 du Code de la sécurité sociale ;
+
+- dans les dispensaires et centres communaux.
 
 Si lors du même déplacement le prestataire effectue des prélèvements sur plusieurs personnes de la même communauté domestique, le forfait de déplacement ne peut être mis en compte que pour la personne la première traitée.
 
 <a id="art-6"></a>
 ## Art. 6.
+
+Prise de sang et autres prélèvements
 
 Les personnes autorisées à faire des prélèvements doivent respecter les limitations des attributions fixées par la loi et les règlements qui leur sont spécifiquement applicables.
 

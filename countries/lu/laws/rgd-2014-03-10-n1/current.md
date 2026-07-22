@@ -28,6 +28,52 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 <a id="art-1er"></a>
 ## Art. 1er.
 
+(1)
+
+Le Comité de suivi de la lutte contre la traite des êtres humains, ci-après désigné le «Comité», institué par l’article 10 de la loi du 8 mai 2009 sur l’assistance, la protection et la sécurité des victimes de la traite des êtres humains et modifiant le Nouveau Code de procédure civile est composé de:
+
+- un représentant du Ministre ayant l’Egalité des chances dans ses attributions,
+
+- un représentant du Ministre ayant l’Enfance et la Jeunesse dans ses attributions,
+
+- un représentant du Ministre ayant la Justice dans ses attributions,
+
+- un représentant du Ministre ayant la Santé dans ses attributions,
+
+- un représentant du Ministre ayant la Police dans ses attributions,
+
+- un représentant du Ministre ayant l’Immigration dans ses attributions,
+
+- un représentant du Ministre ayant le Travail dans ses attributions,
+
+- un représentant du Ministre ayant les Classes moyennes dans ses attributions,
+
+- un représentant de l’Inspection du travail et des mines,
+
+- un représentant de l’Office national de l’accueil, en abrégé « ONA » ,
+
+- un représentant de chaque Parquet,
+
+- un représentant de la Police grand-ducale,
+
+- deux représentants des services d’assistance aux victimes de la traite des êtres humains agréés.
+
+- représentant du service d’aide aux victimes du Service central d’assistance sociale, en abrégé « SCAS ».
+
+(2)
+
+Pour chaque membre effectif est nommé un membre suppléant.
+
+(3)
+
+Le Comité peut avoir recours à des experts pour l’exécution de sa mission.
+
+(4)
+
+Les membres effectifs et suppléants sont nommés pour un terme renouvelable de cinq ans. Le Ministre ayant la Justice dans ses attributions procède aux nominations des membres visés sur propositions des ministres des ressorts concernés, du procureur d’Etat compétent, du directeur général de la police et des directeurs des administrations visées.
+
+Au cas où les fonctions d’un membre viennent à cesser avant le terme du mandat, le membre nouvellement nommé termine le mandat du membre qu’il remplace.
+
 <a id="art-2"></a>
 ## Art. 2.
 

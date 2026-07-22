@@ -49,7 +49,11 @@ Dans le cadre de l'enseignement secondaire général, des cours du soir peuvent 
 <a id="art-3"></a>
 ## Art. 3.
 
-Les classes inférieures ont pour objectif : d'élargir et d'approfondir les connaissances de base; d'orienter vers une formation ultérieure et de préparer à la poursuite des études dans les classes supérieures et dans la formation professionnelle ;
+Les classes inférieures ont pour objectif :
+
+- d'élargir et d'approfondir les connaissances de base;
+
+- d'orienter vers une formation ultérieure et de préparer à la poursuite des études dans les classes supérieures et dans la formation professionnelle ;
 
 L'enseignement aux classes inférieures est organisé en deux voies: la voie d'orientation et la voie de préparation.
 
@@ -57,6 +61,32 @@ L'élève bénéficie d'un encadrement qui l'aide à élaborer un parcours de fo
 
 <a id="art-4"></a>
 ## Art. 4.
+
+(1)
+
+La voie d'orientation comprend la septième d'observation, la sixième d'orientation et la cinquième de détermination.
+
+La septième d'observation assure aux élèves une formation de base polyvalente et approfondit les connaissances acquises antérieurement.
+
+La sixième d'orientation approfondit la formation de base polyvalente et prépare les orientations scolaires et professionnelles futures.
+
+La cinquième de détermination prépare respectivement l'accès à la formation professionnelle et la poursuite des études dans les classes supérieures. Elle peut être organisée sous forme de cinquième d'adaptation pour les élèves en provenance de la voie de préparation.
+
+L'enseignement en langues et en mathématiques en sixième d'orientation et cinquième de détermination est organisé par des cours de base et des cours avancés.
+
+(2)
+
+La voie de préparation a pour mission de préparer les élèves à un passage ultérieur à la voie d'orientation ou à la formation professionnelle.
+
+Ces finalités nécessitent la mise en œuvre de modèles pédagogiques différenciés, adaptés à la population des élèves, fondés sur des méthodes d'enseignement et d'encadrement spécifiques.
+
+(3)
+
+Des cours d'appui peuvent être organisés pour assurer la perméabilité entre les voies pédagogiques.
+
+(4)
+
+Les classes d'initiation professionnelle accueillent des élèves mineurs qui, au terme de la voie d'orientation ou de la voie de préparation, ne peuvent accéder aux classes supérieures ou à la formation professionnelle.
 
 <a id="art-5"></a>
 ## Art. 5.
@@ -68,8 +98,60 @@ Le modèle des certificats susvisés est arrêté par le ministre ayant l'Éduca
 <a id="art-6"></a>
 ## Art. 6.
 
+(1)
+
+Le programme d'études des classes inférieures porte sur les disciplines suivantes :
+
+1. les langues allemande, française, luxembourgeoise, anglaise ainsi que les mathématiques ; ces disciplines forment le volet « langues et mathématiques » ;
+
+2. les sciences naturelles regroupant comme matières la physique, la chimie, la biologie et l'informatique ; les sciences sociales regroupant comme matières l'histoire et la géographie ; l'éducation technologique ; ces disciplines forment le volet « sciences naturelles et sociales » ;
+
+3. l'éducation physique, l'éducation artistique, l'éducation musicale, les options et les cours en atelier, le cours vie et société; ces disciplines forment le volet « expression, orientation et promotion des talents ».
+
+Le programme d'études comprend des stages d'orientation en entreprise organisés par le lycée. Ces stages d'orientation sont considérés comme travail dans les écoles techniques ou professionnelles au sens de l'article L.342-3 du Code du travail.
+
+(2)
+
+L'admission d'un élève à un stage d'orientation ou à un cours en atelier est soumise à une attestation d'aptitude favorable du médecin scolaire.
+
+Cette attestation d'aptitude est dressée dans le cadre des examens de médecine scolaire prévus à la loi modifiée du 2 décembre 1987 portant réglementation de la médecine scolaire pour les élèves de l'enseignement secondaire et secondaire technique.
+
+Dans le cadre de ces examens, le médecin scolaire constate, soit l'aptitude de l'élève à suivre tout stage ou cours en atelier, soit l'inaptitude de l'élève à suivre certains stages ou cours en atelier.
+
+Pour établir l'aptitude ou l'inaptitude d'un élève, le médecin scolaire peut demander l'avis d'un médecin-spécialiste.
+
+Si après l'évaluation de cet avis, un doute quant à l'aptitude ou l'inaptitude de l'élève persiste, le médecin scolaire demande l'avis d'une commission d'accès à nommer par arrêté ministériel des ministres ayant respectivement la Santé et la Formation professionnelle dans leurs attributions.
+
+La commission d'accès se compose d'un médecin de la Division de la médecine scolaire et de la santé des enfants et adolescents, d'un médecin de la Division de la santé au travail et de l'environnement à nommer sur proposition du Directeur de la Santé et d'un représentant du ministre ayant la Formation professionnelle dans ses attributions.
+
 <a id="art-6bis"></a>
 ## Art. 6bis.
+
+(1)
+
+Les classes d'initiation professionnelle des lycées accueillent des élèves qui sont mineurs en début d'année scolaire et qui ne remplissent pas les critères pour accéder à la formation professionnelle initiale ou à la formation professionnelle de base. Les classes d'initiation professionnelle peuvent également accueillir des mineurs ayant quitté prématurément l'école, afin qu'ils réintègrent le système d'éducation et de formation.
+
+(2)
+
+L'objectif des classes d'initiation professionnelle est d'orienter l'élève vers la formation professionnelle ou vers la voie d'orientation.
+
+Les classes d'initiation professionnelle font partie de la voie de préparation des classes inférieures de l'enseignement secondaire général.
+
+(3)
+
+L'enseignement dans les classes d'initiation professionnelle est dispensé par les modules prévus à la voie de préparation; les modalités d'évaluation sont celles prévues à la voie de préparation.
+
+(4)
+
+La formation peut comporter des stages probatoires.
+
+La participation d'un élève à un stage probatoire en entreprise présuppose une attestation d'aptitude favorable du médecin scolaire établie selon les dispositions de l'article 6, paragraphe 2.
+
+Ces stages probatoires sont considérés comme travail dans les écoles techniques ou professionnelles, au sens de l'article L.342-3 du Code du travail.
+
+(5)
+
+Le conseil de classe peut, en cours d'année, recommander à l'élève d'intégrer une formation du régime professionnel, une classe inférieure ou, pour l'élève devenu majeur, un cours d'orientation et d'initiation professionnelle du Centre national de formation professionnelle continue.
 
 ##### C. Les classes supérieures de l'enseignement secondaire général
 
@@ -83,7 +165,19 @@ Aux élèves ayant réussi la classe de troisième est délivré un certificat d
 <a id="art-17"></a>
 ## Art. 17.
 
-Les classes supérieures de l'enseignement général sont organisées dans les divisions suivantes : une division administrative et commerciale; une division agricole; une division artistique; une division hôtelière et touristique; une division des professions de santé et des professions sociales; une division technique générale.
+Les classes supérieures de l'enseignement général sont organisées dans les divisions suivantes :
+
+1. une division administrative et commerciale;
+
+2. une division agricole;
+
+3. une division artistique;
+
+4. une division hôtelière et touristique;
+
+5. une division des professions de santé et des professions sociales;
+
+6. une division technique générale.
 
 Chaque division peut comprendre plusieurs sections ou options de préspécialisation qui sont créées par règlement ministériel.
 
@@ -147,12 +241,64 @@ Les aides à la promotion de l'apprentissage prévues à l'article 23 de la loi 
 <a id="art-26bis"></a>
 ## Art. 26bis.
 
+(1)
+
+L'État, représenté par le ministre ayant la Formation professionnelle dans ses attributions, ci-après « ministre », octroie une compensation financière pour les heures de formation effectives dans les lycées publics et privés et les centres de formation publics et privés, tels que prévus à l'article 16 de la loi modifiée du 19 décembre 2008 portant réforme de la formation professionnelle, ci-après « établissements de formation », aux employeurs de personnes adultes, salariés, liés par un contrat de travail à une entreprise, association ou fondation légalement établie sur le territoire du Grand-Duché de Luxembourg et qui suivent une formation en cours d'emploi, conformément à l'article 42 de la loi modifiée du 19 décembre 2008 portant réforme de la formation professionnelle.
+
+(2)
+
+La compensation financière est accordée aux employeurs visés au paragraphe 1er sous réserve qu'ils remplissent les conditions suivantes :
+
+1. être signataire, pour l'année scolaire en question, d'une convention de pratique professionnelle à conclure entre le directeur à la formation professionnelle, le patron formateur tel que défini à l'article 2 de la loi modifiée du 19 décembre 2008 portant réforme de la formation professionnelle, le directeur ou le chargé de direction de l'établissement de formation concerné et le salarié ;
+
+2. produire la preuve d'un contrat de travail en cours avec un salarié en formation en cours d'emploi pour l'année scolaire en question ;
+
+3. produire la preuve d'une affiliation régulière du salarié au Centre commun de la sécurité sociale.
+
+(3)
+
+Pour chaque heure de formation en cours d'emploi d'un salarié dans un des établissements de formation, les employeurs bénéficiaires touchent une compensation financière égale au taux horaire du salaire social minimum pour salariés non qualifiés. Le nombre maximal d'heures de formation à suivre dans les établissements de formation mentionnés au paragraphe 1er est de seize heures par semaine de formation. Un certificat de participation, délivré mensuellement par l'établissement de formation à l'employeur, renseignant sur le nombre d'heures de formation auxquelles le salarié a effectivement participé, est à joindre à la demande de compensation financière.
+
+(4)
+
+La compensation financière accordée dans les conditions fixées au présent article ne peut pas être cumulée avec d'autres aides à la formation professionnelle financées par des fonds publics.
+
+(5)
+
+La demande de compensation financière doit être soumise par l'employeur au ministre et doit contenir les pièces et informations suivantes :
+
+1. le nom et les coordonnées de l'employeur ;
+
+2. les documents justificatifs prévus aux paragraphes 2 et 3 ;
+
+3. la déclaration sur l'honneur que l'employeur ne bénéficie pas d'un double financement pour un même salarié tel que prévu au paragraphe 4 ;
+
+4. un relevé d'identité bancaire de l'employeur requérant.
+
+Elle peut contenir toute autre pièce que l'employeur juge utile, aux fins de permettre au ministre d'apprécier le bien-fondé de la demande. Elle est introduite au choix de l'employeur soit :
+
+1. mensuellement, au plus tard le dernier jour du mois qui suit celui durant lequel la formation en cours d'emploi a eu lieu ;
+
+2. annuellement, au plus tard le 31 octobre de l'année scolaire qui suit l'année scolaire au cours de laquelle la formation en cours d'emploi a eu lieu.
+
+(6)
+
+Le ministre peut demander auprès du Centre commun de la sécurité sociale les informations nécessaires à l'instruction des demandes de compensation financière introduites sur base du présent article.
+
+Une copie de la décision ministérielle, indiquant le nom de l'employeur requérant et son numéro d'immatriculation auprès du Centre commun de la sécurité sociale, est transmise à l'Administration des contributions directes et à l'Administration de l'enregistrement, des domaines et de la TVA pour information.
+
 ##### G. Généralités
 
 <a id="art-28"></a>
 ## Art. 28.
 
-Les mesures suivantes nécessaires à l'exécution de la présente loi sont déterminées par règlement grand-ducal : l'organisation des classes inférieures et des classes supérieures de l'enseignement secondaire général ; l'admission des élèves dans les différentes classes de l'enseignement secondaire général ; l'organisation des examens et la certification.
+Les mesures suivantes nécessaires à l'exécution de la présente loi sont déterminées par règlement grand-ducal :
+
+1. l'organisation des classes inférieures et des classes supérieures de l'enseignement secondaire général ;
+
+2. l'admission des élèves dans les différentes classes de l'enseignement secondaire général ;
+
+3. l'organisation des examens et la certification.
 
 <a id="art-31"></a>
 ## Art. 31.
@@ -173,10 +319,50 @@ Selon des critères à établir par règlement grand-ducal, des aides financièr
 <a id="art-42"></a>
 ## Art. 42.
 
+(1)
+
+II est créé auprès du ministère de l'Éducation nationale un établissement public dénommé Centre de coordination des projets d'établissement, désigné par la suite le Centre, qui a la personnalité juridique et l'autonomie financière.
+
+(2)
+
+Le Centre a pour objet de promouvoir, de coordonner, de gérer et d'évaluer les projets d'établissement.
+
+(3)
+
+Le Centre est géré dans les formes et selon les méthodes à déterminer par règlement grand-ducal.
+
+(4)
+
+Le conseil d'administration du Centre comprend:
+
+1. trois représentants du ministre;
+
+2. un représentant de chacune des chambres professionnelles concernées;
+
+3. quatre représentants des directeurs des lycées.
+
+(5)
+
+Les membres du conseil d'administration sont nommés par le Gouvernement pour un terme renouvelable de cinq ans. Après consultation du conseil d'administration, le ministre désigne parmi les membres le président, le vice-président, le trésorier et le secrétaire qui forment le bureau du conseil d'administration. Les attributions du conseil d'administration et de son bureau sont fixées par règlement grand-ducal déterminant les modalités de fonctionnement du Centre.
+
+(6)
+
+Le ministre désigne un commissaire du Gouvernement qui assiste avec voix consultative aux séances du conseil d'administration. Le commissaire du Gouvernement jouit, par ailleurs, d'un droit d'information et de contrôle sur l'activité du Centre ainsi que sur sa gestion administrative et financière. II peut suspendre les décisions du conseil d'administration lorsqu'il estime qu'elles sont contraires aux lois, aux règlements et aux statuts. Dans ce cas, il appartient au ministre de décider dans un délai de deux mois à partir de la saisine par le commissaire du Gouvernement.
+
+(7)
+
+Le Centre présente chaque année au ministre un rapport d'activités sur l'exercice précédent. Il soumet à l'approbation du ministre le budget et les comptes annuels.
+
 <a id="art-43"></a>
 ## Art. 43.
 
-Le Centre peut disposer notamment des ressources suivantes: une contribution financière annuelle provenant du budget des recettes et des dépenses de l'État inscrite au budget du ministère de l'Éducation nationale; des dons et legs, en espèces ou en nature; des revenus provenant de la gestion de son patrimoine.
+Le Centre peut disposer notamment des ressources suivantes:
+
+1. une contribution financière annuelle provenant du budget des recettes et des dépenses de l'État inscrite au budget du ministère de l'Éducation nationale;
+
+2. des dons et legs, en espèces ou en nature;
+
+3. des revenus provenant de la gestion de son patrimoine.
 
 <a id="art-44"></a>
 ## Art. 44.
@@ -199,29 +385,81 @@ Les attributions et la tâche du directeur adjoint sont fixées par règlement g
 <a id="art-58"></a>
 ## Art. 58.
 
-L'alinéa 4 de l'article 4 de la loi modifiée du 18 juin 1969 sur l'enseignement supérieur et l'homologation des titres et grades étrangers d'enseignement supérieur est modifié comme suit: «Nul ne pourra présenter à l'homologation un diplôme final d'enseignement supérieur étranger, s'il n'est pas titulaire d'un diplôme de fin d'études secondaires, d'un diplôme de fin d'études secondaires techniques, d'un diplôme de technicien approprié selon les dispositions de l'article 20 de la loi du 4 septembre 1990 portant réforme de l'enseignement secondaire général et de la formation professionnelle continue, luxembourgeois ou étranger reconnu équivalent selon la réglementation luxembourgeoise en vigueur.» «Nul ne pourra présenter à l'homologation un diplôme final d'enseignement supérieur étranger, s'il n'est pas titulaire d'un diplôme de fin d'études secondaires, d'un diplôme de fin d'études secondaires techniques, d'un diplôme de technicien approprié selon les dispositions de l'article 20 de la loi du 4 septembre 1990 portant réforme de l'enseignement secondaire général et de la formation professionnelle continue, luxembourgeois ou étranger reconnu équivalent selon la réglementation luxembourgeoise en vigueur.»
+L'alinéa 4 de l'article 4 de la loi modifiée du 18 juin 1969 sur l'enseignement supérieur et l'homologation des titres et grades étrangers d'enseignement supérieur est modifié comme suit: «Nul ne pourra présenter à l'homologation un diplôme final d'enseignement supérieur étranger, s'il n'est pas titulaire d'un diplôme de fin d'études secondaires, d'un diplôme de fin d'études secondaires techniques, d'un diplôme de technicien approprié selon les dispositions de l'article 20 de la loi du 4 septembre 1990 portant réforme de l'enseignement secondaire général et de la formation professionnelle continue, luxembourgeois ou étranger reconnu équivalent selon la réglementation luxembourgeoise en vigueur.»
 
 <a id="art59"></a>
 ## Art. 59.
 
-Les modifications suivantes sont apportées à la loi du 22 juin 1989 portant modification de la loi modifiée du 10 mai 1968 portant réforme de l'enseignement, titreVI: de l'enseignement secondaire: à l'article 6, paragraphe 3, le point a) est remplacé comme suit: être détenteur d'un diplôme de fin d'études secondaires ou de fin d'études secondaires techniques, luxembourgeois ou étranger reconnu équivalent suivant la réglementation luxembourgeoise en vigueur»; être détenteur d'un diplôme de fin d'études secondaires ou de fin d'études secondaires techniques, luxembourgeois ou étranger reconnu équivalent suivant la réglementation luxembourgeoise en vigueur»; à l'article 8, l'alinéa 2 est complété par l'adjonction suivante: « . . . ou dans le grade E6». « . . . ou dans le grade E6».
+Les modifications suivantes sont apportées à la loi du 22 juin 1989 portant modification de la loi modifiée du 10 mai 1968 portant réforme de l'enseignement, titreVI: de l'enseignement secondaire:
+
+1. à l'article 6, paragraphe 3, le point a) est remplacé comme suit: être détenteur d'un diplôme de fin d'études secondaires ou de fin d'études secondaires techniques, luxembourgeois ou étranger reconnu équivalent suivant la réglementation luxembourgeoise en vigueur»;
+
+2. à l'article 8, l'alinéa 2 est complété par l'adjonction suivante: « . . . ou dans le grade E6».
 
 <a id="art60"></a>
 ## Art. 60.
 
-Les modifications suivantes sont apportées à la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l'Etat: A l'article 20ter, il est ajouté l'alinéa suivant: «La nomination de l'instituteur classé au grade E3 ou E3ter à une fonction classée au grade E4 est à considérer comme une promotion.» «La nomination de l'instituteur classé au grade E3 ou E3ter à une fonction classée au grade E4 est à considérer comme une promotion.» A l'article 22, section II, paragraphe 17, l'alinéa 3 est modifié comme suit: «Le maître de cours pratiques (grade E2) et le maître d'enseignement technique (grade E2) bénéficient d'un avancement en traitement au grade E3bis après douze années de grade.» «Le maître de cours pratiques (grade E2) et le maître d'enseignement technique (grade E2) bénéficient d'un avancement en traitement au grade E3bis après douze années de grade.» A l'annexe A - Classification des fonctions, la rubrique «IV.— Enseignement» est complétée comme suit: au grade E2 est ajoutée la mention suivante: «Différents ordres d'enseignement - ° maître d'enseignement technique (II - 17°), au grade E7 est ajoutée la mention suivante: «Enseignement secondaire technique — °professeur de sciences de l'enseignement secondaire général (VII). A l'annexe D - Détermination, la rubrique «IV. - Enseignement» est complétée comme suit: dans la carrière moyenne de l'enseignement, il est ajouté au grade E2 de computation dela bonification d'ancienneté la dénomination maître d'enseignment technique des différents ordres d'enseignement, classée au grade E2, dans la carrière supérieure de l'enseignement, il est ajouté au grade E7 de computation de la bonification d'ancienneté la dénomination professeur de sciences de l'enseignement secondaire général, classée au grade E7.
+Les modifications suivantes sont apportées à la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l'Etat:
+
+1. A l'article 20ter, il est ajouté l'alinéa suivant: «La nomination de l'instituteur classé au grade E3 ou E3ter à une fonction classée au grade E4 est à considérer comme une promotion.»
+
+2. A l'article 22, section II, paragraphe 17, l'alinéa 3 est modifié comme suit: «Le maître de cours pratiques (grade E2) et le maître d'enseignement technique (grade E2) bénéficient d'un avancement en traitement au grade E3bis après douze années de grade.»
+
+3. A l'annexe A - Classification des fonctions, la rubrique «IV.— Enseignement» est complétée comme suit:
+
+- au grade E2 est ajoutée la mention suivante: «Différents ordres d'enseignement - ° maître d'enseignement technique (II - 17°),
+
+- au grade E7 est ajoutée la mention suivante: «Enseignement secondaire technique — °professeur de sciences de l'enseignement secondaire général (VII).
+
+4. A l'annexe D - Détermination, la rubrique «IV. - Enseignement» est complétée comme suit:
+
+- dans la carrière moyenne de l'enseignement, il est ajouté au grade E2 de computation dela bonification d'ancienneté la dénomination maître d'enseignment technique des différents ordres d'enseignement, classée au grade E2,
+
+- dans la carrière supérieure de l'enseignement, il est ajouté au grade E7 de computation de la bonification d'ancienneté la dénomination professeur de sciences de l'enseignement secondaire général, classée au grade E7.
 
 #### Chapitre VI. Les dispositions transitoires et finales
 
 <a id="art-61"></a>
 ## Art. 61.
 
-Les fonctions de professeur avec le diplôme de docteur,de professeur de sciences économiques, d'instituteur d'enseignement technique et d'institutrice d'enseignement ménager agricole sont maintenues dans le cadre du personnel des lycées techniques pour les titulaires en service à l'entrée en vigueur ou nommé sur la base des dispositions de la présente loi. Les maîtres de cours pratiques en service aux différents lycées techniques à l'entrée en vigueur de la présente loi sont nommés maître d'enseignement technique avec conservation des droits acquis. La fonction de secrétaire des établissements scolaires est maintenue dans le cadre du personnel des lycées techniques pour les secrétaires en service ou en congé sans traitement à l'entrée envigueur de la présente loi. Les fonctionnaires et stagiaires des carrières du professeur-ingénieur et du professeur-architecte, en service à l'entrée en vigueur de la présente loi, qui remplissent les conditions d'admission ou de nomination aux fonctions de professeur de sciences de l'enseignement secondaire général, peuvent, sur leur demande, être admis au stage ou nommé aux fonctions précitées avec conservation des droits acquis. Les fonctionnaires des carrières du concierge et du gar çon de salle,détenteurs d'un certificat d'aptitude technique et professionnelle ou d'un diplôme ou certificat reconnu équivalent, en service à un lycée ou à un lycée technique à l'entrée en vigueur de la présente loi, peuvent être nommés aux fonctions de premier artisan s'ils ont subi avec succès l'examen de promotion de leur carrière initiale ou, pour les fonctionnaires de la carrière du concierge, s'ils en ont été dispensés conformément aux dispositions de l'article 17 du règlement grand-ducal modifié du 1er avril 1987 déterminant les conditions d'admission, de nomination et de promotion des fonctionnaires de la carrière du concierge dans les administrations et services de l'Etat. Ils sont admissibles sans délai à l'examen de promotion dans la carrière de l'artisan. Ils peuvent être nommés aux fonctions d'artisan principal après réussite de cet examen et sous réserve qu'ils peuvent se prévaloir de six années de grade à partir de leur première nomination de fonctionnaire. Les promotions ultérieures se font d'après leur classement au tableau d'avancement. Le professeur d'enseignement technique nommé au Lycée technique d'Ettelbruck à partir du 1er septembre 1973, détenteur d'un diplôme de doctorat en sciences de l'environnement délivré par la Fondation Universitaire Luxembourgeoise - Arlon en date du 23 juin 1988, peut être nommé aux fonctions de professeur avec le diplôme de docteur avec conservation des droits acquis. Le premier artisan principal hors cadre au Lycée technique Michel-Lucius, transféré des cadres de l'Armée, peut être nommé aux fonctions d'artisan dirigeant dès qu'il pourra se prévaloir de vingt-huit années de grade à partir de sa nomination aux fonctions d'artisan de l'Armée. Par dérogation aux dispositions de l'article 6bis de la loi modifiée et complétée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l'Etat, l'ingénieur-agronome de la spécialité «horticulture», en service à l'Administration des services techniques de l'Agriculture jusqu'au 31 décembre 1988, admis au stage pour les fonctions de professeur-ingénieur au Lycée technique agricole à partir du 1er janvier 1989, continuera à jouir de son traitement pendant la durée du stage. A partir de sa nomination aux fonctions de professeur-ingénieur, il conservera l'ancien traitement, arrêté au jour de la nomination, aussi longtemps qu'il est plus élevé que son nouveau traitement. La carrière de l'artisan dirigeant détenteur du certificat de fin d'études moyennes, section biologique et sociale, engagé en date du 1er septembre 1973 au Lycée technique d'Ettelbruck, est reconstituée par la prise en considération de l'indice 146 comme premier échelon du grade 3. La carrière de l'artisan, détenteur du certificat d'aide-chimiste, admis au stage en date du 1er mars 1989 au Lycée technique de Bonnevoie, est reconstituée par la prise en considération de l'indice 146 comme premier échelon du grade 3. Les trois ouvriers de l'Etat à tâche complète engagés en date des 15 novembre 1972, 1er janvier 1973 et 20 septembre 1973 et occupés respectivement au Lycée technique du Centre, au Lycée technique Mathias-Adam et au Lycée technique d'Esch-sur-Alzette à l'entrée en vigueur de la présente loi peuvent être nommés à la fonction de premier artisan principal aux mêmes établissements. Ils sont placés hors cadre par dépassement des effectifs légaux. Les intéressés bénéficient d'une reconstitution de carrière sur la base d'une nomination fictive se situant trois années après leur entrée au service de l'Etat. A cet effet, les dispositions de l'article 7, paragraphe 6, de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l'Etat ne leur sont pas applicables. Pour l'application des dispositions des articles 8 et 22 de cette même loi, les années passées au service de l'Etat en qualité d'ouvrier à tâche complète, déduction faite d'une période de trois années, leur sont mises en compte. Les deux ouvriers de l'Etat à tâche complète engagés en date des 1er octobre 1963 et 17 mars 1979 et occupés respectivement au Lycée technique de Mersch et au Lycée technique hôtelier Alexis Heck à l'entrée en vigueur de la présente loi sont nommés à la fonction d'artisan aux mêmes établissements. Ils sont admissibles sans délai à l'examen de promotion de leur carrière. Les intéressés bénéficient d'une reconstitution de carrière sur la base d'une nomination fictive se situant trois années après leur entrée en service de l'Etat. A cet effet, les dispositions de l'article 7, paragraphe 6, de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l'Etat ne leur sont pas applicables. Pour l'application des dispositions es articles 8 et 22 de cette même loi, les années passées au service de l'Etat en qualité d'ouvrier à tâche complète, déduction faite d'une période de trois années, leur sont mises en compte. Les deux ouvriers de l'Etat à tâche complète, engagés en date du 1er mars 1987 et du 10 mai 1989 et occupés respectivement au Lycée technique agricole et au Lycée technique d'Ettelbruck à l'entrée en vigueur de la présente loi, sont admis au stage pour les fonctions d'artisan aux mêmes établissements. A cet effet, ils sont dispensés de l'examen concours prévu pour l'accès à la carrière d'artisan. Les employés de l'Etat, qui remplissent les conditions d'études et de diplômes requises pour la nomination à la fonction d'éducateur prévue à l'article 19, section II, point 12, de la loi modifiée du 14 mars 1973 portant création d'instituts et de services d'éducation différenciée, occupés à tâche complète aux internats annexés au Lycée technique de Mersch et au Lycée technique du Nord, au moment de l'entrée en vigueur de la présente loi, peuvent être dispensés de l'examen-concours, du stage et de l'examen de fin de stage pour l'accès aux fonctions d'éducateur, s'ils peuvent faire valoir trois années de service au moins. Leur carrière sera reconstituée sur la base d'une nomination fictive se situant deux années après leur entrée en service en qualité d'employé. Les employés en service depuis moins de trois années peuvent être dispensés de l'examen-concours prévu pour l'accès à la carrière d'éducateur. Ils peuvent bénéficier d'une réduction de stage égale à la période passée en qualité d'employé de l'Etat à tâche complète.
+1. Les fonctions de professeur avec le diplôme de docteur,de professeur de sciences économiques, d'instituteur d'enseignement technique et d'institutrice d'enseignement ménager agricole sont maintenues dans le cadre du personnel des lycées techniques pour les titulaires en service à l'entrée en vigueur ou nommé sur la base des dispositions de la présente loi.
+
+2. Les maîtres de cours pratiques en service aux différents lycées techniques à l'entrée en vigueur de la présente loi sont nommés maître d'enseignement technique avec conservation des droits acquis.
+
+3. La fonction de secrétaire des établissements scolaires est maintenue dans le cadre du personnel des lycées techniques pour les secrétaires en service ou en congé sans traitement à l'entrée envigueur de la présente loi.
+
+4. Les fonctionnaires et stagiaires des carrières du professeur-ingénieur et du professeur-architecte, en service à l'entrée en vigueur de la présente loi, qui remplissent les conditions d'admission ou de nomination aux fonctions de professeur de sciences de l'enseignement secondaire général, peuvent, sur leur demande, être admis au stage ou nommé aux fonctions précitées avec conservation des droits acquis.
+
+5. Les fonctionnaires des carrières du concierge et du gar çon de salle,détenteurs d'un certificat d'aptitude technique et professionnelle ou d'un diplôme ou certificat reconnu équivalent, en service à un lycée ou à un lycée technique à l'entrée en vigueur de la présente loi, peuvent être nommés aux fonctions de premier artisan s'ils ont subi avec succès l'examen de promotion de leur carrière initiale ou, pour les fonctionnaires de la carrière du concierge, s'ils en ont été dispensés conformément aux dispositions de l'article 17 du règlement grand-ducal modifié du 1er avril 1987 déterminant les conditions d'admission, de nomination et de promotion des fonctionnaires de la carrière du concierge dans les administrations et services de l'Etat. Ils sont admissibles sans délai à l'examen de promotion dans la carrière de l'artisan. Ils peuvent être nommés aux fonctions d'artisan principal après réussite de cet examen et sous réserve qu'ils peuvent se prévaloir de six années de grade à partir de leur première nomination de fonctionnaire. Les promotions ultérieures se font d'après leur classement au tableau d'avancement.
+
+6. Le professeur d'enseignement technique nommé au Lycée technique d'Ettelbruck à partir du 1er septembre 1973, détenteur d'un diplôme de doctorat en sciences de l'environnement délivré par la Fondation Universitaire Luxembourgeoise - Arlon en date du 23 juin 1988, peut être nommé aux fonctions de professeur avec le diplôme de docteur avec conservation des droits acquis.
+
+7. Le premier artisan principal hors cadre au Lycée technique Michel-Lucius, transféré des cadres de l'Armée, peut être nommé aux fonctions d'artisan dirigeant dès qu'il pourra se prévaloir de vingt-huit années de grade à partir de sa nomination aux fonctions d'artisan de l'Armée.
+
+8. Par dérogation aux dispositions de l'article 6bis de la loi modifiée et complétée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l'Etat, l'ingénieur-agronome de la spécialité «horticulture», en service à l'Administration des services techniques de l'Agriculture jusqu'au 31 décembre 1988, admis au stage pour les fonctions de professeur-ingénieur au Lycée technique agricole à partir du 1er janvier 1989, continuera à jouir de son traitement pendant la durée du stage. A partir de sa nomination aux fonctions de professeur-ingénieur, il conservera l'ancien traitement, arrêté au jour de la nomination, aussi longtemps qu'il est plus élevé que son nouveau traitement.
+
+9. La carrière de l'artisan dirigeant détenteur du certificat de fin d'études moyennes, section biologique et sociale, engagé en date du 1er septembre 1973 au Lycée technique d'Ettelbruck, est reconstituée par la prise en considération de l'indice 146 comme premier échelon du grade 3.
+
+10. La carrière de l'artisan, détenteur du certificat d'aide-chimiste, admis au stage en date du 1er mars 1989 au Lycée technique de Bonnevoie, est reconstituée par la prise en considération de l'indice 146 comme premier échelon du grade 3.
+
+11. Les trois ouvriers de l'Etat à tâche complète engagés en date des 15 novembre 1972, 1er janvier 1973 et 20 septembre 1973 et occupés respectivement au Lycée technique du Centre, au Lycée technique Mathias-Adam et au Lycée technique d'Esch-sur-Alzette à l'entrée en vigueur de la présente loi peuvent être nommés à la fonction de premier artisan principal aux mêmes établissements. Ils sont placés hors cadre par dépassement des effectifs légaux. Les intéressés bénéficient d'une reconstitution de carrière sur la base d'une nomination fictive se situant trois années après leur entrée au service de l'Etat. A cet effet, les dispositions de l'article 7, paragraphe 6, de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l'Etat ne leur sont pas applicables. Pour l'application des dispositions des articles 8 et 22 de cette même loi, les années passées au service de l'Etat en qualité d'ouvrier à tâche complète, déduction faite d'une période de trois années, leur sont mises en compte.
+
+12. Les deux ouvriers de l'Etat à tâche complète engagés en date des 1er octobre 1963 et 17 mars 1979 et occupés respectivement au Lycée technique de Mersch et au Lycée technique hôtelier Alexis Heck à l'entrée en vigueur de la présente loi sont nommés à la fonction d'artisan aux mêmes établissements. Ils sont admissibles sans délai à l'examen de promotion de leur carrière. Les intéressés bénéficient d'une reconstitution de carrière sur la base d'une nomination fictive se situant trois années après leur entrée en service de l'Etat. A cet effet, les dispositions de l'article 7, paragraphe 6, de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l'Etat ne leur sont pas applicables. Pour l'application des dispositions es articles 8 et 22 de cette même loi, les années passées au service de l'Etat en qualité d'ouvrier à tâche complète, déduction faite d'une période de trois années, leur sont mises en compte.
+
+13. Les deux ouvriers de l'Etat à tâche complète, engagés en date du 1er mars 1987 et du 10 mai 1989 et occupés respectivement au Lycée technique agricole et au Lycée technique d'Ettelbruck à l'entrée en vigueur de la présente loi, sont admis au stage pour les fonctions d'artisan aux mêmes établissements. A cet effet, ils sont dispensés de l'examen concours prévu pour l'accès à la carrière d'artisan.
+
+14. Les employés de l'Etat, qui remplissent les conditions d'études et de diplômes requises pour la nomination à la fonction d'éducateur prévue à l'article 19, section II, point 12, de la loi modifiée du 14 mars 1973 portant création d'instituts et de services d'éducation différenciée, occupés à tâche complète aux internats annexés au Lycée technique de Mersch et au Lycée technique du Nord, au moment de l'entrée en vigueur de la présente loi, peuvent être dispensés de l'examen-concours, du stage et de l'examen de fin de stage pour l'accès aux fonctions d'éducateur, s'ils peuvent faire valoir trois années de service au moins. Leur carrière sera reconstituée sur la base d'une nomination fictive se situant deux années après leur entrée en service en qualité d'employé. Les employés en service depuis moins de trois années peuvent être dispensés de l'examen-concours prévu pour l'accès à la carrière d'éducateur. Ils peuvent bénéficier d'une réduction de stage égale à la période passée en qualité d'employé de l'Etat à tâche complète.
 
 <a id="art-63"></a>
 ## Art. 63.
 
-Sont assimilés au diplôme de technicien: les diplômes de technicien-chimiste et technicien-biologiste créés par la loi du 21 août 1969 portant création de sections de chimie aux établissements d'enseignement technique et professionnel; le diplôme de technicien agricole créé par la loi du 12 novembre 1971 portant création d'un Institut d'enseignement agricole à Ettelbruck; le diplôme de technicien en électronique délivré par l'Ecole des Arts et Métiers.
+Sont assimilés au diplôme de technicien:
+
+- les diplômes de technicien-chimiste et technicien-biologiste créés par la loi du 21 août 1969 portant création de sections de chimie aux établissements d'enseignement technique et professionnel;
+
+- le diplôme de technicien agricole créé par la loi du 12 novembre 1971 portant création d'un Institut d'enseignement agricole à Ettelbruck;
+
+- le diplôme de technicien en électronique délivré par l'Ecole des Arts et Métiers.
 
 Les dispositions des articles 20 et 23 de la présente loi leur sont applicables.
 

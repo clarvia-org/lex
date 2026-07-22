@@ -37,6 +37,18 @@ Le service d’inspection, chargé de la surveillance, de la révision et du con
 <a id="art-2"></a>
 ## Art. 2.
 
+(1)
+
+La section 1 du service d’inspection, dénommée « inspection des services d’enregistrement et de recette, de la conservation des hypothèques et des domaines » est composée d’un ou de deux auditeurs.
+
+Le domaine de compétence de la section 1 comprend tous les bureaux visés aux articles 4, 5, 10 et 11.
+
+(2)
+
+La section 2 du service d’inspection, dénommée « inspection du service de la taxe sur la valeur ajoutée et des impôts sur les assurances » est composée d’un ou de deux auditeurs.
+
+Le domaine de compétence de la section 2 comprend tous les bureaux visés aux articles 6, 7 et 9.
+
 <a id="art-3"></a>
 ## Art. 3.
 
@@ -51,6 +63,32 @@ Le nombre des bureaux d’enregistrement et de recette est fixé à dix .
 
 Les bureaux d’enregistrement et de recette sont établis comme suit :
 
+1. Six bureaux à Luxembourg :
+
+1. le premier et le deuxième bureau des actes civils ;
+
+2. le bureau des successions ;
+
+3. le bureau de la taxe d’abonnement ;
+
+4. le bureau des amendes et recouvrements ;
+
+5. le bureau du guichet unique.
+
+2. Un bureau à Diekirch :
+
+1. le bureau des actes civils.
+
+3. Deux bureaux à Esch-sur-Alzette :
+
+1. le bureau des actes civils ;
+
+2. le bureau des successions.
+
+4. Un bureau à Grevenmacher :
+
+1. le bureau des actes civils.
+
 #### Chapitre 3 Le service des domaines
 
 <a id="art-5"></a>
@@ -59,6 +97,12 @@ Les bureaux d’enregistrement et de recette sont établis comme suit :
 Le nombre des bureaux des domaines est fixé à trois.
 
 Les bureaux des domaines sont établis comme suit :
+
+1. un bureau à Luxembourg ;
+
+2. un bureau à Diekirch ;
+
+3. un bureau à Esch-sur-Alzette.
 
 #### Chapitre 4 Le service de la taxe sur la valeur ajoutée et des impôts sur les assurances
 
@@ -69,6 +113,12 @@ La section d’assiette et de surveillance de la taxe sur la valeur ajoutée et 
 
 Les bureaux d’imposition sont établis comme suit :
 
+1. neuf bureaux à Luxembourg : Luxembourg I, II, III, IV, V, VI, X, XI et XII ;
+
+2. deux bureaux à Esch-sur-Alzette : Esch I et II ;
+
+3. deux bureaux à Diekirch : Diekirch I et II.
+
 Les bureaux d’imposition sont chargés de l’imposition et du contrôle de la taxe sur la valeur ajoutée et des impôts sur les assurances.
 
 <a id="art-7-20250401"></a>
@@ -78,12 +128,28 @@ Le bureau d’imposition compétent pour assurer l'application du règlement (UE
 
 Ce service, établi à Luxembourg, est en outre compétent pour :
 
+1. assurer l'application des dispositions des articles 56quinquies, 56sexies et 56septies de la loi modifiée du 12 février 1979 concernant la taxe sur la valeur ajoutée, sauf les opérations de recouvrement et de remboursement qui incombent au service visé à l'article 9 ;
+
+2. assurer l'assiette et la surveillance de la taxe sur la valeur ajoutée en ce qui concerne les représentants fiscaux au sens de l'article 60bis, paragraphe 15 et de l'article 66bis de la loi précitée du 12 février 1979.
+
 <a id="art-8"></a>
 ## Art. 8.
 
 La section de contrôle dénommée « service anti-fraude » est établie à Luxembourg, avec une section locale à Diekirch .
 
 Le service anti-fraude est chargé :
+
+1. des contrôles approfondis en matière de taxe sur la valeur ajoutée, des impôts sur les assurances, ainsi qu'en matière de droits d'enregistrement et de succession ;
+
+2. de la recherche et de la détection de toutes infractions en matière de taxe sur la valeur ajoutée, des impôts sur les assurances, ainsi qu'en matière de droits d'enregistrement et de succession ;
+
+3. de l'analyse et du suivi des résultats des contrôles visés à la lettre a) ;
+
+4. du traitement des demandes d'assistance transmises au service anti-fraude sur le fondement des dispositions communautaires et des conventions internationales ;
+
+5. de la participation aux activités prévues par les programmes d'action nationaux, communautaires et internationaux en matière de TVA .
+
+6. de la surveillance et des contrôles dans le cadre de la lutte contre le blanchiment et contre le financement du terrorisme.
 
 <a id="art-9"></a>
 ## Art. 9.
@@ -98,6 +164,12 @@ La recette centrale établie à Luxembourg, est chargée des opérations de reco
 Le nombre des bureaux des hypothèques est fixé à trois.
 
 Deux bureaux des hypothèques sont établis à Luxembourg et un à Diekirch :
+
+1. le premier bureau des hypothèques à Luxembourg comprend les cantons de Luxembourg, de Mersch, de Grevenmacher et de Remich ;
+
+2. le deuxième bureau des hypothèques à Luxembourg comprend les cantons d’Esch-sur-Alzette et de Capellen ;
+
+3. le bureau des hypothèques à Diekirch comprend les cantons de Diekirch, de Clervaux, d’Echternach, de Redange-sur-Attert, de Wiltz et de Vianden.
 
 <a id="art-11"></a>
 ## Art. 11.
@@ -119,6 +191,16 @@ Un bureau de contrôle blanchiment est établi à Luxembourg.
 ## Art. 12.
 
 Sont abrogés :
+
+1. Le règlement grand-ducal du 21 décembre 2004
+
+1. relatif à l’organisation et aux attributions du Service anti-fraude de l’administration de l’enregistrement et des domaines ;
+
+2. modifiant le règlement grand-ducal modifié du 25 novembre 1977 fixant l’organisation des services d’exécution de l’administration de l’enregistrement et des domaines ;
+
+2. Le règlement grand-ducal modifié du 25 octobre 2007 déterminant l’organisation de la direction de l’administration de l’enregistrement et des domaines et les attributions de son personnel ;
+
+3. Le règlement grand-ducal modifié du 19 mars 2014 fixant l’organisation des services d’exécution de l’administration de l’enregistrement et des domaines.
 
 <a id="art-13"></a>
 ## Art. 13.

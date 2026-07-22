@@ -574,7 +574,13 @@ L’opposition est recevable dans les huit jours qui suivent la remise de la let
 
 Il est alloué aux greffiers des justices de paix, déboursés non compris:
 
-1° pour chaque envoi de lettre recommandée fr. 125 2° pour la déclaration faite au greffe tendant au maintien de l’indivision ou à l’attribution de la maison » 200 3° pour copie de la dite déclaration fr. 200 4° pour la rédaction du procès-verbal d’indivision ou d’attribution de la maison » 300 5° pour l’acte de dépôt du rapport des experts, et pour communication (sans déplacement) aux intéressés du dit rapport, ensemble » 300 6° pour chaque copie du jugement » 200
+| 1° | pour chaque envoi de lettre recommandée | fr. | 125 |
+| --- | --- | --- | --- |
+| 2° | pour la déclaration faite au greffe tendant au maintien de l’indivision ou à l’attribution de la maison | » | 200 |
+| 3° | pour copie de la dite déclaration | fr. | 200 |
+| 4° | pour la rédaction du procès-verbal d’indivision ou d’attribution de la maison | » | 300 |
+| 5° | pour l’acte de dépôt du rapport des experts, et pour communication (sans déplacement) aux intéressés du dit rapport, ensemble | » | 300 |
+| 6° | pour chaque copie du jugement | » | 200 |
 
 #### Chapitre IX. Emploi du fonds des habitations à bon marché.
 

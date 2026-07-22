@@ -32,6 +32,16 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 Au sens du présent règlement, on entend par :
 
+1. « prélèvement », le prélèvement réalisé à des fins de dépistage ou diagnostique du virus SARS-CoV-2 qui peut être soit profond (nasopharyngé, oropharyngé), soit superficiel (nasal antérieur, buccal ou salivaire) ;
+
+2. « test rapide », un test manuel à orientation diagnostique de l’infection au virus SARS-CoV-2 et utilisant une technique d’analyse simplifiée consistant en un prélèvement qui sera ensuite déposé sur une bandelette ou un tube contenant un réactif ;
+
+3. « test rapide antigénique », un test rapide qui met en évidence la présence d’une protéine du virus SARS-CoV-2 ;
+
+4. « dispositif d’autodiagnostic », un test rapide antigénique, qui est autorisé à être utilisé par une personne profane selon les modalités du règlement grand-ducal modifié du 24 juillet 2001 relatif aux dispositifs médicaux de diagnostic in vitro. La liste des tests autorisés comme dispositifs d’autodiagnostic est publiée par le ministre ayant la santé dans ses attributions ;
+
+5. « test d’amplification génique », un test qui met en évidence la présence d’un ou de plusieurs gènes du virus SARS-CoV-2 par une technique de biologie moléculaire moyennant une amplification du génome viral.
+
 <a id="art-2"></a>
 ## Art. 2.
 
@@ -42,8 +52,64 @@ L’information visée à l’alinéa 1er porte sur l’objectif et le déroulem
 <a id="art-3"></a>
 ## Art. 3.
 
+(1)
+
+Sont autorisés à réaliser un prélèvement profond au sens de l’article 1er, point 1° :
+
+1. les médecins, autorisés à exercer leur profession au Luxembourg ;
+
+2. les pharmaciens, autorisés à exercer leur profession au Luxembourg ;
+
+3. les personnes exerçant une profession de santé telle que visée par la loi modifiée du 26 mars 1992 sur l’exercice et la revalorisation de certaines professions de santé, autorisées à exercer leur profession au Luxembourg ;
+
+4. les psychothérapeutes, autorisés à exercer leur profession au Luxembourg ;
+
+5. les psychologues, autorisés à exercer leur profession au Luxembourg ;
+
+6. les pompiers volontaires ou professionnels affectés au Corps grand-ducal d’incendie et de secours.
+
+7. les personnes disposant d’un diplôme donnant accès à la profession respectivement :
+
+- d’ « Arzthelfer/in » (assistant(e) médical(e)) délivré par un institut d’enseignement reconnu par la République Fédérale d’Allemagne ;
+
+- de « Medizinische/r Praxisassistent/in » (assistant(e) médical(e)) délivré par un institut d’enseignement reconnu par la Confédération suisse ;
+
+- d’ « Ordinationsassistent/in », délivré par un institut d’enseignement reconnu par la République d’Autriche.
+
+(2)
+
+Par dérogation au paragraphe 1er, seuls les médecins, les pharmaciens, les aides-soignants, les infirmiers, les infirmiers en anesthésie et réanimation, les infirmiers en pédiatrie, les infirmiers psychiatriques, les sages-femmes, les laborantins, les masseurs-kinésithérapeutes et les ostéopathes, autorisés à exercer leur profession au Luxembourg, peuvent réaliser des prélèvements sur les mineurs de moins de 15 ans accomplis au moment de la réalisation du prélèvement.
+
+(3)
+
+Préalablement à la réalisation d’un prélèvement profond, les personnes visées au paragraphe 1er, points 2° à 7 doivent avoir subi une formation validée par le ministre ayant la Santé dans ses attributions. Le contenu de cette formation est fixé à l’annexe du présent règlement grand-ducal.
+
+(4)
+
+Toute personne physique est autorisée à faire des prélèvements superficiels au sens de l’article 1er, point 1°, sur autrui, sans devoir se prévaloir d’une formation spéciale.
+
 <a id="art-4"></a>
 ## Art. 4.
+
+(1)
+
+Les tests rapides au sens de l’article 1er, points 2° à 4°, peuvent être réalisés par toute personne physique dans le strict respect du mode d’emploi fourni par le producteur du test, et dès lors que leur réalisation suppose un prélèvement superficiel au sens de l’article 1er, point 1°.
+
+(2)
+
+Le résultat des tests rapides au sens de l’article 1er, points 2° à 4°, peut être certifié par :
+
+1. un médecin, un pharmacien, un aide-soignant, un infirmier, un infirmier en anesthésie et réanimation, un infirmier en pédiatrie, un infirmier psychiatrique, une sage-femme, un laborantin, un masseur-kinésithérapeute, ou un ostéopathe, autorisés à exercer leur profession au Luxembourg, ou
+
+2. un fonctionnaire ou employé public désigné à cet effet par le directeur de la santé.
+
+Les personnes visées aux points 1° et 2° de l’alinéa 1er ne peuvent certifier que les résultats des tests rapides réalisés par elles-mêmes sur autrui ou ceux réalisés par la personne à tester sous leur surveillance directe.
+
+Le certificat est établi suivant un modèle élaboré par la Direction de la santé.
+
+(3)
+
+Les tests rapides au sens de l’article 1er, points 2° à 4°, sont des tests nominatifs.
 
 <a id="art-5"></a>
 ## Art. 5.

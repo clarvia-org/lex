@@ -52,6 +52,18 @@ L’indice 100 constitue le volume de leçons attribuées pour assurer l’ensei
 
 Les indices allant de 100 à 120 déterminent le volume des leçons attribuées pour répondre à des besoins en relation avec la composition socio-économique et socio-culturelle de la population scolaire. Ils sont établis par le Centre d’Études de Populations, de Pauvreté et de Politiques socio-économiques (CEPS) tous les trois ans
 
+- soit sur la base de données socio-économiques relevant des ménages ayant au moins un enfant scolarisé dans l’école publique luxembourgeoise. Dans ce cas la procédure de transmission des fichiers nécessaires à l’établissement des indices entre les administrations concernées est la suivante:
+
+1. l’inspection générale de la sécurité sociale (IGSS) anonymise sous forme de numéros les matricules des responsables d’éducation et les transmet à l’administration du ministère de l’éducation nationale;
+
+2. l’administration du ministère de l’éducation nationale y attache les informations permettant d’attribuer les numéros aux communes et les transmet au Centre d’Études de Populations, de Pauvreté et de Politiques socio-économiques (CEPS);
+
+3. l’inspection générale de la sécurité sociale (IGSS) transmet les numéros avec les données socio-économiques nécessaires à l’établissement des indices au Centre d’Études de Populations, de Pauvreté et de Politiques socio-économiques (CEPS);
+
+4. le Centre d’Études de Populations, de Pauvreté et de Politiques socio-économiques (CEPS) recoupe les deux fichiers contenant des données anonymisées.
+
+- soit sur la base de données socio-économiques relevant de la population résidante constituée des ménages ayant au moins un enfant entre 3 et 12 ans telles que transmises au Centre d’Études de Populations, de Pauvreté et de Politiques socio-économiques (CEPS) par l’inspection générale de la sécurité sociale (IGSS) sous forme de données anonymisées.
+
 <a id="art-6"></a>
 ## Art. 6.
 
@@ -73,6 +85,12 @@ Pour répondre à des besoins exceptionnels et sur demande motivée de la commun
 Chaque année la différence entre le nombre de leçons prévues par l’organisation scolaire de l’année qui a précédé la mise en œuvre du présent règlement et le nombre de leçons prévues par le contingent est réduite de 10%. Le nombre de leçons résultant de la soustraction est attribué à la commune ou au syndicat scolaire.
 
 Après la troisième année de mise en œuvre la commission d’experts instituée pour procéder aux études nécessaires à la planification des besoins en personnel établit un avis sur:
+
+- l’implémentation du contingent pour l’organisation scolaire dans les communes et les syndicats scolaires;
+
+- la pondération entre le volume de leçons attribuées pour assurer l’enseignement de base et le volume de leçons attribuées aux communes et syndicats scolaires pour répondre à des besoins spécifiques en relation avec la composition socio-économique et socio-culturelle de leur population scolaire;
+
+- l’effectif moyen d’élèves par classe à retenir comme norme pour assurer l’enseignement de base.
 
 <a id="art-10"></a>
 ## Art. 10.

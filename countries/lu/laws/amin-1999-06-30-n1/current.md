@@ -31,12 +31,23 @@ Les transferts de déchets d’huiles et de graisses végétales ou animales, de
 
 La valorisation des déchets d’huiles et de graisses végétales ou animales par biométhanisation dans une installation de production de biogaz peut toutefois être autorisée si une des conditions suivantes est remplie:
 
+- Les déchets proviennent directement d’une origine connue, sans intermédiaire et sans que d’autres déchets n’aient pu être rajoutés entre l’origine et l’installation de biométhanisation. Les risques de contamination doivent pouvoir être exclus (p. ex. absence de substances contaminantes à l’origine).
+
+- Les déchets proviennent d’origines différentes et sont mélangés auprès d’une installation dûment autorisée à cet effet. Pour chaque lot quittant cette installation une analyse de conformité prouve l’absence de substances contaminantes.
+
+- L’installation de biométhanisation fait elle-même à tout moment preuve de la disponibilité et du fonctionnement d’un contrôle analytique des différents lots d’huiles et de graisses acceptés.
+
 Les modalités d’application du présent article sont à déterminer dans les autorisations des installations concernées.
 
 <a id="article-2"></a>
 ## Article 2:
 
-La présente circulaire concerne notamment, mais pas exclusivement, les déchets suivants (selon la dénomination européenne): – 020399 Déchets non spécifiés ailleurs – 020204 Boues provenant du traitement in situ des effluents – 200125 Huiles et matières grasses alimentaires.
+La présente circulaire concerne notamment, mais pas exclusivement, les déchets suivants (selon la dénomination européenne):
+
+| – | 020399 | Déchets non spécifiés ailleurs |
+| --- | --- | --- |
+| – | 020204 | Boues provenant du traitement in situ des effluents |
+| – | 200125 | Huiles et matières grasses alimentaires. |
 
 <a id="article-3"></a>
 ## Article 3:

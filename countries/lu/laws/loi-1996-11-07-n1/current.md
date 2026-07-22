@@ -40,16 +40,66 @@ Le siège de ces juridictions est à Luxembourg.
 <a id="art-2"></a>
 ## Art. 2.
 
+(1)
+
+Le tribunal administratif statue sur les recours dirigés pour incompétence, excès et détournement de pouvoir, violation de la loi ou des formes destinées à protéger les intérêts privés, contre toutes les décisions administratives à l’égard desquelles aucun autre recours n’est admissible d’après les lois et règlements.
+
+(2)
+
+Dans les cas où des lois et règlements admettent contre une décision administrative le recours au Grand-Duc, la partie se prétendant lésée pourra néanmoins déférer cette décision au tribunal administratif pour les causes sus-énoncées. Dans ce cas, elle renonce au recours au Grand-Duc. Lorsque, en pareil cas, la partie intéressée s’est d’abord adressée au Grand-Duc, elle peut encore se pourvoir devant le tribunal administratif, mais seulement pour les causes ci-dessus énoncées, contre la décision qu’elle aura inutilement déférée au Grand-Duc.
+
+Le recours au tribunal administratif prévu au présent article est admis même contre les décisions qualifiées par les lois ou règlements de définitives ou en dernier ressort.
+
+(3)
+
+Sauf disposition contraire de la loi, appel peut être interjeté devant la Cour administrative contre les décisions du tribunal administratif visées ci-avant.
+
+(4)
+
+Lorsque le jugement ou l’arrêt annule la décision attaquée, l’affaire est renvoyée en cas d’annulation pour incompétence devant l’autorité compétente et, dans les autres cas, devant l’autorité dont la décision a été annulée, laquelle, en décidant du fond, doit se conformer audit jugement ou arrêt.
+
 <a id="art-3"></a>
 ## Art. 3.
 
+(1)
+
+Le tribunal administratif connaît en outre comme juge du fond des recours en réformation dont les lois spéciales attribuent connaissance au tribunal administratif.
+
+(2)
+
+Sauf disposition contraire de la loi, appel peut être interjeté devant la Cour administrative contre les décisions visées au paragraphe 1er.
+
 <a id="art-4"></a>
 ## Art. 4.
+
+(1)
+
+Dans les affaires contentieuses qui ne peuvent être introduites devant le tribunal administratif que sous forme de recours contre une décision administrative, lorsqu’un délai de trois mois s’est écoulé sans qu’il soit intervenu aucune décision, les parties intéressées peuvent considérer leur demande comme rejetée et se pourvoir devant le tribunal administratif.
+
+(2)
+
+La date du dépôt de la demande est constatée par un récépissé délivré à la partie intéressée par l’autorité administrative compétente ou son préposé. A défaut de décision, ce récépissé doit être produit par les parties à l’appui de leur recours.
+
+(3)
+
+Si l’administration n’a pas délivré de récépissé, le tribunal administratif apprécie, d’après les éléments du dossier, si le requérant apporte une preuve certaine qu’une réclamation a été remise par lui à l’administration à une date déterminée.
+
+(4)
+
+Sauf disposition contraire de la loi, appel peut être interjeté devant la Cour administrative contre les décisions visées au paragraphe 1er.
 
 ##### Section 2. Des recours en matière administrative dévolus en première instance aux autres juridictions administratives
 
 <a id="art-5"></a>
 ## Art. 5.
+
+(1)
+
+Les décisions des autres juridictions administratives peuvent être frappées d’appel devant la Cour administrative, sauf disposition contraire de la loi.
+
+(2)
+
+Lorsque l’arrêt annule la décision attaquée, l’affaire est renvoyée en cas d’annulation pour incompétence devant l’autorité compétente et, dans les autres cas, devant l’autorité dont la décision a été annulée, laquelle, en décidant du fond, doit se conformer audit arrêt.
 
 <a id="art-6"></a>
 ## Art. 6.
@@ -61,10 +111,52 @@ La Cour administrative statue en appel et comme juge du fond sur les recours dir
 <a id="art-7"></a>
 ## Art. 7.
 
+(1)
+
+Le tribunal administratif statue encore sur les recours dirigés pour incompétence, excès et détournement de pouvoir, violation de la loi ou des formes destinées à protéger les intérêts privés, contre les actes administratifs à caractère réglementaire, quelle que soit l’autorité dont ils émanent.
+
+(2)
+
+Ce recours n’est ouvert qu’aux personnes justifiant d’une lésion ou d’un intérêt personnel, direct, actuel et certain.
+
+Par dérogation à l’alinéa qui précède, le recours est encore ouvert aux associations d’importance nationale, dotées de la personnalité morale et agréées au titre d’une loi spéciale à exercer les droits reconnus à la partie civile en ce qui concerne les faits constituant une infraction au sens de cette loi spéciale.
+
+Le recours visé ci-avant n’est ouvert dans le chef des associations que pour autant que l’acte administratif à caractère réglementaire attaqué tire sa base légale de la loi spéciale dans le cadre de laquelle l’association requérante a été agréée.
+
+(3)
+
+La décision prononçant l’annulation est publiée de la même manière que l’acte administratif à caractère réglementaire attaqué, dès qu’elle est coulée en force de chose jugée. L’annulation a un caractère absolu, à partir du jour où elle est coulée en force de chose jugée.
+
+(4)
+
+Sauf disposition contraire de la loi, appel peut être interjeté devant la Cour administrative contre les décisions visées au paragraphe 1er.
+
 ##### Section 4. Des recours en matière fiscale
 
 <a id="art-8"></a>
 ## Art. 8.
+
+(1)
+
+Le tribunal administratif connaît des contestations relatives:
+
+1. aux impôts directs de l’Etat, à l’exception des impôts dont l’établissement et la perception sont confiés à l’Administration de l’Enregistrement et des Domaines et à l’Administration des Douanes et Accises et
+
+2. aux impôts et taxes communaux, à l’exception des taxes rémunératoires.
+
+(2)
+
+Appel peut être interjeté devant la Cour administrative contre les décisions visées au paragraphe 1er.
+
+(3)
+
+1. Le tribunal administratif connaît comme juge du fond des recours dirigés contre les décisions du directeur de l’Administration des contributions directes dans les cas où les lois relatives aux matières prévues au paragraphe (1) prévoient un tel recours.
+
+2. En cas d’application du §237 de la loi générale des impôts le tribunal administratif statue conformément aux dispositions de l’article 2.
+
+3. Lorsqu’une réclamation au sens du §228 de la loi générale des impôts ou une demande en application du §131 de cette loi a été introduite et qu’aucune décision définitive n’est intervenue dans le délai de six mois à partir de la demande, le réclamant ou le requérant peuvent considérer la réclamation ou la demande comme rejetées et interjeter recours devant le tribunal administratif contre la décision qui fait l’objet de la réclamation ou, lorsqu’il s’agit d’une demande de remise ou en modération, contre la décision implicite de refus. Dans ce cas le délai prévu au point 4, ci-après ne court pas.
+
+4. Le délai pour l’introduction des recours visés aux points 1. et 2. ci-avant est de trois mois.
 
 ##### Section 5. Des conflits entre le Gouvernement et la Chambre des comptes
 
@@ -82,12 +174,48 @@ La Chambre des comptes obtient communication des mémoires. Elle soumet ses obse
 <a id="art-9-1"></a>
 ## Art. 9-1.
 
+(1)
+
+Le tribunal administratif connaît comme juge de fond des recours en réformation dirigés contre les décisions de sanctions administratives communales telles que prévues par la loi 27 juillet 2022 relative aux sanctions administratives communales et à l’élargissement des compétences des agents municipaux.
+
+(2)
+
+Le tribunal administratif statue en dernier ressort.
+
+(3)
+
+Le délai pour l’introduction des recours est d’un mois à compter de la notification de la décision du fonctionnaire sanctionnateur.
+
+(4)
+
+Le recours est ouvert au destinataire de la décision.
+
+(5)
+
+Le recours a un effet suspensif.
+
+(6)
+
+Le tribunal administratif siège à juge unique.
+
 #### Chapitre 3.- De la cour administrative
 
 ##### Section 1. De la composition et du fonctionnement
 
 <a id="art-10"></a>
 ## Art. 10.
+
+(1)
+
+La Cour administrative est composée de sept membres, c’est-à-dire un président, deux vice-présidents, deux premiers conseillers et deux conseillers.
+
+Elle est complétée par cinq membres suppléants qui portent le titre de conseiller suppléant de la Cour administrative.
+
+(2)
+
+Le greffe de la Cour administrative est composé d’un greffier en chef et de greffiers.
+
+Les affectations et désaffectations des agents du greffe sont faites par le président de la Cour administrative.
 
 <a id="art-11-20250916"></a>
 ## Art. 11.
@@ -100,6 +228,20 @@ Les membres suppléants de la Cour administrative sont choisis parmi des candida
 ## Art. 12.
 
 Pour être membre de la Cour administrative, il faut:
+
+1. être de nationalité luxembourgeoise;
+
+2. jouir des droits civils et politiques;
+
+3. résider au Grand-Duché de Luxembourg;
+
+4. être âgé de trente ans accomplis;
+
+5. être titulaire d’un diplôme luxembourgeois de fin d’études universitaires en droit correspondant au grade de master reconnu ou d’un diplôme étranger de fin d’études universitaires en droit correspondant au grade de master, reconnu et homologué par le ministre ayant l’Enseignement supérieur dans ses attributions conformément à la loi modifiée du 18 juin 1969 sur l’enseignement supérieur et l’homologation des titres et grades étrangers d’enseignement supérieur;
+
+6. avoir accompli un service comme attaché de justice conformément aux dispositions de la loi sur les attachés de justice ;
+
+7. satisfaire aux conditions d’admissibilité définies par la loi modifiée du 7 juin 2012 sur les attachés de justice.
 
 <a id="art-13"></a>
 ## Art. 13.
@@ -139,6 +281,18 @@ Il veille à la prompte expédition des affaires.
 
 <a id="art-17"></a>
 ## Art. 17.
+
+(1)
+
+Avant le 15 février de chaque année, le président de la Cour administrative communique au Conseil national de la justice et au ministre de la justice un rapport d’activités portant sur :
+
+1. le fonctionnement de la cour pendant l’année judiciaire écoulée ;
+
+2. les statistiques qui précisent le nombre des affaires en instance, le nombre des affaires jugées et la durée des affaires.
+
+(2)
+
+Les rapports d’activités sont rendus publics.
 
 <a id="art-18"></a>
 ## Art. 18.
@@ -253,6 +407,18 @@ Lorsque les besoins du service l’exigent, peut être assumé en qualité de gr
 <a id="art-34"></a>
 ## Art. 34.
 
+(1)
+
+Aucun greffier de la Cour administrative ne peut s’absenter si le service va souffrir de son absence.
+
+(2)
+
+Pour pouvoir s’absenter, le greffier demande l’autorisation préalable du président de la Cour administrative.
+
+(3)
+
+Le président de la Cour administrative peut demander l’avis des magistrats auprès desquels le greffier est affecté.
+
 <a id="art-35-20250916"></a>
 ## Art. 35.
 
@@ -273,6 +439,18 @@ Les dispositions des deux articles qui précèdent ne s’appliquent pas aux abs
 <a id="art-37-1"></a>
 ## Art. 37-1.
 
+(1)
+
+Il est accordé une indemnité spéciale de cinquante points indiciaires par mois au magistrat de la Cour administrative quittant temporairement le service de la justice pour exercer à temps plein une fonction auprès soit d’une juridiction internationale ou européenne, soit d’une autre instance internationale ou européenne, soit d’une administration nationale, à condition que la loi ou une norme de droit supranational réserve cette fonction à un magistrat.
+
+(2)
+
+Lorsque le magistrat de la Cour administrative a la qualité de membre effectif ou de membre suppléant de la Cour de justice Benelux, celui-ci bénéficie d’une indemnité de vacation, équivalente à quarante points par affaire dans laquelle il intervient.
+
+(3)
+
+Les indemnités visées aux paragraphes 1er et 2 sont non pensionnables.
+
 <a id="art-37-2"></a>
 ## Art. 37-2.
 
@@ -291,6 +469,18 @@ Est qualifié faute disciplinaire tout acte commis dans l’exercice ou hors de 
 ## Art. 39.
 
 Les peines disciplinaires sont:
+
+1. l’avertissement;
+
+2. la réprimande;
+
+3. l’amende qui ne peut être inférieure à un dixième d’une mensualité brute du traitement de base, ni supérieure à cette même mensualité. Elle est recouvrable au moyen d’une contrainte non susceptible d’opposition, à décerner par le receveur de l’enregistrement:
+
+4. l’exclusion temporaire des fonctions, avec ou sans privation partielle ou totale de la rémunération pour une période de six mois au maximum. La période de l’exclusion ne compte pas comme temps de service pour le calcul des majorations biennales et la pension;
+
+5. la mise à la retraite;
+
+6. la révocation. La révocation emporte la perte de l’emploi, du titre et du droit à la pension sans préjudice des droits découlant de l’assurance rétroactive prévue en matière de coordination des régimes de pension.
 
 <a id="art-40-20250916"></a>
 ## Art. 40.
@@ -325,6 +515,14 @@ Les dispositions des paragraphes 2 à 9 de l’article 4 du titre 1er du livre 1
 ## Art. 45.
 
 Est suspendu de plein droit de l’exercice de ses fonctions, le membre de la Cour administrative
+
+1. détenu à titre répressif, pour la durée de sa détention;
+
+2. détenu préventivement, pour la durée de sa détention;
+
+3. contre lequel il existe une décision judiciaire non encore définitive qui porte ou emporte perte d’emploi, jusqu’à la décision définitive qui l’acquitte ou ne le condamne qu’à une peine moindre;
+
+4. condamné disciplinairement à la révocation ou à l’exclusion temporaire des fonctions par une décision non encore définitive, jusqu’à la fin de la procédure disciplinaire.
 
 <a id="art-46-20250916"></a>
 ## Art. 46.
@@ -402,6 +600,18 @@ Ces expéditions sont exécutoires.
 <a id="art-57"></a>
 ## Art. 57.
 
+(1)
+
+Le tribunal administratif est composé de vingt-neuf membres, c’est-à-dire un président, quatre premiers vice-présidents, huit vice-présidents, huit premiers juges et huit juges.
+
+Il est complété par neuf membres suppléants qui portent le titre de juge suppléant du tribunal administratif.
+
+(2)
+
+Le greffe du tribunal administratif est composé d’un greffier en chef et de greffiers.
+
+Les affectations et désaffectations des agents du greffe sont faites par le président de la Cour administrative après consultation du président du tribunal administratif.
+
 <a id="art-58-20250916"></a>
 ## Art. 58.
 
@@ -416,6 +626,20 @@ Les membres suppléants du tribunal administratif sont choisis parmi des candida
 
 Pour être membre du tribunal administratif, il faut:
 
+1. être de nationalité luxembourgeoise;
+
+2. jouir des droits civils et politiques;
+
+3. résider au Grand-Duché de Luxembourg;
+
+4. être âgé de vingt-cinq ans accomplis;
+
+5. être titulaire d’un diplôme luxembourgeois de fin d’études universitaires en droit correspondant au grade de master reconnu ou d’un diplôme étranger de fin d’études universitaires en droit correspondant au grade de master, reconnu et homologué par le ministre ayant l’Enseignement supérieur dans ses attributions conformément à la loi modifiée du 18 juin 1969 sur l’enseignement supérieur et l’homologation des titres et grades étrangers d’enseignement supérieur;
+
+6. avoir accompli un service comme attaché de justice conformément aux dispositions de la loi sur les attachés de justice;
+
+7. satisfaire aux conditions d’admissibilité définies par la loi modifiée du 7 juin 2012 sur les attachés de justice.
+
 <a id="art-60"></a>
 ## Art. 60.
 
@@ -425,6 +649,24 @@ Aucun d’eux ne peut être privé de sa place ni être suspendu que par un arr�
 
 <a id="art-61"></a>
 ## Art. 61.
+
+(1)
+
+Le tribunal administratif comprend sept chambres.
+
+Parmi les sept chambres, l’assemblée générale du tribunal administratif détermine annuellement le nombre de chambres spécialisées et le domaine de spécialisation de celles-ci.
+
+Le président du tribunal administratif répartit les affaires entre les sept chambres.
+
+(2)
+
+Le tribunal administratif siège, délibère et rend ses décisions au nombre de trois membres.
+
+Les décisions sont prises à la majorité des voix.
+
+Les décisions sont lues en audience publique par le président ou par un autre membre de la chambre qui a connu de l’affaire, délégué à cette fin, sans que la présence des autres membres soit requise.
+
+Les affaires sont plaidées et jugées en audience publique.
 
 <a id="art-62"></a>
 ## Art. 62.
@@ -444,6 +686,18 @@ Il veille à la prompte expédition des affaires.
 
 <a id="art-64"></a>
 ## Art. 64.
+
+(1)
+
+Avant le 15 février de chaque année, le président du tribunal administratif communique au Conseil national de la justice et au ministre de la justice un rapport d’activités portant sur :
+
+1. le fonctionnement du tribunal pendant l’année judiciaire écoulée ;
+
+2. les statistiques qui précisent le nombre des affaires en instance, le nombre des affaires jugées et la durée des affaires.
+
+(2)
+
+Les rapports d’activités sont rendus publics.
 
 <a id="art-65"></a>
 ## Art. 65.
@@ -536,6 +790,24 @@ Lorsque les besoins du service l’exigent, peut être assumé en qualité de gr
 
 <a id="art-75"></a>
 ## Art. 75.
+
+(1)
+
+Aucun greffier du tribunal administratif ne peut s’absenter si le service va souffrir de son absence.
+
+(2)
+
+Pour pouvoir s’absenter, le greffier demande l’autorisation préalable du président du tribunal administratif.
+
+Le président du tribunal administratif peut demander l’avis des magistrats auprès desquels le greffier est affecté.
+
+Le greffier informe le président de la Cour administrative avant son absence.
+
+(3)
+
+Les absences de plus d’un mois requièrent l’autorisation préalable du président de la Cour administrative.
+
+Le président de la Cour administrative peut demander l’avis du président du tribunal administratif et l’avis des magistrats auprès desquels le greffier est affecté.
 
 <a id="art-76-20250916"></a>
 ## Art. 76.
@@ -653,16 +925,48 @@ Les commissaires spéciaux ont droit à une indemnité. Elle est fixée par la j
 <a id="art-88"></a>
 ## Art. 88.
 
+(1)
+
+Il y a un greffe de la Cour administrative et un greffe du tribunal administratif.
+
+(2)
+
+Les services communs aux deux juridictions sont sous l’autorité du président de la Cour administrative.
+
+(3)
+
+Les affectations et désaffectations des agents des greffes et services communs sont faites dans les conditions déterminées par les articles 10 et 57.
+
 <a id="art-89"></a>
 ## Art. 89.
 
+(1)
+
+La Cour administrative et le tribunal administratif disposent d’un pool commun de référendaires de justice.
+
+(2)
+
+Les affectations et désaffectations sont faites par le président de la Cour administrative après consultation du président du tribunal administratif.
+
 <a id="art-90"></a>
 ## Art. 90.
+
+(1)
+
+Le cadre du personnel des juridictions de l’ordre administratif comprend des fonctionnaires des différentes catégories de traitement, telles que prévues par la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État.
+
+(2)
+
+Ce cadre peut être complété par des fonctionnaires stagiaires, des employés et salariés de l’État suivant les besoins du service et dans les limites des crédits budgétaires.
 
 <a id="art-91"></a>
 ## Art. 91.
 
 Le président de la Cour administrative propose :
+
+1. la nomination des fonctionnaires stagiaires et fonctionnaires de l’État ;
+
+2. l’engagement et le licenciement des employés et salariés de l’État.
 
 Les nominations du dernier grade du niveau supérieur dans chaque catégorie de traitement sont faites par le Grand-Duc. Les nominations aux autres grades sont faites par le ministre de la justice.
 
@@ -673,36 +977,111 @@ L’engagement et le licenciement des salariés de l’État sont faits par le m
 <a id="art-91-1"></a>
 ## Art. 91-1.
 
+(1)
+
+Le personnel des juridictions de l’ordre administratif doit présenter les garanties d’honorabilité requises pour l’exercice de la fonction.
+
+Sur demande du président de la Cour administrative, le procureur général d’État émet un avis sur l’honorabilité des candidats.
+
+(2)
+
+L’avis du procureur général d’État fait état des :
+
+1. inscriptions au bulletin N° 2 du casier judiciaire ;
+
+2. informations issues d’une décision de justice qui constate des faits relatifs à une condamnation pénale pour crime ou délit et pour laquelle la réhabilitation n’est pas déjà acquise au moment de la présentation de la candidature ;
+
+3. informations issues d’un procès-verbal de police qui constate des faits susceptibles de constituer un crime ou délit lorsque ces faits font l’objet d’une procédure pénale en cours, à l’exclusion des faits ayant abouti à une décision d’acquittement, de non-lieu ou de classement sans suites.
+
+(3)
+
+Lorsque le candidat possède la nationalité d’un pays étranger ou qu’il réside ou a résidé sur le territoire d’un pays étranger, le procureur général d’État peut lui demander la remise d’un extrait du casier judiciaire ou d’un document similaire délivré par l’autorité publique compétente du pays étranger concerné.
+
+Le procureur général d’État fait état dans son avis des informations issues de l’extrait du casier judiciaire ou d’un document similaire délivré par l’autorité publique compétente du pays étranger concerné.
+
+(4)
+
+Pendant toute la durée où les faits en cause sont couverts par le secret de l’instruction prévu par l’article 8 du Code de procédure pénale, l’avis du procureur général d’État indique uniquement :
+
+1. le nom, les prénoms, la date et le lieu de naissance du candidat ainsi que son numéro d’identification au sens de la loi modifiée du 19 juin 2013 relative à l’identification des personnes physiques ;
+
+2. la qualification juridique des faits reprochés.
+
+(5)
+
+L’avis du procureur général d’État est détruit six mois à compter du jour où la décision sur la candidature a acquis force de chose décidée ou jugée.
+
 <a id="art-92"></a>
 ## Art. 92.
 
-Avant d’entrer en fonctions, les fonctionnaires visés à l’article 90 prêtent, entre les mains du président de la Cour administrative, le serment suivant : « Je jure fidélité au Grand-Duc, obéissance à la Constitution et aux lois de l’État. Je promets de remplir mes fonctions avec intégrité, exactitude et impartialité. »
+Avant d’entrer en fonctions, les fonctionnaires visés à l’article 90 prêtent, entre les mains du président de la Cour administrative, le serment suivant :
+
+« Je jure fidélité au Grand-Duc, obéissance à la Constitution et aux lois de l’État. Je promets de remplir mes fonctions avec intégrité, exactitude et impartialité. »
 
 #### Chapitre 8.- Dispositions diverses
 
 <a id="art-93"></a>
 ## Art. 93.
 
-Les nouvelles fonctions créées par la présente loi sont classées comme suit: le président de la Cour administrative grade M7 le vice-président de la Cour administrative grade M6 le président du tribunal administratif grade M6 le premier conseiller de la Cour administrative grade M5 le 1er vice-président du tribunal administratif grade M5 le conseiller de la Cour administrative grade M4 le vice-président du tribunal administratif grade M4 le premier juge du tribunal administratif grade M3 le juge du tribunal administratif grade M2
+Les nouvelles fonctions créées par la présente loi sont classées comme suit:
+
+| le président de la Cour administrative | grade M7 |
+| --- | --- |
+| le vice-président de la Cour administrative | grade M6 |
+| le président du tribunal administratif | grade M6 |
+| le premier conseiller de la Cour administrative | grade M5 |
+| le 1er vice-président du tribunal administratif | grade M5 |
+| le conseiller de la Cour administrative | grade M4 |
+| le vice-président du tribunal administratif | grade M4 |
+| le premier juge du tribunal administratif | grade M3 |
+| le juge du tribunal administratif | grade M2 |
 
 <a id="art-95"></a>
 ## Art. 95.
 
-L’article 1er (2) alinéa 1er de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’Etat est modifié comme suit: Le présent statut s’applique également aux magistrats des ordres judiciaire et administratif et aux greffiers, sous réserve des dispositions inscrites à la Constitution, à la loi sur l’organisation judiciaire et à la loi portant organisation des juridictions de l’ordre administratif et concernant notamment le recrutement, l’inamovibilité, les incompatibilités, la résidence, les absences et les congés, le service des audiences et la discipline. Le présent statut s’applique également aux magistrats des ordres judiciaire et administratif et aux greffiers, sous réserve des dispositions inscrites à la Constitution, à la loi sur l’organisation judiciaire et à la loi portant organisation des juridictions de l’ordre administratif et concernant notamment le recrutement, l’inamovibilité, les incompatibilités, la résidence, les absences et les congés, le service des audiences et la discipline.
+L’article 1er (2) alinéa 1er de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’Etat est modifié comme suit: Le présent statut s’applique également aux magistrats des ordres judiciaire et administratif et aux greffiers, sous réserve des dispositions inscrites à la Constitution, à la loi sur l’organisation judiciaire et à la loi portant organisation des juridictions de l’ordre administratif et concernant notamment le recrutement, l’inamovibilité, les incompatibilités, la résidence, les absences et les congés, le service des audiences et la discipline.
 
 #### Chapitre 9.- Des dispositions transitoires, modificatives, budgétaires et abrogatoires et de l’entrée en vigueur
 
 <a id="art-96"></a>
 ## Art. 96.
 
+(1)
+
+Les recours introduits devant le Comité du contentieux régi par la loi applicable au moment de l’entrée en vigueur de la présente loi et ceux qui ont donné lieu à un arrêt d’avant dire droit sont transmis sans autre forme de procédure soit à la Cour administrative, soit au tribunal administratif, d’après les règles de compétence établies par la présente loi.
+
+(2)
+
+Aucun appel ne peut être relevé contre une décision du Comité du contentieux régi par la loi applicable au moment de l’entrée en vigueur de la présente loi.
+
 <a id="art-97"></a>
 ## Art. 97.
+
+(1)
+
+Les affaires pendantes devant l’actuel Comité du Contentieux en matière fiscale sont de plein droit transmises au tribunal administratif.
+
+(2)
+
+Les réclamations et les demandes en remise ou en modération actuellement pendantes devant le directeur de l’Administration des contributions directes peuvent être considérées après un écoulement de six mois après la mise en vigueur de la présente loi comme rejetées et recours peut être interjeté devant le tribunal administratif contre la décision frappée de réclamation ou, lorsqu’il s’agit d’une demande de remise ou en modération, contre la décision implicite de refus. Dans ce cas, le délai prévu à l’article 8, alinéa (3) 4. de la présente loi ne court pas.
 
 <a id="art-98"></a>
 ## Art. 98.
 
+(1)
+
+En attendant l’entrée en vigueur des loi et règlement grand-ducal visés aux articles 55 et 82, l’arrêté royal grand-ducal du 21 août 1866 portant règlement de procédure en matière de contentieux devant le Conseil d’Etat, tel qu’il a été modifié dans la suite, reste en vigueur, sans préjudice des dispositions dérogatoires de la présente loi. De même, restent en vigueur l’arrêté royal grand-ducal modifié du 4 juillet 1883 concernant le tarif des dépens en matière contentieuse devant le Conseil d’Etat et le règlement grand-ducal du 27 octobre 1995 portant fixation des indemnités et des frais de voyage et de séjour des membres suppléants du comité du contentieux.
+
 <a id="art-100"></a>
 ## Art. 100.
+
+(1)
+
+Dans tous les textes de loi et de règlement, la référence au Comité du contentieux ou au Comité du contentieux du Conseil d’Etat ou encore au Conseil d’Etat tout court, si la fonction juridictionnelle du Conseil d’Etat est visée, s’entend comme référence au tribunal administratif, tel qu’il est organisé par la présente loi. De même, dans ces textes, la référence au président du Conseil d’Etat ou du Comité du contentieux, si sa fonction juridictionnelle est visée, s’entend comme référence au président du tribunal administratif. Dans l’hypothèse visée à l’article 88-3 du Code d’instruction criminelle, les termes président du Comité du contentieux du Conseil d’Etat sont remplacés par les termes président de la Cour administrative.
+
+(2)
+
+le recours visé à l’article 107 de la loi communale du 13 décembre 1988 est porté devant la Cour administrative.
 
 <a id="art-101"></a>
 ## Art. 101.
@@ -719,21 +1098,35 @@ Aucun membre effectif du Comité du contentieux en fonctions avant l’entrée e
 
 Le paragraphe (9) de l’article 15 de la loi modifiée du 28 mars 1972 concernant
 
-(9) Contre les décisions visées aux paragraphes (1) et (2) un recours est ouvert devant le tribunal administratif, qui statue comme juge du fond. Ce recours doit être introduit dans le délai d’un mois à partir de la notification. Le tribunal administratif statue d’urgence et en tout cas dans les dix jours de l’introduction de la requête. Contre la décision du tribunal administratif appel peut être interjeté devant la Cour administrative. A peine de forclusion le recours doit être introduit dans le délai de trois jours à partir de la notification de la décision du tribunal administratif. La Cour administrative statue d’urgence et en tout cas dans les dix jours de l’introduction de la requête. Pendant le délai et l’instance d’appel il sera sursis à l’exécution des jugements ayant annulé ou réformé des décisions attaquées. Contre les décisions visées aux paragraphes (1) et (2) un recours est ouvert devant le tribunal administratif, qui statue comme juge du fond. Ce recours doit être introduit dans le délai d’un mois à partir de la notification. Le tribunal administratif statue d’urgence et en tout cas dans les dix jours de l’introduction de la requête. Contre la décision du tribunal administratif appel peut être interjeté devant la Cour administrative. A peine de forclusion le recours doit être introduit dans le délai de trois jours à partir de la notification de la décision du tribunal administratif. La Cour administrative statue d’urgence et en tout cas dans les dix jours de l’introduction de la requête. Pendant le délai et l’instance d’appel il sera sursis à l’exécution des jugements ayant annulé ou réformé des décisions attaquées.
+1. l’entrée et le séjour des étrangers;
+
+2. le contrôle médical des étrangers;
+
+3. l’emploi de la main d’oeuvre étrangère est remplacé comme suit:
+
+(9) Contre les décisions visées aux paragraphes (1) et (2) un recours est ouvert devant le tribunal administratif, qui statue comme juge du fond. Ce recours doit être introduit dans le délai d’un mois à partir de la notification. Le tribunal administratif statue d’urgence et en tout cas dans les dix jours de l’introduction de la requête. Contre la décision du tribunal administratif appel peut être interjeté devant la Cour administrative. A peine de forclusion le recours doit être introduit dans le délai de trois jours à partir de la notification de la décision du tribunal administratif. La Cour administrative statue d’urgence et en tout cas dans les dix jours de l’introduction de la requête. Pendant le délai et l’instance d’appel il sera sursis à l’exécution des jugements ayant annulé ou réformé des décisions attaquées.
 
 <a id="art-104"></a>
 ## Art. 104.
 
 La loi du 3 avril 1996 portant création d’une procédure relative à l’examen d’une demande d’asile est modifiée comme suit:
 
-1) L’article 10 est complété comme suit: Contre les décisions du tribunal administratif appel peut être interjeté devant la Cour administrative. Le recours doit être introduit dans le délai d’un mois à partir de la notification par les soins du greffe. Le recours a un effet suspensif. Contre les décisions du tribunal administratif appel peut être interjeté devant la Cour administrative. Le recours doit être introduit dans le délai d’un mois à partir de la notification par les soins du greffe. Le recours a un effet suspensif.
+1) L’article 10 est complété comme suit: Contre les décisions du tribunal administratif appel peut être interjeté devant la Cour administrative. Le recours doit être introduit dans le délai d’un mois à partir de la notification par les soins du greffe. Le recours a un effet suspensif.
 
-2) L’article 13 est complété comme suit: Contre les décisions du tribunal administratif appel peut être interjeté devant la Cour administrative. Le recours doit être introduit dans le délai d’un mois à partir de la notification par les soins du greffe. Le recours a un effet suspensif. Contre les décisions du tribunal administratif appel peut être interjeté devant la Cour administrative. Le recours doit être introduit dans le délai d’un mois à partir de la notification par les soins du greffe. Le recours a un effet suspensif.
+2) L’article 13 est complété comme suit: Contre les décisions du tribunal administratif appel peut être interjeté devant la Cour administrative. Le recours doit être introduit dans le délai d’un mois à partir de la notification par les soins du greffe. Le recours a un effet suspensif.
 
 <a id="art-105"></a>
 ## Art. 105.
 
-Il est ajouté à la loi du 13 mars 1993 relative à l’exécution en droit luxembourgeois de la Directive n° 89/665 du Conseil du 21 décembre 1989 portant coordination des dispositions législatives, réglementaires et administratives relatives à l’application des procédures de recours en matière de marchés publics un article 10 libellé comme suit: Art. 10. Contre l’ordonnance de référé du Président du tribunal administratif appel peut être interjeté devant le Président de la Cour administrative dans un délai de quinze jours à partir de la signification. Contre l’ordonnance de référé du Président du tribunal administratif appel peut être interjeté devant le Président de la Cour administrative dans un délai de quinze jours à partir de la signification.
+Il est ajouté à la loi du 13 mars 1993 relative à l’exécution en droit luxembourgeois de la Directive n° 89/665 du Conseil du 21 décembre 1989 portant coordination des dispositions législatives, réglementaires et administratives relatives à l’application des procédures de recours en matière de marchés publics un article 10 libellé comme suit: Art. 10. Contre l’ordonnance de référé du Président du tribunal administratif appel peut être interjeté devant le Président de la Cour administrative dans un délai de quinze jours à partir de la signification.
 
 <a id="art-109"></a>
 ## Art. 109.
+
+(1)
+
+Le deuxième alinéa du § (1) de l’article 2 de la loi modifiée du 10 août 1991 sur la profession d’avocat est remplacé comme suit: Les dispositions de l’alinéa précédent ne font pas obstacle à l’application de dispositions législatives spéciales et à la faculté: des assurés sociaux de se faire assister ou représenter par un délégué de leur organisation professionnelle ou syndicale devant le Conseil arbitral ou le Conseil supérieur des assurances sociales, des justiciables d’agir par eux-mêmes ou de se faire représenter ou assister par un expert-comptable ou un réviseur d’entreprises, dûment autorisés à exercer leur profession, devant le tribunal administratif appelé à connaître d’un recours en matière de contributions directes, de l’Etat, des communes et des autres personnes morales de droit public de se faire représenter ou assister par un fonctionnaire ou un agent de leur administration, dûment mandaté, devant la justice de paix, devant le président du tribunal d’arrondissement ou le juge qui le remplace, statuant en matière de référé, du ministère public, de représenter des parties en justice dans les cas prévus par la loi.
+
+(2)
+
+Toutes les dispositions légales ou réglementaires prévoyant la dispense du ministère d’avocat devant la Cour administrative et le tribunal administratif sont abrogées.

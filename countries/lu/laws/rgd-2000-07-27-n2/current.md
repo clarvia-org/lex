@@ -123,6 +123,18 @@ Le président énonce nominativement les suffrages. Deux des membres du bureau �
 
 Seront nuls, outre les bulletins mentionnés à l'article 11 alinéa 3:
 
+1. les bulletins autres que ceux envoyés aux électeurs;
+
+2. les bulletins ne contenant l'expression d'aucun suffrage;
+
+3. les bulletins contenant plus de suffrages qu'il n'y a de membres à élire;
+
+4. les bulletins sur lesquels le votant se sera fait connaître et notamment ceux portant une marque ou un signe distinctif quelconque, ceux renfermés dans une enveloppe marquée ou dans une enveloppe autre que celle délivrée par le président du bureau électoral;
+
+5. les bulletins dont l'enveloppe de renvoi ne porte pas de signature;
+
+6. les bulletins non renfermés dans deux enveloppes.
+
 <a id="art-13"></a>
 ## Art. 13 .
 

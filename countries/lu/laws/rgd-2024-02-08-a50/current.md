@@ -30,6 +30,18 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 Le ministre ayant le Tourisme dans ses attributions est autorisé à subventionner les projets énumérés ci-après :
 
+1. la transformation intérieure du bâtiment du Musée européen à Schengen et la réalisation d’une nouvelle scénographie dans le musée et sur l’ancien bateau MS Princesse Marie-Astrid 2.
+
+2. la construction par l’Asbl CIGR Mëllerdall, d’un bâtiment pour les besoins du service de location de vélos « Rentabike Mëllerdall » à Beaufort ;
+
+3. l’aménagement, par la commune de Weiswampach, de l’entrée principale du lac de baignade de Weiswampach.
+
+4. la construction, par la commune de Beaufort, d’un nouveau centre d’accueil pour les besoins du Natur- & Geopark Mëllerdall à Beaufort ;
+
+5. le réaménagement, par la Ville de Remich, de la place Dr F. Kons à Remich ;
+
+6. la modernisation, par la Ville de Vianden, de la piscine plein air de Vianden (phases II et III).
+
 <a id="art-2"></a>
 ## Art. 2.
 

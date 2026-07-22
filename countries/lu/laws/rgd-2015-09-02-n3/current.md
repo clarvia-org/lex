@@ -32,10 +32,24 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 <a id="art-1er"></a>
 ## Art. 1er.
 
+Composition
+
 La commission consultative, désignée ci-après par «commission», comprend 12 membres effectifs, à savoir:
+
+1. quatre représentants du ministre ayant la Culture dans ses attributions,
+
+2. deux représentants du ministre ayant le Travail et l’Emploi dans ses attributions,
+
+3. deux artistes professionnels indépendants tels que définis à l’ article 1 er , paragraphe 1-0, point 6, de la loi modifiée du 19 décembre 2014 relative 1) aux mesures de soutien pour les artistes professionnels indépendants et pour les intermittents du spectacle 2) à la promotion de la création artistique, ci-après « loi » ,
+
+4. deux représentants des entreprises de spectacle et de productions audiovisuelles dont un au moins représente une association regroupant de telles entreprises,
+
+5. deux intermittents du spectacle au sens de l’article 1 er , paragraphe 1-0, point 7, de la loi dont un au moins représente une association regroupant des intermittents du spectacle.
 
 <a id="art-2"></a>
 ## Art. 2.
+
+Nominations
 
 Les membres de la commission sont nommés par le ministre ayant la Culture dans ses attributions pour un terme renouvelable de trois ans. Pour chaque membre effectif, il est nommé un membre suppléant qui remplace définitivement un membre effectif en cas de vacance de poste et qui termine son mandat. Au cas où un membre effectif ne pourrait délibérer sur un ou plusieurs dossiers, il est ponctuellement remplacé par un membre suppléant. En cas de vacance de poste d’un membre suppléant, un nouveau membre suppléant sera nommé par le ministre compétent.
 
@@ -45,6 +59,8 @@ Le président, le vice-président et le secrétaire constituent le bureau de la 
 
 <a id="art-3"></a>
 ## Art. 3.
+
+Fonctionnement
 
 La commission se réunit aussi souvent que sa mission l’exige. Sauf en cas d’urgence, dont l’appréciation relève du président, les convocations pour les séances de la commission sont faites au moins cinq jours à l’avance. L’ordre du jour fait partie intégrante de la convocation. Le président coordonne les travaux et dirige les séances. En l’absence du président, le vice-président assume ces tâches.
 
@@ -69,6 +85,8 @@ La commission peut se donner un règlement interne de fonctionnement.
 <a id="art-4"></a>
 ## Art. 4.
 
+Bureau de la commission et experts
+
 Le bureau de la commission se réunit à la demande du président et a pour mission de préparer les réunions de la commission et d’assister les membres dans l’accomplissement de leurs tâches.
 
 À la demande des membres et du bureau ainsi que de l’accord de la commission, des experts peuvent être chargés de certains dossiers et assister à la réunion du bureau et de la commission. Les conclusions des experts sont toujours soumises à la commission et au ministre compétent.
@@ -82,6 +100,8 @@ Pour les autres séances de la commission, les membres qui y siègent en tant qu
 
 <a id="art-6"></a>
 ## Art. 6.
+
+Disposition abrogatoire
 
 Le règlement grand-ducal du 21 février 2000 déterminant la mission, la composition et le fonctionnement de la commission consultative prévue par la loi du 30 juillet 1999 concernant a) le statut de l’artiste professionnel indépendant et l’intermittent du spectacle et b) la promotion de la création artistique est abrogé.
 

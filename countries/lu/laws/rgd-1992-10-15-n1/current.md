@@ -37,7 +37,19 @@ Les représentants des agents au conseil d’administration de l’entreprise so
 
 Pour être électeur ou éligible, l'agent doit :
 
-Pour être éligible, l'électeur doit en plus: - être âgé de 21 ans au moins au jour de l’élection; - occuper un emploi salarié à temps plein auprès de l’entreprise; - faire partie du personnel de l’entreprise d’une façcon ininterrompue depuis trois années au moins à la date à laquelle la liste des électeurs est arrêtée provisoirement conformément à l’article 5 alinéa 1er.
+- avoir acquis l'âge de la majorité civile au jour de l'élection ;
+
+- faire partie du personnel de l'entreprise d'une façon ininterrompue depuis 6 mois au moins à la date à laquelle la liste des électeurs est arrêtée provisoirement conformément à l'article 5 alinéa 1 er ;
+
+- ne bénéficier ni d'un congé sans traitement ni d'un congé spécial au sens de la loi du 27 août 1977 concernant le statut des fonctionnaires entrés au service d'institutions internationales.
+
+Pour être éligible, l'électeur doit en plus:
+
+- être âgé de 21 ans au moins au jour de l’élection;
+
+- occuper un emploi salarié à temps plein auprès de l’entreprise;
+
+- faire partie du personnel de l’entreprise d’une façcon ininterrompue depuis trois années au moins à la date à laquelle la liste des électeurs est arrêtée provisoirement conformément à l’article 5 alinéa 1er.
 
 <a id="art-2"></a>
 ## Art 2.
@@ -85,7 +97,11 @@ Les réclamations, recours, actes de procédure et expéditions en matière éle
 <a id="art-9"></a>
 ## Art 9.
 
-Les listes de candidats sont à présenter par vingt-cinq électeurs.Chaque liste de candidats doit être accompagnée: a) d’une attestation délivrée par le service du personnel à chaque candidat, à chaque électeur qui la présente et à chaque témoin ou témoin suppléant, certifiant qu’il est électeur ; b) d’une déclaration signée par les candidats et confirmant qu’ils acceptent la candidature sur cette liste.
+Les listes de candidats sont à présenter par vingt-cinq électeurs.Chaque liste de candidats doit être accompagnée:
+
+a) d’une attestation délivrée par le service du personnel à chaque candidat, à chaque électeur qui la présente et à chaque témoin ou témoin suppléant, certifiant qu’il est électeur ;
+
+b) d’une déclaration signée par les candidats et confirmant qu’ils acceptent la candidature sur cette liste.
 
 Le nombre de candidats à élire est calculé selon la clé de répartition arrêtée par le règlement grand-ducal du 20 juillet 2017 arrêtant les modalités de répartition des sièges des représentants du personnel au conseil d’administration de l’entreprise des postes et télécommunications.
 
@@ -239,7 +255,23 @@ Les suffrages exprimés sur les bulletins reconnus valables après le contrôle 
 <a id="art-25"></a>
 ## Art 25.
 
-Sont nuls: 1o tous les bulletins autres que ceux envoyés ou remis par le président de la commission chargée du dépouillement du vote aux électeurs; 2o ce bulletin même a) s’il exprime plus de de suffrages que le double du nombre de candidats à élire , b) s’il porte une marque ou un signe distinctif quelconque, ou s’il est renfermé dans une enveloppe marquée ou dans une enveloppe autre que celle délivrée par le président, c) si le votant s’y fait connaître, d) s’il contient à l’intérieur un papier ou un objet quelconque, e) s’il a été posté par l’électeur au bureau expéditeur postérieurement au jour des élections, f) si la première enveloppe, portant la mention «Election des représentants du personnel au conseil d’administration de l’Entreprise des Postes etTélécommunications» n’a pas été fermée.
+Sont nuls:
+
+1o tous les bulletins autres que ceux envoyés ou remis par le président de la commission chargée du dépouillement du vote aux électeurs;
+
+2o ce bulletin même
+
+a) s’il exprime plus de de suffrages que le double du nombre de candidats à élire ,
+
+b) s’il porte une marque ou un signe distinctif quelconque, ou s’il est renfermé dans une enveloppe marquée ou dans une enveloppe autre que celle délivrée par le président,
+
+c) si le votant s’y fait connaître,
+
+d) s’il contient à l’intérieur un papier ou un objet quelconque,
+
+e) s’il a été posté par l’électeur au bureau expéditeur postérieurement au jour des élections,
+
+f) si la première enveloppe, portant la mention «Election des représentants du personnel au conseil d’administration de l’Entreprise des Postes etTélécommunications» n’a pas été fermée.
 
 <a id="art-26"></a>
 ## Art 26.
@@ -272,7 +304,19 @@ Si une liste obtient plus de représentants qu'elle n'a présenté de candidats 
 
 Le procès-verbal concernant les opérations de dépouillement de scrutin est rédigé et signé séance tenante en double exemplaire par les membres de la commission.
 
-Le procès-verbal comporte notamment les indications suivantes: 1. le nombre total des votants, 2. le nombre des bulletins nuls et des bulletins valables, 3. le nombre total des suffrages de liste ainsi que celui des suffrages nominatifs obtenu par chaque liste, 4. le nombre de sièges attribués aux différentes listes, 5. les noms et prénoms des candidats élus, 6. les noms et prénoms des candidats non élus de chaque liste dans l’ordre du nombre des suffrages nominatifs qui leur a été attribué, ceci à l’effet de pourvoir aux remplacements qui s’imposent en vertu du présent règlement et de la loi du 10 août 1992 portant création de l’Entreprise des Postes etTélécommunications.
+Le procès-verbal comporte notamment les indications suivantes:
+
+1. le nombre total des votants,
+
+2. le nombre des bulletins nuls et des bulletins valables,
+
+3. le nombre total des suffrages de liste ainsi que celui des suffrages nominatifs obtenu par chaque liste,
+
+4. le nombre de sièges attribués aux différentes listes,
+
+5. les noms et prénoms des candidats élus,
+
+6. les noms et prénoms des candidats non élus de chaque liste dans l’ordre du nombre des suffrages nominatifs qui leur a été attribué, ceci à l’effet de pourvoir aux remplacements qui s’imposent en vertu du présent règlement et de la loi du 10 août 1992 portant création de l’Entreprise des Postes etTélécommunications.
 
 Un exemplaire du procès-verbal de la commission ainsi que les bulletins valables et nuls sont envoyés au ministre compétent.
 

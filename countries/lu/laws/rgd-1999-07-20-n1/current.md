@@ -30,6 +30,34 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 Le comité d'accompagnement tel qu'il a été institué par la loi du 10 juin 1999 relative aux établissements classés et dénommé ci-après «le comité» se compose comme suit:
 
+- 1 délégué du ministre ayant dans ses attributions l'environnement;
+
+- 1 délégué du ministre ayant dans ses attributions l'économie;
+
+- 1 délégué du ministre ayant dans ses attributions les classes moyennes;
+
+- 1 délégué du ministre ayant dans ses attributions l'agriculture;
+
+- 2 représentants de l'Administration de l'environnement;
+
+- 1 représentant de l'Inspection du travail et des mines;
+
+- 1 représentant de l'Administration de la gestion de l'eau;
+
+- 1 représentant de la Chambre des Métiers;
+
+- 1 représentant de la Chambre de Commerce;
+
+- 1 représentant de la Chambre d'Agriculture;
+
+- 1 représentant de la Chambre des Salariés;
+
+- 1 représentant du Mouvement écologique;
+
+- 1 représentant de la Ligue Luxembourgeoise pour la protection de la nature et des oiseaux;
+
+- 1 représentant du SYVICOL.
+
 <a id="art-2"></a>
 ## Art. 2.
 

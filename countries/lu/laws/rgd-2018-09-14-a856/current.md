@@ -32,6 +32,8 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 <a id="art-1er"></a>
 ## Art. 1er.
 
+Organisation et fréquentation des formations
+
 Les matières sont enseignées sous forme de sessions de formation.
 
 Certaines matières de formation figurant au programme de plusieurs catégories de traitement peuvent être organisées en commun pour tous les fonctionnaires stagiaires des catégories de traitement concernées.
@@ -49,8 +51,49 @@ Sur la demande écrite du fonctionnaire stagiaire, une dispense de la présence 
 <a id="art-2"></a>
 ## Art. 2.
 
+Formation spéciale commune et spécifique aux différentes catégories de traitement
+
+(1)
+
+La participation au programme de la formation spéciale commune aux fonctionnaires stagiaires de toutes les catégories de traitement constitue la Partie I, intitulée « Fonctionnement de l’Administration de la gestion de l’eau ». Elle est certifiée par des attestations de présence. La Partie I se présente pour les différentes catégories de traitement comme suit :
+
+| Partie I : Fonctionnement de l’Administration de la gestion de l’eau |  |  |
+| --- | --- | --- |
+| Branche | Matières | Heures de formation |
+| Organisation et gestion de l’administration | Conditions et modalités de nomination et de promotion du personnel, communication interne et externe, déontologie | 5 |
+| Missions et objectifs de l’administration | Organisation et missions des divisions et services, techniques de gestion, procédures, relations internes et internationales | 19 |
+| Total |  | 24 |
+
+(2)
+
+La participation au programme de formation spéciale spécifique constitue la Partie II, intitulée « Matières relatives au domaine de la gestion de l’eau et aux attributions spécifiques de l’administration ».
+
+Elle est certifiée par des attestations de présence et sanctionnée par un examen de fin de formation spéciale.
+
+Cet examen théorique comporte des épreuves écrites ainsi que pour les catégories de traitement A et B un travail de réflexion évalué sur 60 points.
+
+Le ministre ayant la Gestion de l’eau dans ses attributions, ci-après « ministre », détermine par groupe et sous-groupe de traitement des différentes catégories de traitement visées au présent article, sur proposition du directeur, les matières de la Partie II qui font l’objet des épreuves écrites de l’examen théorique. La Partie II se présente pour les différentes catégories de traitement comme suit :
+
+1. Pour les fonctionnaires stagiaires des catégories de traitement A, B et C :
+
+| Partie II : Matières relatives au domaine de la gestion de l’eau et aux attributions spécifiques de l’administration |  |  |  |
+| --- | --- | --- | --- |
+| Branche | Matières | Heures de formation | Points |
+| Législations environnementales ayant trait à l’eau y compris en matière de la protection de la nature, des incidences sur l’environnement et des établissements classés | Directives, législation et réglementation applicables | 12 | 60 |
+| Technologie professionnelle | Matières relatives au domaine de la gestion de l’eau et aux attributions spécifiques de l’administration | 24 | 60 |
+| Total |  | 36 | 120 |
+
+1. Pour les fonctionnaires stagiaires de la catégorie de traitement D :
+
+| Partie II : Matières relatives au domaine de la gestion de l’eau et aux attributions spécifiques de l’administration |  |  |  |
+| --- | --- | --- | --- |
+| Branche | Matières | Heures de formation | Points |
+| Technologie professionnelle | Matières relevant des attributions de l’administration | 36 | 60 |
+
 <a id="art-3"></a>
 ## Art. 3.
+
+Modalités de l’examen de fin de formation spéciale et appréciation des résultats
 
 Les examens ont lieu devant une commission d’examen qui se compose d’un président, de 6 membres effectifs au maximum, d’un secrétaire, ainsi que de 2 suppléants, nommés par le ministre.
 
@@ -77,14 +120,23 @@ Le résultat final est arrêté sous forme d’un procès-verbal par la commissi
 <a id="art-4"></a>
 ## Art. 4.
 
+Programme des examens de promotion
+
 L’examen de promotion est organisé conformément aux dispositions du règlement grand-ducal modifié du 13 avril 1984 déterminant la procédure des commissions d’examen du concours d’admission au stage, de l’examen de fin de stage et de l’examen de promotion dans les administrations et services de l’État.
 
 Pour les groupes de traitement pour lesquels un examen de promotion est prévu, le programme d’examen est fixé comme suit :
 
-Épreuves Points Épreuve écrite sur la législation en rapport avec les missions de l’Administration de la gestion de l’eau 60 Travail de réflexion en relation avec les attributions du candidat 60 Connaissances approfondies dans les matières en relation avec la fonction de l’agent 60 Total 180
+| Épreuves | Points |
+| --- | --- |
+| Épreuve écrite sur la législation en rapport avec les missions de l’Administration de la gestion de l’eau | 60 |
+| Travail de réflexion en relation avec les attributions du candidat | 60 |
+| Connaissances approfondies dans les matières en relation avec la fonction de l’agent | 60 |
+| Total | 180 |
 
 <a id="art-5"></a>
 ## Art. 5.
+
+Modalités de l’examen de promotion et appréciation des résultats
 
 Les membres de la commission d’examen sont nommés par le ministre sur proposition du directeur.
 
@@ -121,9 +173,13 @@ Le candidat qui, pour un motif reconnu valable par la commission d’examen, ne 
 <a id="art-6"></a>
 ## Art. 6.
 
+Disposition abrogatoire
+
 Le règlement grand-ducal du 8 juin 2005 déterminant les conditions d’admission, de nomination et d’avancement du personnel des cadres de l’Administration de la Gestion de l’Eau est abrogé.
 
 <a id="art-7"></a>
 ## Art. 7.
+
+Formule exécutoire
 
 Notre Ministre de l’Environnement et Notre Ministre de la Fonction publique et de la Réforme administrative sont chargés, chacun en ce qui le concerne, de l’exécution du présent règlement qui sera publié au Journal officiel du Grand-Duché de Luxembourg.

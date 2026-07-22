@@ -43,6 +43,14 @@ Sont applicables aux chemins de fer les lois et règlements sur la grande voirie
 
 Sont applicables aux propriétés riveraines des chemins de fer, les servitudes imposées par les lois et règlements sur la grande voirie, et qui concernent:
 
+- l'alignement,
+
+- l'écoulement des eaux,
+
+- l'occupation temporaire des terrains en cas de réparation,– la distance à observer pour les plantatations, et l'élagage des arbres plantés,
+
+- le mode d'exploitation des mines, minières, tourbières, carrières et sablières, dans la zone déterminée à cet effet.
+
 Sont également applicables à la confection et à l'entretien des chemins de fer, les lois et règlements sur l'extraction des matériaux nécessaires aux travaux publics.
 
 <a id="art-4"></a>
@@ -95,6 +103,10 @@ Dans une distance de moins de cinq mètres d'un chemin de fer, aucun dépôt de 
 Cette autorisation sera toujours révocable.
 
 L'autorisation n'est pas nécessaire:
+
+1. Pour former, dans les localités où le chemin de fer est en remblai, des dépôts de matières non inflammables dont la hauteur n'excède pas celle du remblai du chemin;
+
+2. Pour former des dépôts temporaires d'engrais et autres objets nécessaires à la culture des terres.
 
 Il ne sera permis de planter à l'avenir, sans autorisation du Gouvernement, qu'à la distance de vingt mètres du franc bord des chemins de fer pour les arbres à haute tige, et de six mètres pour les autres arbres.
 
@@ -207,7 +219,7 @@ L'État sera soumis à la même responsabilité envers les particuliers, si le c
 
 Les crimes, délits ou contraventions prévus dans les titres I et III de la présente loi, pourront être constatés par des procès-verbaux dressés concurremment par les officiers de police judiciaire, les agents de l'administration des travaux publics, et les agents de surveillance du chemin de fer nommés ou agréés par le Gouvernement et dûment assermentés.
 
-Les agents de surveillance du Gouvernement et ceux qu'il aura agréés des concessionnaires ou fermiers, prêteront devant le tribunal de l'arrondissement de leur résidence, le serment suivant: Je jure fidélité au Roi Grand-Duc, obéissance à la Constitution et aux lois de l'État. - Je promets de remplir fidèlement mes fonctions avec intégrité, exactitude et impartialité, et de bien et fidèlement servir les intérêts du Roi Grand-Duc et ceux du pays. Ainsi Dieu me soit en aide ! Je jure fidélité au Roi Grand-Duc, obéissance à la Constitution et aux lois de l'État. - Je promets de remplir fidèlement mes fonctions avec intégrité, exactitude et impartialité, et de bien et fidèlement servir les intérêts du Roi Grand-Duc et ceux du pays. Ainsi Dieu me soit en aide !
+Les agents de surveillance du Gouvernement et ceux qu'il aura agréés des concessionnaires ou fermiers, prêteront devant le tribunal de l'arrondissement de leur résidence, le serment suivant: Je jure fidélité au Roi Grand-Duc, obéissance à la Constitution et aux lois de l'État. - Je promets de remplir fidèlement mes fonctions avec intégrité, exactitude et impartialité, et de bien et fidèlement servir les intérêts du Roi Grand-Duc et ceux du pays. Ainsi Dieu me soit en aide !
 
 En cas de changement de résidence, l'acte de prestation du serment sera transcrit et visé au greffe du tribunal de l'arrondissement de la nouvelle résidence.
 

@@ -38,6 +38,14 @@ Toutefois, lorsqu’un chemin vicinal intéresse plusieurs communes, elles conco
 
 Les communes pourvoient aux dépenses relatives aux chemins vicinaux, au moyen d’une imposition répartie d’après les bases suivantes :
 
+1. D’une prestation d’une journée de travail à fournir par chaque habitant valide du sexe masculin, de l’âge de 18 à 60 ans accomplis ;
+
+2. D’une prestation d’une journée de travail d’homme par chaque cheval de trait ou de selle, au service des habitants ou des établissements dans la commune ;
+
+3. D’une journée de travail d’homme par chaque bœuf employé aux attelages ;
+
+4. De dix centièmes en addition au principal des contributions directes payées dans la commune.
+
 Les prestations des trois premières bases seront converties et exigibles, comme celle de la quatrième, en argent.
 
 Cependant il sera loisible aux communes de remplacer l’imposition, en tout ou en partie, par des prélèvements sur leurs revenus ordinaires, même sur le produit de leur bois d’allouage.
@@ -169,12 +177,18 @@ Les dispositions des deux articles précédents ne sont pas applicables dans les
 
 Les fonds réalisés en vertu de la présente loi seront appliqués :
 
+1. A la construction, à la réparation et à l’entretien des chemins de première classe, et à l’entretien de tous les chemins actuellement construits ;
+
+2. A la construction des chemins de la deuxième classe.
+
 Le Conseil de Gouvernement pourra, lorsque les circonstances l’exigeront impérieusement, permettre de déroger à cette règle.
 
 <a id="art-22"></a>
 ## Art. 22.
 
-La largeur des chemins vicinaux de première classe est fixée à six mètres, non compris les fossés sauf les exceptions qui pourront être portées par le Conseil de Gouvernement, sur la demande des conseils communaux. Il sera établi le long des chemins de première classe des fossés, partout où le besoin en sera reconnu.
+La largeur des chemins vicinaux de première classe est fixée à six mètres, non compris les fossés sauf les exceptions qui pourront être portées par le Conseil de Gouvernement, sur la demande des conseils communaux.
+
+Il sera établi le long des chemins de première classe des fossés, partout où le besoin en sera reconnu.
 
 <a id="art-23"></a>
 ## Art. 23.

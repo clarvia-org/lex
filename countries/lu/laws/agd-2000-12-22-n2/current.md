@@ -32,7 +32,15 @@ Il est institué une distinction honorifique militaire sous la dénomination de 
 <a id="art-2"></a>
 ## Art. 2.
 
-La Médaille de reconnaissance pour mission à l'étranger est accordée au membre de l'Armée ayant participé à une mission militaire à l'étranger d'après les critères suivants: Une exception au délai de 90 jours peut être faite si, pour des raisons impérieuses de service ou en cas de force majeure, la mission est interrompue ou prend fin avant le délai de 90 jours ou si la période fixée pour une mission a été, dès le départ, inférieure au délai de 90 jours.
+La Médaille de reconnaissance pour mission à l'étranger est accordée au membre de l'Armée ayant participé à une mission militaire à l'étranger d'après les critères suivants:
+
+1. la mission doit être clairement définie et arrêtée en tant que telle par règlement grand-ducal ou décision du Gouvernement en conseil;
+
+2. l'intéressé doit avoir séjourné en zone d'opération pendant au moins trente jours consécutifs, ou soixante jours non-consécutifs endéans une période maximale de trois ans ;
+
+3. l'intéressé doit avoir manifesté un comportement irréprochable, n'ayant pas donné lieu à des sanctions disciplinaires importantes.
+
+Une exception au délai de 90 jours peut être faite si, pour des raisons impérieuses de service ou en cas de force majeure, la mission est interrompue ou prend fin avant le délai de 90 jours ou si la période fixée pour une mission a été, dès le départ, inférieure au délai de 90 jours.
 
 Dans des cas particuliers, la Médaille de reconnaissance pour mission à l'étranger peut également être décernée à d'autres personnes de nationalité luxembourgeoise ou étrangère ayant participé à la mission militaire.
 

@@ -32,6 +32,14 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 Le maintien de la vidéosurveillance dans les zones de sécurité soumises à la vidéosurveillance de la Police grand-ducale avant l’entrée en vigueur de la loi du 15 juillet 2021 portant modification de la loi modifiée du 18 juillet 2018 sur la Police grand-ducale est autorisé pour les zones suivantes :
 
+1. Zone A : la zone située en Luxembourg-Ville, quartier du Limpertsberg-Glacis ;
+
+2. Zone C : la zone située en Luxembourg-Ville, quartier de la Gare ;
+
+3. Zone D : la zone située en Luxembourg-Ville aux abords, entrées et à l’intérieur de l’enceinte du Stade de Luxembourg. La vidéosurveillance dans cette zone ne sera activée que lors de manifestations sportives de grande envergure ou de matchs à risque ;
+
+4. Zone F : la zone située en Luxembourg-Ville, passerelle Pont Adolphe.
+
 <a id="art-2"></a>
 ## Art. 2.
 

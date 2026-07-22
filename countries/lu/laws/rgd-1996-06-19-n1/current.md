@@ -35,6 +35,16 @@ Peuvent bénéficier du congé de coopération au développement, sous réserve 
 
 Peuvent être pris en considération pour l’octroi du congé:
 
+- les déplacements et voyages relatifs à l’identification, la formulation, l’exécution, le suivi, le contrôle et l’évaluation de programmes ou de projets de coopération au bénéfice des populations des pays en développement;
+
+- la gestion administrative et financière d’un programme ou de projet de coopération au bénéfice des populations des pays en développement dont la réalisation incombe à une organisation non gouvernementale;
+
+- les réunions d’experts et de représentants des organisations non gouvernementales dans le cadre d’organisations internationales;
+
+- les échanges organisés dans le cadre de programmes ou de projets dans le domaine de la coopération au développement;
+
+- toute sorte de réunion relative à la coopération au développement à laquelle un représentant luxembourgeois est délégué par le ministre ayant dans ses attributions la coopération au développement.
+
 <a id="art-3"></a>
 ## Art. 3.
 
@@ -46,6 +56,24 @@ Chaque congé doit être approuvé quant à son principe et quant à sa durée p
 Les personnes qui désirent bénéficier du congé doivent introduire individuellement, au moins deux mois d’avance, auprès du ministre une demande en triple exemplaire, établie sur un formulaire prescrit et mis à leur disposition par le ministre.
 
 Ce formulaire, dûment complété et signé, indique:
+
+- le nom et le prénom du requérant,
+
+- la date de naissance,
+
+- la nationalité,
+
+- les qualifications et aptitudes professionnelles,
+
+- les dates et la durée du congé sollicité,
+
+- le but du congé,
+
+- les données relatives aux programmes ou projets, réunions ou échanges visés,
+
+- le cas échéant, le montant des cachets, honoraires et autres rémunérations prévues,
+
+- le nom de l’organisation non gouvernementale agréée compétente.
 
 La décision par laquelle le ministre accorde ou refuse l’octroi d’un congé sera notifiée au requérant dans le mois suivant la demande.
 

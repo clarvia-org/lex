@@ -41,6 +41,42 @@ Il use et jouit librement des parties privatives et des parties communes sous la
 <a id="art-3"></a>
 ## Art. 3.
 
+1.
+
+Sont privatives les parties des bâtiments et des terrains réservés à l’usage exclusif d’un copropriétaire déterminé. Elles sont la propriété exclusive du copropriétaire.
+
+2.
+
+Sont communes les parties des bâtiments et des terrains affectées à l’usage ou à l’utilité de tous les copropriétaires ou de plusieurs d’entre eux.
+
+Dans le silence ou la contradiction des titres, sont réputés parties communes:
+
+- le sol, les cours, les parcs et jardins, les voies d’accès;
+
+- le gros oeuvre des bâtiments, les éléments d’équipement commun, y compris les parties de canalisations y afférentes qui traversent des locaux privatifs;
+
+- les coffres, gaines et têtes de cheminées;
+
+- les locaux des services communs;
+
+- les passages et corridors.
+
+- les terrasses, balcons, balustrades et garde-corps, à l’exclusion du revêtement superficiel des terrasses et balcons invisible de l’extérieur.
+
+3. Sont réputés droits accessoires aux parties communes dans le silence ou la contradiction des titres:
+
+- le droit de surélever un bâtiment affecté à l’usage commun ou comportant plusieurs locaux qui constituent des parties privatives différentes, ou d’en affouiller le sol;
+
+- le droit d’édifier des bâtiments nouveaux dans des cours, parcs ou jardins constituant des parties communes;
+
+- le droit de mitoyenneté afférent aux parties communes.
+
+Les droits accessoires aux parties communes ne peuvent être exercés que du consentement de tous les copropriétaires.
+
+4.
+
+Les cloisons ou murs, séparant des parties privatives et non compris dans le gros oeuvre, sont présumés mitoyens entre les locaux qu’ils séparent.
+
 <a id="art-4"></a>
 ## Art. 4.
 
@@ -78,6 +114,16 @@ Les dispositions du présent alinéa ne s’appliquent pas aux dépenses affére
 <a id="art-8"></a>
 ## Art. 8.
 
+1. Sous réserve des dispositions de l’article précédent, la répartition des charges ne peut être modifiée qu’à l’unanimité des copropriétaires. Toutefois, lorsque des travaux ou des actes d’acquisition ou de disposition sont décidés par l’assemblée générale statuant à la majorité exigée par la loi, la modification de la répartition des charges ainsi rendue nécessaire peut être décidée par l’assemblée générale statuant à la même majorité.
+
+2. Lorsque les charges ne doivent être supportées que par certains copropriétaires, ceux-ci seuls prennent part aux votes concernant la modification ou l’établissement de la répartition.
+
+3. En cas d’aliénation séparée d’une ou plusieurs fractions d’un lot, la répartition des charges entre ces fractions est, lorsqu’elle n’est pas fixée par le règlement de copropriété, soumise à l’approbation de l’assemblée générale statuant à la majorité prévue à l’article 15.
+
+4. A défaut de décision de l’assemblée générale modifiant les bases de répartition des charges dans les cas prévus aux alinéas précédents, tout copropriétaire pourra saisir le tribunal d’arrondissement de la situation de l’immeuble à l’effet de faire procéder à la nouvelle répartition rendue nécessaire.
+
+5. La décision judiciaire arrêtant la nouvelle répartition des charges est opposable aux propriétaires de tous les lots intéressés; elle prend effet à compter du jour où elle est devenue irrévocable.
+
 <a id="art-9"></a>
 ## Art. 9.
 
@@ -88,7 +134,17 @@ L’action est intentée contre le syndicat, tous les copropriétaires appelés 
 <a id="art-10"></a>
 ## Art. 10.
 
-A l’égard toutefois des ayants cause à titre particulier des parties au règlement, celui-ci n’est obligatoire qu’après avoir été transcrit sur les registres du conservateur des hypothèques de la circonscription dans laquelle l’immeuble est situé. Il en est de même des additions ou modifications apportées au règlement existant La transcription a lieu dans les formes de la loi du 25 septembre 1905 sur la transcription des droits réels immobiliers.
+1. Un règlement de copropriété, objet d’une convention générale ou de l’engagement de chacun des intéressés, détermine la destination des parties tant privatives que communes, ainsi que les conditions de leur jouissance; il établit également, sous réserve des dispositions de la présente loi, les règles relatives à l’administration des parties communes et fixe la quote-part des charges afférente à chaque lot.
+
+2. Le règlement de copropriété ne peut imposer aucune restriction aux droits des copropriétaires en dehors de celles qui seraient justifiées par la destination de l’immeuble, telle qu’elle est définie aux actes, par ses caractères ou sa situation.
+
+3. Toute clause étrangère à l’objet du règlement de copropriété tel qu’il est défini au présent article est réputée non écrite.
+
+4. Le règlement oblige les différents propriétaires et tous leurs ayants cause, y compris les locataires et occupants à un titre quelconque. A l’égard toutefois des ayants cause à titre particulier des parties au règlement, celui-ci n’est obligatoire qu’après avoir été transcrit sur les registres du conservateur des hypothèques de la circonscription dans laquelle l’immeuble est situé. Il en est de même des additions ou modifications apportées au règlement existant La transcription a lieu dans les formes de la loi du 25 septembre 1905 sur la transcription des droits réels immobiliers.
+
+5. Dans les copropriétés où il n’existe pas de règlement de copropriété, le syndicat doit établir et faire publier un règlement de copropriété conformément à la présente loi. A défaut par l’assemblée générale d’en arrêter le texte à la majorité prévue à l’article 17, tout copropriétaire peut demander au tribunal civil de procéder à son établissement.
+
+6. Un règlement de copropriété ne peut pas imposer aux copropriétaires des services pour personnes âgées tombant sous le champ d’application de la loi modifiée du 8 septembre 1998 réglant les relations entre l’État et les organismes œuvrant dans les domaines social, familial et thérapeutique.
 
 <a id="art-11"></a>
 ## Art. 11.
@@ -133,7 +189,17 @@ La part du prix revenant à chaque copropriétaire lui est remise directement pa
 <a id="art-14"></a>
 ## Art. 14.
 
-Néanmoins, les décisions relatives à l’entretien et la réfection des parties communes, même s’il s’agit du remplacement d’un élément hors état de servir par une installation plus perfectionnée, peuvent être prises hors assemblée par voie de consultation écrite, à condition que le syndic ait soumis tous les éléments d’appréciation nécessaires et notamment le coût des travaux. Le recours à ce procédé doit être autorisé préalablement par le conseil syndical, s’il en existe. A l’expiration de ses fonctions, il ne peut poursuivre ses activités qu’en vertu d’une décision formelle de l’assemblée générale. Il a toutefois qualité, en attendant cette décision, d’accomplir tous actes conservatoires dans l’intérêt du syndicat et peut convoquer l’assemblée générale en vue de pourvoir à la vacance.
+1. Les décisions du syndicat sont prises en assemblée générale des copropriétaires. Néanmoins, les décisions relatives à l’entretien et la réfection des parties communes, même s’il s’agit du remplacement d’un élément hors état de servir par une installation plus perfectionnée, peuvent être prises hors assemblée par voie de consultation écrite, à condition que le syndic ait soumis tous les éléments d’appréciation nécessaires et notamment le coût des travaux. Le recours à ce procédé doit être autorisé préalablement par le conseil syndical, s’il en existe.
+
+2. L’exécution des décisions du syndicat est confiée à un syndic placé éventuellement sous le contrôle d’un conseil syndical.
+
+3. Le syndic est nommé par l’assemblée générale pour une durée qui ne peut dépasser trois années. A l’expiration de ses fonctions, il ne peut poursuivre ses activités qu’en vertu d’une décision formelle de l’assemblée générale. Il a toutefois qualité, en attendant cette décision, d’accomplir tous actes conservatoires dans l’intérêt du syndicat et peut convoquer l’assemblée générale en vue de pourvoir à la vacance.
+
+4. Le syndic représente le syndicat dans tous les actes civils et en justice. Les actes de procédure concernant le syndicat des copropriétaires sont régulièrement signifiés, suivant les cas, au syndic ou à la requête de celui-ci.
+
+5. Le syndic ne peut intenter une action en justice au nom du syndicat sans y avoir été autorisé par une décision de l’assemblée générale, sauf lorsqu’il s’agit d’une action en recouvrement de créance même par voie d’exécution forcée ou lorsqu’il y a urgence ne permettant pas la convocation d’une assemblée générale dans les délais ou lorsqu’il s’agit d’assurer l’observation et l’exécution du règlement de copropriété.
+
+6. A l’occasion de tous litiges dont est saisie une juridiction et qui concernent le fonctionnement d’un syndicat ou dans lesquels le syndicat est partie, le syndic avise chaque copropriétaire de l’existence et de l’objet de l’instance.
 
 <a id="art-15"></a>
 ## Art. 15.
@@ -143,12 +209,34 @@ Les décisions de l’assemblée générale sont prises à la majorité des voix
 <a id="art-16"></a>
 ## Art. 16.
 
-Ne sont adoptées qu’à la majorité des voix de tous les copropriétaires, les décisions concernant: A défaut de décision prise dans les conditions de majorité prévues au présent article, une nouvelle assemblée générale statue dans les conditions prévues à l’article précédent.
+Ne sont adoptées qu’à la majorité des voix de tous les copropriétaires, les décisions concernant:
+
+1. toute délégation du pouvoir de prendre l’une des décisions visées à l’article précédent;
+
+2. l’autorisation à donner à certains copropriétaires d’effectuer à leurs frais des travaux affectant les parties communes ou l’aspect extérieur de l’immeuble, et conformes à la destination de celui-ci; en cas de refus, le juge peut autoriser ce ou ces copropriétaires à exécuter ces travaux s’ils ne sont pas de nature à nuire à la solidité ou à l’esthétique de l’immeuble, ou à gêner les autres copropriétaires.
+
+3. la désignation ou la révocation du syndic et des membres du conseil syndical.
+
+4. les travaux de réparation, de réfection ou de remplacement qui comportent une amélioration ou une transformation d’éléments d’équipement existants: lorsque le règlement de copropriété met les dépenses relatives à ces travaux à la charge de certains copropriétaires seulement, ceux-ci seuls prennent part au vote avec un nombre de voix proportionnel à leur participation auxdites dépenses.
+
+5. les travaux de rénovation énergétique ;
+
+6. les travaux de réalisation d’infrastructures dans les parties communes en préparation pour l’installation de gaines techniques ;
+
+7. les travaux de réalisation d’installations de production et de stockage d’énergie à partir de sources d’énergie renouvelables dans les parties communes.
+
+A défaut de décision prise dans les conditions de majorité prévues au présent article, une nouvelle assemblée générale statue dans les conditions prévues à l’article précédent.
 
 <a id="art-17"></a>
 ## Art. 17.
 
 Sont prises à la majorité des membres du syndicat représentant au moins les trois quarts des voix les décisions concernant;
+
+1. les actes d’acquisition immobilière et les actes de disposition;
+
+2. la modification, ou éventuellement l’établissement, du règlement de copropriété dans la mesure où il concerne la jouissance, l’usage et l’admintstration des parties communes;
+
+3. les travaux comportant transformation, addition et amélioration à l’exception de ceux visés à l’article 16 lettres d), e), f) et g) et de ceux relatifs à l’installation d’infrastructures d’accueil au sens de la loi du 22 mars 2017 relative à des mesures visant à réduire le coût du déploiement de réseaux de communication électroniques à haut débit et modifiant la loi modifiée du 16 mai 1975 portant statut de la copropriété des immeubles bâtis.
 
 <a id="art-18"></a>
 ## Art. 18.
@@ -196,6 +284,10 @@ Ses fonctions cessent de plein droit à compter de l’acceptation de son mandat
 ## Art. 21.
 
 Indépendamment des pouvoirs qui lui sont conférés par d’autres dispositions de la présente loi ou par une délibération spéciale de l’assemblée générale, le syndic est chargé:
+
+- d’assurer l’exécution des dispositions du règlement de copropriété et des délibérations de l’assemblée générale;
+
+- d’administrer l’immeuble, de pourvoir à sa conservation, à sa garde et à son entretien et, en cas d’urgence, de faire procéder de sa propre initiative à l’exécution de tous travaux nécessaires à la sauvegarde de celui-ci.
 
 <a id="art-22"></a>
 ## Art. 22.
@@ -322,12 +414,12 @@ L’article 664 du Code civil est abrogé.
 <a id="art-37"></a>
 ## Art. 37.
 
-L’article 2205 du Code civil est abrogé et remplacé par la disposition suivante: Art. 2205. Néanmoins la part indivise du débiteur ne peut être saisie par ses créanciers personnels, ni vendue par eux en vertu d’une clause de voie parée, avant le partage ou la licitation qu’ils peuvent provoquer, s’ils le jugent convenable, ou dans lesquels ils ont le droit d’intervenir. En cas de licitation,et quel que soit l’acquéreur, autre que le colicitant, dont la part indivise se trouvait grevée d’hypothéque, le droit du créancier hypothécaire sera reporté sur la part du débiteur dans le prix. En cas de partage avec soulte, les sommes que le copartageant sera tenu de payer seront affectées au paiement des créances privilégiées ou hypothécaires qui perdraient ce caractère, et ce d’après le rang que ces créances avaient au moment du partage. Néanmoins la part indivise du débiteur ne peut être saisie par ses créanciers personnels, ni vendue par eux en vertu d’une clause de voie parée, avant le partage ou la licitation qu’ils peuvent provoquer, s’ils le jugent convenable, ou dans lesquels ils ont le droit d’intervenir. En cas de licitation,et quel que soit l’acquéreur, autre que le colicitant, dont la part indivise se trouvait grevée d’hypothéque, le droit du créancier hypothécaire sera reporté sur la part du débiteur dans le prix. En cas de partage avec soulte, les sommes que le copartageant sera tenu de payer seront affectées au paiement des créances privilégiées ou hypothécaires qui perdraient ce caractère, et ce d’après le rang que ces créances avaient au moment du partage.
+L’article 2205 du Code civil est abrogé et remplacé par la disposition suivante: Art. 2205. Néanmoins la part indivise du débiteur ne peut être saisie par ses créanciers personnels, ni vendue par eux en vertu d’une clause de voie parée, avant le partage ou la licitation qu’ils peuvent provoquer, s’ils le jugent convenable, ou dans lesquels ils ont le droit d’intervenir. En cas de licitation,et quel que soit l’acquéreur, autre que le colicitant, dont la part indivise se trouvait grevée d’hypothéque, le droit du créancier hypothécaire sera reporté sur la part du débiteur dans le prix. En cas de partage avec soulte, les sommes que le copartageant sera tenu de payer seront affectées au paiement des créances privilégiées ou hypothécaires qui perdraient ce caractère, et ce d’après le rang que ces créances avaient au moment du partage.
 
 <a id="art-38"></a>
 ## Art. 38.
 
-L’article 13 de la loi du 29 mai 1906 sur les habitations à bon marché est complété par un alinéa 3 conçu comme suit: Sous les mêmes conditions les réductions prévues aux dispositions qui précèdent s’appliquent aux ventes et adjudications de fractions d’immeubles divisés par étages ou appartements Sous les mêmes conditions les réductions prévues aux dispositions qui précèdent s’appliquent aux ventes et adjudications de fractions d’immeubles divisés par étages ou appartements
+L’article 13 de la loi du 29 mai 1906 sur les habitations à bon marché est complété par un alinéa 3 conçu comme suit: Sous les mêmes conditions les réductions prévues aux dispositions qui précèdent s’appliquent aux ventes et adjudications de fractions d’immeubles divisés par étages ou appartements
 
 <a id="art-39"></a>
 ## Art. 39.

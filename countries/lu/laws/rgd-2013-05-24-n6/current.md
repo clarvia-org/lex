@@ -33,6 +33,18 @@ L’école de l’armée, appelée «école» dans la suite du texte, fait parti
 
 L’école a pour objectifs:
 
+1. d’offrir aux soldats ayant accompli 36 mois de service militaire, la possibilité de se préparer à intégrer le monde du travail:
+
+- en contribuant à leur orientation à une formation professionnelle;
+
+- en leur permettant de compléter leur formation scolaire de base;
+
+- en organisant des cours de préparation aux examens-concours;
+
+- en les préparant à leurs démarches d’embauche.
+
+2. d’organiser sur demande des autorités militaires des cours de remise à niveau et de préparation aux examens de promotion respectivement de carrière à l’intention du personnel militaire de carrière et civil de l’Armée.
+
 #### Chapitre 2. Organisation
 
 <a id="art-2"></a>
@@ -52,6 +64,22 @@ Toute interruption des leçons intervenant dans les conditions de l’alinéa 3 
 Le personnel enseignant de l’école est détaché à cet effet auprès du Ministère de l’Éducation Nationale, de l’Enfance et de la Jeunesse. Il est subordonné au directeur du lycée.
 
 Le directeur du lycée a pour mission spécifique envers l’Armée:
+
+- de mettre à disposition du service de reconversion les enseignants nécessaires à l’établissement du projet de reconversion des soldats;
+
+- de proposer la nomination d’un membre du corps enseignant de l’école dans les commissions d’examen;
+
+- d’autoriser les soldats à effectuer des stages en milieu professionnel;
+
+- de signaler aux autorités militaires les soldats susceptibles d’avoir contrevenu pendant les cours aux dispositions prévues par le code pénal militaire ou par la loi modifiée du 16 avril 1979 concernant la discipline dans la Force publique;
+
+- de rendre compte régulièrement du fonctionnement de l’école et des progrès et échecs scolaires au ministre et au ministre ayant l’Éducation nationale dans ses attributions;
+
+- de veiller en étroite collaboration avec le service de reconversion de l’Armée à l’adaptation des cours de préparation aux examens (COPREX) en fonction de l’évolution des examens-concours;
+
+- de veiller en étroite collaboration avec le service de reconversion à l’application des conditions d’admissibilité aux diverses administrations et entreprises;
+
+- de veiller à communiquer les informations nécessaires à la saisie et à la tenue à jour dans les bases de données de l’Armée et de l’Éducation nationale des informations relatives aux niveaux d’études des soldats et à leur participation aux cours de l’école.
 
 <a id="art-4-20150914"></a>
 ## Art. 4.
@@ -100,6 +128,12 @@ Pendant la durée du stage, le soldat n’est pas lié à l’entreprise par un 
 Ces stages sont régis par un contrat de stage conclu entre l’Armée, le soldat et l’entreprise.
 
 Il porte sur:
+
+- les objectifs et les modalités du stage, notamment les activités du soldat;
+
+- les conditions dans lesquelles les responsables du stage, l’un représentant l’Armée, l’autre l’entreprise, assurent l’encadrement du soldat;
+
+- les modalités d’évaluation du stage.
 
 <a id="art-8"></a>
 ## Art. 8.
@@ -168,6 +202,24 @@ Des certificats d’équivalence d’études sont délivrés par le ministre aya
 
 Le chargé de direction de l’école désigne un régent pour chaque classe dont la mission consiste à:
 
+- surveiller la bonne tenue du livre de classe;
+
+- contrôler les absences;
+
+- établir les bulletins d’études;
+
+- veiller à la bonne conduite de la classe;
+
+- conseiller et aider les élèves;
+
+- surveiller leurs progrès;
+
+- proposer des mesures d’appui;
+
+- signaler toute fraude;
+
+- constituer un lien entre les élèves, les enseignants et la direction.
+
 <a id="art-15-20150914"></a>
 ## Art. 15.
 
@@ -184,6 +236,14 @@ Le conseil de classe prend ses décisions à la majorité simple des voix. En ca
 Les membres du conseil de classe ont l’obligation de garder le secret des délibérations.
 
 Le conseil de classe a pour mission:
+
+- de délibérer sur les progrès, l’application et le comportement des élèves;
+
+- de décider, à la fin du semestre scolaire, de la promotion ou de l’échec des soldats selon les dispositions réglementaires en vigueur;
+
+- de se prononcer sur le renvoi de l’école d’un soldat et d’en informer le commandant du service de reconversion;
+
+- de soumettre un avis d’orientation du soldat au conseil d’orientation.
 
 Le conseil de classe prend les mesures éducatives à l’encontre d’un élève qui perturbe l’enseignement à l’école. Suivant la gravité des faits, le dossier est transmis aux autorités militaires compétentes pour l’application éventuelle d’une sanction disciplinaire.
 
@@ -203,6 +263,16 @@ La conférence doit être convoquée chaque fois que la moitié au moins de ses 
 
 Il est institué un conseil de formation qui se compose comme suit:
 
+- un représentant du ministre ayant l’Education nationale dans ses attributions;
+
+- le directeur du lycée;
+
+- les directeurs des lycées de l’enseignement public concernés.
+
+- le directeur de la reconversion;
+
+- le président ou son délégué des représentations du personnel concernées revêtant un rôle d’observateur.
+
 Le conseil de formation est présidé par le directeur du lycée.
 
 Le président convoque le conseil de formation si besoin en est.
@@ -210,6 +280,14 @@ Le président convoque le conseil de formation si besoin en est.
 Les membres du conseil de formation sont nommés par le ministre pour un terme de trois ans. Le représentant du ministre de l’Education nationale ainsi que les directeurs de lycées sont nommés par le ministre sur proposition de leur ministre de ressort.
 
 Le conseil de formation a pour mission:
+
+- de superviser et de coordonner les programmes de l’école;
+
+- de veiller à la réalisation de la finalité de la formation;
+
+- d’adapter régulièrement le contenu, la méthodologie et les moyens pédagogiques;
+
+- d’étudier les problèmes concernant l’enseignement à l’école et d’émettre des avis y afférents.
 
 #### Chapitre 8. Le Conseil d’orientation et le Conseil de reconversion
 
@@ -220,15 +298,53 @@ Il est institué un conseil d’orientation.
 
 Le conseil d’orientation en formation plénière est composé comme suit:
 
+- un représentant du ministre ayant l’Education nationale dans ses attributions;
+
+- le directeur du lycée;
+
+- deux enseignants de l’école;
+
+- un représentant du ministre;
+
+- le directeur de la reconversion;
+
+- le commandant du service de reconversion;
+
+- un représentant du bureau de la reconversion;
+
+- un représentant de l’administration de l’emploi.
+
+- le président ou son délégué des représentations du personnel concernées revêtant un rôle d’observateur.
+
 Le conseil d’orientation peut s’adjoindre un enseignant orienteur si besoin en est.
 
 Le conseil d’orientation est présidé par le représentant du ministre ayant l’Education nationale dans ses attributions. En cas d’absence de ce dernier, il est présidé par le directeur du lycée .
 
 Le conseil d’orientation en formation réduite est composé comme suit:
 
+- le directeur du lycée ou son délégué;
+
+- un membre du service de reconversion;
+
+- un représentant de l’administration de l’emploi.
+
 Les membres du conseil d’orientation sont nommés par le ministre pour un terme de trois ans. Les représentants des autres ministres sont nommés sur proposition de leurs ministres respectifs.
 
 Le conseil d’orientation a pour mission:
+
+- d’analyser et de valider le projet individuel de reconversion du soldat avant le début de sa phase de reconversion proprement dite;
+
+- de fixer le parcours du soldat en phase de reconversion;
+
+- de donner un avis sur le bilan de parcours du soldat en phase de reconversion prolongée qui sera validé par le ministre;
+
+- de superviser et de coordonner les étapes du parcours de reconversion du soldat;
+
+- de veiller à la réalisation de la finalité de l’orientation;
+
+- d’adapter régulièrement le contenu, la méthodologie et les moyens de l’orientation;
+
+- d’étudier les problèmes concernant l’orientation et d’émettre des avis afférents.
 
 Après établissement du bilan d’orientation, le conseil d’orientation se réunit en formation réduite avec le soldat pour élaborer un parcours de reconversion individuel.
 
@@ -241,11 +357,35 @@ Un procès-verbal définissant le parcours de reconversion individuel sera dress
 
 Il est institué un conseil de reconversion qui se compose comme suit:
 
+- un représentant du ministre, président;
+
+- un représentant du chef d’Etat-major de l’Armée;
+
+- le directeur de la reconversion;
+
+- le commandant du service de reconversion;
+
+- un représentant du ministre ayant l’Education nationale dans ses attributions;
+
+- le directeur du lycée ;
+
+- un représentant du ministre ayant la Formation professionnelle dans ses attributions;
+
+- un représentant de l’administration pour l’emploi;
+
+- le président ou son délégué des représentations du personnel concernées.
+
 Des représentants d’autres administrations, des experts externes et les directeurs des lycées concernés peuvent, le cas échéant, être conviés aux réunions du conseil de reconversion.
 
 Les membres du conseil de reconversion sont nommés par le ministre pour un terme de trois ans. Les représentants des autres ministres sont nommés sur proposition de leurs ministres respectifs.
 
 Le conseil de reconversion a pour mission:
+
+- de veiller à la réalisation de la finalité de la reconversion;
+
+- d’adapter régulièrement le concept, le contenu, la méthodologie et les moyens de la reconversion;
+
+- d’étudier les problèmes concernant la reconversion et d’émettre des avis afférents.
 
 Le conseil de reconversion se réunit au moins une fois par semestre et à la demande justifiée de ses membres sur convocation de son président, qui arrête l’ordre du jour après recueil des propositions de ses membres.
 

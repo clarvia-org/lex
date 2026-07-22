@@ -48,13 +48,59 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 <a id="art-1er"></a>
 ## Art. 1er.
 
+(1)
+
+Le principe de l’égalité de traitement au sens des dispositions ci-après implique l’absence de toute discrimination fondée sur le sexe, soit directement, soit indirectement par référence, notamment, à l’état matrimonial ou familial est interdite.
+
+Une discrimination fondée sur le changement de sexe est assimilée à une discrimination fondée sur le sexe.
+
+(2)
+
+Aux fins de la présente loi on entend par:
+
+- «discrimination directe»: la situation dans laquelle une personne est traitée de manière moins favorable en raison de son sexe qu’une autre ne l’est, ne l’a été ou ne le serait dans une situation comparable,
+
+- «discrimination indirecte»: la situation dans laquelle une disposition, un critère ou une pratique apparemment neutre désavantagerait particulièrement des personnes d’un sexe par rapport à des personnes de l’autre sexe, à moins que cette disposition, ce critère ou cette pratique ne soit objectivement justifié par un but légitime et que les moyens pour parvenir à ce but soient appropriés et nécessaires,
+
+- «harcèlement»: la situation dans laquelle un comportement non désiré lié au sexe d’une personne survient avec pour objet ou pour effet de porter atteinte à la dignité d’une personne et de créer un environnement intimidant, hostile, dégradant, humiliant ou offensant.
+
+(3)
+
+Le harcèlement au sens de la présente loi est considéré comme une discrimination fondée sur le sexe et est dès lors interdit.
+
+Le rejet d’un tel comportement par la personne concernée ou sa soumission à ceux-ci ne peut être utilisé pour fonder une décision affectant cette personne.
+
+(4)
+
+Tout comportement consistant à enjoindre à quiconque de pratiquer à l’encontre de personnes une discrimination fondée sur le sexe est considéré comme une discrimination au sens de la présente loi.
+
 <a id="art-2"></a>
 ## Art. 2.
+
+(1)
+
+La présente loi s’applique à toutes les personnes, tant publiques que privées, physiques ou morales, y compris les organismes publics en ce qui concerne:
+
+1. les conditions d’accès à l’emploi, aux activités non salariées ou au travail, y compris les critères de sélection et les conditions de recrutement, quelle que soit la branche d’activité et à tous les niveaux de la hiérarchie professionnelle, y compris en matière de promotion;
+
+2. l’accès à tous les types et à tous les niveaux d’orientation professionnelle, de formation professionnelle, de perfectionnement et de formation de reconversion, y compris l’acquisition d’une expérience pratique du travail;
+
+3. les conditions d’emploi et de travail, y compris les conditions de licenciement ainsi que la rémunération;
+
+4. l’affiliation à, et l’engagement dans, une organisation de travailleurs ou d’employeurs, ou toute organisation dont les membres exercent une profession donnée, y compris les avantages procurés par ce type d’organisation.
 
 ##### Section 2. Disposition particulière
 
 <a id="art-3"></a>
 ## Art. 3.
+
+(1)
+
+Les dispositions relatives à la protection de la grossesse et de la maternité ne constituent pas une discrimination, mais une condition pour la réalisation de l’égalité de traitement entre les hommes et les femmes.
+
+(2)
+
+Le principe de l’égalité de traitement n’empêche pas le maintien ou l’adoption de mesures spécifiques destinées à prévenir ou à compenser des désavantages liés au motif visé à l’article 1er, paragraphe (1) pour assurer la pleine égalité dans la pratique.
 
 ##### Section 3. Voies de recours et application du droit
 

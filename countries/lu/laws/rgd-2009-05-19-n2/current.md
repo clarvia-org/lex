@@ -28,7 +28,26 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 <a id="art-1er"></a>
 ## Art. 1er.
 
-Le présent règlement s’applique aux examens de fin d’apprentissage et aux examens menant au brevet de maîtrise. Les indemnités des membres des commissions d’examen et des experts-assesseurs nommés à ces commissions sont fixées sur la base du barème ci-dessous. Examens de fin d’apprentissage et du brevet de maîtrise Indemnité forfaitaire annuelle de base 123,28 € Indemnité par questionnaire pour une épreuve d’une durée jusqu’à 4h (tarif de base) 65,54 € de 4h à 10h (+50%) 98,34 € supérieure à 10h (+100%) 131,08 € Traduction d’un questionnaire 27,77 € Surveillance par heure 12,35 € Réalisation des pièces d’une épreuve pratique, par candidat 7,10 € Préparation de l’atelier, par candidat 7,10 € Indemnité de correction par candidat et par épreuve d’une durée de 2h 6,03 € 3h 6,68 € 4h 7,10 € Perte de salaire ou de revenu pour indépendants par heure 19,53 € Expertise pour 2h au maximum 83,59 € Expertise, par heure supplémentaire 41,80 € Les membres des commissions d’examen et les experts-assesseurs ont droit à l’indemnité forfaitaire de base proportionnellement à leur présence aux réunions des commissions.
+Le présent règlement s’applique aux examens de fin d’apprentissage et aux examens menant au brevet de maîtrise. Les indemnités des membres des commissions d’examen et des experts-assesseurs nommés à ces commissions sont fixées sur la base du barème ci-dessous.
+
+|  | Examens de fin d’apprentissage et du brevet de maîtrise |  |
+| --- | --- | --- |
+| Indemnité forfaitaire annuelle de base | 123,28 € |  |
+| Indemnité par questionnaire pour une épreuve d’une durée | jusqu’à 4h (tarif de base) | 65,54 € |
+| de 4h à 10h (+50%) | 98,34 € |  |
+| supérieure à 10h (+100%) | 131,08 € |  |
+| Traduction d’un questionnaire | 27,77 € |  |
+| Surveillance par heure | 12,35 € |  |
+| Réalisation des pièces d’une épreuve pratique, par candidat | 7,10 € |  |
+| Préparation de l’atelier, par candidat | 7,10 € |  |
+| Indemnité de correction par candidat et par épreuve d’une durée de | 2h | 6,03 € |
+| 3h | 6,68 € |  |
+| 4h | 7,10 € |  |
+| Perte de salaire ou de revenu pour indépendants par heure | 19,53 € |  |
+| Expertise pour 2h au maximum | 83,59 € |  |
+| Expertise, par heure supplémentaire | 41,80 € |  |
+
+Les membres des commissions d’examen et les experts-assesseurs ont droit à l’indemnité forfaitaire de base proportionnellement à leur présence aux réunions des commissions.
 
 Les épreuves complémentaires ne donnent pas lieu à l’attribution des indemnités par candidat et par épreuve prévues ci-dessus.
 
@@ -48,6 +67,10 @@ La correction d’une épreuve écrite dont la durée est supérieure à deux he
 La correction d’une épreuve écrite dont la durée est supérieure à trois heures est rémunérée au taux prévu pour une épreuve de quatre heures.
 
 La correction d’une épreuve uniquement orale est rémunérée de la façon suivante:
+
+- L’examinateur a droit à l’indemnité (tarif de base) prévue à l’article 1 er pour la rédaction d’un questionnaire.
+
+- Pour chaque candidat, l’examinateur a droit à l’indemnité prévue à l’article 1 er pour la correction d’une épreuve de trois heures.
 
 Par décision ministérielle, la correction d’une épreuve pratique est assimilée soit à celle d’une épreuve écrite, soit à celle d’une épreuve orale. Pour le cas où une épreuve pratique se compose de plusieurs parties autorisées préalablement par le commissaire du Gouvernement, chaque partie est indemnisée individuellement en termes d’élaboration du questionnaire, de correction et de production de pièces préfabriquées.
 

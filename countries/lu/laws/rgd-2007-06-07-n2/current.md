@@ -43,10 +43,84 @@ Les personnes exerçant la profession de santé visée à l'article 1er portent 
 
 Le diplôme ou titre de formation d'orthoptiste ne peut être reconnu que:
 
+1. s'il sanctionne un cycle de formation post-secondaire à temps plein d'au moins trois années ou six semestres ou neuf trimestres, d'un institut de formation agréé par l'Etat dans lequel il a son siège et
+
+2. si le détenteur du diplôme ou titre de formation possède les qualifications requises pour accéder à la profession d'orthoptiste dans l'Etat où le diplôme ou titre de formation a été délivré pour autant que la profession d'orthoptiste y est réglementée.
+
 <a id="art-4"></a>
 ## Art. 4.
 
 Le programme des études visées doit compter au moins 3 000 heures de formation et comporte:
+
+1. Un enseignement théorique en:
+
+- anatomie et physiologie générale,
+
+- neurophysiologie,
+
+- physique et optique,
+
+- pathologie générale,
+
+- hygiène,
+
+- psychologie,
+
+- notions élémentaires de statistiques.
+
+2. Un enseignement théorique et technique spécifique en:
+
+- anatomie oculaire,
+
+- physiologie et neurophysiologie de l'oeil,
+
+- optique de l'oeil et réfraction,
+
+- ophtalmologie générale,
+
+- neuro-ophtalmologie générale,
+
+- pathologies spécifiques:
+
+- strabismes,
+
+- hétérophories,
+
+- troubles de vergence,
+
+- correspondance rétinienne anormale,
+
+- amblyopie,
+
+- basse vision,
+
+- vices de réfraction,
+
+- paralysies oculo-motrices,
+
+- nystagmus,
+
+- syndromes de rétraction,
+
+- syncinésies anormales,
+
+- attitudes compensatrices,
+
+- pharmacologie,
+
+- techniques fondamentales de l’examen ophtalmologique,
+
+- techniques plé-orthoptiques et de basse vision,
+
+- méthodes d’examen et de traitement plé-orthoptique,
+
+- méthodes d’examen et de rééducation et de réadaptation de la basse vision,
+
+- instrumentation,
+
+- législation et déontologie professionnelle de l’orthoptiste.
+
+3. Un enseignement pratique d'au moins 1 000 heures en milieu hospitalier ou extrahospitalier: dans un service d'orthoptie, un service de basse vision, ainsi que dans un service ou une policlinique ophtalmologique. Il s'effectue sous forme de stages dans des services agréés par les autorités compétentes du pays où se déroulent les études.
 
 #### Chapitre 2 : Modalités de reconnaissance des diplômes étrangers
 
@@ -57,10 +131,28 @@ En vue d'obtenir la reconnaissance des études effectuées à l'étranger, le re
 
 Seront annexées à cette demande toutes les pièces ayant trait au cycle d'études suivi par le requérant, et notamment:
 
+- copie du diplôme final, certifiée conforme à l'original par une autorité compétente;
+
+- une notice biographique indiquant de façon détaillée les études et l'expérience professionnelle par ordre chronologique;
+
+- copie d'un titre d'identité, certifiée conforme à l'original.
+
 ##### Section I: Diplômes étrangers tombant sous le champ d’application d’une directive communautaire visée à l’article 6
 
 <a id="art-6-20230717"></a>
 ## Art. 6.
+
+1.
+
+Pour les requérants titulaires d'un diplôme étranger bénéficiant de l'application de la directive du Conseil 89/48/CEE relative à un système général de reconnaissance des diplômes d'enseignement supérieur qui sanctionnent des formations professionnelles d'une durée minimale de trois ans, le ministre ayant l'Education nationale dans ses attributions peut imposer au requérant soit:
+
+- de se soumettre à une épreuve d'aptitude ou un stage d'adaptation, au choix du requérant, au cas où les curricula de la formation effectuée à l'étranger comportent des programmes d'études substantiellement différents de ceux visés à l'article 4 ou si l'exercice de la profession dans le pays de provenance est substantiellement différent de celui du Grand-Duché de Luxembourg, ou
+
+- de faire preuve d'une expérience professionnelle licite dans un Etat membre ou un pays tiers si, pour la même profession, la durée des études visées à l'article 3 est substantiellement différente entre la formation à l'étranger et l'enseignement prévu à l'article 4.
+
+2.
+
+Pour les requérants titulaires d'un diplôme étranger tombant sous le champ d'application de la directive du Conseil 92/51/CEE relative à un deuxième système général de reconnaissance des formations professionnelles, qui complète la directive 89/48/CEE, le ministre ayant l'Education nationale dans ses attributions peut exiger du requérant de choisir entre l'accomplissement d'un stage d'adaptation et une épreuve d'aptitude, conformément aux dispositions de l'article 3 du règlement grand-ducal du 2 juin 1994 portant transposition de la directive 92/51/CEE.
 
 <a id="art-7-20230717"></a>
 ## Art. 7.
@@ -68,6 +160,14 @@ Seront annexées à cette demande toutes les pièces ayant trait au cycle d'étu
 La commission chargée de procéder à l'épreuve d'aptitude est nommée par le ministre ayant l'Education nationale dans ses attributions pour une durée de trois ans.
 
 Elle se compose de cinq membres effectifs, à savoir:
+
+- un représentant du ministre ayant l'Education nationale dans ses attributions, qui préside la commission;
+
+- un représentant du ministre ayant la Santé dans ses attributions;
+
+- deux orthoptistes;
+
+- un médecin spécialisé en ophtalmologie.
 
 Pour chaque membre effectif, il est nommé un membre suppléant.
 
@@ -97,6 +197,12 @@ La commission dresse un procès-verbal de ses opérations et le transmet au mini
 ## Art. 10.
 
 Les membres de la commission d'examen visée à l'article 7 touchent des indemnités fixées sur la base du barème ci-dessous:
+
+- une indemnité forfaitaire de base de 10,43 €
+
+- une indemnité par questionnaire de 5,55 €
+
+- une indemnité de correction par candidat de 0,51 €.
 
 Ces indemnités correspondent au nombre indice 100 et subissent la même adaptation au coût de la vie que les traitements des fonctionnaires d'Etat.
 
@@ -157,6 +263,12 @@ En cas de rejet de la demande, le requérant soumet un nouveau projet de stage p
 
 Lorsque la durée de la formation à l'étranger est inférieure d'au moins une année à celle prévue à l'article 3, le ministre ayant l'Education nationale dans ses attributions peut exiger, en vue de la reconnaissance des études, une expérience professionnelle acquise dans un Etat membre de l'Union Européenne ou un pays tiers, étant entendu:
 
+- que cette expérience professionnelle doit être consécutive à l'obtention du diplôme final permettant l'accès à la profession d'orthoptiste;
+
+- que l'expérience professionnelle exigée pour la reconnaissance des études ne peut dépasser le double de la période manquante, lorsqu'il s'agit d'un cycle d'études post-secondaires et/ou d'un stage professionnel accompli sous l'autorité d'un responsable de stage et sanctionné par un examen;
+
+- que l'expérience professionnelle exigée ne peut dépasser la période de formation manquante, lorsque cette dernière porte sur une pratique professionnelle accomplie avec la surveillance d'un professionnel qualifié.
+
 En tout état de cause, l'expérience professionnelle exigible ne peut excéder quatre ans.
 
 ##### Section II: Diplômes étrangers ne tombant pas sous le champ d’application d’une directive communautaire visée à l’article 6
@@ -165,6 +277,12 @@ En tout état de cause, l'expérience professionnelle exigible ne peut excéder 
 ## Art. 20.
 
 Dans le cas où les niveaux, durées et curricula de la formation effectuée à l'étranger comportent des programmes d'études différents de ceux visés aux articles 3 et 4, le ministre ayant l'Education nationale dans ses attributions peut imposer aux requérants titulaires d'un diplôme étranger non couvert par une directive communautaire soit:
+
+- une épreuve d'aptitude;
+
+- un stage d'adaptation;
+
+- à la fois une épreuve d'aptitude et un stage d'adaptation.
 
 Les modalités de l'épreuve d'aptitude et du stage d'adaptation sont définies aux articles 7 à 19.
 
@@ -185,18 +303,74 @@ L'exercice de la profession d'orthoptiste est réservé au professionnel de la s
 
 L'orthoptiste est habilité à accomplir les actes professionnels suivants de façon autonome:
 
+1. les actes relatifs à la détermination subjective et objective de l'acuité visuelle;
+
+2. le conseil en matière d'ergonomie visuelle concernant le domicile, le poste de travail, le poste scolaire ainsi que les moyens de transport.
+
 <a id="art-24"></a>
 ## Art. 24.
 
 Dans le cadre d'un programme de dépistage organisé ou agréé par le ministre de la Santé, l'orthoptiste est habilité à accomplir les actes suivants:
 
+1. la détermination objective et subjective de la fixation;
+
+2. le bilan des déséquilibres oculomoteurs;
+
+3. le dépistage des dyschromatopsies congénitales;
+
+4. l'établissement de la courbe d'adaptation à l'obscurité.
+
 <a id="art-25"></a>
 ## Art. 25.
+
+(1)
+
+Sur prescription médicale écrite préalable, l'orthoptiste est habilité à accomplir, outre les actes visés aux points 1, 2 et 3 de l'article 24, les actes suivants:
+
+1. le bilan et la rééducation des personnes atteintes d'amblyopie, de strabismes, d'hétérophories, d'insuffisances de convergence ou de déséquilibres binoculaires et la proposition d'aides visuelles et techniques;
+
+2. le bilan et la rééducation de la basse vision et des perturbations du champ visuel ainsi que la proposition d'aides visuelles et techniques.
+
+(2)
+
+Sur prescription médicale écrite préalable et sous la réserve que le médecin prescripteur procède à l'interprétation des résultats, l'orthoptiste est habilité à accomplir les actes suivants:
+
+1. la périmétrie;
+
+2. la campimétrie;
+
+3. l'établissement de la courbe d'adaptation à l'obscurité;
+
+4. l'exploration du sens chromatique.
+
+(3)
+
+Sur prescription médicale, l'orthoptiste établit un bilan qui comprend le diagnostic orthoptique ainsi que, le cas échéant, un plan de soins. Ce bilan, accompagné du choix des actes et des techniques appropriées, est communiqué au médecin prescripteur.
+
+(4)
+
+L'orthoptiste informe le médecin prescripteur:
+
+1. de toute information en sa possession susceptible d'être utile pour le diagnostic ou le traitement du patient;
+
+2. de l'éventuelle adaptation du traitement en fonction de l'évolution de l'état de la pathologie à traiter.
+
+(5)
+
+L'orthoptiste adresse à l'issue de la dernière séance un rapport orthoptique au médecin prescripteur.
+
+(6)
+
+Chaque fois qu'il le juge opportun, l'orthoptiste demande des compléments d'information au médecin prescripteur.
 
 <a id="art-26"></a>
 ## Art. 26.
 
 L'orthoptiste est habilité à assister le médecin pour effectuer les enregistrements à l'occasion des explorations fonctionnelles suivantes:
+
+1. la rétinographie;
+
+2. l'électrophysiologie oculaire.
 
 <a id="art-27"></a>
 ## Art. 27.

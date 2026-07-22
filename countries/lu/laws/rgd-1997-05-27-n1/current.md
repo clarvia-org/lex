@@ -31,15 +31,101 @@ Les concessions de pharmacie à créer, ou qui deviennent vacantes, feront l’o
 
 Ces demandes doivent être accompagnées des documents et renseignements suivants:
 
+1.
+
+Une courte notice biographique.
+
+2.
+
+Le diplôme conférant le grade de pharmacien.
+
+3.
+
+Une copie de l'autorisation d'exercer la profession de pharmacien au Luxembourg.
+
+4.
+
+Un certificat de nationalité.
+
+5.
+
+Les certificats relatifs aux occupations pharmaceutiques au Luxembourg ou dans un autre Etat membre de l’Union Européenne, postérieures à l’obtention de l’autorisation d’exercer au Luxembourg ou dans l’autre pays membre. Les occupations pharmaceutiques de nature salariée sont attestées par les employeurs correspondants. Celles exercées à titre d’indépendant sont certifiées par le collège médical, ou, si elles se rapportent à une activité pharmaceutique réalisée à l’étranger, par le conseil de l’ordre des pharmaciens du pays en cause ou, à défaut, par l’organisme exerçant des fonctions similaires. Ces certificats portent le visa de l’Inspection des pharmacies ou de l’autorité étrangère exerçant la fonction de surveillance des pharmacies.
+
+Ces certificats indiquent, outre la durée totale de l'occupation pharmaceutique, la nature de l'occupation ainsi que l'horaire hebdomadaire exprimé en heures/semaine.
+
+Pour les occupations pharmaceutiques de nature salariée le ministre de la Santé peut demander au candidat de compléter sa demande par un certificat du Centre Commun de la Sécurité Sociale ou d’un organisme étranger similaire, attestant les périodes d’occupation avec les heures de travail prestées, et/ou par son ou ses contrat(s) de travail avec d’éventuels avenants.
+
+6.
+
+S'il y a lieu, les titres scientifiques dont question à l'article 2 sous 3 ci-dessous, accompagnés d'une pièce documentant qu'ils ont été inscrits au registre des diplômes visé à la loi du 17 juin 1963 ayant pour objet de protéger les titres d'enseignement supérieur.
+
 <a id="art-2"></a>
 ## Art. 2.
 
 Le choix du candidat se fera d'après les critères suivants:
 
+1.
+
+L'ancienneté du diplôme visé à l'article 1er sous 2.
+
+L’ancienneté du diplôme sera portée en compte à raison de trois points par année entière et d’un quart de point par mois.
+
+2.
+
+L'occupation pharmaceutique.
+
+3.
+
+Les titres scientifiques.
+
+Le temps des études et des travaux scientifiques à caractère universitaire, effectués postérieurement à l'obtention du diplôme de pharmacien et sanctionnés par un titre ou diplôme, sera porté en compte à raison de neuf points par année d'études ou de travaux, à condition que le titre ou diplôme ait été inscrit au registre des diplômes visé à la loi du 17 juin 1963 ayant pour objet de protéger les titres d'enseignement supérieur.
+
+4.
+
+En cas d'égalité de points, suite à l'application des critères sous 1 à 3 ci-dessus, le candidat le plus âgé l'emportera.
+
+Lors de l'appréciation des demandes le ministre de la Santé tient compte outre des pièces versées par les candidats en vertu de l'article 1er des inscriptions les concernant au registre professionnel des pharmaciens. A sa demande les candidats faisant valoir des occupations pharmaceutiques dans un autre Etat membre autoriseront le ministre à consulter par l'intermédiaire des autorités étrangères compétentes les données afférentes les concernant contenues dans des registres professionnels ou recueils de données analogues.
+
+5.
+
+La durée tant de l’ancienneté du diplôme que de l’occupation pharmaceutique et des études et travaux scientifiques s’apprécie à la date-limite fixée pour l’introduction des candidatures à l’article 1er alinéa 1er ci-dessus.
+
 <a id="art-3"></a>
 ## Art. 3.
 
 Ne seront pas prises en considération.
+
+1.
+
+Les demandes de candidats non autorisés à exercer leur profession au Luxembourg.
+
+2.
+
+Les demandes de ressortissants de pays tiers.
+
+3.
+
+Les demandes incomplètes.
+
+4.
+
+(abrogé)
+
+5.
+
+Les demandes de candidats ayant subi le retrait d’une précédente concession ou ayant fait à l’étranger l’objet d’une mesure équivalente.
+
+6.
+
+Les demandes de candidats qui ne justifieraient pas avoir travaillé, postérieurement à l’obtention du diplôme de pharmacien, pendant deux années au moins et à mi-temps au moins ou en équivalent mi-temps, dans une pharmacie du pays, dont au moins six mois dans une pharmacie ouverte au public.
+
+7.
+
+Les demandes de candidats qui pendant les deux années précédant le concours n’auraient pas exercé à mi-temps au moins une profession pour l’exercice de laquelle le diplôme de pharmacien est requis par la loi.
+
+8.
+
+Les demandes de candidats qui pendant les six mois précédant le concours n’auraient pas exercé à mi-temps au moins dans une pharmacie du pays.
 
 <a id="art-4"></a>
 ## Art. 4.
@@ -56,6 +142,18 @@ Est considérée comme légitime au sens des alinéas qui précèdent toute abse
 ## Art. 5.
 
 Pour chaque concession le ministre de la Santé fera dresser un cahier des charges qui sera à la disposition des intéressés à partir du jour de la publication de l’avis prévu à l’article 1er du présent règlement et qui énoncera:
+
+1.
+
+la localisation de la pharmacie à concéder;
+
+2.
+
+le délai endéans lequel, après l’octroi de la concession, la pharmacie devra être ouverte. Ce délai ne pourra normalement pas dépasser six mois et ne pourra être prolongé que pour de justes motifs;
+
+3.
+
+éventuellement les clauses et conditions spéciales de l’octroi et de l’exploitation de la concession.
 
 <a id="art-6"></a>
 ## Art. 6.
@@ -81,12 +179,28 @@ La redevance se détermine d’après le chiffre d’affaires annuel réalisé p
 
 Est prise en compte la totalité du chiffre d’affaires réalisé par le concessionnaire par la vente de produits généralement quelconques, pharmaceutiques ou non, à l’exception des produits suivants:
 
+- médicaments vétérinaires;
+
+- médicaments à usage humain, pour lesquels la marge commerciale du concessionnaire est inférieure à 31,83%.
+
 La redevance est payable par année entre les mains du receveur des contributions du ressort afférent. Faute de paiement le ministre de la Santé peut, après mise en demeure du retardataire, retirer la concession.
 
 <a id="art-10"></a>
 ## Art. 10.
 
 La concession pourra encore être retirée dans les cas suivants:
+
+1.
+
+s’il s’avère que le concessionnaire ne remplissait pas les conditions de l’octroi;
+
+2.
+
+si l’installation et l’aménagement de la pharmacie sont reconnus insuffisants, après mise en demeure du concessionnaire;
+
+3.
+
+si le concessionnaire n’offre plus les garanties matérielles ou morales nécessaires à la bonne gestion de la pharmacie.
 
 <a id="art-11"></a>
 ## Art. 11.

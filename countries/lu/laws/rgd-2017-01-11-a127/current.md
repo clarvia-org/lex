@@ -63,6 +63,18 @@ Les interventions des psychologues sont coordonnées par le Centre psycho-social
 
 Le titulaire de classe prépare l’entretien d’orientation avec les parents de l’élève concerné ainsi que la décision d’orientation en rassemblant les pièces énumérées à l’article 26, paragraphe 2, de la loi modifiée du 6 février 2009 portant organisation de l’enseignement fondamental et des productions montrant la progression de l’élève au cours du quatrième cycle, c’est-à-dire au moins:
 
+1. quatre productions écrites en langue française dont deux productions écrites libres ;
+
+2. quatre productions écrites en langue allemande dont deux productions écrites libres ;
+
+3. quatre productions incluant tous les domaines de développement et d’apprentissage des mathématiques;
+
+4. deux productions du domaine des sciences naturelles et humaines ;
+
+5. deux créations artistiques dont un dessin ;
+
+6. un autoportrait rédigé dans une des trois langues scolaires au choix de l’élève.
+
 <a id="art-5"></a>
 ## Art. 5.
 

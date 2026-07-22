@@ -48,6 +48,20 @@ Durant leur séjour au centre, les retenus sont strictement séparés des autres
 
 Les retenus sont soumis à un régime spécial adapté à leur situation spécifique:
 
+1. au plus tard le premier jour ouvrable après leur admission, les retenus sont informés sur leur situation administrative ainsi que sur leurs droits et devoirs;
+
+2. les retenus sont examinés par un médecin dans les 24 heures de leur admission au centre et aussi souvent qu’un examen médical est nécessaire ultérieurement;
+
+3. les retenus ne peuvent être soumis à aucune obligation de travail en prison;
+
+4. sur demande écrite, le retenu peut être autorisé par le directeur à participer à des activités avec des détenus s’il est établi que ces activités sont dans l’intérêt du retenu;
+
+5. les retenus bénéficient d’un droit de correspondance écrite illimité; ils ont le droit de suivre les émissions radiophoniques et télévisées; ils ont accès au téléphone dans les limites à déterminer par le Ministre de la Justice;
+
+6. le droit de visite est réglé à l’instar de celui des prévenus, sauf que les permis de visite sont délivrés par le Ministre de la Justice;
+
+7. à l’exception des couples mariés, les hommes et les femmes sont logés dans des quartiers séparés à l’intérieur du centre.
+
 <a id="art-5-20110915"></a>
 ## Art. 5.
 

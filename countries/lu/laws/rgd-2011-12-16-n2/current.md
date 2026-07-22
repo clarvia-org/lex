@@ -30,15 +30,39 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 Pour l’exercice de la chasse sont interdits les armes à feu et moyens suivants:
 
+- les armes à feu automatiques ,
+
+- les armes à feu semi-automatiques dont le chargeur et la chambre peuvent contenir ensemble plus de trois cartouches ,
+
+- les armes munies de sources lumineuses artificielles ou de dispositifs pour éclairer la cible,
+
+- les armes munies d’un dispositif de visée comportant un convertisseur d’image ou un amplificateur d’image électronique ou tout autre dispositif pour tir de nuit,
+
+- les fusils munis d’un silencieux,
+
+- les armes de guerre automatiques ou semi-automatiques même transformées en armes de répétition,
+
+- les pistolets et revolvers,
+
+- les cartouches à projectiles militaires, les projectiles gainés et les projectiles non expansifs.
+
 <a id="art-2"></a>
 ## Art. 2.
 
 Sans préjudice des dispositions de l’article 1er, seules les armes suivantes peuvent être utilisées:
 
+- les fusils à canon lisse des calibres d’au moins 20 et d’au plus 12,
+
+- les carabines à canon rayé d’un calibre nominal d’au moins .22 ou 5,58 mm.
+
 <a id="art-3"></a>
 ## Art. 3.
 
 Pour les armes à canon rayé, seules les munitions désignées ci-dessous peuvent être utilisées pour la chasse aux espèces de gibier suivantes:
+
+- chevreuil: cartouches à balles pour canon rayé développant à l’impact une énergie d’au moins 980 J à 100 m de la bouche du canon;
+
+- cerf, sanglier, mouflon et daim: cartouches à balles d’un calibre d’au moins 6,5 mm pour canon rayé et développant à l’impact une énergie d’au moins 2.200 J à 100 m de la bouche du canon.
 
 <a id="art-4"></a>
 ## Art. 4.
@@ -56,6 +80,24 @@ Pour le tir des espèces ramier, lapin, fouine, renard, raton laveur, chien vive
 ## Art. 6.
 
 Sans préjudice des autorisations requises en vertu des lois et règlements existants, peuvent être utilisés comme moyens auxiliaires lors de l’exercice de la chasse:
+
+1. les chiens;
+
+2. les furets;
+
+3. les appeaux autres que mécaniques ou électroniques;
+
+4. les amplificateurs d’images optiques avec ou sans système de visée électrique;
+
+5. les affûts et miradors;
+
+6. les écrans ou paillassons;
+
+7. les couteaux de chasse;
+
+8. les épieux;
+
+9. les imitations d’oiseaux.
 
 <a id="art-7"></a>
 ## Art. 7.

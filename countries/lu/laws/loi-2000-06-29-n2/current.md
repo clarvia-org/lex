@@ -40,12 +40,46 @@ Le siège de l'établissement est fixé à Luxembourg.
 
 Le Centre a pour mission de gérer l'ensemble des installations au titre:
 
+1. de leur prioritaire vocation sportive dans l'intérêt des activités des fédérations sportives, du sport scolaire, de manifestations sportives de tout genre, ainsi que de la natation compétitive et récréative;
+
+2. de leur vocation culturelle pour le déroulement d'événements et de spectacles susceptibles d'attirer un grand public;
+
+3. d'une vocation accessoire à caractère congressiste;
+
+4. des possibilités et disponibilités de séjour, d'hébergement et de restauration.
+
 Il peut sous-traiter par contrat l'exécution de certaines tâches relevant du domaine de l'entretien des installations, de l'hébergement et de la restauration.
 
 L'affectation des terrains et bâtiments mis à la disposition du Centre, les principes relatifs à leur jouissance et les obligations incombant aux parties sont régis par une convention à conclure entre l'Etat et le Centre.
 
 <a id="art-3"></a>
 ## Art. 3.
+
+1. Le Centre est administré par un conseil d'administration composé de neuf membres nommés et révoqués par le Grand-Duc sur proposition du Conseil de Gouvernement, dont.
+
+- un membre représentant le Comité olympique et sportif luxembourgeois en tant qu'organisme central du sport;
+
+- un membre représentant l'organisation associative de la culture,
+
+- un membre représentant la Ville de Luxembourg et
+
+- un membre choisi pour ses compétences dans l'administration d'entreprises.
+
+2. Ne peuvent devenir membres du conseil d’administration le ou les fonctionnaires qui, en vertu de leurs fonctions, sont appelés à surveiller ou à contrôler le Centre ou qui, en vertu des pouvoirs leur délégués, approuvent des actes administratifs du Centre ou signent des ordonnances de paiement ou toute autre pièce administrative entraînant une dépense de l’Etat en faveur du Centre.
+
+3. Le président et le vice-président du conseil d’administration sont désignés par le Conseil de Gouvernement.
+
+4. Le conseil d’administration peut choisir un secrétaire administratif hors de son sein.
+
+5. Les membres du conseil d’administration sont nommés pour une durée de cinq ans, renouvelable à son terme.
+
+6. Le conseil d’administration peut à tout moment être révoqué par le Grand-Duc. Toutefois, le Grand-Duc peut révoquer un membre avant l’expiration de son mandat sur proposition du ministre de tutelle, le conseil d’administration entendu en son avis.
+
+7. En cas de démission, de décès ou de révocation avant terme du mandat d’un administrateur, il est pourvu à son remplacement par la nomination d’un nouveau membre qui achève le mandat de celui qu’il remplace.
+
+8. Le conseil d’administration a la faculté de recourir à l’avis d’experts s’il le juge nécessaire. Les experts peuvent assister avec voix consultative aux réunions du conseil d’administration, si celui-ci le leur demande.
+
+9. Les indemnités et jetons de présence des membres et participants aux réunions du conseil d’administration sont fixés par le Gouvernement en Conseil et sont à charge du Centre.
 
 <a id="art-4"></a>
 ## Art. 4.
@@ -58,6 +92,28 @@ Le conseil d'administration ne peut valablement délibérer que si la majorité 
 ## Art. 5.
 
 Le conseil d'administration décide notamment sur les points suivants, sous réserve de l'approbation du ministre de tutelle pour les points sous (1):
+
+- le budget d'investissement et d'exploitation ainsi que les comptes de fin d'exercice;
+
+- l'engagement et le licenciement du directeur;
+
+- l'organigramme, la grille des emplois et leur classification ainsi que les conditions et modalités de rémunération et le volume des tâches du personnel;
+
+- les travaux de construction, de grosses réparations ou de démolitions;
+
+- les emprunts à contracter;
+
+- l'acceptation et le refus de dons et de legs;
+
+- les orientations générales quant aux utilisations et activités du Centre;
+
+- le rapport général d'activités;
+
+- les actions judiciaires à intenter et les transactions à conclure;
+
+- les conventions à conclure;
+
+- l'engagement du personnel du Centre.
 
 Les décisions qui ont une incidence directe sur le budget de l'Etat sont soumises à l'approbation du Conseil de Gouvernement.
 
@@ -78,6 +134,20 @@ Le directeur assiste aux réunions du conseil d'administration avec voix consult
 ## Art. 7.
 
 Les ressources du Centre proviennent notamment:
+
+1. des contributions inscrites au budget de l'Etat;
+
+2. de la location et de la mise à disposition des installations;
+
+3. du remboursement par des tiers de services et de prestations offerts;
+
+4. des revenus d'exploitations et de manifestations;
+
+5. des services commissionnés et concessionnés;
+
+6. de dons et legs;
+
+7. d'emprunts.
 
 <a id="art-8"></a>
 ## Art. 8.
@@ -122,3 +192,33 @@ Les dons en espèces faits au Centre sont déductibles comme dépenses spéciale
 ## Art. 13.
 
 Les fonctionnaires, fonctionnaires stagiaires, employés ou ouvriers de l'Etat faisant actuellement partie du cadre du personnel du Centre sportif national conformément à l'article 21 de la loi du 29 novembre 1988 portant organisation de la structure administrative de l'éducation physique et des sports sont repris par l'établissement suivant les modalités ci-après:
+
+(1)
+
+Les fonctionnaires du Centre sportif national obtiennent une nomination auprès du Centre au niveau des fonctions qu'ils occupent au moment de l'entrée en vigueur de la présente loi.
+
+Les fonctionnaires stagiaires obtiennent une admission au stage dans leur carrière respective.
+
+Ils bénéficient d'une réduction de stage égale à la période de stage accomplie au moment de l'entrée en vigueur de la présente loi.
+
+Les employés et ouvriers de l'Etat sont engagés auprès du Centre tout en conservant les droits attachés à leur ancienneté acquis dans le cadre de leur contrat originaire. Le directeur décide de leur affectation.
+
+Les carrières sont réglées en ce qui concerne les différentes fonctions qu'elles comportent, le nombre d'emplois, les fonctions de promotion ainsi que les conditions et la forme des nominations par les dispositions de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l'Etat ainsi que par les dispositions de la loi modifiée du 28 mars 1986 portant harmonisation des conditions et modalités d'avancement dans les différentes carrières des administrations et services de l'Etat et par la loi du 29 novembre 1988 pour autant que les dispositions de celle-ci ne sont pas contraires à la présente loi.
+
+Le nombre des fonctions du cadre fermé et des grades de substitution est arrêté pour le Centre au niveau du nombre des emplois occupés au moment de la mise en vigueur de la présente loi.
+
+Les modifications législatives, apportées ultérieurement aux carrières, sont applicables aux agents précités du Centre.
+
+Les fonctionnaires et les fonctionnaires stagiaires, les employés de l'Etat et les ouvriers de l'Etat, en service auprès du Centre sportif national à la date d'entrée en vigueur de la présente loi, peuvent opter entre leur statut actuel et le nouveau régime établi par la présente loi.
+
+(2)
+
+Le personnel visé à l'alinéa final du paragraphe (1) ci-dessus peut bénéficier d'un changement d'administration dans les conditions et suivant les modalités fixées par la loi modifiée du 27 mars 1986 selon lesquelles le fonctionnaire de l'Etat peut se faire changer d'administration.
+
+Il peut être changé d'office d'administration par le Gouvernement en conseil sur initiative soit du ministre de tutelle, soit du conseil d'administration du Centre.
+
+Sans préjudice des dispositions contenues dans la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l'Etat et concernant notamment la protection et la discipline, et de celles contenues dans la loi modifiée du 27 janvier 1972 fixant le régime des employés de l'Etat et concernant notamment la résiliation du contrat, les décisions et interventions que les lois ou règlements régissant le statut de ce personnel attribuent au Gouvernement en conseil ou à un membre du Gouvernement, sont prises respectivement soit par le ministre compétent soit par le conseil d'administration.
+
+(3)
+
+Le Centre rembourse au Trésor les traitements, indemnités, salaires et charges sociales des agents publics repris.

@@ -35,7 +35,19 @@ Pour chaque institution éducative, sociale, culturelle ou de soins qui prend en
 <a id="art-2"></a>
 ## Art. 2.
 
-Les éléments suivants font partie de la convention: La convention type est déterminée conformément au modèle figurant en annexe du présent règlement.
+Les éléments suivants font partie de la convention:
+
+- le champ d'application,
+
+- la coopération entre les parties concernées,
+
+- l'organisation du stage de pratique professionnelle,
+
+- les obligations et responsabilités particulières,
+
+- les modalités de décompte de l'aide particulière.
+
+La convention type est déterminée conformément au modèle figurant en annexe du présent règlement.
 
 <a id="art-3"></a>
 ## Art. 3.

@@ -28,6 +28,48 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 <a id="art-1er"></a>
 ## Art. 1er.
 
+(1)
+
+Sont considérés comme pays d'origine sûrs au sens de l'article 21 de la loi modifiée du 5 mai 2006 relative au droit d'asile et à des formes complémentaires de protection:
+
+- la République d'Albanie;
+
+- la République du Bénin;
+
+- la République de Bosnie-Herzégovine;
+
+- la République du Cap-Vert;
+
+- la République de Croatie;
+
+- la République du Ghana;
+
+- la République de Macédoine du Nord
+
+- la République du Mali;
+
+- la République du Monténégro;
+
+- la République du Sénégal;
+
+- l'Ukraine.
+
+- la République de Serbie
+
+- la République du Kosovo.
+
+- la Géorgie
+
+(2)
+
+Sans préjudice du paragraphe qui précède, sont considérés comme pays d'origine sûrs uniquement à l'égard des demandeurs de protection internationale de sexe masculin:
+
+- la République du Bénin;
+
+- la République du Ghana;
+
+- la République du Mali.
+
 <a id="art-2"></a>
 ## Art. 2.
 

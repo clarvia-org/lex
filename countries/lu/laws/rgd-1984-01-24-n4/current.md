@@ -27,17 +27,29 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 <a id="art-1er"></a>
 ## Art. 1er.
 
-Le Ministre de la Santé peut agréer une association sans but lucratif en vue d'assurer la fonction de service national de coordination pour le prélèvement d'organes . Les conditions sous lesquelles cet agrément peut être donné ainsi que les charges qui incombent à l'association ainsi agréée sont fixées au présent règlement.
+Le Ministre de la Santé peut agréer une association sans but lucratif en vue d'assurer la fonction de service national de coordination pour le prélèvement d'organes .
+
+Les conditions sous lesquelles cet agrément peut être donné ainsi que les charges qui incombent à l'association ainsi agréée sont fixées au présent règlement.
 
 <a id="art-2"></a>
 ## Art. 2.
 
-L'agrément n'est donné qu'à une seule association. Celle-ci doit pouvoir être considérée comme représentacive des médecins susceptibles de participer au prélèvement d'organes au Luxembourg. Est considérée comme représentative une association qui réunit au moins les deux tiers des médecins susceptibles de participer au prélèvement. Ces médecins doivent être établis au pays. Sont considérés comme susceptibles de participer au prélèvement les médecins qui, soit ont une expérience professionnelle en la matière, soit manifestent de l'intérêt pour participer à ces opérations. Ces médecins doivent être spécialistes dans une des disciplines suivantes: chirurgie, urologie, néphrologie, médecine interne ou anesthésie-réanimation. Avant de donner son agrément le ministre prend l'avis du collège médical, qui se prononce en particulier sur la représentativité de l'association demanderesse.
+L'agrément n'est donné qu'à une seule association. Celle-ci doit pouvoir être considérée comme représentacive des médecins susceptibles de participer au prélèvement d'organes au Luxembourg.
+
+Est considérée comme représentative une association qui réunit au moins les deux tiers des médecins susceptibles de participer au prélèvement. Ces médecins doivent être établis au pays.
+
+Sont considérés comme susceptibles de participer au prélèvement les médecins qui, soit ont une expérience professionnelle en la matière, soit manifestent de l'intérêt pour participer à ces opérations. Ces médecins doivent être spécialistes dans une des disciplines suivantes: chirurgie, urologie, néphrologie, médecine interne ou anesthésie-réanimation.
+
+Avant de donner son agrément le ministre prend l'avis du collège médical, qui se prononce en particulier sur la représentativité de l'association demanderesse.
 
 <a id="art-3"></a>
 ## Art. 3.
 
 L'association doit être en mesure d'assurer la disponibilité, à toute heure du jour et de la nuit
+
+- d'une équipe de médecins pouvant procéder à un prélèvement et comprenant un anesthésiste-réanimateur, un chirurgien ou un urologue ainsi qu'un médecin-spécialiste en médecine interne ayant des connaissances en immuno-allergologie; le chirurgien ou urologue doit pouvoir se prévaloir d'une expérience en matière de prélèvement d'organes;
+
+- d'une équipe de coordinateurs chargée de recevoir les appels signalant l'existence d'un candidat-donneur, d'assurer, s'il y a lieu, la concertation avec la banque d'organes européenne dont question à l'article 5 ci-après et de faire les préparatifs nécessaires en vue du prélèvement.
 
 <a id="art-4"></a>
 ## Art. 4.
@@ -52,7 +64,9 @@ L'association doit être reconnue par la banque d'organes européenne la plus re
 <a id="art-6"></a>
 ## Art. 6.
 
-Le Ministre de la Santé charge un fonctionnaire du de l'application par l'association agréée des conditions et charges prévues au présent règlement. L'association est tenue de lui fournir, à sa demande, tous renseignements et documents dont il a besoin pour l'accomplissement de sa mission.
+Le Ministre de la Santé charge un fonctionnaire du de l'application par l'association agréée des conditions et charges prévues au présent règlement.
+
+L'association est tenue de lui fournir, à sa demande, tous renseignements et documents dont il a besoin pour l'accomplissement de sa mission.
 
 <a id="art-7"></a>
 ## Art. 7.

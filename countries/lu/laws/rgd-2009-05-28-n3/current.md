@@ -130,6 +130,10 @@ Outre le nombre des votants, le bureau électoral détermine le nombre des bulle
 
 Est nul
 
+1. tout bulletin non conforme ou expédié d’une manière non conforme aux prescriptions du présent règlement;
+
+2. tout bulletin qui est marqué par une signature, inscription, rature ou tout autre signe distinctif.
+
 <a id="art-11"></a>
 ## Art. 11.
 

@@ -28,6 +28,8 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 <a id="art-1er"></a>
 ## Art. 1er.
 
+Redevances d’emphytéose
+
 L’acquéreur ou ses ayants droit d’un logement destiné à la vente abordable ou à la vente à coût modéré payent une redevance d’emphytéose au moins annuellement.
 
 La redevance d’emphytéose est de 269 euros par appartement par an. Elle est de 497 euros par maison de type unifamilial par an. Ces montants correspondent à la valeur 855,62 de la cote d’application de l’échelle mobile des salaires.
@@ -35,15 +37,21 @@ La redevance d’emphytéose est de 269 euros par appartement par an. Elle est d
 <a id="art-2"></a>
 ## Art. 2.
 
+Évaluation des montants plafonds des coûts éligibles aux participations financières
+
 Pour l’évaluation et la fixation des montants plafonds des coûts éligibles aux participations financières, le ministre ayant le Logement dans ses attributions, ci-après « ministre », institue, par voie de règlement ministériel, un cahier des charges pour le développement de logements abordables.
 
 <a id="art-3"></a>
 ## Art. 3.
 
+Loyers des emplacements de stationnement de voiture
+
 Les emplacements de stationnement liés à un logement destiné à la location abordable sont loués, en fonction de leur situation géographique, de leur typologie et de leur aménagement, à un loyer mensuel fixé entre 60 et 197 euros par emplacement. Ces montants correspondent à la valeur 855,62 de la cote d’application de l’échelle mobile des salaires.
 
 <a id="art-4"></a>
 ## Art. 4.
+
+Composition de la commission consultative
 
 La commission consultative en matière de participations financières est composée au minimum de trois membres effectifs qui sont des fonctionnaires et employés publics du ministre choisis en fonction de leur attribution.
 
@@ -56,6 +64,8 @@ La commission consultative nomme un secrétaire administratif qui peut être cho
 <a id="art-5"></a>
 ## Art. 5.
 
+Fonctionnement de la commission consultative
+
 La commission consultative ne délibère valablement que si la majorité de ses membres est présente. Les avis sont adoptés à la majorité des suffrages exprimés. En cas de partage des voix, celle du président est prépondérante.
 
 Les participants aux réunions de la commission consultative gardent le secret des délibérations et des votes de la commission consultative.
@@ -64,5 +74,7 @@ Un règlement d’ordre intérieur, approuvé par le ministre, peut fixer les mo
 
 <a id="art-6"></a>
 ## Art. 6.
+
+Formule exécutoire
 
 Le ministre ayant le Logement dans ses attributions est chargé de l’exécution du présent règlement qui sera publié au Journal officiel du Grand-Duché de Luxembourg.

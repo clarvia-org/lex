@@ -87,7 +87,12 @@ Les bulletins employés au bureau électoral pour un même groupe électoral doi
 <a id="art-10"></a>
 ## Art. 10.
 
-On entend par : 1° enveloppe électorale : l’enveloppe dans laquelle est inséré le bulletin de vote et qui porte l’indication « Élections pour la Chambre des métiers, loi du 2 septembre 2011 », ainsi que la désignation du groupe pour lequel l’élection a lieu. 2° enveloppe de transmission : l’enveloppe avec laquelle l’électeur renvoie l’enveloppe électorale à l’adresse du président du bureau électoral et qui renseigne dans l’angle inférieur gauche le groupe, le numéro d’ordre, le nom, les prénoms et l’adresse de l’électeur. 3° enveloppe d’envoi : l’enveloppe avec laquelle le bureau électoral envoie aux électeurs les documents pour le vote, et qui porte dans l’angle supérieur gauche l’adresse du président du bureau de vote.
+On entend par :
+
+| 1° enveloppe électorale : | l’enveloppe dans laquelle est inséré le bulletin de vote et qui porte l’indication « Élections pour la Chambre des métiers, loi du 2 septembre 2011 », ainsi que la désignation du groupe pour lequel l’élection a lieu. |
+| --- | --- |
+| 2° enveloppe de transmission : | l’enveloppe avec laquelle l’électeur renvoie l’enveloppe électorale à l’adresse du président du bureau électoral et qui renseigne dans l’angle inférieur gauche le groupe, le numéro d’ordre, le nom, les prénoms et l’adresse de l’électeur. |
+| 3° enveloppe d’envoi : | l’enveloppe avec laquelle le bureau électoral envoie aux électeurs les documents pour le vote, et qui porte dans l’angle supérieur gauche l’adresse du président du bureau de vote. |
 
 Le format, l’adressage et l’affranchissement des enveloppes électorales doivent être conformes aux instructions de la Convention postale universelle telles que définies par l’Union postale universelle.
 
@@ -153,6 +158,16 @@ Deux des scrutateurs font le recensement des suffrages et en tiennent note, chac
 ## Art. 18.
 
 Sont nuls:
+
+1. les bulletins autres que ceux envoyés ou remis aux électeurs par le bureau électoral;
+
+2. les bulletins ne contenant l'expression d'aucun suffrage;
+
+3. les bulletins contenant plus de suffrages qu'il n'y a de membres à élire;
+
+4. les bulletins sur lesquels le votant se sera fait connaître et notamment ceux portant une marque ou un signe distinctif quelconque, ceux renfermés dans une enveloppe marquée ou dans une enveloppe autre que celle délivrée par le président;
+
+5. les bulletins dont l'enveloppe extérieure ne porte pas la signature
 
 <a id="art-19"></a>
 ## Art. 19.

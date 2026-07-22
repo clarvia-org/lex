@@ -76,6 +76,22 @@ Le siège du CGDIS est à Luxembourg.
 
 Le CGDIS a comme mission la planification, la mise en œuvre et l’organisation :
 
+1. des secours aux personnes victimes de détresses vitales, d’accidents, d’événements calamiteux, de catastrophes, de sinistres et d’incendies , du transport en ambulance dépêché par le central des secours d’urgence vers un service d’urgence d’un centre hospitalier participant au service de garde, tel que visé à l’article 4, paragraphe 6 de la loi du 8 mars 2018 relative aux établissements hospitaliers et à la planification hospitalière ;
+
+2. de la prévention, de la protection et de la lutte contre les incendies ;
+
+3. de la lutte contre les pollutions par produits nucléaires, radiologiques, biologiques et chimiques ;
+
+4. des mesures destinées à sauvegarder les biens, y compris l’environnement et le patrimoine culturel, lors d’événements calamiteux, de catastrophes, de sinistres, d’accidents, d’incendies, de crues et d’inondations ;
+
+5. de l’assistance internationale des secours en dehors du territoire du Grand-Duché de Luxembourg en cas d'événements calamiteux ;
+
+6. des dispositifs prévisionnels de secours lors de manifestations ou d’évènements comportant un risque particulier ;
+
+7. de la formation en matière de lutte contre l’incendie et de secours ;
+
+8. du Service d’aide médicale urgente, en abrégé SAMU.
+
 Le CGDIS opère le Service d’incendie et de sauvetage pour le compte de l’exploitant de l’aérodrome .
 
 Le CGDIS concourt à l’évaluation et à la prévention des risques technologiques ou naturels, à la gestion de crises nationales, ainsi qu’aux secours d’urgence. Il est en charge des relations opérationnelles avec des organisations de sécurité civile au niveau transfrontalier, interrégional, européen et international.
@@ -150,6 +166,22 @@ Les communes, l’État et toute autre personne morale de droit public perçoive
 
 Le CGDIS est administré par un conseil d’administration composé comme suit de seize membres nommés par le Gouvernement en conseil :
 
+1. deux membres proposés par le ministre ;
+
+2. deux membres proposés par le ministre ayant les Affaires communales dans ses attributions ;
+
+3. un membre proposé par le ministre ayant les Finances dans ses attributions ;
+
+4. un membre proposé par le ministre ayant la Santé dans ses attributions ;
+
+5. un membre proposé par le ministre ayant les Transports dans ses attributions ;
+
+6. un membre proposé par le ministre ayant la Coopération et l’Action humanitaire dans ses attributions ;
+
+7. un membre du conseil communal de la Ville de Luxembourg proposé par celui-ci ;
+
+8. sept membres de conseils communaux proposés suivant la procédure et dans les formes prévues à l’article 14.
+
 Ne peuvent devenir administrateur les fonctionnaires qui sont appelés à surveiller ou à contrôler le CGDIS ou qui, en vertu des pouvoirs leur délégués, approuvent des actes administratifs du CGDIS ou signent des ordonnances de paiement ou toute autre pièce administrative entraînant une dépense de l'État en faveur du CGDIS.
 
 Le Gouvernement en conseil peut révoquer à tout moment un ou plusieurs membres du conseil d'administration.
@@ -171,6 +203,14 @@ Les indemnités et jetons de présence des membres, des délégués et des exper
 ## Art. 14.
 
 Le Grand-Duché de Luxembourg est divisé en quatre zones de secours :
+
+1. la zone de secours Sud ;
+
+2. la zone de secours Centre ;
+
+3. la zone de secours Nord ;
+
+4. la zone de secours Est.
 
 La composition de chaque zone de secours est déterminée par règlement grand-ducal. Les communes de chaque zone sont représentées au conseil d’administration du CGDIS par deux administrateurs membres du conseil communal d’une de ces communes.
 
@@ -218,7 +258,21 @@ Le directeur général et les directeurs fonctionnels assistent aux réunions du
 
 Peuvent également assister au conseil d’administration avec voix consultative :
 
-Le conseil d’administration a la faculté de recourir à l’avis d’experts s’il le juge nécessaire. Les experts peuvent assister aux réunions du conseil d’administration avec voix consultative.
+1. un délégué représentant le SAMU ;
+
+2. un délégué représentant la Fédération nationale des pompiers ;
+
+3. un délégué représentant le cadre des pompiers professionnels du CGDIS ;
+
+4. un délégué représentant le cadre administratif et technique du CGDIS ;
+
+5. un délégué représentant les pompiers volontaires du CGDIS, désigné par le ministre ;
+
+6. un délégué représentant les jeunes pompiers, désigné par le ministre.
+
+Le conseil d’administration a la faculté de recourir à l’avis d’experts s’il le juge nécessaire.
+
+Les experts peuvent assister aux réunions du conseil d’administration avec voix consultative.
 
 Les modalités de désignation des délégués et des experts sont fixées par règlement grand-ducal.
 
@@ -246,9 +300,55 @@ L’administrateur qui manque aux obligations définies à l’alinéa précéde
 
 Le conseil d’administration statue sur les points suivants :
 
+1. l’approbation du rapport général d’activités ;
+
+2. les actions judiciaires à intenter et les transactions à conclure ;
+
+3. les conventions à conclure ;
+
+4. l’acceptation et le refus de dons et de legs ;
+
+5. l’engagement, la nomination, la révocation et le licenciement du personnel, à l’exception des membres du comité directeur ;
+
+6. l’organigramme, la grille et le nombre des emplois, ainsi que les conditions et modalités de rémunération ;
+
+7. la nomination d’un réviseur d’entreprises agréé ;
+
+8. le montant des contributions financières annuelles de l’État et des communes ;
+
+9. la désignation des fondés de pouvoir ;
+
+10. les taxes des services prestées par le CGDIS.
+
 Le conseil d’administration statue sur les points suivants sous réserve de l’approbation du ministre :
 
+1. la politique générale et les orientations stratégiques du CGDIS ;
+
+2. l’arrêt du budget annuel et des prévisions budgétaires pluriannuelles ;
+
+3. les plans pluriannuels d’investissement ;
+
+4. les plans pluriannuels d’engagement de personnel, dont le nombre maximal d’emplois à créer dans chaque cadre ;
+
+5. les emprunts et les garanties ;
+
+6. le règlement d’ordre interne du conseil d’administration, le règlement intérieur du CGDIS et le règlement opérationnel du CGDIS ;
+
+7. les acquisitions, aliénations et échanges d’immeubles et leur affectation, les conditions des baux de plus de neuf ans ;
+
+8. les grands projets de travaux de construction, de démolition ou de transformation et les grosses réparations ;
+
+9. l’engagement, la nomination, la révocation et le licenciement des membres du comité directeur.
+
 Le conseil d’administration statue sur les points suivants sous réserve de l’approbation du Gouvernement en conseil :
+
+1. les indemnités et les jetons de présence des membres, des délégués et des experts participant aux séances du conseil d’administration ;
+
+2. la fixation des indemnités des pompiers volontaires pour l’exercice de leurs fonctions et de leurs activités ;
+
+3. l’approbation des comptes annuels à la clôture d’exercice, présentés conformément à l’article 64 et suivants ;
+
+4. les plans d’intervention des secours prévus à l’article 97.
 
 Le conseil d’administration représente le CGDIS judiciairement et extrajudiciairement, agissant poursuites et diligences de son président.
 
@@ -283,6 +383,20 @@ Les directeurs fonctionnels sont responsables de l’organisation, de la planifi
 
 Pour l’exercice des missions prévues à l’article 4, le CGDIS comprend :
 
+1. la Direction générale (DG) ;
+
+2. la Direction de la coordination opérationnelle (DCO) ;
+
+3. la Direction de la stratégie opérationnelle (DSO) ;
+
+4. la Direction administrative et financière (DAF) ;
+
+5. la Direction des moyens logistiques (DML) ;
+
+6. la Direction médicale et de la santé (DMS) ;
+
+7. l’Institut national de formation des secours (INFS).
+
 ###### Sous-section 1 La Direction générale
 
 <a id="art-22"></a>
@@ -310,6 +424,20 @@ Sont également rattachés à la Direction de la coordination opérationnelle le
 
 Sous la supervision directe du Directeur de la coordination opérationnelle, il est institué un service du volontariat et de la promotion des jeunes pompiers qui a pour mission :
 
+1. de promouvoir et de valoriser le volontariat auprès du grand public ;
+
+2. de promouvoir le recrutement et la fidélisation des jeunes pompiers ;
+
+3. d’être l'interlocuteur privilégié des pompiers volontaires ;
+
+4. de soutenir les initiatives des centres d’incendie et de secours et des groupes d’intervention spécialisés dans leur politique de recrutement de nouveaux volontaires ;
+
+5. de contribuer à une gestion prospective et dynamique de la ressource humaine volontaire et mettre en œuvre toute action visant à la maintenir ;
+
+6. d’initier et de développer toutes les mesures contribuant à maintenir et améliorer la disponibilité des pompiers volontaires ;
+
+7. de mettre en œuvre une politique de rapprochement avec les employeurs de pompiers volontaires existants ou potentiels.
+
 ###### Sous-section 3 La Direction de la stratégie opérationnelle
 
 <a id="art-25"></a>
@@ -318,6 +446,26 @@ Sous la supervision directe du Directeur de la coordination opérationnelle, il 
 La Direction de la stratégie opérationnelle est chargée de la planification des urgences. Elle assure un service de prévention d’incendie et de sinistres au niveau national, zonal, groupemental et local.
 
 Elle a comme mission de :
+
+1. élaborer, réévaluer et adapter le plan national d’organisation des secours pour le compte du ministre ;
+
+2. procéder à l’analyse des risques courants et particuliers auxquels doivent faire face les secours ;
+
+3. établir les statistiques et les cartographies nécessaires à l’analyse des risques et à la planification des urgences et des interventions des secours ;
+
+4. rédiger les avis de prévention sur dossier pour les projets d’envergure nationale ;
+
+5. coordonner les activités en relation avec la prévention d’incendie et la planification des urgences et des interventions des secours au niveau national, zonal et local ;
+
+6. être à disposition des administrations communales et leur fournir pour l’accomplissement de leurs missions des textes sous forme d’avis, de prescriptions ou d’instructions techniques ;
+
+7. organiser, en collaboration avec la Direction de la coordination opérationnelle, les dispositifs prévisionnels pour les événements majeurs planifiables ;
+
+8. participer aux travaux du Haut-Commissariat à la Protection nationale en ce qui concerne les volets prévention, anticipation et gestion de crises ;
+
+9. contribuer avec les autres acteurs concernés en ce qui concerne les risques extraordinaires, naturels et technologiques, à l’analyse des risques et à l’établissement des plans d’intervention d’urgence y relatifs et
+
+10. participer à l’éducation du public en matière de prévention des risques et de sécurité civile.
 
 <a id="art-26"></a>
 ## Art. 26.
@@ -337,6 +485,22 @@ La Direction administrative et financière est chargée des travaux d’ordre ad
 ## Art. 28.
 
 La Direction médicale et de la santé exerce les missions suivantes :
+
+1. la coordination organisationnelle et la gestion du SAMU ;
+
+2. la coordination des dispositifs sanitaires avec les plans d’intervention d’urgence ;
+
+3. le soutien sanitaire des interventions du CGDIS ;
+
+4. la gestion du suivi des examens médicaux d’aptitude des pompiers volontaires et professionnels ;
+
+5. la surveillance de la condition physique et psychique des pompiers volontaires et professionnels ;
+
+6. la mise en œuvre de la médecine préventive, de l’hygiène et de la sécurité au travail ;
+
+7. la surveillance de l’état de l’équipement médico-secouriste du CGDIS ;
+
+8. la gérance des produits pharmaceutiques.
 
 Est rattaché à la Direction médicale et de la santé un service vétérinaire ayant comme mission de participer aux interventions de secours animaliers, de conseiller les intervenants concernant la conduite à tenir face à un animal représentant un danger physique ou biologique, de participer à la formation des pompiers volontaires et professionnels pour les interventions concernant les animaux ou la cynotechnie et d’assurer le suivi sanitaire des chiens du groupe cynotechnique.
 
@@ -364,6 +528,18 @@ La Direction des moyens logistiques est en charge de la préparation, de l’ex�
 
 L’Institut national de formation des secours exerce les missions suivantes :
 
+1. la conception de projets pédagogiques ;
+
+2. l’organisation de la formation initiale et continue des pompiers volontaires et professionnels ;
+
+3. la coordination et la promotion de la formation de la population ;
+
+4. de responsable pédagogique qui coordonne et anime le cadre de chargés de formation volontaires et professionnels et d’intervenants externes ;
+
+5. d’assurer le bon fonctionnement de l’INFS et de gérer les relations avec les partenaires professionnels et institutionnels de la formation ;
+
+6. de gestion de la reconnaissance des diplômes et des procédures quant à la validation des acquis de l’expérience.
+
 ##### Section 7 Le personnel du Corps grand-ducal d’incendie et de secours
 
 ###### Sous-section 1 Les généralités et les transferts de personnels au Corps grand-ducal d’incendie et de secours
@@ -379,6 +555,48 @@ Un règlement grand-ducal fixe les tenues, insignes et attributs des pompiers vo
 
 <a id="art-32"></a>
 ## Art. 32.
+
+(1)
+
+Le personnel qui relève de l’Administration des services de secours et du Service d’incendie et de sauvetage de l’Administration de la navigation aérienne ou qui y est détaché, ainsi que les postes vacants au moment de l’entrée en vigueur de la présente loi sont repris par le CGDIS.
+
+Les fonctionnaires visés par l’alinéa qui précède, qui avaient avant l’entrée en vigueur de la présente loi une expectative de carrière plus avantageuse pour l’accès aux différents grades de leur carrière, conservent leurs anciennes possibilités d’avancement, ceci sans préjudice de l’article 41 de la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État.
+
+Les agents visés au présent paragraphe peuvent bénéficier d’une nomination dans un des groupes ou sous-groupes de traitement, décidée par le conseil d’administration, selon les conditions et les modalités définies dans le règlement grand-ducal prévu à l’article 59.
+
+(2)
+
+Le personnel du Service d’incendie et d’ambulances de la Ville de Luxembourg, engagé sous le statut du fonctionnaire ou de l’employé communal au moment de l’intégration de ce service au CGDIS, est repris par celui-ci. Les agents en question restent soumis à leur statut respectif. Pour ces agents, les compétences attribuées par une disposition légale ou réglementaire au collège des bourgmestre et échevins et au conseil communal en matière de gestion du personnel communal sont exercées par le conseil d’administration du CGDIS.
+
+Les fonctionnaires visés par l’alinéa qui précède, qui exercent les missions de sapeur-pompier, peuvent opter dans le délai de trois ans à partir de l’entrée en vigueur de la présente loi et de façon irrévocable à être intégrés sous le statut du fonctionnaire de l’État dans le cadre des pompiers professionnels tel qu’il est prévu par l’article 50 en fonction de la carrière à laquelle ils appartiennent au moment de leur reprise par le CGDIS. Leur classement se fait sur base des conditions et modalités définies dans le règlement grand-ducal prévu à l’article 59.
+
+(3)
+
+Les fonctionnaires communaux exerçant des missions administratives ou techniques, engagés par les communes au moment de l’entrée en vigueur de la présente loi et affectés aux services des centres d’incendie et de secours, peuvent être repris par le CGDIS sur demande à introduire dans le délai de trois ans à partir de l’entrée en vigueur de la présente loi. Les agents en question restent soumis à leur statut respectif. Pour ces agents, les compétences attribuées par une disposition légale ou réglementaire au collège des bourgmestre et échevins et au conseil communal en matière de gestion du personnel communal sont exercées par le conseil d’administration du CGDIS.
+
+Les agents visés au présent paragraphe peuvent bénéficier d’une nomination dans un des groupes ou sous-groupes de traitement décidée par le conseil d’administration selon les conditions et les modalités définies dans le règlement grand-ducal prévu à l’article 59.
+
+(4)
+
+Le personnel exerçant des missions administratives ou techniques, engagé par les communes sous le statut du salarié à tâche manuelle et affecté aux services des centres d’incendie et de secours, peut être repris par le CGDIS sur demande à introduire dans le délai de trois ans à partir de l’entrée en vigueur de la présente loi. Ces agents sont engagés dans les conditions et suivant les modalités prévues par le contrat collectif des salariés de l’État.
+
+Les agents visés au présent paragraphe peuvent bénéficier d’une nomination dans un des groupes ou sous-groupes de traitement décidée par le conseil d’administration selon les conditions et les modalités définies dans le règlement grand-ducal prévu à l’article 59.
+
+(5)
+
+Le personnel exerçant des missions administratives ou techniques, engagé par les communes sous le statut de l’employé communal ou du salarié à tâche principalement intellectuelle et affecté aux services des centres d’incendie et de secours, peut être repris par le CGDIS sur demande à introduire dans le délai de trois ans à partir de l’entrée en vigueur de la présente loi. Ces agents sont engagés sous le statut de l’employé de l’État et continuent à jouir de la rémunération à laquelle ils ont droit en exécution de leur contrat de travail, ou, le cas échéant, du règlement grand-ducal modifié du 15 novembre 2001 concernant la rémunération des employés communaux.
+
+Les agents visés au présent paragraphe peuvent bénéficier d’une nomination dans un des groupes ou sous-groupes de traitement décidée par le conseil d’administration selon les conditions et les modalités définies dans le règlement grand-ducal prévu à l’article 59.
+
+(6)
+
+Les agents repris ou intégrés au CGDIS en vertu du présent article et nommés à un emploi opérationnel, mais qui ne remplissent pas les conditions pour bénéficier d’une nomination dans un des groupes ou sous-groupes de traitement prévus aux articles 51 à 53, font partie des cadres définis à l’article 50 en ce qui concerne le calcul du nombre maximal des pompiers professionnels du cadre supérieur et du cadre moyen, ainsi que pour l’allocation de la prime de risque prévue à l’article 54.
+
+(7)
+
+Les agents engagés ou repris par le CGDIS en exécution du présent article bénéficient d'une prime d'intégration non pensionnable de 15 points indiciaires. Elle s’élève à 35 points indiciaires pour les fonctionnaires relevant de la catégorie de traitement A, groupes de traitement A1 et A2, prévus au paragraphe 2.
+
+La prime d’intégration est versée mensuellement avec la rémunération de l’agent bénéficiaire.
 
 ###### Sous-section 2 L’engagement des pompiers volontaires du Corps grand-ducal d’incendie et de secours
 
@@ -413,6 +631,12 @@ Pour les missions d’une durée supérieure à vingt-quatre heures, le versemen
 ## Art. 36.
 
 Le cadre des pompiers volontaires comprend :
+
+1. le cadre supérieur ;
+
+2. le cadre moyen ;
+
+3. le cadre de base.
 
 Chaque cadre comprend des grades fonctionnels à définir par règlement grand-ducal.
 
@@ -468,6 +692,14 @@ Peuvent bénéficier du congé spécial défini à l'article 41 les personnes ex
 
 De surcroît, peuvent également bénéficier du congé spécial :
 
+1. les chefs de centre et chefs de centre adjoints, les chefs de groupe et chefs de groupe adjoints, ainsi que les chefs de zone adjoints dans le cadre de l'exercice de leurs attributions et pour autant qu'ils exercent cette fonction à titre volontaire. La durée du congé spécial pris à cet effet ne peut pas dépasser un maximum de sept jours ouvrables par an ;
+
+2. les membres du comité exécutif et les membres du bureau de la commission des jeunes pompiers de la Fédération nationale des pompiers dans le cadre de l'exercice de leurs attributions et pour autant qu'ils exercent cette fonction à titre volontaire. La durée du congé spécial pris à cet effet ne peut pas dépasser un maximum de sept jours ouvrables par an ;
+
+3. les pompiers volontaires du groupe d'intervention chargé de missions humanitaires en dehors du territoire du Grand-Duché de Luxembourg en cas d'événements calamiteux sur ordre du Gouvernement, soit sur demande du ou des pays concernés, soit dans le cadre d'une assistance internationale ;
+
+4. les personnes qui assument les devoirs de représentation à préciser par règlement grand-ducal. La durée du congé spécial pris à cet effet ne peut pas dépasser un maximum de sept jours ouvrables par an.
+
 <a id="art-43"></a>
 ## Art. 43.
 
@@ -520,16 +752,64 @@ Les pompiers volontaires sans profession ou exerçant une profession indépendan
 
 Le cadre des pompiers professionnels comporte
 
+1. le cadre supérieur ;
+
+2. le cadre moyen ;
+
+3. le cadre de base.
+
 Chaque cadre comprend des grades fonctionnels à définir par règlement grand-ducal.
 
 <a id="art-51"></a>
 ## Art. 51.
 
+(1)
+
+En fonction de leur qualification et du profil de l’emploi concerné, les agents du cadre supérieur relèvent de la catégorie de traitement A, groupes de traitement A1 ou A2, prévus par l’article 11 de la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État.
+
+Les pompiers professionnels du cadre supérieur appartenant au groupe de traitement A1 sont soumis, en ce qui concerne la fixation de leur traitement, aux dispositions applicables aux sous-groupes de traitement figurant à l’article 12, paragraphe 1er, lettres a), b) et c) de la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État.
+
+Toutefois, les conditions d'avancement et de promotion relatives à l'accomplissement d'une formation continue y prévues ne leur sont pas applicables pour ce qui est de l’accès au niveau supérieur. Pour ces agents, l'accès au niveau supérieur est subordonné à la condition de remplir les conditions d'exercice correspondant à l'emploi au niveau du commandement des opérations de secours telles que définies dans le règlement grand-ducal prévu à l'article 74.
+
+Ces agents exercent les fonctions d'officier pompier divisionnaire au niveau général, ainsi que celles d'officier pompier divisionnaire dirigeant, lorsqu'ils sont classés à un grade du niveau supérieur.
+
+Les pompiers professionnels du cadre supérieur appartenant au groupe de traitement A2 sont soumis, en ce qui concerne la fixation de leur traitement, aux dispositions figurant à l’article 12, paragraphe 2 de la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État.
+
+Toutefois, les conditions d'avancement et de promotion relatives à l'accomplissement d'une formation continue y prévues ne leur sont pas applicables pour ce qui est de l’accès au niveau supérieur. Pour ces agents, l'accès au niveau supérieur est subordonné à la condition de remplir les conditions d'exercice correspondant à l'emploi au niveau du commandement des opérations de secours telles que définies dans le règlement grand-ducal prévu à l'article 74.
+
+Ces agents exercent les fonctions d'officier pompier au niveau général, ainsi que celles d'officier pompier dirigeant, lorsqu'ils sont classés à un grade du niveau supérieur.
+
+(2)
+
+Le nombre des pompiers professionnels du cadre supérieur ne peut pas dépasser huit pour cent de l’effectif total des pompiers professionnels.
+
 <a id="art-52"></a>
 ## Art. 52.
 
+(1)
+
+En fonction de leur qualification et du profil de l’emploi concerné, les agents du cadre moyen relèvent de la catégorie de traitement B, groupe de traitement B1, prévu par l’article 11 de la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État et ils sont soumis, en ce qui concerne la fixation de leur traitement, aux dispositions applicables aux sous-groupes de traitement figurant à l’article 12, paragraphe 3, lettres a), b) et c) de la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État. Toutefois, les conditions d’avancement et de promotion relatives à l’accomplissement d’une formation continue y prévues ne leur sont pas applicables pour ce qui est de l’accès au niveau supérieur. Pour ces agents, l’accès au niveau supérieur est subordonné à la condition de remplir les conditions d’exercice correspondant à l’emploi au niveau du commandement des opérations de secours telles que définies dans le règlement grand-ducal prévu à l’article 74.
+
+Ces agents exercent les fonctions de sous-officier pompier au niveau général, ainsi que celles de sous-officier pompier dirigeant, lorsqu’ils sont classés à un grade du niveau supérieur.
+
+(2)
+
+Le nombre des pompiers professionnels du cadre moyen ne peut pas dépasser douze pour cent de l’effectif total des pompiers professionnels.
+
 <a id="art-53"></a>
 ## Art. 53.
+
+(1)
+
+Les agents du cadre de base relèvent de la catégorie de traitement C, groupe de traitement C1, prévus par l’article 11 de la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État et ils sont soumis en ce qui concerne la fixation de leur traitement aux dispositions applicables aux sous-groupes de traitement figurant à l’article 12, paragraphe 4, lettres a) et b) de cette même loi.
+
+Toutefois, les conditions d'avancement et de promotion relatives à l'accomplissement d'une formation continue y prévues ne leur sont pas applicables pour ce qui est de l’accès au niveau supérieur. Pour ces agents, l'accès au niveau supérieur est subordonné à la condition de remplir les conditions d'exercice correspondant à l'emploi au niveau du commandement des opérations de secours telles que définies dans le règlement grand-ducal prévu à l'article 74.
+
+Ces agents exercent les fonctions de pompier au niveau général, ainsi que celles de pompier dirigeant, lorsqu'ils sont classés à un grade du niveau supérieur.
+
+(2)
+
+Les dispositions de l’article 4, paragraphe 1er de la loi modifiée du 25 mars 2015 fixant les conditions et modalités de l’accès du fonctionnaire à un groupe de traitement supérieur au sien et de l’employé de l’État à un groupe d’indemnité supérieur au sien ne s’appliquent pas aux agents du cadre visé par le présent article.
 
 <a id="art-54"></a>
 ## Art. 54.
@@ -584,12 +864,42 @@ Un règlement grand-ducal fixe les conditions de recrutement, de formation et de
 <a id="art-60"></a>
 ## Art. 60.
 
-Le CGDIS dispose des recettes suivantes : a) le produit annuel de l'augmentation de la taxe sur la valeur ajoutée non prise en compte pour le calcul des dotations aux communes, sur base de l’article 26, paragraphe 1er, alinéa 2, lettre f) de la loi du 23 décembre 2016 concernant le budget des recettes et des dépenses de l’État pour l’exercice 2017 ; a) l’impôt spécial dans l'intérêt des services de secours instauré par la loi du 23 juillet 2016 portant création d’un impôt dans l’intérêt des services de secours, à charge de tout assureur qui commercialise une police d’assurance de responsabilité civile pour automoteur ; b) la participation étatique obligatoire provenant du budget des recettes et des dépenses de l’État et dont le montant sera inscrit chaque année dans la loi budgétaire ; c) la participation obligatoire des communes, composée, d’une part, du produit annuel de l’augmentation de la taxe sur la valeur ajoutée non prise en compte pour le calcul des dotations aux communes, sur la base de l’article 26, paragraphe 1er, alinéa 2, lettre f) de la loi du 23 décembre 2016 concernant le budget des recettes et des dépenses de l’État pour l’exercice 2017, et, d’autre part, des contributions financières annuelles de l’ensemble des communes, fixées conformément à l’article 100 de la loi communale modifiée du 13 décembre 1988. d) des participations financières de l’État ou des communes, autres que celles visées aux lettres b) et c), ou d’entités publiques européennes ou internationales e) des recettes générées par les taxes et les tarifs des services prestés par le CGDIS ; f)des remboursements de la part d’un organisme de sécurité sociale, tel que prévu à l’article 61, alinéa 2 ; g)des donations et des legs ; h)des recettes de location et de mise à disposition d’installations et d’équipements ; i)des emprunts éventuels.
+Le CGDIS dispose des recettes suivantes :
+
+1. a) le produit annuel de l'augmentation de la taxe sur la valeur ajoutée non prise en compte pour le calcul des dotations aux communes, sur base de l’article 26, paragraphe 1er, alinéa 2, lettre f) de la loi du 23 décembre 2016 concernant le budget des recettes et des dépenses de l’État pour l’exercice 2017 ;
+
+2. a) l’impôt spécial dans l'intérêt des services de secours instauré par la loi du 23 juillet 2016 portant création d’un impôt dans l’intérêt des services de secours, à charge de tout assureur qui commercialise une police d’assurance de responsabilité civile pour automoteur ;
+
+3. b) la participation étatique obligatoire provenant du budget des recettes et des dépenses de l’État et dont le montant sera inscrit chaque année dans la loi budgétaire ;
+
+4. c) la participation obligatoire des communes, composée, d’une part, du produit annuel de l’augmentation de la taxe sur la valeur ajoutée non prise en compte pour le calcul des dotations aux communes, sur la base de l’article 26, paragraphe 1er, alinéa 2, lettre f) de la loi du 23 décembre 2016 concernant le budget des recettes et des dépenses de l’État pour l’exercice 2017, et, d’autre part, des contributions financières annuelles de l’ensemble des communes, fixées conformément à l’article 100 de la loi communale modifiée du 13 décembre 1988.
+
+5. d) des participations financières de l’État ou des communes, autres que celles visées aux lettres b) et c), ou d’entités publiques européennes ou internationales
+
+6. e) des recettes générées par les taxes et les tarifs des services prestés par le CGDIS ;
+
+7. f)des remboursements de la part d’un organisme de sécurité sociale, tel que prévu à l’article 61, alinéa 2 ;
+
+8. g)des donations et des legs ;
+
+9. h)des recettes de location et de mise à disposition d’installations et d’équipements ;
+
+10. i)des emprunts éventuels.
 
 <a id="art-61"></a>
 ## Art. 61.
 
 Les dépenses pour la réalisation des prestations suivantes sont à charge de l’État, après déduction des recettes générées par ces mêmes prestations :
+
+1. le fonctionnement du SAMU, dont les frais issus de la collaboration opérationnelle avec l’association sans but lucratif « Luxembourg Air Rescue » ;
+
+2. le fonctionnement du service d’incendie et de sauvetage de l’Aéroport de Luxembourg ;
+
+3. le fonctionnement du centre secondaire de sauvetage aéronautique ;
+
+4. la réalisation des missions humanitaires du CGDIS en dehors du territoire du Grand-Duché de Luxembourg ;
+
+5. l’assistance réciproque entre États.
 
 Les dépenses nécessaires au fonctionnement du transport en ambulance, visé à l’article 4, alinéa 1er, lettre a), sont prises en charge par l’organisme de sécurité sociale dont la personne relève à hauteur de soixante-dix pour cent en cas de transport en ambulance sans prise en charge médicale spécialisée et à hauteur de cent pour cent en cas de transport en ambulance avec prise en charge médicale spécialisée.
 
@@ -695,6 +1005,20 @@ Le CGDIS intervient pour le compte de la commune du lieu de l’intervention en 
 
 Le CGDIS intervient pour le compte de l’État dans les cas suivants :
 
+1. en cas d’accident, sinistre ou catastrophe dont les conséquences dépassent les limites ou les capacités d’une commune ;
+
+2. lorsque, suite aux conséquences d’un accident, d’un sinistre ou d’une catastrophe, l’autorité communale du lieu de l’intervention demande l’intervention de l’État ;
+
+3. lorsque, suite aux conséquences d’un accident, d’un sinistre ou d’une catastrophe, l’autorité communale n’est plus en mesure d’exercer ses attributions ;
+
+4. en cas d’accident, sinistre ou catastrophe dont les conséquences requièrent une demande d’assistance internationale ;
+
+5. lors de la mise en œuvre d’un plan d’intervention d’urgence ;
+
+6. lorsque l’autorité communale s’est abstenue ou refuse de prendre les mesures appropriées, après une mise en demeure par le ministre ou son délégué restée sans résultat ;
+
+7. en cas de réquisition du CGDIS par le ministre sur base de l’article 5. Le droit de réquisition du ministre prime sur celui des bourgmestres.
+
 <a id="art-73"></a>
 ## Art. 73.
 
@@ -754,6 +1078,18 @@ Chaque groupe d’intervention spécialisé est dirigé par un chef de groupe as
 Les centres d'incendie et de secours sont les unités organisationnelles chargées principalement des missions de secours.
 
 Ils sont créés et classés en six catégories conformément aux objectifs suivants :
+
+1. les centres d’incendie et de secours de catégorie IV bis assurent simultanément au moins deux départs en intervention pour une mission de lutte contre l'incendie ou de sauvetage, au moins quatre départs en intervention pour une mission de secours d'urgence aux personnes et deux autres départs en intervention ;
+
+2. les centres d’incendie et de secours de catégorie IV assurent simultanément au moins deux départs en intervention pour une mission de lutte contre l'incendie ou de sauvetage, au moins deux départs en intervention pour une mission de secours d'urgence aux personnes et un autre départ en intervention ;
+
+3. les centres d’incendie et de secours de catégorie III assurent simultanément au moins un départ en intervention pour une mission de lutte contre l'incendie ou de sauvetage, au moins un départ en intervention pour une mission de secours d'urgence aux personnes et un autre départ en intervention ;
+
+4. les centres d’incendie et de secours de catégorie II assurent simultanément au moins un départ en intervention pour une mission de lutte contre l'incendie ou de sauvetage et un autre départ en intervention ;
+
+5. les centres d’incendie et de secours de catégorie II bis assurent simultanément au moins un départ en intervention pour une mission de lutte contre l'incendie ou de sauvetage et une mission de secours d'urgence aux personnes ;
+
+6. les centres d’incendie et de secours de catégorie I assurent au moins un départ en intervention.
 
 La liste des catégorisations des centres d’incendie et de secours, l’effectif de garde et d’astreinte et la dotation minimale en véhicules et matériels sont définis dans le règlement opérationnel en tenant compte des orientations du plan national d’organisation des secours.
 
@@ -832,6 +1168,14 @@ Ce service a pour mission légale d’intervenir en cas d’accident ou d’inci
 
 Le Service d’incendie et de sauvetage est chargé :
 
+1. d’intervenir en cas d’accident ou d’incident d’aéronef survenu à l’Aéroport de Luxembourg et ses abords immédiats ;
+
+2. de participer aux activités de recherches et de sauvetage des aéronefs en détresse et aux études dans ce domaine ;
+
+3. de contribuer à l’élaboration des procédures et de la réglementation « Search and Rescue » (SAR), y compris celles du service d’alerte de l'Administration de la navigation aérienne ;
+
+4. d’intervenir en cas d’une urgence environnementale et d’aider toute personne se trouvant dans une situation critique dans l’enceinte aéroportuaire.
+
 Des conventions précisent les modalités spécifiques pour les services à fournir par le CGDIS à l’exploitant de l’aérodrome , afin de lui garantir que toutes les exigences législatives et réglementaires tant internationales, européennes que nationales soient respectées dans le cadre des standards requis et des procédures administratives relatives aux aérodromes, aussi lorsque ces activités sont sous-traitées par l’exploitant d’un aérodrome.
 
 #### Chapitre VI La formation en matière de secours
@@ -844,6 +1188,12 @@ Des conventions précisent les modalités spécifiques pour les services à four
 Le règlement intérieur du CGDIS détermine les modalités d’élaboration des référentiels, les modalités de l’organisation de la formation des pompiers volontaires et professionnels, ainsi que de l’organisation des examens et de la certification.
 
 Les caractéristiques et les conditions d’exercice des différents emplois tenus par les pompiers volontaires et professionnels sont définies dans le cadre de référentiels élaborés par le CGDIS :
+
+1. le référentiel des emplois, des activités et des compétences de tronc commun du cadre de base et du cadre moyen ;
+
+2. le référentiel des emplois, des activités et des compétences de tronc commun du cadre supérieur ;
+
+3. le référentiel des emplois, des activités et des compétences de spécialités.
 
 Sur proposition du directeur général, le conseil d’administration du CGDIS peut nommer un groupe curriculaire qui a comme mission la préparation et l’établissement des référentiels visés à l’alinéa 2. La composition et les modalités de fonctionnement du groupe curriculaire sont déterminées par le règlement intérieur du CGDIS.
 
@@ -928,6 +1278,22 @@ Dans ces cas, l’État prend à sa charge les dépenses afférentes à l’enga
 <a id="art-99"></a>
 ## Art. 99.
 
+(1)
+
+Les associations et organismes de secours ayant la sécurité civile dans leur objet social peuvent être agréés par arrêté ministériel.
+
+Un règlement grand-ducal précise les conditions suivant lesquelles ces associations et organismes de secours peuvent obtenir un agrément du ministre.
+
+Seuls les associations ou organismes agréés peuvent participer aux opérations de secours et aux actions de soutien aux populations en matière de sécurité civile selon les modalités définies dans le règlement grand-ducal prévu à l’article 74.
+
+Sans préjudice des compétences du CGDIS, seuls les associations ou organismes agréés peuvent organiser ou participer à la mise en place des dispositifs de secours dans le cadre de rassemblements de personnes.
+
+(2)
+
+Les entreprises et usines publiques et privées peuvent mettre en place des services d’incendie, dont les membres portent respectivement la désignation de pompier d’entreprise et de pompier d’usine s’ils remplissent les conditions à définir dans un règlement grand-ducal.
+
+Des entreprises publiques et privées peuvent mettre en place des équipes de sécurité d’incendie dont les membres remplissent les conditions à définir dans un règlement grand-ducal.
+
 #### Chapitre VIII L’organisation de la vie associative
 
 <a id="art-100"></a>
@@ -1003,7 +1369,11 @@ En cas de récidive dans le délai de deux ans après une condamnation définiti
 <a id="art-110"></a>
 ## Art. 110.
 
-La loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu est modifiée comme suit : « - à l’établissement public « Corps grand-ducal d’incendie et de secours, » ; «, le Corps grand-ducal d’incendie et de secours ».
+La loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu est modifiée comme suit :
+
+1. l’article 112, alinéa 1 er , point 1 est complété par le tiret suivant : « - à l’établissement public « Corps grand-ducal d’incendie et de secours, » ;
+
+2. l’article 150 est complété par les termes «, le Corps grand-ducal d’incendie et de secours ».
 
 <a id="art-111"></a>
 ## Art. 111.
@@ -1018,24 +1388,44 @@ L’article 8, lettre b) de la loi modifiée du 8 décembre 1981 sur les réquis
 <a id="art-113"></a>
 ## Art. 113.
 
-La loi communale modifiée du 13 décembre 1988 est modifiée comme suit : « Chaque commune participe au coût de la mise en place et du maintien du service d’incendie et de secours en contribuant au financement de l’établissement public à caractère administratif dénommé « Corps grand-ducal d’incendie et de secours », chargé de la mise en œuvre des services d’incendie et de secours au pays. Les contributions financières annuelles des communes sont fixées comme suit : - cinquante pour cent de la contribution de chaque commune sont déterminés en fonction du nombre d’habitants dans la commune, calculé par l’Institut national de la statistique et des études économiques et arrêté au 1er janvier de l’année précédant celle pour laquelle la contribution est due ; - cinquante pour cent de la contribution de chaque commune sont déterminés par le quotient de la part de la commune dans l’ensemble des recettes nationales perçues au profit du Fonds de dotation globale des communes, des participations directes au produit en impôt commercial communal, ainsi que des mesures de compensation éventuelles, déduction faite des participations éventuelles au Fonds pour l’emploi, ces montants se rapportant à l’exercice précédant celui pour lequel la contribution est due. Respectivement les avances et la participation définitive allouées à chaque commune au titre du Fonds de dotation globale des communes, institué par la loi du 14 décembre 2016 portant création d’un Fonds de dotation globale des communes, sont diminuées de la contribution obligatoire de la commune au financement du Corps grand-ducal d’incendie et de secours. Pour l’exercice 2018, l’avance du deuxième trimestre 2018 comprend également la contribution obligatoire du premier trimestre 2018. Les modalités d’application des dispositions ci-dessus peuvent être précisées par règlement grand-ducal. ».
+La loi communale modifiée du 13 décembre 1988 est modifiée comme suit :
+
+1. À l’article 11 ter , paragraphe 1 er , il est ajouté un point 7 : Les membres du comité directeur tels que définis aux articles 20 et suivants de la loi du 27 mars 2018 portant organisation de la sécurité civile. ».
+
+2. À l’article 11 quater , il est ajouté un point 3 : Le chef de zone, le chef de zone adjoint au sein de leur zone d’affectation, le chef de centre ainsi que le chef de centre adjoint au sein de leur commune d’affectation, tels que définis aux articles 78 et 79 de la loi du 27 mars 2018 portant organisation de la sécurité civile. ».
+
+3. L’article 100 est remplacé par le texte suivant : « Chaque commune participe au coût de la mise en place et du maintien du service d’incendie et de secours en contribuant au financement de l’établissement public à caractère administratif dénommé « Corps grand-ducal d’incendie et de secours », chargé de la mise en œuvre des services d’incendie et de secours au pays. Les contributions financières annuelles des communes sont fixées comme suit : - cinquante pour cent de la contribution de chaque commune sont déterminés en fonction du nombre d’habitants dans la commune, calculé par l’Institut national de la statistique et des études économiques et arrêté au 1er janvier de l’année précédant celle pour laquelle la contribution est due ; - cinquante pour cent de la contribution de chaque commune sont déterminés par le quotient de la part de la commune dans l’ensemble des recettes nationales perçues au profit du Fonds de dotation globale des communes, des participations directes au produit en impôt commercial communal, ainsi que des mesures de compensation éventuelles, déduction faite des participations éventuelles au Fonds pour l’emploi, ces montants se rapportant à l’exercice précédant celui pour lequel la contribution est due. Respectivement les avances et la participation définitive allouées à chaque commune au titre du Fonds de dotation globale des communes, institué par la loi du 14 décembre 2016 portant création d’un Fonds de dotation globale des communes, sont diminuées de la contribution obligatoire de la commune au financement du Corps grand-ducal d’incendie et de secours. Pour l’exercice 2018, l’avance du deuxième trimestre 2018 comprend également la contribution obligatoire du premier trimestre 2018. Les modalités d’application des dispositions ci-dessus peuvent être précisées par règlement grand-ducal. ».
+
+4. Les articles 101 et 102 sont abrogés.
 
 <a id="art-114"></a>
 ## Art. 114.
 
-À l'article 4 de la loi modifiée du 31 juillet 2006 portant introduction d'un Code du Travail, la lettre e) est modifiée comme suit : « e) la loi du 27 mars 2018 portant organisation de la sécurité civile ». « e) la loi du 27 mars 2018 portant organisation de la sécurité civile ».
+À l'article 4 de la loi modifiée du 31 juillet 2006 portant introduction d'un Code du Travail, la lettre e) est modifiée comme suit : « e) la loi du 27 mars 2018 portant organisation de la sécurité civile ».
 
 <a id="art-115"></a>
 ## Art. 115.
 
-À l’article 2 de la loi modifiée du 21 décembre 2007 portant création de l’Administration de la navigation aérienne, la lettre i) est remplacée par le texte suivant : « (i) d’assurer l’intervention en cas d’accident ou d’incident d’aéronef survenu à l’Aéroport de Luxembourg et ses abords immédiats ; ». d’assurer l’intervention en cas d’accident ou d’incident d’aéronef survenu à l’Aéroport de Luxembourg et ses abords immédiats ; ».
+À l’article 2 de la loi modifiée du 21 décembre 2007 portant création de l’Administration de la navigation aérienne, la lettre i) est remplacée par le texte suivant : « (i) d’assurer l’intervention en cas d’accident ou d’incident d’aéronef survenu à l’Aéroport de Luxembourg et ses abords immédiats ; ».
 
 <a id="art-116"></a>
 ## Art. 116.
 
-La loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État est modifiée comme suit : « aux agents du cadre de base des pompiers professionnels du Corps grand-ducal d’incendie et de secours, tel que défini à l’article 53 de la loi du 27 mars 2018 portant organisation de la sécurité civile ; ». « , directeur général du Corps grand-ducal d’incendie et de secours »
+La loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État est modifiée comme suit :
 
-et au grade 16 par la fonction « , directeur fonctionnel du Corps grand-ducal d’incendie et de secours ». « , directeur fonctionnel du Corps grand-ducal d’incendie et de secours ».
+1. À l'article 12, paragraphe 1 er , alinéa 7, point 8°, les termes de directeur fonctionnel du Corps grand-ducal d'incendie et de secours, sont insérés à la suite des termes d'inspecteur général adjoint de la sécurité dans la Fonction publique, .
+
+2. À l'article 12, paragraphe 1 er , alinéa 7, point 11°, les termes de directeur général du Corps grand-ducal d'incendie et de secours sont insérés à la suite des termes de Haut-Commissaire à la Protection nationale, .
+
+3. À l’article 22, paragraphe 1 er , la lettre b) est modifiée comme suit : « aux agents du cadre de base des pompiers professionnels du Corps grand-ducal d’incendie et de secours, tel que défini à l’article 53 de la loi du 27 mars 2018 portant organisation de la sécurité civile ; ».
+
+4. À l’article 22, paragraphe 2, il est ajouté une lettre c) libellée comme suit : aux agents du cadre supérieur et du cadre moyen des pompiers professionnels du Corps grand-ducal d’incendie et de secours, tels que définis aux articles 51 et 52 de la loi du 27 mars 2018 portant organisation de la sécurité civile ».
+
+5. À l’article 22, paragraphe 2, il est ajouté une lettre d) libellée comme suit : au directeur général, ainsi qu’aux directeurs fonctionnels du Corps grand-ducal d’incendie et de secours ».
+
+6. L’annexe A est complétée au grade 17 par la fonction « , directeur général du Corps grand-ducal d’incendie et de secours »
+
+et au grade 16 par la fonction « , directeur fonctionnel du Corps grand-ducal d’incendie et de secours ».
 
 ##### Section 2 Dispositions transitoires
 
@@ -1061,6 +1451,18 @@ Le conseil d’administration attribue aux pompiers volontaires du CGDIS en serv
 
 <a id="art-121"></a>
 ## Art. 121.
+
+(1)
+
+Le CGDIS garantit à la Ville de Luxembourg le fonctionnement d’un centre d’incendie et de secours de la catégorie IVbis disposant à tout instant de l’effectif suffisant pour assurer les départs en intervention prévus à l’article 80 pour la couverture des risques de son territoire.
+
+(2)
+
+Pour une durée de cinq ans à partir de l’entrée en vigueur de la présente loi, aucun membre du personnel du Service d’incendie et d’ambulances de la Ville de Luxembourg et repris par le CGDIS en vertu de l’article 32, paragraphe 2, ne peut être muté à un autre poste que celui qu’il occupait au moment de sa reprise sans le consentement de l’administrateur représentant la Ville de Luxembourg au conseil d’administration du CGDIS, nonobstant les dispositions de l’article 17, alinéa 5. En cas de mutation avec l’accord de l’administrateur représentant la Ville de Luxembourg, l’agent en question doit être remplacé par un agent ayant au moins une qualification équivalente.
+
+(3)
+
+Le Centre national d’incendie et de secours, appartenant à la Ville de Luxembourg et à l’État est transféré en pleine propriété au CGDIS après sa mise en exploitation, moyennant convention. Par dérogation à l’article 10, la contrepartie monétaire bénéficiant à l’État n’est pas soumise aux modalités d’évaluation et de calcul fixées par le règlement grand-ducal, visé à l’article 10, alinéa 2.
 
 <a id="art-122"></a>
 ## Art. 122.

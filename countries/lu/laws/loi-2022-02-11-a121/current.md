@@ -33,6 +33,14 @@ Le ministre ayant les Transports dans ses attributions, dénommé ci-après « m
 
 Par personne handicapée au sens de la présente loi on entend :
 
+1. les personnes incapables de faire seules ou de façon continue plus de 100 mètres ;
+
+2. les personnes se déplaçant au moyen d’une aide technique à la mobilité ;
+
+3. les personnes aveugles et les personnes qui, en raison de leur malvoyance, ne peuvent pas conduire un véhicule ;
+
+4. les personnes atteintes d’une maladie évolutive ayant un impact sur la mobilité.
+
 La durée du handicap doit dépasser six mois en vue de pouvoir donner lieu à l’établissement de la carte de stationnement. Dans le cas des personnes ne remplissant pas cette condition au moment de la demande en obtention de la carte, la procédure d’examen de la demande porte en outre sur la durée prévisionnelle du handicap.
 
 Dans des cas exceptionnels dûment justifiés, en présence d’une maladie ou d’un handicap induisant la perte de la mobilité, le ministre peut délivrer une carte de stationnement à d’autres personnes que celles visées par les critères énumérés à l’alinéa 3.
@@ -84,6 +92,10 @@ Sont également reconnues les cartes de stationnement pour personnes handicapée
 
 La carte de stationnement pour personnes handicapées est délivrée aux institutions et associations ayant à charge des personnes handicapées visées par la définition de l’article 1er à condition d’être :
 
+1. agréées comme service pour personnes handicapées ou âgées en exécution des dispositions de la loi modifiée du 8 septembre 1998 réglant les relations entre l’État et les organismes œuvrant dans les domaines social, familial et thérapeutique ;
+
+2. en charge au sein de leur établissement, de façon régulière, de plus de trois personnes répondant aux critères de la définition de personne handicapée déterminés à l’article 1 er .
+
 La carte peut également être délivrée aux établissements visés par la loi du 20 juillet 2018 portant création de centres de compétences en psycho-pédagogie spécialisée en faveur de l’inclusion scolaire et aux différents centres pour le développement intellectuel relevant de la compétence du ministre ayant respectivement l’Éducation nationale, l’Enfance et la Jeunesse dans ses attributions et ayant à charge plus de trois personnes et répondant aux critères de définition des personnes handicapées déterminés à l’article 1er.
 
 <a id="art-7"></a>
@@ -93,7 +105,27 @@ Les informations relatives aux cartes de stationnement délivrées prévues aux 
 
 Dans la banque de données visée à l’alinéa 1er figurent toutes les données nécessaires pour les finalités suivantes :
 
+1. permettre le contrôle du respect des dispositions de la présente loi et de son règlement d’exécution ;
+
+2. émission et gestion administrative des cartes de stationnement prévues aux articles 1 er et 6 ;
+
+3. renouvellement des cartes de stationnement prévues aux articles 1 er et 6 ;
+
+4. retrait des cartes de stationnement prévues aux articles 1 er et 6.
+
 Dans cette banque de données figurent les données suivantes :
+
+1. signalétique et adresse du titulaire ;
+
+2. la photo et la signature du titulaire ;
+
+3. le cas échéant, le numéro du permis de conduire du titulaire ;
+
+4. la durée de validité de la carte de stationnement ;
+
+5. la décision du médecin-membre de la commission médicale ;
+
+6. le nom, le matricule, le numéro d’identification du véhicule et l’adresse de contact de l’établissement auquel la carte de stationnement a été délivrée.
 
 Le ministre a la qualité de responsable du traitement conformément aux dispositions de l’article 4, point 7), du règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l’égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE (règlement général sur la protection des données).
 
@@ -109,6 +141,14 @@ Par dérogation à l’alinéa 7, les données des personnes détentrices d’un
 ## Art. 8.
 
 Est punie d’une amende de 75 à 250 euros, l’utilisation d’une carte de stationnement :
+
+1. périmée ;
+
+2. non originale ;
+
+3. dont le titulaire ne remplit plus les conditions prévues à l’article 1 er ;
+
+4. par une personne tierce en l’absence du titulaire de la carte.
 
 Des avertissements taxés peuvent être décernés par les membres de la police grand-ducale habilités à cet effet par le directeur général de la police grand-ducale pour les contraventions énumérées à l’alinéa 1er.
 

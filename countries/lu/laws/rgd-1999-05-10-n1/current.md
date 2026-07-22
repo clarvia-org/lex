@@ -31,6 +31,14 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 Sont définies comme maladies ou déficiences d'une gravité exceptionnelle au sens de l'article 15, alinéa 2 de la loi du 12 février 1999 portant création d'un congé parental et d'un congé pour raisons familiales:
 
+- les affections cancéreuses en phase évolutive;
+
+- les pathologies entraînant une hospitalisation en secteur aigu d'une durée dépassant deux semaines consécutives.
+
+- la mise en quarantaine d’un enfant, décidée par le médecin de la Direction de la santé conformément à l’article 10 de la loi modifiée du 21 novembre 1980 portant organisation de la Direction de la santé en vue de limiter la propagation d’une épidémie.
+
+- les mesures d’isolement, d’éviction ou de maintien à domicile d’enfants pour des raisons impérieuses de santé publique décidées ou recommandées par les autorités compétentes pour faire face à la propagation d’une épidémie.
+
 <a id="art-2"></a>
 ## Art. 2.
 

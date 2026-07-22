@@ -74,6 +74,16 @@ L’autorisation de remplacement est délivrée par le ministre de la Santé, le
 
 Une demande écrite est à adresser au ministre de la Santé. Outre les pièces justificatives visées aux articles 2, 3 et 4 ci-dessus, les pièces suivantes doivent être jointes à la demande:
 
+1. un acte de naissance ou toute autre pièce d’identité;
+
+2. un certificat de nationalité ou un document équivalent;
+
+3. un certificat médical attestant l’aptitude à l’exercice de la profession;
+
+4. un extrait du casier judiciaire.
+
+5. un certificat d’honorabilité et de moralité professionnelle établi par l’ordre des médecins du pays d’origine ou de provenance du candidat.
+
 Les pièces prévues sous 3, 4) et 5) ne peuvent avoir plus de trois mois de date.
 
 <a id="art-8"></a>

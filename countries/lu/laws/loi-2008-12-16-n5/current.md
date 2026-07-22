@@ -56,6 +56,12 @@ Dans l’accomplissement de cette mission, le ministre collabore avec les instan
 
 L’OLAI est autorisé à:
 
+- gérer des structures d’hébergement réservées au logement provisoire d’étrangers;
+
+- collaborer avec d’autres organismes à la création et la gestion de structures d’hébergement réservées au logement provisoire d’étrangers;
+
+- promouvoir ensemble avec les instances compétentes la construction et l’aménagement de centres d’hébergement réservés au logement provisoire d’étrangers.
+
 <a id="art-5-20221227"></a>
 ## Art. 5.
 
@@ -122,6 +128,66 @@ La signature et le respect des stipulations contenues dans le contrat d’accuei
 <a id="art-14"></a>
 ## Art. 14.
 
+(1)
+
+Le Gouvernement peut accorder en fonction des moyens budgétaires disponibles un soutien financier aux communes et à des organismes pour la réalisation des missions définies à l’article 3, paragraphe 1er.
+
+Le soutien financier peut prendre la forme d’un subside ou d’une participation financière aux frais de fonctionnement.
+
+Si le bénéficiaire est une personne morale de droit privé, celle-ci doit être constituée soit en vertu d’une disposition légale particulière, soit selon les dispositions de la loi modifiée du 21 avril 1928 sur les associations et les fondations sans but lucratif, soit selon les dispositions de la loi modifiée du 10 août 1915 concernant les sociétés commerciales.
+
+(2)
+
+Lorsque le soutien financier prend la forme d’un subside, les conditions suivantes doivent être remplies :
+
+1. le montant maximal par subside ne peut pas dépasser 100 000 euros et 75 pour cent du coût total du projet ;
+
+2. la demande doit être adressée par écrit au ministre avant la réalisation du projet et elle doit comprendre une estimation du coût total ;
+
+3. le bénéficiaire du subside doit assurer le suivi et l’évaluation du projet.
+
+En outre, lorsque le bénéficiaire est un des organismes visés au paragraphe 1er, l’objet social du bénéficiaire doit présenter un lien avec les missions du ministre définies à l’article 3, paragraphe 1er.
+
+(3)
+
+Lorsque le soutien financier prend la forme d’une participation financière, le bénéficiaire doit signer avec l’État une convention qui détermine :
+
+1. les prestations à fournir par le bénéficiaire ;
+
+2. le type de la participation financière conformément aux modalités précisées au paragraphe 5 ;
+
+3. les modalités de coopération entre les parties contractantes sans pour autant affecter la gestion qui est de la responsabilité du bénéficiaire.
+
+(4)
+
+Dans le cadre du paragraphe 3 les dépenses suivantes sont considérées :
+
+1. les frais courants d’entretien et de gestion ;
+
+2. les dépenses de personnel ;
+
+3. les frais résultant de collaborateurs occasionnels ou bénévoles ;
+
+4. les frais en relation avec le louage, l’entretien et la réparation des bâtiments et l’équipement mobilier ;
+
+5. les frais résultant des prestations spécifiques fournies par le bénéficiaire.
+
+(5)
+
+La convention fixe le type de la participation financière qui peut consister selon les cas en une :
+
+1. participation financière par couverture du déficit : la participation financière de l’État versée en vertu du paragraphe 4 correspond au pourcentage du solde des frais de fonctionnement tel que fixé par la convention et accepté par l’État et des recettes faites par le bénéficiaire ;
+
+2. participation financière par unité de prestation : la participation de l’État versée en vertu du paragraphe 4 est établie en fonction du volume des prestations fournies et du prix unitaire par prestation fixé par la convention ;
+
+3. participation financière forfaitaire ou par projet : la participation financière de l’État versée en vertu du paragraphe 4 est constituée d’un montant invariable fixé sur base d’une négociation entre parties ;
+
+4. participation financière mixte : la participation financière de l’État versée en vertu du paragraphe 4 correspond à une combinaison des différents types de participation financière retenus pour les différentes prestations prévues à la convention.
+
+(6)
+
+Un règlement grand-ducal précise les modalités d’application des paragraphes 2, 3, 4 et 5.
+
 <a id="art-15"></a>
 ## Art. 15.
 
@@ -166,7 +232,27 @@ Le conseil est un organe consultatif chargé d’étudier, soit de sa propre ini
 
 Le conseil comprend:
 
+- vingt-deux représentants des étrangers;
+
+- un représentant des réfugiés au sens de la Convention de Genève du 28 juillet 1951 relative au statut des réfugiés;
+
+- un représentant du syndicat intercommunal à vocation multiple des villes et communes luxembourgeoises pour la promotion et la sauvegarde d’intérêts communaux généraux et communs (SYVICOL);
+
+- quatre représentants des organisations patronales;
+
+- quatre représentants des organisations syndicales les plus représentatives;
+
+- deux représentants de la société civile.
+
 Les membres du conseil sont nommés pour une durée de sept ans par le ministre sur proposition:
+
+- du Gouvernement en ce qui concerne les représentants des réfugiés au sens de la Convention de Genève et les représentants de la société civile;
+
+- des organisations patronales pour ce qui est de leurs représentants;
+
+- des organisations syndicales pour ce qui est de leurs représentants;
+
+- des associations des étrangers régulièrement constituées et ayant une activité sociale, culturelle ou sportive ainsi que des associations oeuvrant, à titre principal, en faveur des étrangers, inscrites auprès du département de l’intégration du Ministère de la famille, de l’intégration et à la Grande Région pour ce qui est des représentants des étrangers.
 
 Un règlement grand-ducal détermine les modalités de désignation des représentants des étrangers ainsi que leur répartition par nationalité sur base de l’importance proportionnelle des diverses nationalités présentes au Luxembourg sans pour autant que le nombre maximal de représentants par nationalité puisse être supérieur à trois. L’importance proportionnelle est constatée par le dernier recensement de la population effectué par le Service central de la statistique et des études économiques (STATEC).
 
@@ -253,17 +339,29 @@ Par dépassement des limites fixées dans la loi du 21 décembre 2007 concernant
 
 L’article 14 de la loi précitée concernant le budget des recettes et des dépenses de l’Etat et relatif au recrutement d’employés de nationalité étrangère auprès des administrations de l’Etat est complété à l’alinéa correspondant au Commissariat du Gouvernement aux étrangers par l’ajout suivant:
 
+- Employés de la carrière S - 2
+
+- Employés de la carrière D - 5.
+
 #### Chapitre 7. Dispositions modificatives
 
 <a id="art-29"></a>
 ## Art. 29.
 
-Les modifications et additions suivantes sont apportées à la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’Etat: L’annexe A Classification des fonctions - Rubrique I «Administration générale» est complétée et modifiée comme suit: au grade 17 la mention Commissariat du Gouvernement aux étrangers – commissaire du Gouvernement aux étrangers est remplacée par la mention Office luxembourgeois de l’accueil et de l’intégration – directeur. Dans la carrière supérieure de l’administration: grade 12 de la computation de la bonification d’ancienneté au grade 17, sous l’énumération des commissaires du Gouvernement, la mention aux étrangers est supprimée et remplacée sous l’énumération des directeurs par la mention de l’Office luxembourgeois de l’accueil et de l’intégration. Au numéro 9 de la section IV de l’article 22 la mention le commissaire du Gouvernement aux étrangers est remplacée par la mention le directeur de l’Office luxembourgeois de l’accueil et de l’intégration.
+Les modifications et additions suivantes sont apportées à la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’Etat:
+
+1. L’annexe A Classification des fonctions - Rubrique I «Administration générale» est complétée et modifiée comme suit: au grade 17 la mention Commissariat du Gouvernement aux étrangers – commissaire du Gouvernement aux étrangers est remplacée par la mention Office luxembourgeois de l’accueil et de l’intégration – directeur.
+
+2. L’annexe D – Détermination – Rubrique I «Administration générale» est complétée et modifiée comme suit:
+
+- Dans la carrière supérieure de l’administration: grade 12 de la computation de la bonification d’ancienneté au grade 17, sous l’énumération des commissaires du Gouvernement, la mention aux étrangers est supprimée et remplacée sous l’énumération des directeurs par la mention de l’Office luxembourgeois de l’accueil et de l’intégration.
+
+Au numéro 9 de la section IV de l’article 22 la mention le commissaire du Gouvernement aux étrangers est remplacée par la mention le directeur de l’Office luxembourgeois de l’accueil et de l’intégration.
 
 <a id="art-30"></a>
 ## Art. 30.
 
-L’article 34, alinéa 1 de la loi modifiée du 25 février 1979 concernant l’aide au logement est modifié comme suit: Sans préjudice des attributions et compétences des médecins-inspecteurs et de la police générale et locale, les autorités communales et l’Office luxembourgeois de l’accueil et de l’intégration (OLAI) sont chargés du contrôle des logements. Sans préjudice des attributions et compétences des médecins-inspecteurs et de la police générale et locale, les autorités communales et l’Office luxembourgeois de l’accueil et de l’intégration (OLAI) sont chargés du contrôle des logements.
+L’article 34, alinéa 1 de la loi modifiée du 25 février 1979 concernant l’aide au logement est modifié comme suit: Sans préjudice des attributions et compétences des médecins-inspecteurs et de la police générale et locale, les autorités communales et l’Office luxembourgeois de l’accueil et de l’intégration (OLAI) sont chargés du contrôle des logements.
 
 #### Chapitre 8. Disposition transitoire
 

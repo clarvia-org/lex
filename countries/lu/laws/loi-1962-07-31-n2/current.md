@@ -34,6 +34,18 @@ Pour autant qu’il n’y est pas dérogé par la présente loi, les disposition
 
 L’État est représenté au sein du comité du syndicat par neuf délégués, dont :
 
+1. deux du ministre ayant les Affaires communales dans ses attributions ;
+
+2. deux du ministre ayant les Finances dans ses attributions ;
+
+3. deux du ministre ayant l’Environnement dans ses attributions ;
+
+4. un du ministre ayant la Santé dans ses attributions ;
+
+5. un du ministre ayant les Travaux publics dans ses attributions ;
+
+6. un du ministre ayant l’Agriculture dans ses attributions.
+
 L’un de ces délégués, à l’exclusion du délégué du ministre ayant l’Agriculture dans ses attributions, assume la présidence du comité. Il est désigné par le Gouvernement en conseil.
 
 Le délégué du ministre ayant l’Agriculture dans ses attributions dispose d’une voix consultative.
@@ -93,6 +105,12 @@ S’il y a lieu à expropriation, il y est procédé conformément aux dispositi
 
 Le syndicat aura en outre le droit:
 
+- d’installer des canalisations d’eau dans des terrains privés, non bâtis;
+
+- d’assurer la surveillance de ces canalisations;
+
+- de procéder aux travaux d’entretien et de réfection.
+
 L’exécution des travaux prévus sous le numéro 1 ci-dessus doit être précédée d’une notification directe aux intéressés et d’une enquête dont la procédure sera déterminée par règlement grand-ducal. Elle ne peut avoir lieu qu’après approbation du projet de détail des tracés par les Ministres de l’Intérieur et des Travaux publics.
 
 Sans préjudice des droits résultant de l’établissement des canalisations dans un terrain ouvert et non bâti, le propriétaire peut le clôturer, y élever des constructions et y faire des plantations ou en exploiter le sous-sol.
@@ -126,5 +144,59 @@ Le Gouvernement est autorisé à participer jusqu’à concurrence de 50 % au fi
 <a id="art-14"></a>
 ## Art. 14.
 
+(1)
+
+Le budget et le budget rectifié votés par le comité du syndicat ainsi que le bilan et le compte de profits et pertes votés par le bureau du syndicat, sont transmis sans retard par le bureau du syndicat aux ministres ayant respectivement les Affaires communales, les Finances et l’Environnement dans leurs attributions.
+
+Les ministres ayant respectivement les Finances et l’Environnement dans leurs attributions examinent le budget, le budget rectifié, le bilan et le compte de profits et pertes, et font parvenir leurs avis respectifs au ministre ayant les Affaires communales dans ses attributions, dans les trente jours qui suivent le jour de la transmission du budget, du budget rectifié, du bilan et du compte de profits et pertes, visée à l’alinéa 1er.
+
+Le ministre ayant les Affaires communales dans ses attributions redresse et arrête le budget et le budget rectifié, après avoir pris connaissance des avis visés à l’alinéa 2. À défaut d’avis dans le délai visé à l’alinéa 2, il peut passer outre.
+
+Le ministre ayant les Affaires communales dans ses attributions vérifie le bilan et le compte de profits et pertes après avoir pris connaissance des avis visés à l’alinéa 2. À défaut d’avis dans le délai visé à l’alinéa 2, il peut passer outre. Le ministre ayant les Affaires communales dans ses attributions redresse les écritures non conformes à la loi et arrête définitivement les comptes arrêtés provisoirement par le comité du syndicat.
+
+(2)
+
+Le ministre ayant les Affaires communales dans ses attributions demande l’avis des ministres ayant respectivement les Finances et l’Environnement dans leurs attributions avant de proposer ou d’arrêter d’office un budget limité dans les conditions de l’article 125 de la loi communale modifiée du 13 décembre 1988 ou de porter d’office au budget le paiement d’une dépense obligatoire que le comité du syndicat aurait cherché d’éluder. Les ministres ayant respectivement les Finances et l’Environnement dans leurs attributions font parvenir leurs avis respectifs dans un délai de trente jours.
+
+À défaut d’avis dans le délai visé à l’alinéa 1er, le ministre ayant les Affaires communales dans ses attributions peut passer outre.
+
+(3)
+
+Le ministre ayant les Affaires communales dans ses attributions demande l’avis des ministres ayant respectivement les Finances et l’Environnement dans leurs attributions avant d’autoriser le syndicat à créer un fonds de réserves. Les ministres ayant respectivement les Finances et l’Environnement dans leurs attributions font parvenir leurs avis respectifs dans un délai de trente jours.
+
+À défaut d’avis dans le délai visé à l’alinéa 1er, le ministre ayant les Affaires communales dans ses attributions peut passer outre.
+
+(4)
+
+Les délibérations du comité du syndicat dont l’application est susceptible de grever le budget de l’État sont transmises sans retard par le bureau du syndicat aux ministres ayant respectivement les Affaires communales, les Finances et l’Environnement dans leurs attributions.
+
+Les ministres ayant respectivement les Finances et l’Environnement dans leurs attributions donnent leurs avis respectifs au ministre ayant les Affaires communales dans ses attributions dans un délai d’un mois à partir de la transmission, visée à l’alinéa 1er. Passé ce délai, il peut approuver les délibérations.
+
+À défaut d’avis dans le délai visé à l’alinéa 2, le ministre ayant les Affaires communales dans ses attributions peut passer outre.
+
 <a id="art-15"></a>
 ## Art. 15.
+
+(1)
+
+Il est institué un comité d’accompagnement pour chaque projet d’investissement faisant l’objet d’une loi spéciale autorisant la participation financière de l’État.
+
+(2)
+
+Ce comité se compose de représentants du ministre ayant la Gestion de l’eau dans ses attributions, du ministre ayant le Budget dans ses attributions, du ministre ayant l’Intérieur dans ses attributions et du syndicat SEBES.
+
+(3)
+
+Le comité peut se faire assister par des experts.
+
+(4)
+
+Le comité est présidé par un représentant du ministre ayant la Gestion de l’eau dans ses attributions.
+
+(5)
+
+Le comité a pour mission de suivre la mise au point des projets d’investissement et leur exécution sur les plans technique, financier et budgétaire. Il peut à cet effet adresser ses observations sous forme de rapports au ministre ayant la Gestion de l’eau dans ses attributions.
+
+(6)
+
+Un règlement grand-ducal précise les modalités de fonctionnement du comité.

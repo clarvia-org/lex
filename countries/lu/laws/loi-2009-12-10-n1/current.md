@@ -59,6 +59,20 @@ Le défaut d’adaptation aux valeurs morales, sociales, politiques ou autres de
 <a id="art-4"></a>
 ## Art. 4.
 
+(1)
+
+Sans préjudice des dispositions de l’article 2-1 de la loi modifiée du 17 avril 1998 portant création d’un établissement public dénommé «centre hospitalier neuropsychiatrique», l’admission et le placement d’une personne atteinte de troubles mentaux ne peuvent avoir lieu que dans un service ou établissement visé à l’article 1er.
+
+L’admission, le placement et le séjour sont soumis aux conditions de fond et de forme prévues par la présente loi.
+
+Sauf pour les cas visés à l’article 2-1 de la loi modifiée du 17 avril 1998 portant création d’un établissement public dénommé «centre hospitalier neuropsychiatrique», l’admission ne peut intervenir que dans un service de psychiatrie d’un hôpital.
+
+Les établissements et services psychiatriques visés à l’article 1er sont désignés par le terme «établissement». Par «directeur de l’établissement» on entend dans la suite, suivant le cas, soit le directeur de l’établissement psychiatrique spécialisé, ou, s’il n’est pas médecin, le médecin qui en dirige le département médical, soit le médecin responsable du service de psychiatrie d’un hôpital.
+
+(2)
+
+Dans chaque arrondissement judiciaire il incombe à un juge spécialement désigné à ces fins par le président du tribunal d’arrondissement, dit ci-après «le juge», de veiller au respect des conditions de fond et de forme auxquelles sont soumis l’admission, le placement et le séjour de personnes atteintes de troubles mentaux et de prendre en matière de mise en observation et de placement les décisions lui spécialement dévolues par la présente loi.
+
 <a id="art-5"></a>
 ## Art. 5.
 
@@ -77,6 +91,38 @@ Sans préjudice des dispositions des articles 43 et 44 ci-après, le traitement 
 
 <a id="art-7"></a>
 ## Art. 7.
+
+(1)
+
+Une personne ne peut être admise et le directeur de l’établissement ne peut l’admettre que sur une demande écrite d’admission à présenter par une des personnes ou autorités suivantes :
+
+1. le tuteur ou curateur d’un incapable majeur ;
+
+2. un membre de la famille de la personne à admettre ou toute autre personne intéressée. La demande indique le degré de parenté ou bien la nature des relations qui existent entre l’auteur de la demande et la personne concernée ;
+
+3. le bourgmestre de la commune sur le territoire de laquelle se trouve la personne concernée ou celui qui le remplace ;
+
+4. les chefs des commissariats de la Police grand-ducale et, en leur absence, un officier de police administrative ;
+
+5. le procureur d’État de l’arrondissement judiciaire dans lequel se trouve la personne concernée.
+
+Les autorités visées sous 3., 4. et 5. ci-dessus ne peuvent intervenir que si la personne compromet l’ordre ou la sécurité publics. Cette condition est légalement présumée remplie dès lors que la personne à placer est détenue dans un centre pénitentiaire.
+
+La demande est accompagnée dans tous les cas d’un exposé énumérant les principales circonstances de fait qui la motivent.
+
+(2)
+
+L’admission se fait dans le service de psychiatrie de l’hôpital de la région dans laquelle se situe le domicile de la personne à admettre.
+
+Si plus d’un hôpital est éligible en vertu de l’alinéa qui précède, l’admission se fait à l’hôpital de la région qui est de garde le jour de l’admission.
+
+Si l’admission intervient à la demande d’une des autorités visées au paragraphe qui précède sous 3., 4. et 5., elle se fait, par dérogation à l’alinéa 1er du présent paragraphe, à l’hôpital de la région dans laquelle se trouve la personne à admettre au moment de la demande d’admission.
+
+Si la personne à admettre n’a pas de domicile connu au pays, l’admission se fait à l’hôpital de la région dans laquelle elle se trouve au moment de la demande d’admission.
+
+Par dérogation aux alinéas 1er, 2, 3 et 4, l’hospitalisation de personnes atteintes de troubles mentaux et souffrant de Covid-19 peut avoir lieu dans les services hospitaliers offrant les conditions requises pour une prise en charge adéquate.
+
+Si la personne est détenue dans un centre pénitentiaire, l’admission se fait à l’unité de psychiatrie socio-judiciaire visée à l’article 2-1 de la loi modifiée du 17 avril 1998 portant création d’un établissement public dénommé «centre hospitalier neuropsychiatrique.»
 
 <a id="art-8"></a>
 ## Art. 8.
@@ -113,10 +159,24 @@ Dès son admission la personne admise est informée par le directeur ou la perso
 <a id="art-12"></a>
 ## Art. 12.
 
+(1)
+
+Après l’admission la personne admise est mise en observation pour une période qui ne peut excéder 30 jours. Pendant cette période le médecin traitant procède aux investigations requises en vue de juger si le maintien dans l’établissement est nécessaire et, dans l’affirmative, d’établir le diagnostic de la maladie.
+
+(2)
+
+Le sixième jour qui suit celui de l’admission le médecin traitant fait parvenir au juge un rapport motivé dans lequel il s’exprime sur l’opportunité du maintien de la mise en observation.
+
 <a id="art-13"></a>
 ## Art. 13.
 
 Dans les trois jours de la réception du rapport visé à l’article qui précède, le juge
+
+- soit fait part au médecin traitant de ce que rien ne s’oppose au maintien provisoire de la mise en observation,
+
+- soit décide que la mise en observation n’est pas ou plus indiquée et ordonne la sortie de la personne admise, en quel cas information en est donnée à la personne qui a demandé l’admission,
+
+- soit demande au médecin traitant un supplément d’information.
 
 <a id="art-14"></a>
 ## Art. 14.
@@ -149,6 +209,22 @@ Les dispositions des articles 24 à 28 et 30 ci-dessous s’appliquent égalemen
 <a id="art-18"></a>
 ## Art. 18.
 
+(1)
+
+La décision de mettre fin à l’admission, soit en ordonnant la sortie de la personne admise, soit en prononçant son placement, relève du juge.
+
+(2)
+
+Le juge prend sa décision sur base des critères énoncés à l’article 3 ci-dessus.
+
+(3)
+
+Avant de prendre sa décision, le juge entend dans l’établissement de traitement la personne admise.
+
+(4)
+
+Le juge communique la date de cette audition trois jours à l’avance à la personne admise et, s’il y a lieu, à son représentant légal. Lors de l’audition la personne admise peut se faire assister par une personne de son choix. Son représentant légal peut également, s’il y a lieu, assister à l’audition.
+
 <a id="art-19"></a>
 ## Art. 19.
 
@@ -160,6 +236,14 @@ S’il ne s’estime pas suffisamment éclairé par les éléments du dossier et
 
 <a id="art-20"></a>
 ## Art. 20.
+
+(1)
+
+Dans les 48 heures de l’audition ou, le cas échéant, de l’accomplissement de la mesure supplémentaire, le juge rend une ordonnance prononçant soit l’élargissement de la personne admise, soit son placement.
+
+(2)
+
+L’ordonnance prise en vertu de l’alinéa qui précède n’est pas susceptible de recours, sans préjudice du pourvoi offert à la personne placée à l’article 30 ci-après. L’ordonnance informe la personne placée des droits dont elle jouit en vertu du prédit article. Si la personne placée n’est pas en mesure de saisir la portée de cette information, celle-ci lui est fournie par son médecin traitant dès qu’elle est en mesure d’en comprendre la signification.
 
 <a id="art-21"></a>
 ## Art. 21.
@@ -358,16 +442,84 @@ Le ministre de la Santé présente tous les trois ans à la Chambre des Député
 <a id="art-43"></a>
 ## Art. 43.
 
+(1)
+
+Un patient ne peut faire l’objet d’un traitement involontaire en rapport avec son trouble mental que si son état présente un risque de dommage grave pour sa santé ou pour autrui.
+
+(2)
+
+Le traitement involontaire, qui doit répondre à des signes et à des symptômes cliniques spécifiques, doit être proportionné à l’état de santé du patient. A efficacité égale, la préférence doit être donnée au traitement le moins invasif.
+
+Au cours du traitement l’adhésion du patient au traitement appliqué ou à un traitement alternatif doit être recherchée.
+
+(3)
+
+Le patient ainsi que, le cas échéant, son représentant légal ou, à défaut, une personne de confiance doit être consulté avant l’application du traitement involontaire. L’avis du patient doit être pris en considération.
+
+(4)
+
+Le traitement involontaire ne peut être appliqué que sous la responsabilité d’un médecin spécialiste en psychiatrie ou en psychiatrie infantile pouvant se prévaloir d’une pratique de deux ans au moins en milieu psychiatrique hospitalier.
+
+(5)
+
+Le fait de pratiquer un traitement involontaire, les modalités du traitement ainsi que sa durée doivent être consignés au dossier médical du patient.
+
 <a id="art-44"></a>
 ## Art. 44.
+
+(1)
+
+Un patient ne peut faire l’objet d’une mesure d’isolement ou de contention que dans le but de prévenir tout dommage imminent pour lui-même ou pour autrui. La mesure doit être appliquée suivant le principe de restriction minimale, de façon à rester proportionnée aux risques courus par le patient ou son entourage.
+
+(2)
+
+Il ne peut être recouru à des mesures d’isolement ou de contention que sous contrôle médical.
+
+(3)
+
+Pendant qu’il fait l’objet d’une mesure d’isolement ou de contention le patient doit bénéficier d’un suivi régulier.
+
+(4)
+
+Les raisons du recours à une mesure d’isolement et de contention ainsi que la durée de leur application doivent être consignées au dossier médical du patient.
+
+(5)
+
+Le paragraphe (2) ci-dessus ne s’applique pas à la contention momentanée, nécessaire pour faire face à une situation d’urgence.
+
+Le personnel procédant à la contention momentanée en l’absence d’un médecin est tenu d’informer de suite un médecin du service de la contention intervenue.
 
 ##### Chapitre 9. Dispositions générales et pénales
 
 <a id="art-45"></a>
 ## Art. 45.
 
+(1)
+
+Aucune requête ou réclamation adressée par un patient à une autorité judiciaire ou administrative, aucune lettre adressée par lui à son conseil juridique ou à son représentant légal ni aucune lettre adressée à un particulier ne peut être supprimée ni retenue.
+
+(2)
+
+Aucune communication faite à un patient par une autorité judiciaire ou administrative, son conseil juridique ou son représentant légal ne peut être supprimée ni retenue.
+
 <a id="art-46"></a>
 ## Art. 46.
+
+(1)
+
+Le règlement d’ordre intérieur de l’établissement détermine les modalités des visites que peut recevoir le patient.
+
+Ce règlement tiendra compte d’une part de l’intérêt que les visites peuvent présenter pour le patient et d’autre part de la nécessité de protéger les personnes vulnérables et des exigences du service.
+
+(2)
+
+Si le patient ou la personne qui entend lui rendre visite estime que le droit de visite est indûment limité, il peut en saisir la commission de surveillance et, dans le cas d’un placé judiciaire, la commission spéciale, qui statuent à cet égard.
+
+La commission de surveillance ou, le cas échéant la commission spéciale, peut étendre le droit de visite d’un patient sur réclamation au-delà des limites tracées par la direction, même nonobstant des dispositions contraires du règlement d’ordre intérieur, si elle estime ces limites disproportionnées.
+
+(3)
+
+Si la commission de surveillance ou la commission spéciale est d’avis que l’une ou l’autre disposition du règlement d’ordre intérieur limite le droit de visite d’une façon disproportionnée, elle peut formuler des recommandations d’amendement à l’intention de l’organisme gestionnaire de l’hôpital. Si ce dernier ne tient pas compte des recommandations de la commission, celle-ci peut saisir le ministre de la Santé, dont la décision s’impose à l’organisme gestionnaire.
 
 <a id="art-47"></a>
 ## Art. 47.
@@ -398,12 +550,12 @@ La loi du 26 mai 1988 relative au placement des personnes atteintes de troubles 
 <a id="art-51"></a>
 ## Art. 51.
 
-L'article 37 de la loi modifiée du 31 mai 1999 sur la Police et l'Inspection générale de la Police est remplacé par le texte suivant: Art. 37. La Police se saisit des personnes qui compromettent l’ordre ou la sécurité publics, et en avise immédiatement l’autorité compétente. Les chefs des centres d’intervention ou des commissariats de proximité de la Police grand-ducale et, en leur absence, un officier de police judiciaire peuvent placer ces personnes dans un lieu de sûreté pour une durée n’excédant pas douze heures. La Police, sur réquisition, assiste les autorités qui ont qualité pour demander, conformément à la loi du 10 décembre 2009 relative à l’hospitalisation sans leur consentement de personnes atteintes de troubles mentaux, l’admission dans un service de psychiatrie d’une personne qui compromet l’ordre ou la sécurité publics, ou pour l’y faire réadmettre. Dans l’exécution de cette mission, ainsi que de celles lui dévolues en vertu du présent article et de l’article 38 ci-après, la Police a un droit d’accès de jour comme de nuit à tout lieu en vue de se saisir d’une personne tombant sous l’application d’une des prédites dispositions légales. Toutefois, si la personne concernée se trouve dans un immeuble servant à l’habitation, ce droit d’accès ne peut être exercé que par les membres de la Police visés à l’alinéa 1, le cas échéant assistés par des agents de police judiciaire, sur autorisation du procureur d’État compétent et, lorsque la Police exécute la mission visée à la première phrase du présent alinéa, à condition qu’il y ait des raisons sérieuses de croire à un péril imminent pour la santé de la personne concernée ou pour la sécurité d’autrui. La Police se saisit des personnes qui compromettent l’ordre ou la sécurité publics, et en avise immédiatement l’autorité compétente. Les chefs des centres d’intervention ou des commissariats de proximité de la Police grand-ducale et, en leur absence, un officier de police judiciaire peuvent placer ces personnes dans un lieu de sûreté pour une durée n’excédant pas douze heures. La Police, sur réquisition, assiste les autorités qui ont qualité pour demander, conformément à la loi du 10 décembre 2009 relative à l’hospitalisation sans leur consentement de personnes atteintes de troubles mentaux, l’admission dans un service de psychiatrie d’une personne qui compromet l’ordre ou la sécurité publics, ou pour l’y faire réadmettre. Dans l’exécution de cette mission, ainsi que de celles lui dévolues en vertu du présent article et de l’article 38 ci-après, la Police a un droit d’accès de jour comme de nuit à tout lieu en vue de se saisir d’une personne tombant sous l’application d’une des prédites dispositions légales. Toutefois, si la personne concernée se trouve dans un immeuble servant à l’habitation, ce droit d’accès ne peut être exercé que par les membres de la Police visés à l’alinéa 1, le cas échéant assistés par des agents de police judiciaire, sur autorisation du procureur d’État compétent et, lorsque la Police exécute la mission visée à la première phrase du présent alinéa, à condition qu’il y ait des raisons sérieuses de croire à un péril imminent pour la santé de la personne concernée ou pour la sécurité d’autrui.
+L'article 37 de la loi modifiée du 31 mai 1999 sur la Police et l'Inspection générale de la Police est remplacé par le texte suivant: Art. 37. La Police se saisit des personnes qui compromettent l’ordre ou la sécurité publics, et en avise immédiatement l’autorité compétente. Les chefs des centres d’intervention ou des commissariats de proximité de la Police grand-ducale et, en leur absence, un officier de police judiciaire peuvent placer ces personnes dans un lieu de sûreté pour une durée n’excédant pas douze heures. La Police, sur réquisition, assiste les autorités qui ont qualité pour demander, conformément à la loi du 10 décembre 2009 relative à l’hospitalisation sans leur consentement de personnes atteintes de troubles mentaux, l’admission dans un service de psychiatrie d’une personne qui compromet l’ordre ou la sécurité publics, ou pour l’y faire réadmettre. Dans l’exécution de cette mission, ainsi que de celles lui dévolues en vertu du présent article et de l’article 38 ci-après, la Police a un droit d’accès de jour comme de nuit à tout lieu en vue de se saisir d’une personne tombant sous l’application d’une des prédites dispositions légales. Toutefois, si la personne concernée se trouve dans un immeuble servant à l’habitation, ce droit d’accès ne peut être exercé que par les membres de la Police visés à l’alinéa 1, le cas échéant assistés par des agents de police judiciaire, sur autorisation du procureur d’État compétent et, lorsque la Police exécute la mission visée à la première phrase du présent alinéa, à condition qu’il y ait des raisons sérieuses de croire à un péril imminent pour la santé de la personne concernée ou pour la sécurité d’autrui.
 
 <a id="art-52"></a>
 ## Art. 52.
 
-L'article 73 de la loi communale modifiée du 13 décembre 1988 est remplacé par le texte suivant: Art. 73. Le bourgmestre ou celui qui le remplace a qualité pour demander l’admission dans un établissement ou service de psychiatrie des personnes qui compromettent l’ordre ou la sécurité publics, dans les conditions et suivant les modalités déterminées à l’article 7 de la loi du 10 décembre 2009 relative à l’hospitalisation sans leur consentement de personnes atteintes de troubles mentaux. Le bourgmestre ou celui qui le remplace a qualité pour demander l’admission dans un établissement ou service de psychiatrie des personnes qui compromettent l’ordre ou la sécurité publics, dans les conditions et suivant les modalités déterminées à l’article 7 de la loi du 10 décembre 2009 relative à l’hospitalisation sans leur consentement de personnes atteintes de troubles mentaux.
+L'article 73 de la loi communale modifiée du 13 décembre 1988 est remplacé par le texte suivant: Art. 73. Le bourgmestre ou celui qui le remplace a qualité pour demander l’admission dans un établissement ou service de psychiatrie des personnes qui compromettent l’ordre ou la sécurité publics, dans les conditions et suivant les modalités déterminées à l’article 7 de la loi du 10 décembre 2009 relative à l’hospitalisation sans leur consentement de personnes atteintes de troubles mentaux.
 
 <a id="art-53"></a>
 ## Art. 53.

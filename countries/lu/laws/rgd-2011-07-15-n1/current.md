@@ -41,12 +41,16 @@ Le membre qui perd la qualité au titre de laquelle il a été nommé ne peut pl
 <a id="art-3"></a>
 ## Art. 3.
 
-La CAR se réunit soit à l'initiative du président, soit à la demande écrite d'au moins quatre de ses membres. Sauf en cas d'urgence, à déterminer par le président, les convocations, accompagnées de l'ordre du jour arrêté par le président, doivent parvenir aux membres au moins quinze jours avant la date de la réunion.
+La CAR se réunit soit à l'initiative du président, soit à la demande écrite d'au moins quatre de ses membres.
+
+Sauf en cas d'urgence, à déterminer par le président, les convocations, accompagnées de l'ordre du jour arrêté par le président, doivent parvenir aux membres au moins quinze jours avant la date de la réunion.
 
 <a id="art-4"></a>
 ## Art. 4.
 
-Le directeur du Centre de psychologie et d'orientation scolaires préside les séances de la CAR. En cas d'empêchement du président de la CAR, le doyen d'âge assure la présidence. La CAR ne peut délibérer valablement que si au moins la moitié de ses membres sont présents. Les décisions sont prises à la majorité des voix. L'abstention n'est pas permise. S'il y a parité des voix, celle du président est prépondérante.
+Le directeur du Centre de psychologie et d'orientation scolaires préside les séances de la CAR. En cas d'empêchement du président de la CAR, le doyen d'âge assure la présidence.
+
+La CAR ne peut délibérer valablement que si au moins la moitié de ses membres sont présents. Les décisions sont prises à la majorité des voix. L'abstention n'est pas permise. S'il y a parité des voix, celle du président est prépondérante.
 
 <a id="art-5"></a>
 ## Art. 5.
@@ -56,7 +60,7 @@ Les membres de la Commission des aménagements raisonnables, la personne de réf
 <a id="art-6"></a>
 ## Art. 6.
 
-L'article 8, paragraphe 5, du règlement grand-ducal du 31 juillet 2006 portant organisation de l'examen de fin d'études secondaires et du règlement grand-ducal du 31 juillet 2006 portant organisation de l'examen de fin d'études techniques et de l'examen de fin d'études de la formation de technicien est modifié comme suit: Art. 8. 5. Le commissaire informe les membres de la commission d'examen lors de la réunion préliminaire des aménagements raisonnables décidés en faveur des candidats concernés. Le commissaire informe les membres de la commission d'examen lors de la réunion préliminaire des aménagements raisonnables décidés en faveur des candidats concernés.
+L'article 8, paragraphe 5, du règlement grand-ducal du 31 juillet 2006 portant organisation de l'examen de fin d'études secondaires et du règlement grand-ducal du 31 juillet 2006 portant organisation de l'examen de fin d'études techniques et de l'examen de fin d'études de la formation de technicien est modifié comme suit: Art. 8. 5. Le commissaire informe les membres de la commission d'examen lors de la réunion préliminaire des aménagements raisonnables décidés en faveur des candidats concernés.
 
 <a id="art-7"></a>
 ## Art. 7.

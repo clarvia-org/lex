@@ -40,6 +40,16 @@ Le ministre ayant dans ses attributions la Culture établit un carnet numérique
 
 Afin d’assurer une tenue utile de son carnet numérique de travail, l’intermittent du spectacle se charge d’y inscrire, d’y faire inscrire ou apposer:
 
+1. le nom ou la raison sociale de l’employeur ou de l’organisateur , son adresse ou son siège social ainsi que l’indication du principal lieu de travail,
+
+2. la nature des activités exercées auprès de l’employeur ou de l’organisateur ,
+
+3. la date à laquelle le contrat de prestation artistique prend cours ainsi que la durée prévue et la durée effective du contrat de prestation artistique ,
+
+4. l’horaire de travail journalier, s’il est fixe, sinon les particularités quant au temps de travail,
+
+5. le cachet, la signature, respectivement la signature du représentant de l’employeur ou de l’organisateur , ceci avec la date de la cessation des relations de travail.
+
 <a id="art-4"></a>
 ## Art. 4.
 

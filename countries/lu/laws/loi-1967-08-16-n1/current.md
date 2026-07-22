@@ -60,6 +60,12 @@ Des constructions aux travaux autres que ceux exécutés pour le compte de l'Eta
 
 A l'intérieur de la distance de respectivement vingt-cinq ou quinze mètres, les travaux nécessaires d'entretien et de conservation de constructions existantes sont sujets à permission de voirie. Tous autres travaux de construction et de transformation sont défendus, y compris
 
+- l'aménagement de places de parcage pour compte d'établissements commerciaux, artisanaux, industriels ou administratifs, publics ou privés;
+
+- la construction de voies de desserte;
+
+- la réalisation d'aires de stockage de tout genre.
+
 Sans pareille autorisation, la tolérance visée à l'alinéa 3 de l'article 4bis de la présente loi ne peut être mise à profit pour des aménagements nouveaux à faire au-delà de la distance de vingt-cinq mètres.
 
 <a id="art-4bis"></a>
@@ -89,6 +95,30 @@ Les personnes physiques ou morales investies d'une mission de service public en 
 
 Le programme général d'établissement d'une grande voirie de communication est le suivant, les noms des localités citées n'indiquant pas nécessairement les localités proprement dites, mais les environs de celles-ci:
 
+- une nouvelle route d'Esch-sur-Alzette à Luxembourg, entre Lallange et Hollerich (Place St Pierre et Paul), et son raccordement à la ceinture de contournement de la ville de Luxembourg;
+
+- une ceinture de contournement de la ville de Luxembourg;
+
+- une nouvelle route de Luxembourg-frontière française, partant de la gare centrale de la Ville de Luxembourg vers Bettembourg-Dudelange (direction Thionville), son raccordement à la ceinture de contournement de la Ville de Luxembourg et sa jonction, à la frontière, à la grande voirie française ainsi que la mise à 2x3 voies de l’A3 entre la ceinture de contournement de la Ville de Luxembourg et la frontière française ;
+
+- une nouvelle route de Luxembourg à Arlon (E9), entre la frontière belge (au Sud d'Arlon) et la ceinture de contournement de la ville de Luxembourg, son raccordement à celle-ci près de Strassen, et sa jonction, à la frontière, à la grande voirie belge;
+
+- une nouvelle jonction entre le pont Grande-Duchesse Charlotte à Luxembourg-Ville et le boulevard de contournement de la Ville de Luxembourg près de Strassen, ses raccordements au réseau routier existant, ainsi que l'adaptation de celui-ci à la caractéristique de cette jonction.
+
+- une collectrice du Sud, reliant entre elles les principales localités du bassin minier de Rodange à Bettembourg, sa jonction au réseau autoroutier existant, ses raccordements aux principaux sites industriels de la région et sa liaison, aux frontières respectives, aux réseaux routiers allemand et belge.
+
+- une nouvelle route de Luxembourg à Ettelbruck, partant de la ceinture de contournement de la ville de Luxembourg (Strassen), avec raccordement à la voirie de la vallée de l'Alzette, dans la région de Heisdorf-Lorentzweiler et de Mersch, et à la voirie du Nord du pays, à partir du contournement de la ville d'Ettelbruck, dans les régions de Feulen-bas (direction de Doncols-Bastogne) et de Friedhof-Diekirch (direction de Wemperhardt-Eupen);
+
+- une nouvelle route de Luxembourg (Senningerberg) à la frontière allemande (au Nord de Wasserbillig), son raccordement au port de Mertert, et sa jonction, à la frontière, à la grande voirie allemande (direction Trêves);
+
+- l'achèvement de la route Echternach-Luxembourg (E29), avec sa jonction, à partir de Waldhof, au plateau de Kirchberg, et le contournement de la ville d'Echternach et de Junglinster
+
+- le raccordement de l'actuelle route de Longwy-Rodange à Luxembourg, à partir de Findelserhof (Bertrange), à la ceinture de contournement de la ville de Luxembourg (au sud de Strassen), et à la route d'Arlon, à Luxembourg-ville.
+
+- une nouvelle jonction souterraine entre le Viaduc et la Côte d'Eich à Luxembourg, ses raccordements au réseau routier existant, ainsi que l'adaptation de celui-ci aux caractéristiques de cette jonction
+
+- Le raccordement de la route d'Arlon (E9) à Strassen respectivement à l'autoroute Luxembourg-Bruxelles au niveau de l'échangeur du Bridel et à la ceinture de contournement de la Ville de Luxembourg au niveau de l'échangeur de Helfent
+
 L'établissement de la grande voirie comprend les études préparatoires et définitives, l'acquisition des immeubles, la construction, le parachèvement et l'équipement des chaussées et ouvrages d'art, le raccordement à la voirie existante, ainsi que le rétablissement des communications interrompues par la nouvelle voirie, y compris les chemins d'exploitation agricoles et forestiers. Sont visés également l'établissement, l'aménagement ou l'adaptation de tronçons de route et d'ouvrages d'art raccordés à la grande voirie pour autant qu'ils ont pour objet le contournement de centres d'habitation dont ils décongestionnent les artères et contribuent à améliorer la qualité de vie des habitants. Il en est de même des voies de contournement qui s'inscrivent dans un concept routier de liaison interrégionale.
 
 L’équipement de la grande voirie de communication comprend la mise en place d’un centre de contrôle du trafic qui recueille toutes les informations nécessaires tant sur la situation du trafic que sur l’état des infrastructures autoroutières et de leurs équipements afin de les transmettre aux instances publiques compétentes respectivement aux usagers des routes.
@@ -101,6 +131,30 @@ En outre, des emplacements peuvent être aménagés afin d'être loués dans l'i
 ## Art. 6bis.
 
 Le programme des contournements d’agglomérations et tronçons de route reliant un échangeur à la voirie normale de l’État est le suivant :
+
+1. le contournement de Bous sur la N2 entre les P.K. 18,500 et 19,570 ;
+
+2. le contournement de Sandweiler sur la N2 entre son intersection avec le CR234 à l’ouest de Sandweiler et son intersection avec la N28 à l’est de Sandweiler et sur la N28 entre les P.K. 0,000 et 0,800 ;
+
+3. le contournement de Junglinster sur la N11 entre le P.K. 12,200 et le P.K. 15,100 ;
+
+4. le contournement de Dippach-Gare sur la N13 entre le P.K. 9,200 et le P.K. 11,200 ;
+
+5. la transversale de Clervaux sur la N18 entre la N7 au P.K. 60,260 et la N18 au P.K. 7,320 ;
+
+6. le contournement de Pétange et de Rodange sur la N31 entre son intersection avec la N5 au lieu-dit « Biff » et le P.K. 33,180 ;
+
+7. la N32 entre le CR178 au P.K. 6,400 au lieu-dit « Uerschterhaff » et le CR174 au P.K. 4,205 à Differdange ;
+
+8. la N34 entre ses intersections avec la N6 au lieu-dit « Tossebierg » et la N5 au lieu-dit « Helfenterbruck » ;
+
+9. la N34A entre ses intersections avec la N34 au lieu-dit « Bourmicht » et le CR230 au P.K. 2,880 ;
+
+10. le contournement de Bertrange sur la N35 entre ses intersections avec la N5 au lieu-dit « Greivelserbarrière » et la N34 ;
+
+11. le contournement sud de Bridel sur le CR181 entre le P.K. 6,400 et l’intersection avec le CR215 au lieu-dit « Biergerkräiz » ;
+
+12. le contournement de Bascharage entre le P.K. 14.250 sur la N5 et sa jonction avec l’A13.
 
 <a id="art-7"></a>
 ## Art. 7.
@@ -124,6 +178,12 @@ La largeur de cette zone peut être portée exceptionnellement à deux cent cinq
 En outre, les plans parcellaires peuvent indiquer les terrains situés en dehors des zones définies aux alinéas qui précèdent, dont l'acquisition s'avère nécessaire, soit pour l'aménagement des emplacements prévus à l'article 6, alinéas 3 et 4, soit pour l'emprunt ou le dépôt de terres, soit pour le dépôt de matériaux de construction.
 
 Dès l'expiration du délai d'un mois prévu à l'article 10, nul ne peut, dans les zones ainsi délimitées:
+
+- construire, reconstruire ou transformer les constructions existantes;
+
+- modifier le relief du sol par des travaux de déblai ou de remblai;
+
+- boiser ou déboiser.
 
 Dans les cas motivés exclusivement par des travaux de conservation et d'entretien, le Ministre des travaux publics peut déroger aux dispositions de l'alinéa qui précède.
 
@@ -149,6 +209,10 @@ Pour le calcul de l´indemnité, la valeur des biens à exproprier doit être pr
 Cependant, quelle que soit la nature des biens, il ne peut être tenu compte, même lorsqu'ils sont constatés par des actes de vente, des changements de valeur subis depuis la date de référence visée à l'alinéa suivant, s'ils sont provoqués par la perspective de modifications aux règles d'utilisation des sols découlant de plans directeurs sectoriels ou de plans d'occupation du sol.
 
 Les biens à exproprier sont estimés en prenant seule en considération la valeur du bien telle qu’elle était le jour avant la première publication au Journal officiel du Grand-Duché de Luxembourg :
+
+- soit de la décision du Gouvernement en conseil prise en vertu de l’article 12, paragraphe 2 de la loi du 17 avril 2018 concernant l’aménagement du territoire ;
+
+- soit de la décision du Gouvernement en conseil prise en vertu de l’article 19, paragraphe 2 de la loi précitée du 17 avril 2018 .
 
 Il est cependant tenu compte de l’évolution générale du prix des biens.
 
@@ -205,9 +269,29 @@ Les dépenses occasionnées par la réalisation du programme général d'établi
 
 Peuvent également être imputées à charge du Fonds des routes les dépenses relatives à des travaux:
 
+- de construction, de reconstruction, de remplacement, de réhabilitation et d'assainissements, ainsi que d'entretien des ouvrages d'art et hydrauliques de l'Etat,
+
+- de construction de routes nationales et de chemins repris,
+
+- de redressement et d'aménagement de la chaussée, d'amélioration et de réfection des revêtements des routes nationales et des chemins repris,
+
+- de construction et de réfection de toute piste cyclable faisant partie du réseau national de pistes cyclables mis en place par la loi du 6 juillet 1999 portant création d'un réseau national de pistes cyclables,
+
+- d'aménagement de couloirs pour bus avec dispositifs de signalisation,
+
+- d'aménagement de plates-formes intermodales et de gares routières.
+
 Le Ministre des Travaux Publics ordonnance les montants versés au Fonds des routes.
 
 Le Fonds des routes est alimenté:
+
+1. par des dotations budgétaires;
+
+2. par des recettes d'emprunts;
+
+3. par le produit de la vente d'immeubles acquis dans le cadre du programme précité et rendus disponibles après l'établissement de la grande voirie;
+
+4. par les remboursements effectués par la République fédérale d'Allemagne conformément à l'article 7 de la convention entre le Grand-Duché de Luxembourg et la République fédérale d'Allemagne concernant la jonction des autoroutes et la construction d'un pont frontalier sur la Moselle dans la région de Perl et de Schengen signée à Luxembourg, le 18 avril 1994, et approuvée par la loi du 18 août 1995 .
 
 Les sommes dont question sub b), c) et d) de l'alinéa qui précède sont portées directement en recette au Fonds des routes.
 
@@ -216,11 +300,23 @@ Les sommes dont question sub b), c) et d) de l'alinéa qui précède sont porté
 
 Il est créé un comité de gestion du fonds chargé de conseiller le ministre, placé sous l'autorité du Ministre, composé de:
 
+- cinq délégués du ministre dont deux délégués de l'Administration des Ponts et Chaussées;
+
+- un délégué du ministre ayant dans ses attributions le budget.
+
 Le comité est présidé par un délégué du ministre.
 
 Un règlement grand-ducal précise les modalités de fonctionnement de ce comité.
 
 Le comité de gestion a pour mission:
+
+- la planification pluriannuelle des dépenses du fonds;
+
+- l'ajustement du rythme des dépenses aux disponibilités financières du fonds;
+
+- la coordination des projets;
+
+- la présentation d'un rapport annuel sur l'exécution et le financement des travaux.
 
 Le comité de gestion peut recueillir tous les renseignements nécessaires à l'appréciation des dossiers qui lui sont soumis et se faire assister par des experts.
 
@@ -239,6 +335,10 @@ L'état des emprunts contractés est publié annuellement sous un titre particul
 ## Art. 18.
 
 Aux fins visées par l'article 7, le Gouvernement joint chaque année au projet de loi concernant le budget des recettes et des dépenses de l'Etat:
+
+1. un relevé récapitulatif des programmes exécutés pendant les divers exercices clos, ainsi qu'un compte rendu des recettes et des dépenses y relatives imputées au Fonds des routes au cours des mêmes exercices;
+
+2. un exposé des programmes exécutés pendant l'exercice courant et projetés pour l'exercice suivant, ainsi qu'un état estimatif des dépenses occasionnées par l'exécution de ces programmes annuels et des recettes nécessaires à leur financement.
 
 <a id="art-19"></a>
 ## Art. 19.
@@ -351,7 +451,15 @@ Le jour même du dépôt, le ou les experts envoient à l´expropriant, par lett
 <a id="art-31"></a>
 ## Art. 31.
 
-Après avoir signifié par exploit d´huissier à toutes parties défenderesses et intervenantes une copie certifiée conforme l´expropriant peut se faire envoyer en possession du bien exproprié par ordonnance du président du tribunal.
+Après avoir signifié par exploit d´huissier à toutes parties défenderesses et intervenantes une copie certifiée conforme
+
+1. du jugement fixant le montant de l´indemnité provisionnelle,
+
+2. du certificat de dépôt de l´indemnité provisionnelle à la caisse des consignations,
+
+3. de l´état descriptif des lieux,
+
+l´expropriant peut se faire envoyer en possession du bien exproprié par ordonnance du président du tribunal.
 
 Cette ordonnance est apposée au bas de la requête. Elle sera exécutoire sur minute et avant l´enregistrement.
 
@@ -390,6 +498,10 @@ Une expédition en est adressée à l´expropriant dans les quinze jours du pron
 Si le montant de l´indemnité excède celui de l´indemnité provisionnelle, l´expropriant dépose dans le mois du prononcé du jugement à la caisse des consignations le supplément d´indemnité.
 
 Dans les dix jours qui suivent le dépôt, il signifie par exploit d´huissier aux parties défenderesses et intervenantes une copie certifiée conforme:
+
+1. du jugement fixant le montant de l´indemnité;
+
+2. du certificat de dépôt à la caisse des consignations du supplément d´indemnité.
 
 A défaut, l´exproprié peut, en vertu du même jugement, exiger que l´expropriant suspende l´occupation des immeubles.
 

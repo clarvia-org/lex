@@ -27,20 +27,52 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 <a id="art-1er"></a>
 ## Art. 1er.
 
+(1)
+
+Le laissez-passer peut être délivré:
+
+1. dans des cas de perte ou de vol de titres de voyage délivrés par les autorités luxembourgeoises;
+
+2. à toute personne dont la présence sur le territoire du Grand-Duché de Luxembourg est explicitement autorisée par les autorités luxembourgeoises compétentes.
+
+(2)
+
+Seuls le Bureau des Passeports, Visas et Légalisations du Ministère des Affaires étrangères et européennes, les ambassades et les consulats généraux et, par délégation, les consulats honoraires sont habilités à délivrer des laissez-passer.
+
+(3)
+
+En cas d’émission d’un laissez-passer pour raison de perte ou de vol d’un passeport luxembourgeois, la décision sur l’émission d’un laissez-passer est de la compétence du Bureau des Passeports, Visas et Légalisations du Ministère des Affaires étrangères et européennes, des ambassades ou des consulats généraux.
+
+(4)
+
+Dans tous les autres cas, la décision sur l’émission d’un laissez-passer est de la compétence de la Direction de l’Immigration du Ministère des Affaires étrangères.
+
 <a id="art-2"></a>
 ## Art. 2.
 
 Le laissez-passer est formé d’un feuillet sécurisé et composé de quatre pages non numérotées portant les inscriptions suivantes en langues française et anglaise:
 
-au recto à la page de droite «Grand-Duché de Luxembourg Laissez-passer»
+au recto à la page de droite
 
-au recto à la page de gauche «Vignette visa»
+«Grand-Duché de Luxembourg
 
-au verso à la page de droite «Date de délivrance, Autorité, Sceau de l’autorité.»
+Laissez-passer»
 
-suivies de «Ce laissez-passer est délivré pour un voyage à Luxembourg. Il devra être remis aux autorités compétentes à l’expiration.»
+au recto à la page de gauche
 
-au verso à la page de gauche «N° document, N° d’enregistrement, Date d’expiration, Nom, Prénoms, Nationalité, Date de naissance, Lieu de naissance, Taille, Sexe, Signature du titulaire».
+«Vignette visa»
+
+au verso à la page de droite
+
+«Date de délivrance, Autorité, Sceau de l’autorité.»
+
+suivies de
+
+«Ce laissez-passer est délivré pour un voyage à Luxembourg. Il devra être remis aux autorités compétentes à l’expiration.»
+
+au verso à la page de gauche
+
+«N° document, N° d’enregistrement, Date d’expiration, Nom, Prénoms, Nationalité, Date de naissance, Lieu de naissance, Taille, Sexe, Signature du titulaire».
 
 Un lion stylisé de couleurs bleue et rouge ainsi que l’inscription Grand-Duché de Luxembourg, le tout imprimé sur un arrière-fond de couleurs pastelles, figurent à la fois sur le recto et le verso du feuillet.
 

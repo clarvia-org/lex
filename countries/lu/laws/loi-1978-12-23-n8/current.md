@@ -43,6 +43,12 @@ La carte de priorité peut être délivrée conjointement avec la carte d´inval
 
 Les cartes d´invalidité sont de trois catégories:
 
+1. celles de la première sont délivrées aux personnes dont le degré d´invalidité physique est égal ou supérieur à trente pour-cent sans atteindre cinquante pour-cent;
+
+2. celles de la seconde sont délivrées aux personnes dont le degré d´invalidité physique est égal ou supérieur à cinquante pour-cent;
+
+3. celles de la troisième sont délivrées aux personnes dont l´état physique ou mental est tel qu´elles ne peuvent se déplacer sans l´assistance d´une tierce personne.
+
 <a id="art-4"></a>
 ## Art. 4.
 
@@ -72,6 +78,12 @@ Pour les personnes résidant à l´étranger mais travaillant régulièrement au
 
 La demande de carte de priorité ou d´invalidité est soumise à l´avis:
 
+1. du médecin-conseil de l´office des dommages de guerre s´il s´agit d´un invalide ou mutilé de guerre. Si l´intéressé touche une rente de ce chef l´attestation de l´office des dommages de guerre constatant ce fait et le degré d´invalidité suffit.
+
+2. du médecin-chef de l´office des assurances sociales s´il s´agit d´un accidenté de travail. Si l´intéressé touche une rente de ce chef l´attestation de l´office des assurances sociales constatant ce fait et le degré d´invalidité suffit.
+
+3. du médecin-directeur de la Santé Publique ou de son délégué dans tous les autres cas.
+
 <a id="art-7"></a>
 ## Art. 7.
 
@@ -83,6 +95,12 @@ La délivrance des cartes de priorité et d´invalidité ainsi que des certifica
 Les cartes de priorité et d´invalidité délivrées en raison d´une invalidité permanente à des personnes résidant au Grand-Duché sont valables sans limitation de durée.
 
 Les détenteurs sont cependant tenus de faire renouveler leur carte dans les cas suivants:
+
+1. Si la photographie ne répond plus à l´apparence du détenteur.
+
+2. Si l´état de la carte est tel qu´elle est devenue difficilement lisible.
+
+3. Si les indications portées sur la carte ne répondent plus à la réalité.
 
 Le renouvellement se fait sans frais contre remise de l´ancienne carte et de deux photographies récentes du détenteur.
 
@@ -117,7 +135,15 @@ Un règlement grand-ducal détermine les modèles détaillés des cartes de prio
 
 Le même règlement grand-ducal détermine également le signe distinctif spécial des cartes délivrées aux mutilés et invalides de guerre.
 
-Sont considérés comme mutilés et invalides de guerre au sens de la disposition qui précède les invalides et mutilés luxembourgeois dont l´invalidité est démontrée provenir: l´enrôlement dans les armées et formations paramilitaires alliées; la collaboration à un service de renseignement et d´action luxembourgeoise ou alliée pour des motifs patriotiques; la collaboration à une organisation de résistance; la tentative de rejoindre les armées alliées; la désertion de l´armée allemande par un non-volontaire; l´insoumission à l´armée allemande, à l´S.H.D. et à l´R.A.D.; des mutilations volontaires pour échapper au service militaire dans l´armée allemande; de l´enrôlement forcé dans l´armée allemande, l´S.H.D. et l´R.A.D.;
+Sont considérés comme mutilés et invalides de guerre au sens de la disposition qui précède les invalides et mutilés luxembourgeois dont l´invalidité est démontrée provenir:
+
+1. de l´emprisonnement, de l´internement dans un camp de concentration ou de la déportation pour des raisons politiques;
+
+2. de l´évasion ou de la vie en cachette devant les mesures de l´occupant en raison de leur activité patriotique active dans une organisation de résistance ou de faits de résistance individuelle caractérisée, si la disparition a été le seul moyen d´éviter un danger imminent pour la vie et la liberté;
+
+3. d´actes exécutés pour la défense ou la libération de la patrie notamment par: l´enrôlement dans les armées et formations paramilitaires alliées; la collaboration à un service de renseignement et d´action luxembourgeoise ou alliée pour des motifs patriotiques; la collaboration à une organisation de résistance; la tentative de rejoindre les armées alliées; la désertion de l´armée allemande par un non-volontaire; l´insoumission à l´armée allemande, à l´S.H.D. et à l´R.A.D.; des mutilations volontaires pour échapper au service militaire dans l´armée allemande; de l´enrôlement forcé dans l´armée allemande, l´S.H.D. et l´R.A.D.;
+
+4. d´un fait caractérisé de guerre.
 
 <a id="art-14"></a>
 ## Art. 14.

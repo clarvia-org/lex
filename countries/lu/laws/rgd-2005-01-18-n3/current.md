@@ -56,12 +56,16 @@ Le carnet visé à l'article 2 ci-dessus est de couleur rose-vert. Le carnet vis
 <a id="art-5"></a>
 ## Art. 5.
 
-L'article 8 du règlement grand-ducal modifié du 19 février 1974 portant exécution de la loi du 19 février 1973 sur la vente des substances médicamenteuses et la lutte contre la toxicomanie est complété par un alinéa final, libellé comme suit: Toutefois la période maximale de couverture d'une prescription de morphine par voie orale n'est que de sept jours lorsque cette dernière est prescrite dans le cadre du programme du traitement de la toxicomanie par substitution. Toutefois la période maximale de couverture d'une prescription de morphine par voie orale n'est que de sept jours lorsque cette dernière est prescrite dans le cadre du programme du traitement de la toxicomanie par substitution.
+L'article 8 du règlement grand-ducal modifié du 19 février 1974 portant exécution de la loi du 19 février 1973 sur la vente des substances médicamenteuses et la lutte contre la toxicomanie est complété par un alinéa final, libellé comme suit: Toutefois la période maximale de couverture d'une prescription de morphine par voie orale n'est que de sept jours lorsque cette dernière est prescrite dans le cadre du programme du traitement de la toxicomanie par substitution.
 
 <a id="art-6"></a>
 ## Art. 6.
 
-Les modifications suivantes sont apportées au règlement grand-ducal du 30 janvier 2002 déterminant les modalités du programme de traitement de la toxicomanie par substitution: Le candidat est rendu attentif au fait que l'admission au programme comporte son accord avec la communication de données personnelles à des fins de règlement de frais en rapport avec la délivrance du produit de substitution. L'Union des caisses de maladie est chargée de faire l'avance aux pharmaciens de leurs prestations faites en vertu du présent règlement, comportant le prix du médicament ou de la substance et les honoraires de dispensation. L'Etat rembourse à l'Union des caisses de maladie le montant des prestations effectivement avancées.
+Les modifications suivantes sont apportées au règlement grand-ducal du 30 janvier 2002 déterminant les modalités du programme de traitement de la toxicomanie par substitution:
+
+1. L'article 5 est complété par un alinéa 2, rédigé comme suit: Le candidat est rendu attentif au fait que l'admission au programme comporte son accord avec la communication de données personnelles à des fins de règlement de frais en rapport avec la délivrance du produit de substitution.
+
+2. Un article 15bis nouveau, rédigé comme suit, est intercalé entre les articles 15 et 16: Art. 15bis: L'Union des caisses de maladie est chargée de faire l'avance aux pharmaciens de leurs prestations faites en vertu du présent règlement, comportant le prix du médicament ou de la substance et les honoraires de dispensation. L'Etat rembourse à l'Union des caisses de maladie le montant des prestations effectivement avancées.
 
 <a id="art-7"></a>
 ## Art. 7.

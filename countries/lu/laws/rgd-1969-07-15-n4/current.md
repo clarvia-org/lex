@@ -43,21 +43,63 @@ La durée des études professionnelles de laborantin est de trois années au moi
 <a id="art-3"></a>
 ## Art. 3.
 
-Le candidat qui désire faire des études de laborantin, doit remplir les conditions suivantes: Avant de commencer ses études à l'étranger, le candidat en avisera le ministre de la santé publique, en indiquant l'école choisie.
+Le candidat qui désire faire des études de laborantin, doit remplir les conditions suivantes:
+
+1. être titulaire du diplôme luxembourgeois de fin d'études secondaires ou d'un diplôme luxembourgeois ou étranger reconnu équivalent;
+
+2. faire ses études dans une école agréée par l'Etat étranger dans lequel elle est établie et dont les conditions d'admission et de formation sont reconnues par le ministre de la santé publique.
+
+Avant de commencer ses études à l'étranger, le candidat en avisera le ministre de la santé publique, en indiquant l'école choisie.
 
 Dans les deux mois qui suivront cet avis, le ministre de la santé publique informera le candidat s'il est en mesure de reconnaître l'équivalence de l'enseignement dispensé à cette école. Faute par le ministre de faire connaître sa décision endéans ledit délai, l'équivalence sera censée reconnue.
 
 <a id="art-4"></a>
 ## Art. 4.
 
-Le programme des études des écoles visées à l'article 3 doit comprendre un enseignement théorique, technique et pratique, à temps plein. L'enseignement théorique, technique et pratique doit porter sur les matières suivantes:
+Le programme des études des écoles visées à l'article 3 doit comprendre un enseignement théorique, technique et pratique, à temps plein.
+
+L'enseignement théorique, technique et pratique doit porter sur les matières suivantes:
+
+1. chimie biologique,
+
+2. bactériologie,
+
+3. parasitologie,
+
+4. histologie normale et pathologique,
+
+5. hématologie,
+
+6. sérologie,
+
+7. virologie.
 
 #### Chapitre II Examen pour le diplôme d'Etat de laborantin
 
 <a id="art-5-20220612"></a>
 ## Art. 5.
 
-Pour être admis à l'examen pour le diplôme d'Etat, le candidat doit présenter une demande d'admission à laquelle il joindra: Le jury d'examen, sur le vu du dossier, décide de l'admission du candidat à l'examen.
+Pour être admis à l'examen pour le diplôme d'Etat, le candidat doit présenter une demande d'admission à laquelle il joindra:
+
+1. une copie du diplôme luxembourgeois de fin d'études secondaires, ou d'un diplôme luxembourgeois ou étranger reconnu équivalent;
+
+2. un certificat attestant que le candidat a passé avec succès l'examen final de l'école mentionnée à l'article 3;
+
+3. le ou les certificats de stage attestant que le candidat a accompli pendant une année au moins à temps plein un stage dans un laboratoire public ou privé agréé à ces fins;
+
+4.
+
+- un certificat médical d'aptitude physique datant de moins d'un mois;
+
+- un certificat délivré depuis moins d'un mois par un médecin pneumophtisiologue attestant que le candidat ne présente aucun signe clinique et radiologique de tuberculose pulmonaire évolutive. Ce certificat mentionnera en outre que le candidat a subi l'épreuve à la tuberculine et que celle-ci est positive. En cas de réaction négative, l'intéressé devra se faire vacciner au B.C.G. et en fournir la preuve, à moins de contre-indications médicales;
+
+- un certificat constatant que le candidat a été vacciné contre le tétanos et la poliomyélite ou bien qu'il a reçu une vaccination de rappel contre ces deux maladies;
+
+- un certificat de vaccination antivariolique remontant à trois ans au plus;
+
+5. un extrait du casier judiciaire datant de moins d'un mois et un certificat de moralité et d'honorabilité professionnelles délivré par les établissements dans lesquels il a travaillé et visé par le collège médical.
+
+Le jury d'examen, sur le vu du dossier, décide de l'admission du candidat à l'examen.
 
 <a id="art-6-20220612"></a>
 ## Art. 6.
@@ -70,6 +112,12 @@ Il y a annuellement une session ordinaire d'examen en automne. Si les circonstan
 ## Art. 7.
 
 L'examen comporte des épreuves pratiques avec discussion, portant sur une des matières suivantes:
+
+1. chimie médicale ou chimie sanitaire,
+
+2. microbiologie: bactériologie, sérologie, parasitologie, virologie,
+
+3. hématologie, groupes sanguins, technique histologique courante.
 
 Chaque épreuve est cotée de zéro à soixante points.
 
@@ -112,7 +160,13 @@ Le laborantin doit faire preuve de compétence dans la mise au point et l'utilis
 <a id="art-12"></a>
 ## Art. 12.
 
-En dehors des techniques d’analyses proprement dites, le laborantin peut pratiquer en vue des analyses qu’il doit effectuer : Cette liste est limitative.
+En dehors des techniques d’analyses proprement dites, le laborantin peut pratiquer en vue des analyses qu’il doit effectuer :
+
+- des prises de sang par ponction capillaire et par ponction veineuse aux membres ;
+
+- des prélèvements nasopharyngés, oropharyngés et cutanés.
+
+Cette liste est limitative.
 
 <a id="art-13-20220612"></a>
 ## Art. 13.

@@ -44,6 +44,14 @@ Sont considérés comme régimes spéciaux les régimes de pension régis par la
 
 Sont qualifiés d’organismes au titre de la présente loi :
 
+1. la Caisse nationale d’assurance pension en ce qui concerne le régime général ;
+
+2. le Centre de gestion du personnel et de l’organisation de l’État, la Caisse de prévoyance des fonctionnaires et employés communaux, la Société nationale des chemins de fer luxembourgeois et les établissements publics en ce qui concerne le régime spécial transitoire ;
+
+3. le Centre de gestion du personnel et de l’organisation de l’État, la Caisse de prévoyance des fonctionnaires et employés communaux et la Société nationale des chemins de fer luxembourgeois en ce qui concerne les régimes spéciaux ;
+
+4. la Banque centrale du Luxembourg en ce qui concerne le régime correspondant au statut de ses agents.
+
 Est qualifié d’organisme compétent au sens du chapitre II, l’organisme du régime spécial transitoire auquel l’assuré était soumis, à l’exclusion de tout organisme du régime général. Si l’intéressé était soumis simultanément ou successivement au régime spécial transitoire relevant de deux organismes, est compétent respectivement l’organisme du régime de l’activité principale ou celui auquel l’intéressé était soumis en dernier lieu.
 
 Est qualifié d’organisme compétent au sens du chapitre III de la présente loi, l’organisme du régime auquel l’assuré était soumis en dernier lieu. Si l’assuré était soumis en dernier lieu simultanément à deux régimes, l’organisme compétent est celui de l’activité principale.
@@ -61,6 +69,12 @@ Le présent chapitre s’applique toutes les fois qu’une personne a été soum
 ## Art. 4.
 
 Toute personne relevant du champ d’application du régime spécial transitoire et qui, pour quelque motif que ce soit,
+
+- quitte le service de l’Etat, d’un établissement public, de la société nationale des chemins de fer ou d’un employeur relevant de la caisse de prévoyance des fonctionnaires et employés communaux sans avoir droit à pension auprès du régime spécial transitoire , ou
+
+- est déchu de tout droit à pension, ou
+
+- décède sans avoir accompli le stage d’affiliation,
 
 est assurée rétroactivement conformément à l’article 171 du code des assurances sociales auprès de la caisse de pension des employés privés pour les périodes qui auraient été computables pour le calcul des pensions dans le régime spécial transitoire. Ces périodes sont prises en compte pour leur durée effective.
 
@@ -166,6 +180,8 @@ L’organisme compétent apprécie les conditions d’attribution de la pension 
 
 <a id="art-18"></a>
 ## Art. 18.
+
+(abrogé)
 
 Assurance volontaire
 
@@ -292,7 +308,7 @@ Lorsqu’une demande de remboursement ultérieure porte sur des cotisations rest
 <a id="art-33"></a>
 ## Art. 33.
 
-L’article 7, alinéa 2 de la loi modifiée du 21 juillet 1978 portant modification des dispositions concernant les droits à pension de la femme divorcée dans les régimes de pension contributifs prend la teneur suivante: Les personnes qui ont bénéficié d’un remboursement de cotisations peuvent faire revivre les droits attachés à la partie non remboursée lorsqu’elles ont accompli une nouvelle période de quarante-huit mois au titre des articles 171, 173 et 173bis du code des assurances sociales. En outre elles peuvent restituer le montant des cotisations remboursées revalorisées suivant les modalités à fixer par règlement grand-ducal. Les personnes qui ont bénéficié d’un remboursement de cotisations peuvent faire revivre les droits attachés à la partie non remboursée lorsqu’elles ont accompli une nouvelle période de quarante-huit mois au titre des articles 171, 173 et 173bis du code des assurances sociales. En outre elles peuvent restituer le montant des cotisations remboursées revalorisées suivant les modalités à fixer par règlement grand-ducal.
+L’article 7, alinéa 2 de la loi modifiée du 21 juillet 1978 portant modification des dispositions concernant les droits à pension de la femme divorcée dans les régimes de pension contributifs prend la teneur suivante: Les personnes qui ont bénéficié d’un remboursement de cotisations peuvent faire revivre les droits attachés à la partie non remboursée lorsqu’elles ont accompli une nouvelle période de quarante-huit mois au titre des articles 171, 173 et 173bis du code des assurances sociales. En outre elles peuvent restituer le montant des cotisations remboursées revalorisées suivant les modalités à fixer par règlement grand-ducal.
 
 <a id="art-34"></a>
 ## Art. 34.

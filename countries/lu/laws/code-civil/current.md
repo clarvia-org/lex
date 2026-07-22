@@ -149,6 +149,14 @@ Abrogés implicitement (Const. art. 18)
 
 ( L. 4 juillet 2014 ) Les actes de l’état civil énoncent l’année, le jour et l’heure où ils sont reçus, les prénoms et nom de l’officier de l’état civil, les prénoms, noms et domiciles de tous ceux qui y sont dénommés. Les dates et lieux de naissance:
 
+1. des parents dans les actes de naissance et de reconnaissance;
+
+2. de l’enfant dans les actes de reconnaissance;
+
+3. des conjoints dans les actes de mariage;
+
+4. du décédé dans les actes de décès sont indiqués lorsqu’ils sont connus. Dans le cas contraire, l’âge desdites personnes est désigné par leur nombre d’années, comme l’est, dans tous les cas, l’âge des déclarants.
+
 <a id="art-35"></a>
 ## Art. 35.
 
@@ -177,6 +185,8 @@ Abrogé ( L. 31 décembre 1927 )
 <a id="art-40"></a>
 ## Art. 40.
 
+( L. 20 décembre 2019 )
+
 Les actes de l’état civil sont inscrits, dans chaque commune, sur un ou plusieurs registres tenus doubles. Ils sont inscrits sur des feuilles mobiles qui sont reliées en registres au plus tard à la fin de l’année.
 
 Des règlements grand-ducaux peuvent autoriser certains agents diplomatiques et consulaires à inscrire les actes de l’état civil sur des feuilles mobiles qui sont reliées en registres au plus tard à la fin de l’année. Les mêmes règlements déterminent les règles relatives à l’inscription des actes sur feuilles mobiles.
@@ -189,6 +199,8 @@ Abrogé ( L. 20 décembre 2019 )
 <a id="art-42"></a>
 ## Art. 42.
 
+( L. 20 décembre 2019 )
+
 Les actes sont dressés sur-le-champ, à la suite les uns des autres, et numérotés en continu, par registre et par année. Les ratures et les renvois sont approuvés et signés de la même manière que le corps de l’acte.
 
 Il n’y est rien écrit par abréviation, et aucune date n’est mise en chiffres.
@@ -197,6 +209,8 @@ Toutefois, pour l’inscription des mentions marginales, les énonciations relat
 
 <a id="art-43"></a>
 ## Art. 43.
+
+( L. 20 décembre 2019 )
 
 Les registres sont clos et arrêtés par l’officier de l’état civil à la fin de chaque année. Ils sont transmis au greffe du Tribunal d’arrondissement. Ils sont signés par première et dernière feuille, à la suite de l’indication du nombre d’actes et du nombre de feuilles fournies, utilisées, endommagées, à détruire et du double des feuilles non utilisées restituées, par le préposé du service de l’état civil du greffe du Tribunal d’arrondissement, valant récépissé, et par le président du Tribunal d’arrondissement ou le juge qui le remplace.
 
@@ -242,6 +256,8 @@ Lorsqu'il n'aura pas existé de registres, ou qu'ils seront perdus, la preuve en
 
 <a id="art-47"></a>
 ## Art. 47.
+
+( L. du 27 juin 2018 )
 
 ( L. 4 juillet 2014 ) Tout acte de l’état civil des Luxembourgeois et des étrangers, fait en pays étranger et rédigé dans les formes usitées dans ce pays, fait foi, sauf si d’autres actes ou pièces détenus, des données extérieures ou des éléments tirés de l’acte lui-même établissent, le cas échéant après toutes vérifications utiles, que cet acte est irrégulier, falsifié ou que les faits qui y sont déclarés ne correspondent pas à la réalité.
 
@@ -377,6 +393,24 @@ L'acte de reconnaissance d'un enfant sera inscrit sur les registres, à sa date;
 <a id="art-63"></a>
 ## Art. 63.
 
+( L. 4 juillet 2014 )
+
+(1)
+
+Avant la célébration du mariage, l’officier de l’état civil fait une publication par voie d’affiche apposée à la porte de la maison commune. Cette publication énonce les prénoms, noms, domiciles et résidences des futurs conjoints, ainsi que le lieu où le mariage doit être célébré.
+
+(2)
+
+La publication prévue au premier paragraphe ou, en cas de dispense de publication accordée conformément aux dispositions de l’ article 169 la célébration du mariage est subordonnée à la remise, pour chacun des futurs conjoints, des indications ou pièces suivantes:
+
+- les pièces exigées par les articles 70 ou 71 et, le cas échéant, par l’ article 73;
+
+- la justification de l’identité, du domicile ou de la résidence, et le cas échéant, de la capacité matrimoniale, au moyen de pièces délivrées par une autorité publique.
+
+(3)
+
+L’officier de l’état civil, qui ne se conforme pas aux prescriptions des paragraphes précédents, est puni des peines prévues à l’ article 264 du Code pénal .
+
 <a id="art-64"></a>
 ## Art. 64.
 
@@ -452,7 +486,21 @@ L’officier de l’état civil reçoit de chaque partie, l’une après l’aut
 <a id="art-76"></a>
 ## Art. 76.
 
+( L. du 27 juin 2018 )
+
 On énonce, dans l’acte de mariage :
+
+1. les prénoms, noms, sexes, lieux et dates de naissance et domicile des conjoints ;
+
+2. les prénoms, noms, sexes et domiciles des parents ;
+
+3. le consentement des parents, celui du conseil de famille, celui du tuteur ad hoc et, le cas échéant, l’accord du juge aux affaires familiales, dans les cas où ils sont requis ;
+
+4. les prénoms et nom du précédent conjoint de chacun des conjoints ;
+
+5. les publications dans les divers domiciles ;
+
+6. la déclaration des contractants de se prendre pour conjoint, et le prononcé de leur union par l’officier public.
 
 Il est fait mention de la célébration du mariage en marge de l’acte de naissance de chacun des conjoints.
 
@@ -596,11 +644,85 @@ Le procureur d'Etat peut procéder à la rectification administrative des erreur
 <a id="art-99-1"></a>
 ## « Art. 99-1.
 
+( L. du 10 août 2018 )
+
+(1)
+
+Les titulaires de l’autorité parentale ou le représentant légal du mineur de moins de cinq ans accomplis peuvent introduire une requête devant le tribunal d’arrondissement compétent afin d’obtenir la modification de la mention du sexe et du ou des prénoms du mineur. Le tribunal statue dans l’intérêt de l’enfant.
+
+(2)
+
+Les titulaires de l’autorité parentale ou le représentant légal démontrent par une réunion suffisante de faits que la mention relative au sexe du mineur dans les actes de l'état civil ne correspond pas à celui dans lequel le mineur se présente et dans lequel il est connu.
+
+Les principaux de ces faits non cumulatifs, dont la preuve peut être rapportée par tous moyens, peuvent être :
+
+1. de se présenter publiquement comme appartenant au sexe revendiqué ;
+
+2. d’être connu sous le sexe revendiqué de son entourage familial, amical, professionnel ou associatif ;
+
+3. d’avoir obtenu le changement de son prénom afin qu'il corresponde au sexe revendiqué.
+
+(3)
+
+Nonobstant les mesures d’instruction que le tribunal peut prendre, le fait de ne pas avoir subi des traitements médicaux, une opération chirurgicale ou une stérilisation ne peut motiver le refus de faire droit à la demande.
+
+(4)
+
+Les paragraphes 1 er à 3 s’appliquent également en cas de désaccord des parents d’un mineur de cinq ans accomplis concernant l’introduction d’une demande de modification de la mention du sexe et du ou des prénoms par voie administrative, si le parent le plus diligent saisit le tribunal d’arrondissement compétent qui statue dans l’intérêt de l’enfant.
+
 <a id="art-99-2"></a>
 ## Art. 99-2.
 
+( L. du 10 août 2018 )
+
+(1)
+
+La personne majeure ayant déjà obtenu une modification de la mention du sexe et d’un ou de plusieurs prénoms par procédure judiciaire ou administrative peut introduire une nouvelle demande de modification de la mention du sexe et d’un ou de plusieurs prénoms corrélatifs par requête devant le tribunal d’arrondissement compétent.
+
+(2)
+
+Ladite personne intéressée démontre par une réunion suffisante de faits que la mention relative au sexe dans les actes de l'état civil ne correspond pas à celui dans lequel elle se présente et dans lequel elle est connue.
+
+Les principaux de ces faits non cumulatifs, dont la preuve peut être rapportée par tous moyens, peuvent être :
+
+1. de se présenter publiquement comme appartenant au sexe revendiqué ;
+
+2. d’être connu sous le sexe revendiqué de son entourage familial, amical, professionnel ou associatif ;
+
+3. d’avoir obtenu le changement de son prénom afin qu'il corresponde au sexe revendiqué.
+
+(3)
+
+Nonobstant les mesures d’instruction que le tribunal peut prendre, le fait de ne pas avoir subi des traitements médicaux, une opération chirurgicale ou une stérilisation ne peut motiver le refus de faire droit à la demande.
+
 <a id="art-99-3"></a>
 ## Art. 99-3.
+
+( L. du 10 août 2018 )
+
+(1)
+
+Le tuteur de la personne majeure en tutelle peut introduire une demande de modification de la mention du sexe et d’un ou de plusieurs prénoms à l’état civil par requête devant le tribunal d’arrondissement compétent.
+
+(2)
+
+Le tuteur démontre par une réunion suffisante de faits que la mention relative au sexe dans les actes de l'état civil ne correspond pas à celui dans lequel la personne en tutelle se présente et dans lequel elle est connue.
+
+Les principaux de ces faits non cumulatifs, dont la preuve peut être rapportée par tous moyens, peuvent être :
+
+1. de se présenter publiquement comme appartenant au sexe revendiqué ;
+
+2. d’être connu sous le sexe revendiqué de son entourage familial, amical, professionnel ou associatif ;
+
+3. d’avoir obtenu le changement de son prénom afin qu'il corresponde au sexe revendiqué.
+
+(3)
+
+Nonobstant les mesures d’instruction que le tribunal peut prendre, le fait de ne pas avoir subi des traitements médicaux, une opération chirurgicale ou une stérilisation ne peut motiver le refus de faire droit à la demande.
+
+(4)
+
+Les paragraphes 1 er à 3 s’appliquent également aux demandes de modification de la mention du sexe et d’un ou de plusieurs prénoms à l’état civil de la personne majeure en curatelle, qui sont à introduire par le curateur.
 
 <a id="art-100"></a>
 ## Art. 100.
@@ -650,6 +772,8 @@ L'acceptation de fonctions conférées à vie emportera translation immédiate d
 
 <a id="art-108"></a>
 ## Art. 108.
+
+( L. du 27 juin 2018 )
 
 Le mineur non émancipé est domicilié chez ses parents.
 
@@ -839,6 +963,8 @@ Nul ne peut contracter mariage par procuration.
 <a id="art-145"></a>
 ## Art. 145.
 
+( L. du 27 juin 2018 )
+
 Le juge aux affaires familiales peut, pour motifs graves, lever la prohibition telle que prévue à l’alinéa 1 er de l’article 144. La demande est introduite soit par les parents, soit par l’un d’entre eux, soit par le tuteur, soit par le mineur lui-même.
 
 Le juge aux affaires familiales est saisi conformément aux dispositions des articles 1007-1 et suivants du Nouveau Code de procédure civile .
@@ -865,6 +991,8 @@ Il n'y a pas de mariage lorsqu'il n'y a point de consentement.
 
 <a id="art-148"></a>
 ## Art. 148.
+
+( L. du 27 juin 2018 )
 
 Le mineur ne peut contracter mariage sans le consentement de ses parents.
 
@@ -961,6 +1089,10 @@ A défaut d’une résidence continue de six mois, elle est faite au lieu de la 
 
 ( L. 4 juillet 2014 ) Le mariage doit être célébré:
 
+1. dans le cas où un des futurs conjoints est de nationalité luxembourgeoise ou réside habituellement au Luxembourg, lorsque les deux futurs conjoints satisfont aux conditions de fond de la loi luxembourgeoise; ou
+
+2. lorsque chacun des futurs conjoints remplit les conditions de fond exigées par la loi applicable à son statut personnel.
+
 #### Chapitre III. Des oppositions au mariage
 
 <a id="art-172"></a>
@@ -978,6 +1110,8 @@ Après mainlevée judiciaire d’une opposition au mariage formée par un ascend
 <a id="art-174"></a>
 ## Art. 174.
 
+( L. du 27 juin 2018 )
+
 À défaut d’aucun ascendant, le frère ou la sœur, l’oncle ou la tante, le cousin ou la cousine germains, majeurs, ne peuvent former aucune opposition sauf lorsque celle-ci est fondée sur l’état de démence du futur conjoint. Cette opposition, dont le juge aux affaires familiales peut prononcer la mainlevée pure et simple, n’est jamais reçue qu’à la charge, par l’opposant, de provoquer l’interdiction et d’y faire statuer dans le délai qui est fixé par le jugement.
 
 <a id="art-175"></a>
@@ -993,6 +1127,24 @@ Après mainlevée judiciaire d’une opposition au mariage formée par un ascend
 <a id="art-175-2"></a>
 ## Art. 175-2.
 
+( L. 4 juillet 2014 ) ( L. du 27 juin 2018 )
+
+(1)
+
+Lorsqu’il existe des indices sérieux laissant présumer que le mariage envisagé est susceptible d’être annulé au titre des articles 146, 146-1, 146-2 et 180, l’officier de l’état civil peut saisir sans délai le procureur d’État. Il en informe les futurs conjoints.
+
+(2)
+
+Le procureur d’État est tenu, dans le mois de sa saisine, soit de laisser procéder au mariage, soit de faire opposition à celui-ci, soit de décider qu’il sera sursis à sa célébration, dans l’attente des résultats de l’enquête à laquelle il fait procéder. Il fait connaître sa décision motivée à l’officier de l’état civil et aux futurs conjoints.
+
+La durée du sursis décidé par le procureur d’État ne peut excéder un mois, renouvelable une fois par décision motivée.
+
+À l’expiration du sursis, le procureur d’État fait connaître par une décision motivée à l’officier de l’état civil s’il laisse procéder au mariage ou s’il s’oppose à sa célébration.
+
+(3)
+
+L’un ou l’autre des futurs conjoints, même mineur, peut demander en justice la mainlevée du sursis à la célébration du mariage et du renouvellement du sursis, conformément aux dispositions des articles 1007-59 à 1007-61 du Nouveau Code de procédure civile .
+
 <a id="art-176"></a>
 ## Art. 176.
 
@@ -1006,6 +1158,8 @@ Toutefois, lorsque l’opposition est faite par le procureur d’Etat, elle ne c
 
 <a id="art-177"></a>
 ## Art. 177.
+
+( L. du 27 juin 2018 )
 
 L’un ou l’autre des futurs conjoints, même mineur, peut demander en justice la mainlevée de l’opposition au mariage, conformément aux dispositions des articles 1007-59 à 1007-61 du Nouveau Code de procédure civile .
 
@@ -1052,6 +1206,10 @@ Lorsqu’il y a erreur dans la personne, le mariage ne peut être attaqué que p
 ## Art. 185.
 
 ( L. 4 juillet 2014 ) Néanmoins le mariage contracté par des conjoints qui n’avaient point encore l’âge requis ou dont l’un des deux n’avait point atteint cet âge, ne peut plus être attaqué:
+
+1. lorsqu’il s’est écoulé un an depuis que ce conjoint ou les conjoints ont atteint l’âge requis;
+
+2. lorsque la femme qui n’avait point cet âge, a conçu avec son conjoint avant l’échéance d’un an.
 
 <a id="art-186"></a>
 ## Art. 186.
@@ -1174,6 +1332,10 @@ Le délai pour le réclamer est d’un an à partir du décès et se prolonge, e
 
 ( L. 4 juillet 2014 ) Les gendres et belles-filles doivent également, et dans les mêmes circonstances, des aliments à leurs beaux-pères et belles-mères; mais cette obligation cesse:
 
+1. lorsque le beau-père ou la belle-mère a convolé en secondes noces;
+
+2. lorsque celui des conjoints qui produisait l’affinité, et les enfants issus de son union avec l’autre conjoint, sont décédés.
+
 <a id="art-207"></a>
 ## Art. 207.
 
@@ -1196,10 +1358,14 @@ Lorsque celui qui fournit ou celui qui reçoit des aliments est replacé dans un
 <a id="art-210"></a>
 ## Art. 210.
 
+( L. du 27 juin 2018 )
+
 Si la personne qui doit fournir les aliments justifie qu’elle ne peut payer la pension alimentaire, le juge aux affaires familiales pourra, en connaissance de cause, ordonner qu’elle recevra dans sa demeure, qu’elle nourrira et entretiendra celui auquel elle devra des aliments.
 
 <a id="art-211"></a>
 ## Art. 211.
+
+( L. du 27 juin 2018 )
 
 Le juge aux affaires familiales prononcera également si l’un des parents qui offrira de recevoir, nourrir et entretenir dans sa demeure l’enfant à qui il devra les aliments, devra, dans ce cas, être dispensé de payer la pension alimentaire.
 
@@ -1212,6 +1378,8 @@ Le juge aux affaires familiales prononcera également si l’un des parents qui 
 
 <a id="art-213"></a>
 ## Art. 213.
+
+( L. du 27 juin 2018 )
 
 Les conjoints concourent dans l’intérêt de la famille à en assurer la direction morale et matérielle, à pourvoir à son entretien, à élever les enfants et à préparer leur établissement.
 
@@ -1232,6 +1400,8 @@ Si l’un des conjoints ne remplit pas ses obligations, il peut y être contrain
 
 <a id="art-215"></a>
 ## Art. 215.
+
+( L. du 27 juin 2018 )
 
 Les conjoints sont tenus de vivre ensemble. À défaut d’accord entre conjoints sur la résidence commune, la décision appartiendra au juge aux affaires familiales qui la fixera après avoir entendu les motifs invoqués par chacun des conjoints. Néanmoins, le juge aux affaires familiales pourra, pour des motifs légitimes, autoriser les conjoints à résider séparément. En ce cas, il statuera également sur la résidence des enfants.
 
@@ -1256,6 +1426,8 @@ L’acte passé dans les conditions fixées par l’autorisation de justice est 
 
 <a id="art-219"></a>
 ## Art. 219.
+
+( L. du 27 juin 2018 )
 
 Si l’un des conjoints se trouve hors d’état de manifester sa volonté, l’autre peut se faire habiliter par justice à le représenter, d’une manière générale, ou pour certains actes particuliers, dans l’exercice des pouvoirs résultant du régime matrimonial, les conditions et l’étendue de cette représentation étant fixées par le juge aux affaires familiales.
 
@@ -1286,6 +1458,8 @@ Cette disposition ne s’applique pas aux actes à titres gratuit. Elle n’est 
 
 <a id="art-223"></a>
 ## Art. 223.
+
+( L. du 27 juin 2018 )
 
 Chaque conjoint a le droit d’exercer une profession, une industrie ou un commerce sans le consentement du conjoint.
 
@@ -1321,6 +1495,10 @@ Abrogé ( L. 12 décembre 1972 )
 
 ( L. 4 juillet 2014 ) Le mariage se dissout:
 
+1. par la mort de l'un des conjoints;
+
+2. par le jugement de divorce ayant force de chose jugée.
+
 #### Chapitre VIII. Des seconds mariages (abrogé L. 4 juillet 2014)
 
 <a id="art-228"></a>
@@ -1337,6 +1515,10 @@ Abrogé ( L. 4 juillet 2014 )
 
 Le divorce peut être prononcé en cas :
 
+1. soit de consentement mutuel ;
+
+2. soit de rupture irrémédiable des relations conjugales.
+
 ##### Section I re . Du divorce par consentement mutuel
 
 <a id="art-230"></a>
@@ -1345,6 +1527,14 @@ Le divorce peut être prononcé en cas :
 Le divorce par consentement mutuel peut être demandé conjointement par les conjoints lorsqu’ils s’entendent sur la rupture du mariage et ses conséquences.
 
 Les conjoints qui demandent le divorce par consentement mutuel soumettent à l’homologation du tribunal une convention réglant :
+
+1. la résidence de chacun des conjoints pendant le temps de la procédure ;
+
+2. l’administration de la personne et des biens des enfants communs mineurs, non mariés, ni émancipés, tant pendant le temps de la procédure qu’après le divorce, conformément aux règles définies aux Titres IX et X du Livre I er ;
+
+3. la contribution de chacun des conjoints à l’entretien et à l’éducation des enfants communs, sans préjudice des obligations découlant du chapitre V du Titre V du Livre I er ;
+
+4. la pension alimentaire éventuelle à payer par l’un des conjoints à l’autre, pendant le temps de la procédure et après le divorce. La pension n’est plus due d’office en cas de remariage ou de partenariat au sens de la loi modifiée du 9 juillet 2004. Elle est révocable sur demande en cas de toute autre communauté de vie du créancier avec un tiers. Sont présumées vivre en communauté de vie les personnes qui vivent dans le cadre d’un foyer commun. La pension alimentaire peut être révisée sur demande en cas de détérioration de la situation du créancier ou du débiteur de la pension, à condition toutefois que cette détérioration soit indépendante de la volonté de celui dans le chef duquel elle a lieu. Par dérogation à ce qui précède, lorsque les conjoints s’accordent sur le versement de la pension alimentaire en capital, elle n’est ni révisable, ni révocable.
 
 La convention est rédigée par un ou des avocat(s) à la Cour ou notaire(s). Les conjoints sont tenus de faire préalablement par notaire inventaire et estimation de tous leurs biens meubles et immeubles, et de régler leurs droits respectifs, sur lesquels il leur sera néanmoins libre de transiger. L’estimation des biens se fera, en cas d’accord, d’après les déclarations des conjoints, sinon par prisée. Lorsqu’il n’existe pas de biens à partager entre conjoints, les conjoints en feront la déclaration dans la convention prévue à l’alinéa 1 er et il ne sera dressé aucun acte notarié.
 
@@ -1420,6 +1610,10 @@ La mention ou la transcription est faite par les soins de l’officier de l’é
 
 La mention ou la transcription est faite :
 
+1. en cas de divorce prévu à l’article 230, à la diligence des conjoints ou de l’un d’eux ou de l’avocat à la Cour ou du notaire au nom des conjoints ;
+
+2. en cas de divorce prévu à l’article 232, au nom du ou des conjoint(s)qui a/ont demandé le divorce, à la diligence du ou des avocat(s) à la Cour.
+
 À cet effet, la décision est notifiée par lettre recommandée avec accusé de réception ou remise contre accusé de réception dans le délai d’un mois à compter de la date à laquelle elle a acquis force de chose jugée, à l’officier de l’état civil compétent.
 
 En cas de divorce prévu à l’article 232, cette notification ou remise doit être accompagnée des certificats énoncés à l’article 687 du Nouveau Code de procédure civile et, s’il y a eu arrêt, d’un certificat de non-pourvoi.
@@ -1485,6 +1679,20 @@ Le tribunal peut imposer à l’un des conjoints l’obligation de verser à l�
 
 Dans la détermination des besoins et des facultés contributives, les éléments dont le tribunal tient compte incluent :
 
+1. l’âge et l’état de santé des conjoints ;
+
+2. la durée du mariage ;
+
+3. le temps déjà consacré ou qu’il leur faudra consacrer à l’éducation des enfants ;
+
+4. leur qualification et leur situation professionnelles au regard du marché du travail ;
+
+5. leur disponibilité pour de nouveaux emplois ;
+
+6. leurs droits existants et prévisibles ;
+
+7. leur patrimoine, tant en capital qu’en revenu, après la liquidation du régime matrimonial.
+
 <a id="art-248"></a>
 ## Art. 248.
 
@@ -1518,6 +1726,38 @@ Si les avantages matrimoniaux faits au conjoint condamné ont été liquidés da
 <a id="art-252"></a>
 ## Art. 252.
 
+(1)
+
+En cas d’abandon ou de réduction de l’activité professionnelle par un conjoint au cours du mariage pendant une période qui prend fin au plus tard à la date de la requête de divorce, celui-ci peut demander, avant le jugement de divorce et à condition qu’au moment de la demande il n’ait pas dépassé l’âge de soixante-cinq ans, au tribunal de procéder ou de faire procéder au calcul d’un montant de référence, basé sur la différence entre les revenus respectifs des conjoints pendant la période d’abandon ou de réduction de l’activité professionnelle et destiné à effectuer un achat rétroactif auprès du régime général d’assurance pension, conformément à l’article 174 du Code de la sécurité sociale .
+
+Les deux conjoints ont l'obligation de fournir au tribunal les informations et pièces relatives aux revenus à la base du calcul du montant de référence visé à l’alinéa qui précède ainsi que les informations et pièces relatives à la période d’abandon ou de réduction de l’activité professionnelle. Le tribunal fixe les revenus et la période à considérer pour le calcul.
+
+(2)
+
+Aux fins de l’achat rétroactif auprès du régime général d’assurance pension, le conjoint qui a abandonné ou réduit son activité dispose d’une créance envers l’autre conjoint à hauteur de cinquante pourcent du montant de référence visé au paragraphe 1 er , considéré dans les limites de l’actif constitué des biens communs ou indivis disponible après règlement du passif.
+
+(3)
+
+Un montant équivalent à la créance visée au paragraphe 2 est à charge du conjoint créancier.
+
+(4)
+
+Le conjoint qui a abandonné ou réduit son activité peut renoncer à l’achat rétroactif visé au paragraphe 1 er . Cette renonciation peut intervenir jusqu’au jugement de divorce. Elle ne peut intervenir avant l’introduction de la requête de divorce.
+
+(5)
+
+Les montants visés aux paragraphes 2 et 3 sont versés à la Caisse nationale d’assurance pension, sauf justification légitime, au plus tard dans les trois mois qui suivent la clôture de la liquidation et du partage des biens communs ou indivis ou la date de la décision fixant la créance visée au paragraphe 2, selon ce qui survient en dernier.
+
+Le conjoint débiteur en vertu du paragraphe 2 est valablement libéré par le paiement effectué entre les mains soit du conjoint créancier, soit de la Caisse nationale d’assurance pension.
+
+(6)
+
+À défaut pour le conjoint créancier d’effectuer le versement à la Caisse nationale d’assurance pension, le conjoint débiteur peut demander la restitution du montant par lui versé.
+
+(7)
+
+Un règlement grand-ducal précise la méthodologie de calcul du montant de référence, les revenus entrant en compte et les modalités de versement des montants dus et de leur restitution.
+
 ###### Paragraphe 4. Du logement
 
 <a id="art-253"></a>
@@ -1540,6 +1780,12 @@ Le tribunal peut supprimer la jouissance du logement familial si des circonstanc
 
 Le divorce et la séparation de corps sont régis :
 
+1. par la loi nationale des conjoints lorsqu'elle leur est commune ;
+
+2. par la loi de leur domicile effectif commun lorsqu'ils sont de nationalité différente ;
+
+3. par la loi du for lorsque les conjoints de nationalité différente n'ont pas de domicile effectif commun.
+
 #### Chapitre IV. Des effets du divorce
 
 #### Chapitre V. De la séparation de corps
@@ -1547,15 +1793,21 @@ Le divorce et la séparation de corps sont régis :
 <a id="art-306"></a>
 ## Art. 306.
 
+( L. du 27 juin 2018 )
+
 Dans les cas où il y a lieu à la demande en divorce prévue à l’article 232, il sera libre aux conjoints de former demande en séparation de corps.
 
 <a id="art-307"></a>
 ## Art. 307.
 
+( L. du 27 juin 2018 )
+
 Elle sera intentée, instruite et jugée de la même manière que l’action en divorce pour rupture irrémédiable ; elle ne pourra avoir lieu par le consentement mutuel des conjoints.
 
 <a id="art-308"></a>
 ## Art. 308.
+
+( L. du 27 juin 2018 )
 
 Les articles 1007-39 et 1007-40 du Nouveau Code de procédure civile sont applicables à la séparation de corps.
 
@@ -1572,9 +1824,15 @@ Implicitement abrogé (C. pén., art. 387)
 <a id="art-311"></a>
 ## Art. 311.
 
+( L. du 27 juin 2018 )
+
 La séparation de corps emportera toujours séparation de biens.
 
 Si la séparation de corps cesse par la réconciliation des conjoints, ceux-ci demeurent soumis à la séparation de biens sauf à convenir d’un nouveau régime matrimonial en observant les règles de l’article 1397. La réconciliation n’est opposable aux tiers que si la reprise de la vie commune est constatée par acte passé devant notaire en minute, dont mention sera portée en marge :
+
+1. de l’acte de mariage ;
+
+2. du jugement qui a prononcé la séparation, l’extrait du jugement muni de cette mention étant d’ailleurs publié dans un des journaux imprimés au Grand-Duché.
 
 Les articles 239, alinéas 2 et 3, 240 et 241 sont applicables à la séparation de corps.
 
@@ -1595,6 +1853,8 @@ Le désaveu n'est cependant pas recevable s'il est établi, par tous moyens de p
 
 <a id="art-313"></a>
 ## Art. 313.
+
+( L. du 27 juin 2018 )
 
 En cas de jugement ou même de demande, soit de divorce, soit de séparation de corps, la présomption de paternité ne s'applique pas à l'enfant né plus de trois cents jours après la requête dont il est fait mention à l'article 1007-13 du Nouveau Code de procédure civile respectivement à l’article 1007-24 du Nouveau Code de procédure civile , et moins de cent quatre-vingts jours depuis le rejet définitif de la demande ou depuis le désistement du ou des demandeurs.
 
@@ -1665,6 +1925,16 @@ A défaut de ce titre, la possession de l'état d'enfant légitime suffit.
 La possession d'état doit être continue.
 
 Les principaux de ces faits sont:
+
+- que l'individu a toujours porté le nom de ceux dont on le dit issu;
+
+- que les parents l'ont toujours traité comme leur enfant et qu'il les a traités comme ses parents;
+
+- qu'ils ont, en cette qualité, pourvu à son éducation, à son entretien et à son établissement;
+
+- qu'il est reconnu pour tel dans la société et par la famille;
+
+- que l'autorité publique le considère comme tel.
 
 <a id="art-321-1"></a>
 ## Art. 321-1.
@@ -1793,6 +2063,14 @@ Cette possession d'état s'établit par une réunion suffisante de faits qui ind
 
 Les principaux de ces faits sont:
 
+- que la mère a traité cet individu comme son enfant naturel et qu'il l'a traitée comme sa mère;
+
+- que la mère a, en cette qualité, pourvu ou participé à son éducation, à son entretien et à son établissement;
+
+- qu'il est reconnu pour tel dans la société et par la famille;
+
+- que l'autorité publique le considère comme tel.
+
 <a id="art-334-1"></a>
 ## Art. 334-1.
 
@@ -1893,6 +2171,10 @@ La paternité hors mariage peut être judiciairement déclarée lorsqu'il est pr
 ## Art. 340-1.
 
 L'action en recherche de paternité n'est pas recevable:
+
+1. s'il est établi que, pendant la période légale de la conception, la mère était d'une inconduite notoire ou qu'elle a eu des relations sexuelles avec un autre individu, à moins qu'il ne résulte d'un examen des sangs ou de toute autre méthode médicale certaine que cet individu ne peut être le père;
+
+2. si le père prétendu justifie de faits propres à démontrer qu'il ne peut être le père.
 
 Quand est opposée la fin de non-recevoir tirée de ce que la mère a eu, pendant la période légale de la conception, des relations sexuelles avec un tiers, le juge peut ordonner que celui-ci soit appelé en la cause.
 
@@ -2009,8 +2291,32 @@ L'adoption ne peut avoir lieu que s'il y a de justes motifs et si elle présente
 <a id="art-344"></a>
 ## Art. 344.
 
+( L. 10 avril 2025 )
+
+(1)
+
+L’adoption peut être demandée :
+
+1. par deux conjoints non séparés de corps ;
+
+2. par deux partenaires au sens de la loi modifiée du 9 juillet 2004 relative aux effets légaux de certains partenariats ;
+
+3. par deux concubins ;
+
+4. par une personne seule, lorsqu’il s’agit de l’adoption de l’enfant légitime, naturel ou adoptif de son conjoint, partenaire ou concubin ;
+
+5. par une personne seule sans être engagée par un des liens visés aux points 1° à 3°.
+
+Si l’adoption est demandée conjointement par deux personnes visées aux points 1° à 3°, ces personnes peuvent être de sexe différent ou de même sexe.
+
+(2)
+
+Deux personnes visées au paragraphe 1 er , point 3°, ne peuvent adopter ensemble que si elles ne sont ni mariées ni engagées dans un partenariat au sens de la loi modifiée du 9 juillet 2004 relative aux effets légaux de certains partenariats avec une tierce personne.
+
 <a id="art-345"></a>
 ## Art. 345.
+
+( L. 10 avril 2025 )
 
 La personne seule procédant à l’adoption est âgée de vingt-cinq ans au moins.
 
@@ -2022,6 +2328,8 @@ Par dérogation aux alinéas 1 er et 2, le tribunal peut, s’il y a de justes m
 
 <a id="art-346"></a>
 ## Art. 346.
+
+( L. 10 avril 2025 )
 
 L’adoptant doit avoir quinze ans de plus que l’enfant qu’il se propose d’adopter. Si ce dernier est l’enfant de son conjoint, partenaire ou concubin, la différence d’âge exigée n’est que de dix ans.
 
@@ -2039,6 +2347,8 @@ Abrogé ( L. 10 avril 2025 )
 
 <a id="art-349"></a>
 ## Art. 349.
+
+( L. 10 avril 2025 )
 
 Nul ne peut être adopté par plusieurs personnes, si ce n’est par deux conjoints, deux partenaires ou concubins au sens de l’article 344, paragraphe 1 er .
 
@@ -2070,6 +2380,8 @@ Lorsque la filiation de l'enfant n'est pas établie, le consentement est donné 
 
 <a id="art-351-3"></a>
 ## Art. 351-3.
+
+( L. du 27 juin 2018 )
 
 Les personnes habilitées en application des articles 351, 351-1 et 351-2 à consentir à l’adoption peuvent, par déclaration à faire devant le tribunal de leur domicile ou de leur résidence ou devant un notaire, renoncer à ce droit en faveur d’un service d’aide sociale ou d’une œuvre d’adoption créés par la loi ou reconnus par arrêté grand-ducal.
 
@@ -2116,6 +2428,8 @@ Une personne mariée ne peut être adoptée qu'avec le consentement de son conjo
 <a id="art-356"></a>
 ## Art. 356.
 
+( L. 10 avril 2025 )
+
 L’adopté mineur capable de discernement et l’adopté majeur capable doivent consentir personnellement à leur adoption.
 
 ##### Section II. Des effets de l'adoption simple
@@ -2135,6 +2449,8 @@ Les prohibitions au mariage prévues aux articles 161 à 164 s'appliquent entre 
 <a id="art-359"></a>
 ## Art. 359.
 
+( L. 10 avril 2025 )
+
 ( L. 23 décembre 2005 ) L’adoption confère à l’adopté le nom de l’adoptant.
 
 En cas d’adoption par deux conjoints, partenaires ou concubins au sens de l’article 344, paragraphe 1 er , le nom conféré à l’adopté est déterminé par les règles énoncées à l’article 57 et ce dans le respect de l’unicité du nom des enfants communs des adoptants.
@@ -2149,6 +2465,8 @@ Sur demande de l’adopté ou du ou des adoptants, le tribunal peut décider, po
 
 <a id="art-360"></a>
 ## Art. 360.
+
+( L. du 27 juin 2018 ) ( L. 10 avril 2025 )
 
 L’adoptant est seul investi, à l’égard de l’adopté, de tous les droits de l’autorité parentale, inclus celui d’administrer les biens et de consentir au mariage de l’adopté.
 
@@ -2168,7 +2486,17 @@ La législation relative à la protection de la jeunesse et les dispositions pé
 <a id="art-361-1"></a>
 ## Art. 361-1.
 
+( L. 10 avril 2025 )
+
 Le mariage, le partenariat ou le concubinage au sens de l’article 344, paragraphe 1 er est prohibé :
+
+1. entre l’adoptant, l’adopté et ses descendants ;
+
+2. entre l’adopté et le conjoint, le partenaire ou le concubin de l’adoptant ; réciproquement entre l’adoptant et le conjoint, le partenaire ou le concubin de l’adopté ;
+
+3. entre les enfants adoptifs de la même personne ;
+
+4. entre l’adopté et les enfants de l’adoptant.
 
 Néanmoins, les prohibitions portées aux 3° et 4° ci-dessus peuvent être levées par dispense du tribunal s’il y a des causes graves.
 
@@ -2220,10 +2548,22 @@ La révocation prononcée par une décision transcrite conformément au paragrap
 <a id="art-367"></a>
 ## Art. 367.
 
+( L. 10 avril 2025 )
+
 Les dispositions des articles 343 à 354 et 356 sont applicables à l’adoption plénière.
 
 <a id="art-367-1"></a>
 ## Art. 367-1.
+
+( L. 10 avril 2025 )
+
+(1)
+
+L’enfant à adopter doit être âgé de moins de seize ans.
+
+(2)
+
+Si l’enfant à adopter a plus de seize ans mais a été accueilli avant d’avoir atteint cet âge par des personnes qui ne remplissaient pas les conditions légales pour adopter ou s’il a fait l’objet d’une adop­tion simple avant d’avoir atteint cet âge, l’adoption plénière peut être demandée, si les conditions en sont remplies, pendant toute la minorité de l’enfant. ».
 
 <a id="art-367-2"></a>
 ## Art. 367-2. et Art. 367-3.
@@ -2241,6 +2581,8 @@ L'adoption confère à l'adopté et à ses descendants les mêmes droits et obli
 
 <a id="art-368-1"></a>
 ## Art. 368-1.
+
+( L. 10 avril 2025 )
 
 En cas d’adoption par deux personnes, le nom conféré à l’adopté est déterminé selon les règles énoncées à l’article 57 et ce dans le respect de l’unicité du nom des enfants communs des adoptants.
 
@@ -2263,6 +2605,8 @@ L'adoption plénière est irrévocable.
 <a id="art-368-4"></a>
 ## Art. 368-4.
 
+( L. du 17 décembre 2021 )
+
 Par exception à l’article 368-3, la révocation de l’adoption est possible dans les cas où l’adoption trouve son origine dans une disparition forcée au sens de l’article 442-1 bis du Code pénal .
 
 Elle peut être demandée par l’adopté, l’adoptant, par le ou les parents de naissance présumés de l’adopté ainsi que par le ministère public.
@@ -2280,6 +2624,8 @@ Les dispositions de l' article 357 sont applicables à l'adoption plénière.
 
 <a id="art-370"></a>
 ## Art. 370.
+
+( L. 10 avril 2025 )
 
 L’adoption est ouverte aux Luxembourgeois et aux étrangers.
 
@@ -2307,6 +2653,8 @@ L'enfant à tout âge, doit honneur et respect à ses parents.
 <a id="art-372"></a>
 ## Art. 372.
 
+( L. du 27 juin 2018 )
+
 L’autorité parentale est l’ensemble des droits et devoirs ayant pour finalité l’intérêt supérieur de l’enfant.
 
 Elle appartient aux parents jusqu’à la majorité ou l’émancipation de l’enfant pour le protéger dans sa sécurité, sa santé et sa moralité, pour assurer son éducation et permettre son développement dans le respect dû à sa personne.
@@ -2315,6 +2663,8 @@ Les parents associent l’enfant selon son âge et son degré de maturité.
 
 <a id="art-372-1"></a>
 ## Art. 372-1.
+
+( L. du 27 juin 2018 )
 
 Tout acte de l’autorité parentale, qu’il ait un caractère usuel ou non-usuel, requiert l’accord de chacun des parents lorsqu’ils exercent en commun l’autorité parentale.
 
@@ -2325,6 +2675,8 @@ En cas de désaccord, le parent le plus diligent saisit le tribunal qui statue s
 <a id="art-372-2"></a>
 ## Art. 372-2.
 
+( L. du 27 juin 2018 )
+
 Chacun des parents contribue à l’entretien et à l’éducation des enfants à proportion de ses ressources, de celles de l’autre parent, ainsi que des besoins de l’enfant.
 
 Cette obligation ne cesse pas de plein droit lorsque l’enfant est majeur.
@@ -2332,10 +2684,14 @@ Cette obligation ne cesse pas de plein droit lorsque l’enfant est majeur.
 <a id="art-373"></a>
 ## Art. 373.
 
+( L. du 27 juin 2018 )
+
 L’enfant ne peut quitter la maison familiale sans la permission de ses parents et il ne peut en être retiré que dans les cas de nécessité que détermine la loi.
 
 <a id="art-374"></a>
 ## Art. 374.
+
+( L. du 27 juin 2018 )
 
 L’enfant a le droit d’entretenir des relations personnelles avec ses ascendants. Seul l’intérêt supérieur de l’enfant peut faire obstacle à ce droit.
 
@@ -2348,6 +2704,8 @@ L’enfant ne doit pas être séparé de ses frères et sœurs, sauf si l’int�
 <a id="art-375"></a>
 ## Art. 375.
 
+( L. du 27 juin 2018 )
+
 Les parents exercent en commun l’autorité parentale.
 
 Toutefois, lorsque la filiation est judiciairement déclarée à l’égard du second parent de l’enfant, défendeur à une action en établissement de la filiation, le parent à l’égard duquel la filiation a été établie en premier reste seul investi de l’exercice de l’autorité parentale, sous réserve d’une décision différente prise par le juge en considération de l’intérêt supérieur de l’enfant.
@@ -2357,15 +2715,21 @@ L’autorité parentale pourra néanmoins être exercée en commun en cas de dé
 <a id="art-375-1"></a>
 ## Art. 375-1.
 
+( L. du 27 juin 2018 )
+
 À l’égard des tiers de bonne foi, chacun des parents est réputé agir avec l’accord de l’autre quand il fait seul un acte usuel de l’autorité parentale relativement à la personne de l’enfant.
 
 <a id="art-375-2"></a>
 ## Art. 375-2.
 
+( L. du 27 juin 2018 )
+
 Est privé de l’autorité parentale chacun des parents qui est hors d’état de manifester sa volonté, en raison de son incapacité, de son absence ou de toute autre cause.
 
 <a id="art-375-3"></a>
 ## Art. 375-3.
+
+( L. du 27 juin 2018 )
 
 Si l’un des parents décède ou se trouve privé de l’exercice de l’autorité parentale, l’autre l’exerce seul.
 
@@ -2374,12 +2738,16 @@ Si l’un des parents décède ou se trouve privé de l’exercice de l’autori
 <a id="art-376"></a>
 ## Art. 376.
 
+( L. du 27 juin 2018 )
+
 La séparation des parents est sans incidence sur les règles de dévolution de l’exercice de l’autorité parentale.
 
 Chacun des parents doit maintenir des relations personnelles avec l’enfant et respecter les liens de celui-ci avec l’autre parent.
 
 <a id="art-376-1"></a>
 ## Art. 376-1.
+
+( L. du 27 juin 2018 )
 
 Si l’intérêt supérieur de l’enfant le commande, le tribunal peut confier l’exercice de l’autorité parentale à l’un des deux parents.
 
@@ -2394,6 +2762,8 @@ Il peut prévoir que la remise s’effectue dans un espace de rencontre que le t
 <a id="art-376-2"></a>
 ## Art. 376-2.
 
+( L. du 27 juin 2018 )
+
 En cas de séparation des parents ou entre ceux-ci et l’enfant, la contribution à son entretien et à son éducation prend la forme d’une pension alimentaire versée, selon le cas, par l’un des parents à l’autre ou à la personne à laquelle l’enfant est confié.
 
 Cette pension peut en tout ou en partie prendre la forme d’une prise en charge directe de frais exposés au profit de l’enfant.
@@ -2405,15 +2775,21 @@ Les modalités et les garanties de cette pension alimentaire sont fixées par la
 <a id="art-376-3"></a>
 ## Art. 376-3.
 
+( L. du 27 juin 2018 )
+
 Le parent qui assume à titre principal la charge d’un enfant majeur qui ne peut lui-même subvenir à ses besoins peut demander à l’autre de lui verser une contribution à son entretien et à son éducation. Le tribunal peut décider ou les parents peuvent convenir que cette contribution sera versée en tout ou en partie entre les mains de l’enfant majeur.
 
 <a id="art-376-4"></a>
 ## Art. 376-4.
 
+( L. du 27 juin 2018 )
+
 Le montant, les modalités et les garanties de la contribution à l’entretien et à l’éducation de l’enfant visée à l’article 376-2, de même que la contribution à l’entretien et à l’éducation d’un enfant majeur visée à l’article 376-3, peuvent être modifiés ou complétés à tout moment par le tribunal, à la demande de l’un ou l’autre des parents, du tiers auquel l’enfant est confié, de l’enfant majeur ou de l’enfant mineur dans les conditions prévues à l’article 1007-50 du Nouveau Code de procédure civile .
 
 <a id="art-376-5"></a>
 ## Art. 376-5.
+
+( L. du 27 juin 2018 )
 
 Sans préjudice de l’article 375-1, chaque parent peut, avec l’accord de l’autre parent de l’enfant, donner un mandat d’éducation quotidienne relatif à cet enfant à son conjoint ou partenaire lié par un partenariat au sens de la loi modifiée du 9 juillet 2004 relative aux effets légaux de certains partenariats avec lequel il réside de façon stable. Le mandat, rédigé par acte sous seing privé ou en la forme authentique, permet d’accomplir les actes usuels de l’autorité parentale pour la durée de la vie commune.
 
@@ -2422,12 +2798,16 @@ Le mandat peut être révoqué à tout moment par le mandant. Il prend fin de pl
 <a id="art-377"></a>
 ## Art. 377.
 
+( L. du 27 juin 2018 )
+
 Les parents peuvent saisir le tribunal afin de faire homologuer la convention par laquelle ils organisent les modalités d’exercice de l’autorité parentale, fixent le domicile et la résidence de l’enfant, le droit de visite et d’hébergement ainsi que la contribution à l’entretien et à l’éducation de l’enfant.
 
 Le tribunal homologue la convention, sauf s’il constate qu’elle ne préserve pas suffisamment l’intérêt de l’enfant ou que le consentement des parents n’est pas donné librement.
 
 <a id="art-378"></a>
 ## Art. 378.
+
+( L. du 27 juin 2018 )
 
 Le tribunal peut être saisi par l’un des parents afin de statuer sur les modalités d’exercice de l’autorité parentale, telles que définies à l’article 377.
 
@@ -2438,6 +2818,8 @@ Ce tiers doit être une personne ayant entretenu des liens affectifs soutenus av
 <a id="art-378-1"></a>
 ## Art. 378-1.
 
+( L. du 27 juin 2018 )
+
 En cas d’accord des parents la résidence peut être fixée en alternance au domicile de chacun des parents ou au domicile de l’un d’eux.
 
 À la demande de l’un des parents ou en cas de désaccord entre eux sur le choix du domicile ou sur la résidence de l’enfant, le tribunal peut fixer le domicile de l’enfant et ordonner une résidence en alternance dont il détermine la durée. Au terme de celle-ci, il statue définitivement et fixe le domicile de l’enfant au domicile de l’un des parents et la résidence habituelle de l’enfant soit en alternance au domicile de chacun des parents, soit au domicile de l’un d’eux.
@@ -2447,10 +2829,28 @@ Tout changement de domicile de l’un des parents, dès lors qu’il modifie la 
 <a id="art-378-2"></a>
 ## Art. 378-2.
 
+( L. du 27 juin 2018 )
+
+(1)
+
+Les dispositions contenues dans la convention homologuée visée à l’article 377, ainsi que les décisions relatives à l’exercice de l’autorité parentale peuvent être modifiées ou complétées, en cas de survenance d’un élément nouveau, à tout moment par le tribunal à la demande des ou d’un parent.
+
+(2)
+
+L’enfant mineurcapable de discernement peut lui-même informer le tribunal de son souhait de voir la décision relative à l’exercice de l’autorité parentale modifiée. Dans ce cas, le tribunal procède conformément à l’article 1007-50 du Nouveau Code de procédure civile .
+
+(3)
+
+En cas de non-respect réitéré par l’un des parents des décisions judiciaires relatives au droit de visite et d’hébergement ou de la résidence alternée, le tribunal peut proposer une médiation familiale aux frais de ce parent.
+
+Si le non-respect persiste, le tribunal procède, à la demande du parent lésé, à une modification de l’attribution de l’autorité parentale respectivement du droit de visite et d’hébergement en faveur de l’autre parent.
+
 ##### Section IV. De l’intervention des tiers ( L. du 27 juin 2018 )
 
 <a id="art-379"></a>
 ## Art. 379.
+
+( L. du 27 juin 2018 )
 
 À l’exception des cas visés à l’article 387-10 du Code civil et à l’article 11 du Code pénal , la séparation des parents ne fait pas obstacle à la dévolution de l’autorité parentale prévue à l’article 375-3.
 
@@ -2461,6 +2861,8 @@ Dans des circonstances exceptionnelles, le tribunal qui statue sur les modalité
 <a id="art-380"></a>
 ## Art. 380.
 
+( L. du 27 juin 2018 )
+
 Lorsque l’enfant a été confié, de l’accord des parents, à un tiers, l’autorité parentale continue d’être exercée par les parents ; toutefois la personne à qui l’enfant a été confié accomplit tous les actes usuels relatifs à sa surveillance et son éducation.
 
 Le tribunal en confiant l’enfant à titre provisoire à un tiers, peut décider qu’il devra requérir l’ouverture d’une tutelle.
@@ -2468,15 +2870,21 @@ Le tribunal en confiant l’enfant à titre provisoire à un tiers, peut décide
 <a id="art-380-1"></a>
 ## Art. 380-1.
 
+( L. du 27 juin 2018 )
+
 S’il ne reste plus aucun des parents en état d’exercer l’autorité parentale il y aura lieu à l’ouverture d’une tutelle ainsi qu’il est dit à l’article 390 ci-dessous.
 
 <a id="art-380-2"></a>
 ## Art. 380-2.
 
+( L. du 27 juin 2018 )
+
 Le tribunal qui statue sur l’établissement d’une filiation peut décider de confier provisoirement l’enfant à un tiers qui sera chargé de requérir l’organisation de la tutelle.
 
 <a id="art-381"></a>
 ## Art. 381.
+
+( L. du 27 juin 2018 )
 
 Dans tous les cas prévus au présent titre, la tutelle peut être ouverte lors même qu'il n'y aurait pas de biens à administrer.
 
@@ -2492,6 +2900,8 @@ Les parents ont, sous les distinctions qui suivent, l'administration et la jouis
 <a id="art-383"></a>
 ## Art. 383.
 
+( L. du 27 juin 2018 )
+
 L’administration légale est exercée conjointement par les parents lorsqu’ils exercent en commun l’autorité parentale et, dans les autres cas, sous le contrôle du tribunal, soit par l’un, soit par l’autre des parents, selon les dispositions du chapitre I er ci-avant.
 
 La jouissance légale appartient aux parents conjointement ou à celui des parents qui exerce l’administration légale.
@@ -2501,10 +2911,20 @@ La jouissance légale appartient aux parents conjointement ou à celui des paren
 
 Le droit de jouissance cesse:
 
+1. par les causes qui mettent fin à l'autorité parentale, ou même plus spécialement par celles qui mettent fin à l'administration légale;
+
+2. par les causes qui emportent l'extinction de tout usufruit.
+
 <a id="art-385"></a>
 ## Art. 385.
 
 Les charges de cette jouissance sont:
+
+1. celles auxquelles sont tenus en général les usufruitiers;
+
+2. la nourriture, l'entretien et l'éducation de l'enfant, selon sa fortune;
+
+3. les dettes grevant la succession recueillie par l'enfant, en tant qu'elles auraient dû être acquittées sur les revenus.
 
 <a id="art-386"></a>
 ## Art. 386.
@@ -2526,13 +2946,37 @@ Aucune renonciation, aucune cession portant sur l'autorité parentale, ne peut a
 <a id="art-387-2"></a>
 ## Art. 387-2.
 
+( L. du 27 juin 2018 )
+
 Le tribunal peut, quand il est appelé à statuer sur les modalités de l’exercice de l’autorité parentale ou sur l’éducation d’un enfant mineur, avoir égard aux accords que les parents ont pu librement conclure entre eux à ce sujet, à moins que l’un d’eux ne justifie de motifs graves qui l’autoriseraient à révoquer son consentement ou si l’intérêt de l’enfant l’exige.
 
 <a id="art-387-3"></a>
 ## Art. 387-3.
 
+( L. du 27 juin 2018 )
+
+(1)
+
+Les parents, ensemble ou séparément, peuvent, lorsque les circonstances l’exigent, saisir le tribunal en vue de voir déléguer tout ou partie de l’exercice de l’autorité parentale à un membre de la famille, à un tiers ou à un établissement agréé à cette fin par arrêté grand-ducal.
+
+(2)
+
+En cas de désintérêt manifeste ou si les parents sont dans l’impossibilité d’exercer tout ou partie de l’autorité parentale, le particulier ou l’établissement qui a recueilli l’enfant ou un membre de la famille peut également saisir le tribunal aux fins de se faire déléguer totalement ou partiellement l’exercice de l’autorité parentale. Mais il faut, dans ce cas, que le particulier ou l’établissement après avoir recueilli l’enfant, en ait fait la déclaration au procureur d’État du lieu. Cette déclaration est faite dans les huit jours.
+
+Le procureur d’État, dans le mois qui suit, en donne avis aux parents ou au tuteur. La notification qui leur est ainsi faite ouvre un nouveau délai de trois mois à l’expiration duquel, faute par eux de réclamer l’enfant, ils sont présumés renoncer à exercer sur lui leur autorité. Le particulier ou l’établissement qui a recueilli l’enfant peut alors présenter une requête au tribunal afin de se faire déléguer totalement ou partiellement l’autorité parentale.
+
+(3)
+
+Dans tous les cas visés au présent article, les deux parents doivent être appelés à l’instance.
+
+(4)
+
+En cas de partage de l’exercice de l’autorité parentale suite à une délégation partielle de l’autorité parentale, le tiers délégataire accomplit tous les actes usuels relatifs à la surveillance et à l’éducation de l’enfant.
+
 <a id="art-387-4"></a>
 ## Art. 387-4.
+
+( L. du 27 juin 2018 )
 
 La délégation, totale ou partielle, de l’autorité parentale résultera du jugement rendu par le tribunal.
 
@@ -2553,6 +2997,8 @@ Aprogé ( L. du 27 juin 2018 )
 <a id="art-387-7"></a>
 ## Art. 387-7.
 
+( L. du 27 juin 2018 )
+
 La délégation peut, dans tous les cas, prendre fin ou être transférée par un nouveau jugement, s’il est justifié de circonstances nouvelles.
 
 Dans le cas où la restitution de l’enfant est accordée aux parents, le tribunal peut mettre à leur charge, en considération de leurs ressources, le remboursement de tout ou partie des frais d’entretien.
@@ -2569,10 +3015,14 @@ Le droit de consentir à l'adoption du mineur n'est jamais délégué.
 <a id="art-387-9"></a>
 ## Art. 387-9.
 
+( L. du 27 juin 2018 )
+
 Peuvent se voir retirer totalement l’autorité parentale par le tribunal d’arrondissement, les parents qui sont condamnés, soit comme auteurs, coauteurs ou complices d’un crime ou délit commis à l’égard ou sur la personne de leur enfant, soit à l’aide de leur enfant, soit comme auteurs, coauteurs ou complices d’un crime ou délit commis par leur enfant, soit comme auteur, coauteur ou complice d’un crime ou d’un délit commis à l’égard ou sur la personne de l’autre parent. Ce retrait est applicable aux ascendants autres que les parents pour la part de l’autorité parentale qui peut leur revenir sur leurs descendants.
 
 <a id="art-387-9bis"></a>
 ## Art. 387-9bis.
+
+( L. du 27 juin 2018 )
 
 Peuvent se voir retirer totalement l’autorité parentale, en dehors de toute condamnation pénale, les parents qui, soit par de mauvais traitement, soit par une consommation habituelle et excessive de boissons alcooliques ou par un usage de stupéfiants, soit par une inconduite notoire ou des comportements délictueux, soit par un défaut de soins ou un manque de direction, mettent en danger la sécurité, la santé ou la moralité de l’enfant. Il en est de même pour le parent qui épouse une personne ou qui est lié par un partenariat au sens de la loi modifiée du 9 juillet 2004 relative aux effets légaux de certains partenariats avec une personne contre laquelle un retrait de l’autorité parentale a été prononcé.
 
@@ -2581,9 +3031,21 @@ L’action en retrait total de l’autorité parentale est portée devant le tri
 <a id="art-387-10"></a>
 ## Art. 387-10.
 
+( L. du 27 juin 2018 )
+
 Le retrait total porte sur tous les droits qui découlent de l’autorité parentale.
 
 Il comprend pour celui qui en est frappé, à l’égard de l’enfant qu’il concerne et des descendants de celui-ci :
+
+1. l’exclusion du droit d’habiter avec l’enfant, de l’éduquer et de le surveiller ;
+
+2. l’incapacité de les représenter, de consentir à leurs actes et d’administrer leurs biens ;
+
+3. l’exclusion du droit de jouissance prévu aux articles 382 et suivants du Code civil ;
+
+4. l’exclusion du droit de réclamer des aliments ;
+
+5. l’exclusion du droit de recueillir tout ou partie de leur succession par application de l’article 746 du Code civil .
 
 En outre, le retrait total entraîne l’incapacité générale d’être tuteur, subrogé tuteur ou membre d’un conseil de famille.
 
@@ -2591,6 +3053,8 @@ Le retrait partiel porte sur les droits que le tribunal détermine.
 
 <a id="art-387-11"></a>
 ## Art. 387-11.
+
+( L. du 27 juin 2018 )
 
 Si le retrait total ou partiel est prononcé contre les parents ou le survivant d’eux, le tribunal procède à l’organisation de la tutelle.
 
@@ -2606,12 +3070,16 @@ Dans le même cas, pour tous les actes spécialement subordonnés par la loi au 
 <a id="art-387-13"></a>
 ## Art. 387-13.
 
+( L. du 27 juin 2018 )
+
 Ceux qui ont encouru le retrait, peuvent, sur leur demande, et en justifiant de circonstances nouvelles être réintégrés, en tout ou en partie, dans leurs droits par le tribunal d’arrondissement siégeant en matière civile du domicile ou de la résidence habituelle de celui à qui ces droits ont été confiés.
 
 Cette demande n’est pas recevable avant l’expiration de trois ans à compter du jour où la décision est devenue irrévocable ; en cas de rejet de la demande, elle ne pourra être renouvelée qu’après une nouvelle période d’un an. Aucune demande ne sera recevable lorsqu’avant le dépôt de la requête l’enfant aura été placé en vue de l’adoption.
 
 <a id="art-387-14"></a>
 ## Art. 387-14.
+
+( L. du 27 juin 2018 )
 
 Lorsque par application de l’article 387-11 l’enfant est confié à une personne autre que les parents ou l’un d’eux, à une société ou à une institution, le tribunal condamne les parents et, à leur défaut, les autres ascendants au paiement d’une pension alimentaire, dont il fixe le montant, à moins que le revenu des intéressés ne leur permette pas de contribuer aux frais d’entretien de l’enfant. Cette décision peut toujours être modifiée.
 
@@ -2633,8 +3101,32 @@ Le mineur est l'individu de l'un et de l'autre sexe qui n'a pas encore l'âge de
 <a id="art-388-1"></a>
 ## Art. 388-1.
 
+( L. 5 juin 2009 )
+
+(1)
+
+Dans toute procédure le concernant, le mineur capable de discernement peut, sans préjudice des dispositions prévoyant son intervention ou son consentement, être entendu par le juge ou, lorsque son intérêt le commande, la personne désignée par le juge à cet effet.
+
+(2)
+
+Cette audition est de droit lorsque le mineur en fait la demande. Lorsque le mineur refuse d’être entendu, le juge apprécie le bien-fondé de ce refus.
+
+(3)
+
+Le mineur peut être entendu seul, avec son avocat ou une personne de son choix. Si ce choix n’apparaît pas conforme à l’intérêt du mineur, le juge peut procéder à la désignation d’une autre personne.
+
+(4)
+
+L’audition du mineur se fait en chambre du conseil.
+
+(5)
+
+L’audition du mineur ne lui confère pas la qualité de partie à la procédure.
+
 <a id="art-388-2"></a>
 ## Art. 388-2.
+
+( L. du 27 juin 2018 )
 
 Lorsque, dans une procédure, les intérêts d’un mineur apparaissent en opposition avec ceux de ses représentants légaux, le juge aux affaires familiales dans les conditions prévues à l’article 389-3, ou, à défaut, le juge saisi de l’instance lui désigne un administrateur ad hoc chargé de le représenter.
 
@@ -2645,6 +3137,8 @@ Lorsque, dans une procédure, les intérêts d’un mineur apparaissent en oppos
 <a id="art-389"></a>
 ## Art. 389.
 
+( L. du 27 juin 2018 )
+
 Si l’autorité parentale est exercée en commun par les parents, ceux-ci sont administrateurs légaux de leurs enfants mineurs non émancipés. Dans les autres cas, l’administration légale appartient à celui des parents qui exerce l’autorité parentale.
 
 En cas de désaccord entre les parents exerçant conjointement l’administration légale, la décision est prise par le tribunal, saisi à la requête de l’un d’eux, l’autre entendu ou dûment convoqué.
@@ -2652,15 +3146,21 @@ En cas de désaccord entre les parents exerçant conjointement l’administratio
 <a id="art-389-1"></a>
 ## Art. 389-1.
 
+( L. du 27 juin 2018 )
+
 L’administration légale est pure et simple quand les parents exercent en commun l’autorité parentale.
 
 <a id="art-389-2"></a>
 ## Art. 389-2.
 
+( L. du 27 juin 2018 )
+
 L’administration légale est placée sous le contrôle du tribunal lorsque l’un ou l’autre des parents est décédé ou se trouve privé de l’exercice de l’autorité parentale ; elle l’est également, en cas d’exercice unilatéral de l’autorité parentale.
 
 <a id="art-389-3"></a>
 ## Art. 389-3.
+
+( L. du 27 juin 2018 )
 
 L’administrateur légal représentera le mineur dans tous les actes civils, sauf les cas dans lesquels la loi ou l’usage autorise les mineurs à agir eux-mêmes.
 
@@ -2671,10 +3171,14 @@ Ne sont pas soumis à l’administration légale, les biens qui auraient été d
 <a id="art-389-4"></a>
 ## Art. 389-4.
 
+( L. du 27 juin 2018 )
+
 Dans l’administration légale pure et simple, chacun des parents est réputé, à l’égard des tiers, avoir reçu de l’autre le pouvoir de faire seul les actes pour lesquels un tuteur n’aurait besoin d’aucune autorisation.
 
 <a id="art-389-5"></a>
 ## Art. 389-5.
+
+( L. du 27 juin 2018 )
 
 Dans l’administration légale pure et simple, les parents accomplissent ensemble les actes qu’un tuteur ne pourrait faire qu’avec l’autorisation du conseil de famille.
 
@@ -2687,6 +3191,8 @@ Si l’acte cause un préjudice au mineur, les parents en sont responsables soli
 <a id="art-389-6"></a>
 ## Art. 389-6.
 
+( L. du 27 juin 2018 )
+
 Dans l’administration légale sous contrôle judiciaire, l’administrateur doit se pourvoir d’une autorisation du tribunal pour accomplir les actes qu’un tuteur ne pourrait faire qu’avec l’autorisation du conseil de famille.
 
 <a id="art-389-7"></a>
@@ -2697,12 +3203,16 @@ Les règles de la tutelle sont, pour le surplus, applicables à l'administration
 <a id="art-390"></a>
 ## Art. 390.
 
+( L. du 27 juin 2018 )
+
 La tutelle s’ouvre lorsque les parents sont tous deux décédés ou se trouvent privés de l’exercice de l’autorité parentale dans l’un des cas prévus à l’article 375-2.
 
 Elle s’ouvre, aussi, à l’égard d’un enfant, s’il n’a aucun de ses parents qui l’ait volontairement reconnu.
 
 <a id="art-391"></a>
 ## Art. 391.
+
+( L. du 27 juin 2018 )
 
 Dans le cas de l’administration légale sous contrôle judiciaire, le tribunal peut, à tout moment, soit d’office, soit à la requête des parents ou alliés ou du ministère public, décider d’ouvrir la tutelle après avoir entendu ou appelé, sauf urgence, l’administrateur légal. Celui-ci ne peut faire, à partir de la demande et jusqu’au jugement définitif, sauf le cas d’urgence, aucun acte qui requerrait l’autorisation du conseil de famille si la tutelle était ouverte.
 
@@ -2712,6 +3222,8 @@ Dans l’un et l’autre cas, si la tutelle est ouverte, le tribunal convoque le
 
 <a id="art-392"></a>
 ## Art. 392.
+
+( L. du 27 juin 2018 )
 
 Si un enfant naturel vient à être reconnu par l’un de ses deux parents après l’ouverture de la tutelle, le tribunal pourra, à la requête de ce parent, décider de substituer à la tutelle l’administration légale dans les termes de l’article 389-2.
 
@@ -2727,10 +3239,14 @@ Abrogé ( L. du 27 juin 2018 )
 <a id="art-394"></a>
 ## Art. 394.
 
+( L. du 27 juin 2018 )
+
 Si le domicile du pupille est transporté dans un autre lieu, le tuteur en donne aussitôt avis au juge aux affaires familiales antérieurement saisi. Celui-ci transmet le dossier de la tutelle au greffe du juge aux affaires familiales du nouveau domicile. Mention de cette transmission sera conservée au greffe du tribunal d’arrondissement.
 
 <a id="art-395"></a>
 ## Art. 395.
+
+( L. du 27 juin 2018 )
 
 Le juge aux affaires familiales exerce une surveillance générale sur les administrations légales et les tutelles de son ressort.
 
@@ -2740,6 +3256,8 @@ Il peut condamner à l’amende prévue à l’article 1060 du Nouveau Code de p
 
 <a id="art-396"></a>
 ## Art. 396.
+
+( L. du 27 juin 2018 )
 
 Les formes de procéder devant le juge aux affaires familiales sont réglées par le Nouveau Code de procédure civile .
 
@@ -2754,6 +3272,10 @@ Le droit individuel de choisir un tuteur, parent, ou non, n'appartient qu'au der
 ## Art. 398.
 
 Ce droit ne peut être exercé que de l'une des manières suivantes:
+
+1. par acte de dernière volonté;
+
+2. par déclaration faite ou devant le juge de paix, assisté de son greffier, ou devant notaire.
 
 <a id="art-399-et-400"></a>
 ## Art. 399 et 400.
@@ -2783,6 +3305,8 @@ S'il n'y a ni tuteur testamentaire ni ascendant tuteur ou si celui qui avait ét
 <a id="art-405"></a>
 ## Art. 405.
 
+( L. du 27 juin 2018 )
+
 Ce conseil sera convoqué par le juge aux affaires familiales, soit d’office, soit sur réquisition que lui en feront les parents ou alliés des parents, des créanciers ou autres parties intéressées, ou le ministère public. Toute personne pourra dénoncer au juge le fait qui donnera lieu à la nomination d’un tuteur.
 
 <a id="art-406"></a>
@@ -2797,12 +3321,16 @@ Le conseil de famille peut néanmoins pourvoir à son remplacement en cours de t
 <a id="art-407"></a>
 ## Art. 407.
 
+( L. du 27 juin 2018 )
+
 Le conseil de famille est composé de quatre à six membres, y compté le subrogé tuteur, mais non le tuteur ni le juge aux affaires familiales.
 
 Le juge les désigne pour la durée de la tutelle. Il peut néanmoins, sans préjudice des articles 428 et suivants, pourvoir d’office au remplacement d’un ou plusieurs membres en cours de tutelle afin de répondre à des changements qui auraient pu survenir dans la situation des parties.
 
 <a id="art-408"></a>
 ## Art. 408.
+
+( L. du 27 juin 2018 )
 
 Le juge aux affaires familiales choisit les membres du conseil de famille parmi les parents ou alliés des parents du mineur, en appréciant toutes les circonstances du cas : la proximité du degré, le lieu de la résidence, l’âge et les aptitudes des intéressés.
 
@@ -2811,10 +3339,14 @@ Il doit éviter, autant que possible, de laisser l’une des deux lignes sans re
 <a id="art-409"></a>
 ## Art. 409.
 
+( L. du 27 juin 2018 )
+
 Le juge aux affaires familiales peut aussi appeler, pour faire partie du conseil de famille, des amis, des voisins ou toutes autres personnes qui lui semblent pouvoir s’intéresser à l’enfant.
 
 <a id="art-410"></a>
 ## Art. 410.
+
+( L. du 27 juin 2018 )
 
 Le conseil de famille est convoqué par le juge aux affaires familiales. Il doit l’être si la convocation est requise, soit par deux de ses membres, soit par le tuteur ou le subrogé tuteur, soit par le mineur lui-même pourvu qu’il ait seize ans révolus.
 
@@ -2831,6 +3363,8 @@ Sauf urgence, la convocation doit être faite huit jours au moins avant la réun
 <a id="art-413"></a>
 ## Art. 413.
 
+( L. du 27 juin 2018 )
+
 Si le juge aux affaires familiales estime que la décision peut être prise sans que la tenue d’une séance soit nécessaire, il communique à chacun des membres du conseil le texte de la décision à prendre en y enjoignant les éclaircissements utiles.
 
 Chacun des membres émettra son vote par lettre missive dans le délai que le juge lui aura imparti ; faute de quoi, il encourra l’amende prévue à l’article 1060 du Nouveau Code de procédure civile .
@@ -2842,6 +3376,8 @@ Le conseil de famille ne peut délibérer que si la moitié au moins de ses memb
 
 <a id="art-415"></a>
 ## Art. 415.
+
+( L. du 27 juin 2018 )
 
 Le conseil de famille est présidé par le juge aux affaires familiales, qui aura voix délibérative et prépondérante en cas de partage.
 
@@ -2883,6 +3419,8 @@ La tutelle ne passe point aux héritiers du tuteur. Ceux-ci seront seulement res
 
 <a id="art-420"></a>
 ## Art. 420.
+
+( L. du 27 juin 2018 )
 
 Dans toute tutelle, il y aura un subrogé tuteur, nommé par le conseil de famille parmi ses membres.
 
@@ -2950,6 +3488,8 @@ Celui qui n'était ni parent ni allié des parents du mineur ne peut être forc�
 <a id="art-433"></a>
 ## Art. 433.
 
+( L. du 27 juin 2018 )
+
 Si la tutelle reste vacante, le juge aux affaires familiales la défère à l’État et désigne à l’enfant un administrateur public qui sera choisi de préférence parmi les membres d’une société ou institution de charité ou d’enseignement public ou privée.
 
 L’administrateur public aura sur la personne et les biens du mineur les mêmes attributions qu’un administrateur légal sous contrôle judiciaire.
@@ -2970,6 +3510,8 @@ Abrogés.
 
 <a id="art-437"></a>
 ## Art. 437.
+
+( L. du 27 juin 2018 )
 
 Le conseil de famille statue sur les excuses du tuteur et du subrogé tuteur ; le juge aux affaires familiales, sur les excuses proposées par les membres du conseil de famille.
 
@@ -2998,10 +3540,20 @@ Les différentes charges de la tutelle peuvent être remplies par toutes personn
 
 Sont incapables des différentes charges de la tutelle:
 
+1. les mineurs, excepté l’un des parents;
+
+2. les interdits judiciaires, les aliénés colloqués ou internés et les personnes pourvues d'un conseil judiciaire.
+
 <a id="art-443"></a>
 ## Art. 443.
 
-Sont exclus ou destitués de plein droit des différentes charges de la tutelle : Ils pourront, toutefois, être admis à la tutelle de leurs propres enfants, sur avis conforme du conseil de famille.
+( L. du 27 juin 2018 )
+
+Sont exclus ou destitués de plein droit des différentes charges de la tutelle :
+
+1. ceux qui ont été condamnés à une peine criminelle ou à qui l’exercice des charges tutélaires a été interdit par application des articles 11 à 13 du Code pénal . Ils pourront, toutefois, être admis à la tutelle de leurs propres enfants, sur avis conforme du conseil de famille.
+
+2. ceux à qui l’autorité parentale a été retirée.
 
 <a id="art-444"></a>
 ## Art. 444.
@@ -3016,15 +3568,21 @@ Ceux qui ont ou dont les parents ont avec le mineur un litige mettant en cause l
 <a id="art-446"></a>
 ## Art. 446.
 
+( L. du 27 juin 2018 )
+
 Si un membre du conseil de famille est passible d’exclusion, de destitution ou de récusation le juge aux affaires familiales prononcera lui-même, soit d’office, soit à la réquisition du tuteur, du subrogé tuteur ou du ministère public.
 
 <a id="art-447"></a>
 ## Art. 447.
 
+( L. du 27 juin 2018 )
+
 Si la clause d’exclusion, de destitution ou de récusation concerne le tuteur ou le subrogé tuteur, le conseil de famille prononcera. Il sera convoqué par le juge aux affaires familiales soit d’office, soit sur la réquisition qu’en feront les personnes mentionnées à l’article 410 ou le ministère public.
 
 <a id="art-448"></a>
 ## Art. 448.
+
+( L. du 27 juin 2018 )
 
 Le tuteur ou le subrogé tuteur ne pourra être exclu, destitué ou récusé qu’après avoir été entendu ou appelé.
 
@@ -3050,6 +3608,8 @@ Il ne peut ni acheter les biens du mineur, ni les prendre à loyer ou à ferme, 
 
 <a id="art-451"></a>
 ## Art. 451.
+
+( L. du 27 juin 2018 )
 
 Le tuteur administre et agit en cette qualité, du jour de sa nomination, si elle a été faite en sa présence ; sinon du jour qu’elle lui a été notifiée.
 
@@ -3117,6 +3677,8 @@ Le conseil de famille, en donnant son autorisation, pourra prescrire toutes les 
 <a id="art-459"></a>
 ## Art. 459.
 
+( L. du 27 juin 2018 )
+
 La vente des immeubles appartenant en tout ou en partie à un mineur se fera conformément aux dispositions spéciales réglant la matière.
 
 Le conseil de famille peut de l’accord du juge aux affaires familiales autoriser l’échange, même moyennant soulte, d’immeubles appartenant au mineur.
@@ -3178,6 +3740,8 @@ Le tuteur ne pourra transiger au nom du mineur qu'après avoir fait approuver pa
 <a id="art-468"></a>
 ## Art. 468.
 
+( L. du 27 juin 2018 )
+
 Dans tous les cas où l’autorisation du conseil de famille est requise pour la validité d’un acte du tuteur, elle peut être suppléée par celle du juge aux affaires familiales, si l’acte qu’il s’agit de passer porte sur des biens dont la valeur en capital n’excède pas une somme qui est fixée par règlement d’administration publique.
 
 Le juge aux affaires familiales peut aussi, à la requête du tuteur, autoriser une vente de valeur mobilière au lieu et place du conseil de famille, s’il lui apparaît qu’il y aurait péril en la demeure, mais à charge qu’il en soit rendu compte dans le plus bref délai au conseil qui décidera du remploi.
@@ -3191,6 +3755,8 @@ Tout tuteur est comptable de sa gestion lorsqu'elle finit.
 
 <a id="art-470"></a>
 ## Art. 470.
+
+( L. du 27 juin 2018 )
 
 Dès avant la fin de la tutelle, le tuteur est tenu de remettre chaque année au subrogé tuteur un compte de gestion. Ce compte sera rédigé et remis, sans frais, sur papier non timbré.
 
@@ -3218,6 +3784,8 @@ Si le compte donne lieu à des contestations, elles seront poursuivies et jugée
 
 <a id="art-473"></a>
 ## Art. 473.
+
+( L. du 27 juin 2018 )
 
 L’approbation du compte ne préjudicie point aux actions en responsabilité qui peuvent appartenir au pupille contre le tuteur et les autres organes de la tutelle.
 
@@ -3294,6 +3862,12 @@ Du vivant de l'individu, l'action en nullité ne peut être exercée que par lui
 
 Après sa mort, les actes faits par un individu, autres que la donation entre vifs ou le testament, ne pourront être attaqués pour la cause prévue à l' article précédent que dans les cas ci-dessous énumérés:
 
+1. si l'acte porte en lui-même la preuve d'un trouble mental;
+
+2. s'il a été fait dans un temps où l'individu était placé sous la sauvegarde de justice;
+
+3. si une action avait été introduite avant le décès aux fins de faire ouvrir la tutelle ou la curatelle.
+
 <a id="art-489-2"></a>
 ## Art. 489-2.
 
@@ -3335,6 +3909,8 @@ Le procureur d'Etat du lieu de traitement et le juge des tutelles peuvent visite
 
 <a id="art-490-4"></a>
 ## Art. 490-4.
+
+( L. du 27 juin 2018 )
 
 Les fonctions du juge des tutelles pour les majeurs qui sont protégés par la loi sont exercées par un juge du tribunal de la jeunesse dans le ressort duquel le majeur a son domicile.
 
@@ -3518,6 +4094,8 @@ Avec l'autorisation du conseil de famille, des donations peuvent être faites au
 <a id="art-505-1"></a>
 ## Art. 505-1.
 
+( L. 18 décembre 2024 )
+
 Lorsqu’il existe des éléments sérieux laissant supposer que le majeur en tutelle s’apprête à quitter le territoire national dans des conditions qui le mettraient en danger ou en cas de risque de déplacement illicite ou de non-retour du majeur en tutelle ou en cas de risque de devenir victime de la traite des êtres humains ou de violences fondées sur le genre, le juge des tutelles peut prononcer une interdiction de sortie du territoire et ordonner l’inscription dans le passeport du majeur en tutelle que celui-ci n’est pas autorisé de sortir du territoire sans l’autorisation du tuteur.
 
 <a id="art-506"></a>
@@ -3684,6 +4262,26 @@ Les objets que le propriétaire d'un fonds y a placés pour le service et l'expl
 
 Ainsi, sont immeubles par destination, quand ils ont été placés par le propriétaire pour le service de l'exploitation du fonds,
 
+- les animaux attachés à la culture;
+
+- les ustensiles aratoires;
+
+- les semences données aux fermiers ou colons partiaires;
+
+- les pigeons des colombiers;
+
+- les lapins des garennes;
+
+- les ruches à miel;
+
+- les poissons des étangs;
+
+- les pressoirs, chaudières, alambics, cuves et tonnes;
+
+- les ustensiles nécessaires à l'exploitation des forges, papeteries et autres usines;
+
+- les pailles et engrais. Sont aussi immeubles par destination, tous effets mobiliers que le propriétaire à attachés au fonds à perpétuelle demeure.
+
 <a id="art-525"></a>
 ## Art. 525.
 
@@ -3699,6 +4297,12 @@ Quant aux statues, elles sont immeubles lorsqu'elles sont placées dans une nich
 ## Art. 526.
 
 Sont immeubles, par l'objet auquel ils s'appliquent,
+
+- l'usufruit des choses immobilières;
+
+- les servitudes ou services fonciers;
+
+- les actions qui tendent à revendiquer un immeuble.
 
 #### Chapitre II. Des meubles
 
@@ -4235,6 +4839,16 @@ Si le troupeau ne périt pas entièrement, l'usufruitier est tenu de remplacer, 
 
 L'usufruit s'éteint:
 
+- par la mort naturelle de l'usufruitier;
+
+- par l'expiration du temps pour lequel il a été accordé;
+
+- par la consolidation ou la réunion sur la même tête, des deux qualités d'usufruitier et de propriétaire;
+
+- par le non-usage du droit pendant trente ans;
+
+- par la perte totale de la chose sur laquelle l'usufruit est établi.
+
 <a id="art-618"></a>
 ## Art. 618.
 
@@ -4573,6 +5187,14 @@ Les arbres qui se trouvent dans la haie mitoyenne sont mitoyens comme la haie, e
 
 Celui qui fait creuser un puits ou une fosse d'aisance près d'un mur mitoyen ou non;
 
+- celui qui veut y construire cheminée ou âtre, forge, four ou fourneau,
+
+- y adosser une étable,
+
+- ou établir contre ce mur un magasin de sel ou amas de matières corrosives,
+
+- est obligé à laisser la distance prescrite par les règlements et usages particuliers sur ces objets, ou à faire les ouvrages prescrits par les mêmes règlements et usages, pour éviter de nuire au voisin.
+
 ##### Section III. Des vues sur la propriété de son voisin
 
 <a id="art-675"></a>
@@ -4888,6 +5510,12 @@ Il ne peut exercer les droits et actions du défunt qu'après s'être fait envoy
 
 Pour succéder, il faut nécessairement exister à l'instant de l'ouverture de la succession. Ainsi sont incapables de succéder:
 
+1. celui qui n'est pas encore conçu;
+
+2. l'enfant qui n'est pas né viable;
+
+3. .....
+
 ( L. 31 juillet 1987 ) Peut succéder celui dont l'absence est présumée selon l' article 112 .
 
 <a id="art-726"></a>
@@ -4899,6 +5527,12 @@ Abrogé ( L. 29 février 1872 )
 ## Art. 727.
 
 Sont indignes de succéder, et, comme tels, exclus des successions:
+
+1. celui qui sera condamné pour avoir donné ou tenté de donner la mort au défunt;
+
+2. celui qui a porté contre le défunt une accusation capitale jugée calomnieuse;
+
+3. l'héritier majeur qui, instruit du meurtre du défunt, ne l'aura pas dénoncé à la justice.
 
 <a id="art-728"></a>
 ## Art. 728.
@@ -5216,6 +5850,10 @@ La donation, vente ou transport que fait de ses droits successifs un des cohéri
 
 Il en est de même:
 
+1. de la renonciation, même gratuite, que fait un des héritiers au profit d'un ou de plusieurs de ses cohéritiers;
+
+2. de la renonciation qu'il fait même au profit de tous ses cohéritiers indistinctement, lorsqu'il reçoit le prix de sa renonciation.
+
 <a id="art-781"></a>
 ## Art. 781.
 
@@ -5336,6 +5974,10 @@ L'héritier qui s'est rendu coupable de recel ou qui a omis, sciemment et de mau
 
 L'effet du bénéfice d'inventaire est de donner à l'héritier l'avantage:
 
+1. de n'être tenu du paiement des dettes de la succession que jusqu'à concurrence de la valeur des biens qu'il a recueillis, même de pouvoir se décharger du paiement des dettes en abandonnant tous les biens de la succession aux créanciers et aux légataires;
+
+2. de ne pas confondre ses biens personnels avec ceux de la succession et de conserver contre elle le droit de réclamer le paiement de ses créances.
+
 <a id="art-803"></a>
 ## Art. 803.
 
@@ -5430,6 +6072,18 @@ Les dispositions de la section III du présent chapitre, sur les formes de l'inv
 
 <a id="art-815-1"></a>
 ## Art. 815-1.
+
+L. du 2 juillet 2018
+
+1. À défaut d'accord amiable, l'indivision de toute exploitation agricole constituant une unité économique viable et dont la mise en valeur effective était assurée par le défunt, par son conjoint ou par son partenaire héritier au sens de la loi modifiée du 9 juillet 2004 relative aux effets légaux de certains partenariats peut être maintenue, dans les conditions fixées par le tribunal, à la demande des personnes visées aux alinéas qui suivent. Le tribunal statue en fonction des intérêts en présence et des possibilités d'existence que la famille peut tirer des biens indivis. Le maintien de l'indivision demeure possible lorsque l'exploitation comprend des éléments dont l’héritier, le conjoint ou le partenaire héritier était déjà propriétaire ou copropriétaire avant l'ouverture de la succession ou qu'elle est fondée pour partie sur le bénéfice d'un ou de plusieurs baux de terres répondant aux conditions à fixer par règlement grand-ducal à prendre sur avis du Conseil d'État.
+
+2. L'indivision peut également être maintenue à la demande des mêmes personnes et dans les conditions fixées par le tribunal en ce qui concerne la propriété des locaux d'habitation ou à usage agricole qui, à l'époque du décès, étaient effectivement utilisés pour cette habitation ou à cet usage par le défunt, son conjoint ou son partenaire héritier. Il en est de même des objets servant à l'exercice de la profession.
+
+3. Si le défunt laisse un ou plusieurs descendants mineurs, le maintien de l'indivision peut être demandé, soit par le conjoint survivant, soit par le partenaire survivant héritier, soit par d'autres descendants majeurs, soit par le représentant légal des mineurs.
+
+4. À défaut de descendants mineurs, le maintien de l'indivision ne peut être demandé que par le conjoint survivant et par le partenaire survivant héritier et à la condition qu'il ait été, avant le décès, ou soit devenu du fait du décès, copropriétaire de l'exploitation agricole ou des locaux d'habitation ou à usage professionnel. S'il s'agit de locaux d'habitation, le conjoint ou le partenaire survivant héritier doit avoir résidé dans les lieux à l'époque du décès.
+
+5. Le maintien de l'indivision ne peut être prescrit pour une durée supérieure à cinq ans. Il peut être renouvelé, dans le cas prévu à l'alinéa 3, jusqu'à la majorité du plus jeune des descendants et, dans le cas prévu à l'alinéa 4, jusqu'au décès du conjoint survivant ou du partenaire survivant héritier. ».
 
 <a id="art-815-2"></a>
 ## Art. 815-2.
@@ -5701,6 +6355,8 @@ Les biens faisant l'objet de l'attribution sont estimés à leur valeur au jour 
 
 <a id="art-832-2"></a>
 ## Art. 832-2.
+
+( L. du 9 juillet 1969 )
 
 ( L. du 2 juillet 2018 ) 1° Si une exploitation agricole constituant une unité économique viable au sens de l’article 815-1, point 1°, et de l’article 832-1, point 3°, n'est pas maintenue dans l'indivision en application de l'article 815-1 et n'a pas fait l'objet d'une attribution préférentielle dans les conditions prévues à l'article 832-1, le conjoint survivant, le partenaire survivant héritier ou tout héritier copropriétaire qui désire poursuivre l'exploitation à laquelle il participe ou a participé effectivement, peut exiger, nonobstant toute demande de licitation, que lui soient attribués à titre préférentiel, à valoir sur ses droits, les bâtiments de l'exploitation, y compris le cheptel mort et vif. Les bâtiments de l'exploitation sont évalués aux deux tiers de leur valeur vénale, le cheptel mort et vif à sa valeur vénale. Le surplus de l'exploitation est partagé en nature suivant le droit commun.
 
@@ -6189,6 +6845,10 @@ Les docteurs en médecine ou en chirurgie, les officiers de santé et les pharma
 
 Sont exceptées:
 
+1. les dispositions rémunératoires faites à titre particulier, eu égard aux facultés du disposant et aux services rendus;
+
+2. les dispositions universelles, dans le cas de parenté jusqu'au quatrième degré inclusivement, pourvu toutefois que le décédé n'ait pas d'héritiers en ligne directe; à moins que celui au profit de qui la disposition a été faite, ne soit lui-même du nombre de ces héritiers.
+
 Les mêmes règles seront observées à l'égard du ministre du culte.
 
 <a id="art-910"></a>
@@ -6490,6 +7150,12 @@ Dans le cas de la révocation pour cause d'inexécution des conditions, les bien
 ## Art. 955.
 
 La donation entre vifs ne pourra être révoquée pour cause d'ingratitude que dans les cas suivants:
+
+1. si le donataire a attenté à la vie du donateur;
+
+2. s'il s'est rendu coupable envers lui de sévices, délits ou injures graves;
+
+3. s'il lui refuse des aliments.
 
 <a id="art-956"></a>
 ## Art. 956.
@@ -6850,6 +7516,10 @@ Néanmoins, le légataire particulier ne pourra se mettre en possession de la ch
 ## Art. 1015.
 
 Les intérêts ou fruits de la chose léguée courront au profit du légataire, dès le jour du décès, et sans qu'il ait formé sa demande en justice:
+
+1. lorsque le testateur aura expressément déclaré sa volonté, à cet égard, dans le testament;
+
+2. lorsqu'une rente viagère ou une pension aura été léguée à titre d'aliments.
 
 <a id="art-1016"></a>
 ## Art. 1016.
@@ -7439,6 +8109,14 @@ Les règles particulières à certains contrats sont établies sous les titres r
 ## Art. 1108.
 
 Quatre conditions sont essentielles pour la validité d'une convention:
+
+- le consentement de la partie qui s'oblige;
+
+- sa capacité de contracter;
+
+- un objet certain qui forme la matière de l'engagement;
+
+- une cause licite dans l'obligation.
 
 ##### Section Ire. Du consentement
 
@@ -8169,6 +8847,16 @@ L'obligation qui est susceptible de division doit être exécutée entre le cré
 
 Le principe établi dans l' article précédent reçoit exception à l'égard des héritiers du débiteur:
 
+1. dans le cas où la dette est hypothécaire;
+
+2. lorsqu'elle est d'un corps certain;
+
+3. lorsqu'il s'agit de la dette alternative de choses au choix du créancier, dont l'une est indivisible;
+
+4. lorsque l'un des héritiers est chargé seul, par le titre, de l'exécution de l'obligation;
+
+5. lorsqu'il résulte soit de la nature de l'engagement, soit de la chose qui en fait l'objet, soit de la fin qu'on s'est proposée dans le contrat, que l'intention des contractants a été que la dette ne pût s'acquitter partiellement.
+
 Dans les trois premiers cas, l'héritier qui possède la chose due ou le fonds hypothéqué à la dette peut être poursuivi pour le tout sur la chose due ou sur le fonds hypothéqué, sauf le recours contre ses cohéritiers. Dans le quatrième cas, l'héritier seul chargé de la dette, et dans le cinquième cas, chaque héritier peut aussi être poursuivi pour le tout, sauf son recours contre ses cohéritiers.
 
 ###### Paragraphe II. Des effets de l'obligation indivisible
@@ -8247,6 +8935,24 @@ Cette règle reçoit exception lorsque la clause pénale ayant été ajoutée da
 ## Art. 1234.
 
 Les obligations s'éteignent:
+
+- par le paiement;
+
+- par la novation;
+
+- par la remise volontaire;
+
+- par la compensation;
+
+- par la confusion;
+
+- par la perte de la chose;
+
+- par la nullité ou la rescision;
+
+- par l'effet de la condition résolutoire, qui a été expliquée au chapitre précédent;
+
+- et par la prescription, qui fera l'objet d'un titre particulier.
 
 ##### Section Ire. Du paiement
 
@@ -8346,10 +9052,22 @@ La subrogation dans les droits du créancier au profit d'une tierce personne qui
 
 Cette subrogation est conventionnelle:
 
+1. lorsque le créancier recevant son paiement d'une tierce personne la subroge dans ses droits, actions, privilèges ou hypothèques contre le débiteur: cette subrogation doit être expresse et faite en même temps que le paiement;
+
+2. lorsque le débiteur emprunte une somme à l'effet de payer sa dette, et de subroger le prêteur dans les droits du créancier. Il faut, pour que cette subrogation soit valable, que l'acte d'emprunt et la quittance soient passés devant le notaire; que dans l'acte d'emprunt il soit déclaré que la somme a été empruntée pour faire le paiement, et que dans la quittance il soit déclaré que le paiement a été fait des deniers fournis à cet effet par le nouveau créancier. Cette subrogation s'opère sans le concours de la volonté du créancier.
+
 <a id="art-1251"></a>
 ## Art. 1251.
 
 La subrogation a lieu de plein droit:
+
+1. au profit de celui qui étant lui-même créancier, paye un autre créancier qui lui est préférable à raison de ses privilèges ou hypothèques;
+
+2. au profit de l'acquéreur d'un immeuble qui emploie le prix de son acquisition au paiement des créanciers auxquels cet héritage était hypothéqué;
+
+3. au profit de celui qui, étant tenu avec d'autres ou pour d'autres au paiement de la dette, avait intérêt de l'acquitter;
+
+4. au profit de l'héritier bénéficiaire qui a payé de ses deniers les dettes de la succession.
 
 <a id="art-1252"></a>
 ## Art. 1252.
@@ -8394,10 +9112,32 @@ Les offres réelles suivies d'une consignation libèrent le débiteur; elles tie
 
 Pour que les offres réelles soient valables, il faut:
 
+1. qu'elles soient faites au créancier ayant la capacité de recevoir, ou à celui qui a pouvoir de recevoir pour lui;
+
+2. qu'elles soient faites par une personne capable de payer;
+
+3. qu'elles soient de la totalité de la somme exigible, des arrérages ou intérêts dus, des frais liquidés, et d'une somme pour les frais non liquidés, sauf à la parfaire;
+
+4. que le terme soit échu, s'il a été stipulé en faveur du créancier;
+
+5. que la condition sous laquelle la dette a été contractée soit arrivée;
+
+6. que les offres soient faites au lieu dont on est convenu pour le paiement, et que, s'il n'y a pas de convention spéciale sur le lieu du paiement, elles soient faites ou à la personne du créancier, ou à son domicile, ou au domicile élu pour l'exécution de la convention;
+
+7. que les offres soient faites par un officier ministériel ayant caractère pour ces sortes d'actes.
+
 <a id="art-1259"></a>
 ## Art. 1259.
 
 Il n'est pas nécessaire, pour la validité de la consignation, qu'elle ait été autorisée par le juge, il suffit:
+
+1. qu'elle ait été précédée d'une sommation signifiée au créancier, et contenant l'indication du jour, de l'heure et du lieu où la chose offerte sera déposée;
+
+2. que le débiteur se soit dessaisi de la chose offerte, en la remettant dans le dépôt par la loi pour recevoir les consignations, avec les intérêts jusqu'au jour du dépôt;
+
+3. qu'il y ait eu procès-verbal dressé par l'officier ministériel, de la nature des espèces offertes, du refus qu'a fait le créancier de les recevoir ou de sa non-comparution, et enfin du dépôt;
+
+4. qu'en cas de non-comparution de la part du créancier, le procès-verbal du dépôt lui ait été signifié avec sommation de retirer la chose déposée.
 
 <a id="art-1260"></a>
 ## Art. 1260.
@@ -8464,6 +9204,12 @@ Au surplus, elle ne libère le débiteur que jusqu'à concurrence de la valeur d
 ## Art. 1271.
 
 La novation s'opère de trois manières:
+
+1. lorsque le débiteur contracte envers son créancier une nouvelle dette qui est substituée à l'ancienne, laquelle est éteinte;
+
+2. lorsqu'un nouveau débiteur est substitué à l'ancien qui est déchargé par le créancier;
+
+3. lorsque, par l'effet d'un nouvel engagement, un nouveau créancier est substitué à l'ancien, envers lequel le débiteur se trouve déchargé.
 
 <a id="art-1272"></a>
 ## Art. 1272.
@@ -8555,6 +9301,10 @@ La remise de la chose donnée en nantissement ne suffit point pour faire présum
 
 La remise ou décharge conventionnelle accordée au débiteur principal libère les cautions;
 
+- celle accordée à la caution ne libère pas le débiteur principal;
+
+- celle accordée à l'une des cautions ne libère pas les autres.
+
 <a id="art-1288"></a>
 ## Art. 1288.
 
@@ -8588,6 +9338,12 @@ Le terme de grâce n'est point un obstacle à la compensation.
 ## Art. 1293.
 
 La compensation a lieu, quelles que soient les causes de l'une ou l'autre des dettes, excepté dans le cas:
+
+1. de la demande en restitution d'une chose dont le propriétaire a été injustement dépouillé;
+
+2. de la demande en restitution d'un dépôt et du prêt à usage;
+
+3. d'une dette qui a pour cause des aliments déclarés insaisissables.
 
 <a id="art-1294"></a>
 ## Art. 1294.
@@ -8627,6 +9383,16 @@ Celui qui a payé une dette qui était, de droit, éteinte par la compensation, 
 
 <a id="art-1300"></a>
 ## Art. 1300.
+
+( L. 15 mai 1997 )
+
+(1)
+
+Lorsque les qualités de créancier et de débiteur se réunissent dans la même personne, il se fait une confusion de droit qui éteint la créance.
+
+(2)
+
+Toutefois, lorsque la créance est représentée par un titre et que le débiteur acquiert ce titre, il ne se fait pas de confusion de droit. Il est loisible au débiteur de conserver le titre ou bien jusqu'à l'échéance finale ou bien jusqu'à ce qu'il décide soit d'éteindre la créance, soit d'aliéner le titre. Pendant que le débiteur possède le titre, tous les droits afférents au titre sont suspendus.
 
 <a id="art-1301"></a>
 ## Art. 1301.
@@ -8738,10 +9504,20 @@ L'acte authentique est celui qui a été reçu par officiers publics ayant le dr
 <a id="art-1317-1"></a>
 ## Art. 1317-1.
 
+( L. 7 juillet 2023 )
+
 Les titres et actes authentiques ainsi que leurs copies peuvent être dressés sous format électronique dans les conditions et formes fixées par les lois et règlements, sous réserve que :
+
+1. la personne les ayant reçus ou établis puisse être dûment identifiée ;
+
+2. le procédé technique utilisé pour les établir garantisse l’intégrité de leur contenu à compter du moment où ils ont été créés sous leur forme définitive
+
+3. le procédé technique utilisé pour les établir permette de les représenter d’une manière intelligible à l’humain.
 
 <a id="art-1317-2"></a>
 ## Art. 1317-2.
+
+( L. 7 juillet 2023 )
 
 Les titres et actes authentiques sous format électronique et leurs copies sous format électronique valent comme original lorsqu’ils satisfont aux exigences de l’article 1317-1.
 
@@ -8843,6 +9619,10 @@ Les livres des marchands font preuve contre eux; mais celui qui en veut tirer av
 
 Les registres et papiers domestiques ne font point un titre pour celui qui les a écrits. Ils font foi contre lui:
 
+1. dans tous les cas où ils énoncent formellement un paiement reçu;
+
+2. lorsqu'ils contiennent la mention expresse que la note a été faite pour suppléer le défaut du titre en faveur de celui au profit duquel ils énoncent une obligation.
+
 <a id="art-1332"></a>
 ## Art. 1332.
 
@@ -8878,10 +9658,26 @@ Une copie ne peut être rejetée par le juge au seul motif qu’elle se présent
 
 Lorsque le titre original n'existe plus, les copies font foi d'après les distinctions suivantes:
 
+1. les grosses ou premières expéditions font la même foi que l'original; il en est de même des copies qui ont été tirées par l'autorité du magistrat, parties présentes ou dûment appelées, ou de celles qui ont été tirées en présence des parties et de leur consentement réciproque
+
+2. les copies qui, sans l'autorité du magistrat, ou sans le consentement des parties, et depuis la délivrance des grosses ou premières expéditions, auront été tirées sur la minute de l'acte par le notaire qui l'a reçu, ou par l'un de ses successeurs, ou par officiers publics qui, en cette qualité, sont dépositaires des minutes, peuvent, au cas de perte de l'original, faire foi quand elles sont anciennes.
+
+- Elles sont considérées comme anciennes quand elles ont plus de trente ans;
+
+- si elles ont moins de trente ans, elles ne peuvent servir que de commencement de preuve par écrit;
+
+3. lorsque les copies tirées sur la minute d'un acte ne l'auront pas été par le notaire qui l'a reçu, ou par l'un de ses successeurs, ou par officiers publics qui, en cette qualité, sont dépositaires des minutes, elles ne pourront servir, quelle que soit leur ancienneté, que de commencement de preuve par écrit;
+
+4. les copies de copies pourront, suivant les circonstances, être considérées comme simples renseignements.
+
 <a id="art-1336"></a>
 ## Art. 1336.
 
 La transcription d'un acte sur les registres publics ne pourra servir que de commencement de preuve par écrit; et il faudra même pour cela:
+
+1. qu'il soit constant que toutes les minutes du notaire, de l'année dans laquelle l'acte paraît avoir été fait, soient perdues, ou que l'on prouve que la perte de la minute de cet acte a été faite par un accident particulier;
+
+2. qu'il existe un répertoire en règle du notaire, qui constate que l'acte a été fait à la même date.
 
 Lorsqu'au moyen du concours de ces deux circonstances, la preuve par témoins sera admise, il sera nécessaire que ceux qui ont été témoins de l'acte, s'ils existent encore, soient entendus.
 
@@ -8972,6 +9768,14 @@ Les présomptions sont des conséquences que la loi ou le magistrat tire d'un fa
 
 La présomption légale est celle qui est attachée par une loi spéciale à certains actes ou à certains faits: tels sont:
 
+1. les actes que la loi déclare nuls, comme présumés faits en fraude de ses dispositions, d'après leur seule qualité;
+
+2. les cas dans lesquels la loi déclare la propriété ou la libération résulter de certaines circonstances déterminées;
+
+3. l'autorité que la loi attribue à la chose jugée;
+
+4. la force que la loi attache à l'aveu de la partie ou à son serment.
+
 <a id="art-1351"></a>
 ## Art. 1351.
 
@@ -9018,6 +9822,10 @@ Il ne peut être révoqué, à moins qu'on ne prouve qu'il a été la suite d'un
 ## Art. 1357.
 
 Le serment judiciaire est de deux espèces:
+
+1. celui qu'une partie défère à l'autre pour en faire dépendre le jugement de la cause: il est appelé décisoire
+
+2. celui qui est déféré d'office par le juge à l'une ou l'autre des parties.
 
 ###### Paragraphe Ier. Du serment décisoire
 
@@ -9090,6 +9898,10 @@ Le juge peut déférer à l'une des parties le serment, ou pour en faire dépend
 ## Art. 1367.
 
 Le juge ne peut déférer d'office le serment, soit sur la demande, soit sur l'exception qui y est opposée, que sous les deux conditions suivantes: il faut:
+
+1. que la demande ou l'exception ne soit pas pleinement justifiée;
+
+2. qu'elle ne soit pas totalement dénuée de preuves.
 
 Hors ces deux cas, le juge doit ou adjuger ou rejeter purement et simplement la demande.
 
@@ -9196,6 +10008,8 @@ Chacun est responsable du dommage qu'il a causé non seulement par son fait, mai
 <a id="art-1384"></a>
 ## Art. 1384.
 
+( L. du 27 juin 2018 )
+
 On est responsable non seulement du dommage que l’on cause par son propre fait, mais encore de celui qui est causé par le fait des personnes dont on doit répondre, ou des choses que l’on a sous sa garde.
 
 Les parents, en tant qu’ils exercent l’autorité parentale, sont solidairement responsables du dommage causé par leurs enfants mineurs habitant avec eux.
@@ -9289,6 +10103,8 @@ Tous changements et contre-lettres, même revêtus des formes prescrites par l' 
 <a id="art-1397"></a>
 ## Art. 1397.
 
+( L. du 27 juin 2018 )
+
 Dans les limites prévues à l'article 1387, les conjoints pourront apporter à leur régime matrimonial, conventionnel ou légal, toutes les modifications qu'ils jugent à propos et même le changer entièrement, par un acte notarié.
 
 Le changement a effet entre les parties à dater du jour du contrat et, à l’égard des tiers, trois mois après qu’inscription en aura été faite au fichier conformément à l’article 1026 du Nouveau Code de procédure civile . Toutefois, en l’absence même de cette mention, le changement n’en est pas moins opposable aux tiers si, dans les actes passés avec eux, les conjoints ont déclaré avoir modifié leur régime matrimonial.
@@ -9331,6 +10147,12 @@ La communauté qui s'établit à défaut de contrat ou par simple déclaration q
 
 Entrent en communauté du chef de chacun des conjoints
 
+1. les produits de son travail,
+
+2. les fruits et revenus de ses biens propres, échus ou perçus pendant le mariage,
+
+3. les biens acquis par lui à titre onéreux pendant la durée du régime.
+
 <a id="art-1402"></a>
 ## Art. 1402.
 
@@ -9351,6 +10173,14 @@ Chaque conjoint conserve la pleine propriété de ses propres et en perçoit les
 Forment des propres par leur nature, quand même ils auraient été acquis pendant le mariage, tous les biens qui ont un caractère personnel et tous les droits exclusivement attachés à la personne.
 
 Sont notamment considérés comme tels:
+
+1. les vêtements et linges à l'usage personnel de l'un des conjoints;
+
+2. les correspondances, papiers et souvenirs de famille, diplômes et autres biens présentant pour le conjoint un intérêt moral prépondérant par rapport à leur valeur marchande;
+
+3. les droits de propriété littéraire, artistique ou industrielle, sous la réserve que les produits de leur exploitation tombent en communauté pendant la durée de celle-ci;
+
+4. les actions en réparation d'un dommage corporel ou moral.
 
 Forment aussi des propres par leur nature, mais sauf récompense s'il y a lieu, les instruments de travail nécessaires à la profession de l'un des conjoints, à moins qu'ils ne soient l'accessoire d'un fonds de commerce ou d'une exploitation faisant partie de la communauté.
 
@@ -9413,6 +10243,12 @@ Toutefois, le créancier a action sur tous les biens communs à l'exception de c
 ## Art. 1412.
 
 Le paiement des dettes dont un conjoint vient à être tenu pendant la communauté peut être poursuivi sur l'ensemble des biens communs dans les cas suivants:
+
+1. Si l'engagement a été contracté pour l'entretien du ménage ou l'éducation des enfants, conformément à l' article 220;
+
+2. Si la dette a été contractée en vertu des pouvoirs accordés à chaque conjoint par l' article 1421-1;
+
+3. Si la dette a été contractée solidairement par les conjoints.
 
 <a id="art-1413"></a>
 ## Art. 1413.
@@ -9619,6 +10455,18 @@ La garantie de la dot est due par toute personne qui l'a constituée; et ses int
 ## Art. 1441.
 
 La communauté se dissout:
+
+1. par la mort de l'un des conjoints;
+
+2. ( L. 31 juillet 1987 ) par l'absence déclarée;
+
+3. par le divorce;
+
+4. par la séparation de corps;
+
+5. par la séparation de biens;
+
+6. par le changement du régime matrimonial.
 
 <a id="art-1442"></a>
 ## Art. 1442.
@@ -9846,6 +10694,18 @@ Les conjoints peuvent, dans leur contrat de mariage, modifier la communauté lé
 
 Ils peuvent notamment convenir:
 
+1. que la communauté comprendra les meubles et les acquêts;
+
+2. qu'il sera dérogé aux règles concernant l'administration;
+
+3. que l'un des conjoints aura la faculté de prélever certains biens moyennant indemnité;
+
+4. que l'un des conjoints aura un préciput;
+
+5. que les conjoints auront des parts inégales;
+
+6. qu'il y aura entre eux communauté universelle.
+
 Les règles de la communauté légale restent applicables en tous les points qui n'ont pas fait l'objet de la convention des parties.
 
 ##### Section Ire. De la communauté de meubles et acquêts
@@ -9948,6 +10808,8 @@ Abrogé
 
 <a id="art-1518"></a>
 ## Art. 1518.
+
+( L. du 27 juin 2018 )
 
 Lorsque la communauté se dissout du vivant des conjoints, il n’y a pas lieu à la délivrance actuelle du préciput mais le conjoint au profit duquel il a été stipulé conserve ses droits pour le cas de survie, sauf volonté contraire des conjoints exprimée lors du divorce et sans préjudice de l’article 251. Il peut exiger une caution de son conjoint en garantie de ses droits.
 
@@ -10088,6 +10950,8 @@ De l'actif originaire sont déduites les dettes dont il se trouvait grevé.
 
 <a id="art-1572"></a>
 ## Art. 1572.
+
+( L. du 27 juin 2018 )
 
 Font partie du patrimoine final tous les biens qui appartiennent au conjoint au jour où le régime matrimonial est dissous, y compris, le cas échéant, ceux dont il aurait disposé à cause de mort et sans en exclure les sommes dont il peut être créancier envers son conjoint. S’il y a divorce, séparation de corps ou liquidation anticipée des acquêts, le régime matrimonial est réputé dissous au jour de la demande.
 
@@ -10259,6 +11123,14 @@ Abrogé ( L. 4 juillet 2014 )
 
 Ne peuvent se rendre adjudicataires, sous peine de nullité, ni par eux-mêmes ni par des personnes interposées:
 
+- les tuteurs, des biens de ceux dont ils ont la tutelle;
+
+- les mandataires, des biens qu'ils sont chargés de vendre;
+
+- les administrateurs, de ceux des communes ou des établissements publics confiés à leurs soins;
+
+- les officiers publics, des biens nationaux dont les ventes se font par leur ministère.
+
 <a id="art-1597"></a>
 ## Art. 1597.
 
@@ -10325,6 +11197,18 @@ En cas de vente visée à l' article 1601-4 , les contrats prévus aux articles 
 
 Ils doivent être conclus par acte authentique et prévoir, en dehors des indications exigées par les articles 8 et 9 de la loi sur la transcription des droits réels immobiliers :
 
+1. l'identité du propriétaire du terrain et des constructions;
+
+2. la date de la délivrance des autorisations administratives et les conditions dont elles sont affectées;
+
+3. la description de l'immeuble ou de la partie d'immeuble vendu et le degré d'achèvement convenu;
+
+4. son prix et les modalités de paiement de celui-ci;
+
+5. le délai de livraison;
+
+6. ( L. 8 août 1985 ) lorsqu'ils revêtent la forme prévue à l' article 1601-3 , la garantie de l'achèvement complet de l'immeuble dans les termes prévus par le contrat ou du remboursement des versements effectués en cas de résolution du contrat à défaut d'achèvement, dans les conditions et avec les modalités à fixer par règlement grand-ducal. Cette garantie n'est pas exigée pour les constructions réalisées directement par l'Etat, les communes, les établissements publics et les sociétés dans lesquelles ces collectivités possèdent une participation majoritaire.
+
 Cette garantie n'est pas non plus exigée pour la construction d'une maison à appartements multiples acquise par un propriétaire unique.
 
 Lorsqu'une garantie d'achèvement a été stipulée, celle-ci se transforme en garantie de remboursement lorsqu'il est établi que la construction ne peut être réalisée matériellement ou juridiquement.
@@ -10332,6 +11216,12 @@ Lorsqu'une garantie d'achèvement a été stipulée, celle-ci se transforme en g
 Ils doivent encore mentionner si le prix est ou non révisible et, dans l'affirmative, les modalités de sa révision.
 
 Ils doivent en outre comporter en annexe ou par référence à des documents déposés chez un notaire:
+
+1. les plans de construction comprenant au moins les plans des façades, les plans des différents niveaux et un plan-coupe de l'immeuble avec les cotes utiles et l'indication des surfaces de chacune des pièces et des dégagements;
+
+2. une notice descriptive indiquant la consistance et les caractéristiques techniques de l'immeuble ainsi que les matériaux à employer, les travaux à effectuer et les éléments d'équipement à installer;
+
+3. lorsqu'il s'agit d'une construction en copropriété, le règlement de copropriété; ce document doit être communiqué préalablement à l'acquéreur et un exemplaire doit lui être remis lors de la signature du contrat.
 
 L'accomplissement de ces formalités est constaté par une mention à l'acte.
 
@@ -10467,6 +11357,12 @@ L'obligation de délivrer les immeubles est remplie de la part du vendeur lorsqu
 
 La délivrance des effets mobiliers s'opère,
 
+- ou par la tradition réelle,
+
+- ou par la remise des clefs des bâtiments qui les contiennent,
+
+- ou même par le seul consentement des parties, si le transport ne peut pas s'en faire au moment de la vente, ou si l'acheteur les avait déjà en son pouvoir à un autre titre.
+
 <a id="art-1607"></a>
 ## Art. 1607.
 
@@ -10594,6 +11490,14 @@ Dans le même cas de stipulation de non-garantie, le vendeur, en cas d'éviction
 ## Art. 1630.
 
 Lorsque la garantie a été promise, ou qu'il n'a rien été stipulé à ce sujet, si l'acquéreur est évincé, il a droit de demander contre le vendeur:
+
+1. la restitution du prix;
+
+2. celle des fruits, lorsqu'il est obligé de les rendre au propriétaire qui l'évince;
+
+3. les frais faits sur la demande en garantie de l'acheteur, et ceux faits par le demandeur originaire;
+
+4. enfin les dommages et intérêts, ainsi que les frais et loyaux coûts du contrat.
 
 <a id="art-1631"></a>
 ## Art. 1631.
@@ -10738,6 +11642,12 @@ S'il n'a rien été réglé à cet égard lors de la vente, l'acheteur doit paye
 ## Art. 1652.
 
 L'acheteur doit l'intérêt du prix de la vente jusqu'au paiement du capital, dans les trois cas suivants:
+
+- s'il a été ainsi convenu lors de la vente;
+
+- si la chose vendue et livrée produit des fruits ou autres revenus;
+
+- si l'acheteur a été sommé de payer.
 
 Dans ce dernier cas, l'intérêt ne court que depuis la sommation.
 
@@ -11024,6 +11934,12 @@ La chose est censée litigieuse dès qu'il y a procès et contestation sur le fo
 
 La disposition portée en l' article 1699 cesse:
 
+1. dans le cas où la cession a été faite à un cohéritier ou copropriétaire du droit cédé;
+
+2. lorsqu'elle a été faite à un créancier en paiement de ce qui lui est dû;
+
+3. lorsqu'elle a été faite au possesseur de l'héritage sujet au droit litigieux.
+
 ### TITRE VII. De l'échange (Décrété le 7 mars 1804. Promulgué le 17 du même mois.)
 
 <a id="art-1702"></a>
@@ -11065,6 +11981,10 @@ Toutes les autres règles prescrites pour le contrat de vente s'appliquent d'ail
 
 Il y a deux sortes de contrats de louage:
 
+- celui des choses,
+
+- et celui d'ouvrage.
+
 <a id="art-1709"></a>
 ## Art. 1709.
 
@@ -11079,6 +11999,14 @@ Le louage d'ouvrage est un contrat par lequel l'une des parties s'engage à fair
 ## Art. 1711.
 
 Ces deux genres de louage se subdivisent encore en plusieurs espèces particulières:
+
+- On appelle bail à loyer, le louage des maisons et celui des meubles;
+
+- bail à ferme, celui des héritages ruraux;
+
+- loyer, le louage du travail ou du service;
+
+- bail à cheptel, celui des animaux dont le profit se partage entre le propriétaire et celui à qui il les confie.
 
 Les devis, marché ou prix fait, pour l'entreprise d'un ouvrage moyennant un prix déterminé, sont aussi un louage, lorsque la matière est fournie par celui pour qui l'ouvrage se fait.
 
@@ -11100,6 +12028,8 @@ On peut louer toutes sortes de biens meubles ou immeubles.
 
 <a id="art-1714"></a>
 ## Art. 1714.
+
+( L. 23 juillet 2024 )
 
 On peut louer par écrit ou verbalement, sauf en ce qui concerne le bail à usage d’habitation, qui ne peut être conclu que sous une forme écrite.
 
@@ -11133,6 +12063,12 @@ Cette clause est toujours de rigueur.
 ## Art. 1719.
 
 Le bailleur est obligé, par la nature du contrat, et sans qu'il soit besoin d'aucune stipulation particulière:
+
+1. de délivrer au preneur la chose louée;
+
+2. d'entretenir cette chose en état de servir à l'usage pour lequel elle a été louée;
+
+3. d'en faire jouir paisiblement le preneur pendant la durée du bail.
 
 <a id="art-1720"></a>
 ## Art. 1720.
@@ -11186,6 +12122,10 @@ Si ceux qui ont commis les voies de fait, prétendent avoir quelque droit sur la
 ## Art. 1728.
 
 Le preneur est tenu de deux obligations principales:
+
+1. d'user de la chose louée en bon père de famille, et suivant la destination qui lui a été donnée par le bail, ou suivant celle présumée d'après les circonstances, à défaut de convention;
+
+2. de payer le prix du bail aux termes convenus.
 
 <a id="art-1729"></a>
 ## Art. 1729.
@@ -11399,11 +12339,59 @@ Les dispositions de la présente section ne sont pas applicables aux contrats de
 <a id="art-1762-5"></a>
 ## Art. 1762-5.
 
+( L. 3 février 2018 )
+
+(1)
+
+Tout supplément de loyer payé au bailleur ou à l’intermédiaire en raison de la conclusion du contrat est nul de plein droit.
+
+(2)
+
+Tout engagement du preneur envers le bailleur de recourir à un intermédiaire déterminé pour la sous-location ou la cession du bail est nul de plein droit.
+
+(3)
+
+Les parties peuvent stipuler que le preneur fournisse une garantie locative qui ne pourra dépasser six mois de loyer, en vue de garantir le paiement du loyer ou de toutes les autres obligations découlant du contrat de bail. Le bailleur ne peut refuser une garantie locative sous forme d’une garantie bancaire à première demande ou de la souscription de toute assurance ou de toute autre garantie permettant de couvrir au moins six mois de loyer.
+
 <a id="art-1762-6"></a>
 ## Art. 1762-6.
 
+( L. 3 février 2018 )
+
+(1)
+
+Est nulle de plein droit, toute clause interdisant la cession d’un bail ou la sous-location de l’immeuble ou partie d’immeuble faisant l’objet du bail au sens de l’article 1762-3 si la cession ou sous-location est faite ensemble avec la cession du fonds, à condition qu’une activité identique reste établie.
+
+(2)
+
+Toute cession ou sous-location entière ou partielle doit être notifiée, avec une copie intégrale du contrat de cession ou de sous-location, au bailleur.
+
+(3)
+
+Dans les trente jours de la notification du projet de cession ou de sous-location, le bailleur peut refuser son agrément, s’il en a de justes motifs, et dans les huit jours de ce refus le preneur peut saisir le juge de paix.
+
+Le cédant demeure tenu, à titre de caution solidaire du cessionnaire ou du sous-locataire, de toutes les obligations qui dérivent du bail.
+
+Toutefois, lorsque le bailleur s’est réservé une partie de l’immeuble pour l’habiter lui-même ou y faire habiter sa famille, l’interdiction de céder le bail ou de sous-louer reste valable.
+
+(4)
+
+Sauf en cas de sous-location où des investissements spécifiques à l’activité du sous-locataire ont été effectués par le preneur, les loyers payés au preneur par le sous-locataire ne pourront être supérieurs aux loyers payés par le preneur au bailleur.
+
 <a id="art-1762-7"></a>
 ## Art. 1762-7.
+
+( L. 3 février 2018 )
+
+(1)
+
+Le délai de résiliation du contrat de bail soumis à la présente section ne peut être inférieur à six mois.
+
+La résiliation est notifiée par lettre recommandée à la poste avec avis de réception.
+
+(2)
+
+Sans préjudice de l’article 1739, tout contrat de bail qui vient à cesser pour n’importe quelle cause, est tacitement reconduit pour une durée indéterminée. Le preneur est obligé de renouveler ou d’adapter la garantie locative convenue en fonction de cette reconduction, de façon à ce que le bailleur dispose de la garantie jusqu’au terme de la location.
 
 <a id="art-1762-8"></a>
 ## Art. 1762-8.
@@ -11416,6 +12404,10 @@ Les dispositions de la présente section ne sont pas applicables aux contrats de
 ( L. 3 février 2018 ) Le bailleur peut demander au juge de paix une décision autorisant le déguerpissement forcé du preneur après écoulement du délai de résiliation. Le juge de paix peut ordonner à la requête du preneur ou du sous-locataire commerçant ou fermier, condamné au déguerpissement, qu’il soit sursis à l’exécution de la décision.
 
 Le sursis, unique, ne pourra pas dépasser neuf mois et ne peut être accordé qu’aux conditions cumulatives suivantes :
+
+1. tous les loyers et avances sur charges échus ont été réglés au jour de l’introduction de la demande ; et,
+
+2. le sursis est accordé dans le but de permettre au requérant de trouver un autre immeuble en vue de poursuivre son activité et de répondre à ses obligations découlant des contrats de travail avec les salariés.
 
 La décision autorisant le sursis au déguerpissement forcé du locataire ne sera pas susceptible d’opposition ou d’appel.
 
@@ -11437,8 +12429,28 @@ S’il y a plusieurs bailleurs, la demande devra être adressée à chacun d’e
 
 Le bailleur peut résilier le bail avec le préavis prévu à l’article 1762-7, ou en refuser le renouvellement :
 
+1. aux fins d’occupation personnelle par le bailleur ou par ses descendants au 1 er degré ;
+
+2. en cas d’abandon de toute location aux fins d’activité identique ;
+
+3. en cas de reconstruction ou de transformation de l’immeuble loué.
+
 <a id="art-1762-12"></a>
 ## Art. 1762-12.
+
+( L. 3 février 2018 )
+
+(1)
+
+Le bailleur peut toujours, au terme d’une durée de neuf années au moins d’occupation des lieux loués, résilier le bail, ou en refuser le renouvellement, sans devoir fournir de justification :
+
+1. si le bailleur verse, avant la fin du bail au preneur une indemnité d’éviction ; ou
+
+2. si un tiers verse l’indemnité d’éviction avant la fin du bail.
+
+(2)
+
+À défaut de clause dans le contrat de bail permettant de déterminer le montant de l’indemnité d’éviction, les parties peuvent saisir le juge de paix qui fixera alors le montant de l’indemnité d’éviction sur base de la valeur marchande du fonds de commerce pour l’activité en question.
 
 <a id="art-1762-13"></a>
 ## Art. 1762-13.
@@ -11559,6 +12571,12 @@ Le fermier sortant doit aussi laisser les pailles et engrais de l'année, s'il l
 ## Art. 1779.
 
 Il y a trois espèces principales de louage d'ouvrage et d'industrie:
+
+1. le louage des gens de travail qui s'engagent au service de quelqu'un;
+
+2. celui des voitures, tant par terre que par eau, qui se chargent du transport des personnes ou des marchandises;
+
+3. ( L. 28 décembre 1976 ) celui des architectes, entrepreneurs d'ouvrages et techniciens par suite d'études, devis ou marchés.
 
 ##### Section Ire. Du louage de domestiques et ouvriers
 
@@ -11681,6 +12699,12 @@ Le bail à cheptel est un contrat par lequel l'une des parties donne à l'autre 
 ## Art. 1801.
 
 Il y a plusieurs sortes de cheptels:
+
+- le cheptel simple ou ordinaire;
+
+- le cheptel à moitié;
+
+- le cheptel donné au fermier ou au colon partiaire.
 
 Il y a encore une quatrième espèce de contrat improprement appelée cheptel.
 
@@ -12002,7 +13026,11 @@ Un associé a action contre la société, non seulement à raison des sommes qu'
 <a id="art-1852bis"></a>
 ## Art. 1852bis.
 
-( L. 10 août 2016 ) Sauf dispositions contraires des statuts, si un titre est grevé d’un usufruit notifié à la société ou accepté par elle en conformité avec les dispositions de l’article 1690: l’usufruitier a droit au bénéfice que la société décide de distribuer. En cas de rachat par la société de ses propres titres, le nu-propriétaire et l’usufruitier ont respectivement droit à la valeur de la nue-propriété et de l’usufruit portant sur ces titres. Lors de la dissolution de la société, l’usufruitier a droit au quasi-usufruit exercé conformément à l'article 587 sur les sommes versées au nu-propriétaire ou sur la valeur des biens qui lui ont été remis.
+( L. 10 août 2016 ) Sauf dispositions contraires des statuts, si un titre est grevé d’un usufruit notifié à la société ou accepté par elle en conformité avec les dispositions de l’article 1690:
+
+1. le droit de vote appartient au nu-propriétaire, à l’exception des décisions concernant l’affectation des bénéfices où il est réservé à l’usufruitier, et
+
+2. l’usufruitier a droit au bénéfice que la société décide de distribuer. En cas de rachat par la société de ses propres titres, le nu-propriétaire et l’usufruitier ont respectivement droit à la valeur de la nue-propriété et de l’usufruit portant sur ces titres. Lors de la dissolution de la société, l’usufruitier a droit au quasi-usufruit exercé conformément à l'article 587 sur les sommes versées au nu-propriétaire ou sur la valeur des biens qui lui ont été remis.
 
 <a id="art-1853"></a>
 ## Art. 1853.
@@ -12051,6 +13079,14 @@ S'il a été stipulé que l'un des administrateurs ne pourra rien faire sans l'a
 
 A défaut de stipulations spéciales sur le mode d'administration, l'on suit les règles suivantes:
 
+1. Les associés sont censés s'être donné réciproquement le pouvoir d'administrer l'un pour l'autre. Ce que chacun fait est valable même pour la part de ses associés, sans qu'il ait pris leur consentement; sauf le droit qu'ont ces derniers, ou l'un d'eux, de s'opposer à l'opération avant qu'elle soit conclue.
+
+2. Chaque associé peut se servir des choses appartenant à la société, pourvu qu'il les emploie à leur destination fixée par l'usage, et qu'il ne s'en serve pas contre l'intérêt de la société, ou de manière à empêcher ses associés d'en user selon leur droit.
+
+3. Chaque associé a le droit d'obliger ses associés à faire avec lui les dépenses qui sont nécessaires pour la conservation des choses de la société.
+
+4. L'un des associés ne peut faire d'innovations sur les immeubles dépendant de la société, même quand il les soutiendrait avantageuses à cette société, si les autres associés n'y consentent.
+
 <a id="art-1860"></a>
 ## Art. 1860.
 
@@ -12084,6 +13120,16 @@ La stipulation que l'obligation est contractée pour le compte de la société n
 ## Art. 1865.
 
 La société finit:
+
+1. par l'expiration du temps pour lequel elle a été contractée;
+
+2. par l'extinction de la chose, ou la consommation de la négociation;
+
+3. par la mort naturelle de quelqu'un des associés;
+
+4. par....., l'interdiction ou la déconfiture de l'un d'eux;
+
+5. par la volonté qu'un seul ou plusieurs expriment de n'être plus en société.
 
 <a id="art-1865bis"></a>
 ## Art. 1865bis.
@@ -12380,6 +13426,10 @@ Les parties peuvent seulement convenir que le rachat ne sera pas fait avant un d
 
 Le débiteur d'une rente constituée en perpétuel peut être contraint au rachat:
 
+1. s'il cesse de remplir ses obligations pendant deux années;
+
+2. s'il manque à fournir au prêteur les sûretés promises par le contrat.
+
 <a id="art-1913"></a>
 ## Art. 1913.
 
@@ -12476,6 +13526,14 @@ Le dépositaire doit apporter, dans la garde de la chose déposée, les mêmes s
 
 La disposition de l' article précédent doit être appliquée avec plus de rigueur:
 
+1. si le dépositaire s'est offert lui-même pour recevoir le dépôt;
+
+2. s'il a stipulé un salaire pour la garde du dépôt;
+
+3. si le dépôt a été fait uniquement pour l'intérêt du dépositaire;
+
+4. s'il a été convenu expressément que le dépositaire répondrait de toute espèce de faute.
+
 <a id="art-1929"></a>
 ## Art. 1929.
 
@@ -12532,6 +13590,24 @@ Néanmoins, s'il découvre que la chose a été volée, et quel en est le vérit
 
 <a id="art-1939"></a>
 ## Art. 1939.
+
+( L. 1er juillet 1988 )
+
+(1)
+
+En cas de décès de la personne qui a fait le dépôt, la chose déposée ne peut être rendue qu'à son héritier.
+
+(2)
+
+S'il y a plusieurs héritiers, elle doit être rendue à chacun d'eux pour leur part et portion.
+
+(3)
+
+Si la chose déposée est indivisible, les héritiers doivent s'accorder entre eux pour la recevoir.
+
+(4)
+
+S'il existe un mandat dont les effets continuent après le décès de la personne qui a fait le dépôt, la chose déposée ne peut être rendue au mandataire que s'il atteste par écrit au dépositaire avoir informé les héritiers du déposant de l'existence du mandat. Le mandataire est obligé d'indiquer, sous sa responsabilité, au dépositaire l'identité des héritiers informés.
 
 <a id="art-1940"></a>
 ## Art. 1940.
@@ -12604,12 +13680,24 @@ Le dépôt nécessaire est d'ailleurs régi par toutes les règles précédemmen
 
 Sont considérés comme apportés à l'hôtel:
 
+1. les objets qui s'y trouvent pendant le temps où le voyageur dispose du logement;
+
+2. les objets dont l'hôtelier ou une personne lui prêtant ses services assume la surveillance, hors de l'hôtel, pendant la période où le voyageur dispose du logement;
+
+3. les objets dont l'hôtelier ou une personne lui prêtant ses services assume la surveillance, soit à l'hôtel, soit hors de l'hôtel, pendant une période d'une durée raisonnable, précédant ou suivant celle où le voyageur dispose du logement.
+
 La responsabilité visée au présent article est limitée par sinistre à cent fois le prix de location du logement par journée. Un règlement grand-ducal peut fixer les éléments permettant de déterminer ce prix.
 
 <a id="art-1953"></a>
 ## Art. 1953.
 
 ( L. 7 mars 1979 ) La responsabilité de l'hôtelier est illimitée:
+
+1. lorsque les objets ont été déposés entre ses mains ou entre celles de personnes lui prêtant leurs services;
+
+2. lorsqu'il a refusé de recevoir en dépôt des objets qu'il est obligé d'accepter;
+
+3. lorsque la détérioration, la destruction ou la soustraction des objets visés à l' article 1952 est due à sa faute ou à celle de personnes lui prêtant leurs services.
 
 L'hôtelier est obligé d'accepter en dépôt les papiers-valeurs, les espèces monnayées et les objets de valeur; il ne peut les refuser que s'ils sont dangereux ou si, relativement à l'importance ou aux conditions d'exploitation de l'hôtel, ils sont d'une valeur marchande excessive ou d'une nature encombrante.
 
@@ -12619,6 +13707,12 @@ Il peut exiger que l'objet qui lui est confié soit contenu dans un emballage fe
 ## Art. 1954.
 
 ( L. 7 mars 1979 ) L'hôtelier n'est pas responsable pour autant que la détérioration, la destruction ou la soustraction est due:
+
+1. au voyageur ou aux personnes qui l'accompagnent, sont à son service ou lui rendent visite;
+
+2. a une force majeure;
+
+3. à la nature de l'objet.
 
 <a id="art-1954-1"></a>
 ## Art. 1954-1.
@@ -12680,6 +13774,12 @@ Le dépositaire chargé du séquestre ne peut être déchargé avant la contesta
 
 La justice peut ordonner le séquestre:
 
+1. des meubles saisis sur un débiteur;
+
+2. d'un immeuble ou d'une chose mobilière dont la propriété ou la possession est litigieuse entre deux ou plusieurs personnes;
+
+3. des choses qu'un débiteur offre pour sa libération.
+
 <a id="art-1962"></a>
 ## Art. 1962.
 
@@ -12704,6 +13804,12 @@ Dans l'un et l'autre cas, celui auquel la chose a été confiée, est soumis à 
 Le contrat aléatoire est une convention réciproque dont les effets, quant aux avantages et aux pertes, soit pour toutes les parties, soit pour l'une ou plusieurs d'entre elles, dépendent d'un événement incertain.
 
 Tels sont:
+
+- le contrat d'assurance;
+
+- le prêt à grosse aventure; le jeu et le pari;
+
+- le contrat de rente viagère.
 
 Les deux premiers sont régis par les lois maritimes.
 
@@ -12888,6 +13994,10 @@ Tout mandataire est tenu de rendre compte de sa gestion, et de faire raison au m
 ## Art. 1994.
 
 Le mandataire répond de celui qu'il s'est substitué dans la gestion:
+
+1. quand il n'a pas reçu le pouvoir de se substituer quelqu'un;
+
+2. quand ce pouvoir lui a été conféré sans désignation d'une personne, et que celle dont il a fait choix était notoirement incapable ou insolvable.
 
 Dans tous les cas, le mandant peut agir directement contre la personne que le mandataire s'est substituée.
 
@@ -13126,6 +14236,16 @@ Lorsque la caution aura payé sans être poursuivie et sans avoir averti le déb
 ## Art. 2032.
 
 La caution, même avant d'avoir payé, peut agir contre le débiteur pour être par lui indemnisée:
+
+1. lorsqu'elle est poursuivie en justice pour le paiement;
+
+2. lorsque le débiteur a fait faillite, ou est en déconfiture;
+
+3. lorsque le débiteur s'est obligé de lui rapporter sa décharge dans un certain temps;
+
+4. lorsque la dette est devenue exigible par l'échéance du terme sous lequel elle avait été contractée;
+
+5. au bout de dix années, lorsque l'obligation principale n'a point de terme fixe d'échéance, à moins que l'obligation principale, telle qu'une tutelle, ne soit pas de nature à pouvoir être éteinte avant un temps déterminé.
 
 ##### Section III. De l'effet du cautionnement entre les cofidéjusseurs
 
@@ -13545,12 +14665,56 @@ Les privilèges sont ou généraux ou particuliers sur certains meubles.
 <a id="art-2101"></a>
 ## Art. 2101.
 
+( L. 24 mai 1989 )
+
+(1)
+
+Les créances privilégiées sur la généralité des meubles sont celles ci-après exprimées, et s'exercent dans l'ordre suivant:
+
+1. les frais de justice;
+
+2. les frais funéraires;
+
+3. les frais quelconques de la dernière maladie, quelle qu'en ait été la terminaison, pendant un an, concurremment entre ceux à qui ils sont dus;
+
+4. les salaires, traitements et indemnités résultant du contrat de travail se rapportant aux six derniers mois de travail ainsi que les créances d'indemnités de toute nature résultant de la rupture du contrat de travail ou du contrat d'apprentissage pour le solde non couvert par le superprivilège visé au paragraphe (2) du présent article;
+
+5. ( L. du 12 avril 2019 ) les créances résultant de la liquidation du compte épargne-temps.
+
+6. les fournitures de subsistance faites au débiteur et à sa famille; à savoir, pendant les six derniers mois, par les marchands en détail, tels que boulangers, bouchers et autres, et pendant la dernière année, par les maîtres de pension et marchands en gros.
+
+(2)
+
+Les créances de salaires, de traitements et d'indemnités se rapportant aux six derniers mois de travail et les créances du salarié portant sur des indemnités de toute nature résultant de la rupture du contrat de travail ou du contrat d'apprentissage s'exercent et doivent être payées avant toute autre créance privilégiée y comprises celles garanties par le privilège du trésor et des autres titulaires de ce privilège, jusqu'à concurrence d'un plafond égal au sextuple du salaire social minimum de référence.
+
+Un règlement grand-ducal pris sur avis du Conseil d'Etat et de l'assentiment de la commission de travail de la Chambre des Députés peut relever le plafond visé au présent paragraphe.
+
+(2 bis )
+
+( L. du 12 avril 2019 ) Les créances résultant de la liquidation du compte épargne-temps s’exercent et doivent être payées avant toute autre créance privilégiée, y comprises celles garanties par le privilège du trésor et des autres titulaires de ce privilège y incluses celles visées au paragraphe 2.
+
 ###### Paragraphe II. Des privilèges sur certains meubles
 
 <a id="art-2102"></a>
 ## Art. 2102.
 
-Les créances privilégiées sur certains meubles sont: les loyers et fermages des immeubles, sur les fruits de la récolte de l'année, et sur le prix de tout ce qui garnit la maison louée ou la ferme, et de tout ce qui sert à l'exploitation de la ferme; savoir, pour tout ce qui est échu, et pour tout ce qui est à échoir, si les baux sont authentiques, ou si, étant sous signature privée, ils ont une date certaine; et, dans ces deux cas, les autres créanciers ont le droit de relouer la maison ou la ferme pour le restant du bail, et de faire leur profit des baux ou fermages, à la charge toutefois de payer au propriétaire tout ce qui lui serait encore dû; Et, à défaut de baux authentiques, ou lorsqu'étant sous signature privée, ils n'ont pas une date certaine, pour une année à partir de l'expiration de l'année courante; Le même privilège a lieu pour les réparations locatives, et pour tout ce qui concerne l'exécution du bail; Néanmoins les sommes dues pour les semences ou pour les frais de la récolte de l'année, sont payées sur le prix de la récolte, et celles dues pour ustensiles, sur le prix de ces ustensiles, par préférence au propriétaire, dans l'un et l'autre cas; Le propriétaire peut saisir les meubles qui garnissent sa maison ou sa ferme, lorsqu'ils ont été déplacés sans son consentement, et il conserve sur eux son privilège, pourvu qu'il ait fait la revendication; savoir, lorsqu'il s'agit du mobilier qui garnissait une ferme, dans le délai de quarante jours, et dans celui de quinzaine, s'il s'agit des meubles garnissant une maison; le prix d'effets mobiliers non payés, s'ils sont encore en la possession du débiteur, soit qu'il ait acheté à terme ou sans terme. Si la vente a été faite sans terme, le vendeur peut même revendiquer ces effets tant qu'ils sont en la possession de l'acheteur, et en empêcher la revente, pourvu que la revendication soit faite dans la huitaine de la livraison, et que les effets se trouvent dans le même état dans lequel cette livraison a été faite; Le privilège du vendeur ne s'exerce toutefois qu'après celui du propriétaire de la maison ou de la ferme, à moins qu'il ne soit prouvé que le propriétaire avait connaissance que les meubles et autres objets garnissant sa maison ou sa ferme n'appartenaient pas au locataire; Il n'est rien innové aux lois et usages du commerce sur la revendication;
+Les créances privilégiées sur certains meubles sont:
+
+1. les loyers et fermages des immeubles, sur les fruits de la récolte de l'année, et sur le prix de tout ce qui garnit la maison louée ou la ferme, et de tout ce qui sert à l'exploitation de la ferme; savoir, pour tout ce qui est échu, et pour tout ce qui est à échoir, si les baux sont authentiques, ou si, étant sous signature privée, ils ont une date certaine; et, dans ces deux cas, les autres créanciers ont le droit de relouer la maison ou la ferme pour le restant du bail, et de faire leur profit des baux ou fermages, à la charge toutefois de payer au propriétaire tout ce qui lui serait encore dû; Et, à défaut de baux authentiques, ou lorsqu'étant sous signature privée, ils n'ont pas une date certaine, pour une année à partir de l'expiration de l'année courante; Le même privilège a lieu pour les réparations locatives, et pour tout ce qui concerne l'exécution du bail; Néanmoins les sommes dues pour les semences ou pour les frais de la récolte de l'année, sont payées sur le prix de la récolte, et celles dues pour ustensiles, sur le prix de ces ustensiles, par préférence au propriétaire, dans l'un et l'autre cas; Le propriétaire peut saisir les meubles qui garnissent sa maison ou sa ferme, lorsqu'ils ont été déplacés sans son consentement, et il conserve sur eux son privilège, pourvu qu'il ait fait la revendication; savoir, lorsqu'il s'agit du mobilier qui garnissait une ferme, dans le délai de quarante jours, et dans celui de quinzaine, s'il s'agit des meubles garnissant une maison;
+
+2. la créance sur le gage dont le créancier est saisi;
+
+3. les frais fait pour la conservation de la chose;
+
+4. le prix d'effets mobiliers non payés, s'ils sont encore en la possession du débiteur, soit qu'il ait acheté à terme ou sans terme. Si la vente a été faite sans terme, le vendeur peut même revendiquer ces effets tant qu'ils sont en la possession de l'acheteur, et en empêcher la revente, pourvu que la revendication soit faite dans la huitaine de la livraison, et que les effets se trouvent dans le même état dans lequel cette livraison a été faite; Le privilège du vendeur ne s'exerce toutefois qu'après celui du propriétaire de la maison ou de la ferme, à moins qu'il ne soit prouvé que le propriétaire avait connaissance que les meubles et autres objets garnissant sa maison ou sa ferme n'appartenaient pas au locataire; Il n'est rien innové aux lois et usages du commerce sur la revendication;
+
+5. les fournitures d'un aubergiste, sur les effets du voyageur qui ont été transportés dans son auberge;
+
+6. les frais de voiture et les dépenses accessoires, sur la chose voiturée;
+
+7. Les créances résultant d'abus et prévarications commis par les fonctionnaires publics dans l'exercice de leurs fonctions, sur les fonds de leur cautionnement, et sur les intérêts qui en peuvent être dus;
+
+8. ( L. du 10 juin 1932 ) ( L. du 7 avril 1976 ) Les créances nées d'un accident au profit des tiers lésés par cet accident ou de leurs ayants droit, sur l'indemnité dont l'assureur de la responsabilité civile se reconnaît ou a été judiciairement reconnu débiteur à raison de la convention d'assurance.
 
 Aucun paiement fait à l'assuré ne sera libératoire tant que les créanciers privilégiés n'auront pas été désintéressés.
 
@@ -13561,7 +14725,17 @@ Ce privilège ne sera primé par aucun autre privilège général ou spécial, y
 <a id="art-2103"></a>
 ## Art. 2103.
 
-Les créanciers privilégiés sur les immeubles sont: le vendeur sur l'immeuble vendu, pour paiement du prix. S'il y a plusieurs ventes successives dont le prix soit dû en tout ou en partie, le premier vendeur est préféré au second, le deuxième au troisième, et ainsi de suite. les architectes, entrepreneurs, maçons et autres ouvriers employés pour édifier, reconstruire ou réparer des bâtiments, canaux, ou autres ouvrages quelconques, pourvu néanmoins que, par un expert nommé d'office par le tribunal de première instance dans le ressort duquel les bâtiments sont situés, il ait été dressé préalablement un procès-verbal, à l'effet de constater l'état des lieux relativement aux ouvrages que le propriétaire déclarera avoir dessein de faire, et que les ouvrages aient été, dans les six mois au plus tard de leur perfection reçus par un expert également nommé d'office. Mais le montant du privilège ne peut excéder les valeurs constatées par le second procès-verbal, et il se réduit à la plus-value existante à l'époque de l'aliénation de l'immeuble et résultant des travaux qui y ont été faits.
+Les créanciers privilégiés sur les immeubles sont:
+
+1. le vendeur sur l'immeuble vendu, pour paiement du prix. S'il y a plusieurs ventes successives dont le prix soit dû en tout ou en partie, le premier vendeur est préféré au second, le deuxième au troisième, et ainsi de suite.
+
+2. ceux qui ont fourni les deniers pour l'acquisition d'un immeuble, pourvu qu'il soit authentiquement constaté, par l'acte d'emprunt, que la somme était destinée à cet emploi, et, par la quittance du vendeur, que ce paiement a été fait des deniers empruntés.
+
+3. ( L. 13 juin 1984 ) les cohéritiers, sur les immeubles de la succession, pour la garantie des partages faits entre eux et des soultes ou retour de lots; pour la garantie des indemnités dues en application de l'article 924-3les immeubles donnés ou légués sont assimilés aux immeubles de la succession.
+
+4. les architectes, entrepreneurs, maçons et autres ouvriers employés pour édifier, reconstruire ou réparer des bâtiments, canaux, ou autres ouvrages quelconques, pourvu néanmoins que, par un expert nommé d'office par le tribunal de première instance dans le ressort duquel les bâtiments sont situés, il ait été dressé préalablement un procès-verbal, à l'effet de constater l'état des lieux relativement aux ouvrages que le propriétaire déclarera avoir dessein de faire, et que les ouvrages aient été, dans les six mois au plus tard de leur perfection reçus par un expert également nommé d'office. Mais le montant du privilège ne peut excéder les valeurs constatées par le second procès-verbal, et il se réduit à la plus-value existante à l'époque de l'aliénation de l'immeuble et résultant des travaux qui y ont été faits.
+
+5. ceux qui ont prêté les deniers pour payer ou rembourser les ouvriers, jouissent du même privilège, pourvu que cet emploi soit authentiquement constaté par l'acte d'emprunt, et par la quittance des ouvriers, ainsi qu'il a été dit ci-dessus pour ceux qui ont prêté les deniers pour l'acquisition d'un immeuble.
 
 ##### Section III. Des privilèges qui s'étendent sur les meubles et les immeubles
 
@@ -13574,6 +14748,10 @@ Les privilèges qui s'étendent sur les meubles et les immeubles sont ceux énon
 ## Art. 2105.
 
 Lorsqu'à défaut de mobilier les privilégiés énoncés en l' article précédent se présentent pour être payés sur le prix d'un immeuble en concurrence avec les créanciers privilégiés sur l'immeuble, les paiements se font dans l'ordre qui suit:
+
+1. les frais de justice et autres énoncés en l' article 2101;
+
+2. les créances désignées en l' article 2103.
 
 ##### Section IV. Comment se conservent les privilèges
 
@@ -13600,7 +14778,13 @@ Le vendeur privilégié conserve son privilège par la transcription du titre qu
 <a id="art-2110"></a>
 ## Art. 2110.
 
-Les architectes, entrepreneurs, maçons et autres ouvriers employés pour édifier, reconstruire ou réparer des bâtiments, canaux, ou autres ouvrages et ceux qui ont, pour les payer et rembourser, prêté les deniers dont l'emploi a été constaté, conservent, par la double inscription faite, leur privilège à la date de l'inscription du premier procès-verbal.
+Les architectes, entrepreneurs, maçons et autres ouvriers employés pour édifier, reconstruire ou réparer des bâtiments, canaux, ou autres ouvrages et ceux qui ont, pour les payer et rembourser, prêté les deniers dont l'emploi a été constaté, conservent, par la double inscription faite,
+
+1. du procès-verbal qui constate l'état des lieux,
+
+2. du procès-verbal de réception,
+
+leur privilège à la date de l'inscription du premier procès-verbal.
 
 <a id="art-2111"></a>
 ## Art. 2111.
@@ -13653,6 +14837,10 @@ L'hypothèque conventionnelle est celle qui dépend des conventions et de la for
 ## Art. 2118.
 
 Sont seuls susceptibles d'hypothèques:
+
+1. les biens immobiliers qui sont dans le commerce, et leurs accessoires réputés immeubles;
+
+2. l'usufruit des mêmes biens et accessoires pendant le temps de sa durée.
 
 <a id="art-2119"></a>
 ## Art. 2119.
@@ -13783,6 +14971,16 @@ Pour opérer l'inscription, le créancier représente, soit par lui-même, soit 
 
 Il y joint deux bordereaux écrits sur papier timbré, dont l'un peut être porté sur l'expédition du titre; ils contiennent:
 
+1. les nom, prénom, domicile du créancier, sa profession, s'il, en a une, et l'élection d'un domicile pour lui dans un lieu quelconque de l'arrondissement du bureau;
+
+2. les nom, prénom, domicile du débiteur, sa profession, s'il en a une connue, ou une désignation individuelle et spéciale, telle que le conservateur puisse reconnaître et distinguer dans tous les cas l'individu grevé d'hypothèque;
+
+3. la date et la nature du titre;
+
+4. le montant du capital des créances exprimées dans le titre, ou évaluées par l'inscrivant, pour les rentes et prestations, ou pour les droits éventuels, conditionnels ou indéterminés, dans les cas où cette évaluation est ordonnée; comme aussi le montant des accessoires de ces capitaux, et l'époque de l'exigibilité;
+
+5. l'indication de l'espèce et de la situation des biens sur lesquels il entend conserver son privilège ou son hypothèque.
+
 Cette dernière disposition n'est pas nécessaire dans le cas des hypothèques légales ou judiciaires: à défaut de convention, une seule inscription, pour ces hypothèques, frappe tous les immeubles compris dans l'arrondissement du bureau.
 
 ( L. 16 avril 1928 ) Le bordereau à rédiger par le conservateur des hypothèques pour l'inscription du privilège du vendeur renseignera les noms, prénoms, profession et domicile des créanciers et des débiteurs, l'élection de domicile, s'il y a lieu, la date et la nature du titre, la date, le volume et le numéro de la transcription, la situation des biens par l'indication de la commune, le montant de la créance en principal ainsi que la réserve de l'action résolutoire et la clause de voie parée prévue par l' article 71 de la loi du 2 janvier 1889 sur la saisie immobilière, en renvoyant pour les détails et pour les autres éléments prévus par l' article 2148 du Code civil, au titre même figurant au registre des transcriptions.
@@ -13820,6 +15018,12 @@ Il est loisible à celui qui a requis une inscription, ainsi qu'à ses représen
 ## Art. 2153.
 
 ( L. 6 février 1975 ) Les droits d'hypothèque purement légale de l'Etat, des communes et des établissements publics sur les biens des comptables, ceux des mineurs ou interdits sur les tuteurs ou les administrateurs légaux, seront inscrits sur la présentation de deux bordereaux contenant seulement:
+
+1. les nom, prénom, profession et domicile réel du créancier, et le domicile qui sera par lui, ou pour lui, élu dans un lieu quelconque du Grand-Duché;
+
+2. les nom, prénom, profession, domicile, ou désignation précise du débiteur;
+
+3. la nature des droits à conserver, et le montant de leur valeur quant aux objets déterminés, sans être tenu de la fixer quant à ceux qui sont conditionnels, éventuels ou indéterminés.
 
 <a id="art-2154"></a>
 ## Art. 2154.
@@ -13970,6 +15174,14 @@ Le tiers détenteur qui veut purger sa propriété en payant le prix, observe le
 
 Les privilèges et hypothèques s'éteignent:
 
+1. par l'extinction de l'obligation principale;
+
+2. par la renonciation du créancier à l'hypothèque;
+
+3. par l'accomplissement des formalités et conditions prescrites aux tiers détenteurs pour purger les biens par eux acquis;
+
+4. par la prescription.
+
 La prescription est acquise au débiteur, quant aux biens qui sont dans ses mains, par le temps fixé pour la prescription des actions qui donnent l'hypothèque ou le privilège.
 
 Quant aux biens qui sont dans la main d'un tiers détenteur, elle lui est acquise par le temps réglé pour la prescription de la propriété à son profit; dans le cas où la prescription suppose un titre, elle ne commence à courir que du jour où il a été transcrit sur les registres du conservateur.
@@ -13997,6 +15209,12 @@ Le vendeur ne transmet à l'acquéreur que la propriété et les droits qu'il av
 
 Si le nouveau propriétaire veut se garantir de l'effet des poursuites autorisées dans le chapitre VI du présent titre, il est tenu, soit avant les poursuites, soit dans le mois, au plus tard, à compter de la première sommation qui lui est faite, de notifier aux créanciers, aux domiciles par eux élus dans leurs inscriptions:
 
+1. extrait de son titre, contenant seulement la date et la qualité de l'acte, le nom et la désignation précise du vendeur ou du donateur, la nature et la situation de la chose vendue ou donnée; et, s'il s'agit d'un corps de biens, la dénomination générale seulement du domaine et des arrondissements dans lesquels il est situé, le prix et les charges faisant partie du prix de la vente ou l'évaluation de la chose, si elle a été donnée;
+
+2. extrait de la transcription de l'acte de vente;
+
+3. un tableau sur trois colonnes, dont la première contiendra la date des hypothèques et celle des inscriptions; la seconde, le nom des créanciers; la troisième, le montant des créances inscrites.
+
 <a id="art-2184"></a>
 ## Art. 2184.
 
@@ -14006,6 +15224,16 @@ L'acquéreur ou le donataire déclarera, par le même acte, qu'il est prêt à a
 ## Art. 2185.
 
 Lorsque le nouveau propriétaire a fait cette notification dans le délai fixé, tout créancier dont le titre est inscrit peut requérir la mise de l'immeuble aux enchères et adjudications publiques, à la charge.
+
+1. que cette réquisition sera signifiée au nouveau propriétaire dans quarante jours, au plus tard, de la notification faite à la requête de ce dernier, en y ajoutant deux jours par cinq myriamètres de distance entre le domicile élu et le domicile réel de chaque créancier requérant;
+
+2. qu'elle contiendra soumission du requérant, de porter ou faire porter le prix à un dixième en sus de celui qui aura été stipulé dans le contrat, ou déclaré par le nouveau propriétaire;
+
+3. que la même signification sera faite dans le même délai au précédent propriétaire, débiteur principal;
+
+4. que l'original et les copies de ces exploits seront signés par le créancier requérant, ou par son fondé de procuration expresse, lequel, en ce cas, est tenu de donner copie de sa procuration;
+
+5. qu'il offrira de donner caution jusqu'à concurrence du prix et des charges.
 
 Le tout à peine de nullité.
 
@@ -14067,6 +15295,10 @@ Les conservateurs des hypothèques sont tenus de délivrer à tous ceux qui le r
 
 Ils sont responsables du préjudice résultant:
 
+1. de l'omission sur leurs registres, des transcriptions d'actes de mutation, et des inscriptions requises en leurs bureaux;
+
+2. du défaut de mention dans leurs certificats, d'une ou de plusieurs des inscriptions existantes, à moins dans ce dernier cas, que l'erreur ne provînt de désignations insuffisantes qui ne pourraient leur être imputées.
+
 <a id="art-2198"></a>
 ## Art. 2198.
 
@@ -14105,6 +15337,10 @@ Les mentions de dépôts, les inscriptions et transcriptions sont faites sur les
 ## Art. 2204.
 
 Le créancier peut poursuivre l'expropriation:
+
+1. des biens immobiliers et de leurs accessoires réputés immeubles appartenant en propriété à son débiteur;
+
+2. de l'usufruit appartenant au débiteur sur les biens de même nature.
 
 <a id="art-2205"></a>
 ## Art. 2205.
@@ -14505,6 +15741,14 @@ Se prescrivent par six mois.
 
 ( L. 24 mai 1989 )
 
+- L’action des huissiers, pour le salaire des actes qu'ils signifient, et des commissions qu'ils exécutent;
+
+- Celle des marchands, pour les marchandises qu'ils vendent aux particuliers non marchands;
+
+- celle des maîtres de pension, pour le prix de la pension de leurs élèves; et autres maîtres, pour le prix de l'apprentissage;
+
+- se prescrivent par un an.
+
 <a id="art-2273"></a>
 ## Art. 2273.
 
@@ -14539,6 +15783,12 @@ Les avocats sont déchargés de leur responsabilité professionnelle et de la co
 ( L. 24 mai 1989 ) Se prescrivent par trois ans les actions en paiement des rémunérations de toute nature dues au salarié.
 
 Se prescrivent par cinq ans les actions de payement:
+
+- Des arrérages des rentes perpétuelles et viagères et de ceux des pensions alimentaires;
+
+- Des loyers et fermages;
+
+- Des intérêts des sommes prêtées, et généralement de tout ce qui est payable par année ou à des termes périodiques plus courts.
 
 <a id="art-2278"></a>
 ## Art. 2278.

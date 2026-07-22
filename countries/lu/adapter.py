@@ -457,13 +457,56 @@ class LuxembourgAdapter:
         lines.append(f'<a id="{anchor}"></a>')
         lines.append(f"## {num}")
         lines.append("")
-        for alinea in article.findall(f"{{{AKN_NS}}}alinea"):
-            text = _alinea_text(alinea)
-            if text:
-                lines.append(text)
-                lines.append("")
-        for nested in article.findall(f"{{{AKN_NS}}}article"):
-            self._emit_article(nested, lines)
+        self._emit_article_body(article, lines)
+
+    def _emit_article_body(self, article: etree._Element, lines: list[str]) -> None:
+        """Emit all meaningful body children (alinea, paragraph, lists, nested articles)."""
+        for child in article:
+            tag = etree.QName(child).localname
+            ns = etree.QName(child).namespace
+            if ns == SCL_NS or tag in _ARTICLE_SKIP_TAGS:
+                continue
+            if tag == "heading":
+                text = _collapse_text(child)
+                if text:
+                    lines.append(text)
+                    lines.append("")
+            elif tag == "alinea":
+                _append_blocks(lines, _container_blocks(child))
+            elif tag == "paragraph":
+                self._emit_paragraph(child, lines)
+            elif tag == "article":
+                self._emit_article(child, lines)
+            elif tag in HIERARCHY_LEVELS:
+                level = min(HIERARCHY_LEVELS[tag] + 2, 6)
+                num = _child_text(child, "num")
+                heading = _child_text(child, "heading")
+                label = " ".join(part for part in (num, heading) if part).strip()
+                if label:
+                    lines.append(f"{'#' * level} {label}")
+                    lines.append("")
+                self._emit_article_body(child, lines)
+            elif tag in _BLOCK_TAGS or tag == "content":
+                _append_blocks(lines, _node_blocks(child))
+
+    def _emit_paragraph(self, paragraph: etree._Element, lines: list[str]) -> None:
+        num = _child_text(paragraph, "num")
+        if num:
+            lines.append(num)
+            lines.append("")
+        for child in paragraph:
+            tag = etree.QName(child).localname
+            ns = etree.QName(child).namespace
+            if ns == SCL_NS or tag in _ARTICLE_SKIP_TAGS or tag == "num":
+                continue
+            if tag == "alinea":
+                _append_blocks(lines, _container_blocks(child))
+            elif tag == "paragraph":
+                self._emit_paragraph(child, lines)
+            elif tag == "article":
+                self._emit_article(child, lines)
+            elif tag in _BLOCK_TAGS or tag == "content":
+                _append_blocks(lines, _node_blocks(child))
 
     def _sparql(self, client: HttpClient, query: str) -> dict[str, Any]:
         url = f"{SPARQL_ENDPOINT}?{urlencode({'query': query, 'format': 'json'})}"
@@ -660,13 +703,207 @@ def _child_text(element: etree._Element, localname: str) -> str:
     return " ".join("".join(child.itertext()).split())
 
 
-def _alinea_text(alinea: etree._Element) -> str:
-    parts: list[str] = []
-    for p in alinea.xpath(".//akn:p", namespaces=NSMAP):
-        text = " ".join("".join(p.itertext()).split())
+_ARTICLE_SKIP_TAGS = frozenset(
+    {
+        "JOLUXWork",
+        "indexterms",
+        "num",
+        "meta",
+        "preface",
+        "authorialNote",
+    }
+)
+_BLOCK_TAGS = frozenset({"p", "ol", "ul", "list", "table", "tbody", "thead"})
+
+
+def _append_blocks(lines: list[str], blocks: list[str]) -> None:
+    for block in blocks:
+        text = block.strip()
         if text:
-            parts.append(text)
-    return " ".join(parts)
+            lines.append(text)
+            lines.append("")
+
+
+def _collapse_text(element: etree._Element) -> str:
+    return (
+        " ".join("".join(element.itertext()).split())
+        .replace("\u200b", "")
+        .replace("\ufeff", "")
+        .strip()
+    )
+
+
+def _container_blocks(container: etree._Element) -> list[str]:
+    """Blocks from an alinea (or similar) preferring explicit <content> children."""
+    contents = [child for child in container if etree.QName(child).localname == "content"]
+    if contents:
+        blocks: list[str] = []
+        for content in contents:
+            blocks.extend(_node_blocks(content))
+        return blocks
+    return _node_blocks(container)
+
+
+def _node_blocks(element: etree._Element) -> list[str]:
+    """Walk direct children in document order into Markdown blocks."""
+    blocks: list[str] = []
+    for child in element:
+        tag = etree.QName(child).localname
+        ns = etree.QName(child).namespace
+        if ns == SCL_NS or tag in {"authorialNote", "noteRef", "num", "heading"}:
+            continue
+        if tag == "p":
+            text = _collapse_text(child)
+            if text:
+                blocks.append(text)
+        elif tag in {"ol", "ul"}:
+            blocks.extend(_html_list_blocks(child, ordered=(tag == "ol")))
+        elif tag == "list":
+            blocks.extend(_akn_list_blocks(child))
+        elif tag == "table":
+            blocks.extend(_table_blocks(child))
+        elif tag == "content":
+            blocks.extend(_node_blocks(child))
+        elif tag in {"mod", "ins", "del"}:
+            # Preserve amending/inserted text; skip empty wrappers.
+            nested = _node_blocks(child)
+            if nested:
+                blocks.extend(nested)
+            else:
+                text = _collapse_text(child)
+                if text:
+                    blocks.append(text)
+        elif tag in {"tbody", "thead", "tr"}:
+            # Tables are handled at table level; ignore stray rows here.
+            continue
+        else:
+            # Unknown container: try structured children, else visible text.
+            nested = _node_blocks(child)
+            if nested:
+                blocks.extend(nested)
+            else:
+                text = _collapse_text(child)
+                if text:
+                    blocks.append(text)
+    if not blocks:
+        text = _collapse_text(element)
+        if text:
+            blocks.append(text)
+    return blocks
+
+
+def _html_list_blocks(list_el: etree._Element, *, ordered: bool, indent: int = 0) -> list[str]:
+    lines: list[str] = []
+    index = 0
+    pad = " " * indent
+    for child in list_el:
+        if etree.QName(child).localname != "li":
+            continue
+        index += 1
+        marker = f"{index}." if ordered else "-"
+        text_parts: list[str] = []
+        nested_lists: list[etree._Element] = []
+        if child.text and child.text.strip():
+            text_parts.append(child.text.strip())
+        for sub in child:
+            stag = etree.QName(sub).localname
+            if stag in {"ol", "ul"}:
+                nested_lists.append(sub)
+            elif stag == "p":
+                t = _collapse_text(sub)
+                if t:
+                    text_parts.append(t)
+            elif stag == "list":
+                nested_lists.append(sub)
+            else:
+                t = _collapse_text(sub)
+                if t:
+                    text_parts.append(t)
+            if sub.tail and sub.tail.strip():
+                text_parts.append(sub.tail.strip())
+        main = " ".join(" ".join(text_parts).split())
+        if main:
+            lines.append(f"{pad}{marker} {main}")
+        elif nested_lists:
+            lines.append(f"{pad}{marker}")
+        else:
+            continue
+        for nested in nested_lists:
+            ntag = etree.QName(nested).localname
+            if ntag == "list":
+                lines.extend(_akn_list_blocks(nested, indent=indent + 2))
+            else:
+                lines.extend(_html_list_blocks(nested, ordered=(ntag == "ol"), indent=indent + 2))
+    return lines
+
+
+def _akn_list_blocks(list_el: etree._Element, indent: int = 0) -> list[str]:
+    """AKN <list>/<point> structure → Markdown list lines."""
+    lines: list[str] = []
+    pad = " " * indent
+    index = 0
+    for child in list_el:
+        if etree.QName(child).localname != "point":
+            continue
+        index += 1
+        num = _child_text(child, "num")
+        marker = num if num else f"{index}."
+        text_parts: list[str] = []
+        nested: list[etree._Element] = []
+        for sub in child:
+            stag = etree.QName(sub).localname
+            if stag in {"num", "heading"}:
+                continue
+            if stag in {"list", "ol", "ul"}:
+                nested.append(sub)
+            elif stag == "p":
+                t = _collapse_text(sub)
+                if t:
+                    text_parts.append(t)
+            elif stag in {"content", "alinea"}:
+                text_parts.extend(_container_blocks(sub))
+            else:
+                t = _collapse_text(sub)
+                if t:
+                    text_parts.append(t)
+        main = " ".join(" ".join(part for part in text_parts if part).split())
+        if main:
+            lines.append(f"{pad}{marker} {main}")
+        elif nested:
+            lines.append(f"{pad}{marker}")
+        for item in nested:
+            ntag = etree.QName(item).localname
+            if ntag == "list":
+                lines.extend(_akn_list_blocks(item, indent=indent + 2))
+            else:
+                lines.extend(_html_list_blocks(item, ordered=(ntag == "ol"), indent=indent + 2))
+    return lines
+
+
+def _table_blocks(table: etree._Element) -> list[str]:
+    rows: list[list[str]] = []
+    for tr in table.xpath(".//*[local-name()='tr']"):
+        cells: list[str] = []
+        for cell in tr:
+            if etree.QName(cell).localname in {"td", "th"}:
+                cells.append(_collapse_text(cell))
+        if any(cells):
+            rows.append(cells)
+    if not rows:
+        text = _collapse_text(table)
+        return [text] if text else []
+    width = max(len(row) for row in rows)
+    normalized = [row + [""] * (width - len(row)) for row in rows]
+    lines = ["| " + " | ".join(normalized[0]) + " |"]
+    lines.append("| " + " | ".join("---" for _ in range(width)) + " |")
+    for row in normalized[1:]:
+        lines.append("| " + " | ".join(row) + " |")
+    return ["\n".join(lines)]
+
+
+def _alinea_text(alinea: etree._Element) -> str:
+    """Backward-compatible flat text join (tests / callers). Prefer _container_blocks."""
+    return " ".join(_container_blocks(alinea))
 
 
 def _html_meta(content: bytes, fallback_title: str) -> tuple[str, date | None]:
@@ -748,6 +985,44 @@ def _normalize_html(content: bytes, fallback_title: str) -> tuple[str, str]:
 
 def _html_alinea_blocks(alinea: etree._Element) -> list[str]:
     blocks: list[str] = []
+    # Prefer document-order walk of direct richtext children when present.
+    for child in alinea:
+        tag = etree.QName(child).localname.casefold()
+        classes = child.get("class") or ""
+        if tag == "p" and "richtext_num_article" in classes:
+            continue
+        if tag == "p" and "richtext_p" in classes:
+            text = _element_text(child)
+            if text:
+                blocks.append(text)
+            continue
+        if tag in {"ol", "ul"}:
+            blocks.extend(_html_list_blocks(child, ordered=(tag == "ol")))
+            continue
+        if tag == "table":
+            # Legilux HTML lists often encoded as tables with richtext_elementLI rows.
+            li_rows = child.xpath(
+                ".//*[local-name()='tr' and contains(@class,'richtext_elementLI')]"
+            )
+            if li_rows:
+                for row in li_rows:
+                    num_cells = row.xpath(
+                        ".//*[local-name()='td' and contains(@class,'richtext_numLI')]"
+                    )
+                    content_cells = row.xpath(
+                        ".//*[local-name()='td' and contains(@class,'richtext_contentLI')]"
+                    )
+                    num = _element_text(num_cells[0]) if num_cells else ""
+                    content = _element_text(content_cells[0]) if content_cells else ""
+                    if num and content:
+                        blocks.append(f"{num} {content}")
+                    elif content:
+                        blocks.append(content)
+            else:
+                blocks.extend(_table_blocks(child))
+            continue
+    if blocks:
+        return blocks
     for p in alinea.xpath(".//*[local-name()='p' and contains(@class,'richtext_p')]"):
         classes = p.get("class") or ""
         if "richtext_num_article" in classes:
@@ -766,6 +1041,10 @@ def _html_alinea_blocks(alinea: etree._Element) -> list[str]:
             blocks.append(f"{num} {content}")
         elif content:
             blocks.append(content)
+    if not blocks:
+        for list_el in alinea.xpath(".//*[local-name()='ol' or local-name()='ul']"):
+            tag = etree.QName(list_el).localname.casefold()
+            blocks.extend(_html_list_blocks(list_el, ordered=(tag == "ol")))
     if not blocks:
         text = _element_text(alinea)
         if text:

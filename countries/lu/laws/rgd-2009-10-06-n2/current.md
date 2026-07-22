@@ -28,7 +28,25 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 <a id="art-1er"></a>
 ## Art. 1er.
 
-La commission permanente d'experts prévue par l'article 29 de la loi concernant le personnel de l'enseignement fondamental se compose de 12 membres à savoir: Les membres de la commission sont nommés par arrêté ministériel pour un mandat renouvelable de trois ans.
+La commission permanente d'experts prévue par l'article 29 de la loi concernant le personnel de l'enseignement fondamental se compose de 12 membres à savoir:
+
+- de trois représentants du ministre ayant l'Éducation nationale dans ses attributions, appelé par la suite le ministre;
+
+- d'un représentant du ministre ayant la Fonction publique dans ses attributions;
+
+- d'un représentant du ministre ayant l'Intérieur dans ses attributions;
+
+- d'un représentant de l'Inspection générale des finances;
+
+- d'un représentant du STATEC;
+
+- (Règl. g.-d. du 24 mars 2014) «du président du collège des inspecteurs de l'enseignement fondamental»;
+
+- de deux représentants des enseignants;
+
+- de deux représentants du syndicat des communes.
+
+Les membres de la commission sont nommés par arrêté ministériel pour un mandat renouvelable de trois ans.
 
 <a id="art-2"></a>
 ## Art. 2.

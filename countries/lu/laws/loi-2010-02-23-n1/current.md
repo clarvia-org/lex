@@ -36,23 +36,165 @@ La reconnaissance et l'exécution au Grand-Duché de Luxembourg d'une sanction p
 
 Par décision au sens de la présente loi, on entend toute décision infligeant à titre définitif une sanction pécuniaire à une personne physique ou morale lorsque la décision a été rendue par:
 
+- une juridiction en raison d'une infraction pénale,
+
+- une autorité autre qu'une juridiction en raison d'une infraction pénale ou d'un acte punissable à condition que l'intéressé ait eu la possibilité de faire porter l'affaire devant une juridiction ayant compétence notamment en matière pénale.
+
 <a id="art-3"></a>
 ## Art. 3.
 
 Par sanction pécuniaire au sens de la présente loi, on entend toute obligation de payer:
+
+1. une somme d'argent après condamnation pour une infraction, imposée dans le cadre d'une décision;
+
+2. une indemnité aux victimes, imposée dans le cadre de la même décision, la victime ne pouvant pas être une partie civile à l'action et la juridiction agissant dans l'exercice de sa compétence pénale;
+
+3. une somme d'argent au titre des frais afférents à la procédure judiciaire ou administrative ayant conduit à la décision;
+
+4. une somme d'argent à un fonds public ou à une organisation de soutien aux victimes, imposée dans le cadre de la même décision.
 
 <a id="art-4"></a>
 ## Art. 4.
 
 Le Procureur Général d'Etat est désigné comme autorité centrale:
 
+- pour l'émission de demandes de reconnaissance et d'exécution de décisions au sens de l'article 2 vers un autre Etat membre de l'Union européenne et
+
+- pour la reconnaissance de décisions au sens de l'article 2 prononcées dans un autre Etat membre et leur exécution sur le territoire national à l'égard d'une personne physique ou morale qui possède des biens ou des revenus au Grand-Duché de Luxembourg, y a sa résidence habituelle ou son siège statutaire.
+
 #### Chapitre II. Demande de reconnaissance et d'exécution adressée au Grand-Duché de Luxembourg par un autre Etat membre de l'Union européenne
 
 <a id="art-5"></a>
 ## Art. 5.
 
+(1)
+
+La reconnaissance et l'exécution d'une sanction pécuniaire sont refusées lorsque le ou les faits qui sont à la base de la décision infligeant la sanction ne constituent pas une infraction pénale ou un acte punissable au regard du droit luxembourgeois.
+
+(2)
+
+Par dérogation au paragraphe (1), une décision de condamnation est reconnue et exécutée sans contrôle de la double incrimination et aux conditions de la présente loi, si le fait constitue une des infractions suivantes:
+
+1. participation à une organisation criminelle;
+
+2. terrorisme;
+
+3. traite des êtres humains;
+
+4. exploitation sexuelle des enfants et pédopornographie;
+
+5. trafic illicite de stupéfiants et de substances psychotropes;
+
+6. trafic illicite d'armes, de munitions et d'explosifs;
+
+7. corruption;
+
+8. fraude, y compris la fraude portant atteinte aux intérêts financiers des Communautés européennes au sens de la Convention du 26 juillet 1995 relative à la protection des intérêts financiers des Communautés européennes;
+
+9. blanchiment du produit du crime;
+
+10. faux-monnayage et contrefaçon de monnaie, y compris de l'euro;
+
+11. cybercriminalité;
+
+12. crimes contre l'environnement, y compris le trafic illicite d'espèces animales menacées, et le trafic illicite d'espèces et d'essences végétales menacées;
+
+13. aide à l'entrée et au séjour irréguliers;
+
+14. homicide volontaire, coups et blessures graves;
+
+15. trafic d'organes et de tissus humains;
+
+16. enlèvement, séquestration et prise d'otage;
+
+17. racisme et xénophobie;
+
+18. vol organisé ou à main armée;
+
+19. trafic de biens culturels y compris d'antiquités et d'œuvres d'art;
+
+20. escroquerie;
+
+21. racket et extorsion de fonds;
+
+22. contrefaçon et piratage de produits;
+
+23. falsification de documents administratifs et trafic de faux;
+
+24. falsification de moyens de paiement;
+
+25. trafic de substances hormonales et d'autres facteurs de croissance;
+
+26. trafic de matières nucléaires et radioactives;
+
+27. trafic de véhicules volés;
+
+28. viol;
+
+29. incendie volontaire;
+
+30. crimes relevant de la Cour pénale internationale;
+
+31. détournement d'avion ou de navire;
+
+32. sabotage;
+
+33. conduite contraire aux normes qui règlent la circulation routière, y compris les infractions aux dispositions en matière de temps de conduite et de repos et aux dispositions relatives au transport des marchandises dangereuses;
+
+34. contrebande de marchandises;
+
+35. atteinte aux droits de propriété intellectuelle;
+
+36. menaces et actes de violence contre des personnes, y compris au cours de manifestations sportives;
+
+37. vandalisme criminel;
+
+38. vol;
+
+39. infractions établies par l'Etat d'émission et couvertes par les obligations d'exécution découlant des instruments adoptés conformément au traité CE ou au titre VI du traité UE.
+
 <a id="art-6"></a>
 ## Art. 6.
+
+(1)
+
+La reconnaissance et l'exécution de la décision sont refusées dans les cas suivants:
+
+1. une décision a été rendue à l'encontre de la personne condamnée en raison des mêmes faits au Luxembourg ou dans un autre Etat membre et cette décision a été exécutée,
+
+2. la personne condamnée est un mineur de moins de 16 ans accomplis au moment des faits,
+
+3. la décision inflige une sanction pécuniaire qui est inférieure à 70 euros,
+
+4. le certificat prévu par la décision-cadre 2005/214/JAI du Conseil du 24 février 2005 concernant l'application du principe de reconnaissance mutuelle aux sanctions pécuniaires n'est pas produit,
+
+5. il y a prescription de la peine selon la loi luxembourgeoise et la décision concerne des faits de la compétence des autorités luxembourgeoises,
+
+6. il existe une immunité qui rend impossible l'exécution de la décision au Grand-Duché de Luxembourg.
+
+(2)
+
+La reconnaissance et l'exécution de la décision peuvent être refusées dans les cas suivants:
+
+1. le certificat annexé à la décision est incomplet ou ne correspond manifestement pas à la décision;
+
+2. la décision porte sur des actes qui ont été commis en tout ou en partie sur le territoire luxembourgeois ou en un lieu assimilé à son territoire;
+
+3. la décision porte sur des actes qui ont été commis hors du territoire de l'Etat d'émission et la loi luxembourgeoise n'autorise pas la poursuite pour les mêmes infractions commises hors de son territoire;
+
+4. dans le cas d'une procédure écrite, la personne n'a pas été informée personnellement ou par l'intermédiaire de son mandataire de son droit de former un recours et du délai pour le faire;
+
+5. Selon le certificat prévu à l'annexe I, la personne n'a pas comparu en personne au procès qui a mené à la décision, sauf si le certificat indique:
+
+- qu'elle a en temps utile été citée à personne et a été informée officiellement et effectivement de la date et du lieu du procès et du fait qu'une décision pouvait être rendue en cas de non-comparution, ou
+
+- qu'elle a donné mandat à un conseil juridique et a été effectivement défendue par ce conseil pendant le procès, ou
+
+- qu'après s'être vu signifier la décision et avoir été expressément informée de son droit à une nouvelle procédure de jugement ou à une procédure d'appel, la personne a indiqué expressément qu'elle ne contestait pas la décision ou elle n'a pas demandé une nouvelle procédure de jugement ou une procédure d'appel dans le délai légal.
+
+(3)
+
+Dans les cas visés au paragraphe (1), points 4) et 5) et paragraphe (2) points 1), 4) et 5) et avant de décider de ne pas reconnaître et de ne pas exécuter la décision, le Procureur général d'Etat consulte l'autorité compétente de l'Etat d'émission et, le cas échéant, lui demande sans délai toute information supplémentaire nécessaire.
 
 <a id="art-7"></a>
 ## Art. 7.
@@ -106,12 +248,28 @@ Le Grand-Duché de Luxembourg applique le principe de réciprocité à l'égard 
 
 Le Procureur général d'Etat informe sans tarder l'autorité compétente de l'Etat d'émission par tout moyen laissant une trace écrite:
 
+- de la transmission de la décision, sous forme d'extrait informatisé, à l'Administration de l'Enregistrement et des Domaines,
+
+- de toute décision de ne pas reconnaître ou exécuter une décision et des motifs de cette décision de refus,
+
+- de la non-exécution totale ou partielle de la décision,
+
+- de l'exécution de la décision dès qu'elle est achevée,
+
+- de l'application éventuelle de la contrainte par corps.
+
 #### Chapitre III. Demande de reconnaissance et d'exécution adressée par le Grand-Duché de Luxembourg à un autre Etat membre de l'Union européenne
 
 <a id="art-15"></a>
 ## Art. 15.
 
 Le Procureur général d'Etat transmet une demande de reconnaissance et d'exécution d'une sanction pécuniaire prononcée au Luxembourg aux autorités compétentes d'un autre Etat membre de l'Union européenne:
+
+- dans lequel la personne physique ou morale à l'encontre de laquelle la décision a été prononcée possède des biens ou des revenus,
+
+- dans lequel la personne physique a sa résidence habituelle ou,
+
+- dans lequel la personne morale a son siège statutaire.
 
 <a id="art-16"></a>
 ## Art. 16.

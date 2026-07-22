@@ -28,8 +28,30 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 <a id="art-1er"></a>
 ## Art. 1er.
 
+(1)
+
+En vue de la détermination de la retenue d'impôt sur les salaires, les contribuables résidents sont rangés dans les trois classes d'impôt visées à l'article 119 de la loi concernant l'impôt sur le revenu.
+
+La classe d'impôt 1a pour personnes ayant droit à une modération d'impôt pour enfant est à accorder sous condition aux personnes qui, au début de l'année, sont susceptibles de bénéficier de la modération d'impôt pour enfant prévue à l'article 122 de la loi. L'octroi de la classe d'impôt 1a en vertu de l'article 119, numéro 2, lettre b) de la loi a donc un caractère essentiellement provisoire au 1er janvier de l'année d'imposition. Par contribuable susceptible de bénéficier d’une modération d’impôt pour enfant, il y a lieu de comprendre le contribuable qui, au début de l’année d’imposition, a dans son ménage un enfant dans les conditions prévues par l’article 123 de la loi.
+
+(2)
+
+Toutefois les changements de situation intervenant postérieurement au recensement sont pris en considération dans les conditions et limites précisées aux articles 2 et 4.
+
+(3)
+
+Pour les contribuables résidents qui n'ont pas été recensés et pour ceux qui demandent l'établissement d'une fiche de retenue au cours de l'année d'imposition, la situation au début de l'année est déterminante, sauf application des dispositions de l'article 4.
+
 <a id="art-2"></a>
 ## Art. 2.
+
+(1)
+
+Les changements de situation survenant au courant de l'année d'imposition du contribuable résident sont pris en considération.
+
+(2)
+
+La prise en considération a lieu d'office en ce qui concerne les changements qui peuvent être déduits des données figurant sur la feuille de recensement et ceux qui font l'objet d'inscriptions sur les registres d'état civil de la commune qui doit émettre la fiche de retenue. Dans les autres cas elle a lieu à la demande du contribuable résident, la carence de ce dernier n'étant pourtant pas exclusive d'une intervention d'office de l'administration communale.
 
 <a id="art-3"></a>
 ## Art. 3.

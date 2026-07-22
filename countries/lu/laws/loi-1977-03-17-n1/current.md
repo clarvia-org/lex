@@ -27,6 +27,14 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 <a id="art-1er"></a>
 ## Art. 1er.
 
+(1)
+
+L’heure légale au Grand-Duché de Luxembourg est le Temps Universel Coordonné (UTC), tel qu’établi conformément au paragraphe 2, augmenté d’une heure, soit la valeur UTC (LUX) + 1.
+
+(2)
+
+L’UTC (LUX) est déterminée et diffusée par le Bureau luxembourgeois de métrologie de l’Institut luxembourgeois de la normalisation, de l’accréditation, de la sécurité et qualité des produits et services (ILNAS).
+
 <a id="art-2"></a>
 ## Art. 2.
 
@@ -36,6 +44,12 @@ Un règlement grand-ducal pourra modifier l'heure légale telle que définie à 
 ## Art. 3.
 
 Sont abrogées:
+
+- la loi du 10 mai 1904 décrétant l'unification de l'heure dans le Grand-Duché;
+
+- la loi du 10 mai 1916 concernant l'unification de l'heure légale de la saison d'été;
+
+- la loi du 27 avril 1917 concernant l'unification de l'heure légale de la saison d'été.
 
 <a id="art-4"></a>
 ## Art. 4.

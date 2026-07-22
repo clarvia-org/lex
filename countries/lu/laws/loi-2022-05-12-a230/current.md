@@ -28,6 +28,18 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 <a id="art-1er"></a>
 ## Art. 1er.
 
+(1)
+
+Les prix de vente du gasoil utilisé comme combustible au sens de la loi modifiée du 17 décembre 2010 fixant les droits d’accise et les taxes assimilées sur les produits énergétiques, l’électricité, les produits de tabacs manufacturés, l’alcool et les boissons alcooliques mis à la consommation au Grand-Duché de Luxembourg font l’objet d’une réduction obligatoire d’un montant toutes taxes comprises de 0,15 euro par litre.
+
+(2)
+
+Les prix de vente du gasoil utilisé exclusivement pour des travaux agricoles et horticoles dans la pisciculture et la sylviculture font l’objet d’une réduction obligatoire d’un montant toutes taxes comprises de 0,15 euro par litre.
+
+(3)
+
+La réduction du prix de vente en vertu des paragraphes 1er et 2 du gasoil utilisé comme combustible et du gasoil utilisé exclusivement pour des travaux agricoles et horticoles dans la pisciculture et la sylviculture est applicable pendant la période du 1er août 2026 jusqu’au 31 décembre 2026 et s’applique à toutes les opérations de vente de ces produits depuis la mise à la consommation jusqu’à la vente au consommateur final.
+
 <a id="art-2"></a>
 ## Art. 2.
 
@@ -45,6 +57,18 @@ Tout opérateur ayant bénéficié en vertu de l’article 2 de la compensation 
 
 <a id="art-4bis"></a>
 ## Art. 4 bis .
+
+(1)
+
+Les livraisons aux consommateurs finals de gasoil utilisé exclusivement pour des travaux agricoles et horticoles, dans la pisciculture et la sylviculture et de gasoil utilisé comme carburant pour des utilisations industrielles et commerciales qui ont eu lieu pendant la période du 1er août 2022 jusqu’au 15 août 2022 font l’objet d’une compensation financière pour les consommateurs finals. Le montant de cette compensation financière est fixé à un montant de 0,075 euro par litre pour le gasoil utilisé comme carburant pour des utilisations industrielles et commerciales ainsi que pour le gasoil utilisé exclusivement pour des travaux agricoles et horticoles, dans la pisciculture et la sylviculture.
+
+(2)
+
+Les consommateurs finals qui ont réceptionné des livraisons de gasoil utilisé exclusivement pour des travaux agricoles et horticoles, dans la pisciculture et la sylviculture pendant la période du 1er août 2022 jusqu’au 15 août 2022 adressent avant le 31 décembre 2022 leur demande en obtention de la compensation financière au ministre ayant l’Agriculture dans ses attributions. Cette demande est accompagnée des pièces justificatives requises pour attester les date et quantité de livraison, le prix d’achat ainsi que le paiement du gasoil utilisé exclusivement pour des travaux agricoles et horticoles, dans la pisciculture et la sylviculture.
+
+(3)
+
+Les consommateurs finals qui ont réceptionné des livraisons de gasoil utilisé comme carburant pour des utilisations industrielles et commerciales pendant la période du 1er août 2022 jusqu’au 15 août 2022 adressent avant le 31 décembre 2022 leur demande en obtention de la compensation financière au ministre ayant l’Économie dans ses attributions. Cette demande est accompagnée des pièces justificatives requises pour attester les date et quantité de livraison, le prix d’achat ainsi que le paiement du gasoil utilisé comme carburant pour des utilisations industrielles et commerciales.
 
 <a id="art-5"></a>
 ## Art. 5.

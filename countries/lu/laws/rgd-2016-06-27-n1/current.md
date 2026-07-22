@@ -47,10 +47,38 @@ Sur la première liste des postes vacants, peuvent postuler les instituteurs dé
 <a id="art-3"></a>
 ## Art. 3.
 
+(1)
+
+Les instituteurs qui souhaitent changer d’affectation adressent leur demande, générée à l’aide de l’application informatique Scolaria, au ministre et la remettent aux directeurs de région concernés s’ils briguent un poste dans une commune.
+
+Les stagiaires-instituteurs ayant réussi à toutes les épreuves du stage et non encore nommés à la fonction d’instituteur adressent leur demande, générée à l’aide de l’application informatique Scolaria, au ministre et la remettent aux directeurs de région concernés s’ils briguent un poste dans une commune.
+
+(2)
+
+Sont à joindre à la demande, générée à l'aide de l'application informatique Scolaria, les éléments suivants:
+
+1. le rapport d'appréciation des performances professionnelles le plus récent ou, à défaut, la note d'inspection la plus récente;
+
+2. les certificats, ou une copie de ces certificats, portant sur les années de service prestées dans l'enseignement fondamental, préscolaire, primaire ou autre, soit auprès de l'État, soit auprès d'une commune, indépendamment du volume de la tâche d'enseignement. Comme année de service est comptée une année scolaire pendant laquelle un agent a été engagé pendant huit mois au moins dans l'enseignement précité;
+
+3. la liste de l'ordre des préférences, qui est identique pour chaque demande, et qui est jointe en triple exemplaire à chaque demande ;
+
+4. le cas échéant, le certificat de réussite au stage préparant à la fonction d’instituteur.
+
+Les demandes avec pièces à l'appui doivent parvenir au ministre et, s’il y a lieu, au directeur, dans le délai prescrit lors de la publication des vacances des postes d'instituteur.
+
+Le ministre et, s’il y a eu, le directeur, en vérifie la recevabilité. Les candidatures qui parviennent après le délai prescrit ne sont pas prises en considération.
+
+Le directeur transmet les demandes de postes relevant de communes, munies de la liste de l'ordre des préférences des candidats, aux autorités communales concernées. Le directeur garde un exemplaire de chaque liste de l'ordre des préférences et en transmet un autre au ministre.
+
 <a id="art-4"></a>
 ## Art. 4.
 
-Pour chaque poste vacant, respectivement le directeur ou le ministre établit le classement des candidats d'après le total des points attribués selon les critères suivants: le rapport d'appréciation des performances professionnelles le plus récent indique le niveau de performance obtenu, allant du niveau 1 au niveau 4. Le niveau 1 équivaut à 5 points, le niveau 2 à 10 points, le niveau 3 à 15 points et le niveau 4 à 20 points. Les candidats ne bénéficiant pas encore d'un rapport d'appréciation des performances professionnelles peuvent faire valoir leur note d'inspection la plus récente. Celle-ci tient compte des compétences professionnelles de l'instituteur ainsi que de son engagement professionnel. Elle est décernée par le directeur et correspond à une des quatre valeurs suivantes: 5, 10, 15 ou 20 points. L'attribution d'une note d'inspection doit être sollicitée auprès du directeur avant la fin du deuxième trimestre de l'année scolaire en cours. Aux candidats ne faisant pas valoir de note d'inspection, il sera mis en compte cinq points. Toute note d'inspection décernée antérieurement à la mise en vigueur du présent règlement est arrondie vers le bas à une des quatre valeurs précitées. À partir de l'année scolaire 2016/2017, seule sera prise en considération une note d'inspection établie selon les modalités définies au point 1.
+Pour chaque poste vacant, respectivement le directeur ou le ministre établit le classement des candidats d'après le total des points attribués selon les critères suivants:
+
+1. le rapport d'appréciation des performances professionnelles le plus récent indique le niveau de performance obtenu, allant du niveau 1 au niveau 4. Le niveau 1 équivaut à 5 points, le niveau 2 à 10 points, le niveau 3 à 15 points et le niveau 4 à 20 points. Les candidats ne bénéficiant pas encore d'un rapport d'appréciation des performances professionnelles peuvent faire valoir leur note d'inspection la plus récente. Celle-ci tient compte des compétences professionnelles de l'instituteur ainsi que de son engagement professionnel. Elle est décernée par le directeur et correspond à une des quatre valeurs suivantes: 5, 10, 15 ou 20 points. L'attribution d'une note d'inspection doit être sollicitée auprès du directeur avant la fin du deuxième trimestre de l'année scolaire en cours. Aux candidats ne faisant pas valoir de note d'inspection, il sera mis en compte cinq points. Toute note d'inspection décernée antérieurement à la mise en vigueur du présent règlement est arrondie vers le bas à une des quatre valeurs précitées. À partir de l'année scolaire 2016/2017, seule sera prise en considération une note d'inspection établie selon les modalités définies au point 1.
+
+2. l'ancienneté de service, pour laquelle il sera compté un point par année de service, telle que définie ci-dessus à l'article 3, paragraphe 2.
 
 <a id="art-5"></a>
 ## Art. 5.
@@ -79,6 +107,14 @@ Les instituteurs et les stagiaires-instituteurs ayant réussi à toutes les épr
 
 À chaque demande sont jointes les pièces suivantes:
 
+1. le rapport d’appréciation des performances professionnelles le plus récent ou, à défaut, la note d’inspection telle que précisée à l’article 4;
+
+2. les certificats, ou une copie de ces certificats, portant sur les années de service prestées dans l’enseignement fondamental, préscolaire, primaire ou autre, soit auprès de l’État, soit auprès d’une commune, indépendamment du volume de la tâche d’enseignement. Comme année de service est comptée une année scolaire pendant laquelle un agent a été engagé pendant huit mois au moins dans l’enseignement fondamental;
+
+3. la liste de l’ordre des préférences, qui est identique pour chaque demande, et qui est jointe à chaque demande ;
+
+4. le cas échéant, le certificat de réussite au stage préparant à la fonction d’instituteur.
+
 Les décisions individuelles de réaffectation d’un instituteur et d’affectation d’un stagiaire-instituteur ayant réussi à toutes les épreuves du stage et non encore nommé à la fonction d’instituteur sont prises par le ministre entre tous les candidats classés sur une liste sur base des mêmes éléments pris en compte pour classer les candidats postulant lors de la première liste. En cas d’égalité les candidats seront départagés par tirage au sort.
 
 ##### Chapitre 2 Procédure dans le cadre du relevé et de la deuxième liste
@@ -106,12 +142,58 @@ Les demandes, générées à l’aide de l’application informatique Scolaria, 
 <a id="art-10"></a>
 ## Art. 10.
 
+(1)
+
+Dans le cadre de la deuxième liste, les chargés de cours, membres de la réserve de suppléants et bénéficiant d’un contrat de travail à durée indéterminée, sont réaffectés ou affectés par le ministre pour une année scolaire à une commune, une classe ou école de l’État.
+
+Les chargés de cours, membres de la réserve de suppléants et bénéficiant d’un contrat de travail à durée indéterminée peuvent être affectés pour une année au moins à une direction de région.
+
+Les chargés de cours, membres de la réserve de suppléants et bénéficiant d’un contrat de travail à durée indéterminée, affectés à une direction de région pour une année scolaire au moins, conservent leur affectation pour l’année subséquente à moins qu’ils ne présentent une demande de réaffectation dans le cadre de la deuxième liste.
+
+Les demandes, générées à l’aide de l’application informatique Scolaria, doivent parvenir au ministre, qui en vérifie la recevabilité, dans le délai prescrit lors de la publication des vacances des postes d’instituteur avec les pièces à l’appui requises.
+
+(2)
+
+L’affectation et la réaffectation des agents précités à une direction de région, une commune, une classe ou école de l’État, sont faites par le ministre d’après une liste de classement des candidats établie par celui-ci, selon l’ordre de classement défini ci-dessous et subsidiairement selon l’ancienneté de service, prise en compte telle que définie ci-dessous, et en second ordre de subsidiarité, selon l’âge des agents :
+
+1.
+
+1. chargés de cours détenteurs d’un diplôme d’études supérieures préparant à la fonction d’instituteur ne s’étant pas classés en rang utile lors du concours réglant l’admission au stage préparant à la fonction d’instituteur ;
+
+2. chargés de cours détenteurs d’un diplôme d’études supérieures préparant à la fonction d’instituteur remplissant les conditions de langue en vue de l’admission au concours réglant l’admission au stage préparant à la fonction d’instituteur ;
+
+2.
+
+1. chargés de cours détenteurs du certificat de qualification de chargé de direction établi conformément aux dispositions de la loi modifiée du 5 juillet 1991 portant a) fixation des modalités d’une formation préparant transitoirement à la fonction d’instituteur ; b) fixation des modalités d’une formation préparant transitoirement au certificat de qualification de chargé de direction ; c) création d’un pool de remplaçants pour l’éducation préscolaire et l’enseignement primaire ; d) dérogation à la loi du 24 mai 1989 sur le contrat de travail ;
+
+2. chargés de cours détenteurs d’une attestation d’admissibilité à la réserve de suppléants établie conformément à la loi modifiée du 25 juillet 2002 concernant le remplacement des instituteurs de l’éducation préscolaire et de l’enseignement primaire ;
+
+3. chargés de cours détenteurs du certificat de formation établi conformément à la loi modifiée du 6 février 2009 concernant le personnel de l’enseignement fondamental ;
+
+4. chargés de cours détenteurs du certificat de formation établi conformément à la loi du 2 août 2017 portant organisation de la reprise des enseignants de religion et des chargés de cours de religion ;
+
+3. chargés de cours engagés à durée indéterminée et à tâche complète ou partielle ;
+
+4. chargés de cours en cycle de formation engagés à durée indéterminée et à tâche complète ou partielle.
+
+Pour la prise en compte de l’ancienneté de service, il sera compté un point par année de service. Comme année de service est comptée une année scolaire pendant laquelle un agent a été engagé pendant huit mois au moins dans l’enseignement fondamental, préscolaire, primaire ou autre, soit auprès de l’État, soit auprès d’une commune, soit auprès de l’Archevêché de Luxembourg, indépendamment du volume de sa tâche d’enseignement.
+
+Les chargés de cours, membres de la réserve de suppléants, font parvenir au ministre tous les documents que celui-ci juge nécessaire en vue de l’établissement de la liste de classement mentionnée au paragraphe 2, alinéa 1er. La liste est établie dans le respect des pièces disponibles à la date fixée par le ministre.
+
+(3)
+
+Les agents qui n’introduisent pas de demande valable dans les délais impartis seront répartis d’office par le ministre.
+
 <a id="art-11-20180630"></a>
 ## Art. 11.
 
 La procédure d'affectation et de réaffectation des chargés de cours, membres de la réserve de suppléants, est suivie de la répartition de ceux-ci dans les communes, les écoles et classes de l'État.
 
 Cette répartition annuelle est faite par le ministre selon les critères énumérés à l'article 10, point 4, sous réserve de l'observation des dispositions suivantes:
+
+1. Les chargés de cours, membres de la réserve de suppléants, peuvent être répartis d'office, suite à leur demande, pour une année scolaire à la commune, à l'école ou à la classe de l'État, s'ils y étaient répartis l'année scolaire précédente. Au cas où plusieurs candidats sont en lice pour une même vacance de poste, la répartition se fait selon les critères énumérés à l'article 10, point 4.
+
+2. Les chargés de cours, membres de la réserve de suppléants, ayant accompli avec succès une formation d'au moins cent vingt heures, attestée par un institut de formation luxembourgeois ou étranger, pour la tenue de cours d'accueil, peuvent bénéficier d'une priorité lors de la procédure de répartition des chargés de cours dans les communes, les écoles et classes de l'État, à condition qu'ils y occupent un poste de cours d'accueil pour au moins la moitié d'une tâche complète.
 
 En vue de leur répartition dans une commune, une école ou classe de l'État, les chargés de cours, membres de la réserve de suppléants, adressent une demande au ministre selon les modalités et dans les délais fixés par celui-ci.
 

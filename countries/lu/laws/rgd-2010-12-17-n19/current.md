@@ -62,6 +62,14 @@ Sur réclamation écrite de la personne affirmant avoir été victime d’un acc
 
 En cas de déclaration médicale d’une maladie professionnelle, l’employeur fournit tous les renseignements concernant l’exposition professionnelle à des risques. Dans la déclaration patronale concernant cette exposition, il indique notamment avec précision:
 
+1. le ou les postes de travail successivement occupés et les tâches y effectuées;
+
+2. les gestes et postures de travail relatifs à chaque poste ainsi que les produits, machines et outils y utilisés;
+
+3. la durée du temps de travail exposant le salarié aux différents gestes et postures de travail ainsi qu’aux produits, machines et outils en cause;
+
+4. les mesures de protection prises contre les risques professionnels et les équipements de protection individuelle mis à disposition.
+
 <a id="art-7"></a>
 ## Art. 7.
 
@@ -90,6 +98,10 @@ Si le médecin estime que la période d’incapacité de travail totale ou la pr
 ## Art. 11 .
 
 Les dossiers sont clôturés d’office sans qu’un avis du Contrôle médical de la sécurité sociale et une décision n’aient à intervenir,
+
+- trois mois après la survenance d’un accident qui n’a pas provoqué une incapacité de travail totale dépassant les huit jours consécutifs à cet accident,
+
+- douze mois après la survenance d’un accident ayant entraîné une incapacité de travail totale plus importante, sauf avis contraire du Contrôle médical de la sécurité sociale.
 
 <a id="art-12"></a>
 ## Art. 12 .

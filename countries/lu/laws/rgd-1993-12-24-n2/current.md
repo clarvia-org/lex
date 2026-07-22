@@ -138,6 +138,14 @@ Les notes au plumitif sont signées par le greffier. Elles mentionnent le lieu e
 
 Les notes au plumitif doivent mentionner :
 
+1. les déclarations des parties ayant pour objet le retrait du recours, les déclarations de désistement et les déclarations ou arrangements ayant pour but de mettre fin au litige;
+
+2. les demandes et déclarations qui diffèrent de celles faites antérieurement par les intéressés;
+
+3. l’avis émis par le médecin-expert du conseil arbitral;
+
+4. le dispositif de la décision et son prononcé.
+
 Un extrait du plumitif est délivré en copie à la partie au litige qui en fait la demande.
 
 <a id="art-18"></a>
@@ -334,7 +342,19 @@ Tous les frais tant du conseil arbitral que du Conseil supérieur des assurances
 <a id="art-45-20170326"></a>
 ## Art. 45.
 
-Les indemnités revenant aux sont fixées par règlement ministériel.
+Les indemnités revenant aux
+
+- président du conseil supérieur et aux magistrats-assesseurs
+
+- magistrat remplaçcant le président ou le vice-président du conseil arbitral
+
+- assesseurs-assurés et assesseurs-employeurs , des prestataires de soins et de l’union des caisses de maladie siégeant auprès du conseil arbitral et du conseil supérieur
+
+- experts
+
+- témoins
+
+sont fixées par règlement ministériel.
 
 ### Titre VIII. Dispositions finales
 

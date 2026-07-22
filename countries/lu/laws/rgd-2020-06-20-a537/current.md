@@ -37,14 +37,115 @@ En application de l’article 2 de loi du 20 juin 2020 portant introduction de c
 
 En application de l’article 2 de la loi précitée du 20 juin 2020, sont autorisées à entrer sur le territoire du Grand-Duché de Luxembourg, sous réserve des dispositions de l’article 2ter du présent règlement, les catégories de ressortissants de pays tiers suivantes :
 
+1. ressortissants de pays tiers qui possèdent le statut de résident de longue durée conformément à la Directive européenne 2003/109/CE relative aux résidents de longue durée, ainsi que toute autre personne disposant d’un droit de séjour conformément aux directives européennes, ainsi qu’au droit national d’un État membre de l’Union européenne et des pays associés à l’espace Schengen, ou qui sont titulaires d’un visa national de longue durée d’un des États précités ;
+
+2. professionnels de santé, chercheurs dans le domaine de la santé et professionnels des soins pour personnes âgées ;
+
+3. travailleurs frontaliers ;
+
+4. travailleurs saisonniers dans le domaine agricole ;
+
+5. personnes occupées dans le secteur des transports ;
+
+6. membres du corps diplomatique, personnel des organisations internationales et les personnes invitées par ces organisations internationales dont la présence physique est requise pour le bon fonctionnement de ces organisations, personnel militaire, personnel du domaine de la coopération au développement et de l’aide humanitaire, et le personnel de protection civile dans l’exercice de leurs fonctions respectives ;
+
+7. passagers en transit ;
+
+8. passagers voyageant pour des raisons familiales urgentes et dûment justifiées ;
+
+9. marins ;
+
+10. personnes désirant solliciter la protection internationale au Grand-Duché de Luxembourg ou pour d’autres raisons humanitaires ;
+
+11. ressortissants de pays tiers voyageant à des fins d’études ;
+
+12. travailleurs de pays tiers hautement qualifiés si leur emploi est nécessaire d’un point de vue économique et que leur travail ne peut être reporté ou effectué depuis l’étranger.
+
 <a id="art-2bis"></a>
 ## Art. 2bis.
 
 En application de l’article 2 de loi précitée du 20 juin 2020, sont autorisés à entrer sur le territoire du Grand-Duché de Luxembourg les ressortissants de pays tiers ayant leur résidence dans un des pays suivants :
 
+- Algérie
+
+- Australie
+
+- Canada
+
+- Chine (sous réserve de réciprocité au niveau de l’Union européenne)
+
+- Géorgie
+
+- Japon
+
+- Monténégro
+
+- Maroc
+
+- Nouvelle-Zélande
+
+- Rwanda
+
+- Serbie
+
+- Corée du Sud
+
+- Thaïlande
+
+- Tunisie
+
+- Uruguay
+
 La preuve de la résidence est à charge du ressortissant de pays tiers.
 
-En application de l’article 2 de loi précitée du 20 juin 2020, sont autorisés à entrer sur le territoire du Grand-Duché de Luxembourg les ressortissants de pays tiers ayant leur résidence dans un des pays tiers, régions administratives spéciales, ou entités et autorités territoriales non reconnues comme États par au moins un État membre de l’Union européenne suivants : i. États - Albanie - Arabie saoudite - Argentine - Arménie - Australie - Azerbaïdjan - Bahreïn - Bosnie-Herzégovine - Brunei Darussalam - Canada - Chili - Chine (sous réserve de confirmation de la réciprocité au niveau de l’Union européenne) - Colombie - Corée du Sud - Émirats arabes unis - États-Unis d’Amérique - Japon - Indonésie - Israël - Japon - Jordanie - Kosovo - Liban - Monténégro - Koweït - Namibie - Nouvelle-Zélande - Pérou - Qatar - République de Macédoine du Nord - République de Moldavie - Rwanda - Serbie - Rwanda - Singapour - Thaïlande - Uruguay - Uruguay - - Ukraine ii. Régions administratives spéciales de la République populaire de Chine - RAS de Hong Kong - RAS de Macao iii. Entités et autorités territoriales non reconnues comme États par au moins un État membre de l’Union européenne - Taïwan
+En application de l’article 2 de loi précitée du 20 juin 2020, sont autorisés à entrer sur le territoire du Grand-Duché de Luxembourg les ressortissants de pays tiers ayant leur résidence dans un des pays tiers, régions administratives spéciales, ou entités et autorités territoriales non reconnues comme États par au moins un État membre de l’Union européenne suivants :
+
+| i. |  | États |
+| --- | --- | --- |
+|  | - | Albanie |
+|  | - | Arabie saoudite |
+|  | - | Argentine |
+|  | - | Arménie |
+|  | - | Australie |
+|  | - | Azerbaïdjan |
+|  | - | Bahreïn |
+|  | - | Bosnie-Herzégovine |
+|  | - | Brunei Darussalam |
+|  | - | Canada |
+|  | - | Chili |
+|  | - | Chine (sous réserve de confirmation de la réciprocité au niveau de l’Union européenne) |
+|  | - | Colombie |
+|  | - | Corée du Sud |
+|  | - | Émirats arabes unis |
+|  | - | États-Unis d’Amérique |
+|  | - | Japon |
+|  | - | Indonésie |
+|  | - | Israël |
+|  | - | Japon |
+|  | - | Jordanie |
+|  | - | Kosovo |
+|  | - | Liban |
+|  | - | Monténégro |
+|  | - | Koweït |
+|  | - | Namibie |
+|  | - | Nouvelle-Zélande |
+|  | - | Pérou |
+|  | - | Qatar |
+|  | - | République de Macédoine du Nord |
+|  | - | République de Moldavie |
+|  | - | Rwanda |
+|  | - | Serbie |
+|  | - | Rwanda |
+|  | - | Singapour |
+|  | - | Thaïlande |
+|  | - | Uruguay |
+|  | - | Uruguay |
+|  | - - | Ukraine |
+| ii. |  | Régions administratives spéciales de la République populaire de Chine |
+|  | - | RAS de Hong Kong |
+|  | - | RAS de Macao |
+| iii. |  | Entités et autorités territoriales non reconnues comme États par au moins un État membre de l’Union européenne |
+|  | - | Taïwan |
 
 La preuve de la résidence est à charge du ressortissant de pays tiers.
 

@@ -38,6 +38,44 @@ Par assistance au suicide il y a lieu d'entendre le fait qu'un médecin aide int
 <a id="art-2"></a>
 ## Art. 2.
 
+1.
+
+N'est pas sanctionné pénalement et ne peut donner lieu à une action civile en dommages-intérêts le fait par un médecin de répondre à une demande d'euthanasie ou d'assistance au suicide, si les conditions de fond suivantes sont remplies:
+
+1. le patient est majeur capable et conscient au moment de sa demande;
+
+2. la demande est formulée de manière volontaire, réfléchie et, le cas échéant, répétée, et elle ne résulte pas d'une pression extérieure;
+
+3. le patient se trouve dans une situation médicale sans issue et fait état d'une souffrance physique ou psychique constante et insupportable sans perspective d'amélioration, résultant d'une affection accidentelle ou pathologique;
+
+4. la demande du patient d'avoir recours à une euthanasie ou une assistance au suicide est consignée par écrit.
+
+2.
+
+Le médecin doit dans tous les cas, avant de procéder à une euthanasie ou une aide au suicide, respecter les conditions de forme et de procédure suivantes:
+
+1. informer le patient de son état de santé et de son espérance de vie, se concerter avec le patient sur sa demande d'euthanasie ou d'assistance au suicide et évoquer avec lui les possibilités thérapeutiques encore envisageables ainsi que les possibilités qu'offrent les soins palliatifs et leurs conséquences. Il doit arriver à la conviction que la demande du patient est volontaire et qu'aux yeux du patient il n'y a aucune autre solution acceptable dans sa situation. Les entretiens sont consignés au dossier médical, la consignation valant preuve de l'information;
+
+2. s'assurer de la persistance de la souffrance physique ou psychique du patient et de sa volonté exprimée récemment respectivement réitérée. A cette fin, il mène avec le patient plusieurs entretiens, espacés d'un délai raisonnable au regard de l'évolution de l'état du patient;
+
+3. consulter un autre médecin quant au caractère grave et incurable de l'affection, en précisant les raisons de la consultation. Le médecin consulté prend connaissance du dossier médical, examine le patient et s'assure du caractère constant, insupportable et sans perspective d'amélioration de sa souffrance physique ou psychique. Il rédige un rapport concernant ses constatations. Le médecin consulté doit être impartial, tant à l'égard du patient qu'à l'égard du médecin traitant et être compétent quant à la pathologie concernée. Le médecin traitant informe le patient concernant les résultats de cette consultation;
+
+4. sauf opposition du patient, s'entretenir de sa demande avec l'équipe soignante en contact régulier avec le patient ou des membres de celle-ci;
+
+5. sauf opposition du patient, s'entretenir de sa demande avec la personne de confiance que celui-ci désigne dans ses dispositions de fin de vie ou au moment de sa demande d'euthanasie ou d'assistance au suicide;
+
+6. s'assurer que le patient a eu l'occasion de s'entretenir de sa demande avec les personnes qu'il souhaitait rencontrer;
+
+7. s'informer auprès de la Commission Nationale de Contrôle et d'Evaluation si des dispositions de fin de vie au nom du patient y sont enregistrées.
+
+La demande du patient doit être actée par écrit. Le document est rédigé, daté et signé par le patient lui-même. S'il se trouve dans l'impossibilité physique permanente de rédiger et de signer sa demande, cette dernière est actée par écrit par une personne majeure de son choix.
+
+Cette personne mentionne le fait que le patient n'est pas en état de formuler sa demande par écrit et en indique les raisons. Dans ce cas, la demande est actée par écrit et signée par le patient ou la personne qui a rédigé la demande en présence du médecin traitant dont le nom devra également être indiqué dans le document. Ce document doit être versé au dossier médical.
+
+Le patient peut révoquer sa demande à tout moment, auquel cas le document est retiré du dossier médical et restitué au patient.
+
+L'ensemble des demandes formulées par le patient, ainsi que les démarches du médecin traitant et leur résultat, y compris le(s) rapport(s) du (des) médecin(s) consulté(s), sont consignés régulièrement dans le dossier médical du patient.
+
 <a id="art-3"></a>
 ## Art. 3.
 
@@ -47,6 +85,62 @@ Le médecin traitant peut, s'il en éprouve le besoin, se faire accompagner voir
 
 <a id="art-4"></a>
 ## Art. 4.
+
+1.
+
+Toute personne majeure et capable peut, pour le cas où elle ne pourrait plus manifester sa volonté, consigner par écrit dans des dispositions de fin de vie les circonstances et conditions dans lesquelles elle désire subir une euthanasie si le médecin constate:
+
+- qu'elle est atteinte d'une affection accidentelle ou pathologique grave et incurable,
+
+- qu'elle est inconsciente,
+
+- et que cette situation est irréversible selon l'état actuel de la science.
+
+Les dispositions de fin de vie peuvent comprendre par ailleurs un volet spécifique où le déclarant fixe les dispositions à prendre quant au mode de sépulture et à la cérémonie de ses funérailles.
+
+Dans les dispositions de fin de vie, le déclarant peut désigner une personne de confiance majeure, qui met le médecin traitant au courant de la volonté du déclarant selon ses dernières déclarations à son égard.
+
+Les dispositions de fin de vie peuvent être faites à tout moment. Elles doivent être constatées par écrit, datées et signées par le déclarant.
+
+2.
+
+Si la personne qui souhaite rédiger des dispositions de fin de vie est dans l'impossibilité physique permanente de rédiger et de signer, ses dispositions de fin de vie peuvent être actées par écrit par une personne majeure de son choix.
+
+Les dispositions de fin de vie se feront en présence de deux témoins majeurs. Les dispositions de fin de vie doivent alors préciser que le déclarant ne peut pas rédiger et signer, et en énoncer les raisons. Les dispositions de fin de vie doivent être datées et signées par la personne qui a acté par écrit la déclaration, par les témoins et, le cas échéant, par la personne de confiance.
+
+Une attestation médicale certifiant cette impossibilité physique permanente est jointe aux dispositions de fin de vie.
+
+Les dispositions de fin de vie seront enregistrées, dans le cadre d'un système officiel d'enregistrement systématique des dispositions de fin de vie auprès de la Commission Nationale de Contrôle et d'Evaluation.
+
+Les dispositions de fin de vie peuvent être réitérées, retirées ou adaptées à tout moment. La Commission Nationale de Contrôle et d'Evaluation est tenue de demander une fois tous les cinq ans, à partir de la demande d'enregistrement, la confirmation de la volonté du déclarant. Tous les changements doivent être enregistrés auprès de la Commission Nationale de Contrôle et d'Evaluation. Toutefois, aucune euthanasie ne peut être pratiquée si, à la suite des démarches qu'il est amené à faire en vertu du paragraphe 3 qui suit, le médecin obtient connaissance d'une manifestation de volonté du patient postérieure aux dispositions de fin de vie dûment enregistrées, au moyen de laquelle il retire son souhait de subir une euthanasie.
+
+Tout médecin traitant un patient en fin de vie ou un patient se trouvant dans une situation médicale sans issue est tenu de s'informer auprès de la Commission Nationale de Contrôle et d'Evaluation si des dispositions de fin de vie au nom du patient y sont enregistrées.
+
+Les modalités relatives à l'enregistrement des dispositions de fin de vie ainsi qu'à l'accès de ces dispositions par les médecins en charge d'une personne en fin de vie peuvent être déterminées par règlement grand-ducal.
+
+Ce règlement pourra proposer une formule de disposition de fin de vie dont les déclarants peuvent se servir.
+
+3.
+
+N'est pas sanctionné pénalement et ne peut donner lieu à une action civile en dommages-intérêts, le fait par un médecin de répondre à une demande d'euthanasie à la suite de dispositions de fin de vie telles que prévues aux paragraphes 1er et 2, si le médecin constate:
+
+1. que le patient est atteint d'une affection accidentelle ou pathologique grave et incurable,
+
+2. qu'il est inconscient,
+
+3. que cette situation est irréversible selon l'état actuel de la science.
+
+Le médecin doit, dans tous les cas et avant de procéder à l'euthanasie, respecter les conditions de forme et de procédure suivantes:
+
+1. consulter un autre médecin quant à l'irréversibilité de la situation médicale du patient, en l'informant des raisons de cette consultation. Le médecin consulté prend connaissance du dossier médical et examine le patient. Il rédige un rapport de ses constatations. Si une personne de confiance est désignée dans les dispositions de fin de vie, le médecin traitant met cette personne de confiance au courant des résultats de cette consultation. Le médecin consulté doit être impartial à l'égard du patient ainsi qu'à l'égard du médecin traitant et être compétent quant à la pathologie concernée;
+
+2. s'il existe une équipe soignante en contact régulier avec le patient, s'entretenir du contenu des dispositions de fin de vie avec l'équipe soignante ou des membres de celle-ci;
+
+3. si les dispositions de fin de vie désignent une personne de confiance, s'entretenir avec elle de la volonté du patient;
+
+4. si les dispositions de fin de vie désignent une personne de confiance, s'entretenir de la volonté du patient avec les proches du patient que la personne de confiance désigne.
+
+Les dispositions de fin de vie ainsi que l'ensemble des démarches du médecin traitant et leur résultat, y compris le rapport du médecin consulté, sont consignés dans le dossier médical du patient.
 
 #### Chapitre IV La déclaration officielle
 
@@ -60,6 +154,34 @@ Le médecin qui pratique une euthanasie ou une assistance au suicide doit remett
 <a id="art-6"></a>
 ## Art. 6.
 
+1.
+
+Il est institué une Commission Nationale de Contrôle et d'Evaluation de l'application de la présente loi, ci-après dénommée «la Commission».
+
+2.
+
+La Commission se compose de neuf membres, désignés sur base de leurs connaissances et de leur expérience dans les matières qui relèvent de la compétence de la Commission.
+
+Trois membres sont docteurs en médecine. Un membre est proposé par le Collège médical. L'organisation la plus représentative des médecins et médecins-dentistes propose deux membres dont un possède une qualification et une expérience spécifique relative au traitement de la douleur.
+
+Trois membres sont juristes, dont un avocat à la Cour proposé par le conseil de l'Ordre des Avocats, un magistrat proposé par la Cour supérieure de Justice et un professeur en droit de l'Université du Luxembourg.
+
+Un membre est issu des professions de santé et proposé par le Conseil supérieur de certaines professions de santé.
+
+Deux membres sont représentants d'une organisation ayant comme objet la défense des droits du patient.
+
+Faute par un des organismes prémentionnés de procéder à une proposition dans le délai imparti, le ministre ayant la Santé dans ses attributions procédera à la proposition faisant défaut.
+
+Les membres de la Commission sont nommés par le Grand-Duc pour une durée de trois ans. Le mandat est renouvelable trois fois.
+
+Il est désigné pour chacun des membres ci-avant un membre suppléant dans les conditions et selon les modalités prévues pour la désignation du membre effectif.
+
+La qualité de membre de la Commission est incompatible avec le mandat de député ou la qualité de membre du gouvernement ou du Conseil d'Etat. La Commission élit parmi ses membres un président. La Commission ne peut délibérer valablement qu'à condition qu'au moins sept de ses membres soient présents. Elle prend ses décisions à la majorité simple.
+
+3.
+
+La Commission établit son règlement d'ordre intérieur.
+
 <a id="art-7"></a>
 ## Art. 7.
 
@@ -67,9 +189,39 @@ La Commission établit un document de déclaration officielle qui doit être com
 
 Ce document est composé de deux volets. Le premier volet doit être scellé par le médecin. Il contient les données suivantes:
 
+- les nom, prénoms, domicile du patient;
+
+- les nom, prénoms, code médecin et domicile du médecin traitant;
+
+- les nom, prénoms, code médecin et domicile du (des) médecin(s) qui a (ont) été consulté(s) concernant la demande d'euthanasie ou d'assistance au suicide;
+
+- les nom, prénoms, domicile et qualité de toutes les personnes consultées par le médecin traitant, ainsi que la date de ces consultations;
+
+- s'il existait des dispositions de fin de vie et qu'ils désignaient une personne de confiance, les nom et prénoms de la personne de confiance qui est intervenue.
+
 Ce premier volet est confidentiel. Il est transmis par le médecin à la Commission. Il ne peut être consulté qu'après une décision, telle que visée à l'alinéa suivant du présent article. Ce volet ne peut en aucun cas servir de base à la mission d'évaluation de la Commission.
 
 Le deuxième volet est également confidentiel et contient les données suivantes:
+
+- s'il existe des dispositions de fin de vie ou une demande d'euthanasie ou de suicide assisté;
+
+- l'âge et le sexe du patient;
+
+- la mention de l'affection accidentelle ou pathologique grave et incurable dont souffrait le patient;
+
+- la nature de la souffrance qui était constante et insupportable;
+
+- les raisons pour lesquelles cette souffrance a été qualifiée sans perspective d'amélioration;
+
+- les éléments qui ont permis de s'assurer que la demande a été formulée de manière volontaire, réfléchie et répétée et sans pressions extérieures;
+
+- la procédure suivie par le médecin;
+
+- la qualification du ou des médecins consultés, l'avis et les dates de ces consultations;
+
+- la qualité des personnes et de l'expert éventuellement consultés par le médecin, et les dates de ces consultations;
+
+- les circonstances précises dans lesquelles le médecin traitant a pratiqué l'euthanasie ou l'assistance au suicide et par quels moyens.
 
 <a id="art-8"></a>
 ## Art. 8.
@@ -86,6 +238,12 @@ Lorsque, par décision prise à la majorité des voix de sept membres présents 
 ## Art. 9.
 
 La Commission établit à l'attention de la Chambre des Députés, la première fois endéans les deux ans de l'entrée en vigueur de la présente loi, et, par la suite, tous les deux ans:
+
+1. un rapport statistique basé sur les informations recueillies dans le second volet du document d'enregistrement que les médecins remettent complété en vertu de l'article 8;
+
+2. un rapport contenant une description et une évaluation de l'application de la présente loi;
+
+3. le cas échéant, des recommandations susceptibles de déboucher sur une initiative législative et/ou d'autres mesures concernant l'exécution de la présente loi.
 
 Pour l'accomplissement de ces missions, la Commission peut recueillir toutes les informations utiles auprès des diverses autorités et institutions. Les renseignements recueillis par la Commission sont confidentiels.
 
@@ -120,7 +278,7 @@ Dans les six mois du dépôt du premier rapport et, le cas échéant, des recomm
 <a id="art-14"></a>
 ## Art. 14.
 
-Est introduit dans le Code pénal un article 397-1 nouveau ainsi libellé: Art. 397-1. Ne tombe pas sous le champ d'application de la présente section le fait par un médecin de répondre à une demande d'euthanasie ou d'assistance au suicide dans le respect des conditions de fond visées à la loi du 16 mars 2009 sur l'euthanasie et l'assistance au suicide. Ne tombe pas sous le champ d'application de la présente section le fait par un médecin de répondre à une demande d'euthanasie ou d'assistance au suicide dans le respect des conditions de fond visées à la loi du 16 mars 2009 sur l'euthanasie et l'assistance au suicide.
+Est introduit dans le Code pénal un article 397-1 nouveau ainsi libellé: Art. 397-1. Ne tombe pas sous le champ d'application de la présente section le fait par un médecin de répondre à une demande d'euthanasie ou d'assistance au suicide dans le respect des conditions de fond visées à la loi du 16 mars 2009 sur l'euthanasie et l'assistance au suicide.
 
 #### Chapitre VII Dispositions particulières
 

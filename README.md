@@ -43,6 +43,19 @@ uv run lex source lu/code-civil --verify
 uv run lex check
 ```
 
+`lex check` validates frontmatter, retained-source SHA-256, unique anchors, **and Markdown↔source fidelity** (empty/truncated articles and dropped lists).
+
+```bash
+# Whole repo
+uv run lex check
+
+# One law directory (fidelity only — fast offline review)
+uv run lex check countries/lu/laws/loi-2000-06-29-n2
+
+# One law ID within a dataset root
+uv run lex check --id lu/loi-2000-06-29-n2
+```
+
 ## Published coverage
 
 | Country | Laws | Notes |
@@ -58,6 +71,7 @@ Every published law guarantees:
 | **Official source only** | No scraped mirrors. No reconstructed text. Every law traces to an identified official publisher. |
 | **Source retained** | The exact official file sits beside the Markdown — XML, HTML, or PDF. |
 | **Checksum verified** | SHA-256 links the normalized text to the retained source bytes. |
+| **Projection fidelity** | `lex check` compares article text mass / list structure in Markdown to the retained source (catches empty or truncated provisions). |
 | **Rights documented** | Source licence, attribution, and terms URL in every file's frontmatter. |
 | **Deterministic** | Same source bytes + same adapter code = byte-identical Markdown. Always. |
 | **Human reviewed** | Every law is compared with the official source before it reaches `main`. |

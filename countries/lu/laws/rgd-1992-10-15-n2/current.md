@@ -215,7 +215,19 @@ Les suffrages exprimés sur les bulletins reconnus valables après le contrôle 
 <a id="art-25"></a>
 ## Art 25.
 
-Sont nuls: 1o tous les bulletins autres que ceux remis par le président de la commission chargée du dépouillement du scrutin aux électeurs, 2o ce bulletin même a) s’il exprime plus de suffrages que le double du nombre de candidats à élire , b) s’il porte une marque ou un signe distinctif quelconque, c) si le votant s’y fait connaître, d) s’il contient à l’intérieur un papier ou un objet quelconque.
+Sont nuls:
+
+1o tous les bulletins autres que ceux remis par le président de la commission chargée du dépouillement du scrutin aux électeurs,
+
+2o ce bulletin même
+
+a) s’il exprime plus de suffrages que le double du nombre de candidats à élire ,
+
+b) s’il porte une marque ou un signe distinctif quelconque,
+
+c) si le votant s’y fait connaître,
+
+d) s’il contient à l’intérieur un papier ou un objet quelconque.
 
 <a id="art-26"></a>
 ## Art 26.
@@ -237,7 +249,15 @@ Ces sièges sont attribués, dans chaque liste, aux candidats ayant obtenu le pl
 
 Le procès-verbal concernant les opérations de dépouillement de scrutin est rédigé et signé séance tenante en double exemplaire par les membres de la commission.
 
-Le procès-verbal comporte notamment les indications suivantes: 1. le nombre total des votants, 2. le nombre des bulletins nuls et des bulletins valables, 3. les noms et prénoms des candidats élus 4. les noms et prénoms des candidats non élus sur la liste qui a obtenu le plus grand nombre de suffrages, ceci à l’effet de pourvoir au remplacement qui s’imposerait en vertu du présent règlement et de la loi du 10 août 1992 portant création de l’entreprise des postes et télécommunications.
+Le procès-verbal comporte notamment les indications suivantes:
+
+1. le nombre total des votants,
+
+2. le nombre des bulletins nuls et des bulletins valables,
+
+3. les noms et prénoms des candidats élus
+
+4. les noms et prénoms des candidats non élus sur la liste qui a obtenu le plus grand nombre de suffrages, ceci à l’effet de pourvoir au remplacement qui s’imposerait en vertu du présent règlement et de la loi du 10 août 1992 portant création de l’entreprise des postes et télécommunications.
 
 Un exemplaire du procès-verbal de la commission ainsi que les bulletins valables et nuls sont envoyés au ministre compétent.
 

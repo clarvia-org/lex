@@ -44,6 +44,18 @@ Les agents de la coopération sont considérés comme étant en période de stag
 <a id="art-4"></a>
 ## Art. 4.
 
+(1)
+
+Les agents de la coopération qui sont au service de l’Etat au moment de l'entrée en vigueur du présent règlement peuvent opter entre la carrière qui leur est applicable en vertu de leur contrat actuel et la nouvelle carrière qui résulte de l'application des dispositions du présent règlement. A défaut d'option dans un délai de trois mois, les dispositions du présent règlement sont automatiquement applicables.
+
+(2)
+
+Sans préjudice du paragraphe 1er du présent article et sous réserve de ce qui est prévu au paragraphe 3 ci-dessous, les carrières des agents qui sont au service de l’Etat au moment de l'entrée en vigueur du présent règlement seront reconstituées avec effet à la date de leur entrée en service conformément aux dispositions du règlement grand-ducal du 28 juillet 2000 fixant le régime des indemnités des employés occupés dans les administrations et services de l’Etat et du présent règlement.
+
+(3)
+
+Les agents de la coopération qui sont au service de l’Etat au moment de l'entrée en vigueur du présent règlement conserveront, à titre personnel, le bénéfice de l'indemnité dont ils jouissaient avant l'entrée en vigueur du présent règlement aussi longtemps que celle-ci est plus élevée que l'indemnité qui leur serait due en vertu des dispositions du présent règlement. Pour les agents de la coopération dont l'indemnité est inférieure à celle qui leur est due en vertu du présent règlement, les dispositions du présent règlement s’appliquent.
+
 <a id="art-5"></a>
 ## Art. 5.
 

@@ -27,9 +27,13 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 <a id="art-1er"></a>
 ## Art. 1er.
 
+Le catalogue de mesures du pacte nature
+
 Le catalogue de mesures du pacte nature, ainsi que le nombre maximal de points alloués par mesure et les modalités d’évaluation par mesure sont fixés à l’annexe.
 
 <a id="art-2"></a>
 ## Art. 2.
+
+Formule exécutoire
 
 Notre ministre ayant l’Environnement dans ses attributions et Notre ministre ayant les Finances dans ses attributions sont chargés, chacun en ce qui le concerne, de l’exécution du présent règlement qui sera publié au Journal officiel du Grand-Duché de Luxembourg.

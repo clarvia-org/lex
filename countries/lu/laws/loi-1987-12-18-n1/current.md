@@ -80,6 +80,28 @@ Parmi les représentants de l'Etat, le Gouvernement choisit un président du con
 
 Le conseil d'administration décide notamment sur
 
+- les créations et suppressions de services ainsi que leur cadre de fonctionnement,
+
+- le budget d'investissement et d'exploitation et les comptes de fin d'exercice,
+
+- les acquisitions, aliénations et échanges d'immeubles,
+
+- les emprunts,
+
+- l'acceptation et le refus de dons et de legs,
+
+- les travaux de construction et de grosses réparations,
+
+- l'engagement et le licenciement du personnel responsable de services,
+
+- l'organigramme des services,
+
+- la grille des emplois et leur classification,
+
+- le niveau de rémunération du personnel,
+
+- les conventions à passer avec les organismes de sécurité sociale.
+
 Les actions judiciaires sont intentées et défendues au nom du centre, poursuite et diligence du président du conseil d´administration.
 
 Le conseil d´administration élabore un règlement d´ordre intérieur déterminant les modalités de fonctionnement. Ce règlement est soumis à l´approbation du ministre de la santé.
@@ -122,6 +144,12 @@ Les médecins exercent leur fonction en toute indépendance déontologique à l�
 ## Art. 10.
 
 Les ressources du centre sont constituées notamment par;
+
+- les recettes pour prestations et services offerts
+
+- les donations et legs
+
+- les emprunts.
 
 <a id="art-11"></a>
 ## Art. 11.
@@ -175,7 +203,7 @@ L´application de l´article 150 de la loi du 4 décembre 1967 concernant l´imp
 
 Les actes passés au nom et en faveur du centre thermal et de santé sont exempts des droits de timbre, d´enregistrement, d´hypothèque et de succession.
 
-Les dons en espèces faits au centre sont déductibles comme dépenses spéciales conformément à l´article 109 de la loi du 4 décembre 1967 concernant l´impôt sur le revenu. A cet effet, l´article 112, alinéa 1er, numéro 1 de la loi précitée est modifié comme suit: 1. les dons en espèces à des organismes reconnus d´utilité publique par une loi spéciale ou en vertu des articles 27 et suivants de la loi du 21 avril 1928 concernant les associations sans but lucratif et les établissements d´utilité publique pour autant qu´ils seront désignés par règlement grand-ducal, aux bureaux de bienfaisance et hospices civils, au Centre hospitalier de Luxembourg, au Fonds d´aide au développement, au centre thermal et de santé de Mondorf-les-Bains. 1. les dons en espèces à des organismes reconnus d´utilité publique par une loi spéciale ou en vertu des articles 27 et suivants de la loi du 21 avril 1928 concernant les associations sans but lucratif et les établissements d´utilité publique pour autant qu´ils seront désignés par règlement grand-ducal, aux bureaux de bienfaisance et hospices civils, au Centre hospitalier de Luxembourg, au Fonds d´aide au développement, au centre thermal et de santé de Mondorf-les-Bains.
+Les dons en espèces faits au centre sont déductibles comme dépenses spéciales conformément à l´article 109 de la loi du 4 décembre 1967 concernant l´impôt sur le revenu. A cet effet, l´article 112, alinéa 1er, numéro 1 de la loi précitée est modifié comme suit: 1. les dons en espèces à des organismes reconnus d´utilité publique par une loi spéciale ou en vertu des articles 27 et suivants de la loi du 21 avril 1928 concernant les associations sans but lucratif et les établissements d´utilité publique pour autant qu´ils seront désignés par règlement grand-ducal, aux bureaux de bienfaisance et hospices civils, au Centre hospitalier de Luxembourg, au Fonds d´aide au développement, au centre thermal et de santé de Mondorf-les-Bains.
 
 <a id="art-17"></a>
 ## Art. 17
@@ -200,6 +228,24 @@ La moitié de cette somme est remboursable au Trésor sur décision du Gouvernem
 
 <a id="art-20"></a>
 ## Art. 20
+
+I.
+
+Les employés et ouvriers de l´Etat actuellement engagés par le ministre de la santé pour les besoins de l´établissement thermal de Mondorf-Etat, sont repris par le centre thermal et de santé.
+
+Ils conservent le régime juridique et les emplois et fonctions fixés par leur contrat de travail originaire, qu´ils sont appelés à accomplir dans tous les services du centre pour autant que les besoins du service l´exigent.
+
+II.
+
+Ils peuvent bénéficier d´un changement d´administration dans les conditions et selon les modalités fixées par la loi modifiée du 27 mars 1986 selon lesquelles le fonctionnaire de l´Etat peut se faire changer d´administration.
+
+Ils peuvent être changés d´office d´administration par le Gouvernement en conseil sur initiative soit du ministre de la santé, soit du conseil d´administration du centre.
+
+Sans préjudice des dispositions contenues dans la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l´Etat et concernant notamment la protection et la discipline, et de celles contenues dans la loi modifiée du 27 janvier 1972 fixant le régime des employés de l´Etat et concernant notamment la résiliation du contrat, les décisions et interventions que les lois ou règlements régissant le statut de ce personnel attribuent au Gouvernement en conseil ou à un membre du Gouvernement, sont prises par le directeur du centre.
+
+III.
+
+Le centre thermal et de santé rembourse au Trésor les salaires et traitements des employés et ouvriers repris.
 
 <a id="art-21"></a>
 ## Art. 21.

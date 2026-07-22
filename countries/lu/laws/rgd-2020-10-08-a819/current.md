@@ -28,7 +28,11 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 <a id="art-1er"></a>
 ## Art. 1er.
 
-Les dates d’ouverture et de clôture des deux prochaines périodes de vente en solde sont fixées comme suit : début : mercredi, le 20 janvier 2021, clôture : mercredi, le 17 février 2021 inclus. début : samedi, le 26 juin 2021, clôture : samedi, le 24 juillet 2021 inclus.
+Les dates d’ouverture et de clôture des deux prochaines périodes de vente en solde sont fixées comme suit :
+
+- Soldes de l’hiver 2020/2021 : début : mercredi, le 20 janvier 2021, clôture : mercredi, le 17 février 2021 inclus.
+
+- Soldes de l’été 2021 : début : samedi, le 26 juin 2021, clôture : samedi, le 24 juillet 2021 inclus.
 
 <a id="art-2"></a>
 ## Art. 2.

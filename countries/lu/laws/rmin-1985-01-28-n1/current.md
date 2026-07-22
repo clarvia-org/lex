@@ -100,6 +100,14 @@ Dans ce certificat le vétérinaire doit attester qu´il a vacciné le chien ou 
 
 Le certificat doit mentionner en outre:
 
+1. la date de la vaccination, le type de vaccin utilisé et sa date de péremption, le nom de l´organisme producteur et le numéro du lot de fabrication;
+
+2. la date limite de validité du certificat à indiquer par l´inspecteur mentionné ci-dessus;
+
+3. le signalement de l´animal en cause, comprenant son sexe, son âge, sa race, sa couleur, le genre et les taches de son pelage;
+
+4. le nom du propriétaire de l´animal en cause.
+
 Le certificat doit comporter au moins les indications du modèle ci-annexé.
 
 <a id="art-9"></a>
@@ -111,6 +119,22 @@ Toutefois, en ce qui concerne les chiens et les chats élevés au Grand-Duché d
 
 <a id="art-10"></a>
 ## Art. 10.
+
+1.
+
+Le certificat visé à l´article 8, 1er alinéa, n´est valable que si la vaccination a eu lieu 30 jours avant le passage de la frontière. En cas de revaccination, la validité du certificat prend cours à la date de la revaccination si celle-ci a été effectuée pendant le délai de validité de la précédente vaccination.
+
+2.
+
+Pour les chiens et les chats vaccinés avant l´âge de trois mois, la durée de validité du certificat est de trois mois; pour les chiens et les chats vaccinés après l´âge de trois mois, la durée de validité du certificat est d´un an.
+
+3.
+
+Par dérogation aux dispositions de l´alinéa 2 la durée de validité du certificat des animaux vaccinés dans le Benelux avec des vaccins autorisés, est alignée sur celle figurant dans cette autorisation, à condition qu´il y ait un accord sur ce point entre les pays du Benelux.
+
+4.
+
+Les certificats visés au présent règlement et leur durée de validité sont exigés exclusivement au passage des frontières extérieures du Benelux.
 
 <a id="art-11"></a>
 ## Art. 11.

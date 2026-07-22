@@ -28,15 +28,29 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 <a id="art-1er"></a>
 ## Art. 1er.
 
+Tarif des taxes forfaitaires
+
 Les taxes à percevoir par la Commission de surveillance du secteur financier, désignée ci-après par « CSSF » pour couvrir ses frais de personnel en service, ses frais financiers et ses frais de fonctionnement, en exécution de l’article 24 de la loi modifiée du 23 décembre 1998 portant création d’une commission de surveillance du secteur financier, sont fixées comme suit :
 
 I. Établissements de crédit.
 
 1) Un forfait unique de 75.000 euros pour l’instruction de chaque demande d’agrément d’un nouvel établissement de crédit ;
 
-2) un forfait annuel à charge de chaque établissement de crédit de droit luxembourgeois et de chaque succursale établie au Luxembourg par un établissement de crédit ne relevant pas du droit d’un État membre de l’Espace économique européen, en fonction de la somme de bilan au 31 décembre de l’année précédente : Somme de bilan (en euros) Forfait annuel Inférieure ou égale à 500 mio 116.500 euros Supérieure à 500 mio et inférieure ou égale à 2.500 mio 190.000 euros Supérieure à 2.500 mio 520.000 euros
+2) un forfait annuel à charge de chaque établissement de crédit de droit luxembourgeois et de chaque succursale établie au Luxembourg par un établissement de crédit ne relevant pas du droit d’un État membre de l’Espace économique européen, en fonction de la somme de bilan au 31 décembre de l’année précédente :
 
-3) un forfait annuel à charge de chaque succursale établie au Luxembourg par un établissement de crédit relevant du droit d’un État membre de l’Espace économique européen : Somme de bilan (en euros) Forfait annuel Inférieure ou égale à 250 mio 80.000 euros Supérieure à 250 mio et inférieure ou égale à 1.250 mio 115.000 euros Supérieure à 1.250 mio 190.000 euros
+| Somme de bilan (en euros) | Forfait annuel |
+| --- | --- |
+| Inférieure ou égale à 500 mio | 116.500 euros |
+| Supérieure à 500 mio et inférieure ou égale à 2.500 mio | 190.000 euros |
+| Supérieure à 2.500 mio | 520.000 euros |
+
+3) un forfait annuel à charge de chaque succursale établie au Luxembourg par un établissement de crédit relevant du droit d’un État membre de l’Espace économique européen :
+
+| Somme de bilan (en euros) | Forfait annuel |
+| --- | --- |
+| Inférieure ou égale à 250 mio | 80.000 euros |
+| Supérieure à 250 mio et inférieure ou égale à 1.250 mio | 115.000 euros |
+| Supérieure à 1.250 mio | 190.000 euros |
 
 4) un forfait annuel supplémentaire de 65.000 euros à charge de chaque établissement visé sous 2) soumis à une surveillance sur base consolidée par la CSSF, ainsi qu’un supplément de taxe de 35.000 euros pour chaque filiale bancaire comprise dans la surveillance consolidée et un supplément de taxe de 16.500 euros pour chaque filiale active dans le secteur financier comprise dans la surveillance consolidée de la CSSF ;
 
@@ -46,7 +60,15 @@ I. Établissements de crédit.
 
 7) un forfait unique de 15.000 euros à charge de chaque établissement de crédit pour l’instruction de chaque notification reçue dans le cadre d’une demande de détention de participation qualifiée au sens de l’article 6, paragraphe 5, de la loi modifiée du 5 avril 1993 relative au secteur financier ;
 
-8) en vertu de l’article 24, paragraphe 1er, alinéa 8 de la loi modifiée du 23 décembre 1998 portant création d’une commission de surveillance du secteur financier, à charge de chaque établissement de crédit qui est membre du Fonds de garantie des dépôts Luxembourg, un forfait annuel déterminé en fonction du montant de dépôts garantis tels que définis à l’article 163, point 8, de la loi modifiée du 18 décembre 2015 relative à la défaillance des établissements de crédit et de certaines entreprises d’investissement, au 31 décembre de l’année précédente : Montant de dépôts garantis (en euros) Forfait annuel Égal à 0 4.000 euros Supérieur à 0 et inférieur ou égal à 10 mio 6.400 euros Supérieur à 10 mio et inférieur ou égal à 100 mio 12.900 euros Supérieur à 100 mio et inférieur ou égal à 700 mio 26.000 euros Supérieur à 700 mio 35.000 euros
+8) en vertu de l’article 24, paragraphe 1er, alinéa 8 de la loi modifiée du 23 décembre 1998 portant création d’une commission de surveillance du secteur financier, à charge de chaque établissement de crédit qui est membre du Fonds de garantie des dépôts Luxembourg, un forfait annuel déterminé en fonction du montant de dépôts garantis tels que définis à l’article 163, point 8, de la loi modifiée du 18 décembre 2015 relative à la défaillance des établissements de crédit et de certaines entreprises d’investissement, au 31 décembre de l’année précédente :
+
+| Montant de dépôts garantis (en euros) | Forfait annuel |
+| --- | --- |
+| Égal à 0 | 4.000 euros |
+| Supérieur à 0 et inférieur ou égal à 10 mio | 6.400 euros |
+| Supérieur à 10 mio et inférieur ou égal à 100 mio | 12.900 euros |
+| Supérieur à 100 mio et inférieur ou égal à 700 mio | 26.000 euros |
+| Supérieur à 700 mio | 35.000 euros |
 
 Un forfait annuel supplémentaire de 500 euros est à charge de chaque établissement de crédit membre du Fonds de garantie des dépôts Luxembourg pour chaque succursale établie dans un pays de l’Espace économique européen ;
 
@@ -58,7 +80,17 @@ Un forfait annuel supplémentaire de 500 euros est à charge de chaque établiss
 
 12) un forfait annuel supplémentaire à charge de chaque établissement de crédit ayant été soumis à l’obligation de déclaration des transactions sur instruments financiers en application de l’article 26 du règlement (UE) n° 600/2014 du Parlement européen et du Conseil du 15 mai 2014 concernant les marchés d’instruments financiers pendant l’année précédente. Ce forfait se compose d’un montant fixe de 2.000 euros et d’un montant variable de 20.000 euros maximum calculé sur base du nombre total des déclarations de transactions sur instruments financiers transmises à la CSSF pendant l’année précédente. Pour les besoins du présent article, sont considérées comme déclarations de transactions sur instruments financiers les nouvelles déclarations, ainsi que les annulations et corrections de déclarations, sans opérer de distinction entre les déclarations qui ont été acceptées et celles qui ont été refusées par la CSSF.
 
-La partie variable de la taxe est calculée comme suit : Nombre de déclarations de transactions Taxe en euros par déclaration Inférieur ou égal à 10.000 0,0000 euros Supérieur à 10.000 et inférieur ou égal à 50.000 0,0225 euros Supérieur à 50.000 et inférieur ou égal à 100.000 0,0175 euros Supérieur à 100.000 et inférieur ou égal à 250.000 0,0125 euros Supérieur à 250.000 et inférieur ou égal à 500.000 0,0100 euros Supérieur à 500.000 et inférieur ou égal à 1.000.000 0,0075 euros Supérieur à 1.000.000 0,0050 euros
+La partie variable de la taxe est calculée comme suit :
+
+| Nombre de déclarations de transactions | Taxe en euros par déclaration |
+| --- | --- |
+| Inférieur ou égal à 10.000 | 0,0000 euros |
+| Supérieur à 10.000 et inférieur ou égal à 50.000 | 0,0225 euros |
+| Supérieur à 50.000 et inférieur ou égal à 100.000 | 0,0175 euros |
+| Supérieur à 100.000 et inférieur ou égal à 250.000 | 0,0125 euros |
+| Supérieur à 250.000 et inférieur ou égal à 500.000 | 0,0100 euros |
+| Supérieur à 500.000 et inférieur ou égal à 1.000.000 | 0,0075 euros |
+| Supérieur à 1.000.000 | 0,0050 euros |
 
 II. Compagnies financières holding et compagnies financières holding mixtes.
 
@@ -100,7 +132,13 @@ Pour les besoins de l’application du présent paragraphe, un tarif spécifique
 
 3) Un forfait unique de 1.100 euros pour chaque demande d’agrément d’un nouveau compartiment au sein d’un organisme de placement collectif à compartiments multiples existant (OPCVM/OPC à compartiments multiples, SIAG à compartiments multiples, OPC à gestion interne à compartiments multiples, FIS/FIS-FIA à compartiments multiples, FIS-FIA à gestion interne à compartiments multiples, SICAR/SICAR-FIA à compartiments multiples, SICAR-FIA à gestion interne à compartiments multiples).
 
-4) Taxe d’instruction OPCVM et OPC classiques ; FIS et FIS-FIA classiques ; SICAR et SICAR- FIA classiques 4.650 euros OPCVM et OPC à compartiments multiples ; FIS et FIS-FIA à compartiments multiples ; SICAR et SICAR-FIA à compartiments multiples 9.250 euros SIAG classique ou à compartiments multiples ; OPC à gestion interne, classique ou à compartiments multiples ; FIS-FIA à gestion interne, classique ou à compartiments multiples ; SICAR-FIA à gestion interne, classique ou à compartiments multiples 17.500 euros
+4)
+
+|  | Taxe d’instruction |
+| --- | --- |
+| OPCVM et OPC classiques ; FIS et FIS-FIA classiques ; SICAR et SICAR- FIA classiques | 4.650 euros |
+| OPCVM et OPC à compartiments multiples ; FIS et FIS-FIA à compartiments multiples ; SICAR et SICAR-FIA à compartiments multiples | 9.250 euros |
+| SIAG classique ou à compartiments multiples ; OPC à gestion interne, classique ou à compartiments multiples ; FIS-FIA à gestion interne, classique ou à compartiments multiples ; SICAR-FIA à gestion interne, classique ou à compartiments multiples | 17.500 euros |
 
 5) Un forfait unique de 1.100 euros pour chaque demande d’agrément d’un compartiment FIA en tant qu’ELTIF conformément au règlement (UE) 2015/760 du Parlement européen et du Conseil du 29 avril 2015 relatif aux fonds européens d’investissement à long terme (ELTIF), lorsque le FIA n’est pas soumis à un agrément et à une surveillance prudentielle par une autorité de contrôle officielle au Luxembourg.
 
@@ -112,7 +150,16 @@ A.2. Taxes de transformation.
 
 A.3. Forfaits annuels.
 
-8) Un forfait annuel à charge de chaque OPC, de chaque FIS et de chaque SICAR selon le tarif indiqué dans le tableau suivant : Forfait annuel OPCVM, OPC, FIS et FIS-FIA classiques, SICAR et SICAR-FIA classiques 4.650 euros OPCVM, OPC, FIS et FIS-FIA, SICAR et SICAR-FIA à compartiments multiples 1 à 5 compartiments 9.250 euros 6 à 20 compartiments 17.500 euros 21 à 50 compartiments 27.750 euros plus de 50 compartiments 40.500 euros
+8) Un forfait annuel à charge de chaque OPC, de chaque FIS et de chaque SICAR selon le tarif indiqué dans le tableau suivant :
+
+|  | Forfait annuel |
+| --- | --- |
+| OPCVM, OPC, FIS et FIS-FIA classiques, SICAR et SICAR-FIA classiques | 4.650 euros |
+| OPCVM, OPC, FIS et FIS-FIA, SICAR et SICAR-FIA à compartiments multiples |  |
+| 1 à 5 compartiments | 9.250 euros |
+| 6 à 20 compartiments | 17.500 euros |
+| 21 à 50 compartiments | 27.750 euros |
+| plus de 50 compartiments | 40.500 euros |
 
 Pour les OPCVM, OPC, FIS et FIS-FIA, SICAR et SICAR-FIA à compartiments multiples, le tarif est fixé en fonction du nombre de compartiments agréés par la CSSF figurant dans le prospectus au 31 décembre précédant l’exercice de facturation. Pour les OPCVM, OPC, FIS et FIS-FIA, SICAR et SICAR-FIA à compartiments multiples qui sont agréés par la CSSF en cours d’année, le tarif est fixé en fonction du nombre de compartiments au moment de l’inscription sur la liste officielle.
 
@@ -124,11 +171,22 @@ B. OPC de droit étranger.
 
 B.1. Taxes d’instruction.
 
-10) Un forfait unique pour chaque OPCVM d’origine communautaire commercialisant ses parts au Luxembourg au moment où la CSSF se voit transmettre par les autorités compétentes de l’État membre d’origine de l’OPCVM les documents visés à l’article 60, paragraphe 1er de la loi du 17 décembre 2010, pour l’instruction de chaque demande d’agrément d’un organisme de placement collectif étranger visé à l’article 100, paragraphe 1er de la loi précitée (ci-après « OPC étranger au sens de l’article 100(1) ») ainsi que pour la commercialisation au Luxembourg de chaque fonds d’investissement alternatif de droit étranger visé à l’article 100, paragraphe 2 de cette même loi (ci-après « FIA étranger au sens de l’article 100(2) ») selon le tarif indiqué dans le tableau suivant : Taxe d’instruction OPCVM classique d’origine communautaire ou OPC étranger classique au sens de l’article 100(1) ou FIA étranger classique au sens de l’article 100(2) 3.000 euros OPCVM à compartiments multiples d’origine communautaire ou FIA étranger à compartiments multiples au sens de l’article 100(2) 5.500 euros
+10) Un forfait unique pour chaque OPCVM d’origine communautaire commercialisant ses parts au Luxembourg au moment où la CSSF se voit transmettre par les autorités compétentes de l’État membre d’origine de l’OPCVM les documents visés à l’article 60, paragraphe 1er de la loi du 17 décembre 2010, pour l’instruction de chaque demande d’agrément d’un organisme de placement collectif étranger visé à l’article 100, paragraphe 1er de la loi précitée (ci-après « OPC étranger au sens de l’article 100(1) ») ainsi que pour la commercialisation au Luxembourg de chaque fonds d’investissement alternatif de droit étranger visé à l’article 100, paragraphe 2 de cette même loi (ci-après « FIA étranger au sens de l’article 100(2) ») selon le tarif indiqué dans le tableau suivant :
+
+|  | Taxe d’instruction |
+| --- | --- |
+| OPCVM classique d’origine communautaire ou OPC étranger classique au sens de l’article 100(1) ou FIA étranger classique au sens de l’article 100(2) | 3.000 euros |
+| OPCVM à compartiments multiples d’origine communautaire ou FIA étranger à compartiments multiples au sens de l’article 100(2) | 5.500 euros |
 
 B.2. Forfaits annuels.
 
-11) Un forfait annuel à charge de chaque OPCVM d’origine communautaire, à charge de chaque OPC étranger au sens de l’article 100(1) de la loi du 17 décembre 2010 ainsi qu’à charge de chaque FIA étranger au sens de l’article 100(2) de la loi précitée selon le tarif indiqué dans le tableau suivant : Forfait annuel OPCVM classique d’origine communautaire ou FIA étranger classique au sens de l’article 100(2) 3.000 euros OPCVM à compartiments multiples d’origine communautaire ou OPC étranger à compartiments multiples au sens de l’article 100(1) ou FIA étranger à compartiments multiples au sens de l’article 100(2) 5.500 euros OPC étranger classique au sens de l’article 100(1) 4.350 euros
+11) Un forfait annuel à charge de chaque OPCVM d’origine communautaire, à charge de chaque OPC étranger au sens de l’article 100(1) de la loi du 17 décembre 2010 ainsi qu’à charge de chaque FIA étranger au sens de l’article 100(2) de la loi précitée selon le tarif indiqué dans le tableau suivant :
+
+|  | Forfait annuel |
+| --- | --- |
+| OPCVM classique d’origine communautaire ou FIA étranger classique au sens de l’article 100(2) | 3.000 euros |
+| OPCVM à compartiments multiples d’origine communautaire ou OPC étranger à compartiments multiples au sens de l’article 100(1) ou FIA étranger à compartiments multiples au sens de l’article 100(2) | 5.500 euros |
+| OPC étranger classique au sens de l’article 100(1) | 4.350 euros |
 
 12) À charge des OPC du type fermé étrangers pour lesquels le Grand-Duché de Luxembourg est l’État membre d’origine, la taxe due en vertu du point XVI pour l’instruction de chaque demande d’agrément et d’approbation de leur prospectus ; cette taxe n’est pas due par les OPC du type fermé de droit luxembourgeois et par les SICAR de droit luxembourgeois.
 
@@ -140,7 +198,16 @@ V. Gestionnaires de fonds d’investissement (ci-après « GFI »).
 
 A. Taxes d’instruction.
 
-1) Un forfait unique pour l’instruction de chaque demande d’agrément d’un nouveau GFI en fonction du statut légal dont il relève et dont l’activité se limite à la gestion collective selon le tarif indiqué dans le tableau suivant : GFI autorisés par catégorie Taxe d’instruction Société de gestion relevant du chapitre 15 de la loi du 17 décembre 2010 18.000 euros Société de gestion relevant du chapitre 15 de la loi du 17 décembre 2010 et gestionnaire de FIA sur base du chapitre 2 de la loi du 12 juillet 2013, incluant une stratégie de base 18.000 euros Société de gestion relevant du chapitre 16 de la loi du 17 décembre 2010 (article 125-1 de la loi du 17 décembre 2010) 9.600 euros Société de gestion relevant du chapitre 16 de la loi du 17 décembre 2010 (article 125-2 de la loi du 17 décembre 2010), incluant une stratégie de base 18.000 euros Société de gestion relevant du chapitre 17 de la loi du 17 décembre 2010 9.600 euros Gestionnaire de FIA relevant du chapitre 2 de la loi du 12 juillet 2013, incluant une stratégie de base 18.000 euros
+1) Un forfait unique pour l’instruction de chaque demande d’agrément d’un nouveau GFI en fonction du statut légal dont il relève et dont l’activité se limite à la gestion collective selon le tarif indiqué dans le tableau suivant :
+
+| GFI autorisés par catégorie | Taxe d’instruction |
+| --- | --- |
+| Société de gestion relevant du chapitre 15 de la loi du 17 décembre 2010 | 18.000 euros |
+| Société de gestion relevant du chapitre 15 de la loi du 17 décembre 2010 et gestionnaire de FIA sur base du chapitre 2 de la loi du 12 juillet 2013, incluant une stratégie de base | 18.000 euros |
+| Société de gestion relevant du chapitre 16 de la loi du 17 décembre 2010 (article 125-1 de la loi du 17 décembre 2010) | 9.600 euros |
+| Société de gestion relevant du chapitre 16 de la loi du 17 décembre 2010 (article 125-2 de la loi du 17 décembre 2010), incluant une stratégie de base | 18.000 euros |
+| Société de gestion relevant du chapitre 17 de la loi du 17 décembre 2010 | 9.600 euros |
+| Gestionnaire de FIA relevant du chapitre 2 de la loi du 12 juillet 2013, incluant une stratégie de base | 18.000 euros |
 
 Pour les besoins des taxes mentionnées aux points A à C dans le présent point V., il faut entendre par « stratégie de base » ou « stratégie additionnelle » une des stratégies d’investissement mentionnées au point 9 « Type de FIA prédominant » sous la Section « Informations à fournir sur les FIA » de l’annexe IV du règlement délégué (UE) 231/2013 de la Commission du 19 décembre 2012 complétant la directive 2011/61/UE du Parlement européen et du Conseil en ce qui concerne les dérogations, les conditions générales d’exercice, les dépositaires, l’effet de levier, la transparence et la surveillance, à l’exception de la stratégie d’investissement « Autre » pour laquelle chacune des stratégies énumérée à la lettre e) « Autres stratégies » du point 10 « Détail des stratégies d’investissement » sera considérée comme une stratégie à part entière et la stratégie d’investissement « Néant » pour laquelle les stratégies d’investissement doivent être réparties parmi au minimum deux différentes catégories de types de FIA. Par conséquent, les taxes pour la stratégie d’investissement « Néant » varient en fonction du nombre de stratégies d’investissement couvertes sous cette catégorie (considérant un minimum de deux stratégies d’investissement) ;
 
@@ -160,11 +227,31 @@ B. Taxes de transformation.
 
 8) Toute transformation du statut légal d’un GFI existant est considérée comme une nouvelle instruction soumise au tarif indiqué dans le tableau au point 1) ci-dessus ;
 
-9) toute autre transformation relative à l’extension d’activité d’un GFI existant sera soumise au tarif indiqué dans le tableau suivant : Extension d’activité par catégorie Forfait unique Demande d’une stratégie d’investissement additionnelle 9.000 euros Demande d’agrément au titre de l’activité d’administration centrale et/ou agent teneur de registre et de transfert conformément à l’annexe II de la loi du 17 décembre 2010 et/ou conformément à l’annexe I de la loi du 12 juillet 2013 15.000 euros Demande d’agrément au titre d’un ou plusieurs service(s) MiFID tels que définis à l’article 101, paragraphe 3 de la loi du 17 décembre 2010 et/ou tels que définis à l’article 5, paragraphe 4 de la loi du 12 juillet 2013 15.000 euros
+9) toute autre transformation relative à l’extension d’activité d’un GFI existant sera soumise au tarif indiqué dans le tableau suivant :
+
+| Extension d’activité par catégorie | Forfait unique |
+| --- | --- |
+| Demande d’une stratégie d’investissement additionnelle | 9.000 euros |
+| Demande d’agrément au titre de l’activité d’administration centrale et/ou agent teneur de registre et de transfert conformément à l’annexe II de la loi du 17 décembre 2010 et/ou conformément à l’annexe I de la loi du 12 juillet 2013 | 15.000 euros |
+| Demande d’agrément au titre d’un ou plusieurs service(s) MiFID tels que définis à l’article 101, paragraphe 3 de la loi du 17 décembre 2010 et/ou tels que définis à l’article 5, paragraphe 4 de la loi du 12 juillet 2013 | 15.000 euros |
 
 C. Forfaits annuels.
 
-10) Un forfait annuel à charge de chaque GFI en fonction du statut légal dont il relève et dont l’activité est limitée à la gestion collective selon le tarif indiqué dans le tableau suivant : Forfait annuel a) GFI autorisés par catégorie Société de gestion relevant du chapitre 15 de la loi du 17 décembre 2010 sans enregistrement conformément à l’article 3(3) de la loi du 12 juillet 2013 42.000 euros Société de gestion relevant du chapitre 15 de la loi du 17 décembre 2010 et disposant en outre d’un agrément au titre de gestionnaire de FIA sur base du chapitre 2 de la loi du 12 juillet 2013, incluant une stratégie de base 42.000 euros Société de gestion relevant du chapitre 16 de la loi du 17 décembre 2010 (article 125-1 de la loi du 17 décembre 2010) sans enregistrement conformément à l’article 3(3) de la loi du 12 juillet 2013 18.000 euros Société de gestion relevant du chapitre 16 de la loi du 17 décembre 2010 (article 125-2 de la loi du 17 décembre 2010), incluant une stratégie de base 42.000 euros Société de gestion relevant du chapitre 17 de la loi du 17 décembre 2010 42.000 euros Gestionnaire de FIA relevant du chapitre 2 de la loi du 12 juillet 2013, incluant une stratégie de base 42.000 euros b) GFI enregistrés par catégorie Gestionnaire de FIA enregistré conformément à l’article 3(3) de la loi du 12 juillet 2013 10.000 euros Société de gestion relevant du chapitre 16 de la loi du 17 décembre 2010 (article 125-1 de la loi du 17 décembre 2010) et enregistrée conformément à l'article 3(3) de la loi du 12 juillet 2013 20.500 euros Société de gestion relevant du chapitre 15 de la loi du 17 décembre 2010 et enregistrée conformément à l’article 3(3) de la loi du 12 juillet 2013 44.500 euros
+10) Un forfait annuel à charge de chaque GFI en fonction du statut légal dont il relève et dont l’activité est limitée à la gestion collective selon le tarif indiqué dans le tableau suivant :
+
+|  | Forfait annuel |
+| --- | --- |
+| a) GFI autorisés par catégorie |  |
+| Société de gestion relevant du chapitre 15 de la loi du 17 décembre 2010 sans enregistrement conformément à l’article 3(3) de la loi du 12 juillet 2013 | 42.000 euros |
+| Société de gestion relevant du chapitre 15 de la loi du 17 décembre 2010 et disposant en outre d’un agrément au titre de gestionnaire de FIA sur base du chapitre 2 de la loi du 12 juillet 2013, incluant une stratégie de base | 42.000 euros |
+| Société de gestion relevant du chapitre 16 de la loi du 17 décembre 2010 (article 125-1 de la loi du 17 décembre 2010) sans enregistrement conformément à l’article 3(3) de la loi du 12 juillet 2013 | 18.000 euros |
+| Société de gestion relevant du chapitre 16 de la loi du 17 décembre 2010 (article 125-2 de la loi du 17 décembre 2010), incluant une stratégie de base | 42.000 euros |
+| Société de gestion relevant du chapitre 17 de la loi du 17 décembre 2010 | 42.000 euros |
+| Gestionnaire de FIA relevant du chapitre 2 de la loi du 12 juillet 2013, incluant une stratégie de base | 42.000 euros |
+| b) GFI enregistrés par catégorie |  |
+| Gestionnaire de FIA enregistré conformément à l’article 3(3) de la loi du 12 juillet 2013 | 10.000 euros |
+| Société de gestion relevant du chapitre 16 de la loi du 17 décembre 2010 (article 125-1 de la loi du 17 décembre 2010) et enregistrée conformément à l'article 3(3) de la loi du 12 juillet 2013 | 20.500 euros |
+| Société de gestion relevant du chapitre 15 de la loi du 17 décembre 2010 et enregistrée conformément à l’article 3(3) de la loi du 12 juillet 2013 | 44.500 euros |
 
 11) un forfait annuel supplémentaire de 3.000 euros à charge de chaque gestionnaire de FIA relevant de la loi du 12 juillet 2013 pour chaque stratégie d’investissement supplémentaire excédant une stratégie de base ;
 
@@ -222,7 +309,19 @@ VII. Entreprises d’investissement.
 
 1) Un forfait unique de 50.000 euros pour l’instruction de chaque demande d’agrément d’une nouvelle entreprise d’investissement au sens de l’article 1.9 de la loi modifiée du 5 avril 1993 relative au secteur financier visée au présent point VII ; cette taxe est de 15.000 euros dans le cas de l’instruction d’une demande d’extension d’agrément d’une entreprise d’investissement existante qui entraîne l’adjonction d’un ou de plusieurs services et activités d’investissement et/ou statuts supplémentaires ;
 
-2) un forfait annuel à charge de chaque entreprise d’investissement de droit luxembourgeois et de chaque succursale établie au Luxembourg par une entreprise d’investissement ne relevant pas du droit d’un État membre de l’Espace économique européen, déterminé (i) en fonction du service ou activité d’investissement tel que défini dans la loi modifiée du 5 avril 1993 relative au secteur financier pour lequel elle est agréée et (ii) en fonction de sa classification selon la réglementation IFR/IFD (règlement (UE) 2019/2033 du Parlement européen et du Conseil du 27 novembre 2019 concernant les exigences prudentielles applicables aux entreprises d’investissement et modifiant les règlements (UE) n° 1093/2010, (UE) n° 575/2013, (UE) n° 600/2014 et (UE) n° 806/2014 (« IFR ») et loi du 21 juillet 2021 transposant entre autres la directive (UE) 2019/2034 du Parlement européen et du Conseil du 27 novembre 2019 concernant la surveillance prudentielle des entreprises d’investissement et modifiant les directives 2002/87/CE , 2009/65/CE , 2011/61/UE , 2013/36/UE, 2014/59/UE et 2014/65/UE (« IFD »)) : Services et activités d’investissement Article correspondant de la loi modifiée du 5 avril 1993 relative au secteur financier Forfait annuel Classe 2 Forfait annuel Classe 3 Réception et transmission d’ordres portant sur un ou plusieurs instruments financiers Article 24-1 37.125 euros 24.750 euros Exécution d’ordres pour le compte de clients Article 24-2 41.250 euros 27.500 euros Négociation pour compte propre Article 24-3 123.750 euros N/A Gestion de portefeuille Article 24-4 66.000 euros 44.000 euros Conseil en investissement Article 24-5 24.750 euros 16.500 euros Prise ferme d’instruments financiers et/ou placement d’instruments financiers avec engagement ferme Article 24-6 123.750 euros N/A Placement d’instruments financiers sans engagement ferme Article 24-7 115.500 euros 77.000 euros Exploitation d’un système multilatéral de négociation (MTF) Article 24-8 74.250 euros N/A Exploitation d’un système organisé de négociation (OTF) Article 24-9 74.250 euros N/A
+2) un forfait annuel à charge de chaque entreprise d’investissement de droit luxembourgeois et de chaque succursale établie au Luxembourg par une entreprise d’investissement ne relevant pas du droit d’un État membre de l’Espace économique européen, déterminé (i) en fonction du service ou activité d’investissement tel que défini dans la loi modifiée du 5 avril 1993 relative au secteur financier pour lequel elle est agréée et (ii) en fonction de sa classification selon la réglementation IFR/IFD (règlement (UE) 2019/2033 du Parlement européen et du Conseil du 27 novembre 2019 concernant les exigences prudentielles applicables aux entreprises d’investissement et modifiant les règlements (UE) n° 1093/2010, (UE) n° 575/2013, (UE) n° 600/2014 et (UE) n° 806/2014 (« IFR ») et loi du 21 juillet 2021 transposant entre autres la directive (UE) 2019/2034 du Parlement européen et du Conseil du 27 novembre 2019 concernant la surveillance prudentielle des entreprises d’investissement et modifiant les directives 2002/87/CE , 2009/65/CE , 2011/61/UE , 2013/36/UE, 2014/59/UE et 2014/65/UE (« IFD »)) :
+
+| Services et activités d’investissement | Article correspondant de la loi modifiée du 5 avril 1993 relative au secteur financier | Forfait annuel Classe 2 | Forfait annuel Classe 3 |
+| --- | --- | --- | --- |
+| Réception et transmission d’ordres portant sur un ou plusieurs instruments financiers | Article 24-1 | 37.125 euros | 24.750 euros |
+| Exécution d’ordres pour le compte de clients | Article 24-2 | 41.250 euros | 27.500 euros |
+| Négociation pour compte propre | Article 24-3 | 123.750 euros | N/A |
+| Gestion de portefeuille | Article 24-4 | 66.000 euros | 44.000 euros |
+| Conseil en investissement | Article 24-5 | 24.750 euros | 16.500 euros |
+| Prise ferme d’instruments financiers et/ou placement d’instruments financiers avec engagement ferme | Article 24-6 | 123.750 euros | N/A |
+| Placement d’instruments financiers sans engagement ferme | Article 24-7 | 115.500 euros | 77.000 euros |
+| Exploitation d’un système multilatéral de négociation (MTF) | Article 24-8 | 74.250 euros | N/A |
+| Exploitation d’un système organisé de négociation (OTF) | Article 24-9 | 74.250 euros | N/A |
 
 Pour les besoins du présent point, on entend par entreprise d’investissement dite « classe 2 » (« EI classe 2 ») les « entreprises d’investissement CRR » au sens de l’article 1, point 9bis de la loi modifiée du 5 avril 1993 relative au secteur financier et les « entreprises d’investissement IFR » au sens de l’article 1, point 9bis-1 de la même loi, et par entreprise d’investissement dite « classe 3 » (« EI classe 3 ») les entreprises d’investissement petites et non interconnectées conformément à l’article 12 de l’IFR.
 
@@ -238,7 +337,19 @@ Dans le cas où l’agrément d’une entreprise d’investissement couvre plusi
 
 7) un forfait de 10.000 euros pour chaque contrôle sur place effectué portant sur un sujet déterminé ;
 
-8) en vertu de l’article 24, paragraphe 1er, alinéa 8 de la loi modifiée du 23 décembre 1998 portant création d’une commission de surveillance du secteur financier, un forfait annuel à charge de chaque entreprise d’investissement qui est couverte par le Système d’indemnisation des investisseurs Luxembourg, en fonction de ses services et activités d’investissement tels que définis dans la loi modifiée du 5 avril 1993 relative au secteur financier : Services et activités d’investissement Article correspondant de la loi modifiée du 5 avril 1993 relative au secteur financier Forfait annuel Réception et transmission d’ordres portant sur un ou plusieurs instruments financiers Article 24-1 1.400 euros Exécution d’ordres pour le compte de clients Article 24-2 2.400 euros Négociation pour compte propre Article 24-3 4.900 euros Gestion de portefeuille Article 24-4 4.300 euros Conseil en investissement Article 24-5 1.400 euros Prise ferme d’instruments financiers et/ou placement d’instruments financiers avec engagement ferme Article 24-6 4.900 euros Placement d’instruments financiers sans engagement ferme Article 24-7 2.400 euros Exploitation d’un système multilatéral de négociation (MTF) Article 24-8 4.900 euros Exploitation d’un système organisé de négociation (OTF) Article 24-9 4.900 euros
+8) en vertu de l’article 24, paragraphe 1er, alinéa 8 de la loi modifiée du 23 décembre 1998 portant création d’une commission de surveillance du secteur financier, un forfait annuel à charge de chaque entreprise d’investissement qui est couverte par le Système d’indemnisation des investisseurs Luxembourg, en fonction de ses services et activités d’investissement tels que définis dans la loi modifiée du 5 avril 1993 relative au secteur financier :
+
+| Services et activités d’investissement | Article correspondant de la loi modifiée du 5 avril 1993 relative au secteur financier | Forfait annuel |
+| --- | --- | --- |
+| Réception et transmission d’ordres portant sur un ou plusieurs instruments financiers | Article 24-1 | 1.400 euros |
+| Exécution d’ordres pour le compte de clients | Article 24-2 | 2.400 euros |
+| Négociation pour compte propre | Article 24-3 | 4.900 euros |
+| Gestion de portefeuille | Article 24-4 | 4.300 euros |
+| Conseil en investissement | Article 24-5 | 1.400 euros |
+| Prise ferme d’instruments financiers et/ou placement d’instruments financiers avec engagement ferme | Article 24-6 | 4.900 euros |
+| Placement d’instruments financiers sans engagement ferme | Article 24-7 | 2.400 euros |
+| Exploitation d’un système multilatéral de négociation (MTF) | Article 24-8 | 4.900 euros |
+| Exploitation d’un système organisé de négociation (OTF) | Article 24-9 | 4.900 euros |
 
 Dans le cas où l’agrément d’une entreprise d’investissement couvre plusieurs services et activités d’investissement, le forfait annuel dû au titre du point 8) correspond à celui du service ou activité d’investissement au montant le plus élevé ;
 
@@ -246,13 +357,47 @@ Un forfait annuel supplémentaire de 1.800 euros est à charge de chaque entrepr
 
 9) un forfait annuel supplémentaire à charge de chaque entreprise d’investissement ayant été soumise à l’obligation de déclaration des transactions sur instruments financiers en application de l’article 26 du règlement (UE) n° 600/2014 du Parlement européen et du Conseil du 15 mai 2014 concernant les marchés d’instruments financiers pendant l’année précédente. Ce forfait se compose d’un montant fixe de 2.000 euros et d’un montant variable de 20.000 euros maximum calculé sur base du nombre total des déclarations de transactions sur instruments financiers transmises à la CSSF pendant l’année précédente. Pour les besoins du présent article, sont considérées comme déclarations de transactions sur instruments financiers les nouvelles déclarations, ainsi que les annulations et corrections de déclarations, sans opérer de distinction entre les déclarations qui ont été acceptées et celles qui ont été refusées par la CSSF.
 
-La partie variable de la taxe est calculée comme suit : Nombre de déclarations de transactions Taxe en euros par déclaration Inférieur ou égal à 10.000 0,0000 euros Supérieur à 10.000 et inférieur ou égal à 50.000 0,0225 euros Supérieur à 50.000 et inférieur ou égal à 100.000 0,0175 euros Supérieur à 100.000 et inférieur ou égal à 250.000 0,0125 euros Supérieur à 250.000 et inférieur ou égal à 500.000 0,0100 euros Supérieur à 500.000 et inférieur ou égal à 1.000.000 0,0075 euros Supérieur à 1.000.000 0,0050 euros
+La partie variable de la taxe est calculée comme suit :
+
+| Nombre de déclarations de transactions | Taxe en euros par déclaration |
+| --- | --- |
+| Inférieur ou égal à 10.000 | 0,0000 euros |
+| Supérieur à 10.000 et inférieur ou égal à 50.000 | 0,0225 euros |
+| Supérieur à 50.000 et inférieur ou égal à 100.000 | 0,0175 euros |
+| Supérieur à 100.000 et inférieur ou égal à 250.000 | 0,0125 euros |
+| Supérieur à 250.000 et inférieur ou égal à 500.000 | 0,0100 euros |
+| Supérieur à 500.000 et inférieur ou égal à 1.000.000 | 0,0075 euros |
+| Supérieur à 1.000.000 | 0,0050 euros |
 
 VIII. PSF spécialisés, PSF de support et services financiers postaux.
 
 1) Un forfait unique de 30.000 euros pour l’instruction de chaque demande d’agrément d’un nouveau PSF spécialisé ou PSF de support visé au présent point VIII ; cette taxe est de 12.500 euros dans le cas de l’instruction d’une demande d’extension d’agrément d’un PSF spécialisé ou PSF de support existant qui entraîne l’adjonction d’un ou de plusieurs statuts supplémentaires ;
 
-2) un forfait annuel à charge de chaque PSF spécialisé et PSF de support en fonction du statut de PSF tel que défini dans la loi modifiée du 5 avril 1993 relative au secteur financier : Statuts Article correspondant de la loi modifiée du 5 avril 1993 relative au secteur financier Forfait annuel a) PSF spécialisés Agents teneurs de registre Article 25 45.000 euros Dépositaires professionnels d’instruments financiers Article 26 90.000 euros Dépositaires professionnels d’actifs autres que des instruments financiers Article 26-1 90.000 euros Opérateurs d’un marché réglementé agréé au Luxembourg Article 27 55.000 euros Recouvrement de créances Article 28-3 25.000 euros Professionnels effectuant des opérations de prêt Article 28-4 90.000 euros Professionnels effectuant du prêt de titres Article 28-5 90.000 euros Family Offices Article 28-6 25.000 euros Administrateurs de fonds communs d’épargne Article 28-7 25.000 euros Domiciliataires de sociétés Article 28-9 40.000 euros Professionnels effectuant des services de constitution et de gestion de sociétés Article 28-10 25.000 euros b) PSF de support Agents de communication à la clientèle Article 29-1 25.000 euros Agents administratifs du secteur financier Article 29-2 35.000 euros Opérateurs de systèmes informatiques et de réseaux de communication du secteur financier Article 29-3 35.000 euros Prestataires de services de dématérialisation du secteur financier Article 29-5 25.000 euros Prestataires de services de conservation du secteur financier Article 29-6 35.000 euros c) APA et ARM faisant l’objet d’une dérogation Dispositifs de publication agréés (APA) Article 29-7 50.000 euros Mécanismes de déclaration agréés (ARM) Article 29-7 50.000 euros
+2) un forfait annuel à charge de chaque PSF spécialisé et PSF de support en fonction du statut de PSF tel que défini dans la loi modifiée du 5 avril 1993 relative au secteur financier :
+
+| Statuts | Article correspondant de la loi modifiée du 5 avril 1993 relative au secteur financier | Forfait annuel |
+| --- | --- | --- |
+| a) PSF spécialisés |  |  |
+| Agents teneurs de registre | Article 25 | 45.000 euros |
+| Dépositaires professionnels d’instruments financiers | Article 26 | 90.000 euros |
+| Dépositaires professionnels d’actifs autres que des instruments financiers | Article 26-1 | 90.000 euros |
+| Opérateurs d’un marché réglementé agréé au Luxembourg | Article 27 | 55.000 euros |
+| Recouvrement de créances | Article 28-3 | 25.000 euros |
+| Professionnels effectuant des opérations de prêt | Article 28-4 | 90.000 euros |
+| Professionnels effectuant du prêt de titres | Article 28-5 | 90.000 euros |
+| Family Offices | Article 28-6 | 25.000 euros |
+| Administrateurs de fonds communs d’épargne | Article 28-7 | 25.000 euros |
+| Domiciliataires de sociétés | Article 28-9 | 40.000 euros |
+| Professionnels effectuant des services de constitution et de gestion de sociétés | Article 28-10 | 25.000 euros |
+| b) PSF de support |  |  |
+| Agents de communication à la clientèle | Article 29-1 | 25.000 euros |
+| Agents administratifs du secteur financier | Article 29-2 | 35.000 euros |
+| Opérateurs de systèmes informatiques et de réseaux de communication du secteur financier | Article 29-3 | 35.000 euros |
+| Prestataires de services de dématérialisation du secteur financier | Article 29-5 | 25.000 euros |
+| Prestataires de services de conservation du secteur financier | Article 29-6 | 35.000 euros |
+| c) APA et ARM faisant l’objet d’une dérogation |  |  |
+| Dispositifs de publication agréés (APA) | Article 29-7 | 50.000 euros |
+| Mécanismes de déclaration agréés (ARM) | Article 29-7 | 50.000 euros |
 
 Dans le cas où l’agrément d’un PSF repris au tableau du point 2) ci-dessus couvre plusieurs statuts, le forfait annuel dû correspond à celui du statut au montant le plus élevé ;
 
@@ -268,7 +413,15 @@ Dans le cas où l’agrément d’un PSF repris au tableau du point 2) ci-dessus
 
 8) un forfait annuel de 25.000 euros à charge de toute personne physique établie à titre professionnel au Luxembourg ainsi qu’à toute personne morale de droit luxembourgeois dont l’occupation ou l’activité habituelle consiste à exercer à titre professionnel une activité tombant dans les dispositions générales de l’article 13 de la loi modifiée du 5 avril 1993 relative au secteur financier ;
 
-9) en vertu de l’article 24, paragraphe 1er, alinéa 8, de la loi modifiée du 23 décembre 1998 portant création d’une commission de surveillance du secteur financier, à charge du professionnel pouvant exercer toutes les activités permises par l’article 1er de la loi modifiée du 15 décembre 2000 sur les services financiers postaux, un forfait annuel déterminé en fonction du montant de dépôts garantis tels que définis à l’article 163, point 8, de la loi modifiée du 18 décembre 2015 relative à la défaillance des établissements de crédit et de certaines entreprises d’investissement, au 31 décembre de l’année précédente : Montant de dépôts garantis (en euros) Forfait annuel Égal à 0 4.000 euros Supérieur à 0 et inférieur ou égal à 10 mio 6.400 euros Supérieur à 10 mio et inférieur ou égal à 100 mio 12.900 euros Supérieur à 100 mio et inférieur ou égal à 700 mio 26.000 euros Supérieur à 700 mio 35.000 euros
+9) en vertu de l’article 24, paragraphe 1er, alinéa 8, de la loi modifiée du 23 décembre 1998 portant création d’une commission de surveillance du secteur financier, à charge du professionnel pouvant exercer toutes les activités permises par l’article 1er de la loi modifiée du 15 décembre 2000 sur les services financiers postaux, un forfait annuel déterminé en fonction du montant de dépôts garantis tels que définis à l’article 163, point 8, de la loi modifiée du 18 décembre 2015 relative à la défaillance des établissements de crédit et de certaines entreprises d’investissement, au 31 décembre de l’année précédente :
+
+| Montant de dépôts garantis (en euros) | Forfait annuel |
+| --- | --- |
+| Égal à 0 | 4.000 euros |
+| Supérieur à 0 et inférieur ou égal à 10 mio | 6.400 euros |
+| Supérieur à 10 mio et inférieur ou égal à 100 mio | 12.900 euros |
+| Supérieur à 100 mio et inférieur ou égal à 700 mio | 26.000 euros |
+| Supérieur à 700 mio | 35.000 euros |
 
 IX. Intermédiaires de crédit immobilier.
 
@@ -290,7 +443,12 @@ X. Établissements de paiement.
 
 1) Un forfait unique de 30.000 euros pour l’instruction de chaque demande d’agrément d’un nouvel établissement de paiement ; cette taxe est de 8.000 euros dans le cas de l’instruction d’une demande d’extension à des services de paiement supplémentaires de l’agrément d’un établissement de paiement existant ;
 
-2) un forfait annuel à charge de chaque établissement de paiement de droit luxembourgeois et de chaque succursale établie au Luxembourg par un établissement de paiement ne relevant pas du droit d’un État membre de l’Espace économique européen, en fonction du volume d’opérations de paiement de l’année précédente : Volume d’opérations de paiement de l’année précédente (en euros) Forfait annuel Inférieur ou égal à 1.000 mio 30.000 euros Supérieur à 1.000 mio 40.000 euros
+2) un forfait annuel à charge de chaque établissement de paiement de droit luxembourgeois et de chaque succursale établie au Luxembourg par un établissement de paiement ne relevant pas du droit d’un État membre de l’Espace économique européen, en fonction du volume d’opérations de paiement de l’année précédente :
+
+| Volume d’opérations de paiement de l’année précédente (en euros) | Forfait annuel |
+| --- | --- |
+| Inférieur ou égal à 1.000 mio | 30.000 euros |
+| Supérieur à 1.000 mio | 40.000 euros |
 
 Pour les établissements de paiement qui sont agréés depuis un maximum de trois années au 31 décembre de l’année précédente et dont le volume d’opérations de paiement n’excède pas 1.000 mio euros, le forfait annuel est réduit à 25.000 euros ;
 
@@ -314,7 +472,12 @@ XII. Établissements de monnaie électronique.
 
 1) Un forfait unique de 30.000 euros pour l’instruction de chaque demande d’agrément d’un nouvel établissement de monnaie électronique ; cette taxe est de 6.000 euros dans le cas d’une demande d’extension à des services de paiement supplémentaires de l’agrément d’un établissement de monnaie électronique existant ;
 
-2) un forfait annuel à charge de chaque établissement de monnaie électronique de droit luxembourgeois et de chaque succursale établie au Luxembourg par un établissement de monnaie électronique ne relevant pas du droit d’un État membre de l’Espace économique européen, en fonction du volume cumulé d’opérations de paiement et de monnaie électronique de l’année précédente : Volume d’opérations de paiement et de monnaie électronique de l’année précédente (en euros) Forfait annuel Inférieur ou égal à 1.000 mio 30.000 euros Supérieur à 1.000 mio 40.000 euros
+2) un forfait annuel à charge de chaque établissement de monnaie électronique de droit luxembourgeois et de chaque succursale établie au Luxembourg par un établissement de monnaie électronique ne relevant pas du droit d’un État membre de l’Espace économique européen, en fonction du volume cumulé d’opérations de paiement et de monnaie électronique de l’année précédente :
+
+| Volume d’opérations de paiement et de monnaie électronique de l’année précédente (en euros) | Forfait annuel |
+| --- | --- |
+| Inférieur ou égal à 1.000 mio | 30.000 euros |
+| Supérieur à 1.000 mio | 40.000 euros |
 
 Pour les établissements de monnaie électronique qui sont agréés depuis un maximum de trois années au 31 décembre de l’année précédente et dont le volume d’opérations de paiement et de monnaie électronique n’excède pas 1.000 mio euros, le forfait annuel est réduit à 25.000 euros ;
 
@@ -342,7 +505,16 @@ XV. Organismes de titrisation agréés et représentants-fiduciaires intervenant
 
 1) Un forfait unique de 5.775 euros pour l’instruction de chaque demande d’agrément d’un organisme de titrisation ; cette taxe est de 9.250 euros à charge de chaque organisme de titrisation à compartiments multiples ;
 
-2) un forfait annuel à charge de chaque organisme de titrisation agréé par la CSSF selon le tarif indiqué dans le tableau suivant : Forfait annuel Organismes de titrisation classiques 8.660 euros Organismes de titrisation à compartiments multiples 1 à 5 compartiments 9.250 euros 6 à 20 compartiments 17.500 euros 21 à 50 compartiments 27.750 euros plus de 50 compartiments 40.500 euros
+2) un forfait annuel à charge de chaque organisme de titrisation agréé par la CSSF selon le tarif indiqué dans le tableau suivant :
+
+|  | Forfait annuel |
+| --- | --- |
+| Organismes de titrisation classiques | 8.660 euros |
+| Organismes de titrisation à compartiments multiples |  |
+| 1 à 5 compartiments | 9.250 euros |
+| 6 à 20 compartiments | 17.500 euros |
+| 21 à 50 compartiments | 27.750 euros |
+| plus de 50 compartiments | 40.500 euros |
 
 Les organismes de titrisation agréés par la CSSF comme structures à compartiments multiples et qui ne disposent pas de compartiments en activité sont soumis au forfait annuel de 9.250 euros repris dans le tableau ci-dessus ;
 
@@ -360,7 +532,20 @@ XVI. Personnes sollicitant l’admission à la négociation sur un marché régl
 
 1) Lors du dépôt officiel d’un document relatif à une offre au public ou à une admission sur un marché réglementé en vue de son approbation par la CSSF conformément au règlement (UE) 2017/1129, une taxe, telle que détaillée dans le tableau ci-dessous, est due pour :
 
-Prospectus 0,11 pour cent de la valeur en euro du montant total offert au public ou du montant total pour lequel l’admission à la négociation sur un marché réglementé est sollicitée. Ce pourcentage sera appliqué sur le montant le plus élevé des deux montants susmentionnés, avec toutefois une taxe forfaitaire minimale de 24.750 euros et une taxe forfaitaire maximale de 220.000 euros Document d’enregistrement 13.750 euros Document d’enregistrement universel 13.750 euros Note relative aux valeurs mobilières 0,11 pour cent de la valeur en euro du montant total offert au public ou du montant total pour lequel l’admission à la négociation sur un marché réglementé est sollicitée. Ce pourcentage sera appliqué sur le montant le plus élevé des deux montants susmentionnés, avec toutefois une taxe forfaitaire minimale de 11.000 euros et une taxe forfaitaire maximale de 206.250 euros Supplément 1.650 euros
+1. des actions et des valeurs mobilières assimilables aux actions,
+
+2. les valeurs mobilières visées aux articles 19, paragraphe 2, et 20, paragraphe 2 du règlement délégué (UE) 2019/980 de la Commission du 14 mars 2019 complétant le règlement (UE) 2017/1129 du Parlement européen et du Conseil en ce qui concerne la forme, le contenu, l’examen et l’approbation du prospectus à publier en cas d’offre au public de valeurs mobilières ou en vue de l’admission de valeurs mobilières à la négociation sur un marché réglementé, et abrogeant le règlement (CE) n° 809/2004 de la Commission (ci-après « règlement délégué (UE) 2019/980 »),
+
+3. des certificats représentatifs d’actions, et
+
+4. des parts d’organismes de placement collectif du type fermé.
+
+| Prospectus | 0,11 pour cent de la valeur en euro du montant total offert au public ou du montant total pour lequel l’admission à la négociation sur un marché réglementé est sollicitée. Ce pourcentage sera appliqué sur le montant le plus élevé des deux montants susmentionnés, avec toutefois une taxe forfaitaire minimale de 24.750 euros et une taxe forfaitaire maximale de 220.000 euros |
+| --- | --- |
+| Document d’enregistrement | 13.750 euros |
+| Document d’enregistrement universel | 13.750 euros |
+| Note relative aux valeurs mobilières | 0,11 pour cent de la valeur en euro du montant total offert au public ou du montant total pour lequel l’admission à la négociation sur un marché réglementé est sollicitée. Ce pourcentage sera appliqué sur le montant le plus élevé des deux montants susmentionnés, avec toutefois une taxe forfaitaire minimale de 11.000 euros et une taxe forfaitaire maximale de 206.250 euros |
+| Supplément | 1.650 euros |
 
 Un document d’enregistrement universel qui a été déposé auprès de la CSSF sans approbation préalable en vertu de l’article 9, paragraphe 2, alinéa 2, du règlement (UE) 2017/1129 est considéré comme étant officiellement déposé en vue de son approbation, tel que visé à l’alinéa 1er, au moment où il est utilisé en tant que partie constitutive d’un prospectus soumis à l’approbation de la CSSF conformément à l’article 10, paragraphe 3, alinéa 3, du règlement (UE) 2017/1129.
 
@@ -368,19 +553,50 @@ Si, au moment du dépôt officiel du prospectus, le montant servant de base de c
 
 Si, au moment du dépôt officiel de la note relative aux valeurs mobilières, le montant servant de base de calcul n’est pas connu, une taxe forfaitaire de 11.000 euros sera appliquée et, le cas échéant, un complément de taxe sera exigé lors de la détermination définitive du montant en question par rapport à la différence entre le montant total de la taxe applicable conformément au tableau ci-dessus et la taxe forfaitaire de 11.000 euros.
 
-2) Lors du dépôt officiel d’un document relatif à une offre au public ou à une admission sur un marché réglementé par rapport à toutes valeurs mobilières autres que celles mentionnées au point 1) ci-avant en vue de son approbation par la CSSF conformément au règlement (UE) 2017/1129, une taxe, telle que détaillée dans le tableau ci-dessous, est due. Prospectus 5.720 euros Prospectus de base 8.910 euros Document d’enregistrement 2.750 euros Note relative aux valeurs mobilières 2.970 euros Note relative aux valeurs mobilières en tant que partie constitutive d’un prospectus de base 6.160 euros Résumé 1.100 euros Résumé en vertu de l’article 26, paragraphe 4, alinéa 3, du règlement (UE) 2017/1129 850 euros Supplément 1.650 euros Prospectus standardisé 3.025 euros
+2) Lors du dépôt officiel d’un document relatif à une offre au public ou à une admission sur un marché réglementé par rapport à toutes valeurs mobilières autres que celles mentionnées au point 1) ci-avant en vue de son approbation par la CSSF conformément au règlement (UE) 2017/1129, une taxe, telle que détaillée dans le tableau ci-dessous, est due.
+
+| Prospectus | 5.720 euros |
+| --- | --- |
+| Prospectus de base | 8.910 euros |
+| Document d’enregistrement | 2.750 euros |
+| Note relative aux valeurs mobilières | 2.970 euros |
+| Note relative aux valeurs mobilières en tant que partie constitutive d’un prospectus de base | 6.160 euros |
+| Résumé | 1.100 euros |
+| Résumé en vertu de l’article 26, paragraphe 4, alinéa 3, du règlement (UE) 2017/1129 | 850 euros |
+| Supplément | 1.650 euros |
+| Prospectus standardisé | 3.025 euros |
 
 Pour être qualifié de « Prospectus standardisé », un prospectus doit faire partie d’une série de prospectus qu’un émetteur soumet de manière répétitive à la CSSF et ne doit pas comporter de modifications substantielles par rapport aux prospectus de cette même série, approuvés préalablement par la CSSF. Un Prospectus de base ne peut pas être qualifié de « Prospectus standardisé ».
 
 Par dérogation à l’alinéa 1er, lorsque plusieurs suppléments d’un même émetteur ou de plusieurs émetteurs appartenant au même groupe sont officiellement déposés le même jour en vue de leur approbation par la CSSF conformément au règlement (UE) 2017/1129 et que ces suppléments sont substantiellement identiques, quant au fond et à la forme, une taxe de 715 euros est due lors du dépôt officiel de tout supplément qui suit celui du premier supplément.
 
-3) Une majoration des taxes prévues au point 2) ci-avant est due dans les cas suivants : Par rapport à chaque émetteur supplémentaire décrit dans un Prospectus, Prospectus de base ou Document d’enregistrement 2.750 euros Par rapport à chaque garant, tel que défini à l’Annexe 21, section 1, du règlement délégué (UE) 2019/980, décrit dans un Prospectus ou un Prospectus de base pourvu qu’il n’y figure pas déjà en tant qu’émetteur ou dans une Note relative aux valeurs mobilières pourvu qu’il ne figure pas déjà en tant qu’émetteur dans un Document d’enregistrement ou Document d’enregistrement universel 2.750 euros Par rapport à un résumé figurant dans un Prospectus ou un Prospectus de base 1.100 euros Par rapport à un Prospectus, un Prospectus de base ou une Note relative aux valeurs mobilières portant sur des titres adossés à des actifs tels que définis à l’article 1er, lettre a), du règlement délégué (UE) 2019/980 3.850 euros
+3) Une majoration des taxes prévues au point 2) ci-avant est due dans les cas suivants :
+
+| Par rapport à chaque émetteur supplémentaire décrit dans un Prospectus, Prospectus de base ou Document d’enregistrement | 2.750 euros |
+| --- | --- |
+| Par rapport à chaque garant, tel que défini à l’Annexe 21, section 1, du règlement délégué (UE) 2019/980, décrit dans un Prospectus ou un Prospectus de base pourvu qu’il n’y figure pas déjà en tant qu’émetteur ou dans une Note relative aux valeurs mobilières pourvu qu’il ne figure pas déjà en tant qu’émetteur dans un Document d’enregistrement ou Document d’enregistrement universel | 2.750 euros |
+| Par rapport à un résumé figurant dans un Prospectus ou un Prospectus de base | 1.100 euros |
+| Par rapport à un Prospectus, un Prospectus de base ou une Note relative aux valeurs mobilières portant sur des titres adossés à des actifs tels que définis à l’article 1er, lettre a), du règlement délégué (UE) 2019/980 | 3.850 euros |
 
 4) La taxe maximale pouvant être prélevée au titre des points 2) et 3) ci-avant ne pourra pas dépasser 22.000 euros.
 
-5) a) Lors du dépôt officiel d’un document établi par un émetteur supranational ou relatif à des valeurs mobilières inconditionnellement et irrévocablement garanties par un État membre ou par l’une des autorités régionales ou locales d’un État membre dans le cadre d’une offre au public en vue de son approbation conformément au chapitre 1 de la partie III de la loi du 16 juillet 2019 relative aux prospectus pour valeurs mobilières, une taxe, telle que détaillée dans le tableau ci-dessous, est due : Prospectus allégé 1.650 euros Prospectus de base allégé 1.650 euros Document d’enregistrement allégé 1.650 euros Note relative aux valeurs mobilières allégée 1.650 euros Supplément 1.650 euros
+5) a) Lors du dépôt officiel d’un document établi par un émetteur supranational ou relatif à des valeurs mobilières inconditionnellement et irrévocablement garanties par un État membre ou par l’une des autorités régionales ou locales d’un État membre dans le cadre d’une offre au public en vue de son approbation conformément au chapitre 1 de la partie III de la loi du 16 juillet 2019 relative aux prospectus pour valeurs mobilières, une taxe, telle que détaillée dans le tableau ci-dessous, est due :
 
-b) Lors du dépôt officiel d’un document établi par un émetteur ou relatif à des valeurs mobilières non visés au point 5) a) ci-avant dans le cadre d’une offre au public en vue de son approbation conformément au chapitre 1 de la partie III de la loi du 16 juillet 2019 relative aux prospectus pour valeurs mobilières, une taxe, telle que détaillée dans le tableau ci-dessous, est due : Prospectus allégé 2.750 euros Prospectus de base allégé 2.750 euros Document d’enregistrement allégé 2.750 euros Note relative aux valeurs mobilières allégée 1.650 euros Supplément 1.650 euros
+| Prospectus allégé | 1.650 euros |
+| --- | --- |
+| Prospectus de base allégé | 1.650 euros |
+| Document d’enregistrement allégé | 1.650 euros |
+| Note relative aux valeurs mobilières allégée | 1.650 euros |
+| Supplément | 1.650 euros |
+
+b) Lors du dépôt officiel d’un document établi par un émetteur ou relatif à des valeurs mobilières non visés au point 5) a) ci-avant dans le cadre d’une offre au public en vue de son approbation conformément au chapitre 1 de la partie III de la loi du 16 juillet 2019 relative aux prospectus pour valeurs mobilières, une taxe, telle que détaillée dans le tableau ci-dessous, est due :
+
+| Prospectus allégé | 2.750 euros |
+| --- | --- |
+| Prospectus de base allégé | 2.750 euros |
+| Document d’enregistrement allégé | 2.750 euros |
+| Note relative aux valeurs mobilières allégée | 1.650 euros |
+| Supplément | 1.650 euros |
 
 XVII. Personnes physiques ou morales, de droit public ou privé qui font une offre publique d’acquisition ou offre tombant dans le champ d’application de la loi modifiée du 19 mai 2006 portant transposition de la directive 2004/25/CE du Parlement européen et du Conseil du 21 avril 2004 concernant les offres publiques d’acquisition au cas où la CSSF est l’autorité compétente pour le contrôle de l’offre.
 
@@ -392,7 +608,18 @@ XVIII. Émetteurs dont le Luxembourg est l’État membre d’origine en vertu d
 
 1) Un forfait annuel se composant d’un montant fixe de 30.000 euros et d’une partie variable calculée sur base de la capitalisation boursière au 31 décembre de l’exercice précédant l’exercice de facturation à charge de chaque émetteur d’actions ayant une capitalisation boursière inférieure ou égale à 10.000.000.000 euros au 31 décembre de l’exercice précédant l’exercice de facturation et dont le Luxembourg est l’État membre d’origine en vertu de la loi modifiée du 11 janvier 2008 relative aux obligations de transparence des émetteurs , ou à charge de la personne ayant sollicité sans le consentement de cet émetteur l’admission de ses actions à la négociation sur un marché réglementé. Au cas où un émetteur d’actions est admis à la négociation sur un marché réglementé en cours d’année, la capitalisation boursière du premier jour de cotation est prise en compte pour calculer la partie variable de l’année en cours.
 
-La partie variable est calculée comme suit : Pour tout million entre Taxe en euros 0 et 100 20,00 100 et 250 17,50 250 et 500 15,00 500 et 1.000 10,00 1.000 et 2.500 8,00 2.500 et 5.000 6,00 5.000 et 7.500 4,00 7.500 et 10.000 1,00
+La partie variable est calculée comme suit :
+
+| Pour tout million entre | Taxe en euros |
+| --- | --- |
+| 0 et 100 | 20,00 |
+| 100 et 250 | 17,50 |
+| 250 et 500 | 15,00 |
+| 500 et 1.000 | 10,00 |
+| 1.000 et 2.500 | 8,00 |
+| 2.500 et 5.000 | 6,00 |
+| 5.000 et 7.500 | 4,00 |
+| 7.500 et 10.000 | 1,00 |
 
 2) Un forfait annuel de 90.000 euros à charge de chaque émetteur d’actions ayant une capitalisation boursière supérieure à 10.000.000.000 euros au 31 décembre de l’exercice précédant l’exercice de facturation et dont le Luxembourg est l’État membre d’origine en vertu de la loi modifiée du 11 janvier 2008 relative aux obligations de transparence sur les émetteurs de valeurs mobilières, ou à la charge de la personne ayant sollicité sans le consentement de cet émetteur l’admission de ses actions à la négociation sur un marché réglementé. Au cas où un émetteur d’actions est admis à la négociation sur un marché réglementé en cours d’année, la capitalisation boursière du premier jour de cotation est prise en compte pour calculer la partie variable de l’année en cours.
 
@@ -419,6 +646,10 @@ XIX. Offrants ou autres parties intéressées, dans les cas visés aux lettres b
 XX. Émetteurs de titres au sens de la loi du 21 juillet 2012 relative au retrait obligatoire et au rachat obligatoire de titres de sociétés admis ou ayant été admis à la négociation sur un marché réglementé ou ayant fait l’objet d’une offre au public et portant modification de la loi modifiée du 23 décembre 1998 portant création d’une commission de surveillance du secteur financier, en cas d’opération de retrait obligatoire ou de rachat obligatoire.
 
 1) Pour chaque instruction d’un dossier relatif à :
+
+1. une opération de retrait obligatoire, une taxe se composant d’une partie fixe de 50.000 euros et d’une partie proportionnelle de 0,4 pour cent de la valeur en euros de la contrepartie totale des titres que l’actionnaire majoritaire, seul ou avec des personnes agissant de concert avec lui, directement ou indirectement, ne détient pas encore au moment de la communication à la CSSF de l’opération de retrait obligatoire. Une partie fixe supplémentaire de 75.000 euros est due en cas d’opposition au projet de retrait obligatoire ;
+
+2. une opération de rachat obligatoire, une taxe se composant d’une partie fixe de 50.000 euros et d’une partie proportionnelle de 0,4 pour cent de la valeur en euros de la contrepartie totale des titres transférés dans le cadre de l’opération de rachat obligatoire ;
 
 2) un forfait unique de 20.000 euros à charge de personnes physiques ou morales, de droit public ou privé qui sollicitent un avis de la CSSF se rapportant aux dispositions de la loi du 21 juillet 2012 relative au retrait obligatoire et au rachat obligatoire de titres de sociétés admis ou ayant été admis à la négociation sur un marché réglementé ou ayant fait l’objet d’une offre au public et portant modification de la loi modifiée du 23 décembre 1998 portant création d’une commission de surveillance du secteur financier, au cas où le traitement de l’avis en question nécessite la constitution d’un dossier auprès de la CSSF. Dans ce cas, la CSSF avisera les personnes qui sollicitent l’avis de ce fait ;
 
@@ -448,9 +679,29 @@ A. Agrément ou enregistrement d’administrateurs d’indices de référence.
 
 A.1. Un forfait unique pour l’instruction du dossier en cas d’agrément ou d’enregistrement.
 
+1. Un forfait unique de 16.500 euros pour l’instruction de chaque demande d’agrément d’un nouvel administrateur d’indices de référence au titre de l’article 34, paragraphe 1 er , lettre a) du règlement (UE) 2016/1011 du Parlement européen et du Conseil du 8 juin 2016 concernant les indices utilisés comme indices de référence dans le cadre d’instruments et de contrats financiers ou pour mesurer la performance de fonds d’investissement et modifiant les directives 2008/48/CE et 2014/17/UE et le règlement (UE) n° 596/2014 (ci-après « règlement (UE) 2016/1011 »), et qui ne relève pas de l’article 34, paragraphe 1 bis , dudit règlement ;
+
+2. un forfait unique de 16.500 euros pour l’instruction de chaque demande d’enregistrement d’un nouvel administrateur d’indices de référence au titre de l’article 34, paragraphe 1 er , lettres b) et c), du règlement (UE) 2016/1011 , et qui ne relève pas de l’article 34, paragraphe 1 bis , dudit règlement .
+
 A.2. Un forfait annuel pour les administrateurs luxembourgeois.
 
+1. Un forfait annuel de 440.000 euros à charge de chaque administrateur d’indices de référence au cas où cet administrateur fournit un indice de référence d’importance critique au titre de l’article 20, paragraphe 1 er , point b) du règlement (UE) 2016/1011 . Se rajoute un forfait annuel supplémentaire de 220.000 euros pour chaque indice de référence d’importance critique additionnel ;
+
+2. un forfait annuel de 132.000 euros à charge de chaque administrateur d’indices de référence luxembourgeois non visé à la lettre a) au cas où cet administrateur fournit au moins un indice de référence d’importance significative au titre de l’article 24 du règlement (UE) 2016/1011 ;
+
+3. un forfait annuel de 55.000 euros à charge de chaque administrateur d’indices de référence luxembourgeois au cas où cet administrateur ne fournit que des indices de référence d’importance non significative au titre de l’article 26 du règlement (UE) 2016/1011 .
+
 Les forfaits annuels de base décrits aux lettres a) à c) ci-dessus sont augmentés de :
+
+1. 11.000 euros pour tout administrateur fournissant entre 100 et 499 indices de référence d’importance non critique ;
+
+2. 27.500 euros pour tout administrateur fournissant entre 500 et 4.999 indices de référence d’importance non critique ;
+
+3. 55.000 euros pour tout administrateur fournissant entre 5.000 et 19.999 indices de référence d’importance non critique ;
+
+4. 82.500 euros pour tout administrateur fournissant entre 20.000 et 99.999 indices de référence d’importance non critique ;
+
+5. 110.000 euros pour tout administrateur fournissant plus de 100.000 indices de référence d’importance non critique.
 
 Les ajouts aux forfaits annuels visés aux lettres (i) à (v) sont évalués pendant la période annuelle de référence qui s’étend du 1er novembre jusqu’au 30 novembre de la même année.
 
@@ -462,7 +713,17 @@ B. Aval d’indices de référence.
 
 B.1. Demande d'aval d’indices de référence fournis par un administrateur d’indices de référence situé dans un pays tiers.
 
-B.2. Un forfait annuel. Se rajoute un forfait annuel supplémentaire de 11.000 euros pour l’aval de chaque indice de référence d’importance significative additionnel du même administrateur d’indices de référence situé dans un pays tiers.
+1. Un forfait unique de base de 11.000 euros pour l’aval du premier indice de référence fourni par un administrateur d’indices de référence situé dans un pays tiers au titre de l’article 33 du règlement (UE) 2016/1011 , par un administrateur situé au Luxembourg et agréé ou enregistré par la CSSF conformément à l’article 34 du même règlement , ou par toute autre entité surveillée située au Luxembourg ; et
+
+2. un forfait unique de 550 euros pour l’aval de chaque indice de référence supplémentaire du même administrateur d’indices de référence situé dans un pays tiers et avalisé par cette même entité luxembourgeoise répondant aux critères visés à la lettre a).
+
+B.2. Un forfait annuel.
+
+1. Un forfait annuel de 66.000 euros pour tout administrateur d’indices de référence situé au Luxembourg et agréé ou enregistré par la CSSF conformément à l’article 34 du règlement (UE) 2016/1011 , ou toute autre entité surveillée située au Luxembourg avalisant un ou plusieurs indices de référence fournis par un administrateur d’indices de référence situé dans un pays tiers dont au moins un des indices avalisés est un indice de référence d’importance significative. Se rajoute un forfait annuel supplémentaire de 11.000 euros pour l’aval de chaque indice de référence d’importance significative additionnel du même administrateur d’indices de référence situé dans un pays tiers.
+
+2. Un forfait annuel de 22.000 euros pour tout administrateur d’indices de référence situé au Luxembourg et agréé ou enregistré par la CSSF conformément à l’article 34 du règlement (UE) 2016/1011 , ou toute autre entité surveillée située au Luxembourg avalisant un ou plusieurs indices de référence fournis par un administrateur d’indices de référence situé dans un pays tiers dont tous les indices de référence avalisés sont d’importance non significative.
+
+3. En cas d’aval d’un nombre supérieur à 20 indices de référence d’importance non significative du même administrateur situé dans un pays tiers, se rajoute un forfait annuel supplémentaire de 1.100 euros par indice de référence.
 
 Au cas où une entité luxembourgeoise avalisant un ou plusieurs indices de référence fournis par différents administrateurs d’indices de référence situés dans un ou plusieurs pays tiers, les forfaits annuels visés aux lettres a) à c) ci-dessus, sont dus par rapport à chacun de ces administrateurs.
 
@@ -478,11 +739,29 @@ XXV. Dépositaires Centraux de Titres.
 
 3) un forfait unique de 92.000 euros pour l’instruction de chaque demande d’agrément de lien interopérable, y compris avec des DCT de pays tiers ;
 
-4) un forfait annuel à charge de chaque DCT agréé conformément à l’article 16 du règlement (UE) 909/2014, en fonction de la somme de bilan au 31 décembre de l’année précédente : Somme de bilan (en euros) Forfait annuel Inférieure ou égale à 500 mio 230.000 euros Supérieure à 500 mio et inférieure ou égale à 2.500 mio 360.000 euros Supérieure à 2.500 mio 500.000 euros
+4) un forfait annuel à charge de chaque DCT agréé conformément à l’article 16 du règlement (UE) 909/2014, en fonction de la somme de bilan au 31 décembre de l’année précédente :
 
-5) un forfait annuel à charge de chaque DCT agréé conformément à l’article 54 du règlement (UE) 909/2014, en fonction de la somme de bilan au 31 décembre de l’année précédente : Somme de bilan (en euros) Forfait annuel Inférieure ou égale à 500 mio 230.000 euros Supérieure à 500 mio et inférieure ou égale à 2.500 mio 360.000 euros Supérieure à 2.500 mio 500.000 euros
+| Somme de bilan (en euros) | Forfait annuel |
+| --- | --- |
+| Inférieure ou égale à 500 mio | 230.000 euros |
+| Supérieure à 500 mio et inférieure ou égale à 2.500 mio | 360.000 euros |
+| Supérieure à 2.500 mio | 500.000 euros |
 
-6) un forfait annuel à charge de chaque DCT qui opère un lien interopérable agréé, y compris avec des DCT de pays tiers, en fonction de la somme de bilan au 31 décembre de l’année précédente : Somme de bilan (en euros) Forfait annuel Inférieure ou égale à 500 mio 130.000 euros Supérieure à 500 mio et inférieure ou égale à 2.500 mio 195.000 euros Supérieure à 2.500 mio 230.000 euros
+5) un forfait annuel à charge de chaque DCT agréé conformément à l’article 54 du règlement (UE) 909/2014, en fonction de la somme de bilan au 31 décembre de l’année précédente :
+
+| Somme de bilan (en euros) | Forfait annuel |
+| --- | --- |
+| Inférieure ou égale à 500 mio | 230.000 euros |
+| Supérieure à 500 mio et inférieure ou égale à 2.500 mio | 360.000 euros |
+| Supérieure à 2.500 mio | 500.000 euros |
+
+6) un forfait annuel à charge de chaque DCT qui opère un lien interopérable agréé, y compris avec des DCT de pays tiers, en fonction de la somme de bilan au 31 décembre de l’année précédente :
+
+| Somme de bilan (en euros) | Forfait annuel |
+| --- | --- |
+| Inférieure ou égale à 500 mio | 130.000 euros |
+| Supérieure à 500 mio et inférieure ou égale à 2.500 mio | 195.000 euros |
+| Supérieure à 2.500 mio | 230.000 euros |
 
 XXVI. Prestataires de services d’actifs virtuels et prestataires de services de conservation ou d’administration, tels que définis à l’article 1er, points 20quater et 20quinquies, de la loi modifiée du 12 novembre 2004 relative à la lutte contre le blanchiment et contre le financement du terrorisme.
 
@@ -496,7 +775,41 @@ Un forfait de 10.000 euros pour chaque contrôle sur place effectué en relation
 
 XXVIII. Supervision publique de la profession de l’audit.
 
-1) Forfaits. Ce barème est fixé comme suit : Nombre de missions Taxe Inférieur ou égal à 10 1.000 euros De 11 à 49 5.000 euros De 50 à 99 15.000 euros De 100 à 199 30.000 euros De 200 à 299 50.000 euros De 300 à 599 105.000 euros De 600 à 899 200.000 euros De 900 à 1.399 500.000 euros De 1.400 à 1.999 550.000 euros De 2.000 à 2.799 600.000 euros Supérieur ou égal à 2.800 650.000 euros Nombre de missions Taxe Inférieur ou égal à 10 1.000 euros De 11 à 49 5.000 euros De 50 à 99 15.000 euros De 100 à 199 30.000 euros De 200 à 299 50.000 euros De 300 à 599 105.000 euros De 600 à 899 200.000 euros De 900 à 1.399 500.000 euros De 1.400 à 1.999 550.000 euros De 2.000 à 2.799 600.000 euros Supérieur ou égal à 2.800 650.000 euros
+1) Forfaits.
+
+1. Stagiaires réviseurs d’entreprises : un forfait unique de 1.000 euros pour l’instruction de chaque demande d’accès au stage, un forfait de 2.000 euros pour l’inscription à l’examen d’aptitude professionnelle et un forfait annuel de 500 euros par stagiaire, à charge du cabinet de révision employant le stagiaire.
+
+2. Personnes bénéficiant de la dérogation visée à l’article 9, paragraphe 3, lettre a) de la loi modifiée du 23 juillet 2016 relative à la profession de l’audit : un forfait unique de 500 euros pour l’instruction de chaque demande, un forfait de 2.000 euros pour l’inscription à l’examen d’aptitude professionnelle à charge de la personne ou de son employeur et un forfait annuel de 500 euros à charge de la personne ou de son employeur.
+
+3. Personnes bénéficiant de la dérogation visée à l’article 9, paragraphe 3, lettre b) de la loi modifiée du 23 juillet 2016 relative à la profession de l’audit : un forfait unique de 500 euros pour l’instruction de chaque demande, un forfait de 2.000 euros pour l’inscription à l’examen d’aptitude professionnelle et un forfait annuel de 500 euros charge de la personne ou de son employeur.
+
+4. Prestataires d’autres États membres (au sens de l’article 8 de la loi modifiée du 23 juillet 2016 relative à la profession de l’audit), contrôleurs légaux des comptes ou contrôleurs de pays tiers (au sens de l’article 1 er , sections B, C et D du règlement grand-ducal modifié du 9 juillet 2013 déterminant les conditions de qualification professionnelle des réviseurs d’entreprises) : un forfait unique de 500 euros pour l’instruction du dossier.
+
+5. Réviseurs d’entreprises et cabinets de révision (au sens de l’article 1 er , points 4 et 33 de la loi modifiée du 23 juillet 2016 relative à la profession de l’audit) :
+
+1. un forfait annuel à charge de chaque réviseur d’entreprises de 250 euros si confirmation annuelle via la procédure électronique préconisée par la CSSF ; ce forfait est porté à 500 euros à défaut de recourir à la procédure électronique ;
+
+2. un forfait annuel à charge de chaque cabinet de révision de 500 euros si confirmation annuelle via la procédure électronique préconisée par la CSSF ; ce forfait est porté à 1.000 euros à défaut de recourir à la procédure électronique.
+
+6. Réviseurs d’entreprises agréés et cabinets de révision agréés (au sens de l’article 1 er , points 5 et 34 de la loi modifiée du 23 juillet 2016 relative à la profession de l’audit) et cabinets d’audit (au sens de l’article 1 er , point 3 de l’article 6 de la loi modifiée du 23 juillet 2016 relative à la profession de l’audit) : Ce barème est fixé comme suit : Nombre de missions Taxe Inférieur ou égal à 10 1.000 euros De 11 à 49 5.000 euros De 50 à 99 15.000 euros De 100 à 199 30.000 euros De 200 à 299 50.000 euros De 300 à 599 105.000 euros De 600 à 899 200.000 euros De 900 à 1.399 500.000 euros De 1.400 à 1.999 550.000 euros De 2.000 à 2.799 600.000 euros Supérieur ou égal à 2.800 650.000 euros
+
+1. un forfait annuel à charge de chaque réviseur d’entreprises agréé de 1.250 euros si confirmation annuelle via la procédure électronique préconisée par la CSSF ; ce forfait est porté à 2.500 euros à défaut de recourir à la procédure électronique ;
+
+2. un forfait annuel à charge de chaque cabinet de révision agréé de 2.000 euros si confirmation annuelle via la procédure électronique préconisée par la CSSF ; ce forfait est porté à 4.000 euros à défaut de recourir à la procédure électronique ;
+
+3. un forfait annuel supplémentaire en fonction du nombre de missions de contrôle légal des comptes (au sens de l’article 1 er , point 6 de la loi modifiée du 23 juillet 2016 relative à la profession de l’audit) confiées au réviseur d’entreprises agréé, au cabinet de révision agréé ou au cabinet d’audit. La base de calcul du nombre de missions de contrôle légal des comptes est l’exercice comptable de l’année écoulée de l’entité auditée.
+
+1. Une refacturation, le cas échéant, des frais de déplacement en relation avec les examens d’assurance qualité tels que visés à l’article 39 de la loi modifiée du 23 juillet 2016 relative à la profession de l’audit.
+
+1. Contrôleurs et entités d’audit de pays tiers visés à l’article 57, paragraphe 1 er de la loi modifiée du 23 juillet 2016 relative à la profession de l’audit :
+
+1. un forfait annuel de 2.200 euros à charge de chaque contrôleur ou entité d’audit de pays tiers qui émet entre 1 et 9 rapports d’audit tels que définis à l’article 57, paragraphe 1 er de la loi modifiée du 23 juillet 2016 relative à la profession de l’audit ; ce forfait est ramené à 1.000 euros lorsque le contrôleur remplit les critères de l’article 59 de la loi modifiée du 23 juillet 2016 relative à la profession de l’audit ;
+
+2. un forfait annuel de 5.400 euros à charge de chaque contrôleur ou entité d’audit de pays tiers qui émet plus de 9 rapports d’audit tels que définis à l’article 57, paragraphe 1 er de la loi modifiée du 23 juillet 2016 relative à la profession de l’audit ; ce forfait est ramené à 2.000 euros lorsque le contrôleur remplit les critères de l’article 59 de la loi modifiée du 23 juillet 2016 relative à la profession de l’audit ;
+
+3. une refacturation des frais de déplacement en relation avec des inspections éventuelles.
+
+2. Pour les dossiers d’audit dont les papiers de travail n’ont été établis ni dans une des langues administratives du Luxembourg, à savoir le français, l’allemand ou le luxembourgeois, ni dans la langue anglaise, les coûts de traduction éventuels, engagés à l’occasion d’un examen d’assurance qualité, sont refacturés aux reviseurs d’entreprises agréés et auditeurs de pays tiers concernés.
 
 2) Suivi de la mise en œuvre des recommandations formulées à l’issue de l’examen d’assurance qualité.
 
@@ -504,7 +817,13 @@ Une taxe additionnelle de 250 euros par heure d’examen est due par les révise
 
 XXIX. Résolution.
 
-Un forfait annuel à charge de chaque établissement de crédit de droit luxembourgeois et de chaque succursale d’un établissement de crédit dans un pays tiers qui est située au Luxembourg, en fonction de la somme de bilan au 31 décembre de l’année précédente : Somme de bilan (en euros) Forfait annuel Inférieure ou égale à 500 mio 40.000 euros Supérieure à 500 mio et inférieure ou égale à 2.500 mio 72.000 euros Supérieure à 2.500 mio 160.000 euros
+Un forfait annuel à charge de chaque établissement de crédit de droit luxembourgeois et de chaque succursale d’un établissement de crédit dans un pays tiers qui est située au Luxembourg, en fonction de la somme de bilan au 31 décembre de l’année précédente :
+
+| Somme de bilan (en euros) | Forfait annuel |
+| --- | --- |
+| Inférieure ou égale à 500 mio | 40.000 euros |
+| Supérieure à 500 mio et inférieure ou égale à 2.500 mio | 72.000 euros |
+| Supérieure à 2.500 mio | 160.000 euros |
 
 XXX. Prestataires de services de financement participatif.
 
@@ -514,7 +833,14 @@ XXX. Prestataires de services de financement participatif.
 
 3) Un forfait annuel se composant d’un montant fixe de 10.000 euros et d’un montant variable de 30.000 euros maximum calculé sur base du montant total des projets financés par le biais du prestataire de services de financement participatif durant l’année précédente.
 
-La partie variable de la taxe visée au sous-point 3 est calculée comme suit, en appliquant le pourcentage indiqué dans le tableau ci-dessous par tranche : Montant total des projets financés (en euros) Pourcentage utilisé afin de déterminer la taxe Inférieur ou égal à 1 mio 0,00 % Supérieur à 1 mio et inférieur ou égal à 5 mio 0,25 % Supérieur à 5 mio et inférieur ou égal à 55 mio 0,04 % Supérieur à 55 mio 0,00 %
+La partie variable de la taxe visée au sous-point 3 est calculée comme suit, en appliquant le pourcentage indiqué dans le tableau ci-dessous par tranche :
+
+| Montant total des projets financés (en euros) | Pourcentage utilisé afin de déterminer la taxe |
+| --- | --- |
+| Inférieur ou égal à 1 mio | 0,00 % |
+| Supérieur à 1 mio et inférieur ou égal à 5 mio | 0,25 % |
+| Supérieur à 5 mio et inférieur ou égal à 55 mio | 0,04 % |
+| Supérieur à 55 mio | 0,00 % |
 
 XXXI. Entités soumises au règlement (UE) 2023/1114 du Parlement européen et du Conseil du 31 mai 2023 sur les marchés de crypto-actifs, et modifiant les règlements (UE) n°1093/2010 et (UE) n°1095/2010 et les directives 2013/36/UE et (UE) 2019/1937
 
@@ -612,7 +938,15 @@ XXXII. Systèmes de règlement et de négociation DLT.
 
 3) Lorsque l’activité d’exploitant d’un système de règlement et de négociation DLT (DLT TSS) est exercée par un dépositaire central de titres, le forfait annuel applicable correspond au montant le plus élevé :
 
+1. des forfaits annuels prévus pour l’exploitation d’un dépositaire central de titres tels que renseignés au point XXV ; ou
+
+2. des forfaits annuels prévus pour la surveillance d’un MTF tels que renseignés au point III, cumulés avec les forfaits annuels applicables à une entreprise d’investissement exploitant un MTF tels que renseignés au point VII.
+
 4) Lorsque l’activité d’exploitant d’un système de règlement et de négociation DLT (DLT TSS) est exercée par une entreprise d’investissement, un établissement de crédit ou un opérateur de marché, le forfait annuel applicable correspond au montant le plus élevé :
+
+1. des forfaits annuels prévus pour l’exploitation d’un dépositaire central de titres tels que renseignés au point XXV ; ou
+
+2. des forfaits annuels prévus pour la surveillance d’un MTF tels que renseignés au point III, cumulés avec les forfaits annuels applicables à l’exploitant du MTF en question.
 
 XXXIII. Gestionnaires de crédits.
 
@@ -631,20 +965,70 @@ XXXIII. Gestionnaires de crédits.
 <a id="art-2"></a>
 ## Art. 2.
 
+Répartition du solde déficitaire
+
+(1)
+
+Au cas où le produit des taxes forfaitaires visées sous les points I à XXVII et XXX à l’article 1er et se rapportant à une année civile, est inférieur aux frais du personnel en service, aux frais financiers et aux frais de fonctionnement de la CSSF pour l’exercice de la surveillance du secteur financier pour cette même année, la différence est répartie entre les établissements visés sous le point I à l’article 1er proportionnellement à la taxe forfaitaire annuelle à leur charge.
+
+(2)
+
+Au cas où le produit des taxes forfaitaires visées sous le point XXVIII à l’article 1er et se rapportant à une année civile, est inférieur aux frais du personnel en service, aux frais financiers et aux frais de fonctionnement de la CSSF pour l’exercice de la supervision publique de la profession de l’audit pour cette même année, la différence est répartie entre les entités visées sous le point XXVIII, sous-point 1, lettre f) à l’article 1er proportionnellement à la taxe forfaitaire annuelle à leur charge.
+
+(3)
+
+Au cas où le produit des taxes forfaitaires visées sous le point XXIX à l’article 1er et se rapportant à une année civile, est inférieur aux frais du personnel en service, aux frais financiers et aux frais de fonctionnement de la CSSF pour l’exercice de ses missions visées aux articles 2-2 et 12-1 de la loi modifiée du 23 décembre 1998 portant création d’une commission de surveillance du secteur financier pour cette même année, la différence est répartie entre les entités visées sous le point XXIX à l’article 1er proportionnellement à la taxe forfaitaire annuelle à leur charge.
+
 <a id="art-3"></a>
 ## Art. 3.
 
+Exigibilité
+
+(1)
+
+Les taxes visées à l’article 1er sont payables globalement à première demande. Le non-paiement est susceptible de donner lieu à l’application de sanctions administratives.
+
+(2)
+
+Les taxes forfaitaires annuelles visées à l’article 1er sont dues intégralement chaque année civile, même si le redevable en cause n’a été sous la surveillance de la CSSF que pendant une partie de l’année. La taxe visée sous I, points 2) et 3) à l’article 1er est dans ce dernier cas de 116.500 euros pour les établissements de droit luxembourgeois et les succursales établies au Luxembourg par des établissements de crédit ne relevant pas du droit d’un État membre de l’Espace économique européen et de 80.000 euros pour les succursales établies au Luxembourg par des établissements de crédit relevant du droit d’un État membre de l’Espace économique européen qui ne sont venus sous la surveillance de la CSSF qu’au cours de l’année.
+
+(3)
+
+Les taxes forfaitaires uniques pour l’instruction d’une demande visées à l’article 1er sont exigibles au moment où la demande est introduite. Sans préjudice des délais légaux prescrits pour l’instruction d’une demande, il n’est donné suite à la demande qu’après réception du paiement de la taxe.
+
+(4)
+
+Les taxes visées au point XVI à l’article 1er sont exigibles au moment où la demande d’approbation du prospectus est introduite. Lorsque l’admission à la négociation sur un marché réglementé n’est pas demandée par l’émetteur ou par une personne mandatée par celui-ci, la personne qui demande l’admission en question devient redevable de la taxe au moment où elle a introduit la demande d’approbation du prospectus.
+
+(5)
+
+Tout rachat obligatoire devenu sans objet au sens de l’article 5, paragraphe 8 de la loi du 21 juillet 2012 relative au retrait obligatoire et au rachat obligatoire de titres de sociétés admis ou ayant été admis à la négociation sur un marché réglementé ou ayant fait l’objet d’une offre au public et portant modification de la loi modifiée du 23 décembre 1998 portant création d’une commission de surveillance du secteur financier, rend sans objet la partie proportionnelle de la taxe relative au rachat obligatoire y afférente. La partie fixe de la taxe relative au rachat obligatoire devenu sans objet continue de rester exigible à hauteur de 50 pour cent. Les taxes relatives au retrait obligatoire sont exigibles dans leur intégralité.
+
+(6)
+
+Les taxes forfaitaires annuelles visées à l’article 1er, point XXVI, point 1), sont dues à la charge des prestataires de services d’actifs virtuels enregistrés au registre des prestataires de services d’actifs virtuels établi par la CSSF jusqu’au 1er juillet 2026 ou jusqu’à ce qu’ils se voient octroyer ou refuser un agrément en vertu de l’article 63 du règlement (UE) 2023/1114, l’événement survenant en premier lieu étant retenu.
+
+(7)
+
+Les taxes visées à l’article 1er, point XXXI, sous A, sont exigibles au moment où la notification du livre blanc est introduite. Lorsque l’admission à la négociation sur un marché de crypto-actifs n’est pas demandée par l’émetteur ou par une personne mandatée par celui-ci, la personne qui demande l’admission en question devient redevable de la taxe au moment où elle a introduit la notification du livre blanc.
+
 <a id="art-4"></a>
 ## Art. 4.
+
+Disposition abrogatoire
 
 Le règlement grand-ducal modifié du 17 décembre 2021 relatif aux taxes à percevoir par la Commission de surveillance du secteur financier est abrogé.
 
 <a id="art-5"></a>
 ## Art. 5.
 
+Entrée en vigueur
+
 Le présent règlement s’applique à partir du 1er janvier 2023.
 
 <a id="art-6"></a>
 ## Art. 6.
+
+Formule exécutoire et de publication
 
 Notre ministre ayant les Finances dans ses attributions est chargé de l’exécution du présent règlement qui sera publié au Journal officiel du Grand-Duché de Luxembourg.

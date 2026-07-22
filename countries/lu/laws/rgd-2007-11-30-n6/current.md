@@ -35,10 +35,38 @@ La commission interdépartementale pour les équipements sportifs, instituée au
 
 La commission interdépartementale pour les équipements sportifs a pour mission:
 
+- de proposer des critères pour l'établissement des besoins et planifications d'équipements sportifs;
+
+- de soumettre, sur la base d'inventaires actualisés, des programmations pluriannuelles d'investissement pour la création et le maintien d'équipements sportifs;
+
+- d'examiner et d'aviser les projets d'équipements sportifs soumis par les maîtres d'ouvrage, à savoir l'Etat, les communes et regroupements de communes, les organismes sportifs et autres promoteurs privés;
+
+- de faire des propositions quant aux modalités et conditions d'octroi des aides financières de l'Etat.
+
 <a id="art-3"></a>
 ## Art. 3.
 
 La commission interdépartementale pour les équipements sportifs comprend:
+
+- 1 délégué du ministre ayant dans ses attributions l'Aménagement du territoire,
+
+- 1 délégué du ministre ayant dans ses attributions l'Education nationale et la Formation professionnelle,
+
+- 1 délégué du ministre ayant dans ses attributions l'Intérieur,
+
+- 1 délégué du ministre ayant dans ses attributions le Trésor et le Budget,
+
+- 1 délégué du ministre ayant dans ses attributions les Travaux publics,
+
+- 1 délégué du ministre ayant dans ses attributions la Santé,1 délégué du ministre ayant dans ses attributions la Sécurité dans la Fonction publique,
+
+- 1 délégué du ministre ayant dans ses attributions le Tourisme,
+
+- 1 délégué du ministre ayant dans ses attributions la Culture,
+
+- 1 délégué du Syndicat des Villes et Communes Luxembourgeoises (Syvicol),
+
+- 2 délégués du ministre ayant dans ses attributions les Sports, dont un est désigné pour assurer la présidence de la commission.
 
 <a id="art-4"></a>
 ## Art. 4.

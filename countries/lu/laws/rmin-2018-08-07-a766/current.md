@@ -32,15 +32,71 @@ Le calendrier des vacances et congés dans l’enseignement musical pour les ann
 
 Année scolaire 2018/2019
 
-L’année scolaire commence le lundi 17 septembre 2018 et finit le samedi 13 juillet 2019. 5°bis Jour férié légal de la Journée de l’Europe : le jeudi 9 mai 2019.
+L’année scolaire commence le lundi 17 septembre 2018 et finit le samedi 13 juillet 2019.
+
+1. Le congé de la Toussaint commence le dimanche 28 octobre 2018 et finit le dimanche 4 novembre 2018.
+
+2. Les vacances de Noël commencent le dimanche 23 décembre 2018 et finissent le dimanche 6 janvier 2019.
+
+3. Le congé de Carnaval commence le dimanche 17 février 2019 et finit le dimanche 24 février 2019.
+
+4. Les vacances de Pâques commencent le dimanche 7 avril 2019 et finissent le lundi 22 avril 2019.
+
+5. Jour férié légal : le mercredi 1 er mai 2019.
+
+6. 5°bis Jour férié légal de la Journée de l’Europe : le jeudi 9 mai 2019.
+
+7. Le congé de la Pentecôte commence le dimanche 26 mai 2019 et finit le dimanche 2 juin 2019.
+
+8. Jour de congé pour le lundi de Pentecôte : le lundi 10 juin 2019.
+
+9. Jour de congé pour la célébration publique de l’anniversaire de SAR le Grand-Duc : le dimanche 23 juin 2019.
+
+10. Les vacances d’été commencent le dimanche 14 juillet 2019 et finissent le dimanche 15 septembre 2019.
 
 Année scolaire 2019/2020
 
 L’année scolaire commence le lundi 16 septembre 2019 et finit le mercredi 15 juillet 2020.
 
+1. Le congé de la Toussaint commence le dimanche 27 octobre 2019 et finit le dimanche 3 novembre 2019.
+
+2. Les vacances de Noël commencent le dimanche 22 décembre 2019 et finissent le dimanche 5 janvier 2020.
+
+3. Le congé de Carnaval commence le dimanche 16 février 2020 et finit le dimanche 23 février 2020.
+
+4. Les vacances de Pâques commencent le dimanche 5 avril 2020 et finissent le dimanche 19 avril 2020.
+
+5. Jour férié légal : le vendredi 1 er mai 2020.
+
+6. Jour de congé pour l’Ascension : le jeudi 21 mai 2020.
+
+7. Le congé de la Pentecôte commence le samedi 30 mai 2020 et finit le dimanche 7 juin 2020.
+
+8. Jour de congé pour la célébration publique de l’anniversaire de SAR le Grand-Duc : le mardi 23 juin 2020.
+
+9. Les vacances d’été commencent le jeudi 16 juillet 2020 et finissent le lundi 14 septembre 2020.
+
 Année scolaire 2020/2021
 
 L’année scolaire commence le mardi 15 septembre 2020 et finit le jeudi 15 juillet 2021.
+
+1. Le congé de la Toussaint commence le dimanche 1 er novembre 2020 et finit le dimanche 8 novembre 2020.
+
+2. Les vacances de Noël commencent le dimanche 20 décembre 2020 et finissent le dimanche 3 janvier 2021.
+
+3. Le congé de Carnaval commence le dimanche 14 février 2021 et finit le dimanche 21 février 2021.
+
+4. Les vacances de Pâques commencent le samedi 3 avril 2021 et finissent le dimanche 18 avril 2021.
+
+5. Jour férié légal : le samedi 1 er mai 2021.
+
+6. Jour de congé pour l’Ascension : le jeudi 13 mai 2021.
+
+7. Le congé de la Pentecôte commence le samedi 22 mai 2021 et finit le dimanche 30 mai 2021.
+
+8. Jour de congé pour la célébration publique de l’anniversaire de SAR le Grand-Duc : le mercredi 23 juin 2021.
+
+9. Les vacances d’été commencent le vendredi 16 juillet 2021 et finissent le mardi 14 septembre 2021.
 
 <a id="art-2"></a>
 ## Art. 2.

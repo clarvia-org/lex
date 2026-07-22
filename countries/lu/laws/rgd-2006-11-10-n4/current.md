@@ -42,7 +42,35 @@ L’agrément s’entend sans préjudice des autorisations à solliciter en vert
 <a id="art-2"></a>
 ## Art. 2.
 
-Sont précisées comme activités en faveur des familles au sens de l’article 1er de la loi les activités suivantes, pour autant qu’elles ne concernent pas des activités hospitalières ou scolaires: 1. Accueil et animation Est à considérer comme accueil et animation toute activité ayant comme objectif principal et ce pour des raisons socio-éducatives ou socio-familiales d’offrir à des enfants, des adultes ou des familles des prestations d’animation, de loisir ou de vacances. (Règlement grand-ducal du 17 août 2011) «2. Formation socio-éducative Est à considérer comme formation socio-éducative toute activité préventive de renseignement, de conseil ou de formation proposée à des enfants, des adultes ou des familles pour des raisons sociales, familiales, éducatives ou pédagogiques.» 3. Médiation socio-familiale Est à considérer comme médiation socio-familiale toute activité permettant à des enfants, des adultes ou des familles de régler à l’amiable leurs différends relationnels actuels et leurs relations futures. 4. Consultation thérapeutique Est à considérer comme consultation thérapeutique toute activité d’accompagnement psychique au bénéfice d’enfants, d’adultes ou de familles confrontés à des crises personnelles ou des conflits relationnels. (Règlement grand-ducal du 17 août 2011) «Ne sont pas concernées les activités de médecin psychiatre.» (Règlement grand-ducal du 17 août 2011) «5. Conseil socio-familial Est à considérer comme conseil socio-familial toute activité de conseil et d’accompagnement au bénéfice d’enfants, d’adultes ou de familles confrontés à des conflits socio-familiaux.»
+Sont précisées comme activités en faveur des familles au sens de l’article 1er de la loi les activités suivantes, pour autant qu’elles ne concernent pas des activités hospitalières ou scolaires:
+
+1. Accueil et animation
+
+Est à considérer comme accueil et animation toute activité ayant comme objectif principal et ce pour des raisons socio-éducatives ou socio-familiales d’offrir à des enfants, des adultes ou des familles des prestations d’animation, de loisir ou de vacances.
+
+(Règlement grand-ducal du 17 août 2011)
+
+«2. Formation socio-éducative
+
+Est à considérer comme formation socio-éducative toute activité préventive de renseignement, de conseil ou de formation proposée à des enfants, des adultes ou des familles pour des raisons sociales, familiales, éducatives ou pédagogiques.»
+
+3. Médiation socio-familiale
+
+Est à considérer comme médiation socio-familiale toute activité permettant à des enfants, des adultes ou des familles de régler à l’amiable leurs différends relationnels actuels et leurs relations futures.
+
+4. Consultation thérapeutique
+
+Est à considérer comme consultation thérapeutique toute activité d’accompagnement psychique au bénéfice d’enfants, d’adultes ou de familles confrontés à des crises personnelles ou des conflits relationnels.
+
+(Règlement grand-ducal du 17 août 2011)
+
+«Ne sont pas concernées les activités de médecin psychiatre.»
+
+(Règlement grand-ducal du 17 août 2011)
+
+«5. Conseil socio-familial
+
+Est à considérer comme conseil socio-familial toute activité de conseil et d’accompagnement au bénéfice d’enfants, d’adultes ou de familles confrontés à des conflits socio-familiaux.»
 
 <a id="art-3"></a>
 ## Art. 3.
@@ -109,6 +137,14 @@ Les personnes qui exercent au moment de l’entrée en vigueur du présent règl
 
 Pour l’activité visée à l’article 2.1, les effectifs minimaux de l’équipe d’encadrement sont définis suivant les critères suivants:
 
+1. Pour les initiatives ne dépassant pas une durée de cinq heures, la présence d’un collaborateur pendant toute la durée de l’activité est nécessaire pour dix usagers de moins de six ans, respectivement pour vingt usagers de six à douze ans ou pour trente usagers mineurs âgés de plus de treize ans.
+
+2. Pour les initiatives dont la durée ne dépasse pas vingt-quatre heures, la présence d’au moins un collaborateur pendant toute la durée de l’activité est nécessaire pour cinq usagers âgés de moins de six ans, respectivement pour dix usagers âgés de six à douze ans, respectivement pour vingt usagers âgés de treize à quinze ans ou pour trente usagers mineurs de plus de quinze ans.
+
+3. Pour les initiatives avec hébergement qui peuvent inclure des sorties diverses, la présence d’au moins un collaborateur pendant toute la durée de l’activité est nécessaire pour cinq usagers âgés de moins de six ans, respectivement pour huit usagers âgés de six à douze ans, ou pour quinze usagers mineurs âgés de plus de treize ans et la présence d’au moins un collaborateur majeur pendant toute la durée de l’activité qui fait valoir une formation telle que définie à l’article 7.
+
+4. A titre exceptionnel et pour des raisons dûment motivées et formellement documentées le nombre d’usagers accueillis peut temporairement être dépassé de 10 pour cent.
+
 <a id="art-12"></a>
 ## Art. 12.
 
@@ -136,7 +172,27 @@ La demande est à adresser au ministre ayant dans ses attributions la Famille pa
 <a id="art-16"></a>
 ## Art. 16.
 
-La demande est accompagnée des documents et renseignements suivants: (Règlement grand-ducal du 17 août 2011)
+La demande est accompagnée des documents et renseignements suivants:
+
+1. une description détaillée du concept de l’activité, de la population cible et du nombre d’usagers que le service est prêt à encadrer;
+
+2. un engagement formel du requérant que l’activité est accessible à tout usager indépendamment de toutes considérations d’ordre idéologique, philosophique ou religieux;
+
+3. un extrait du casier judiciaire comme preuve de l’honorabilité du requérant, conformément à l’article 4;
+
+(Règlement grand-ducal du 17 août 2011)
+
+1. pour une personne morale requérante, le nom du chargé de direction de l’activité, les documents relatifs à sa qualification ainsi que ceux prévus à l’article 4, relatifs aux conditions d’honorabilité; pour une personne physique requérante, les documents relatifs à sa qualification;»
+
+2. pour une personne morale requérante, une liste comprenant les noms, prénoms, date de naissance, domicile et qualifications des collaborateurs et les extraits du casier judiciaire des collaborateurs salariés;
+
+3. pour une personne morale requérante, les statuts en conformité avec la loi afférente;
+
+4. un budget prévisionnel en équilibre et les pièces documentant la situation financière du service;
+
+5. le règlement d’ordre intérieur;
+
+6. un plan des localités.
 
 (Règlement grand-ducal du 17 août 2011)
 

@@ -47,6 +47,18 @@ La formation des juges et arbitres comprend un ou plusieurs cycles de cours thé
 
 Les programmes de formation sont déterminés en accord avec la fédération respective. Ils portent en principe sur les matières suivantes appliquées à la discipline sportive concernée
 
+1. cours théoriques et pratiques sur les règles régissant la discipline sportive en question;
+
+2. organisation administrative sur le plan fédéral;
+
+3. historique général, évolution sur le plan national;
+
+4. aspects psychologiques, sociologiques et pédagogiques de l'arbitrage;
+
+5. sciences biologiques appliquées aux sports;
+
+6. bases générales de la théorie de l'entraînement avec applications pratiques.
+
 <a id="art-5"></a>
 ## Art. 5.
 
@@ -58,6 +70,10 @@ Les modalités du stage de formation pratique sont définies conformément aux l
 ## Art. 6.
 
 Pour être admis aux différents cycles de la formation des juges et arbitres les candidats doivent:
+
+- avoir atteint l'âge minimum requis par la fédération concernée
+
+- être en possession du brevet du cycle précédent
 
 Sur initiative de la fédération concernée, l'admission aux cours des différents cycles peut être soumise à un contrôle préalable de l'aptitude physique et/ou à une moyenne générale dans l'épreuve pratique supérieure à celle requise dans le cycle précédent pour l'obtention du brevet correspondant. Dans ce cas, les candidats doivent satisfaire à la réglementation sur le contrôle médico-sportif obligatoire des membres licenciés actifs des fédérations sportives ou présenter un certificat médical attestant leur aptitude aux efforts physiques.
 
@@ -86,6 +102,14 @@ L'examen pour l'obtention des brevets sanctionnant la formation de chaque cycle 
 
 Le jury d'examen se compose:
 
+1. du commissaire du Gouvernement à l'éducation physique et aux sports
+
+2. du directeur de l' INAPS
+
+3. du président de la fédération
+
+4. de membres du corps chargé de l'enseignement dans la formation concernée.
+
 Les nominations des membres du jury d'examen ainsi que celles des chargés de cours sont faites par le ministre compétent sur proposition de la fédération concernée.
 
 Le jury d'examen est présidé par le commissaire du Gouvernement à l'éducation physique et aux sports ou, en l'absence de celui-ci, par le directeur de l'Ecole. Le jury désigne, parmi ses membres, son secrétaire et il prend les dispositions propres à assurer le fonctionnement régulier des opérations de l'examen.
@@ -108,6 +132,22 @@ Les concepteurs d’une formation ou d’une partie de formation ont droit au ta
 
 <a id="art-12bis"></a>
 ## Art. 12bis.
+
+(1)
+
+La participation financière de l’INAPS aux formations initiales effectuées à l’étranger par les personnes visées à l’article 17, paragraphe 1er, de la loi du 29 juillet 2023 portant création de l’Institut national de l’activité physique et des sports est fixée à 80 pour cent des frais de participation.
+
+(2)
+
+La participation financière de l’INAPS aux formations continues effectuées à l’étranger par les personnes visées à l’article 17, paragraphe 2, de la loi précitée du 29 juillet 2023, est fixée à 50 pour cent des frais de participation.
+
+(3)
+
+La participation financière de l’INAPS comprend les frais d’inscription, ainsi que les frais de route et de séjour, dans la limite des montants équivalant aux pourcentages définis aux paragraphes 1er et 2 et dans la limite du montant maximal fixé à l’article 17, paragraphe 3, de la loi précitée du 29 juillet 2023.
+
+(4)
+
+La participation financière de l’INAPS visée aux paragraphes 1er et 2 est accordée par niveau de formation par périodes de douze mois, conformément aux conditions fixées à l’article 17 de la loi précitée du 29 juillet 2023.
 
 <a id="art-13"></a>
 ## Art. 13.

@@ -29,8 +29,42 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 <a id="art-1er"></a>
 ## Art. 1er.
 
+(1)
+
+Sous réserve des dispositions prévues aux articles 2 et 4 et sans préjudice de l’article 7, paragraphe 2 de la présente loi, l’accès aux activités de médecin et l’exercice de celles-ci au Luxembourg sont subordonnés à une autorisation du ministre ayant la Santé dans ses attributions, désigné ci-après par «le ministre», qui est délivrée aux conditions suivantes:
+
+1. le candidat doit être ressortissant au sens de l’article 3, point q) de la loi du 28 octobre 2016 relative à la reconnaissance des qualifications professionnelles;
+
+2. il doit disposer d’un titre de formation médicale de base reconnu conformément aux dispositions de la loi du 28 octobre 2016 relative à la reconnaissance des qualifications professionnelles;
+
+3. il doit disposer d’un titre de formation de médecin-généraliste ou de médecin-spécialiste reconnu conformément aux dispositions de la loi du 28 octobre 2016 relative à la reconnaissance des qualifications professionnelles;
+
+4. il doit remplir les conditions de moralité et d’honorabilité ainsi que de santé physique et psychique nécessaires à l’exercice de la profession de médecin;
+
+5. il doit avoir les connaissances linguistiques nécessaires à l’exercice de la profession, soit en allemand, soit en français, et comprendre les trois langues administratives du Grand-Duché de Luxembourg ou acquérir les connaissances lui permettant de les comprendre. Une vérification des connaissances linguistiques du candidat d’une des trois langues luxembourgeoise, allemande ou française peut être faite à la demande du ministre par le Collège médical. Le président du Collège médical ou son délégué entend le candidat et transmet au ministre le résultat de la vérification ensemble avec l’avis prévu à l’article 3.
+
+(2)
+
+Un règlement grand-ducal détermine la liste des disciplines reconnues comme spécialités médicales au Luxembourg.
+
 <a id="art-1erbis"></a>
 ## Art. 1er bis.
+
+(1)
+
+Par dérogation aux dispositions de l’article 1er, paragraphe 1er sous c) et paragraphe 2, l’accès aux activités de médecin-spécialiste en médecine légale et l’exercice de celles-ci au Luxembourg sont subordonnés à une autorisation du ministre, qui est délivrée aux conditions suivantes:
+
+1. le candidat dispose d’un titre de formation de médecin-spécialiste dans la discipline de la médecine légale. Ce titre doit sanctionner une formation de spécialisation en médecine légale, conférant à l’intéressé le droit d’exercer la médecine en qualité de médecin-spécialiste en médecine légale dans le pays d’obtention du diplôme;
+
+2. il remplit les conditions prévues aux points a), b), d) et e) du paragraphe 1 er de l’article 1 er .
+
+(2)
+
+Par dérogation aux dispositions de l’article 1er, paragraphe 1er sous c) et paragraphe 2, l’accès aux activités de médecin-spécialiste en neuropathologie et l’exercice de celles-ci au Luxembourg sont subordonnés à une autorisation du ministre, qui est délivrée aux conditions suivantes:
+
+1. le candidat dispose d’un titre de formation de médecin-spécialiste dans la discipline de la neuropathologie. Ce titre doit sanctionner une formation de spécialisation en neuropathologie, conférant à l’intéressé le droit d’exercer la médecine en qualité de médecin-spécialiste en neuropathologie dans le pays d’obtention du diplôme;
+
+2. il remplit les conditions prévues aux points a), b), d) et e) du paragraphe 1 er de l’article 1 er .
 
 <a id="art-1er-ter"></a>
 ## Art. 1er ter.
@@ -40,6 +74,26 @@ Les médecins résidant au Luxembourg ou inscrits à l’Université du Luxembou
 <a id="art-2"></a>
 ## Art. 2.
 
+(1)
+
+Par dérogation aux dispositions de l’article 1er, paragraphe 1er sous c), le ministre peut accorder l’autorisation temporaire d’exercer les activités de médecin sous la responsabilité d’un maître de stage autorisé définitivement à exercer la médecine au Luxembourg, aux médecins effectuant un stage de formation dans le cadre de la formation spécifique en médecine générale ou de la formation de spécialisation.
+
+Cette autorisation ne peut dépasser une période de 12 mois. Elle est renouvelable sur demande de l’intéressé, à condition que celui-ci fournisse une preuve attestant que ce stage s’inscrit dans le cadre de la formation spécifique en médecine générale ou de la formation de spécialisation.
+
+Un règlement grand-ducal fixe les conditions d’accès, l’organisation et les conditions de réussite du stage ainsi que les conditions de travail du médecin ou étudiant en médecine effectuant le stage.
+
+(2)
+
+Par dérogation aux dispositions de l’article 1er, paragraphe 1er sous c), le ministre peut accorder l’autorisation temporaire d’exercer les activités de médecin à titre de remplaçant d’un médecin établi au Luxembourg, aux médecins ressortissants d’un Etat membre de l’Union européenne qui sont en dernière année d’une formation spécifique en médecine générale ou d’une formation de spécialisation.
+
+Un règlement grand-ducal fixe les modalités du remplacement ainsi que les conditions à remplir et la procédure à suivre pour obtenir l’autorisation de remplacement.
+
+(3)
+
+Par dérogation aux dispositions de l’article 1er, paragraphe 1er, le ministre peut accorder l’autorisation d’exercer temporairement pendant une période ne pouvant dépasser 6 mois, les activités de médecin ou certaines activités relevant de l’exercice de la médecine aux médecins ressortissants d’un pays tiers effectuant un stage de formation dans le cadre de la coopération internationale.
+
+L’autorisation d’exercer fixe les modalités et conditions du stage de formation.
+
 <a id="art-3"></a>
 ## Art. 3.
 
@@ -48,25 +102,141 @@ L’avis du Collège médical est demandé pour toutes les demandes en autorisat
 <a id="art-4"></a>
 ## Art. 4.
 
+(1)
+
+Le médecin ressortissant d’un Etat membre de l’Union européenne, qui est établi dans un autre Etat membre et y exerce légalement les activités de médecin généraliste ou de médecin spécialiste, peut exécuter au Luxembourg des prestations de services de façon temporaire et occasionnelle sans autorisation du ministre.
+
+(2)
+
+Le médecin ressortissant d’un pays tiers établi dans un Etat membre ou un pays tiers et y exerçant soit en qualité de médecin généraliste soit en qualité de médecin spécialiste peut, à titre occasionnel et sur appel du médecin traitant ou du malade, exécuter une prestation de services à titre de consultant du médecin traitant établi au Luxembourg.
+
+(3)
+
+Un règlement grand-ducal détermine les conditions et modalités d’exercice de la prestation de services visée aux paragraphes (1) et (2) du présent article. Ce règlement prescrira entre autres que le médecin fasse une déclaration préalable relative à sa prestation au ministre qui en fera parvenir une copie au Collège médical et aux organismes de sécurité sociale.
+
+(4)
+
+Le prestataire est soumis aux règles de conduite de caractère professionnel, réglementaire ou administratif en rapport direct avec les qualifications professionnelles telles que la définition de la profession, l’usage des titres et les fautes professionnelles graves qui ont un lien direct et spécifique avec la protection et la sécurité des patients, ainsi qu’aux dispositions disciplinaires applicables aux médecins légalement établis au Luxembourg.
+
+(5)
+
+Le médecin frappé d’une peine de suspension ou d’interdiction d’exercer sa profession au Luxembourg et qui est légalement établi dans un autre Etat membre, ne peut pas effectuer de prestation de services au Luxembourg pendant la durée de sa suspension ou de son interdiction.
+
 <a id="art-5"></a>
 ## Art. 5.
+
+(1)
+
+La personne autorisée à exercer la médecine au Luxembourg en qualité de médecin-généraliste porte le titre professionnel de docteur en médecine, médecin-généraliste.
+
+(2)
+
+La personne autorisée à exercer la médecine au Luxembourg en qualité de médecin-spécialiste porte le titre professionnel de docteur en médecine, médecin-spécialiste suivi du nom de la spécialité reconnue au Luxembourg.
+
+(3)
+
+Le médecin peut également être autorisé par le ministre à faire usage de son titre licite de formation tel que visé à l’article 1er, point c) et éventuellement de son abréviation dans la langue de l’Etat où il a acquis sa formation, suivi des nom et lieu de l’établissement ou du jury qui l’a délivré. Toutefois au cas où ce titre peut être confondu avec un titre exigeant une formation supplémentaire non acquise par le bénéficiaire, ce dernier ne pourra utiliser son titre de formation que dans une formule appropriée à indiquer par le ministre.
+
+(4)
+
+Le médecin peut aussi être autorisé par le Collège médical à faire usage d’une fonction académique ou d’un titre licite de formation autre que celui visé au paragraphe 3 selon la formulation intégrale qui lui a été conféré par une université ou une autre autorité compétente, et qui est reconnu par les autorités compétentes du pays où il a été délivré. Le Collège médical peut soumettre cette autorisation au paiement préalable d’une taxe. Le montant de cette taxe est fixé annuellement par le Collège médical, étant entendu qu’il se situe entre 75 et 150 euros.
 
 <a id="art-6"></a>
 ## Art. 6.
 
+(1)
+
+Le médecin autorisé à exercer doit veiller à la continuité des soins aux patients dont il a la charge.
+
+Au cas ou il ne peut pas satisfaire à cette obligation du fait de l’existence d’un deuxième cabinet ou lieu d’établissement, le ministre peut l’obliger à se limiter à un seul cabinet ou lieu d’établissement.
+
+(2)
+
+Il doit posséder les connaissances linguistiques nécessaires à l’exercice de sa profession au Luxembourg. Il engage sa responsabilité disciplinaire, civile et pénale si, par suite d’une insuffisance de ces connaissances, il commet une erreur dans l’exercice de sa profession ou fait commettre une erreur à d’autres dans l’exercice de leurs professions.
+
+Dès son installation il doit recueillir les informations nécessaires concernant les législations sanitaire et sociale et la déontologie applicables au Luxembourg.
+
+Il est obligé de tenir à jour ses connaissances professionnelles.
+
+Il est tenu au secret professionnel.
+
+(3)
+
+Le médecin établi au Luxembourg en qualité de médecin généraliste est tenu de participer au service de remplacement des médecins généralistes.
+
+L’organisation et les modalités de fonctionnement du service de remplacement, visant à assurer la continuité des soins à la population pendant les heures usuelles de fermeture des cabinets médicaux, sont déterminées par règlement grand-ducal.
+
+Le médecin qui participe au service de remplacement a droit à une indemnité horaire à charge du budget de l’Etat qui ne peut pas dépasser le montant de 16,00 euros valeur au nombre cent de l’indice pondéré du coût de la vie au 1er janvier 1948. Un règlement grand-ducal fixera le montant ainsi que les modalités de calcul de cette indemnité qui sera adaptée à l’indice pondéré.
+
+Le médecin établi au Luxembourg en qualité de médecin spécialiste est tenu de participer au service de permanence médicale à l’intérieur de l’établissement hospitalier auquel il est attaché, conformément aux dispositions de la législation en matière d’aide médicale urgente.
+
+Un règlement grand-ducal détermine les modalités suivant lesquelles les médecins spécialistes qui ne sont attachés à aucun établissement hospitalier participent au service de permanence visé à l’alinéa qui précède en cas de pénurie de médecins attachés, dûment constatée par le ministre, sur avis du Collège médical, dans la spécialité dont ils relèvent.
+
 <a id="art-6bis"></a>
 ## Art. 6.bis.
+
+(1)
+
+Le médecin prodigue aux patients dont il a la charge les soins préventifs, curatifs ou palliatifs que requiert leur état de santé, conformes aux données acquises par la science et à la déontologie.
+
+(2)
+
+En cas d’affection arrivée à un stade incurable et terminal le médecin traitant apaise les souffrances physiques et morales du patient, en lui donnant les traitements appropriés, en évitant toute obstination déraisonnable et en maintenant pour autant que possible la qualité de la survie.
+
+Il met en œuvre tous les moyens qui sont à sa disposition pour permettre au patient mourant de garder sa dignité.
 
 <a id="art-7"></a>
 ## Art. 7.
 
+(1)
+
+Exerce illégalement la médecine:
+
+1. toute personne qui pratique ou prend part, même en présence du médecin, à l’établissement d’un diagnostic ou au traitement d’affections pathologiques, réelles ou supposées, ou à un accouchement, par actes personnels, consultations verbales ou écrites ou par tous autres procédés quels qu’ils soient, sans être autorisée à exercer la profession de médecin, sauf le cas d’urgence avérée;
+
+2. toute personne qui, munie d’un titre régulier, prête son concours aux personnes visées sous a) à l’effet de les soustraire aux prescriptions de la présente loi;
+
+3. tout médecin qui accomplit un acte professionnel pendant la durée d’une peine de suspension ou d’interdiction de l’exercice de la profession.
+
+- tout médecin qui effectue une prestation de services sans remplir les conditions prévues à l’article 4 de la présente loi.
+
+- tout médecin, médecin-dentiste ou médecin-vétérinaire, qui, n’ayant plus exercé sa profession depuis cinq ans, reprend cet exercice sans en avoir fait la notification au ministre prévue à cet effet à l’article 32 ter ci-dessous ou sans avoir accompli la formation complémentaire ou le stage d’adaptation imposé par le ministre en vertu de l’article précité.
+
+(2)
+
+Les dispositions du présent article ne s’appliquent pas aux étudiants en médecine qui agissent sous la responsabilité d’un maître de stage autorisé à exercer la médecine au Luxembourg dans le cadre d’un stage de formation en vue de l’obtention d’un titre de formation dont question à l’article 1er sous b) de la présente loi ou d’un stage d’adaptation prévu par la présente loi, ni aux membres des professions de santé régies par la loi modifiée du 26 mars 1992 sur l’exercice et la revalorisation de certaines professions de santé qui agissent dans la limite de leurs attributions fixées par les lois et règlements qui régissent ces professions.
+
 <a id="art-7bis"></a>
 ## Art. 7bis.
+
+(1)
+
+Toute personne autorisée à exercer la médecine au Luxembourg obtient une carte de médecin permettant à son titulaire d’attester de son identité et son droit d’exercer.
+
+(2)
+
+Les modalités d’obtention et la durée de la validité de la carte de médecin sont définies par règlement grand-ducal.
 
 #### Chapitre 2 Dispositions particulières à la profession de médecin-dentiste
 
 <a id="art-8"></a>
 ## Art. 8.
+
+(1)
+
+Sous réserve des dispositions prévues aux articles 9 et 11, et sans préjudice de l’article 14, paragraphe 2 de la présente loi, l’accès aux activités de médecin-dentiste et médecin-dentiste spécialiste et l’exercice de celles-ci au Luxembourg sont subordonnés à une autorisation du ministre qui est délivrée aux conditions suivantes:
+
+1. le candidat doit être ressortissant au sens de l’article 3, point q) de la loi du 28 octobre 2016 relative à la reconnaissance des qualifications professionnelles;
+
+2. il doit disposer d’un titre de formation de médecin-dentiste ou d’un titre de formation de médecin-dentiste spécialiste reconnu conformément aux dispositions de la loi du 28 octobre 2016 relative à la reconnaissance des qualifications professionnelles;
+
+3. il doit remplir les conditions de moralité et d’honorabilité ainsi que de santé physique et psychique nécessaires à l’exercice de la profession;
+
+4. il doit avoir les connaissances linguistiques nécessaires à l’exercice de la profession, soit en allemand, soit en français, et comprendre les trois langues administratives du Grand-Duché de Luxembourg ou acquérir les connaissances lui permettant de les comprendre. Une vérification des connaissances linguistiques du candidat d’une des trois langues luxembourgeoise, allemande ou française peut être faite à la demande du ministre par le Collège médical. Le président du Collège médical ou son délégué entend le candidat et transmet au ministre le résultat de la vérification ensemble avec l’avis prévu à l’article 10.
+
+(2)
+
+Un règlement grand-ducal détermine la liste des disciplines reconnues comme spécialités médico-dentaires au Luxembourg.
 
 <a id="art-8bis"></a>
 ## Art. 8bis.
@@ -76,6 +246,26 @@ Lorsque pour un motif spécifique et exceptionnel, le candidat ne remplit pas le
 <a id="art-9"></a>
 ## Art. 9.
 
+(1)
+
+Par dérogation aux dispositions de l’article 8, paragraphe 1er sous b), le ministre peut accorder l’autorisation temporaire d’exercer les activités de médecin-dentiste ou médecin-dentiste spécialiste sous la responsabilité d’un maître de stage autorisé définitivement à exercer la médecine dentaire au Luxembourg, aux étudiants en médecine dentaire, respectivement aux médecins-dentistes effectuant un stage de formation dans le cadre de la formation en médecine dentaire, respectivement de la formation de spécialisation en médecine dentaire.
+
+Cette autorisation ne peut dépasser une période de 12 mois. Elle est renouvelable sur demande de l’intéressé, à condition que celui-ci fournisse une preuve attestant que ce stage s’inscrit dans le cadre de la formation de médecin-dentiste ou médecin-dentiste spécialiste.
+
+Un règlement grand-ducal fixe les conditions d’accès, l’organisation et les conditions de réussite du stage ainsi que les conditions de travail du médecin-dentiste ou médecin-dentiste spécialiste ou étudiant en médecine dentaire effectuant le stage.
+
+(2)
+
+Par dérogation aux dispositions de l’article 8, paragraphe 1er sous b), le ministre peut accorder l’autorisation temporaire d’exercer les activités de médecin-dentiste ou médecin-dentiste spécialiste à titre de remplaçant d’un médecin-dentiste ou d’un médecin-dentiste spécialiste établi au Luxembourg, aux étudiants en médecine dentaire, respectivement aux médecins-dentistes effectuant un stage de formation dans le cadre de la formation en médecine dentaire, respectivement de la formation de spécialisation en médecine dentaire, ressortissants d’un Etat membre de l’Union européenne qui sont en dernière année d’une formation en médecine dentaire ou d’une formation de spécialisation en médecine dentaire.
+
+Un règlement grand-ducal fixe les modalités du remplacement ainsi que les conditions à remplir et la procédure à suivre pour obtenir l’autorisation de remplacement.
+
+(3)
+
+Par dérogation aux dispositions de l’article 8, paragraphe 1er, le ministre peut accorder l’autorisation d’exercer temporairement pendant une période ne pouvant dépasser 6 mois les activités de médecin-dentiste ou certaines activités relevant de l’exercice de la médecine dentaire aux médecins-dentistes ressortissants d’un pays tiers effectuant un stage de formation dans le cadre de la coopération internationale.
+
+L’autorisation d’exercer fixe les modalités et conditions du stage de formation.
+
 <a id="art-10"></a>
 ## Art. 10.
 
@@ -84,17 +274,103 @@ L’avis du Collège médical est demandé pour toutes les demandes en autorisat
 <a id="art-11"></a>
 ## Art. 11.
 
+(1)
+
+Le médecin-dentiste ressortissant d’un Etat membre de l’Union européenne qui est établi dans un autre Etat membre et y exerce légalement les activités de praticien de l’art dentaire, peut exécuter au Luxembourg des prestations de services de façon temporaire et occasionnelle sans autorisation du ministre.
+
+(2)
+
+Le médecin-dentiste ressortissant d’un pays tiers établi dans un Etat membre ou un pays tiers et y exerçant en qualité de médecin-dentiste, peut à titre occasionnel et sur appel du médecin-dentiste traitant ou du malade exécuter une prestation de services à titre de consultant du médecin-dentiste traitant établi au Luxembourg.
+
+(3)
+
+Un règlement grand-ducal détermine les conditions et modalités d’exercice de la prestation de services visée aux paragraphes (1) et (2) du présent article. Ce règlement prescrira entre autres que le médecin-dentiste fasse une déclaration préalable relative à sa prestation au ministre qui en fera parvenir une copie au Collège médical et aux organismes de sécurité sociale.
+
+(4)
+
+Le prestataire est soumis aux règles de conduite de caractère professionnel, réglementaire ou administratif en rapport direct avec les qualifications professionnelles telles que la définition de la profession, l’usage des titres et les fautes professionnelles graves qui ont un lien direct et spécifique avec la protection et la sécurité des patients, ainsi qu’aux dispositions disciplinaires applicables aux médecins-dentistes légalement établis au Luxembourg.
+
+(5)
+
+Le médecin-dentiste frappé d’une peine de suspension ou d’interdiction d’exercer sa profession au Luxembourg et qui est légalement établi dans un autre Etat membre, ne peut pas effectuer de prestation de services au Luxembourg pendant la durée de sa suspension ou de son interdiction.
+
 <a id="art-12"></a>
 ## Art. 12.
+
+(1)
+
+La personne autorisée à exercer la médecine dentaire au Luxembourg porte le titre professionnel de docteur en médecine dentaire, médecin-dentiste.
+
+(2)
+
+La personne autorisée à exercer la médecine dentaire au Luxembourg en qualité de médecin-dentiste spécialiste porte le titre professionnel de docteur en médecine dentaire, médecin-dentiste spécialiste suivi du nom de la spécialité reconnue au Luxembourg.
+
+(3)
+
+Le médecin-dentiste peut également être autorisé par le ministre à faire usage de son titre licite de formation tel que visé à l’article 8, paragraphe 1er, point b) et éventuellement de son abréviation dans la langue de l’Etat où il a acquis sa formation, suivi des nom et lieu de l’établissement ou du jury qui l’a délivré. Toutefois au cas où ce titre peut être confondu avec un titre exigeant une formation supplémentaire non acquise par le bénéficiaire, ce dernier ne pourra utiliser son titre de formation que dans une formule appropriée à indiquer par le ministre.
+
+Un règlement grand-ducal pourra préciser les modalités d’application de la présente disposition.
+
+(4)
+
+Le médecin-dentiste peut aussi être autorisé par le Collège médical à faire usage d’une fonction académique ou d’un titre licite de formation autre que celui visé au paragraphe 3 selon la formulation intégrale qui lui a été conféré par une université ou une autre autorité compétente, et qui est reconnu par les autorités compétentes du pays où il a été délivré.
+
+Le Collège médical peut soumettre cette autorisation au paiement préalable d’une taxe. Le montant de cette taxe est fixé annuellement par le Collège médical, étant entendu qu’il se situe entre 75 et 150 euros.
 
 <a id="art-13"></a>
 ## Art. 13.
 
+(1)
+
+Le médecin-dentiste autorisé à exercer doit veiller à la continuité des soins aux patients dont il a la charge.
+
+Au cas ou il ne peut pas satisfaire à cette obligation du fait de l’existence d’un deuxième cabinet ou lieu d’établissement, le ministre peut l’obliger à se limiter à un seul cabinet ou lieu d’établissement.
+
+(2)
+
+Il doit posséder les connaissances linguistiques nécessaires à l’exercice de sa profession au Luxembourg. Il engage sa responsabilité disciplinaire, civile et pénale si, par suite d’une insuffisance de ces connaissances, il commet une erreur dans l’exercice de sa profession ou fait commettre une erreur à d’autres dans l’exercice de leurs professions.
+
+Dès son installation il doit recueillir les informations nécessaires concernant les législations sanitaire et sociale et la déontologie applicables au Luxembourg.
+
+Il est obligé de tenir à jour ses connaissances professionnelles.
+
+Il est tenu au secret professionnel.
+
+(3)
+
+Le médecin-dentiste établi au Luxembourg est tenu de participer au service dentaire d’urgence dont l’organisation et les modalités sont fixées par règlement grand-ducal à prendre sur avis du Conseil d’Etat.
+
 <a id="art-13bis"></a>
 ## Art. 13bis.
 
+(1)
+
+Le médecin-dentiste prodigue aux patients dont il a la charge les soins préventifs, curatifs ou palliatifs que requiert leur état de santé, conformes aux données acquises par la science et à la déontologie.
+
+(2)
+
+En cas d’affection arrivée à un stade incurable et terminal le médecin-dentiste traitant apaise les souffrances physiques et morales du patient, en lui donnant les traitements appropriés, en évitant toute obstination déraisonnable et en maintenant pour autant que possible la qualité de la survie.
+
+Il met en œuvre tous les moyens qui sont à sa disposition pour permettre au patient mourant de garder sa dignité.
+
 <a id="art-14"></a>
 ## Art. 14.
+
+(1)
+
+Exerce illégalement la médecine dentaire
+
+1. toute personne qui prend part, même en présence du médecin-dentiste, à la pratique de la médecine dentaire sans remplir les conditions prévues aux articles 8 et 9 de la présente loi, sauf le cas d’urgence avérée;
+
+2. toute personne qui, munie d’un titre régulier prête son concours aux personnes visées sous a) à l’effet de les soustraire aux prescriptions de la présente loi;
+
+3. tout médecin-dentiste qui accomplit un acte professionnel pendant la durée d’une peine de suspension ou d’interdiction de l’exercice de la profession.
+
+- tout médecin-dentiste qui effectue une prestation de services sans remplir les conditions prévues à l’article 11 de la présente loi.
+
+(2)
+
+Les dispositions du présent article ne s’appliquent pas aux étudiants en médecine dentaire, aux médecins-dentistes qui agissent sous la responsabilité d’un maître de stage autorisé à exercer la médecine dentaire au Luxembourg dans le cadre d’un stage de formation ou d’adaptation prévus par la présente loi, ni aux membres des professions de santé régies par la loi modifiée du 26 mars 1992 sur l’exercice et la revalorisation de certaines professions de santé qui agissent dans la limite de leurs attributions fixées par les lois et règlement qui régissent ces professions.
 
 #### Chapitre 3 Dispositions communes aux professions de médecin et de médecin-dentiste
 
@@ -106,6 +382,24 @@ L’autorisation d’exercer la profession de médecin ou de médecin-dentiste v
 <a id="art-16"></a>
 ## Art. 16.
 
+(1)
+
+Dans le cas d’inaptitude, le ministre peut décider la suspension temporaire du droit d’exercer. Elle ne peut être ordonnée que sur base d’un rapport motivé adressé au ministre, établi par trois experts désignés l’un par l’intéressé ou sa famille, le deuxième par le directeur de la Santé et le troisième par les deux premiers. En cas de désaccord entre ces derniers, la désignation du troisième expert est faite sur demande du ministre par le président du tribunal d’arrondissement. Il en est de même en cas de carence de l’intéressé ou de sa famille pour la désignation du premier expert.
+
+Le ministre peut être saisi soit par le directeur de la Santé, soit par le Collège médical. L’expertise prévue à l’alinéa précédent doit être effectuée au plus tard dans le délai de deux mois à compter de la désignation des trois experts.
+
+(2)
+
+S’il y a péril en la demeure, lorsque la poursuite de l’exercice professionnel par un médecin ou un médecin-dentiste risque d’exposer la santé ou la sécurité des patients ou de tiers à un dommage grave, le ministre peut, sur avis du Collège médical et l’intéressé dûment mis en mesure de présenter ses observations, suspendre avec effet immédiat le droit d’exercer ou le soumettre à certaines restrictions. La décision de suspension doit être motivée et ne peut dépasser trois mois. Avant l’expiration de ce délai le ministre, sur base d’un rapport d’expertise tel que prévu au paragraphe qui précède, décide soit de restaurer l’intéressé dans son droit d’exercer, soit de prolonger la mesure de suspension, soit de prononcer le retrait de l’autorisation d’exercer.
+
+(3)
+
+La durée totale d’une mesure de suspension temporaire ne peut pas dépasser deux ans. Le ministre peut subordonner la reprise de l’activité professionnelle à la constatation de l’aptitude de l’intéressé par une nouvelle expertise effectuée à la diligence du directeur de la Santé, dans les conditions ci-dessus prévues, dans le mois qui précède l’expiration de la période de suspension.
+
+(4)
+
+Les frais d’expertise sont à charge du titulaire dont l’autorisation a été suspendue temporairement. Il en est de même en cas de renouvellement de suspension ou de retrait de l’autorisation. Dans les autres cas, les frais d’expertise sont à charge de l’Etat.
+
 <a id="art-17"></a>
 ## Art. 17.
 
@@ -115,6 +409,14 @@ Les cas de maladies infectieuses ou transmissibles déclarés dans les différen
 
 <a id="art-18"></a>
 ## Art. 18.
+
+(1)
+
+Pour les règlements grand-ducaux concernant les professions de médecin et de médecin-dentiste prévus aux chapitres 1er, 2, 3 et 5 de la présente loi, l’avis du collège médical doit être demandé.
+
+(2)
+
+Un code de déontologie des professions de médecin et de médecin-dentiste est édicté par le collège médical et approuvé par le ministre. Ce code est publié au Mémorial.
 
 <a id="art-19"></a>
 ## Art. 19.
@@ -133,7 +435,15 @@ Est nulle toute convention conclue par les membres des professions de médecin e
 <a id="art-21"></a>
 ## Art. 21.
 
-Sous réserve des dispositions prévues à l’article 25 de la présente loi, l’accès aux activités de médecin-vétérinaire et l’exercice de celles-ci au Luxembourg sont subordonnés à une autorisation du ministre qui est délivrée aux conditions suivantes: Une vérification des connaissances linguistiques du candidat d’une des trois langues luxembourgeoise, allemande ou française peut être faite à la demande du ministre par le Collège vétérinaire. Le président du Collège vétérinaire ou son délégué entend le candidat et transmet au ministre le résultat de la vérification ensemble avec l’avis prévu à l’article 23.
+Sous réserve des dispositions prévues à l’article 25 de la présente loi, l’accès aux activités de médecin-vétérinaire et l’exercice de celles-ci au Luxembourg sont subordonnés à une autorisation du ministre qui est délivrée aux conditions suivantes:
+
+1. le candidat doit être ressortissant au sens de l’article 3, point q) de la loi du 28 octobre 2016 relative à la reconnaissance des qualifications professionnelles;
+
+2. il doit disposer d’un titre de formation de médecin-vétérinaire reconnu conformément aux dispositions de la loi du 28 octobre 2016 relative à la reconnaissance des qualifications professionnelles;
+
+3. il doit remplir les conditions de moralité et d’honorabilité ainsi que de santé physique et psychique nécessaires à l’exercice de la profession de médecin-vétérinaire;
+
+4. il doit avoir les connaissances linguistiques nécessaires à l’exercice de la profession, soit en allemand, soit en français, et comprendre les trois langues administratives du Grand-Duché de Luxembourg ou acquérir les connaissances lui permettant de les comprendre. Une vérification des connaissances linguistiques du candidat d’une des trois langues luxembourgeoise, allemande ou française peut être faite à la demande du ministre par le Collège vétérinaire. Le président du Collège vétérinaire ou son délégué entend le candidat et transmet au ministre le résultat de la vérification ensemble avec l’avis prévu à l’article 23.
 
 <a id="art-21bis"></a>
 ## Art. 21bis.
@@ -160,14 +470,86 @@ L’autorisation d’exercer la profession de médecin-vétérinaire visée aux 
 <a id="art-24bis"></a>
 ## Art. 24bis.
 
+(1)
+
+Dans le cas d’inaptitude, le ministre peut décider la suspension temporaire du droit d’exercer. Elle ne peut être ordonnée que sur base d’un rapport motivé adressé au ministre, établi par trois experts, à savoir deux médecins désignés l’un par l’intéressé ou sa famille, le deuxième par le directeur de la Santé et un médecin-vétérinaire désigné par les deux premiers. En cas de désaccord entre ces derniers, la désignation du médecin-vétérinaire est faite sur demande du ministre par le président du tribunal d’arrondissement. Il en est de même en cas de carence de l’intéressé ou de sa famille pour la désignation du premier expert.
+
+Le ministre peut être saisi soit par le directeur de la Santé soit par le Collège vétérinaire. L’expertise prévue à l’alinéa précédent doit être effectuée au plus tard dans le délai de deux mois à partir de la désignation des trois experts.
+
+(2)
+
+S’il y a péril en la demeure, lorsque la poursuite de l’exercice professionnel par un médecin-vétérinaire risque d’exposer la santé ou la sécurité des animaux ou de tiers à un dommage grave, le ministre peut, sur avis du Collège vétérinaire et l’intéressé dûment mis en mesure de présenter ses observations, suspendre avec effet immédiat le droit d’exercer. La décision de suspension doit être motivée et ne peut dépasser trois mois. Avant l’expiration de ce délai le ministre, sur base d’un rapport d’expertise tel que prévu au paragraphe qui précède, décide soit de restaurer l’intéressé dans son droit d’exercer, soit de prolonger la mesure de suspension, soit de prononcer le retrait de l’autorisation d’exercer.
+
+(3)
+
+La durée totale d’une mesure de suspension ne peut pas dépasser deux ans. Le ministre peut subordonner la reprise de l’activité professionnelle à la constatation de l’aptitude de l’intéressé par une nouvelle expertise effectuée à la diligence du directeur de la Santé, dans les conditions ci-dessus prévues, dans le mois qui précède l’expiration de la période de suspension.
+
+(4)
+
+Les frais d’expertise sont à charge du titulaire dont l’autorisation a été suspendue temporairement. Il en est de même en cas de renouvellement de suspension ou de retrait de l’autorisation. Dans les autres cas, les frais d’expertise sont à charge de l’Etat.
+
 <a id="art-25"></a>
 ## Art. 25.
+
+(1)
+
+Le médecin-vétérinaire ressortissant d’un Etat membre de l’Union européenne qui est établi dans un autre Etat membre et y exerce légalement les activités de vétérinaire, peut exécuter au Luxembourg des prestations de services de façon temporaire et occasionnelle sans autorisation du ministre.
+
+(2)
+
+Le médecin-vétérinaire ressortissant d’un pays tiers établi dans un Etat membre ou un pays tiers et y exerçant en qualité de médecin-vétérinaire, peut à titre occasionnel et sur appel du médecin-vétérinaire traitant ou du client exécuter une prestation de services à titre de consultant du médecin-vétérinaire traitant établi au Luxembourg.
+
+(3)
+
+Un règlement grand-ducal détermine les conditions et modalités d’exercice de la prestation de services visée aux paragraphes (1) et (2) du présent article. Ce règlement prescrira entre autres que le médecin-vétérinaire fasse une déclaration préalable relative à sa prestation au ministre qui en fera parvenir une copie au Collège vétérinaire.
+
+(4)
+
+Le prestataire est soumis aux règles de conduite de caractère professionnel, réglementaire ou administratif en rapport direct avec les qualifications professionnelles telles que la définition de la profession, l’usage des titres et les fautes professionnelles graves qui ont un lien direct et spécifique avec la protection et la sécurité des animaux, ainsi qu’aux dispositions disciplinaires applicables aux médecins vétérinaires légalement établis au Luxembourg.
+
+(5)
+
+Le médecin-vétérinaire frappé d’une peine de suspension ou d’interdiction d’exercer sa profession au Luxembourg et qui est légalement établi dans un autre Etat membre, ne peut pas effectuer de prestation de services au Luxembourg pendant la durée de sa suspension ou de son interdiction.
 
 <a id="art-26"></a>
 ## Art. 26.
 
+(1)
+
+La personne autorisée à exercer la médecine vétérinaire au Luxembourg porte le titre professionnel de docteur en médecine vétérinaire, médecin-vétérinaire.
+
+(2)
+
+Le médecin-vétérinaire peut également être autorisé par le ministre à faire usage de son titre licite de formation tel que visé à l’article 21, point b) et éventuellement de son abréviation dans la langue de l’Etat où il a acquis sa formation, suivi des nom et lieu de l’établissement ou du jury qui l’a délivré. Toutefois au cas où ce titre peut être confondu avec un titre exigeant une formation supplémentaire non acquise par le bénéficiaire, ce dernier ne pourra utiliser son titre de formation que dans une formule appropriée à indiquer par le ministre.
+
+Un règlement grand-ducal pourra préciser les modalités d’application de la présente disposition.
+
+(3)
+
+Le médecin-vétérinaire peut aussi être autorisé par le Collège vétérinaire à faire usage d’une fonction académique ou d’un titre licite de formation autre que celui visé au paragraphe 2 selon la formulation intégrale qui lui a été conféré par une université ou une autre autorité compétente, et qui est reconnu par les autorités compétentes du pays où il a été délivré. Le Collège vétérinaire peut soumettre cette autorisation au paiement préalable d’une taxe. Le montant de cette taxe est fixé annuellement par le Collège vétérinaire, étant entendu qu’il se situe entre 75 et 150 euros.
+
 <a id="art-27"></a>
 ## Art. 27.
+
+(1)
+
+Le médecin-vétérinaire autorisé à exercer doit posséder les connaissances linguistiques nécessaires à l’exercice de sa profession au Luxembourg. Il engage sa responsabilité disciplinaire, civile et pénale si, par suite d’une insuffisance des ces connaissances, il commet une erreur dans l’exercice de sa profession ou fait commettre une erreur à d’autres dans l’exercice de leurs professions.
+
+Dès son installation il doit recueillir les informations nécessaires concernant la législation vétérinaire et la déontologie applicables au Luxembourg.
+
+Il est obligé de tenir à jour ses connaissances professionnelles.
+
+Il est tenu au secret professionnel.
+
+(2)
+
+Le médecin-vétérinaire établi au Luxembourg est tenu de participer au service vétérinaire de garde dont l’organisation et les modalités sont fixées par règlement grand-ducal à prendre sur avis du Conseil d’Etat.
+
+(3)
+
+Le médecin-vétérinaire qui participe au service de garde a droit à une indemnité forfaitaire par service de garde effectué. Cette indemnité est à charge du budget de l’État et ne peut pas dépasser le montant de 300 euros.
+
+Un règlement grand-ducal fixe le montant de cette indemnité.
 
 <a id="art-28"></a>
 ## Art. 28.
@@ -194,8 +576,38 @@ Un règlement grand-ducal à prendre sur avis du Conseil d’Etat détermine les
 <a id="art-31"></a>
 ## Art. 31.
 
+(1)
+
+Pour les règlements grand-ducaux concernant la profession de médecin-vétérinaire prévus aux chapitres 4 et 5 de la présente loi, l’avis du collège vétérinaire doit être demandé.
+
+(2)
+
+Un code de déontologie de la profession de médecin-vétérinaire est édicté par le collège vétérinaire et approuvé par le ministre. Ce code est publié au Mémorial.
+
 <a id="art-32"></a>
 ## Art. 32.
+
+(1)
+
+Exerce illégalement la médecine vétérinaire:
+
+1. toute personne qui exerce la médecine vétérinaire, même en présence d’un médecin-vétérinaire, sans remplir les conditions prévues aux articles 21, 22, ou 25 de la présente loi, sauf le cas d’urgence avérée;
+
+2. toute personne qui, munie d’un titre régulier prête son concours aux personnes visées sous a), à l’effet de les soustraire aux prescriptions de la présente loi;
+
+3. tout médecin-vétérinaire qui accomplit un acte professionnel pendant la durée d’une peine de suspension ou d’interdiction de l’exercice de la profession.
+
+1. tout médecin-vétérinaire qui effectue une prestation de services sans remplir les conditions prévues à l’article 25 de la présente loi.
+
+(2)
+
+Les dispositions du présent article ne s’appliquent pas:
+
+- aux personnes qui pratiquent certaines opérations urgentes ou d’importance secondaire à déterminer par règlement grand-ducal sur avis du collège vétérinaire;
+
+- aux étudiants en médecine vétérinaire d’un Etat membre de la communauté européenne qui agissent sous la responsabilité d’un maître de stage autorisé à exercer la médecine vétérinaire au Luxembourg dans le cadre d’un stage de formation ou d’adaptation prévus par la présente loi;
+
+- aux auxiliaires officiels visés par le règlement (CE) n° 854/2004 du Parlement européen et du Conseil du 29 avril 2004 fixant les règles spécifiques d’organisation des contrôles officiels concernant les produits d’origine animale destinés à la consommation humaine, sous réserve qu’ils agissent dans les conditions fixées par ce règlement.
 
 #### Chapitre 5 Dispositions communes aux professions de médecin, médecin-dentisteet médecin-vétérinaire
 
@@ -216,8 +628,78 @@ Un règlement grand-ducal détermine les modalités du stage d’adaptation et d
 <a id="art-32quater"></a>
 ## Art. 32quater.
 
+(1)
+
+Une taxe d’un montant de 450 euros est due pour toute demande d’autorisation d’exercer définitive, visée aux articles 1er, 1er bis, 8 et 21.
+
+Une taxe d’un montant de 10 euros est due en cas d’établissement d’un duplicata du document attestant les autorisations visées à l’alinéa précédent.
+
+(2)
+
+Une taxe d’un montant de 150 euros est due pour toute demande d’autorisation d’exercer temporaire, visée aux articles 2 (2) et 9 (2).
+
+Une taxe d’un montant de 10 euros est due en cas d’établissement d’un duplicata du document attestant les autorisations visées à l’alinéa précédent.
+
+(3)
+
+Une taxe d’un montant de 75 euros est due pour toute demande d’autorisation pour l’usage du titre licite de formation, visée aux articles 5 (3), 12 (3) et 26 (2).
+
+Une taxe d’un montant de 10 euros est due en cas d’établissement d’un duplicata du document attestant les autorisations visées à l’alinéa précédent.
+
+(4)
+
+Une taxe d’un montant de 450 euros est due pour toute demande d’autorisation pour l’ouverture d’une clinique vétérinaire, visée à l’article 29bis.
+
+Une taxe d’un montant de 10 euros est due en cas d’établissement d’un duplicata du document attestant l’autorisation visée à l’alinéa précédent.
+
+(5)
+
+La taxe est à acquitter moyennant un versement ou un virement sur un compte bancaire de l’Administration de l’enregistrement et des domaines, comprenant indication de l’identité du requérant ainsi que l’objet du virement ou versement.
+
+La preuve de paiement est à joindre à la demande et constitue une pièce obligatoire du dossier.
+
 <a id="art-33"></a>
 ## Art. 33.
+
+(1)
+
+Le médecin, le médecin-dentiste ou le médecin-vétérinaire autorisé à exercer sa profession au Luxembourg conformément aux articles 1er, 2, 8, 9, 21 et 22 de la présente loi est tenu, sous peine de sanctions disciplinaires de se faire inscrire dans le mois qui suit son installation aux registres professionnels mentionnés ci-dessous.
+
+(2)
+
+Le ministre tient à jour un registre professionnel regroupant les informations administratives et disciplinaires relatives aux médecins, médecins-dentistes et médecins-vétérinaires autorisés à exercer au Luxembourg conformément aux dispositions de la présente loi, les informations relatives aux prestataires de services visés aux articles 4, 11 et 25, ainsi que les informations relatives aux détenteurs d’une autorisation temporaire d’exercer les activités de médecin, médecin-dentiste ou de médecin-vétérinaire à titre de remplaçant ou de doctorant.
+
+Le Collège médical tient à jour un registre ordinal pour les professions de médecin et de médecin-dentiste. Pour la profession de médecin-vétérinaire, ce registre est tenu par le Collège vétérinaire. Les informations nécessaires à la tenue du registre ordinal leur sont communiquées d’office par le ministre.
+
+(3)
+
+Le registre professionnel renseigne en outre sur les sanctions disciplinaires ou pénales qui ont été prises et renseigne sur des faits graves et précis susceptibles d’avoir des conséquences sur l’exercice des activités professionnelles du médecin, médecin-dentiste ou médecin-vétérinaire.
+
+(4)
+
+Les personnes concernées ne peuvent pas s’opposer au traitement des données administratives ou professionnelles les concernant aux fins de la tenue du registre professionnel.
+
+Les personnes concernées peuvent à tout moment accéder au registre professionnel. Ils peuvent requérir la rectification d’inscriptions erronées ou le retrait d’inscriptions ne concernant pas leur activité professionnelle. Ils peuvent aussi y faire consigner leurs observations écrites éventuelles.
+
+(5)
+
+Les inscriptions du registre sont communiquées au Collège médical, au Collège vétérinaire et aux institutions de sécurité sociale qui se communiquent ces données réciproquement.
+
+Elles peuvent être fournies sur demande à toute autorité ou instance habilitée spécifiquement par un autre Etat membre de l’Union européenne à délivrer ou à recevoir des titres de formation et autres documents ou informations, via le système d’information mis en place par le RÈGLEMENT (UE) n° 1024/2012 DU PARLEMENT EUROPÉEN ET DU CONSEIL du 25 octobre 2012 concernant la coopération administrative par l’intermédiaire du système d’information du marché intérieur et abrogeant la décision 2008/49/CE de la Commission («règlement IMI»), à condition que ces échanges d’information se fassent dans la confidentialité et le respect de la législation sur la protection des données à caractère personnel.
+
+(6)
+
+Un règlement grand-ducal précise le détail des informations qui doivent être fournies par les intéressés concernant leur situation administrative et disciplinaire. Il peut rendre obligatoire l’usage de formulaires préétablis.
+
+Sous peine de sanction disciplinaire, tout changement intervenu dans le chef des données ainsi fournies ou de la situation professionnelle doit être signalé endéans le mois au ministre pour être mentionné dans le registre professionnel ainsi qu’au Collège médical et au Collège vétérinaire pour être mentionné dans les registres ordinaux respectifs.
+
+(7)
+
+La liste des médecins, médecins-dentistes et médecins-vétérinaires inscrits au registre professionnel institué auprès du ministre est tenue à la disposition du public sous forme d’un annuaire consultable. Le médecin, médecin-dentiste et médecin-vétérinaire dont l’autorisation d’exercer est devenue caduque est omis d’office de cet annuaire.
+
+Le médecin, médecin-dentiste et médecin-vétérinaire qui se trouve frappé d’une interdiction d’exercer au Luxembourg reste inscrit à l’annuaire public pendant une période de six mois suivant la prise d’effet de cette mesure, avec indication de son interdiction d’exercer.
+
+De même le médecin, médecin-dentiste et médecin-vétérinaire qui se trouve frappé d’une mesure de suspension reste inscrit à l’annuaire public pendant toute la durée de la suspension, avec indication de sa suspension.
 
 <a id="art-33bis"></a>
 ## Art. 33bis.
@@ -280,6 +762,18 @@ L’exercice illégal de la médecine, de la médecine dentaire ou de la médeci
 <a id="art-42"></a>
 ## Art. 42.
 
+(1)
+
+Les infractions aux dispositions des articles 6 (3), 13 (3), 17, 19, 27 (2), 28, 29 et 32 ter et des règlements d’exécution à prendre en vertu de ces articles sont punies d’une amende de 251 à 50.000 euros.
+
+(2)
+
+Le maximum de l’amende sera porté au double si le condamné commet le même fait avant l’expiration d’un délai de deux ans à compter du jour où une première condamnation est devenue définitive. En outre l’utilisation des équipements et appareillages installés en violation du règlement grand-ducal prévu par l’article 19 peut être interdite.
+
+(3)
+
+Les infractions aux dispositions des articles 6 (3), 13 (3) et 27 (2) et des règlements d’exécution à prendre en vertu de ces articles sont punies d’une amende de 251 à 25.000 euros.
+
 <a id="art-43"></a>
 ## Art. 43.
 
@@ -293,8 +787,24 @@ Il y a récidive lorsque l’agent du délit a été, dans les cinq ans qui pré
 <a id="art-45"></a>
 ## Art. 45.
 
+(1)
+
+Dans les cas où les cours et tribunaux, jugeant en matière répressive, prononcent à charge d’un médecin, d’un médecin-dentiste ou d’un médecin-vétérinaire suivant les distinctions et pour les temps établis par les articles 11, 24, 32, du code pénal, l’interdiction de tout ou partie des droits détaillés à l’article 11 de ce code, ils ajoutent à ces droits celui de l’exercice de la profession du condamné.
+
+(2)
+
+Toutefois, si la condamnation a été encourue du chef de vol ou de tentative de vol, de recèlement d’objets obtenus à l’aide d’un crime ou d’un délit, d’abus de confiance, d’escroquerie ou de tromperie, sans qu’il y ait lieu en droit ou en fait, à l’application de l’article 78 du code pénal, l’interdiction de l’exercice de la profession est toujours prononcée contre le condamné.
+
 <a id="art-46"></a>
 ## Art. 46.
+
+(1)
+
+En cas de condamnation prononcée à l’étranger contre un médecin, un médecin-dentiste ou un médecin-vétérinaire établi au Luxembourg pour des faits entraînant à charge de celui-ci l’interdiction obligatoire ou facultative de l’exercice de la profession, cette interdiction peut être, à la requête du ministère public, prononcée par le tribunal correctionnel indigène auquel ressortit le condamné du fait de son domicile ou de sa résidence.
+
+(2)
+
+Les citations et les recours en appel et en cassation ont lieu comme il est réglé pour les matières correctionnelles. Il en est de même des frais.
 
 <a id="art-47"></a>
 ## Art. 47.

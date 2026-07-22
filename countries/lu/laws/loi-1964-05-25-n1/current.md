@@ -72,6 +72,12 @@ Les propriétaires intéressés pourront exercer un recours contre les décision
 
 Pourront être incorporés dans une opération de remembrement sans autorisation préalable:
 
+1. les terrains appartenant au domaine privé de l'Etat et des communes;
+
+2. les terrains appartenant aux fabriques d'église;
+
+3. les biens de cure.
+
 Ne peuvent être incorporés dans une opération de remembrement qu'en vertu d'une loi spéciale les terrains affectés à des buts militaires.
 
 Ne peuvent être incorporés dans une opération de remembrement qu'après autorisation préalable par règlement d'administration publique, les sites et les immeubles classés comme monuments publics par arrêté du ministre ayant dans ses attributions les arts et sciences, en vertu de l'article 2 de la loi du 12 août 1927 concernant la conservation et la protection des sites et des monuments nationaux.
@@ -138,6 +144,18 @@ L'Office national du remembrement jouit de la personnalité civile et a son siè
 
 L'Office national du remembrement est composé de huit membres, à savoir:
 
+- un président, ayant la qualité de fonctionnaire de l'Etat de plein emploi,
+
+- le directeur de l'administration des services agricoles,
+
+- le directeur de l'administration du cadastre,
+
+- trois membres à désigner par la Chambre d’Agriculture,
+
+- un conseiller juridique,
+
+- un conseiller financier.
+
 Le président, les conseillers juridique et financier, ainsi qu'un suppléant pour chacun des membres autres que le président et les délégués de la Chambre d'Agriculture, sont nommés par le Grand-Duc. Les suppléants des délégués de la Chambre d’Agriculture sont nommés de la même manière que les délégués. En cas d'empêchement du président, celui-ci est remplacé par le directeur de l'administration des services agricoles. En cas d'empêchement de ce dernier, le directeur de l'administration du cadastre le remplacera.
 
 Le président de l’Office du remembrement est assisté par des employés nommés par l’Office national du remembrement et placés sous la direction et l’autorité dudit Office. Les droits et devoirs et notamment les conditions de nomination, de rémunération et de retraite de ces employés feront l’objet d’un règlement grand-ducal, l’Office national du remembrement entendu. Ce règlement pourra avoir un effet rétroactif en tant qu’il a pour objet de prendre des dispositions correspondant à celles applicables aux fonctionnaires et employés publics.
@@ -200,6 +218,12 @@ Il est dressé acte devant notaire des conventions conclues entre les propriéta
 
 A l'acte notarié visé par l'alinéa qui précède sont annexés:
 
+1. une expédition de l'arrêté ministériel et un extrait du plan cadastral, visés à l'article13;
+
+2. un plan des propriétés remembrées indiquant le nouveau lotissement des terrains et leur classement;
+
+3. une copie de l'approbation de l'Office national du remembrement.
+
 Une expédition de l'acte est déposée à l'Office national du remembrement. Le notaire devant lequel est dressé l'acte est choisi par les propriétaires intéressés, à la majorité relative. En cas de partage des voix, la majorité relative des surfaces est déterminante.
 
 L'acte du remembrement conventionnel peut également être dressé conformément à la procédure de l'article 35, alinéa 2, deuxième phrase.
@@ -218,6 +242,10 @@ L'Office national du remembrement fait cette proposition, soit de sa propre init
 La demande est à présenter par écrit à l'Office national du remembrement.
 
 L'enquête est faite par cet Office et comprend:
+
+1. une consultation des propriétaires et autres détenteurs de droits réels;
+
+2. une délibération de l'assemblée générale de l'association syndicale de remembrement.
 
 <a id="art-16"></a>
 ## Art. 16.

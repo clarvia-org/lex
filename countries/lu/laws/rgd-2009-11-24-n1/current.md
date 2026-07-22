@@ -29,7 +29,13 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 <a id="art-1er"></a>
 ## Art. 1er.
 
-La quote-part dans le produit net de l'Œuvre Nationale de Secours Grande-Duchesse Charlotte à prélever au profit des offices sociaux communaux est fixée à un sixième. Elle est répartie entre les différents offices sociaux:
+La quote-part dans le produit net de l'Œuvre Nationale de Secours Grande-Duchesse Charlotte à prélever au profit des offices sociaux communaux est fixée à un sixième.
+
+Elle est répartie entre les différents offices sociaux:
+
+1. pour un tiers de la quote-part en fonction du nombre de personnes ayant leur domicile sur le territoire de la ou des communes où l'office exerce ses missions;
+
+2. pour deux tiers de la quote-part en fonction du volume de l'aide accordée au cours de l'exercice écoulé.
 
 <a id="art-2"></a>
 ## Art. 2.

@@ -29,6 +29,12 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 Le plan d’études de l’enseignement fondamental est constitué de trois parties différentes jointes en annexe, portant sur les socles de compétences, les programmes et les grilles des horaires hebdomadaires. Les trois annexes font partie intégrante du présent règlement.
 
+1. À l’annexe 1 figurent les socles de compétences à atteindre à la fin de chaque cycle d’apprentissage par les élèves, les niveaux de compétence intermédiaires à franchir au cours des quatre cycles d’apprentissage ainsi que les niveaux de compétence pouvant être atteints après la maîtrise des socles du quatrième cycle.
+
+2. À l’annexe 2 figurent les programmes relatifs aux enseignements à dispenser dans les différents domaines de développement et d’apprentissage de l’enseignement fondamental. Les programmes comprennent les compétences à développer au cours des quatre cycles d’apprentissage, des exemples de descripteurs illustrant les performances attendues des élèves au cours d’un cycle, ainsi que les contenus se rapportant au développement des différentes compétences.
+
+3. Les grilles des horaires hebdomadaires des différentes branches relatives aux domaines de développement et d’apprentissage de l’enseignement fondamental figurent à l’annexe 3.
+
 <a id="art-2"></a>
 ## Art. 2.
 
@@ -53,7 +59,17 @@ Dans les domaines relatifs aux mathématiques, à l’éveil aux sciences, aux s
 <a id="art-4bis"></a>
 ## Art. 4 bis .
 
-Sans préjudice de l’article 4, le français peut être utilisé comme langue d’enseignement employée dans les domaines de développement et d’apprentissage relatifs à l’alphabétisation, la langue française, les mathématiques, l’éveil aux sciences, les sciences naturelles et humaines à : participant à un projet pilote mené par le SCRIPT tel que prévu par l’article 4, paragraphe 1er, point 1, de la loi modifiée du 7 octobre 1993 ayant pour objet a) la création d’un Service de Coordination de la Recherche et de l’Innovation pédagogiques et technologiques ; b) la création d’un « Centre de Gestion Informatique de l’Éducation » ; c) l’institution d’un Conseil scientifique.
+Sans préjudice de l’article 4, le français peut être utilisé comme langue d’enseignement employée dans les domaines de développement et d’apprentissage relatifs à l’alphabétisation, la langue française, les mathématiques, l’éveil aux sciences, les sciences naturelles et humaines à :
+
+1. l’école fondamentale Oberkorn de la Ville de Differdange ;
+
+2. l’école fondamentale Deich de la Ville de Dudelange ;
+
+3. l’école fondamentale Fielser Schoul de la commune de Larochette, et
+
+4. l’école fondamentale Nelly Stein de la commune de Schifflange,
+
+participant à un projet pilote mené par le SCRIPT tel que prévu par l’article 4, paragraphe 1er, point 1, de la loi modifiée du 7 octobre 1993 ayant pour objet a) la création d’un Service de Coordination de la Recherche et de l’Innovation pédagogiques et technologiques ; b) la création d’un « Centre de Gestion Informatique de l’Éducation » ; c) l’institution d’un Conseil scientifique.
 
 Dans le contexte de ce projet pilote mené par le SCRIPT, l’allemand est la langue d’enseignement employée pour l’apprentissage de l’allemand.
 
@@ -81,20 +97,72 @@ La liste du matériel recommandé par le ministre ayant l’Éducation nationale
 
 Des activités connexes au plan d’études, organisées sous forme de cours de rattrapage pour les élèves des cycles 2, 3 et 4 de l’enseignement fondamental pendant la période allant du 31 août au 11 septembre 2020, sont mises en œuvre selon les principes suivants :
 
+1. Les élèves des cycles 2, 3 et 4.1 bénéficient dans une école de leur commune de cours de rattrapage facultatifs et gratuits pendant la période allant du 31 août au 11 septembre 2020 ;
+
+2. La durée des cours de rattrapage est d’une semaine pour les élèves du cycle 2, 3, et 4.1, à l’exception des cours de rattrapage de mathématiques du cycle 4.1 qui ont une durée de deux semaines ;
+
+3. Un cours de rattrapage en mathématiques et un cours de rattrapage en langue allemande sont organisés pour les élèves du cycle 2 ;
+
+4. Un cours de rattrapage en mathématiques et un cours de rattrapage en langues allemande et française sont organisés pour les élèves du cycle 3 ;
+
+5. Un cours de rattrapage en mathématiques, un cours de rattrapage en langue allemande et un cours de rattrapage en langue française sont organisés pour les élèves du cycle 4.1 ;
+
+6. Les cours de rattrapage sont tenus les lundis, mercredis et vendredis de 8.00 à 10.00 heures, de 10.15 à 12.15 heures et de 14.00 à 16.00 heures et les mardis et jeudis de 8.00 à 10.00 heures et de 10.15 à 12.15 heures. Les horaires des cours peuvent être adaptés pour les besoins des mesures sanitaires à prendre dans le cadre de la pandémie du Covid-19 ;
+
+7. Les cours de rattrapage sont assurés par le personnel enseignant de l’école.
+
 <a id="art-6ter"></a>
 ## Art. 6ter.
 
 Des activités connexes au plan d’études, organisées sous forme de cours de rattrapage pour les élèves des cycles 2, 3 et 4 de l’enseignement fondamental pendant la période allant du 30 août 2021 au 10 septembre 2021, sont mises en œuvre selon les principes suivants :
+
+1. Les élèves des cycles 2, 3 et 4.1 bénéficient, dans une école de leur commune, de cours de rattrapage facultatifs et gratuits ;
+
+2. La durée des cours de rattrapage est d’une semaine pour les élèves des cycles 2, 3, et 4.1, à l’exception des cours de rattrapage de mathématiques du cycle 4.1 qui ont une durée de deux semaines ;
+
+3. Un cours de rattrapage en mathématiques et un cours de rattrapage en langue allemande sont organisés pour les élèves du cycle 2 ;
+
+4. Un cours de rattrapage en mathématiques et un cours de rattrapage en langues allemande et française sont organisés pour les élèves du cycle 3 ;
+
+5. Un cours de rattrapage en mathématiques, un cours de rattrapage en langue allemande et un cours de rattrapage en langue française sont organisés pour les élèves du cycle 4.1 ;
+
+6. Les cours de rattrapage sont tenus les lundis, mercredis et vendredis de 8.00 à 10.00 heures, de 10.15 à 12.15 heures et de 14.00 à 16.00 heures et les mardis et jeudis de 8.00 à 10.00 heures et de 10.15 à 12.15 heures. Les horaires des cours peuvent être adaptés pour les besoins des mesures sanitaires à prendre dans le cadre de la pandémie du Covid-19 ;
+
+7. Les cours de rattrapage sont assurés par le personnel enseignant de l’école, de la commune ou mis à disposition par l’État.
 
 <a id="art-6quater"></a>
 ## Art. 6quater.
 
 Des activités connexes au plan d’études, organisées sous forme d’activités guidées, sont mises en œuvre, pour les élèves des cycles 2 à 4.1 de l’enseignement fondamental, pendant la période allant du 29 août 2022 au 9 septembre 2022, selon les principes suivants :
 
+1. Les élèves des cycles 2 à 4.1 bénéficient, dans une école de leur commune, d’activités guidées facultatives et gratuites ;
+
+2. La durée des activités guidées est d’une semaine pour les élèves des cycles 2 à 4.1, à l’exception des activités guidées de mathématiques du cycle 4.1 qui ont une durée de deux semaines ;
+
+3. Une activité guidée en mathématiques et une activité guidée en langue allemande sont organisées pour les élèves du cycle 2 ;
+
+4. Une activité guidée en mathématiques et une activité guidée en langues allemande et française sont organisées pour les élèves du cycle 3 ;
+
+5. Une activité guidée en mathématiques, une activité guidée en langue allemande et une activité guidée en langue française sont organisées pour les élèves du cycle 4.1 ;
+
+6. Les activités guidées sont tenues les lundis, mercredis et vendredis de 8.00 à 10.00 heures, de 10.15 à 12.15 heures et de 14.00 à 16.00 heures et les mardis et jeudis de 8.00 à 10.00 heures et de 10.15 à 12.15 heures. ;
+
+7. Les activités guidées sont assurées par le personnel enseignant de l’école, de la commune ou mis à disposition par l’État.
+
 <a id="art-6quinquies"></a>
 ## Art. 6quinquies.
 
 Des activités connexes au plan d’études, organisées sous forme d’activités guidées, sont mises en œuvre, pour les élèves des cycles 2 à 4.1 de l’enseignement fondamental, pendant la période allant du 4 septembre 2023 au 14 septembre 2023, selon les principes suivants :
+
+1. les élèves des cycles 2 à 4.1 bénéficient, dans une école de leur commune de résidence, d’activités guidées facultatives et gratuites ;
+
+2. une activité guidée en mathématiques et une activité guidée en langue allemande sont organisées pour les élèves du cycle 2 ;
+
+3. une activité guidée en mathématiques et une activité guidée en langues allemande et française sont organisées pour les élèves du cycle 3 ;
+
+4. une activité guidée en mathématiques, une activité guidée en langue allemande et en langue française sont organisées pour les élèves du cycle 4.1 ;
+
+5. les activités guidées sont assurées par du personnel mis à disposition par l’État.
 
 <a id="art-7"></a>
 ## Art. 7.

@@ -37,6 +37,10 @@ Sont applicables aux substances visées à l'article 1er les articles 1er, 2, 5,
 
 Toutefois, par dérogation à l'alinéa 1er ci-dessus
 
+- les dispositions de l'article 5 du règlement grand-ducal modifié du 19 février 1974 précité ne sont pas applicables aux substances figurant à la partie B de l'annexe. Pour ces dernières substances le fabricant, commerçant ou détenteur tiendra un registre dans lequel seront inscrites jour par jour, les quantités totales, substance par substance, des substances fabriquées, acquises, cédées, exportées et importées.
+
+- les dispositions des articles 5 et 5-1 du règlement grand-ducal modifié du 19 février 1974 précité ne s'appliquent pas au pharmacien tenant officine ouverte au public ni au pharmacien-gérant d'une pharmacie d'hôpital.
+
 <a id="art-3"></a>
 ## Art. 3.
 

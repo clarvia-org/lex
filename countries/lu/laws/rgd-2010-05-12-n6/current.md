@@ -49,8 +49,100 @@ L’Institut informe les candidats de la date et des modalités des épreuves de
 <a id="art-3"></a>
 ## Art. 3.
 
+I.
+
+Les épreuves de langues ont pour objet d’apprécier, sous forme d’épreuves de compréhension et d’expression orale, les connaissances du candidat dans les trois langues administratives selon des niveaux de compétences fixés conformément au «Cadre européen commun de référence pour les langues».
+
+1.
+
+En ce qui concerne les épreuves de langues organisées pour la catégorie de traitement et d’indemnité A, les niveaux de compétences à atteindre tant pour la compréhension de l’oral que pour l’expression orale dans les trois langues sont fixés comme suit:
+
+1. niveau C1 pour la première langue;
+
+2. niveau B2 pour la deuxième langue;
+
+3. niveau B1 pour la troisième langue.
+
+2.
+
+En ce qui concerne les épreuves de langues organisées pour la catégorie de traitement et d’indemnité B, les niveaux de compétences à atteindre tant pour la compréhension de l’oral que pour l’expression orale dans les trois langues sont fixés comme suit:
+
+1. niveau B2 pour la première langue;
+
+2. niveau B1 pour la deuxième langue;
+
+3. niveau A2 pour la troisième langue.
+
+3.
+
+En ce qui concerne les épreuves de langues organisées pour les catégories de traitement et d’indemnité C , les niveaux de compétences à atteindre tant pour la compréhension de l’oral que pour l’expression orale dans les trois langues sont fixés comme suit:
+
+1. niveau B1 pour la première langue;
+
+2. niveau A2 pour la deuxième langue;
+
+3. niveau A1 pour la troisième langue.
+
+II.
+
+En fonction de son niveau de carrière, le candidat déterminera laquelle des trois langues constituera sa première, sa deuxième et sa troisième langue. Le contrôle des connaissances se fera conformément au choix du candidat en tenant compte des niveaux de compétences fixés au paragraphe précédent.
+
+Le candidat qui, conformément à l’article 5 du présent règlement, a obtenu une dispense de l’épreuve dans une des trois langues est considéré être dispensé dans sa première langue. Il choisira pour les deux langues qui entrent en considération pour les épreuves de langues entre le niveau de compétences de la deuxième et le niveau de compétences de la troisième langue.
+
 <a id="art-4"></a>
 ## Art. 4.
+
+1.
+
+Les épreuves de langues tiennent compte des niveaux de compétences à atteindre prévus à l’article 3 et comprennent pour chacune des trois langues une épreuve de compréhension orale et une épreuve d’expression orale.
+
+2.
+
+L’épreuve de compréhension orale se compose pour chacune des trois langues de l’écoute de documents enregistrés et de questionnaires portant sur ces documents.
+
+Les questionnaires peuvent comprendre les trois types de questions suivants:
+
+- questions à choix binaire ou multiple
+
+- questions du type vrais/faux
+
+- des questions d’appariement
+
+Le candidat est évalué par deux correcteurs suivant une grille de correction.
+
+L’épreuve porte sur un maximum de 25 points.
+
+3.
+
+L’épreuve d’expression orale peut comprendre pour chacune des trois langues
+
+- un entretien entre l’examinateur et le candidat sur un thème donné;
+
+- une description d’un support visuel;
+
+- l’expression d’un point de vue à partir d’un document déclencheur;
+
+- la présentation et la défense d’un point de vue à partir d’un document déclencheur.
+
+L’épreuve porte sur un maximum de 25 points. Elle a lieu devant deux examinateurs, dont le premier est l’interlocuteur qui mène l’entretien et donne une note globale, et le deuxième est l’assesseur qui donne une note suivant une grille de correction.
+
+L’épreuve d’expression orale se fait séparément pour chaque candidat et fait l’objet d’un enregistrement en vue de l’évaluation ultérieure.
+
+4.
+
+Les notes obtenues à l’épreuve de compréhension orale et à l’épreuve d’expression orale sont additionnées et calculées sur un maximum de 50 points pour chacune des trois langues.
+
+Si le résultat ainsi obtenu est égal ou supérieur aux 3/5 du maximum des points pouvant être obtenus, le candidat a fait preuve d’une connaissance adéquate de la langue dans laquelle il a passé l’épreuve.
+
+Si le résultat obtenu est inférieur aux 3/5 du maximum des points pouvant être obtenus, le candidat n’a pas fait preuve d’une connaissance adéquate de la langue dans laquelle il a passé l’épreuve préliminaire et partant n’est pas admissible au service de l’Etat.
+
+5.
+
+Les décisions concernant chaque candidat sont prises par les membres du comité d’évaluation qui ont évalué les épreuves du candidat et documentées sous forme de procès-verbal.
+
+6.
+
+L’institut communique le résultat au candidat et au ministre ayant demandé l’évaluation.
 
 <a id="art-5"></a>
 ## Art. 5.

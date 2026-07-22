@@ -37,6 +37,18 @@ La présente loi vise également l’intégrité physique des tiers qui particip
 
 La présente loi s’applique aux institutions suivantes:
 
+- la Chambre des Députés,
+
+- le Conseil d’Etat,
+
+- l’Administration gouvernementale avec tous les services et administrations qui en dépendent ou qui sont placés sous la hiérarchie directe du Gouvernement,
+
+- les cours et tribunaux,
+
+- les établissements publics existant au moment de l’entrée en vigueur de la présente loi et qui occupent principalement du personnel bénéficiant d’un statut de droit public,
+
+- les communes et tous les établissements qui en ressortissent directement.
+
 Les activités visées peuvent se dérouler à l’intérieur ou à l’extérieur des bâtiments. Dans les écoles sont visées également toutes les activités périscolaires organisées par l’autorité administrative compétente.
 
 <a id="art-3"></a>
@@ -48,6 +60,34 @@ Des restrictions aux dispositions prévues par la présente loi ou des modalité
 ## Art. 4.
 
 La sécurité visée par la présente loi étend ses effets notamment sur:
+
+1. l’implantation, l’exécution, l’agencement, l’aménagement et l’équipement des bâtiments ainsi que leurs alentours et leur environnement immédiat,
+
+2. la prévention des accidents et des maladies professionnelles,
+
+3. la protection contre les risques d’incendie et contre les autres sinistres ou catastrophes possibles,
+
+4. la prévention du vandalisme, des agressions et des actes de malveillance sur les lieux de travail et d’activités,
+
+5. l’évacuation des lieux en cas de danger et la prévention des risques de panique,
+
+6. le travail dans les ateliers, les laboratoires et les autres locaux, lieux et espaces prévus pour des activités spécialisées, à l’intérieur et à l’extérieur des établissements,
+
+7. le bon fonctionnement et la sécurité des machines, installations et équipements dangereux de même que la fiabilité des installations, équipements et dispositifs de sécurité,
+
+8. l’hygiène et la salubrité de l’environnement des postes et lieux d’activités,
+
+9. l’aménagement des postes et lieux d’activités de même que l’ergonomie,
+
+10. les premiers secours,
+
+11. la circulation sur les terrains d’implantation des établissements visés, ainsi que, en ce qui concerne les écoles, la sécurité routière à leurs abords immédiats,
+
+12. le chemin de l’école et les transports scolaires,
+
+13. l’information, la formation et l’entraînement des intéressés,
+
+14. l’éducation sanitaire.
 
 Un règlement grand-ducal détermine les mesures et directives à mettre en oeuvre.
 
@@ -63,6 +103,16 @@ Les déclarations d’accidents et de maladies professionnelles de même que les
 
 Les personnes chargées de mettre en oeuvre et de promouvoir la sécurité visée par la présente loi et par les règlements pris en son exécution, désignés ci-après par «responsables», sont:
 
+- en ce qui concerne la Chambre des députés, le Conseil d’Etat et la Chambre des comptes, les présidents respectifs ainsi que les chefs de service soumis à leur autorité directe;
+
+- en ce qui concerne l’Administration gouvernementale et les services de l’Etat y rattachés, y compris les écoles publiques, chaque membre du Gouvernement pour son département et chaque directeur ou chef d’administration pour l’administration dont il assure la direction;
+
+- en ce qui concerne les cours et tribunaux, le président de la Cour supérieure de justice;
+
+- en ce qui concerne les établissements publics, les présidents, directeurs ou autres représentants légaux chargés de la direction;
+
+- en ce qui concerne les communes, y compris les écoles communales, le collège des bourgmestre et échevins et en ce qui concerne les établissements communaux, les présidents ou préposés chargés de la direction.
+
 A défaut de responsable au sens de l’alinéa qui précède, le ministre compétent désigne, de cas en cas, un responsable de la sécurité.
 
 En cas de cohabitation de plusieurs ministères, administrations, services ou établissements, de même qu’en cas d’activités placées sous l’autorité de plusieurs responsables, les ministres compétents s’entendent au sujet d’arrangements adéquats.
@@ -73,6 +123,34 @@ En cas de cohabitation de plusieurs ministères, administrations, services ou é
 Les responsables doivent mettre en oeuvre à l’intérieur de leurs établissements respectifs, les mesures d’organisation nécessaires pour la protection de la sécurité et de la santé des travailleurs.
 
 Ces mesures d’organisation sont à déterminer par règlement grand-ducal. Elles doivent reposer notamment sans ordre de préférence ou de priorité sur les principes fondamentaux suivants:
+
+- information et formation des personnes concernées; création, formation, équipement et entraînement des équipes de sécurité en fonction des besoins en présence;
+
+- adaptation des structures existantes pour tenir compte de l’état d’évolution de la technique et pour améliorer les situations existantes;
+
+- hiérarchie adéquate des mesures de prévention dans la direction et l’ordre respectivement: élimination des risques; évaluation, confinement et combat des risques; adaptation du travail à l’homme; moyens de protection et mesures de comportement;
+
+- évaluation des risques par le responsable en vue du choix adéquat des équipements, substances et aménagements, en vue du meilleur niveau de protection et en vue de l’intégration de la préoccupation de sécurité à tous les niveaux d’activités journalières;
+
+- adaptation du travail à l’homme en vue notamment d’atténuer le travail monotone et le travail cadencé et de réduire ainsi les effets de ceux-ci sur la santé;
+
+- prise en considération des capacités des travailleurs en matière de sécurité et de santé;
+
+- consultation des intéressés, des délégués, des comités locaux de sécurité, des équipes de sécurité et des représentations du personnel notamment en cas de planification et d’introduction de nouvelles technologies;
+
+- accessibilité aux travaux particulièrement dangereux réservée aux seuls travailleurs instruits, compétents et capables;
+
+- concertation et coordination obligatoires à l’occasion d’activités communes placées sous des autorités diverses; organisation des relations avec les services extérieurs compétents;
+
+- absence de charges financières quelconques en rapport avec des mesures de sécurité ou de santé pour les travailleurs et le personnel;
+
+- organisation de mesures spéciales en cas de présence de travaux ou d’équipements dangereux;
+
+- exonération disciplinaire et protection juridique des subordonnés ayant agi à l’encontre d’ordres ou d’instructions générales sous l’influence d’un danger grave, immédiat et inévitable à moins que les intéressés n’aient agi de manière inconsidérée ou qu’ils n’aient commis une négligence grave;
+
+- gestion des registres de sécurité relatifs notamment à l’évaluation des risques tant courants qu’exceptionnels, à la détermination des mesures et du matériel de protection nécessaires, à la liste des accidents ayant entraîné une incapacité de travail de plus de trois jours et aux rapports sur ces accidents;
+
+- tenue à la disposition du directeur de l’Inspection du travail et des mines du registre de sécurité prévu à l’alinéa qui précède.
 
 <a id="art-8"></a>
 ## Art. 8.
@@ -101,6 +179,26 @@ Un règlement grand-ducal précisera davantage les charges, la formation, les at
 <a id="art-10"></a>
 ## Art. 10.
 
+1.
+
+Chaque responsable est assisté d’un comité local de sécurité chargé de consulter les personnes intéressées et concernées sur toutes les questions touchant à la sécurité et à la santé, de recevoir leurs propositions et d’assurer leur participation équilibrée en la matière.
+
+Le comité local doit comprendre des représentants de tous les groupes participant régulièrement aux activités visées par la présente loi. Ils ne doivent subir aucun préjudice en raison de leurs activités respectives au sein de leurs comités. Ils doivent en particulier jouir de dispenses de service suffisantes et disposer de moyens adéquats pour exercer leurs activités.
+
+Les membres des comités locaux de sécurité ont le droit de s’adresser directement au directeur de l’Inspection du travail et des mines s’ils estiment que les mesures prises et les moyens engagés par le responsable ne sont pas suffisants. Ils doivent aussi pouvoir présenter leurs observations lors de visites et vérifications effectuées par le directeur de l’Inspection du travail et des mines ou par des personnes, experts ou organismes mandatés par lui.
+
+Les représentations du personnel prévues au chapitre 11 du statut général des fonctionnaires de l’Etat doivent être représentées d’office aux comités locaux de sécurité. En présence d’effectifs inférieurs à 30 personnes, les comités locaux de sécurité peuvent être composés par l’ensemble du personnel.
+
+Un règlement grand-ducal précisera davantage la composition, la désignation des membres, le fonctionnement ainsi que les attributions des comités locaux de sécurité. Le directeur de l’Inspection du travail et des mines est chargé de trancher les cas de litige.
+
+2.
+
+Le responsable et le délégué peuvent se faire aider aussi par une équipe locale de sécurité plus spécialement instituée et entraînée en vue d’intervenir dans le cadre du fonctionnement normal de l’établissement, en cas de danger et à l’occasion de l’évacuation des locaux.
+
+Les membres des équipes de sécurité sont choisis parmi les participants aux activités concernées. Ils exercent leurs mandats à titre accessoire et leurs prestations effectives peuvent être honorées en fonction de leur envergure, au moyen respectivement d’indemnités ou de décharges de service.
+
+Un règlement grand-ducal déterminera la composition, les attributions et le fonctionnement des équipes de sécurité.
+
 <a id="art-11"></a>
 ## Art. 11.
 
@@ -127,6 +225,22 @@ Le personnel du service peut comprendre en partie des employés et ouvriers de l
 ## Art. 13.
 
 Le directeur de l’Inspection du travail et des mines a notamment les attributions ci-après:
+
+1. surveiller l’application des dispositions légales et réglementaires dans tous les établissements assujettis à la présente loi, en particulier lors de leur implantation, de leur construction, de leur équipement, de leur occupation, de leur acquisition ou de leur location de même qu’à l’occasion de réaménagements importants,
+
+2. effectuer ou faire effectuer des expertises en vue de l’homologation des établissements en fonctionnement ou en construction au moment de la mise en vigueur de la présente loi,
+
+3. effectuer des contrôles à la demande du ministre compétent, du responsable ou de son délégué ainsi qu’à la demande de la représentation du personnel concernée,
+
+4. référer au ministre de la fonction publique et au ministre de l’éducation nationale et de la jeunesse ainsi que, à la suite de chaque visite, examen, réception, expertise et contrôle, au ministre compétent respectif,
+
+5. conseiller et soutenir les responsables et leurs délégués,
+
+6. assurer, en collaboration avec les responsables, l’organisation des formations de base et des formations continues notamment des délégués, des membres des comités locaux de sécurité et des équipes de sécurité,
+
+7. surveiller la sécurité du fonctionnement normal des établissements de même que l’entretien et le contrôle de leurs installations et équipements,
+
+8. assurer la gestion administrative du service.
 
 Le directeur de l’Inspection du travail et des mines peut recourir aux services d’experts et d’organismes agréés en vue de la réception et du contrôle des installations techniques.
 
@@ -181,6 +295,8 @@ La fonction de l’inspecteur général adjoint de la sécurité dans la fonctio
 
 <a id="art-19"></a>
 ## Art. 19.
+
+Dispositions transitoires.
 
 Le personnel du service national de la sécurité dans les écoles est nommé aux fonctions respectives prévues par la présente loi.
 

@@ -71,10 +71,22 @@ Les constructions existantes dans ces zones peuvent continuer à servir à l’u
 
 Sans préjudice des dispositions de l’annexe I, l’épandage de fertilisants dans les zones de protection est soumis aux conditions suivantes:
 
+1. L’épandage de fertilisants organiques est interdit lors du changement d’affectation de pâturages et de prairies permanentes ou lors du retournement de cultures pures de légumineuses.
+
+2. Les sols couverts ayant reçu un épandage de fertilisants organiques pendant la période du 1er août au 30 septembre ne peuvent être labourés avant le 16 janvier de l’année suivante.
+
+3. Les quantités de fertilisants organiques et minéraux épandus par an et par hectare ne doivent pas dépasser les quanti- tés définies à l’annexe III. En cas de combinaison de fertilisants organiques et minéraux, la fumure azotée minérale doit être réduite en fonction de la quantité de fertilisants organiques épandus en tenant compte de la nature du fertilisant, du mode d’épandage, du type de culture et de la période d’épandage. Les coefficients de disponibilité de l’azote issu des fertilisants organiques qui sont nécessaires pour la détermination de la fumure azotée minérale complémentaire, sont fixés à l’annexe IV.
+
 <a id="art-6"></a>
 ## Art. 6.
 
-Un programme de contrôle de la qualité de l’eau aux points de captage qui font l’objet d’un acte portant création de zone de protection et qui fournissent en moyenne plus de cent mètres cubes par jour est à établir. Pour les masses d’eau de surface utilisées pour le captage d’eau destinée à la consommation humaine, les fréquences de contrôle sont les suivantes: population desservie fréquence < 10 000 4 fois par an 10 000 - 30 000 8 fois par an > 30 000 12 fois par an.
+Un programme de contrôle de la qualité de l’eau aux points de captage qui font l’objet d’un acte portant création de zone de protection et qui fournissent en moyenne plus de cent mètres cubes par jour est à établir. Pour les masses d’eau de surface utilisées pour le captage d’eau destinée à la consommation humaine, les fréquences de contrôle sont les suivantes:
+
+| population desservie | fréquence |
+| --- | --- |
+| < 10 000 | 4 fois par an |
+| 10 000 - 30 000 | 8 fois par an |
+| > 30 000 | 12 fois par an. |
 
 Les fréquences de contrôle pour les masses d’eau souterraine seront déterminées dans les règlements grand-ducaux portant création des zones de protection.
 

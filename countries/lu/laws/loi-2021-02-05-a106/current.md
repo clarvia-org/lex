@@ -54,6 +54,10 @@ Sans préjudice des conventions que peut conclure le ministre en application de 
 
 Font partie des services de transports publics par rail :
 
+1. les transports intérieurs assurés au moyen de trains et de tramways, assurant les services réguliers sur les relations confinées au territoire national ;
+
+2. les transports transfrontaliers régionaux assurés au moyen de trains assurant les services réguliers sur des relations à l’intérieur de la région transfrontalière délimitée conformément à l’article 1 er et qui ont comme origine ou comme destination une gare luxembourgeoise.
+
 Sont également considérés comme services de transports publics les services prestés au moyen de trains internationaux, selon des conditions à convenir entre le ministre et les transporteurs et autorités organisatrices concernés sur base du règlement (CE) n° 1370/2007 précité.
 
 <a id="art-3"></a>
@@ -66,7 +70,23 @@ Les services de transports publics par route sont effectués au moyen d’autobu
 
 Les services de transports publics par route sont définis comme suit :
 
+1. les services réguliers : services qui assurent le transport de voyageurs selon une fréquence et sur un trajet déterminé, les voyageurs pouvant être pris en charge et déposés à des arrêts préalablement fixés ;
+
+2. les services réguliers spécialisés : services réguliers visés au point 1° qui sont réservés à des catégories déterminées de voyageurs, à l’exclusion d’autres voyageurs ;
+
+3. les services à la demande : services qui sont offerts et exécutés sur un trajet déterminé en fonction de la demande des voyageurs ;
+
+4. les services spécifiques : services de transports complémentaires à chacun des services visés aux points 1° à 3°, effectués moyennant des véhicules spécifiquement équipés, lorsque les services visés aux points 1° à 3° ne sont pas accessibles à une personne affectée d’un handicap social, mental ou physique ou d’une affection médicale permanente.
+
 Les activités de transport suivantes ne sont pas considérées comme services de transports publics :
+
+1. les services de taxi tels que définis à l’article 1 de la loi modifiée du 5 juillet 2016 portant organisation des services de taxis ;
+
+2. les services de location de voitures avec chauffeur ;
+
+3. les transports de tourisme d’agrément ;
+
+4. les transports pour compte propre tels que définis à l’article 2 du règlement (CE) n° 1073/2009 du Parlement européen et du Conseil du 21 octobre 209 établissant des règles communes pour l’accès au marché international des services de transport par autocars et autobus, et modifiant le règlement (CE) n° 561/2006 , tel que modifié.
 
 #### Chapitre 2 Administration des transports publics
 
@@ -83,6 +103,26 @@ L’administration est chargée, dans les limites fixées par les lois et règle
 ## Art. 6.
 
 L’administration :
+
+1. optimise et gère en collaboration et avec le concours des autorités organisatrices compétentes en Allemagne, en Belgique et en France, les services de transports publics par route sur les relations transfrontalières ;
+
+2. participe à l’élaboration de la réglementation luxembourgeoise dans son domaine de compétence et en assure l’application ;
+
+3. assure la coordination entre les différents opérateurs de transports publics nationaux et transfrontaliers ;
+
+4. assure, auprès du public ainsi que des acteurs publics et privés l’information et le conseil en matière de l’offre de mobilité, ainsi que l’information multimodale et intégrée sur les modes de transports publics et de mobilité active, à l’aide des moyens de communication et des technologies appropriés ;
+
+5. gère les réclamations qui sont portées à sa connaissance ;
+
+6. élabore les propositions en matière tarifaire et exécute les décisions y afférentes du ministre ;
+
+7. effectue pour le ministre des missions de collecte des données des transports publics par route et d’autres données nécessaires à l’accomplissement de sa mission ;
+
+8. assure la gestion organisationnelle, administrative, technique, financière et comptable ainsi que le contrôle des services de transports publics réguliers, réguliers spécialisés et des services à la demande tels que définis à l’article 4, et assurés par les exploitants suivant un contrat de services publics ;
+
+9. effectue les tâches administratives et procédurales résultant des dispositions de l’Union européenne en matière de transports de voyageurs par route ;
+
+10. est chargée de l’organisation, de la gestion et de la planification des horaires ainsi que du contrôle des transports publics par route tels que définis à l’article 3 et à l’article 4, paragraphe 1 er ainsi que de l’information multimodale des usagers des moyens de transports publics.
 
 <a id="art-7"></a>
 ## Art. 7.
@@ -109,6 +149,14 @@ Le directeur doit remplir les conditions de diplôme pour l’accès aux fonctio
 
 <a id="art-10"></a>
 ## Art. 10.
+
+(1)
+
+L’exploitation des services de transports publics par rail ne peut être confiée qu’à des entreprises ferroviaires, titulaires de la licence et du certificat de sécurité prévus par la loi précitée du 6 juin 2019 relative à la gestion, à l’accès, à l’utilisation de l’infrastructure ferroviaire et à la régulation du marché ferroviaire.
+
+(2)
+
+Sans préjudice de l’action pénale, une entreprise ferroviaire qui contrevient de façon grave ou répétée aux dispositions de la présente loi peut faire l’objet du retrait de son certificat de sécurité et, dans la mesure où elle est établie au Luxembourg, de sa licence. Dans les mêmes conditions, la délivrance, l’extension ou le renouvellement du certificat de sécurité ou de la licence peut lui être refusé. La décision de retrait ou de refus de délivrance ou de renouvellement intervient selon les modalités et dans les conditions de la loi précitée du 6 juin 2019.
 
 <a id="art-11"></a>
 ## Art. 11.
@@ -159,6 +207,10 @@ Un règlement grand-ducal détermine la composition et les modalités de fonctio
 
 Le Code de la consommation est modifié comme suit :
 
+1. l’article L. 311-5, paragraphe (5) est abrogé ;
+
+2. l’article L. 311-6, paragraphe (5) est abrogé.
+
 <a id="art-18"></a>
 ## Art. 18.
 
@@ -173,6 +225,10 @@ Aux articles 1, 2 et 4 de la loi du 10 septembre 2012 déterminant le régime de
 ## Art. 20.
 
 À l’article 1er de la loi du 27 avril 2015 déterminant le régime des sanctions applicables en cas de violation des dispositions du règlement (UE) n° 181/2011 du Parlement européen et du Conseil du 16 février 2011 concernant les droits des passagers dans le transport par autobus et autocar et modifiant le règlement (CE) n° 2006/2004, et modifiant :
+
+1. les articles L. 311-5 et L. 311-6 du Code de la consommation ;
+
+2. l’article 7 bis de la loi modifiée du 29 juin 2004 sur les transports publics, les mots la Communauté des Transports sont remplacés par ceux de le ministre ayant la Protection des consommateurs dans ses attributions .
 
 <a id="art-21"></a>
 ## Art. 21.

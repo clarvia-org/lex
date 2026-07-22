@@ -35,6 +35,12 @@ La perception des cotisations mises à charge des ressortissants de la Chambre d
 
 La cotisation annuelle est due pour chaque ressortissant déclaré au Centre Commun de la Sécurité Sociale du chef de:
 
+- l'exercice à la date du premier mars de chaque année d'une activité professionnelle pour le compte d'autrui soumise à l'assurance maladie obligatoire;
+
+- ou du bénéfice à la date du premier mars de chaque année d'une pension personnelle de la part de la Caisse nationale d'assurance pension du chef de l'exercice en dernier lieu d'une activité professionnelle pour le compte d'autrui;
+
+- ou du bénéfice à la date du premier mars de chaque année d'une pension personnelle de la part de la Société nationale des chemins de fer luxembourgeois.
+
 ##### Section 1: Perception des cotisations dans le cadre d'une activité professionnelle
 
 <a id="art-3"></a>

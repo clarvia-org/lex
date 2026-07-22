@@ -38,6 +38,14 @@ Le siège de la Cour est à Luxembourg.
 <a id="art-2"></a>
 ## Art. 2.
 
+(1)
+
+La Cour Constitutionnelle statue, suivant les modalités déterminées par la présente loi, sur la conformité des lois à la Constitution, à l’exception de celles qui portent approbation de traités.
+
+(2)
+
+La Cour Constitutionnelle règle les conflits d’attribution d’après le mode déterminé par la loi du 23 janvier 2023 portant règlement des conflits d’attribution et portant modification de la loi modifiée du 27 juillet 1997 portant organisation de la Cour Constitutionnelle.
+
 <a id="art-2bis"></a>
 ## Art. 2bis.
 
@@ -47,6 +55,42 @@ La Cour Constitutionnelle statue également sur les recours introduits sur la ba
 
 <a id="art-3"></a>
 ## Art. 3.
+
+(1)
+
+La Cour Constitutionnelle est composée de :
+
+1. neuf membres effectifs, à savoir d’un président, d’un vice-président et de sept conseillers ;
+
+2. sept membres suppléants, qui portent le titre de conseiller suppléant.
+
+(2)
+
+Le Grand-Duc nomme le président, le vice-président, les sept conseillers et les sept conseillers suppléants.
+
+(3)
+
+Le président de la Cour supérieure de justice, le président de la Cour administrative et les deux conseillers à la Cour de cassation les plus anciens en rang sont de droit membres de la Cour Constitutionnelle.
+
+(4)
+
+Les cinq autres conseillers et les sept conseillers suppléants de la Cour Constitutionnelle sont nommés par le Grand-Duc, sur l’avis conforme de la Cour supérieure de justice et de la Cour administrative.
+
+Aux fins de rendre cet avis, la Cour supérieure de justice et la Cour administrative se réunissent en assemblée générale conjointe, convoquée par le président de la Cour supérieure de justice.
+
+Pour chaque poste vacant, l’assemblée générale conjointe propose un candidat au Grand-Duc.
+
+(5)
+
+Le président de la Cour supérieure de justice est président de la Cour Constitutionnelle. Il est chargé de surveiller la bonne marche des affaires et d’assurer le fonctionnement de la juridiction.
+
+Le président de la Cour administrative est vice-président de la Cour Constitutionnelle.
+
+(6)
+
+Les membres de la Cour Constitutionnelle continuent à exercer leurs fonctions à leur juridiction d’origine.
+
+La cessation des fonctions des membres de droit de la Cour Constitutionnelle et la cessation temporaire ou définitive de la fonction de magistrat entraînent celle des fonctions à la Cour Constitutionnelle.
 
 <a id="art-4"></a>
 ## Art. 4.
@@ -72,6 +116,12 @@ Les membres de la Cour peuvent en outre être récusés pour les causes et selon
 Lorsqu’une partie soulève une question relative à la conformité d’une loi à la Constitution devant une juridiction de l’ordre judiciaire ou de l’ordre administratif , celle-ci est tenue de saisir la Cour Constitutionnelle.
 
 Une juridiction est dispensée de saisir la Cour Constitutionnelle lorsqu’elle estime que:
+
+1. une décision sur la question soulevée n’est pas nécessaire pour rendre son jugement;
+
+2. la question de constitutionnalité est dénuée de tout fondement;
+
+3. la Cour Constitutionnelle a déjà statué sur une question ayant le même objet.
 
 Si une juridiction estime qu’une question de conformité d’une loi à la Constitution se pose et qu’une décision sur ce point est nécessaire pour rendre son jugement, elle doit la soulever d’office après avoir invité au préalable les parties à présenter leurs observations.
 
@@ -180,6 +230,14 @@ Avant d’entrer en fonctions, les membres de la Cour prêtent le serment suivan
 
 Il est tenu une liste de rang sur laquelle les membres de la Cour Constitutionnelle sont inscrits dans l’ordre qui suit :
 
+1. le président ;
+
+2. le vice-président ;
+
+3. les conseillers, dans l’ordre de leur nomination ;
+
+4. les conseillers suppléants, dans l’ordre de leur nomination.
+
 Les conseillers et les conseillers suppléants sont portés sur cette liste dans l’ordre que suivent les arrêtés de nomination, ou dans celui de leur inscription dans l’arrêté de nomination simultanée.
 
 La liste détermine le rang des membres dans les cérémonies et aux audiences de la Cour Constitutionnelle.
@@ -196,10 +254,34 @@ Le président de la Cour Constitutionnelle est, en cas d’absence, d’empêche
 <a id="art-21"></a>
 ## Art. 21.
 
+(1)
+
+Les membres de la Cour ne peuvent, directement ou indirectement, avoir des entretiens particuliers avec les parties ou leurs avocats sur les contestations qui leur sont soumises.
+
+(2)
+
+Aucun membre de la Cour Constitutionnelle ne peut s’absenter si le service doit souffrir de son absence.
+
+(3)
+
+Ceux qui ont manqué à la dignité de leurs fonctions ou aux devoirs de leur état peuvent faire l’objet d’une peine disciplinaire.
+
+(4)
+
+Toute affaire disciplinaire est initiée, instruite et poursuivie par le président de la Cour Constitutionnelle.
+
 <a id="art-22"></a>
 ## Art. 22.
 
 Les peines disciplinaires sont:
+
+1. l’avertissement;
+
+2. la réprimande;
+
+3. la suspension des fonctions pour une durée qui ne peut dépasser six mois;
+
+4. la révocation.
 
 <a id="art-23"></a>
 ## Art. 23.
@@ -244,6 +326,16 @@ Celui-ci est publié au Journal officiel du Grand-Duché de Luxembourg.
 
 <a id="art-29"></a>
 ## Art. 29.
+
+1. Une indemnité mensuelle est accordée :
+
+1. aux membres effectifs de la Cour Constitutionnelle, dont le taux est de soixante points indiciaires ;
+
+2. au greffier de la Cour Constitutionnelle, dont le taux est de trente points indiciaires.
+
+2. Les membres suppléants de la Cour Constitutionnelle bénéficient d’une indemnité de vacation, dont le taux est de quarante points indiciaires par affaire dans laquelle ils siègent.
+
+3. Les indemnités visées aux paragraphes 1er et 2 sont non pensionnables.
 
 <a id="art-30"></a>
 ## Art. 30.

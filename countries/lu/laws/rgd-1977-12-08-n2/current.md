@@ -33,6 +33,16 @@ Le premier des cinq examens auxquels la femme enceinte se soumet pendant sa gros
 
 Cet examen médical a pour but d'établir:
 
+- l'âge de la grossesse, repérant la date des dernières règles et le jour probable du terme, quarante semaines plus tard;
+
+- le poids et la taille de la femme enceinte;
+
+- le dosage du fer sérique et de la glycémie; le bilan cytochimique des urines;
+
+- les antécédents médicaux (constatation d'une cardiopathie, d'une hypertension artérielle), familiaux, chirurgicaux, gynécologiques et obstétriques;
+
+- le profil socio-biologique de la future mère, éventuellement complété par une visite ou enquête de l'assistante d'hygiène sociale ou de l'assistante sociale.
+
 Le médecin procède en outre aux analyses nécessaires en vue de la détection des anticorps anti-HBs.
 
 A la fin de l'examen le médecin remet son carnet de maternité à la future mère.
@@ -49,10 +59,34 @@ La répétition de l'examen sérologique en vue de la recherche de la syphilis e
 
 Le deuxième examen a lieu au plus tard dans la deuxième quinzaine du quatrième mois et porte sur:
 
+- l'état de santé général, le bien-être physique et psychique;
+
+- la révision des états pathologiques ou des risques éventuellement décelés au premier examen;
+
+- la croissance utérine et fœtale;
+
+- le dépistage de l'existence possible de complications obstétricales (hémorragies vaginales).
+
 <a id="art-4"></a>
 ## Art. 4.
 
 Le troisième examen a lieu au cours du sixième mois. Il porte sur:
+
+- l'état de santé général, le bien-être physique et psychique;
+
+- la révision des états pathologiques ou des risques éventuellement décelés au premier examen;
+
+- la croissance utérine et foetale (grossesse gémellaire, malnutrition foetale, etc.);
+
+- le dépistage de l'existence possible de complications obstétricales (hémorragies vaginales, pré-éclampsie);
+
+- le dosage du fer sérique et de la glycémie; le bilan cytochimique des urines;
+
+- le dépistage de signes biologiques ou cliniques de menace d'accouchement prématuré;
+
+- la présence d'une éventuelle infection générale ou localisée;
+
+- le dépistage d'une disproportion fœto-pelvienne.
 
 <a id="art-5"></a>
 ## Art. 5.

@@ -33,6 +33,10 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 Au sens du présent règlement, on entend par :
 
+1. « prélèvement », le prélèvement nasopharyngé, oropharyngé, buccal ou salivaire à des fins de dépistage ou diagnostiques du virus SARS-CoV-2 ;
+
+2. « test rapide », un test manuel à orientation diagnostique de l’infection au virus SARS-CoV-2 et utilisant une technique d’analyse simplifiée consistant en un prélèvement qui sera ensuite déposé sur une bandelette ou un tube contenant un réactif.
+
 Le présent règlement ne s’applique pas aux dispositifs d’autodiagnostic servant au dépistage du SARS-CoV-2 et que le fabriquant destine à être utilisés par une personne profane.
 
 <a id="art-2"></a>
@@ -45,8 +49,56 @@ L’information visée à l’alinéa 1er porte sur l’objectif et le déroulem
 <a id="art-3"></a>
 ## Art. 3.
 
+(1)
+
+Sont autorisés à réaliser un prélèvement au sens de l’article 1er, point 1°, nécessaire pour réaliser l’examen de détection du génome du SARS-CoV-2 par le test RT-PCR :
+
+1. les médecins ;
+
+2. les personnes exerçant une profession de santé telle que visée par la loi modifiée du 26 mars 1992 sur l’exercice et la revalorisation de certaines professions de santé ;
+
+3. les pharmaciens ;
+
+4. les psychothérapeutes ;
+
+5. les psychologues ;
+
+6. les pompiers volontaires ou professionnels affectés au Corps grand-ducal d’incendie et de secours.
+
+(2)
+
+Préalablement à la réalisation d’un prélèvement, les personnes visées à l’article 3, points 2° à 5° doivent avoir subi une formation validée par le ministre ayant la Santé dans ses attributions. Le contenu de cette formation est fixé à l’annexe I du présent règlement grand-ducal.
+
 <a id="art-4"></a>
 ## Art. 4.
+
+(1)
+
+Les tests rapides au sens de l’article 1er, point 2°, peuvent être réalisés par toute personne physique à condition qu’elle ait reçu une formation validée par le ministre ayant la Santé dans ses attributions, et dont le contenu est fixé à l’annexe II du présent règlement grand-ducal.
+
+La validation de la formation vaut habilitation à réaliser les tests rapides dans un intérêt de santé publique et pour le compte de la Direction de la santé.
+
+(2)
+
+Par dérogation à l’article 2, alinéa 1er, les personnes visées au paragraphe 1er ne peuvent réaliser des prélèvements dans le cadre des tests rapides pour détecter une infection au virus SARS.CoV-2 que sur des mineurs de 15 ans accomplis ou plus au moment de la réalisation du test.
+
+(3)
+
+Les tests rapides au sens de l’article 1er, point 2°, sont des tests nominatifs.
+
+(4)
+
+Toute personne qui, lors de la réalisation d’un test rapide au sens de l’article 1er, point 2°, constate un résultat positif, est tenue d’en faire la déclaration le jour même au directeur de la santé ou à son délégué. Cette déclaration comprend au moins les données individuelles suivantes :
+
+1. nom, prénom et adresse du patient ;
+
+2. date de naissance du patient ;
+
+3. date du test ;
+
+4. date des premiers symptômes ;
+
+5. source d’infection, si celle-ci est connue.
 
 <a id="art-5"></a>
 ## Art. 5.

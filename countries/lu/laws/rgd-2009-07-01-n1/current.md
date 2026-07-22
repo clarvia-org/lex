@@ -32,12 +32,16 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 <a id="art-1er"></a>
 ## Art. 1er.
 
-S'il remplit les conditions prévues par le présent règlement le fonctionnaire de la carrière supérieure de l'enseignement, désigné dans le présent règlement par enseignant, peut, sur sa demande, accéder au grade de substitution prévu pour sa carrière tel qu'il est défini à l'article 22, section VII, paragraphe a), de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l'État, désignée ci-après par «loi de base». Dans la suite du texte le terme de ministre désigne le membre du Gouvernement ayant l'Éducation nationale dans ses attributions.
+S'il remplit les conditions prévues par le présent règlement le fonctionnaire de la carrière supérieure de l'enseignement, désigné dans le présent règlement par enseignant, peut, sur sa demande, accéder au grade de substitution prévu pour sa carrière tel qu'il est défini à l'article 22, section VII, paragraphe a), de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l'État, désignée ci-après par «loi de base».
+
+Dans la suite du texte le terme de ministre désigne le membre du Gouvernement ayant l'Éducation nationale dans ses attributions.
 
 <a id="art-2"></a>
 ## Art. 2.
 
-Sans préjudice de l'application des dispositions de l'article 22, section VII, paragraphe b), de la loi de base, le nombre maximum d'enseignants pouvant figurer aux grades de substitution est limité chaque fois à dix pour-cent de l'effectif total des carrières supérieures de l'enseignement du cadre du personnel des écoles de l'enseignement fondamental, des Instituts et services d'éducation différenciée et du Centre de logopédie, d'une part, et à dix pour-cent de l'effectif total des carrières supérieures de l'enseignement des lycées et lycées techniques, de l'Institut national des langues, de l'École de la 2 e chance et du Centre national de formation professionnelle continue, d'autre part. La disposition de l'alinéa précédent ne s'applique pas aux enseignants de la carrière supérieure appelés à exercer une fonction dirigeante définie à l'article 22, section VIII, paragraphe b) de la loi de base.
+Sans préjudice de l'application des dispositions de l'article 22, section VII, paragraphe b), de la loi de base, le nombre maximum d'enseignants pouvant figurer aux grades de substitution est limité chaque fois à dix pour-cent de l'effectif total des carrières supérieures de l'enseignement du cadre du personnel des écoles de l'enseignement fondamental, des Instituts et services d'éducation différenciée et du Centre de logopédie, d'une part, et à dix pour-cent de l'effectif total des carrières supérieures de l'enseignement des lycées et lycées techniques, de l'Institut national des langues, de l'École de la 2 e chance et du Centre national de formation professionnelle continue, d'autre part.
+
+La disposition de l'alinéa précédent ne s'applique pas aux enseignants de la carrière supérieure appelés à exercer une fonction dirigeante définie à l'article 22, section VIII, paragraphe b) de la loi de base.
 
 <a id="art-3"></a>
 ## Art. 3.
@@ -49,14 +53,34 @@ Si, en application des dispositions des articles 8 à 10 du présent règlement,
 <a id="art-4"></a>
 ## Art. 4.
 
-L'enseignant faisant partie du cadre du personnel de l'enseignement fondamental, des Instituts et services de l'éducation différenciée ou du Centre de logopédie qui postule un grade de substitution doit, au moment de l'introduction de sa demande se prévaloir, abstraction faite de sa tâche normale, d'une collaboration régulière de cinq années au moins à l'une des activités suivantes: D'autres activités peuvent être reconnues par la commission prévue à l'article 14 ci-après, sur proposition (Règl. g.-d. du 24 mars 2014) «du président du collège des inspecteurs de l'enseignement fondamental».
+L'enseignant faisant partie du cadre du personnel de l'enseignement fondamental, des Instituts et services de l'éducation différenciée ou du Centre de logopédie qui postule un grade de substitution doit, au moment de l'introduction de sa demande se prévaloir, abstraction faite de sa tâche normale, d'une collaboration régulière de cinq années au moins à l'une des activités suivantes:
+
+1. développement de programmes et de matériels didactiques;
+
+2. participation aux conseils d'orientation «fondamental - postprimaire»;
+
+3. accompagnement des nouveaux instituteurs pendant la période de nomination provisoire;
+
+4. accueil des étudiants en cours de formation accomplissant leurs stages d'observation en milieu scolaire.
+
+D'autres activités peuvent être reconnues par la commission prévue à l'article 14 ci-après, sur proposition (Règl. g.-d. du 24 mars 2014) «du président du collège des inspecteurs de l'enseignement fondamental».
 
 ##### Conditions d'accès à un grade de substitution pour les enseignants de la carrière supérieure des lycées et lycées techniques, de l'Institut national des langues, de l'École de la 2 e chance et du Centre national de formation professionnelle continue
 
 <a id="art-5"></a>
 ## Art. 5.
 
-L'enseignant faisant partie du cadre du personnel des lycées et lycées techniques, de l'Institut national des langues, de l'École de la 2 e chance ou du Centre national de formation professionnelle continue qui postule un grade de substitution doit au moment de l'introduction de sa demande se prévaloir, abstraction faite de sa tâche normale, d'une collaboration régulière de cinq années au moins à l'une des activités suivantes: D'autres activités peuvent être reconnues par la commission prévue à l'article 15 ci-après, sur proposition du directeur de l'établissement compétent.
+L'enseignant faisant partie du cadre du personnel des lycées et lycées techniques, de l'Institut national des langues, de l'École de la 2 e chance ou du Centre national de formation professionnelle continue qui postule un grade de substitution doit au moment de l'introduction de sa demande se prévaloir, abstraction faite de sa tâche normale, d'une collaboration régulière de cinq années au moins à l'une des activités suivantes:
+
+1. activités d'une commission nationale de programme;
+
+2. participation aux conseils d'orientation «fondamental - postprimaire»;
+
+3. activités d'une commission d'examen de fin d'études ou de fin d'apprentissage;
+
+4. activités du stage pédagogique.
+
+D'autres activités peuvent être reconnues par la commission prévue à l'article 15 ci-après, sur proposition du directeur de l'établissement compétent.
 
 <a id="art-6"></a>
 ## Art. 6.
@@ -105,12 +129,20 @@ L'enseignant en service, bénéficiant d'un grade de substitution en application
 <a id="art-14"></a>
 ## Art. 14.
 
-Les candidatures à un grade de substitution doivent être adressées par écrit et par voie hiérarchique au ministre dans les délais fixés chaque année par celui-ci. Les demandes des candidats à un grade de substitution en application des dispositions des articles 4, 5 et 8 à 11 du présent règlement doivent être accompagnées d'un avis dûment motivé de leur supérieur hiérarchique. Copie de l'avis est transmise au fonctionnaire intéressé qui peut prendre position par écrit dans un délai de huit jours.
+Les candidatures à un grade de substitution doivent être adressées par écrit et par voie hiérarchique au ministre dans les délais fixés chaque année par celui-ci.
+
+Les demandes des candidats à un grade de substitution en application des dispositions des articles 4, 5 et 8 à 11 du présent règlement doivent être accompagnées d'un avis dûment motivé de leur supérieur hiérarchique. Copie de l'avis est transmise au fonctionnaire intéressé qui peut prendre position par écrit dans un délai de huit jours.
 
 <a id="art-15"></a>
 ## Art. 15.
 
-Il est institué auprès du ministre une commission de six membres dont la mission consiste à examiner si les candidats à un grade de substitution remplissent les conditions fixées par le présent règlement. La commission est composée de trois représentants du ministre, d'un représentant du Collège des directeurs de l'enseignement secondaire, d'un représentant du Collège des directeurs de l'enseignement secondaire technique ainsi que (Règl. g.-d. du 24 mars 2014) «du président du collège des inspecteurs de l'enseignement fondamental». Les membres de la commission sont nommés par le ministre qui désigne le président. Un secrétaire administratif est adjoint à la commission. La commission se réunit au moins deux fois par an, au courant des mois de mai et de novembre.
+Il est institué auprès du ministre une commission de six membres dont la mission consiste à examiner si les candidats à un grade de substitution remplissent les conditions fixées par le présent règlement.
+
+La commission est composée de trois représentants du ministre, d'un représentant du Collège des directeurs de l'enseignement secondaire, d'un représentant du Collège des directeurs de l'enseignement secondaire technique ainsi que (Règl. g.-d. du 24 mars 2014) «du président du collège des inspecteurs de l'enseignement fondamental».
+
+Les membres de la commission sont nommés par le ministre qui désigne le président. Un secrétaire administratif est adjoint à la commission.
+
+La commission se réunit au moins deux fois par an, au courant des mois de mai et de novembre.
 
 <a id="art-16"></a>
 ## Art. 16.
@@ -120,7 +152,9 @@ Les membres de la commission et le secrétaire sont tenus de garder le secret su
 <a id="art-17"></a>
 ## Art. 17.
 
-Les demandes en obtention d'un grade de substitution introduites conformément aux dispositions du présent règlement, sont centralisées au secrétariat de la commission. La commission recueille tous les renseignements et se fait communiquer tous les documents et éléments d'information qu'elle juge nécessaires à l'accomplissement de sa mission.
+Les demandes en obtention d'un grade de substitution introduites conformément aux dispositions du présent règlement, sont centralisées au secrétariat de la commission.
+
+La commission recueille tous les renseignements et se fait communiquer tous les documents et éléments d'information qu'elle juge nécessaires à l'accomplissement de sa mission.
 
 <a id="art-18"></a>
 ## Art. 18.
@@ -146,6 +180,14 @@ Pour les candidats à un grade de substitution ayant accédé au grade E5 confor
 
 <a id="art-22"></a>
 ## Art. 22.
+
+(1)
+
+Le règlement grand-ducal du 30 avril 1987 fixant les conditions et modalités selon lesquelles les fonctionnaires de la carrière supérieure de l'enseignement peuvent accéder aux grades de substitution prévus à l'article 22, section VII de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l'État, est abrogé.
+
+(2)
+
+L'admissibilité au grade de substitution, prononcée avant le 15 septembre 2009 à l'égard d'un candidat conformément aux dispositions du règlement grand-ducal du 30 avril 1987 cité au paragraphe qui précède, lui reste acquise.
 
 <a id="art-23"></a>
 ## Art. 23.

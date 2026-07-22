@@ -28,7 +28,13 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 <a id="art-1er"></a>
 ## Art. 1er.
 
-La formule exécutoire sera apposée sur: c.
+La formule exécutoire sera apposée sur:
+
+1. les arrêts de la Chambre de la Cour de Justice Benelux, visés à l’article 35 du Protocole additionnel au Traité relatif à l’institution et au statut d’une Cour de Justice Benelux concernant la protection juridictionnelle des personnes au service de l’Union économique Benelux ;
+
+2. les arrêts et les décisions de la Cour de Justice Benelux infligeant une sanction pécuniaire à des témoins, visés à l’article 11, paragraphe 5bis, alinéas 1 et 2 du Traité relatif à l’institution et au statut d’une Cour de Justice Benelux, tel que modifié par le Protocole du 15 octobre 2012.
+
+3. c. les arrêts et décisions de la Chambre de la Cour de Justice Benelux visées à l’article 22 du Protocole additionnel au Traité relatif à l’institution et au statut d’une Cour de Justice Benelux concernant la protection juridictionnelle des personnes au service de l’Organisation Benelux de la Propriété intellectuelle (marques et dessins ou modèles) du 24 octobre 2008.
 
 <a id="art-2"></a>
 ## Art. 2.
@@ -40,7 +46,9 @@ L’authenticité des arrêts et des décisions de la Cour de Justice Benelux es
 
 La formule exécutoire à apposer sur les arrêts et décisions prévus à l’article 1er par le ministre ayant la Justice dans ses attributions est conçue comme suit:
 
-«Nous Henri, Grand-Duc de Luxembourg, Duc de Nassau; Faisons savoir:
+«Nous Henri, Grand-Duc de Luxembourg, Duc de Nassau;
+
+Faisons savoir:
 
 (Texte)
 

@@ -52,6 +52,12 @@ Une association ne peut obtenir ledit agrément, sur demande à adresser au Mini
 
 Ne peuvent être admises au programme de substitution que les personnes atteintes d’une toxicodépendance avérée aux opiacés suivant des critères internationalement reconnus, établie par tous moyens diagnostiques appropriés, dont notamment des analyses toxicologiques, et non susceptible d’être traitée adéquatement par une autre méthode, qui répondent à un des critères suivants:
 
+- résider au Luxembourg;
+
+- être de nationalité luxembourgeoise;
+
+- être bénéficiaire de l’assurance maladie luxembourgeoise.
+
 Une personne qui ne répond à aucun de ces critères peut toutefois être admise au programme de substitution pour la durée de son séjour au pays si elle peut se prévaloir, pièces à l’appui, d’un traitement de substitution en cours dans un autre État membre de l’Union européenne.
 
 <a id="art-4"></a>
@@ -71,6 +77,26 @@ Le candidat est rendu attentif au fait que l'admission au programme comporte son
 <a id="art-6"></a>
 ## Art. 6.
 
+1)
+
+L’association agréée transmet la demande d’admission à la commission de surveillance du programme de substitution, qui statue sur l’admission, et en informe l’association agréée qui a recueilli la demande.
+
+Le traitement par substitution ne peut commencer qu’après l’admission au programme de la personne concernée, prononcée par la commission de surveillance.
+
+Toutefois, en cas d’urgence, l’association agréée peut commencer le traitement de suite, à condition d’en avertir la commission de surveillance et en indiquant les motifs justifiant l’urgence. Le traitement peut être provisoirement continué jusqu’à la décision de la commission de surveillance prise conformément à l’alinéa premier, à moins que la commission ne notifie endéans la semaine son opposition à l’admission provisoire, en quel cas le traitement doit être suspendu de suite.
+
+(2)
+
+Si le candidat adresse sa demande à un médecin agréé, celui-ci décide lui-même de l’admission. Il notifie l’admission à la commission de surveillance.
+
+Toute personne formulant une première demande de traitement de substitution au Grand-Duché de Luxembourg auprès d’un médecin agréé doit obligatoirement être orientée, en début de traitement par ce dernier, vers une association agréée en matière de traitement de la toxicomanie par substitution, afin d’y être informée des offres de prise en charge existantes.
+
+(3)
+
+Les demandes et notifications adressées à la commission de surveillance, conformément au présent article, doivent être faites moyennant le formulaire en annexe 1 du présent règlement.
+
+La Direction de la Santé tient un registre national de substitution sur lequel elle inscrit les demandes et notifications lui adressées.
+
 <a id="art-7"></a>
 ## Art. 7.
 
@@ -86,6 +112,16 @@ Elle suit l’évolution du traitement par substitution sur le plan internationa
 ## Art. 8.
 
 La prise en charge assurée par l’association agréée comporte un suivi psycho-social incluant notamment les services suivants:
+
+- l’accompagnement et le soutien
+
+- le contact avec le pharmacien-distributeur du produit de substitution
+
+- la concertation avec d’autres personnes intervenant dans le suivi psycho-social
+
+- s’il y a lieu, une aide pour la recherche d’un emploi et d’un logement
+
+- un bilan toxicologique régulier.
 
 <a id="art-9"></a>
 ## Art. 9.
@@ -113,6 +149,32 @@ Le Ministre de la Santé peut retirer, sur avis de la commission prévue à l’
 
 <a id="art-13"></a>
 ## Art. 13.
+
+(1)
+
+Sont seuls susceptibles d’être prescrits dans le cadre du programme de substitution
+
+- les médicaments qui contiennent comme principe actif la méthadone ou la buprénorphine et en plus ont comme indication thérapeutique le traitement de la toxicomanie par substitution, conformément à leur notice;
+
+- les préparations magistrales contenant comme seul principe actif l’une des substances visées au tiret qui précède.
+
+(2)
+
+A titre exceptionnel, lorsque le résultat escompté ne peut pas être atteint à l’aide d’un médicament ou d’une préparation dont question au paragraphe (1), un médicament contenant de la morphine sous forme d’un sel pourra être prescrit. L’ordonnance devra porter la mention «indication thérapeutique».
+
+Le médecin prescripteur est tenu de justifier cette ordonnance devant la commission de surveillance du programme de substitution, si celle-ci lui en fait la demande.
+
+(3)
+
+Par dérogation aux paragraphes (1) et (2) ci-dessus, de la diacétylmorphine peut être distribuée dans le cadre d’un projet-pilote de traitement assisté à la diacétylmorphine à des toxicomanes atteints d’une dépendance avérée à l’héroïne. Le projet pilote est exécuté par un organisme gestionnaire spécialement agréé à cette fin par le ministre ayant la Santé dans ses attributions. Il est placé sous la surveillance de la Direction de la Santé.
+
+Le ministre ayant la Santé dans ses attributions approuve les modalités de ce projet-pilote, qui doit prévoir des conditions au moins aussi restrictives que le présent règlement quant aux critères d’admission des toxicomanes, ainsi que des dispositions au moins équivalentes à celles du présent règlement en matière de suivi social et de surveillance.
+
+Peut participer au projet exclusivement un médecin autorisé à exercer sa profession au Luxembourg, qui est salarié de l’organisme gestionnaire chargé de l’exécution du projet pilote visé à l’alinéa premier. Le médecin doit être spécialement agréé à cette fin par le ministre ayant la Santé dans ses attributions et participer à une séance d’information-formation, assurée par un médecin agréé d’un organisme gestionnaire établi sur le territoire national et disposant d’un agrément pour le traitement de la toxicomanie par substitution, délivré par le ministre ayant la Santé dans ses attributions. Les matières abordées au cours de la séance d’informationformation porteront au minimum sur la législation en vigueur, la bonne pratique médicale en la matière et les offres de prises en charge pour les personnes toxicodépendantes, disponibles à l’échelle nationale.
+
+La preuve écrite de l’accomplissement de cette obligation de participation visée à l’alinéa qui précède, doit être jointe par le médecin demandeur à la requête adressée au ministre ayant la Santé dans ses attributions.
+
+Le médecin agréé s’engage à participer à une formation continue spécifique au traitement de la toxicomanie par substitution et au traitement assisté à la diacétylmorphine.
 
 <a id="art-14"></a>
 ## Art. 14.
@@ -152,6 +214,10 @@ L'Etat rembourse à l'Union des caisses de maladie le montant des prestations ef
 ## Art. 16.
 
 Par dérogation aux articles 2, 3 et 6 ci-dessus un traitement par substitution en cours au moment de l’entrée en vigueur du présent règlement peut être continué, à condition que
+
+- l’association ou le médecin qui assure la prise en charge sollicite et obtienne dans le mois de l’entrée en vigueur du présent règlement l’autorisation prévue à l’article 2 alinéa 1 er ci-dessus;
+
+- l’association ou le médecin concerné notifie dans les deux semaines de l’entrée en vigueur du présent règlement à la commission de surveillance l’identité de la personne prise en charge et que la commission ne manifeste pas d’opposition.
 
 <a id="art-17"></a>
 ## Art. 17.

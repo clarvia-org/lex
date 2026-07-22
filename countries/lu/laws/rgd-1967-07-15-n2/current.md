@@ -29,11 +29,47 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 1. La solde mensuelle des soldats volontaires engagés à l’armée suivant les dispositions du règlement grand-ducal modifié du 22 septembre 1967 déterminant le statut des volontaires de l’armée est fixée comme suit :
 
+1. pour les soldats :
+
+- à partir du 1 er janvier 2018 à 198,90.- euros.
+
+2. pour les soldats de 1 ère classe :
+
+- à partir du 1 er janvier 2018 à 212,25.- euros.
+
+3. pour les soldats-chefs :
+
+- à partir du 1 er janvier 2018 à 236,12.- euros.
+
+4. pour les 1 er soldats-chefs :
+
+- à partir du 1 er janvier 2018 à 264,83.- euros.
+
 1.1. La solde mensuelle des soldats volontaires engagés à l’armée suivant les dispositions du règlement grand-ducal modifié du 1er juillet 2008 déterminant le statut des volontaires de l’armée est fixée comme suit :
+
+1. pour les soldats :
+
+- à partir du 1 er janvier 2018 à 215,19.- euros.
+
+2. pour les soldats de 1 ère classe :
+
+- à partir du 1 er janvier 2018 à 228,55.- euros.
+
+3. pour les soldats-chefs :
+
+- à partir du 1 er janvier 2018 à 252,41.- euros.
+
+4. pour les 1 er soldats-chefs :
+
+- à partir du 1 er janvier 2018 à 281,12.- euros.
 
 2. La solde mensuelle des soldats de 1ère classe, des soldats-chefs ainsi que des 1er soldats-chefs sera augmentée des montants suivants par année de service dans le grade détenu:
 
+- à partir du 1 er janvier 2015 de 8,47.- euros par mois.
+
 3. Les soldats volontaires qui ont réussi à l’examen d’admission définitive au cadre des sous-officiers de carrière de l’armée, au cadre des caporaux de carrière ou au cadre des brigadiers de la police grand-ducale bénéficient d’un supplément de solde arrêté comme suit:
+
+- à partir du 1 er janvier 2015 de 15,01.- euros par mois.
 
 4.
 
@@ -47,7 +83,39 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 9. Par dérogation au paragraphe 1er ci-dessus, la solde mensuelle des soldats volontaires engagés à l’armée suivant les dispositions du règlement grand-ducal modifié du 22 septembre 1967 déterminant le statut des volontaires de l’armée participant, dans le cadre d’organisations internationales, à des forces de protection ou à une opération pour le maintien de la paix, est fixée comme suit :
 
+1. pour les soldats :
+
+- à partir du 1 er janvier 2018 à 342,26.- euros.
+
+2. pour les soldats de 1 ère classe :
+
+- à partir du 1 er janvier 2018 à 355,57.- euros.
+
+3. pour les soldats-chefs :
+
+- à partir du 1 er janvier 2018 à 379,46.- euros.
+
+4. pour les 1 er soldats-chefs :
+
+- à partir du 1 er janvier 2018 à 408,05.- euros
+
 9.1. Par dérogation au paragraphe 1er ci-dessus, la solde mensuelle des soldats volontaires engagés à l’armée suivant les dispositions du règlement grand-ducal modifié du 1er juillet 2008 déterminant le statut des volontaires de l’armée et participant, dans le cadre d’organisations internationales, à des forces de protection ou à une opération pour le maintien de la paix, est fixée comme suit :
+
+1. pour les soldats :
+
+- à partir du 1 er janvier 2018 à 358,54.- euros.
+
+2. pour les soldats de 1 ère classe :
+
+- à partir du 1 er janvier 2018 à 371,87.- euros.
+
+3. pour les soldats-chefs :
+
+- à partir du 1 er janvier 2018 à 395,74.- euros.
+
+4. pour les 1 er soldats-chefs :
+
+- à partir du 1 er janvier 2018 à 424,35.- euros.
 
 10. La solde visée à l’alinéa précédent est due à partir du jour du départ pour la mission à l’étranger jusqu’au jour du retour au Grand-Duché.
 
