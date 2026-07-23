@@ -887,12 +887,13 @@ provision: art-13
 
 Checks include frontmatter schema and field order, source file presence and SHA-256,
 unique provision anchors, and **Markdown↔retained-source statutory word parity**
-(XML/HTML body words vs Markdown body words: omitted source tokens must stay within
-0.5%; silent omission of legal prose fails the check). Failures include a
-**per-article first-difference** report (article id, first diverging token index,
-and short XML/MD context windows). Residuals under the margin are typically
-Casemates source glue without spaces (e.g. `ladirective`, `UEdu`) rather than
-dropped statutory prose.
+with classified residuals. The gate is **unexplained source-only tokens** (within
+0.5% of source size). Exact concatenations under a narrow French
+proclitic/ordinal/N° allowlist are counted as **recognized token-boundary
+differences** (e.g. `ladirective` ↔ `la` + `directive`) — not dropped prose and
+not a general rewrite dictionary. Failures include a **per-article
+first-difference** report. Single-law `lex check` prints a public `fidelity:`
+summary (`unexplained_*`, `recognized_boundary_differences`, `divergence_ratio`).
 
 Pass a law directory path to run the fidelity check for that law only:
 

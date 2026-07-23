@@ -8,6 +8,8 @@ from pathlib import Path
 
 from lex.fidelity import (
     WORD_COUNT_MARGIN,
+    analyze_law_fidelity,
+    build_fidelity_report,
     check_law_fidelity,
     markdown_body_words,
     xml_body_words,
@@ -41,7 +43,7 @@ def test_fidelity_fails_on_broken_projection(tmp_path: Path) -> None:
 
     errors = check_law_fidelity(md_path)
     assert errors, "expected word-parity failure on truncated projection"
-    assert "word parity" in errors[0].message.casefold()
+    assert "unexplained" in errors[0].message.casefold()
     assert "per-article first differences" in errors[0].message.casefold()
     assert "first diff at token" in errors[0].message.casefold()
 
@@ -57,6 +59,25 @@ def test_article_first_difference_points_at_truncation() -> None:
     assert diffs[0].article_id
 
 
+def test_boundary_equivalence_recognizes_known_glue() -> None:
+    report = build_fidelity_report(
+        ["ladirective", "no", "erbis", "laloi", "uedu", "other"],
+        ["la", "directive", "n", "o", "er", "bis", "la", "loi", "ue", "du", "other"],
+    )
+    assert report.recognized_boundary_differences >= 4
+    assert report.unexplained_source_only_tokens == 0
+    assert report.exact_canonical_token_match is False
+
+
+def test_boundary_equivalence_rejects_arbitrary_splits() -> None:
+    report = build_fidelity_report(
+        ["chaton", "keep"],
+        ["chat", "on", "keep"],
+    )
+    assert report.recognized_boundary_differences == 0
+    assert report.unexplained_source_only_tokens == 1
+
+
 def test_renormalized_loi_2000_within_margin(tmp_path: Path) -> None:
     adapter = _load_adapter()
     source = (LAW / "source.xml").read_bytes()
@@ -68,34 +89,30 @@ def test_renormalized_loi_2000_within_margin(tmp_path: Path) -> None:
     md_path.write_text(serialize_frontmatter(meta) + "\n" + body, encoding="utf-8")
     errors = check_law_fidelity(md_path)
     assert not errors, [e.message for e in errors]
+    report = analyze_law_fidelity(md_path)
+    assert report is not None
+    assert report.ok
+    assert report.unexplained_source_only_tokens == 0
 
 
 def test_renormalized_code_consommation_word_parity() -> None:
     adapter = _load_adapter()
     source = (CODE / "source.xml").read_bytes()
     body = adapter.normalize_bytes(source, title="Code de la consommation").body
-    src_words = xml_body_words(source)
-    md_words = markdown_body_words(body)
-    assert src_words
-    from collections import Counter
-
-    missing = sum((Counter(src_words) - Counter(md_words)).values())
-    assert missing / len(src_words) <= WORD_COUNT_MARGIN, (
-        f"omission failed: source={len(src_words)} missing={missing}"
-    )
+    report = build_fidelity_report(xml_body_words(source), markdown_body_words(body))
+    assert report.source_tokens
+    assert report.unexplained_source_only_tokens / report.source_tokens <= WORD_COUNT_MARGIN
 
 
-def test_renormalized_code_fonction_publique_word_parity() -> None:
+def test_renormalized_code_fonction_publique_boundary_classified() -> None:
     adapter = _load_adapter()
     law = Path("countries/lu/laws/code-fonction-publique")
     source = (law / "source.xml").read_bytes()
     body = adapter.normalize_bytes(source, title="Code de la fonction publique").body
-    src_words = xml_body_words(source)
-    md_words = markdown_body_words(body)
-    assert src_words
-    from collections import Counter
-
-    missing = sum((Counter(src_words) - Counter(md_words)).values())
-    assert missing / len(src_words) <= WORD_COUNT_MARGIN, (
-        f"omission failed: source={len(src_words)} missing={missing}"
-    )
+    report = build_fidelity_report(xml_body_words(source), markdown_body_words(body))
+    assert report.source_tokens
+    assert report.ok
+    assert report.recognized_boundary_differences >= 10
+    # Tiny residual count drift on common words may remain; gate uses unexplained.
+    assert report.unexplained_source_only_tokens / report.source_tokens <= WORD_COUNT_MARGIN
+    assert "recognized_boundary_differences" in report.format_public()

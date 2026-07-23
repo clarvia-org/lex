@@ -256,13 +256,7 @@ def source_cmd(law_id: str, language: str | None, verify: bool, path_only: bool)
 )
 def check_cmd(path: Path | None, as_json: bool, law_id: str | None) -> None:
     """Validate frontmatter, source hashes, anchors, and Markdown↔source fidelity."""
-    from lex.fidelity import (
-        WORD_COUNT_MARGIN,
-        article_first_differences_xml,
-        check_law_fidelity,
-        format_article_diff_report,
-    )
-    from lex.frontmatter import parse_frontmatter
+    from lex.fidelity import analyze_law_fidelity, check_law_fidelity
 
     root = path if path else _root()
 
@@ -290,28 +284,11 @@ def check_cmd(path: Path | None, as_json: bool, law_id: str | None) -> None:
                 click.echo(f"{err.code.value} {err.path}: {err.message}", err=True)
         sys.exit(1)
 
-    # Single-law review: surface article stream divergences even when the global
-    # multiset gate passes (typical cause: Casemates XML glue vs spaced Markdown).
+    # Single-law review: always print the classified fidelity report.
     if single_law and not as_json:
-        md_path = root / "current.md"
-        meta, body = parse_frontmatter(md_path.read_text(encoding="utf-8"))
-        source_file = meta.get("source_file")
-        if isinstance(source_file, str):
-            source_path = md_path.parent / source_file
-            if source_path.suffix.lower() == ".xml" and source_path.is_file():
-                diffs = [
-                    diff
-                    for diff in article_first_differences_xml(source_path.read_bytes(), body)
-                    if diff.kind == "mismatch"
-                ]
-                if diffs:
-                    click.echo(
-                        f"Fidelity OK (within {WORD_COUNT_MARGIN:.1%} omission margin); "
-                        f"{len(diffs)} article stream divergence(s) noted "
-                        "(usually source glue such as N°/ladirective, not omitted prose):",
-                        err=True,
-                    )
-                    click.echo(format_article_diff_report(diffs), err=True)
+        report = analyze_law_fidelity(root / "current.md")
+        if report is not None:
+            click.echo(report.format_public())
     sys.exit(0)
 
 
