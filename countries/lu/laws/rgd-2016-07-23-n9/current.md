@@ -138,7 +138,7 @@ Les exploitants agricoles possèdent des connaissances et des compétences profe
 
 - de l’école primaire, suivie de cours complémentaires agricoles de cent cinquante heures organisés entre 1988 et 2006 et suivie d’une pratique ou d’un stage agricoles de six ans au moins;
 
-- d’une formation d’au moins cinq années d’études post-primaires dans l’enseignement secondaire ou secondaire technique, suivie d’une pratique professionnelle agricole de trois ans au moins et sanctionnée par un brevet de formation professionnelle continue délivré par la Chambre d’agriculture avant le 1 er janvier 2007.
+- d’une formation d’au moins cinq années d’études post-primaires dans l’enseignement secondaire ou secondaire technique, suivie d’une pratique professionnelle agricole de trois ans au moins et sanctionnée par un brevet de formation professionnelle continue délivré par la Chambre d’agriculture avant le 1er janvier 2007.
 
 Les diplômes ou certificats délivrés par des écoles ou instituts de formation d’un autre Etat membre de l’Union européenne sont reconnus équivalents aux diplômes luxembourgeois. Les diplômes ou certificats étrangers d’Etats non membres de l’Union européenne peuvent être reconnus équivalents aux diplômes luxembourgeois par le ministre ayant l’Education nationale respectivement l’Enseignement supérieur dans ses attributions.
 
@@ -185,7 +185,7 @@ Pour être agréé, le service de gestion doit remplir les conditions suivantes:
 
 Le conseil agricole prévu aux articles 3 et 10 de la loi précitée du 27 juin 2016 porte sur les éléments suivants:
 
-- un état des lieux de l’exploitation relatif au potentiel de développement de celle-ci en relation avec l’utilisation du sol et la production animale, ainsi que les conséquences de l’utilisation du sol et de la production animale sur l’environnement et les ressources naturelles, et notamment sur les surfaces concernées par des zones protégées au sens des articles 34, 40 et 46 de la loi modifiée du 19 janvier 2004 concernant la protection de la nature et des ressources naturelles, des biotopes au sens de l’article 17 de la même loi , ou des zones de protection des eaux au sens de l’article 20, paragraphes 1 er et 2 de la loi modifiée du 19 décembre 2008 relative à l’eau;
+- un état des lieux de l’exploitation relatif au potentiel de développement de celle-ci en relation avec l’utilisation du sol et la production animale, ainsi que les conséquences de l’utilisation du sol et de la production animale sur l’environnement et les ressources naturelles, et notamment sur les surfaces concernées par des zones protégées au sens des articles 34, 40 et 46 de la loi modifiée du 19 janvier 2004 concernant la protection de la nature et des ressources naturelles, des biotopes au sens de l’article 17 de la même loi, ou des zones de protection des eaux au sens de l’article 20, paragraphes 1er et 2 de la loi modifiée du 19 décembre 2008 relative à l’eau;
 
 - une évaluation des conséquences du projet d’investissement sur l’environnement et les ressources naturelles.
 

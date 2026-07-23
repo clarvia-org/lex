@@ -123,7 +123,7 @@ Les biens à exproprier sont estimés en prenant seule en considération la vale
 
 - soit de la décision du Gouvernement en conseil prise en vertu de l’article 12, paragraphe 2 de la loi du 17 avril 2018 concernant l’aménagement du territoire ;
 
-- soit de la décision du Gouvernement en conseil prise en vertu de l’article 19, paragraphe 2 de la loi précitée du 17 avril 2018 .
+- soit de la décision du Gouvernement en conseil prise en vertu de l’article 19, paragraphe 2 de la loi précitée du 17 avril 2018.
 
 Il est cependant tenu compte de l'évolution générale du prix des biens.
 

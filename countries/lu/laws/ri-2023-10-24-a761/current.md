@@ -24,143 +24,7 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 # Version consolidée applicable au 21/01/2026 : Règlement de la Chambre des Députés.
 
-TITRE I De l’organisation de la Chambre et de son fonctionnement
-
-Chapitre 1 Du Bureau provisoire
-
-Chapitre 2 De la vérification des pouvoirs
-
-Chapitre 3 Du Bureau définitif
-
-Chapitre 4 Des groupes politiques et techniques
-
-Chapitre 5 Des commissions
-
-Chapitre 6 De la Conférence des Présidents
-
-Chapitre 7 Des séances publiques
-
-Chapitre 8 Des modes de votation
-
-Chapitre 9 De la discipline
-
-TITRE II De la procédure en matière de projets de loi et de propositions de loi
-
-Chapitre 1 Des projets de loi
-
-Chapitre 2 Des propositions de loi
-
-bis
-
-Chapitre 3 De la discussion des projets de loi et propositions de loi
-
-Chapitre 4 Des amendements
-
-Chapitre 5 Des affaires sans rapport ou sans débat
-
-Chapitre 6 Des seconds votes
-
-TITRE III Du contrôle de l’action du Gouvernement
-
-Chapitre 1 Des questions
-
-bis
-
-Chapitre 2 Des motions et des résolutions
-
-Chapitre 3 Des questions de confiance, des motions de confiance, des motions de censure et des motions de méfiance
-
-Chapitre 4 Des interpellations
-
-Chapitre 5 Du débat de consultation
-
-Chapitre 6 Du débat d’orientation
-
-Chapitre 7 De la déclaration gouvernementale selon l’article 74 de la Constitution
-
-Chapitre 8 Retrait des questions, motions, résolutions, interpellations et débats
-
-TITRE IV De la procédure budgétaire
-
-Chapitre 1 Définition
-
-Chapitre 2 Débat sur l’état de la nation
-
-Chapitre 3 Débat sur la politique financière et budgétaire
-
-Chapitre 4 Approbation des comptes généraux
-
-TITRE V Procédures et dispositions particulières
-
-Chapitre 1 Élections et présentation de candidats
-
-Chapitre 2 De la procédure de désignation des candidats pour les postes de conseillers d’État
-
-bis
-
-Chapitre 3 De la procédure de proposition de nomination pour le poste de président, de vice-président ou de conseiller à la Cour des Comptes
-
-Chapitre 4 De l’Ombudsman
-
-Chapitre 5 Du Centre pour l’égalité de traitement
-
-Chapitre 6 De la procédure de nomination du commissaire aux comptes de la Société Nationale de Crédit et d’Investissement
-
-Chapitre 7 De la procédure de désignation de deux membres du conseil national des finances publiques
-
-loi du 23 juillet 2016
-
-Chapitre 9 De l’Ombudsman fir Kanner a Jugendlecher
-
-Chapitre 10 De la procédure de désignation d’un député comme membre de la commission de suivi de la convention portant sur la prestation du service public luxembourgeois en matière de télévision
-
-Chapitre 11 Des pétitions
-
-Chapitre 12 Des rapports de la Chambre avec le Grand-Duc, la Cour des Comptes et le Conseil d’État
-
-Chapitre 13 Du contrôle et de l’apurement des comptes de la Cour des Comptes, de l’Ombudman, du Centre pour l’égalité de traitement et de l’Ombudsman fir Kanner a Jugendlecher
-
-Chapitre 14 De l’administration parlementaire, du Secrétaire général, des fonctionnaires et des salariés de la Chambre
-
-Chapitre 15 Du compte rendu
-
-Chapitre 16 De la retransmission des séances publiques
-
-Chapitre 17 De la comptabilité
-
-Chapitre 18 Des devoirs des députés
-
-bis
-
-Chapitre 19 Des affaires européennes
-
-Chapitre 20 De la police de la Chambre et des tribunes
-
-Chapitre 21 De la procédure d’examen des demandes d’arrestation d’un membre de la Chambre
-
-Chapitre 22 De la procédure en cas de demande par plus d’un quart des membres de la Chambre des Députés d’organiser un référendum selon l’article 131, alinéa 3 de la Constitution
-
-Chapitre 23 L’octroi du titre honorifique aux anciens députés
-
-Chapitre 24 De la vérification des pouvoirs relative au Parlement européen
-
-Chapitre 25 Des changements au Règlement
-
-Chapitre 26 Disposition transitoire
-
-Chapitre 27 Disposition finale
-
-Annexe 1 : Code de conduite des députés luxembourgeois en matière d’intérêts financiers et de conflits d’intérêts
-
-Annexe 2 : Règlement d’ordre intérieur de la Commission de contrôle parlementaire du Service de renseignement de l’État
-
-Annexe 3 : Aide-Mémoire sur la coopération entre la Chambre des Députés et le Gouvernement du Grand-Duché de Luxembourg en matière de politique européenne
-
-Annexe 4 : Statut des fonctionnaires de l’Administration parlementaire
-
-Annexe 5 : Régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’Administration parlementaire
-
-Annexe 6 : Règlements d’exécution du statut des fonctionnaires de l’Administration parlementaire
+TITRE I De l’organisation de la Chambre et de son fonctionnement Chapitre 1 Du Bureau provisoire Chapitre 2 De la vérification des pouvoirs Chapitre 3 Du Bureau définitif Chapitre 4 Des groupes politiques et techniques Chapitre 5 Des commissions Chapitre 6 De la Conférence des Présidents Chapitre 7 Des séances publiques Chapitre 8 Des modes de votation Chapitre 9 De la discipline TITRE II De la procédure en matière de projets de loi et de propositions de loi Chapitre 1 Des projets de loi Chapitre 2 Des propositions de loi Chapitre 2bis Des propositions motivées aux fins de légiférer Chapitre 3 De la discussion des projets de loi et propositions de loi Chapitre 4 Des amendements Chapitre 5 Des affaires sans rapport ou sans débat Chapitre 6 Des seconds votes TITRE III Du contrôle de l’action du Gouvernement Chapitre 1 Des questions Chapitre 1bis Le droit de requérir de la part du Gouvernement des informations et des documents Chapitre 2 Des motions et des résolutions Chapitre 3 Des questions de confiance, des motions de confiance, des motions de censure et des motions de méfiance Chapitre 4 Des interpellations Chapitre 5 Du débat de consultation Chapitre 6 Du débat d’orientation Chapitre 7 De la déclaration gouvernementale selon l’article 74 de la Constitution Chapitre 8 Retrait des questions, motions, résolutions, interpellations et débats TITRE IV De la procédure budgétaire Chapitre 1 Définition Chapitre 2 Débat sur l’état de la nation Chapitre 3 Débat sur la politique financière et budgétaire Chapitre 4 Approbation des comptes généraux TITRE V Procédures et dispositions particulières Chapitre 1 Élections et présentation de candidats Chapitre 2 De la procédure de désignation des candidats pour les postes de conseillers d’État Chapitre 2bis De la procédure de désignation des candidats pour les postes de membre effectif ou de membre suppléant du Conseil national de la justice Chapitre 3 De la procédure de proposition de nomination pour le poste de président, de vice-président ou de conseiller à la Cour des Comptes Chapitre 4 De l’Ombudsman Chapitre 5 Du Centre pour l’égalité de traitement Chapitre 6 De la procédure de nomination du commissaire aux comptes de la Société Nationale de Crédit et d’Investissement Chapitre 7 De la procédure de désignation de deux membres du conseil national des finances publiques Chapitre 8 De la procédure de désignation de deux députés comme membres du comité d’évaluation institué par la loi du 23 juillet 2016 portant mise en place d’un statut spécifique pour certaines données à caractère personnel traitées par le Service de renseignement de l’État Chapitre 9 De l’Ombudsman fir Kanner a Jugendlecher Chapitre 10 De la procédure de désignation d’un député comme membre de la commission de suivi de la convention portant sur la prestation du service public luxembourgeois en matière de télévision Chapitre 11 Des pétitions Chapitre 12 Des rapports de la Chambre avec le Grand-Duc, la Cour des Comptes et le Conseil d’État Chapitre 13 Du contrôle et de l’apurement des comptes de la Cour des Comptes, de l’Ombudman, du Centre pour l’égalité de traitement et de l’Ombudsman fir Kanner a Jugendlecher Chapitre 14 De l’administration parlementaire, du Secrétaire général, des fonctionnaires et des salariés de la Chambre Chapitre 15 Du compte rendu Chapitre 16 De la retransmission des séances publiques Chapitre 17 De la comptabilité Chapitre 18 Des devoirs des députés Chapitre 18bis Le Registre de transparence Chapitre 19 Des affaires européennes Chapitre 20 De la police de la Chambre et des tribunes Chapitre 21 De la procédure d’examen des demandes d’arrestation d’un membre de la Chambre Chapitre 22 De la procédure en cas de demande par plus d’un quart des membres de la Chambre des Députés d’organiser un référendum selon l’article 131, alinéa 3 de la Constitution Chapitre 23 L’octroi du titre honorifique aux anciens députés Chapitre 24 De la vérification des pouvoirs relative au Parlement européen Chapitre 25 Des changements au Règlement Chapitre 26 Disposition transitoire Chapitre 27 Disposition finale Annexe 1 : Code de conduite des députés luxembourgeois en matière d’intérêts financiers et de conflits d’intérêts Annexe 2 : Règlement d’ordre intérieur de la Commission de contrôle parlementaire du Service de renseignement de l’État Annexe 3 : Aide-Mémoire sur la coopération entre la Chambre des Députés et le Gouvernement du Grand-Duché de Luxembourg en matière de politique européenne Annexe 4 : Statut des fonctionnaires de l’Administration parlementaire Annexe 5 : Régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’Administration parlementaire Annexe 6 : Règlements d’exécution du statut des fonctionnaires de l’Administration parlementaire
 
 ### TITRE I De l’organisation de la Chambre et de son fonctionnement
 
@@ -3035,7 +2899,7 @@ La Commission des Pétitions instruit par ordre chronologique de dépôt les dem
 
 - faire usage d’un langage provocateur, vexatoire ou inapproprié ;
 
-- poursuivre des revendications ne rentrant pas dans les attributions de la Chambre des Députés conformément à l’article 62 de la Constitution ;
+- poursuivre des revendications ne rentrant pas dans les attributions de la Chambre des Députés conformément à l’article 62 de laConstitution;
 
 - poursuivre des revendications contraires aux droits de l’Homme, contraires au principe de non-discrimination ou incitant à la haine ;
 
@@ -3656,13 +3520,13 @@ Des facilités matérielles peuvent être accordées aux Présidents d’honneur
 
 Avant de siéger au Parlement européen, les candidats élus sont tenus de :
 
-- fournir à la Chambre les pièces justificatives permettant d’établir de façon certaine qu’ils remplissent les conditions d’éligibilité fixées aux articles 285 (1) et 286 alinéa 1 er de la loi électorale du 18 février 2003 .
+- fournir à la Chambre les pièces justificatives permettant d’établir de façon certaine qu’ils remplissent les conditions d’éligibilité fixées aux articles 285 (1) et 286 alinéa 1er de la loi électorale du 18 février 2003.
 
-- déclarer par écrit qu’ils ne sont pas frappés par les incompatibilités liées à la parenté ou à l’alliance visées à l’article 288 de la loi électorale du 18 février 2003 .
+- déclarer par écrit qu’ils ne sont pas frappés par les incompatibilités liées à la parenté ou à l’alliance visées à l’article 288 de la loi électorale du 18 février 2003.
 
 - s’engager à prendre, si leurs pouvoirs sont validés par la Chambre, toutes les mesures nécessaires afin de ne pas être frappés par les incompatibilités de fonction prévues à l’article 287 (1) et (2) de la loi électorale du 18 février 2003 ainsi qu’à l’article 7, paragraphes 1 et 2, de l’Acte européen du 20 septembre 1976. Les membres du Parlement européen élus au Grand-Duché de Luxembourg informent le Président de la Chambre de tout changement de leur situation à ces trois égards dans les trois jours suivant ledit changement. Outre les trois formalités mentionnées ci-avant, les candidats élus sont aussi tenus de :
 
-- déclarer par écrit qu’ils n’étaient pas, conformément aux dispositions de l’alinéa 12 de l’article 291 de la loi électorale , inscrits comme candidats aux élections européennes dans un autre État membre de l’Union européenne que le Grand-Duché de Luxembourg.
+- déclarer par écrit qu’ils n’étaient pas, conformément aux dispositions de l’alinéa 12 de l’article 291 de la loi électorale, inscrits comme candidats aux élections européennes dans un autre État membre de l’Union européenne que le Grand-Duché de Luxembourg.
 
 (2)
 

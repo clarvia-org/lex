@@ -32,7 +32,7 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 Pour l’application du présent règlement, on entend par :
 
-- « terres arables » : les terres telles que définies à l’article 4, paragraphe 3, lettre a), du règlement (UE) 2021/2115 du Parlement européen et du Conseil du 2 décembre 2021 établissant des règles régissant l’aide aux plans stratégiques devant être établis par les États membres dans le cadre de la politique agricole commune (plans stratégiques relevant de la PAC) et financés par le Fonds européen agricole de garantie (FEAGA) et par le Fonds européen agricole pour le développement rural (Feader), et abrogeant les règlements (UE) n° 1305/2013 et (UE) n° 1307/2013 . Au titre du présent règlement sont également à considérer comme terres arables :
+- « terres arables » : les terres telles que définies à l’article 4, paragraphe 3, lettre a), du règlement (UE) 2021/2115 du Parlement européen et du Conseil du 2 décembre 2021 établissant des règles régissant l’aide aux plans stratégiques devant être établis par les États membres dans le cadre de la politique agricole commune (plans stratégiques relevant de la PAC) et financés par le Fonds européen agricole de garantie (FEAGA) et par le Fonds européen agricole pour le développement rural (Feader), et abrogeant les règlements (UE) n° 1305/2013 et (UE) n° 1307/2013. Au titre du présent règlement sont également à considérer comme terres arables :
 
   - les terres utilisées pour la production de matières premières destinées à des fins non alimentaires ;
 
@@ -82,7 +82,7 @@ L’allocation de l’aide dans les zones de protection des eaux de surface auto
 
 - Couverture du sol obligatoire durant toute l’année et dans toutes les zones de protection conformément aux restrictions prévues au règlement grand-ducal du 16 avril 2021 délimitant les zones de protection autour du lac de la Haute-Sûre.
 
-- L’épandage de fertilisants dans les zones de protection est soumis aux conditions prévues à l’article 7 du règlement grand-ducal précité du 16 avril 2021 .
+- L’épandage de fertilisants dans les zones de protection est soumis aux conditions prévues à l’article 7 du règlement grand-ducal précité du 16 avril 2021.
 
 -
 
@@ -112,15 +112,15 @@ L’allocation de l’aide dans les zones de protection des eaux de surface auto
 
 -
 
-  - Le pâturage pendant toute l’année est interdit dans toutes les zones de protection. L’introduction d’une demande d’autorisation est possible dans les limites fixées par le règlement grand-ducal précité du 16 avril 2021 .
+  - Le pâturage pendant toute l’année est interdit dans toutes les zones de protection. L’introduction d’une demande d’autorisation est possible dans les limites fixées par le règlement grand-ducal précité du 16 avril 2021.
 
-  - Pour tout autre type de pâturage que celui visé à la lettre a), le pâturage est autorisé dans les zones de protection éloignées ainsi que dans les zones de protection rapprochées et interdit dans les zones de protection rapprochées à vulnérabilité élevée ainsi que dans les zones de protection rapprochées à vulnérabilité très élevée. L’introduction d’une demande d’autorisation est possible dans les limites fixées par le règlement grand-ducal précité du 16 avril 2021 .
+  - Pour tout autre type de pâturage que celui visé à la lettre a), le pâturage est autorisé dans les zones de protection éloignées ainsi que dans les zones de protection rapprochées et interdit dans les zones de protection rapprochées à vulnérabilité élevée ainsi que dans les zones de protection rapprochées à vulnérabilité très élevée. L’introduction d’une demande d’autorisation est possible dans les limites fixées par le règlement grand-ducal précité du 16 avril 2021.
 
 - Pour les cultures de maïs, de betteraves et de pommes de terre, la fumure minérale azotée maximale en cas d’absence de fertilisation organique est de 130 kilogrammes d’azote par hectare et par an dans les zones de protection éloignées et dans les zones de protection rapprochées.
 
 - La tenue d’un carnet parcellaire est obligatoire. L’obligation consiste à y consigner annuellement, pour chaque parcelle agricole, la superficie de la parcelle, le type de culture en place, le rendement escompté, la quantité et la nature des fertilisants organiques et minéraux et des produits phytopharmaceutiques appliqués ainsi que la date de leur application et les pratiques culturales en relation avec l’engagement. Le carnet parcellaire est à conserver au siège de l’exploitation pendant cinq ans et à présenter aux autorités chargées du contrôle à la demande de celles-ci.
 
-- L’utilisation de pesticides et d’articles traités est soumise aux conditions prévues à l’article 24 du règlement grand-ducal précité du 16 avril 2021 .
+- L’utilisation de pesticides et d’articles traités est soumise aux conditions prévues à l’article 24 du règlement grand-ducal précité du 16 avril 2021.
 
 <a id="art-6"></a>
 ## Art. 6.
@@ -143,7 +143,7 @@ L’allocation de l’aide dans les zones de protection des eaux souterraines es
 
 - La culture pure de légumineuse est interdite dans les zones de protection rapprochées à vulnérabilité élevée. Dans les zones de protection rapprochées et éloignées, les cultures pures de légumineuses ne peuvent être emblavées qu’une fois tous les cinq ans.
 
-- Sauf cas exceptionnels, tel que prévu dans le règlement grand-ducal précité du 9 juillet 2013 , le retournement en vue du renouvellement de prairies et pâturages permanents est interdit en zones de protection rapprochées à vulnérabilité élevée et en zones de protection rapprochées. Dans les zones de protection éloignées, le retournement est soumis à autorisation conformément à l’article 23 de la loi précitée du 19 décembre 2008 . Sauf cas exceptionnels, tel que prévu dans le règlement grand-ducal précité du 9 juillet 2013, le renouvellement de prairies et pâturages permanents sans labour est autorisé en zones de protection rapprochées et éloignées et est soumis à autorisation conformément à l’article 23 de la loi précitée du 19 décembre 2008 dans les zones de protection rapprochées à vulnérabilité élevée.
+- Sauf cas exceptionnels, tel que prévu dans le règlement grand-ducal précité du 9 juillet 2013, le retournement en vue du renouvellement de prairies et pâturages permanents est interdit en zones de protection rapprochées à vulnérabilité élevée et en zones de protection rapprochées. Dans les zones de protection éloignées, le retournement est soumis à autorisation conformément à l’article 23 de la loi précitée du 19 décembre 2008. Sauf cas exceptionnels, tel que prévu dans le règlement grand-ducal précité du 9 juillet 2013, le renouvellement de prairies et pâturages permanents sans labour est autorisé en zones de protection rapprochées et éloignées et est soumis à autorisation conformément à l’article 23 de la loi précitée du 19 décembre 2008 dans les zones de protection rapprochées à vulnérabilité élevée.
 
 - Dans les zones de protection rapprochées à vulnérabilité élevée, le retournement de prairies temporaires étant en place pendant quatre années consécutives au moins est interdit. Dans les zones de protection rapprochées et éloignées, le retournement de prairies temporaires étant en place pendant quatre années consécutives au moins est autorisé. Cependant, la fertilisation organique est interdite pendant la première période végétale consécutive à ce retournement.
 

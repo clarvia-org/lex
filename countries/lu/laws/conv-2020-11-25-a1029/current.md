@@ -106,11 +106,18 @@ Le tableau de la « Liste A. Verres optiques à définition d’image ponctuelle
 
 La liste B. Divers : montures, éléments de montures, aides visuelles spéciales et téléloupes, reprise à l’annexe III et prévue à l’article 8 de la convention amendée du 13 décembre 1993, conclue entre la CMS et la CNS est modifiée de la manière suivante :
 
-- L’intitulé de la colonne quatre Tarif au 01.01.2009 est remplacé par Tarif au 01.01.2021 .
+- L’intitulé de la colonne quatre Tarif au 01.01.2009 est remplacé par Tarif au 01.01.2021.
 
-- Pour les positions 1 Monture de lunettes à verres vision loin ou de type bifocal et 2 Monture de lunettes à verres vision près , les tarifs fixés à hauteur de 30,00 euros depuis le 1 er janvier 2011 sont insérés.
+- Pour les positions 1 Monture de lunettes à verres vision loin ou de type bifocal et 2 Monture de lunettes à verres vision près, les tarifs fixés à hauteur de 30,00 euros depuis le 1er janvier 2011 sont insérés.
 
-- Les tarifs des positions 5 à 9 sont modifiés comme suit : 5 Verre d’occlusion blanc --220.0 27,00 6 Obturateur --223.0 36,00 7 Occlusif Ryser --224.0 18,00 8 Prisme Press-ON --225.0 54,00 9 Lentille Press-ON --226.0 54,00
+- Les tarifs des positions 5 à 9 sont modifiés comme suit :
+
+| 5 | Verre d’occlusion blanc | --220.0 | 27,00 |
+| --- | --- | --- | --- |
+| 6 | Obturateur | --223.0 | 36,00 |
+| 7 | Occlusif Ryser | --224.0 | 18,00 |
+| 8 | Prisme Press-ON | --225.0 | 54,00 |
+| 9 | Lentille Press-ON | --226.0 | 54,00 |
 
 - Les positions 18 Correction sphérique astygmatique et 21 Correction sphérique estiguratique sont supprimées. Les actuelles positions 19 « Bonnette d’approche pour Téléloupe A » et 20 « Téléloupe B à prisme monoculaire » deviennent les nouvelles positions 18 et 19.
 

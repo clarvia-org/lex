@@ -123,9 +123,9 @@ Le ministre peut prononcer une amende administrative à l’encontre de l’expl
 
 - l’article 3, paragraphe 4 ;
 
-- l’article 3 bis ;
+- l’article 3bis ;
 
-- l’article 3 ter ;
+- l’article 3ter ;
 
 - l’article 5.
 

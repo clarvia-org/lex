@@ -682,7 +682,7 @@ Le rapport de transparence annuel contient au moins les informations suivantes :
 
     - tous les frais de fonctionnement et les frais financiers, ventilés par catégorie de droits gérés, et lorsque les coûts sont indirects et ne peuvent être attribués à une ou plusieurs catégories de droits, une explication de la méthode suivie pour l’attribution de ces coûts indirects ;
 
-    - les frais de fonctionnement et les frais financiers, ventilés par catégorie de droits gérés, et lorsque les coûts sont indirects et ne peuvent être attribués à une ou plusieurs catégories de droits, une explication de la méthode suivie pour l’attribution de ces coûts indirects, corres­pondant uniquement à la gestion des droits, y compris les frais de gestion déduits ou compensés à partir des revenus provenant des droits ou des recettes résultant de l’investissement des revenus provenant des droits conformément à l’article 12, paragraphe 3, et à l’article 13, paragraphes 1 er , 2 et 3 ;
+    - les frais de fonctionnement et les frais financiers, ventilés par catégorie de droits gérés, et lorsque les coûts sont indirects et ne peuvent être attribués à une ou plusieurs catégories de droits, une explication de la méthode suivie pour l’attribution de ces coûts indirects, corres­pondant uniquement à la gestion des droits, y compris les frais de gestion déduits ou compensés à partir des revenus provenant des droits ou des recettes résultant de l’investissement des revenus provenant des droits conformément à l’article 12, paragraphe 3, et à l’article 13, paragraphes 1er, 2 et 3 ;
 
     - les frais de fonctionnement et les frais financiers relatifs aux services, autres que la gestion des droits, mais comprenant les services sociaux, culturels et éducatifs ;
 
@@ -704,7 +704,7 @@ Le rapport de transparence annuel contient au moins les informations suivantes :
 
     - la somme totale attribuée mais non encore distribuée aux titulaires de droits, avec une ventilation par catégorie de droits gérés et par type d’utilisation, en indiquant l’exercice au cours duquel ces sommes ont été perçues ;
 
-    - lorsqu’un organisme de gestion collective n’a pas effectué la distribution et les versements dans le délai fixé à l’article 14, paragraphe 1 er , les motifs de ce retard ;
+    - lorsqu’un organisme de gestion collective n’a pas effectué la distribution et les versements dans le délai fixé à l’article 14, paragraphe 1er, les motifs de ce retard ;
 
     - le total des sommes non distribuables, avec une explication de l’utilisation qui en a été faite ;
 
@@ -1133,11 +1133,25 @@ Dispositions modificatives
 
 La loi modifiée du 18 avril 2001 sur les droits d’auteur, les droits voisins et les bases de données est modifiée comme suit :
 
-- L’intitulé de la Partie V prend la teneur suivante : Ve PARTIE - Commissaire aux droits d’auteur et droits voisins
+- L’intitulé de la Partie V prend la teneur suivante :
 
-- L’article 66 prend la teneur suivante : « Art. 66. Il est institué un commissaire aux droits d’auteur et droits voisins, désigné par le ministre ayant les droits d’auteur et les droits voisins dans ses attributions. Le commissaire est membre de la commission des droits d’auteur et des droits voisins instituée à l’article 92 » .
+Ve PARTIE - Commissaire aux droits d’auteur et droits voisins
 
-- L’article 61, paragraphe 1 er , prend la teneur suivante : Art. 61. Le droit de l’auteur et des titulaires de droits voisins d’autoriser ou d’interdire la retransmission par câble ne peut être exercé que par un organisme de gestion collective valablement autorisé ou un mandataire valablement agréé à agir sur le territoire luxembourgeois.
+- L’article 66 prend la teneur suivante :
+
+<a id="art-66"></a>
+## « Art. 66.
+
+Il est institué un commissaire aux droits d’auteur et droits voisins, désigné par le ministre ayant les droits d’auteur et les droits voisins dans ses attributions.
+
+Le commissaire est membre de la commission des droits d’auteur et des droits voisins instituée à l’article 92 » .
+
+- L’article 61, paragraphe 1er, prend la teneur suivante :
+
+<a id="art-61"></a>
+## Art. 61.
+
+- Le droit de l’auteur et des titulaires de droits voisins d’autoriser ou d’interdire la retransmission par câble ne peut être exercé que par un organisme de gestion collective valablement autorisé ou un mandataire valablement agréé à agir sur le territoire luxembourgeois.
 
 <a id="art-40"></a>
 ## Art. 40.

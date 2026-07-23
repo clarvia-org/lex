@@ -428,7 +428,7 @@ Pour bénéficier de la reconnaissance comme prestataire du chèque-service accu
 
 - disposer d’un personnel d’encadrement faisant valoir une qualification professionnelle répondant aux conditions exigées pour le service d’éducation et d’accueil ou pour la mini-crèche offrant un accueil pour les jeunes enfants, augmenté de 10 pour cent pour l’accueil des enfants bénéficiant du programme d’éducation plurilingue et
 
-- établir un projet pédagogique qui soit conforme à la mission de service public de l’article 22, paragraphe 1 er et
+- établir un projet pédagogique qui soit conforme à la mission de service public de l’article 22, paragraphe 1er et
 
 - produire un concept d’action général dans les conditions établies conformément à l’article 32 et
 
@@ -758,7 +758,7 @@ Des gestionnaires de services d’éducation et d’accueil pour enfants ou de m
 
 Sont institués des agents régionaux «jeunesse», ci-après désignés par le terme «agents régionaux», qui ont pour mission:
 
-- d’analyser les concepts d’action généraux prévus à l’article 32 par rapport au cadre de référence et d’analyser et de vérifier les conditions de mise en œuvre du programme d’éducation plurilingue prévues aux points f. et g. du paragraphe 1 er de l’article 25,
+- d’analyser les concepts d’action généraux prévus à l’article 32 par rapport au cadre de référence et d’analyser et de vérifier les conditions de mise en œuvre du programme d’éducation plurilingue prévues aux points f. et g. du paragraphe 1er de l’article 25,
 
 - de vérifier l’adéquation de la pratique éducative avec les concepts d’action généraux en suivant des procédures préétablies,
 

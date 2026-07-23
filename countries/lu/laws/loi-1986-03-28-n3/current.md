@@ -447,7 +447,7 @@ Pour l’application de l’article 14 paragraphe 6 à la carrière du technicie
 
 Toutes les dispositions légales et réglementaires contraires à la présente loi sont abrogées, à l’exception:
 
-- de l’article 1 er paragraphe 2 de la loi du 31 janvier 1979 concernant l’organisation d’une filière administrative de la carrière supérieure dans les administrations de l’Etat
+- de l’article 1er paragraphe 2 de la loi du 31 janvier 1979 concernant l’organisation d’une filière administrative de la carrière supérieure dans les administrations de l’Etat
 
 - de l’article 2 de la loi du 26 avril 1979 modifiant la loi du 25 juillet 1977 remplaçant la loi du 22 avril 1974 concernant les emplois des carrières moyennes du rédacteur et du technicien diplômé dans les administrations de l’Etat
 

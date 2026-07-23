@@ -52,7 +52,7 @@ Définitions
 
 Au sens de la présente loi, on entend par :
 
-- « autorité nationale de concurrence » : une autorité compétente pour appliquer les articles 101 et 102 du Traité sur le fonctionnement de l’Union européenne (ci-après : « TFUE »), désignée par un État membre en vertu de l’article 35 du règlement (CE) n° 1/2003 du Conseil du 16 décembre 2002 relatif à la mise en œuvre des règles de concurrence prévues aux articles 81 et 82 du traité , tel que modifié ;
+- « autorité nationale de concurrence » : une autorité compétente pour appliquer les articles 101 et 102 du Traité sur le fonctionnement de l’Union européenne (ci-après : « TFUE »), désignée par un État membre en vertu de l’article 35 du règlement (CE) n° 1/2003 du Conseil du 16 décembre 2002 relatif à la mise en œuvre des règles de concurrence prévues aux articles 81 et 82 du traité, tel que modifié ;
 
 - « autorité de concurrence » : une autorité nationale de concurrence ou la Commission européenne ou les deux, selon le contexte ;
 
@@ -62,9 +62,9 @@ Au sens de la présente loi, on entend par :
 
 - « instance de recours » : une juridiction nationale habilitée à réexaminer, par les moyens de recours ordinaires, les décisions d’une autorité nationale de concurrence ou à réexaminer les jugements se prononçant sur ces décisions, que cette juridiction soit ou non compétente elle-même pour constater une infraction au droit de la concurrence ;
 
-- « procédure » : la procédure devant l’Autorité de concurrence du Grand-Duché de Luxembourg pour l’application des articles 4 et 5 de la présente loi et des articles 101 et 102 du TFUE , jusqu’à ce qu’elle ait clos cette procédure en adoptant une décision en vertu de l’article 16 ou qu’elle ait conclu qu’il n’y a plus lieu qu’elle agisse ou la procédure devant la Commission européenne pour l’application de l’article 101 ou de l’article 102 du TFUE , jusqu’à ce que celle-ci ait clos cette procédure en adoptant une décision en vertu des articles 7, 9 ou 10 du règlement (CE) n° 1/2003 précité ou qu’elle ait conclu qu’il n’y a plus lieu qu’elle agisse ;
+- « procédure » : la procédure devant l’Autorité de concurrence du Grand-Duché de Luxembourg pour l’application des articles 4 et 5 de la présente loi et des articles 101 et 102 du TFUE, jusqu’à ce qu’elle ait clos cette procédure en adoptant une décision en vertu de l’article 16 ou qu’elle ait conclu qu’il n’y a plus lieu qu’elle agisse ou la procédure devant la Commission européenne pour l’application de l’article 101 ou de l’article 102 du TFUE, jusqu’à ce que celle-ci ait clos cette procédure en adoptant une décision en vertu des articles 7, 9 ou 10 du règlement (CE) n° 1/2003 précité ou qu’elle ait conclu qu’il n’y a plus lieu qu’elle agisse ;
 
-- « entreprise » : au sens des articles 4 et 5 de la présente loi et 101 et 102 du TFUE , toute entité exerçant une activité économique, indépendamment de son statut juridique et de son mode de financement ;
+- « entreprise » : au sens des articles 4 et 5 de la présente loi et 101 et 102 du TFUE, toute entité exerçant une activité économique, indépendamment de son statut juridique et de son mode de financement ;
 
 - « entente » : tout accord ou toute pratique concertée entre deux ou plusieurs concurrents visant à coordonner leur comportement concurrentiel sur le marché ou à influencer les paramètres de la concurrence par des pratiques consistant notamment, mais pas uniquement, à fixer ou à coordonner des prix d’achat ou de vente ou d’autres conditions de transaction, y compris au regard des droits de la propriété intellectuelle, à attribuer des quotas de production ou de vente, à répartir des marchés et des clients, notamment en présentant des soumissions concertées lors de marchés publics, à restreindre l’importation ou l’exportation ou à prendre des mesures anticoncurrentielles dirigées contre d’autres concurrents ;
 
@@ -80,7 +80,7 @@ Au sens de la présente loi, on entend par :
 
 - « déclaration effectuée en vue d’obtenir la clémence » : tout exposé oral ou écrit, ou toute transcription d’un tel exposé, présenté spontanément à une autorité de concurrence par une entreprise ou une personne physique, ou en leur nom, qui décrit la connaissance qu’a cette entreprise ou cette personne physique d’une entente et qui décrit leur rôle dans cette entente, dont la présentation a été établie expressément pour être soumise à l’autorité de concurrence en vue d’obtenir une immunité d’amendes ou une réduction d’amendes dans le cadre d’un programme de clémence, toute preuve qui existe indépendamment de la procédure de mise en œuvre, qu’elle figure ou non dans le dossier d’une autorité de concurrence, en étant exclue, à savoir les informations préexistantes ;
 
-- « proposition de transaction » : la présentation spontanée ou non par une entreprise, ou au nom de celle-ci , à une autorité de concurrence d’une déclaration reconnaissant la participation de cette entreprise à une violation à l’article 4 ou 5 de la présente loi ou à l’article 101 ou 102 du TFUE et sa responsabilité dans cette violation, établie spécifiquement pour permettre à l’autorité de concurrence d’appliquer une procédure simplifiée ou accélérée ;
+- « proposition de transaction » : la présentation spontanée ou non par une entreprise, ou au nom de celle-ci, à une autorité de concurrence d’une déclaration reconnaissant la participation de cette entreprise à une violation à l’article 4 ou 5 de la présente loi ou à l’article 101 ou 102 du TFUE et sa responsabilité dans cette violation, établie spécifiquement pour permettre à l’autorité de concurrence d’appliquer une procédure simplifiée ou accélérée ;
 
 - « demandeur » : une entreprise qui demande l’immunité ou une réduction d’amendes au titre d’un programme de clémence ;
 
@@ -284,7 +284,7 @@ Les attributions de l’Autorité sont :
 
 - l’application de la loi du 1er juin 2021 sur les relations entre entreprises au sein de la chaîne d’approvisionnement agricole et alimentaire ;
 
-- l’exécution des devoirs issus du règlement (UE) n° 2022/1925 du Parlement et du Conseil du 14 septembre 2022 relatif aux marchés contestables et équitables dans le secteur numérique et modifiant les directives (UE) 2019/1937 et (UE) 2020/1828 (règlement sur les marchés numériques), dévolus aux autorités nationales compétentes des États membres chargées de faire appliquer les règles visées à l’article 1 er , paragraphe 6, du règlement (UE) n° 2022/1925 précité. » ;
+- l’exécution des devoirs issus du règlement (UE) n° 2022/1925 du Parlement et du Conseil du 14 septembre 2022 relatif aux marchés contestables et équitables dans le secteur numérique et modifiant les directives (UE) 2019/1937 et (UE) 2020/1828 (règlement sur les marchés numériques), dévolus aux autorités nationales compétentes des États membres chargées de faire appliquer les règles visées à l’article 1er, paragraphe 6, du règlement (UE) n° 2022/1925 précité. » ;
 
 - l’exécution d’inspections en application de l’article 14, paragraphes 5, 6 et 7 du règlement (UE) n° 2022/2560 du Parlement et du Conseil du 14 décembre 2022 relatif au subventions étrangères faussant le marché intérieur.
 
@@ -440,7 +440,7 @@ Le Collège siégeant en formation collégiale de trois membres, composée du pr
 
 - décision de non-lieu conformément à l’article 45 ;
 
-- décision de constat et de cessation de violation des articles 4 et 5 de la présente loi et des articles 101 et 102 du TFUE , y compris l’imposition de toute mesure corrective, conformément à l’article 46 ;
+- décision de constat et de cessation de violation des articles 4 et 5 de la présente loi et des articles 101 et 102 du TFUE, y compris l’imposition de toute mesure corrective, conformément à l’article 46 ;
 
 - décision de transaction conformément à l’article 47 ;
 
@@ -1422,11 +1422,11 @@ Avant d’adopter cette décision, l’Autorité sollicite l’avis du conseille
 
 L’Autorité peut rouvrir la procédure d’office ou sur demande d’une partie intéressée :
 
-- si l’un des faits à la base desquels repose la décision visée au paragraphe 1 er subit un changement substantiel ;
+- si l’un des faits à la base desquels repose la décision visée au paragraphe 1er subit un changement substantiel ;
 
 - lorsque des entreprises ou associations d’entreprises contreviennent à leurs engagements ;
 
-- lorsqu’une décision visée au paragraphe 1 er repose sur des informations incomplètes, inexactes ou trompeuses fournies par les parties.
+- lorsqu’une décision visée au paragraphe 1er repose sur des informations incomplètes, inexactes ou trompeuses fournies par les parties.
 
 #### Chapitre 12 L’exécution des décisions
 
@@ -1623,7 +1623,7 @@ Sans préjudice des autres formes de notification par une autorité requérante,
 
 - tout autre acte procédural adopté dans le cadre de procédures de mise en œuvre, qui devrait être notifié conformément au droit national ; et
 
-- tout autre document pertinent lié à l’application des articles 101 ou 102 du TFUE , y compris les documents relatifs à l’exécution des décisions infligeant des amendes ou des astreintes.
+- tout autre document pertinent lié à l’application des articles 101 ou 102 du TFUE, y compris les documents relatifs à l’exécution des décisions infligeant des amendes ou des astreintes.
 
 <a id="art-68"></a>
 ## Art. 68.
@@ -1834,7 +1834,7 @@ La partie qui a obtenu l’accès au dossier de la procédure de mise en œuvre 
 
 - la répartition, entre les participants à une entente, d’une amende qui leur est infligée solidairement par une autorité nationale de concurrence ; ou
 
-- un recours contre une décision par laquelle l’Autorité a constaté une violation aux articles 4 ou 5 de la présente loi ou aux articles 101 et 102 du TFUE .
+- un recours contre une décision par laquelle l’Autorité a constaté une violation aux articles 4 ou 5 de la présente loi ou aux articles 101 et 102 du TFUE.
 
 (3)
 
@@ -1905,13 +1905,17 @@ Modification de la loi modifiée du 10 août 1991 sur la profession d’avocat
 
 La loi modifiée du 10 août 1991 sur la profession d’avocat est modifiée comme suit :
 
-- à l’article 2, paragraphe 1 er , l’alinéa 2 est complété par une lettre f) nouvelle qui prend la teneur suivante : de l’Autorité de concurrence du Grand-Duché de Luxembourg de se faire représenter par son président ou un membre permanent du Collège ou un agent du groupe de traitement A1 dûment mandaté, devant les juridictions de l’ordre administratif appelées à connaître d’un recours introduit à l’encontre d’une décision rendue par l’Autorité de concurrence dans le cadre de l’exercice des pouvoirs lui attribués par les articles 22, 31, 32, 44, 45, 46, 48, 49, 50, 58 et 60 de la loi du 30 novembre 2022 relative à la concurrence. » ;
+- à l’article 2, paragraphe 1er, l’alinéa 2 est complété par une lettre f) nouvelle qui prend la teneur suivante :
+
+- de l’Autorité de concurrence du Grand-Duché de Luxembourg de se faire représenter par son président ou un membre permanent du Collège ou un agent du groupe de traitement A1 dûment mandaté, devant les juridictions de l’ordre administratif appelées à connaître d’un recours introduit à l’encontre d’une décision rendue par l’Autorité de concurrence dans le cadre de l’exercice des pouvoirs lui attribués par les articles 22, 31, 32, 44, 45, 46, 48, 49, 50, 58 et 60 de la loi du 30 novembre 2022 relative à la concurrence. » ;
 
 - l’article 35, paragraphe 3, est modifié comme suit :
 
-  - à l’alinéa 1 er , les mots ou de contrôle ou d’inspection prévues respectivement aux articles 24 à 26 de la loi du 30 novembre 2022 relative à la concurrence sont insérés entre les mots instruction criminelle et les mots ou d’inspection prévue par l’article L. 311-8 ;
+  - à l’alinéa 1er, les mots ou de contrôle ou d’inspection prévues respectivement aux articles 24 à 26 de la loi du 30 novembre 2022 relative à la concurrence sont insérés entre les mots instruction criminelle et les mots ou d’inspection prévue par l’article L. 311-8 ;
 
-  - le paragraphe est complété par un alinéa 3 nouveau qui prend la teneur suivante : « Les procès-verbaux de contrôle prévus à l’article 24, paragraphe 6, et de l’inspection prévus à l’article 26, paragraphe 8, de la loi du 30 novembre 2022 relative à la concurrence mentionnent à peine de nullité la présence du Bâtonnier ou de son représentant ou le fait qu’ils ont été dûment appelés, ainsi que les observations que le Bâtonnier ou son représentant ont estimé devoir faire. ».
+  - le paragraphe est complété par un alinéa 3 nouveau qui prend la teneur suivante :
+
+« Les procès-verbaux de contrôle prévus à l’article 24, paragraphe 6, et de l’inspection prévus à l’article 26, paragraphe 8, de la loi du 30 novembre 2022 relative à la concurrence mentionnent à peine de nullité la présence du Bâtonnier ou de son représentant ou le fait qu’ils ont été dûment appelés, ainsi que les observations que le Bâtonnier ou son représentant ont estimé devoir faire. ».
 
 <a id="art-78"></a>
 ## Art. 78.
@@ -1920,9 +1924,41 @@ Modification de la loi modifiée du 21 juin 1999 portant règlement de procédur
 
 La loi modifiée du 21 juin 1999 portant règlement de procédure devant les juridictions administratives est modifiée comme suit :
 
-- à l’article 34, il est inséré un paragraphe 8-1 nouveau qui prend la teneur suivante : (8-1) Si l’Autorité de concurrence du Grand-Duché de Luxembourg est partie au litige le jugement est notifié au président de l’Autorité de concurrence.
+- à l’article 34, il est inséré un paragraphe 8-1 nouveau qui prend la teneur suivante :
 
-- il est inséré un titre III bis nouveau, comprenant les articles 60-1 à 60-4 nouveaux, qui prend la teneur suivante : Titre IIIbis. Dispositions spécifiques en matière de concurrence Art. 60-1. Lors d’un recours introduit à l’encontre d’une décision rendue par l’Autorité de concurrence du Grand-Duché de Luxembourg dans le cadre de l’exercice des pouvoirs lui attribués par les articles 22, 31, 32, 44, 45, 46, 48, 49, 50, 58 et 60 de la loi du 30 novembre 2022 relative à la concurrence, les dispositions prévues aux titres Ier et II sont applicables, sauf les exceptions qui sont prévues aux dispositions des articles suivants. Art. 60-2. L’Autorité de concurrence du Grand-Duché de Luxembourg n’est pas tenue de constituer avocat, tel que prévu à l’article 5, paragraphe 1er, lors d’un recours introduit à l’encontre d’une décision rendue par celle-ci dans le cadre de l’exercice des pouvoirs lui attribués par les articles 22, 31, 32, 44, 45, 46, 48, 49, 50, 58 et 60 de la loi du 30 novembre 2022 relative à la concurrence. La transmission par le greffier d’un exemplaire des pièces déposées par le demandeur prévue à l’article 5, paragraphe 4, est adressée au président de l’Autorité de concurrence. Art. 60-3. Les communications entre avocats constitués et l’Autorité de concurrence du Grand-Duché de Luxembourg peuvent être faites moyennant signification par ministère d’huissier ou notification par voie postale ou par voie directe. La signification est constatée par l’apposition du cachet et de la signature de l’huissier de justice sur l’acte et sa copie avec l’indication de la date et du nom du président de l’Autorité de concurrence. La notification directe s’opère par la remise de l’acte en double exemplaire au président de l’Autorité de concurrence, lequel restitue aussitôt l’un des exemplaires après l’avoir daté et visé. Art. 60-4. Lorsque l’Autorité de concurrence interjette appel sans constituer avocat, la requête d’appel est signée par le président de l’Autorité de concurrence.
+(8-1)
+
+Si l’Autorité de concurrence du Grand-Duché de Luxembourg est partie au litige le jugement est notifié au président de l’Autorité de concurrence.
+
+- il est inséré un titre IIIbis nouveau, comprenant les articles 60-1 à 60-4 nouveaux, qui prend la teneur suivante :
+
+### Titre IIIbis. Dispositions spécifiques en matière de concurrence
+
+<a id="art-60-1"></a>
+## Art. 60-1.
+
+Lors d’un recours introduit à l’encontre d’une décision rendue par l’Autorité de concurrence du Grand-Duché de Luxembourg dans le cadre de l’exercice des pouvoirs lui attribués par les articles 22, 31, 32, 44, 45, 46, 48, 49, 50, 58 et 60 de la loi du 30 novembre 2022 relative à la concurrence, les dispositions prévues aux titres Ier et II sont applicables, sauf les exceptions qui sont prévues aux dispositions des articles suivants.
+
+<a id="art-60-2"></a>
+## Art. 60-2.
+
+L’Autorité de concurrence du Grand-Duché de Luxembourg n’est pas tenue de constituer avocat, tel que prévu à l’article 5, paragraphe 1er, lors d’un recours introduit à l’encontre d’une décision rendue par celle-ci dans le cadre de l’exercice des pouvoirs lui attribués par les articles 22, 31, 32, 44, 45, 46, 48, 49, 50, 58 et 60 de la loi du 30 novembre 2022 relative à la concurrence.
+
+La transmission par le greffier d’un exemplaire des pièces déposées par le demandeur prévue à l’article 5, paragraphe 4, est adressée au président de l’Autorité de concurrence.
+
+<a id="art-60-3"></a>
+## Art. 60-3.
+
+Les communications entre avocats constitués et l’Autorité de concurrence du Grand-Duché de Luxembourg peuvent être faites moyennant signification par ministère d’huissier ou notification par voie postale ou par voie directe.
+
+La signification est constatée par l’apposition du cachet et de la signature de l’huissier de justice sur l’acte et sa copie avec l’indication de la date et du nom du président de l’Autorité de concurrence.
+
+La notification directe s’opère par la remise de l’acte en double exemplaire au président de l’Autorité de concurrence, lequel restitue aussitôt l’un des exemplaires après l’avoir daté et visé.
+
+<a id="art-60-4"></a>
+## Art. 60-4.
+
+Lorsque l’Autorité de concurrence interjette appel sans constituer avocat, la requête d’appel est signée par le président de l’Autorité de concurrence.
 
 <a id="art-79"></a>
 ## Art. 79.
@@ -1931,7 +1967,7 @@ Modification de la loi modifiée du 25 mars 2015 fixant le régime des traitemen
 
 La loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État est modifiée comme suit :
 
-- l’article 12, paragraphe 1 er , alinéa 7, est modifié comme suit :
+- l’article 12, paragraphe 1er, alinéa 7, est modifié comme suit :
 
   - au point 8°, les termes et de vice-président du Conseil arbitral des assurances sociales sont remplacés par les termes de vice-président du Conseil arbitral des assurances sociales, de vice-président de l’Autorité de concurrence du Grand-Duché de Luxembourg et de membre effectif de l’Autorité de concurrence du Grand-Duché de Luxembourg ;
 
@@ -1941,7 +1977,7 @@ La loi modifiée du 25 mars 2015 fixant le régime des traitements et les condit
 
   - dans le sous-groupe à attributions particulières, le grade 16 est complété par la fonction vice-président de l’Autorité de concurrence du Grand-Duché de Luxembourg et la fonction conseiller effectif de l’Autorité de concurrence du Grand-Duché de Luxembourg ;
 
-  - dans le sous-groupe à attributions particulières, grade 17, les termes président du Conseil de la concurrence sont remplacés par les termes président de l’Autorité de concurrence du Grand-Duché de Luxembourg .
+  - dans le sous-groupe à attributions particulières, grade 17, les termes président du Conseil de la concurrence sont remplacés par les termes président de l’Autorité de concurrence du Grand-Duché de Luxembourg.
 
 <a id="art-80"></a>
 ## Art. 80.
@@ -1950,9 +1986,44 @@ Modification de la loi modifiée du 10 février 2015 relative à l’organisatio
 
 La loi modifiée du 10 février 2015 relative à l’organisation du marché de produits pétroliers est modifiée comme suit :
 
-- À la suite de l’article 58, il est inséré un titre III nouveau, comprenant l’article 58 bis nouveau, qui prend la teneur suivante : Titre III Prix maxima des produits pétroliers Art. 58bis. (1) Le ministre peut conclure des contrats de programme avec des entreprises du secteur des produits pétroliers comportant des engagements relatifs au niveau des prix maxima. Les contrats sont conclus pour une durée indéterminée. À défaut de conclusion de contrats de programme, le ministre peut déterminer des prix de vente maxima pour différents produits pétroliers selon un mode de calcul journalier arrêté par règlement grand-ducal. Ce calcul prend en compte : les cotations des différents produits pétroliers ; le cours de change du dollar américain en euro ; les marges de distribution que le ministre négocie tous les deux ans avec le secteur pétrolier. À défaut d’accord, les dernières marges de distribution appliquées sont intégrées dans la formule de calcul ; les droits d’accise et les taxes assimilées sur les produits énergétiques ainsi que la taxe sur la valeur ajoutée ; les paramètres de la composante biofioul obligatoire. Les prix maxima ainsi calculés sont automatiquement adaptés selon un mécanisme déclencheur qui prend en compte l’évolution des écarts entre ces prix maxima et les prix maxima virtuels déterminés sur base des éléments énumérés sous les points 1° à 5°. Le règlement grand-ducal visé à l’alinéa 2 fixe les détails des modalités de cette adaptation automatique. (2) Est puni d’une amende de 251 à 50 000 euros quiconque vend, propose à la vente ou promeut des produits pétroliers à des prix en violation du règlement grand-ducal pris en application du paragraphe 1er. L’amende s’élève à un montant compris entre 251 et 2 500 euros lorsqu’un écart de prix inférieur à 5 pour cent par rapport au prix fixé par règlement grand-ducal est constaté. L’amende s’élève à un montant compris entre 2 501 et 10 000 euros lorsqu’un écart de prix compris entre 5 et 15 pour cent par rapport au prix fixé par règlement grand-ducal est constaté. L’amende s’élève à un montant compris entre 10 001 et 50 000 euros lorsqu’un écart de prix de plus de 15 pour cent par rapport au prix fixé par règlement grand-ducal est constaté.
+- À la suite de l’article 58, il est inséré un titre III nouveau, comprenant l’article 58bis nouveau, qui prend la teneur suivante :
 
-- Suite à l’insertion du titre III nouveau, il est procédé à une renumérotation de l’ancien titre III qui prend la teneur suivante : « Titre IV Dispositions transitoires, modificatives et abrogatoires ».
+### Titre III Prix maxima des produits pétroliers
+
+<a id="art-58bis"></a>
+## Art. 58bis.
+
+(1)
+
+Le ministre peut conclure des contrats de programme avec des entreprises du secteur des produits pétroliers comportant des engagements relatifs au niveau des prix maxima. Les contrats sont conclus pour une durée indéterminée.
+
+À défaut de conclusion de contrats de programme, le ministre peut déterminer des prix de vente maxima pour différents produits pétroliers selon un mode de calcul journalier arrêté par règlement grand-ducal. Ce calcul prend en compte :
+
+- les cotations des différents produits pétroliers ;
+
+- le cours de change du dollar américain en euro ;
+
+- les marges de distribution que le ministre négocie tous les deux ans avec le secteur pétrolier. À défaut d’accord, les dernières marges de distribution appliquées sont intégrées dans la formule de calcul ;
+
+- les droits d’accise et les taxes assimilées sur les produits énergétiques ainsi que la taxe sur la valeur ajoutée ;
+
+- les paramètres de la composante biofioul obligatoire.
+
+Les prix maxima ainsi calculés sont automatiquement adaptés selon un mécanisme déclencheur qui prend en compte l’évolution des écarts entre ces prix maxima et les prix maxima virtuels déterminés sur base des éléments énumérés sous les points 1° à 5°. Le règlement grand-ducal visé à l’alinéa 2 fixe les détails des modalités de cette adaptation automatique.
+
+(2)
+
+Est puni d’une amende de 251 à 50 000 euros quiconque vend, propose à la vente ou promeut des produits pétroliers à des prix en violation du règlement grand-ducal pris en application du paragraphe 1er.
+
+L’amende s’élève à un montant compris entre 251 et 2 500 euros lorsqu’un écart de prix inférieur à 5 pour cent par rapport au prix fixé par règlement grand-ducal est constaté.
+
+L’amende s’élève à un montant compris entre 2 501 et 10 000 euros lorsqu’un écart de prix compris entre 5 et 15 pour cent par rapport au prix fixé par règlement grand-ducal est constaté.
+
+L’amende s’élève à un montant compris entre 10 001 et 50 000 euros lorsqu’un écart de prix de plus de 15 pour cent par rapport au prix fixé par règlement grand-ducal est constaté.
+
+- Suite à l’insertion du titre III nouveau, il est procédé à une renumérotation de l’ancien titre III qui prend la teneur suivante :
+
+### « Titre IV Dispositions transitoires, modificatives et abrogatoires ».
 
 <a id="art-81"></a>
 ## Art. 81.
@@ -1961,9 +2032,11 @@ Modification de la loi modifiée du 23 juillet 2016 relative à la profession de
 
 L’article 28, paragraphe 8, de la loi modifiée du 23 juillet 2016 relative à la profession de l’audit est modifié comme suit :
 
-- à l’alinéa 1 er les mots ou de contrôle ou d’inspection prévues aux articles 24 à 26 de la loi du 30 novembre 2022 relative à la concurrence sont insérés entre les mots instruction criminelle et les mots est effectuée ;
+- à l’alinéa 1er les mots ou de contrôle ou d’inspection prévues aux articles 24 à 26 de la loi du 30 novembre 2022 relative à la concurrence sont insérés entre les mots instruction criminelle et les mots est effectuée ;
 
-- le paragraphe est complété par un alinéa 3 nouveau qui prend la teneur suivante : « Les procès-verbaux de contrôle prévus à l’article 24, paragraphe 6, et de l’inspection prévus à l’article 26, paragraphe 8, de la loi du 30 novembre 2022 relative à la concurrence mentionnent à peine de nullité la présence du président de l’IRE ou de son représentant ou le fait qu’ils ont été dûment appelés, ainsi que les observations que le président de l’IRE ou son représentant ont estimé devoir faire. ».
+- le paragraphe est complété par un alinéa 3 nouveau qui prend la teneur suivante :
+
+« Les procès-verbaux de contrôle prévus à l’article 24, paragraphe 6, et de l’inspection prévus à l’article 26, paragraphe 8, de la loi du 30 novembre 2022 relative à la concurrence mentionnent à peine de nullité la présence du président de l’IRE ou de son représentant ou le fait qu’ils ont été dûment appelés, ainsi que les observations que le président de l’IRE ou son représentant ont estimé devoir faire. ».
 
 <a id="art-82"></a>
 ## Art. 82.
@@ -1987,25 +2060,58 @@ La loi du 1er juin 2021 sur les relations entre entreprises au sein de la chaîn
 
 - l’article 4 est modifié comme suit :
 
-  - il est inséré un paragraphe 2-1 nouveau qui prend la teneur suivante : « (2-1) Une plainte doit au moins comporter les éléments suivants : informations complètes quant à l’identité du plaignant. Si le plaignant est une entreprise, informations sur le groupe de sociétés auquel elle appartient et bref aperçu de la nature et de la portée de ses activités économiques ; le chiffre d’affaires du fournisseur ; indications sur la personne de contact auprès de laquelle des informations supplémentaires pourront notamment être demandées ; informations suffisantes sur l’identité de l’entreprise ou association d’entreprises visée par la plainte et, le cas échéant, sur le groupe de sociétés auquel elle appartient et bref aperçu de la nature et la portée de ses activités économiques ainsi que de la relation entretenue entre cette entité visée et le plaignant ; description détaillée des faits dénoncés et production des documents et éléments de preuves liés aux faits dénoncés dont le plaignant dispose ; indications sur le fait qu’une démarche auprès d’une autre autorité d’application ou d’une juridiction nationale pour les mêmes motifs ou des motifs apparentés a été initiée. » ;
+  - il est inséré un paragraphe 2-1 nouveau qui prend la teneur suivante :
+
+« (2-1)
+
+Une plainte doit au moins comporter les éléments suivants :
+
+- informations complètes quant à l’identité du plaignant. Si le plaignant est une entreprise, informations sur le groupe de sociétés auquel elle appartient et bref aperçu de la nature et de la portée de ses activités économiques ;
+
+- le chiffre d’affaires du fournisseur ;
+
+- indications sur la personne de contact auprès de laquelle des informations supplémentaires pourront notamment être demandées ;
+
+- informations suffisantes sur l’identité de l’entreprise ou association d’entreprises visée par la plainte et, le cas échéant, sur le groupe de sociétés auquel elle appartient et bref aperçu de la nature et la portée de ses activités économiques ainsi que de la relation entretenue entre cette entité visée et le plaignant ;
+
+- description détaillée des faits dénoncés et production des documents et éléments de preuves liés aux faits dénoncés dont le plaignant dispose ;
+
+- indications sur le fait qu’une démarche auprès d’une autre autorité d’application ou d’une juridiction nationale pour les mêmes motifs ou des motifs apparentés a été initiée. » ;
 
   - au paragraphe 5, sont insérés les termes accuse réception de celle-ci dans un délai de sept jours calendaires et entre le mot plainte et le mot informe ;
 
-  - il est inséré un paragraphe 6-1 nouveau qui prend la teneur suivante : « (6-1) L’Autorité de la concurrence du Grand-Duché de Luxembourg peut également rejeter une plainte si elle ne la considère pas comme une priorité. » ;
+  - il est inséré un paragraphe 6-1 nouveau qui prend la teneur suivante :
+
+« (6-1)
+
+L’Autorité de la concurrence du Grand-Duché de Luxembourg peut également rejeter une plainte si elle ne la considère pas comme une priorité. » ;
 
   - au paragraphe 7, les mots conseiller désigné conformément à l’article 7, paragraphe 4, de la loi modifiée du 23 octobre 2011 relative à la concurrence. Le conseiller désigné mène l’enquête dans un délai raisonnable conformément à l’article 5 et rédige, le cas échéant, une communication des griefs conformément à l’article 25 de la loi précitée du 23 octobre 2011. sont remplacés par les mots conseiller instructeur conformément à l’article 23 de la loi du 30 novembre 2022 relative à la concurrence. Le conseiller instructeur mène l’enquête dans un délai raisonnable conformément à l’article 20 et rédige, le cas échéant, une communication des griefs conformément à l’article 37 de la loi précitée. ;
 
-  - il est inséré un paragraphe 7-1 nouveau qui prend la teneur suivante : « (7-1) Les parties visées par la communication des griefs ont accès au dossier à la base de la communication des griefs qui leur est adressée conformément aux articles 38 et 39 de la loi du 30 novembre 2022 relative à la concurrence. L’audition éventuelle des parties se déroule conformément à l’article 40 de la loi du 30 novembre 2022 relative à la concurrence. » ;
+  - il est inséré un paragraphe 7-1 nouveau qui prend la teneur suivante :
+
+« (7-1)
+
+Les parties visées par la communication des griefs ont accès au dossier à la base de la communication des griefs qui leur est adressée conformément aux articles 38 et 39 de la loi du 30 novembre 2022 relative à la concurrence.
+
+L’audition éventuelle des parties se déroule conformément à l’article 40 de la loi du 30 novembre 2022 relative à la concurrence. » ;
 
 - l’article 5 est modifié comme suit :
 
-  - au paragraphe 1 er , les mots articles 14 à 16 et aux articles 18 et 19 de la loi du 23 octobre 2011 relative à la concurrence sont remplacés par les mots articles 24 à 30 de la loi du 30 novembre 2022 relative à la concurrence ;
+  - au paragraphe 1er, les mots articles 14 à 16 et aux articles 18 et 19 de la loi du 23 octobre 2011 relative à la concurrence sont remplacés par les mots articles 24 à 30 de la loi du 30 novembre 2022 relative à la concurrence ;
 
   - au paragraphe 4, les mots des mesures conservatoires conformément à l’article 12 de la loi modifiée du 23 octobre 2011 relative à la concurrence sont remplacés par les mots des mesures provisoires conformément aux articles 42 à 44 de la loi du 30 novembre 2022 relative à la concurrence ;
 
   - au paragraphe 6, les mots à l’article 7, paragraphe 5, de la loi modifiée du 23 octobre 2011 relative à la concurrence sont remplacés par les termes à l’article 8, point 1°, lettre d) de la loi du 30 novembre 2022 relative à la concurrence ;
 
-- Il est inséré un article 5 bis qui prend la teneur suivante : Art. 5bis. Recours Un recours de pleine juridiction est ouvert devant le tribunal administratif à l’encontre des décisions de l’Autorité de la concurrence du Grand-Duché de Luxembourg prévues aux articles 4, paragraphe 6 et 5, paragraphes 2, 3 et 4.
+- Il est inséré un article 5bis qui prend la teneur suivante :
+
+<a id="art-5bis"></a>
+## Art. 5bis.
+
+Recours
+
+Un recours de pleine juridiction est ouvert devant le tribunal administratif à l’encontre des décisions de l’Autorité de la concurrence du Grand-Duché de Luxembourg prévues aux articles 4, paragraphe 6 et 5, paragraphes 2, 3 et 4.
 
 <a id="art-84"></a>
 ## Art. 84.

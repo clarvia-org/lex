@@ -129,21 +129,21 @@ La décision visée au paragraphe 1er précise la date et les modalités des pro
 
 Les avances sont imputées au Fonds climat et énergie et versées par le ministre ayant l’Environnement dans ses attributions :
 
-- dans les trois semaines après la notification de la décision visée au paragraphe 1 er pour la première tranche ;
+- dans les trois semaines après la notification de la décision visée au paragraphe 1er pour la première tranche ;
 
-- au plus tard le 1 er avril 2023 pour la deuxième tranche ;
+- au plus tard le 1er avril 2023 pour la deuxième tranche ;
 
-- au plus tard le 1 er juillet 2023 pour la troisième tranche ;
+- au plus tard le 1er juillet 2023 pour la troisième tranche ;
 
-- au plus tard le 1 er octobre 2023 pour la quatrième tranche ;
+- au plus tard le 1er octobre 2023 pour la quatrième tranche ;
 
-- au plus tard le 1 er janvier 2024 pour la cinquième tranche ;
+- au plus tard le 1er janvier 2024 pour la cinquième tranche ;
 
-- au plus tard le 1 er avril 2024 pour la sixième tranche ;
+- au plus tard le 1er avril 2024 pour la sixième tranche ;
 
-- au plus tard le 1 er juillet 2024 pour la septième tranche ;
+- au plus tard le 1er juillet 2024 pour la septième tranche ;
 
-- au plus tard le 1 er octobre 2024 pour la huitième tranche.
+- au plus tard le 1er octobre 2024 pour la huitième tranche.
 
 <a id="art-5"></a>
 ## Art. 5.
@@ -187,21 +187,21 @@ Sont jointes à cette déclaration des copies de toutes les factures portant sur
 
 La déclaration intermédiaire prévue au paragraphe 1er :
 
-- portant sur les ventes réalisées au cours des mois de janvier, février et mars 2023 est introduite auprès du ministre au plus tard le 1 er mai 2023 ;
+- portant sur les ventes réalisées au cours des mois de janvier, février et mars 2023 est introduite auprès du ministre au plus tard le 1er mai 2023 ;
 
-- portant sur les ventes réalisées au cours des mois d’avril, mai et juin 2023 est introduite auprès du ministre au plus tard le 1 er août 2023 ;
+- portant sur les ventes réalisées au cours des mois d’avril, mai et juin 2023 est introduite auprès du ministre au plus tard le 1er août 2023 ;
 
-- portant sur les ventes réalisées au cours des mois de juillet, août et septembre 2023 est introduite auprès du ministre au plus tard le 1 er novembre 2023 ;
+- portant sur les ventes réalisées au cours des mois de juillet, août et septembre 2023 est introduite auprès du ministre au plus tard le 1er novembre 2023 ;
 
-- portant sur les ventes réalisées au cours des mois d’octobre, novembre et décembre 2023 est introduite auprès du ministre au plus tard le 1 er février 2024 ;
+- portant sur les ventes réalisées au cours des mois d’octobre, novembre et décembre 2023 est introduite auprès du ministre au plus tard le 1er février 2024 ;
 
-- portant sur les ventes réalisées au cours des mois de janvier, février et mars 2024 est introduite auprès du ministre au plus tard le 1 er mai 2024 ;
+- portant sur les ventes réalisées au cours des mois de janvier, février et mars 2024 est introduite auprès du ministre au plus tard le 1er mai 2024 ;
 
-- portant sur les ventes réalisées au cours des mois d’avril, mai et juin 2024 est introduite auprès du ministre au plus tard le 1 er août 2024 ;
+- portant sur les ventes réalisées au cours des mois d’avril, mai et juin 2024 est introduite auprès du ministre au plus tard le 1er août 2024 ;
 
-- portant sur les ventes réalisées au cours des mois de juillet, août et septembre 2024 est introduite auprès du ministre au plus tard le 1 er novembre 2024 ;
+- portant sur les ventes réalisées au cours des mois de juillet, août et septembre 2024 est introduite auprès du ministre au plus tard le 1er novembre 2024 ;
 
-- portant sur les ventes réalisées au cours des mois d’octobre, novembre et décembre 2024 est introduite auprès du ministre au plus tard le 1 er février 2025.
+- portant sur les ventes réalisées au cours des mois d’octobre, novembre et décembre 2024 est introduite auprès du ministre au plus tard le 1er février 2025.
 
 (3)
 

@@ -471,7 +471,7 @@ L’article 55 du même règlement grand-ducal est abrogé.
 
 L’article 7 du règlement grand-ducal du 15 juin 2018 fixant les conditions et modalités d’accès du fonctionnaire communal à un groupe de traitement supérieur au sien et de l’employés communal à un groupe d’indemnité supérieur au sien est modifié comme suit :
 
-- Au paragraphe 1 er , le point 4 est supprimé.
+- Au paragraphe 1er, le point 4 est supprimé.
 
 - Au paragraphe 2, le point 4 est supprimé.
 

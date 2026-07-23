@@ -88,9 +88,9 @@ La demande en homologation est introduite par requête adressée au Ministre de 
 
 Le postulant spécifiera en outre dans sa requête:
 
-- s'il demande l'homologation sans nouvel examen ni avis de la commission, par application de l'article 4, alinéa 3 de la loi du 18 juin 1969 , auquel cas il indiquera la date de l'arrêté ministériel dispensant la décision d'homologation de son diplôme ou titre de l'avis préalable de la commission;
+- s'il demande l'homologation sans nouvel examen ni avis de la commission, par application de l'article 4, alinéa 3 de la loi du 18 juin 1969, auquel cas il indiquera la date de l'arrêté ministériel dispensant la décision d'homologation de son diplôme ou titre de l'avis préalable de la commission;
 
-- s'il demande la mention de l'homologation sur le document ou titre produit, conformément à l'article 6 de la loi ; cette demande peut néanmoins encore être formée par une requête ultérieure.
+- s'il demande la mention de l'homologation sur le document ou titre produit, conformément à l'article 6 de la loi; cette demande peut néanmoins encore être formée par une requête ultérieure.
 
 <a id="art-8"></a>
 ## Art. 8.

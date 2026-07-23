@@ -38,7 +38,7 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 La prescription du cannabis médicinal est réservée aux patients souffrant de :
 
-- pathologies chroniques graves qualifiées d’affections de longue durée visées à l’article 19 bis , alinéa 1 er , du Code de la sécurité sociale , en phase avancée ou terminale, entraînant des douleurs chroniques sévères et invalidantes n’ayant pas répondu aux traitements médicamenteux ou non disponibles ;
+- pathologies chroniques graves qualifiées d’affections de longue durée visées à l’article 19bis, alinéa 1er, du Code de la sécurité sociale, en phase avancée ou terminale, entraînant des douleurs chroniques sévères et invalidantes n’ayant pas répondu aux traitements médicamenteux ou non disponibles ;
 
 - maladies cancéreuses, autres que celles visées au premier tiret, traitées par une chimiothérapie induisant des nausées ou des vomissements ;
 
@@ -105,9 +105,16 @@ Par dérogation aux dispositions qui précèdent, la période maximale de couver
 
 Le règlement grand-ducal modifié du 18 janvier 2005 déterminant le modèle du carnet à souches prévu à l’article 30-1 de la loi modifiée du 19 février 1973 concernant la vente de substances médicamenteuses et la lutte contre la toxicomanie est modifié comme suit :
 
-- Entre les articles 3 et 4 est inséré un nouvel article 3 bis , libellé comme suit : Art. 3bis. L’annexe C détermine le modèle du carnet à souches à utiliser dans le cadre de la prescription de cannabis et de certains de ses dérivés à des fins médicales.
+- Entre les articles 3 et 4 est inséré un nouvel article 3bis, libellé comme suit :
 
-- L’article 4 est complété par une troisième phrase qui prend la teneur suivante : Le carnet visé à l’article 3bis est de couleur jaune – rose .
+<a id="art-3bis"></a>
+## Art. 3bis.
+
+L’annexe C détermine le modèle du carnet à souches à utiliser dans le cadre de la prescription de cannabis et de certains de ses dérivés à des fins médicales.
+
+- L’article 4 est complété par une troisième phrase qui prend la teneur suivante :
+
+Le carnet visé à l’article 3bis est de couleur jaune – rose .
 
 - L’annexe est complétée par une annexe C figurant en annexe du présent règlement.
 

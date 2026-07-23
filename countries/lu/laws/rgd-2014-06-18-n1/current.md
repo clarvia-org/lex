@@ -102,7 +102,7 @@ La carte d'identité doit être renouvelée:
 
 - lorsque le titulaire change son prénom ou l'un de ses deux ou trois premiers prénoms;
 
-- lorsque le titulaire reçoit un autre numéro d'identification visé à l'article 1 er de la loi du 19 juin 2013 relative à l'identification des personnes physiques.
+- lorsque le titulaire reçoit un autre numéro d'identification visé à l'article 1er de la loi du 19 juin 2013 relative à l'identification des personnes physiques.
 
 <a id="art-5-1"></a>
 ## Art. 5-1.

@@ -47,7 +47,7 @@ Aux fins de la présente loi, on entend par :
 
 - « acteurs économiques » : dans le domaine de l’emballage, les fournisseurs de matériaux d’emballage, fabricants, transformateurs, remplisseurs et utilisateurs, importateurs, commerçants et distributeurs, autorités publiques et organismes publics ;
 
-- « accord environnemental » : tout accord formel entre le ministre ayant l’Environnement dans ses attributions, ci-après « ministre », et les responsables d’emballages ou organismes agréés qui doit être ouvert à tous les acteurs économiques souhaitant se conformer aux conditions fixées par l’accord afin de contribuer à la réalisation des objectifs visés à l’article 1 er ;
+- « accord environnemental » : tout accord formel entre le ministre ayant l’Environnement dans ses attributions, ci-après « ministre », et les responsables d’emballages ou organismes agréés qui doit être ouvert à tous les acteurs économiques souhaitant se conformer aux conditions fixées par l’accord afin de contribuer à la réalisation des objectifs visés à l’article 1er ;
 
 - « conditionnement » : l’action de placer une denrée alimentaire dans une enveloppe ou dans un contenant en contact direct avec la denrée concernée ;
 
@@ -85,15 +85,15 @@ Aux fins de la présente loi, on entend par :
 
 - « organisme agréé » : la personne morale agréée conformément à la loi du 21 mars 2012 qui prend à sa charge les obligations de la responsabilité élargie des producteurs ;
 
-- « plastique » un matériau constitué d’un polymère tel que défini à l’article 3, point 5, du règlement (CE) n° 1907/2006 du Parlement européen et du Conseil du 18 décembre 2006 concernant l’enregistrement, l’évaluation et l’autorisation des substances chimiques, ainsi que les restrictions applicables à ces substances (REACH), instituant une agence européenne des produits chimiques, modifiant la directive 1999/45/CE et abrogeant le règlement (CEE) n° 793/93 du Conseil et le règlement (CE) n° 1488/94 de la Commission ainsi que la directive 76/769/CEE du Conseil et les directives 91/155/CEE , 93/67/CEE , 93/105/CE et 2000/21/CE de la Commission, auquel des additifs ou d’autres substances peuvent avoir été ajoutés, et qui est capable de jouer le rôle de composant structurel principal de sacs ;
+- « plastique » un matériau constitué d’un polymère tel que défini à l’article 3, point 5, du règlement (CE) n° 1907/2006 du Parlement européen et du Conseil du 18 décembre 2006 concernant l’enregistrement, l’évaluation et l’autorisation des substances chimiques, ainsi que les restrictions applicables à ces substances (REACH), instituant une agence européenne des produits chimiques, modifiant la directive 1999/45/CE et abrogeant le règlement (CEE) n° 793/93 du Conseil et le règlement (CE) n° 1488/94 de la Commission ainsi que la directive 76/769/CEE du Conseil et les directives 91/155/CEE, 93/67/CEE, 93/105/CE et 2000/21/CE de la Commission, auquel des additifs ou d’autres substances peuvent avoir été ajoutés, et qui est capable de jouer le rôle de composant structurel principal de sacs ;
 
 - « recyclage organique » : le traitement aérobie (compostage) ou anaérobie (biométhanisation), par des microorganismes et dans des conditions contrôlées, des parties biodégradables des déchets d’emballages, avec production d’amendements organiques stabilisés ou de méthane. L’enfouissement en décharge ne peut être considéré comme une forme de recyclage organique ;
 
 - « responsable d’emballages » : toute personne physique ou morale En ce qui concerne les emballages de service, est considéré comme responsable d’emballages toute personne qui à titre professionnel et en vue de leur mise sur le marché luxembourgeois produit ou importe des emballages de service ;
 
-  - établie au Grand-Duché de Luxembourg qui, à titre professionnel, remplit ou vend directement au Grand-Duché de Luxembourg, quelle que soit la technique de vente utilisée, y compris par le biais de contrats à distance tels que définis à l’article L. 222-1 du Code de la consommation , et met sur le marché luxembourgeois des produits emballés ; ou
+  - établie au Grand-Duché de Luxembourg qui, à titre professionnel, remplit ou vend directement au Grand-Duché de Luxembourg, quelle que soit la technique de vente utilisée, y compris par le biais de contrats à distance tels que définis à l’article L. 222-1 du Code de la consommation, et met sur le marché luxembourgeois des produits emballés ; ou
 
-  - qui est le premier acteur à réceptionner, à titre professionnel, des produits emballés importés au Grand-Duché de Luxembourg par toute personne physique ou morale établie ou non au Grand-Duché de Luxembourg, quelle que soit la technique de vente utilisée, y compris par le biais de contrats à distance tels que définis à l’article L. 222-1 du Code de la consommation , et met sur le marché luxembourgeois des produits emballés ; ou
+  - qui est le premier acteur à réceptionner, à titre professionnel, des produits emballés importés au Grand-Duché de Luxembourg par toute personne physique ou morale établie ou non au Grand-Duché de Luxembourg, quelle que soit la technique de vente utilisée, y compris par le biais de contrats à distance tels que définis à l’article L. 222-1 du Code de la consommation, et met sur le marché luxembourgeois des produits emballés ; ou
 
   - établie en dehors du Grand-Duché de Luxembourg qui, à titre professionnel, vend des produits emballés au Grand-Duché de Luxembourg directement à des ménages ou à des utilisateurs autres que des ménages, quelle que soit la technique de vente utilisée, y compris par le biais de contrats à distance tels que définis à l’article L. 222-1 du Code de la consommation ;
 
@@ -147,7 +147,7 @@ En vue de réduire durablement la consommation d’emballages sur le territoire 
 
 - aucun sac en plastique n’est fourni gratuitement dans les points de vente de marchandises ou de produits. Les sacs en plastique très légers au sens de l’article 3, point 5, en sont exclus ;
 
-- à compter du 1 er janvier 2025, les produits à usage unique repris à l’annexe I, partie A de la loi du 9 juin 2022 relative à l’évaluation des incidences de certains produits en plastique sur l’environnement et les sacs, indépendamment de la taille, du mode de consommation et du matériel les composant ne peuvent être fournis gratuitement dans les points de vente de marchandises ou de produits.
+- à compter du 1er janvier 2025, les produits à usage unique repris à l’annexe I, partie A de la loi du 9 juin 2022 relative à l’évaluation des incidences de certains produits en plastique sur l’environnement et les sacs, indépendamment de la taille, du mode de consommation et du matériel les composant ne peuvent être fournis gratuitement dans les points de vente de marchandises ou de produits.
 
 (2)
 
@@ -322,7 +322,7 @@ En outre, l’organisme agréé est tenu :
 
 - de conclure un contrat avec les communes ou syndicats de communes chargés de la gestion des déchets municipaux ménagers, lequel définit les conditions et modalités techniques de collecte des déchets d’emballages concernés et de prise en charge des déchets d’emballages. En aucun cas, le contrat ne saurait porter préjudice aux compétences des communes ou syndicats de communes chargés de la gestion des déchets municipaux ménagers en la matière.
 
-- de communiquer au ministre, annuellement et dans le cadre du rapport visé à l’article 35, paragraphe 2 de la loi du 21 mars 2012 , les contrats conclus avec les communes ou syndicats de communes chargés de la gestion des déchets municipaux ménagers.
+- de communiquer au ministre, annuellement et dans le cadre du rapport visé à l’article 35, paragraphe 2 de la loi du 21 mars 2012, les contrats conclus avec les communes ou syndicats de communes chargés de la gestion des déchets municipaux ménagers.
 
 (4)
 
@@ -396,7 +396,7 @@ Les responsables d’emballages ou les organismes agréés doivent, chacun en ce
 
 - les incidences néfastes pour l’environnement d’une consommation excessive de sacs en plastique;
 
-- les éléments appropriés des plans de gestion des emballages et des déchets d’emballages qui soit font partie du plan national de gestion des déchets soit font l’objet d’un plan spécifique en application de la loi du 21 mars 2012 .
+- les éléments appropriés des plans de gestion des emballages et des déchets d’emballages qui soit font partie du plan national de gestion des déchets soit font l’objet d’un plan spécifique en application de la loi du 21 mars 2012.
 
 (2)
 

@@ -34,9 +34,16 @@ La liste des fréquences de radiodiffusion luxembourgeoises prévue à l’artic
 
   - les fréquences pour services radiodiffusés luxembourgeois à rayonnement international:
 
-    - selon l’Accord de Genève 1975 (GE75) de l’UIT: dans les ondes longues: 234 kHz à Junglinster 279 kHz à Junglinster dans les ondes moyennes: 1440 kHz à Marnach 567 kHz à Clervaux 783 kHz à Clervaux 1098 kHz à Clervaux
+    - selon l’Accord de Genève 1975 (GE75) de l’UIT:
 
-    - selon l’Accord de Genève 1984 (GE84) de l’UIT: en modulation de fréquence: 93,3 MHz à Dudelange 97,0 MHz à Hosingen
+| dans les ondes longues: | 234 kHz à Junglinster 279 kHz à Junglinster |
+| --- | --- |
+| dans les ondes moyennes: | 1440 kHz à Marnach 567 kHz à Clervaux 783 kHz à Clervaux 1098 kHz à Clervaux |
+
+    - selon l’Accord de Genève 1984 (GE84) de l’UIT:
+
+| en modulation de fréquence: | 93,3 MHz à Dudelange 97,0 MHz à Hosingen |
+| --- | --- |
 
   - les fréquences pour services de radio sonore à émetteur de haute puissance en modulation de fréquence selon l’Accord de Genève 1984 (GE84) de l’UIT:
 
@@ -54,9 +61,34 @@ La liste des fréquences de radiodiffusion luxembourgeoises prévue à l’artic
 
   - les fréquences pour services de radio sonore à émetteur(s) de faible puissance en modulation de fréquence selon l’Accord de Genève 1984 (GE84) de l’UIT:
 
-    - les fréquences destinées aux radios locales à attribuer selon l’article 16, paragraphe 1 er de la Loi : N Fréquence Identification Coordonnées géographiques de l’emplacement de référence 1 102,2 MHz RLO 029/22 5E50 49N33 7 102,2 MHz RLO 105/22 6E08 49N53 8 102,2 MHz RLO 110/22 5E54 49N56 11 103,9 MHz RLO 027/39 6E09 49N33 15 103,9 MHz RLO 097/39 6E18 49N51 22 106,1 MHz RLO 011/61 6E01 49N30 24 106,1 MHz RLO 132/61 6E02 50N05 26 106,5 MHz RLO 025/65 6E01 49N33 30 106,5 MHz RLO 087/65 6E21 49N48 31 106,5 MHz RLO 095/65 6E10 49N51 33 107,0 MHz RLO 010/70 6E03 49N32 40 107,0 MHz RLO 131/70 5E58 50N05 41 100,2 MHz RLO 150/02 5E59 49N30 42 101,7 MHz RLO 151/17 5E59 49N30 43 105,7 MHz RLO 152/57 5E59 49N30 44 103,6 MHz RLO 156/36 6E05 49N28 45 88,1 MHz RLO 178/881 6E06’ 02“ 49N45’ 37 46 105,8 MHz RLO 181/1058 6E00’ 38“ 50N07’ 48“ 47 106,0 MHz RLO 157/60 5E59‘ 10“ 49N30‘ 00“ 48 94,7 MHz RLO 176/947 6E11’ 27’’ 49N49’ 15’’ 49 90,3 MHz RLO 167/0903 6E07‘ 26“ 49N35‘ 16“ 50 98,3 MHz RLO 166/0983 6E06‘ 41“ 49N36‘ 34“
+    - les fréquences destinées aux radios locales à attribuer selon l’article 16, paragraphe 1er de la Loi:
 
-    - les fréquences destinées aux radios locales à attribuer le cas échéant selon l’article 16, paragraphe 7 de la Loi :
+| N | Fréquence | Identification | Coordonnées géographiques de l’emplacement de référence |
+| --- | --- | --- | --- |
+| 1 | 102,2 MHz | RLO 029/22 | 5E50 49N33 |
+| 7 | 102,2 MHz | RLO 105/22 | 6E08 49N53 |
+| 8 | 102,2 MHz | RLO 110/22 | 5E54 49N56 |
+| 11 | 103,9 MHz | RLO 027/39 | 6E09 49N33 |
+| 15 | 103,9 MHz | RLO 097/39 | 6E18 49N51 |
+| 22 | 106,1 MHz | RLO 011/61 | 6E01 49N30 |
+| 24 | 106,1 MHz | RLO 132/61 | 6E02 50N05 |
+| 26 | 106,5 MHz | RLO 025/65 | 6E01 49N33 |
+| 30 | 106,5 MHz | RLO 087/65 | 6E21 49N48 |
+| 31 | 106,5 MHz | RLO 095/65 | 6E10 49N51 |
+| 33 | 107,0 MHz | RLO 010/70 | 6E03 49N32 |
+| 40 | 107,0 MHz | RLO 131/70 | 5E58 50N05 |
+| 41 | 100,2 MHz | RLO 150/02 | 5E59 49N30 |
+| 42 | 101,7 MHz | RLO 151/17 | 5E59 49N30 |
+| 43 | 105,7 MHz | RLO 152/57 | 5E59 49N30 |
+| 44 | 103,6 MHz | RLO 156/36 | 6E05 49N28 |
+| 45 | 88,1 MHz | RLO 178/881 | 6E06’ 02“ 49N45’ 37 |
+| 46 | 105,8 MHz | RLO 181/1058 | 6E00’ 38“ 50N07’ 48“ |
+| 47 | 106,0 MHz | RLO 157/60 | 5E59‘ 10“ 49N30‘ 00“ |
+| 48 | 94,7 MHz | RLO 176/947 | 6E11’ 27’’ 49N49’ 15’’ |
+| 49 | 90,3 MHz | RLO 167/0903 | 6E07‘ 26“ 49N35‘ 16“ |
+| 50 | 98,3 MHz | RLO 166/0983 | 6E06‘ 41“ 49N36‘ 34“ |
+
+    - les fréquences destinées aux radios locales à attribuer le cas échéant selon l’article 16, paragraphe 7 de la Loi:
 
       - 96,6 MHz RLO 175/966 à Esch/Alzette
 

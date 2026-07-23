@@ -40,7 +40,7 @@ La loi modifiée du 10 mai 1968 portant réforme de l'enseignement (Titre VI: de
 
 - L'article 48 est abrogé.
 
-- À l'article 49, alinéas 1 er et 2, les mots «l'instruction religieuse et morale, la formation morale et sociale» sont remplacés par ceux de «le cours vie et société».
+- À l'article 49, alinéas 1er et 2, les mots «l'instruction religieuse et morale, la formation morale et sociale» sont remplacés par ceux de «le cours vie et société».
 
 <a id="art-3"></a>
 ## Art. 3.
@@ -58,7 +58,7 @@ La loi modifiée du 25 juillet 2005 portant création d'un lycée-pilote est mod
 
 - À l'article 4 sont apportées les modifications suivantes:
 
-  - Les alinéas 1 er et 2 sont remplacés par un alinéa unique libellé comme suit: Les matières enseignées sont les mêmes que celles prévues pour les classes de septième à quatrième de l'enseignement secondaire et de septième à neuvième de l'enseignement secondaire technique. »
+  - Les alinéas 1er et 2 sont remplacés par un alinéa unique libellé comme suit: Les matières enseignées sont les mêmes que celles prévues pour les classes de septième à quatrième de l'enseignement secondaire et de septième à neuvième de l'enseignement secondaire technique. »
 
   - À l'alinéa 3, le point 4 est remplacé comme suit: la branche «vie et société» .
 

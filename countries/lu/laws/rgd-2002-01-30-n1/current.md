@@ -215,7 +215,7 @@ L'Etat rembourse à l'Union des caisses de maladie le montant des prestations ef
 
 Par dérogation aux articles 2, 3 et 6 ci-dessus un traitement par substitution en cours au moment de l’entrée en vigueur du présent règlement peut être continué, à condition que
 
-- l’association ou le médecin qui assure la prise en charge sollicite et obtienne dans le mois de l’entrée en vigueur du présent règlement l’autorisation prévue à l’article 2 alinéa 1 er ci-dessus;
+- l’association ou le médecin qui assure la prise en charge sollicite et obtienne dans le mois de l’entrée en vigueur du présent règlement l’autorisation prévue à l’article 2 alinéa 1er ci-dessus;
 
 - l’association ou le médecin concerné notifie dans les deux semaines de l’entrée en vigueur du présent règlement à la commission de surveillance l’identité de la personne prise en charge et que la commission ne manifeste pas d’opposition.
 

@@ -121,9 +121,9 @@ Pour les voitures électriques pures ou à pile à combustible à hydrogène don
 
 - b)bis 1,2 pour cent pour les voitures électriques pures qui ne répondent pas aux conditions visées aux points a) et b) ;
 
-- 1 pour cent pour les voitures à pile à combustible à hydrogène .
+- 1 pour cent pour les voitures à pile à combustible à hydrogène.
 
-- 2 pour cent pour toute autre motorisation .
+- 2 pour cent pour toute autre motorisation.
 
 Pour les voitures à moteur thermique dont la première immatriculation a lieu à partir du 1er janvier 2025 et qui ne fait pas l’objet d’un contrat signé jusqu’au 31 décembre 2024, le taux est de 2 pour cent.
 

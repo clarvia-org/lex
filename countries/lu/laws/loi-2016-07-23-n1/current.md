@@ -289,7 +289,7 @@ Dans le cadre de la stratégie nationale en matière de cybersécurité, le Haut
 
 - l’inclusion et la spécification d’exigences liées à la cybersécurité pour les produits et services TIC dans les marchés publics, y compris concernant la certification de cybersécurité, le chiffrement et l’utilisation de produits de cybersécurité en sources ouvertes ;
 
-- la gestion des vulnérabilités, y compris la promotion et la facilitation de la divulgation coordonnée des vulnérabilités en vertu de l’article 9, paragraphe 1 er , de la loi du 5 mai 2026 concernant des mesures destinées à assurer un niveau élevé de cybersécurité ;
+- la gestion des vulnérabilités, y compris la promotion et la facilitation de la divulgation coordonnée des vulnérabilités en vertu de l’article 9, paragraphe 1er, de la loi du 5 mai 2026 concernant des mesures destinées à assurer un niveau élevé de cybersécurité ;
 
 - le maintien de la disponibilité générale, de l’intégrité et de la confidentialité du noyau public de l’internet ouvert, y compris, le cas échéant, la cybersécurité des câbles de communication sous-marins ;
 
@@ -401,7 +401,7 @@ L'actuel point 2) devient le point 3).
 
 La loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d'avancement des fonctionnaires de l'État est modifiée comme suit:
 
-- à l'article 12, paragraphe 1 er , alinéa 7, point 11°, les termes «de Haut-Commissaire à la Protection nationale,» sont insérés avant les termes «et de directeur de différentes administrations»;
+- à l'article 12, paragraphe 1er, alinéa 7, point 11°, les termes «de Haut-Commissaire à la Protection nationale,» sont insérés avant les termes «et de directeur de différentes administrations»;
 
 - dans l'annexe A «Classification des fonctions», Catégorie de traitement A, Groupe de traitement A1, Sousgroupe à attributions particulières, il est ajouté la mention «Haut-Commissaire à la Protection nationale» au grade 17;
 
@@ -412,7 +412,7 @@ La loi modifiée du 25 mars 2015 fixant le régime des traitements et les condit
 
 La loi du 8 décembre 1981 sur les réquisitions en cas de conflit armé, de crise internationale grave ou de catastrophe, est modifiée comme suit:
 
-- au chapitre Ier, article 1 er , dernière phrase, il est ajouté en fin de phrase: «ou d'une crise, au sens de la loi portant création d'un Haut-Commissariat à la Protection nationale et modifiant a) la loi modifiée du 23 juillet 1952 concernant l'organisation militaire, b) la loi du 8 décembre 1981 sur les réquisitions en cas de conflit armé, de crise internationale grave ou de catastrophe, c) la loi modifiée du 2 août 2002 relative à la protection des personnes à l'égard du traitement des données à caractère personnel, d) la loi modifiée du 25 juin 2009 sur les marchés publics, e) la loi modifiée du 9 décembre 2005 déterminant les conditions et modalités de nomination de certains fonctionnaires occupant des fonctions dirigeantes dans les administrations et services de l'État, f) la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d'avancement des fonctionnaires de l'État».
+- au chapitre Ier, article 1er, dernière phrase, il est ajouté en fin de phrase: «ou d'une crise, au sens de la loi portant création d'un Haut-Commissariat à la Protection nationale et modifiant a) la loi modifiée du 23 juillet 1952 concernant l'organisation militaire, b) la loi du 8 décembre 1981 sur les réquisitions en cas de conflit armé, de crise internationale grave ou de catastrophe, c) la loi modifiée du 2 août 2002 relative à la protection des personnes à l'égard du traitement des données à caractère personnel, d) la loi modifiée du 25 juin 2009 sur les marchés publics, e) la loi modifiée du 9 décembre 2005 déterminant les conditions et modalités de nomination de certains fonctionnaires occupant des fonctions dirigeantes dans les administrations et services de l'État, f) la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d'avancement des fonctionnaires de l'État».
 
 - au chapitre IV, article 8 b) in fine, il est ajouté: «5) Les agents du Haut-Commissariat à la Protection nationale».
 

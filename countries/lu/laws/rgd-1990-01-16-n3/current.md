@@ -104,7 +104,7 @@ Le jury d'examen se compose:
 
 - du commissaire du Gouvernement à l'éducation physique et aux sports
 
-- du directeur de l' INAPS
+- du directeur de l'INAPS
 
 - du président de la fédération
 

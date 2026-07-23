@@ -52,7 +52,7 @@ La demande est à accompagner des pièces suivantes :
 
 - une déclaration relative à la composition de la communauté domestique dûment datée et signée par le demandeur ;
 
-- la déclaration d’ouverture du compte de dépôt conditionné établie et signée par l’établissement de crédit et une copie de l’ordre permanent à raison de 1/36 ème du montant de la garantie locative demandée par le bailleur ;
+- la déclaration d’ouverture du compte de dépôt conditionné établie et signée par l’établissement de crédit et une copie de l’ordre permanent à raison de 1/36ème du montant de la garantie locative demandée par le bailleur ;
 
 - une copie du contrat écrit de bail à usage d’habitation ou tout autre document prouvant le montant de la garantie locative exigée par le bailleur lors de la conclusion du bail ainsi que le montant du loyer ;
 
@@ -85,7 +85,7 @@ Lors d’une demande en obtention d’une subvention de loyer, la demande est à
 
 - une déclaration relative à la composition de la communauté domestique dûment datée et signée par le demandeur ;
 
-- une copie du contrat de bail à usage d’habitation écrit, daté et signé par le demandeur et le bailleur, portant sur le logement dans lequel habite la communauté domestique ou toute autre pièce prouvant l’existence d’un contrat de bail verbal au sens de l’article 1 er , paragraphe 2, de la loi modifiée du 21 septembre 2006 sur le bail à usage d’habitation et modifiant certaines dispositions du Code civil ;
+- une copie du contrat de bail à usage d’habitation écrit, daté et signé par le demandeur et le bailleur, portant sur le logement dans lequel habite la communauté domestique ou toute autre pièce prouvant l’existence d’un contrat de bail verbal au sens de l’article 1er, paragraphe 2, de la loi modifiée du 21 septembre 2006 sur le bail à usage d’habitation et modifiant certaines dispositions du Code civil ;
 
 - une déclaration sur l’honneur signée par le demandeur et certifiant que les membres de la communauté domestique n’ont aucun autre logement au Grand-Duché de Luxembourg ou à l’étranger ;
 
@@ -300,9 +300,9 @@ Si le logement pour lequel une subvention d’intérêt pour prêt climatique es
 
 Sont abrogés :
 
-- le règlement grand-ducal modifié du 5 mai 2011 fixant les mesures d’exécution relatives aux aides individuelles au logement promouvant l’accès à la propriété et prévues par la loi modifiée du 25 février 1979 concernant l’aide au logement, sous réserve des dispositions prévues au paragraphe 2, alinéa 1 er ;
+- le règlement grand-ducal modifié du 5 mai 2011 fixant les mesures d’exécution relatives aux aides individuelles au logement promouvant l’accès à la propriété et prévues par la loi modifiée du 25 février 1979 concernant l’aide au logement, sous réserve des dispositions prévues au paragraphe 2, alinéa 1er ;
 
-- le règlement grand-ducal du 20 décembre 2019 fixant les mesures d’exécution relatives à l’aide au financement de garanties locatives prévues par l’article 14 quater -1 de la loi modifiée du 25 février 1979 concernant l’aide au logement ;
+- le règlement grand-ducal du 20 décembre 2019 fixant les mesures d’exécution relatives à l’aide au financement de garanties locatives prévues par l’article 14quater-1 de la loi modifiée du 25 février 1979 concernant l’aide au logement ;
 
 - le règlement grand-ducal du 8 juin 2022 1° modifiant le règlement grand-ducal modifié du 5 mai 2011 fixant les mesures d’exécution relatives aux aides individuelles au logement promouvant l’accès à la propriété et prévues par la loi modifiée du 25 février 1979 concernant l’aide au logement ; et 2° abrogeant le règlement grand-ducal du 23 décembre 2016 fixant les mesures d’exécution de la loi du 23 décembre 2016 relative à un régime d’aides à des prêts climatiques ;
 

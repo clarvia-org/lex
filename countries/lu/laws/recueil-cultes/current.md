@@ -1634,8 +1634,6 @@ La présente convention a pour objet de régler les relations administratives et
 
 ##### Chapitre 1er. Dispositions communes aux communautés religieuses
 
-Dispositions communes aux communautés religieuses
-
 <a id="art-n12630"></a>
 ## Art. 2.
 
@@ -1713,8 +1711,6 @@ Le Gouvernement s’engage à prendre les mesures nécessaires pour assurer l’
 
 ##### Chapitre 2. Dispositions spécifiques concernant le Culte israélite
 
-Dispositions spécifiques concernant le Culte israélite
-
 <a id="art-n12756"></a>
 ## Art. 15.
 
@@ -1731,8 +1727,6 @@ Le Consistoire possède la personnalité civile. Le Consistoire est représenté
 L’enveloppe financière visée à l’article 7 est fixée à 315.000,- € (n.i. 775,17).
 
 ##### Chapitre 3. Dispositions finales
-
-Dispositions finales
 
 <a id="art-n1279b"></a>
 ## Art. 18.
@@ -1820,8 +1814,6 @@ La présente convention a pour objet de régler les relations administratives et
 
 ##### Chapitre 1er. Dispositions communes aux communautés religieuses
 
-Dispositions communes aux communautés religieuses
-
 <a id="art-n129db"></a>
 ## Art. 2.
 
@@ -1899,8 +1891,6 @@ Le Gouvernement s’engage à prendre les mesures nécessaires pour assurer l’
 
 ##### Chapitre 2. Dispositions spécifiques concernant l’Église protestante du Luxembourg
 
-Dispositions spécifiques concernant l’Église protestante du Luxembourg
-
 <a id="art-n12b01"></a>
 ## Art. 15.
 
@@ -1919,8 +1909,6 @@ Le consistoire possède la personnalité civile. Le consistoire est représenté
 L’enveloppe financière visée à l’article 7 est fixée à 450.000,- € (n.i. 775,17).
 
 ##### Chapitre 3. Dispositions finales
-
-Dispositions finales
 
 <a id="art-n12b4f"></a>
 ## Art. 18.
@@ -2193,13 +2181,13 @@ Par dérogation aux dispositions du présent article, peuvent être renouvelés 
 
 - (...) (abrogé par la loi du 7 décembre 2016)
 
-- ( L. 19 août 2008 ) sur base du point 5. du paragraphe (3) de l’article L. 122-1 sans pouvoir dépasser cinq ans;
+- (L. 19 août 2008) sur base du point 5. du paragraphe (3) de l’article L. 122-1 sans pouvoir dépasser cinq ans;
 
-- ( L. 22 décembre 2006 ) entre l’Etat ou la commune, d’une part, et le chargé de direction d’une classe de l’éducation préscolaire ou de l’enseignement primaire, le chargé d’éducation des lycées, l’agent socio-éducatif d’une administration ou service dépendant du département de l’éducation nationale, le chargé de cours du Service de la Formation des adultes, le chargé de cours du Service de la formation professionnelle et le chargé de cours du Centre de Langues Luxembourg, le chargé de cours des instituts et services de l’Education différenciée et le chargé de cours du Centre de logopédie d’autre part, peuvent être renouvelés plus de deux fois, même pour une durée totale excédant vingt-quatre mois;
+- (L. 22 décembre 2006) entre l’Etat ou la commune, d’une part, et le chargé de direction d’une classe de l’éducation préscolaire ou de l’enseignement primaire, le chargé d’éducation des lycées, l’agent socio-éducatif d’une administration ou service dépendant du département de l’éducation nationale, le chargé de cours du Service de la Formation des adultes, le chargé de cours du Service de la formation professionnelle et le chargé de cours du Centre de Langues Luxembourg, le chargé de cours des instituts et services de l’Education différenciée et le chargé de cours du Centre de logopédie d’autre part, peuvent être renouvelés plus de deux fois, même pour une durée totale excédant vingt-quatre mois;
 
 - entre les communes, les syndicats de communes ou les organismes privés, mentionnés à l’article 5 de la loi du 28 avril 1998 portant a) harmonisation de l’enseignement musical dans le secteur communal; b) modification de l’article 5 de la loi du 24 mai 1989 sur le contrat de travail; c) modification de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’Etat, d’une part, et un chargé de cours de l’enseignement musical, d’autre part;
 
-- entre l’Archevêché, d’une part, et un chargé de cours de religion, d’autre part, en vue d’assurer les remplacements temporaires prévus aux articles 7 et 8.B de la Convention approuvée à l’article 1 er de la loi du 10 juillet 1998 portant approbation de la Convention du 31 octobre 1997 entre le Gouvernement, d’une part, et l’Archevêché, d’autre part, concernant l’organisation de l’enseignement religieux dans l’enseignement primaire;
+- entre l’Archevêché, d’une part, et un chargé de cours de religion, d’autre part, en vue d’assurer les remplacements temporaires prévus aux articles 7 et 8.B de la Convention approuvée à l’article 1er de la loi du 10 juillet 1998 portant approbation de la Convention du 31 octobre 1997 entre le Gouvernement, d’une part, et l’Archevêché, d’autre part, concernant l’organisation de l’enseignement religieux dans l’enseignement primaire;
 
 - entre une fédération ou un club sportif, d’une part, et un entraîneur ou un sportif, d’autre part.
 
@@ -2300,7 +2288,7 @@ Est admissible à la réserve de suppléants de l’enseignement fondamental, pr
 
 - satisfait aux conditions d’aptitude physique et psychique requises pour l’exercice de son emploi, à attester par un certificat médical établi par le médecin du travail dans la Fonction publique ;
 
-- est détenteur soit du certificat de formation prévu à l’article 12, paragraphe 1 er , soit d’un certificat de formation reconnu équivalent par le ministre, soit a participé à 80 pour cent de la formation théorique prévue à l’article 6 ainsi qu’à l’intégralité de la formation pratique prévue à l’article 8.
+- est détenteur soit du certificat de formation prévu à l’article 12, paragraphe 1er, soit d’un certificat de formation reconnu équivalent par le ministre, soit a participé à 80 pour cent de la formation théorique prévue à l’article 6 ainsi qu’à l’intégralité de la formation pratique prévue à l’article 8.
 
 (2)
 
@@ -2325,13 +2313,13 @@ L’agent détermine laquelle des trois langues constitue sa première, sa deuxi
 
 Les dispenses suivantes sont accordées par le ministre :
 
-- l’agent ayant obtenu l’un des diplômes mentionnés à l’article 4, paragraphe 1 er , point 3, dans le système d’enseignement public luxembourgeois, est dispensé des trois épreuves de langues ;
+- l’agent ayant obtenu l’un des diplômes mentionnés à l’article 4, paragraphe 1er, point 3, dans le système d’enseignement public luxembourgeois, est dispensé des trois épreuves de langues ;
 
 - l’agent pouvant attester la fréquentation, pendant au moins dix années scolaires, d’établissements publics ou privés appliquant les programmes de l’enseignement public luxembourgeois, conformément à la législation concernant l’organisation de l’enseignement fondamental et de l’enseignement postprimaire est dispensé des épreuves de luxembourgeois ;
 
-- l’agent ayant obtenu l’un des diplômes mentionnés à l’article 4, paragraphe 1 er , point 3, dans un pays ou une région de langue française ou allemande, est dispensé de l’épreuve de langue française, respectivement de l’épreuve de langue allemande ;
+- l’agent ayant obtenu l’un des diplômes mentionnés à l’article 4, paragraphe 1er, point 3, dans un pays ou une région de langue française ou allemande, est dispensé de l’épreuve de langue française, respectivement de l’épreuve de langue allemande ;
 
-- l’agent qui peut se prévaloir d’un certificat de compétences de langues, établi suivant le « Cadre européen commun de référence pour les langues » par un institut agréé ou reconnu par le ministre, et attestant qu’il dispose du ou des niveaux de compétences requis conformément aux dispositions du paragraphe 1 er , bénéficie d’une dispense des langues couvertes par le certificat.
+- l’agent qui peut se prévaloir d’un certificat de compétences de langues, établi suivant le « Cadre européen commun de référence pour les langues » par un institut agréé ou reconnu par le ministre, et attestant qu’il dispose du ou des niveaux de compétences requis conformément aux dispositions du paragraphe 1er, bénéficie d’une dispense des langues couvertes par le certificat.
 
 (3)
 
@@ -2507,9 +2495,9 @@ L’agent intégré à la réserve de suppléants de l’enseignement fondamenta
 
 Par dérogation à l’alinéa 1er :
 
-- l’agent qui bénéficie d’une décharge pour raison d’âge d’une leçon hebdomadaire au moment de la reprise prévue à l’article 1 er continue à en bénéficier. À partir du 1 er janvier de l’année au cours de laquelle il atteint l’âge de cinquante-cinq ans, il conserve cette leçon hebdomadaire de décharge et bénéficie d’une décharge de huit leçons d’enseignement annuelles ;
+- l’agent qui bénéficie d’une décharge pour raison d’âge d’une leçon hebdomadaire au moment de la reprise prévue à l’article 1er continue à en bénéficier. À partir du 1er janvier de l’année au cours de laquelle il atteint l’âge de cinquante-cinq ans, il conserve cette leçon hebdomadaire de décharge et bénéficie d’une décharge de huit leçons d’enseignement annuelles ;
 
-- l’agent qui bénéficie d’une décharge pour raison d’âge de deux leçons hebdomadaires au moment de la reprise prévue à l’article 1 er continue à en bénéficier.
+- l’agent qui bénéficie d’une décharge pour raison d’âge de deux leçons hebdomadaires au moment de la reprise prévue à l’article 1er continue à en bénéficier.
 
 ##### Section 3 Les modalités d’admission à la réserve des auxiliaires éducatifs de l’enseignement fondamental, de la formation théorique et pratique et la tâche hebdomadaire des enseignants de religion et des chargés de cours de religion
 
@@ -2528,7 +2516,7 @@ La réserve peut comprendre :
 
 - les agents non-détenteurs d’un des certificats de formation précités, visés au paragraphe 3 ;
 
-- les agents visés à l’article 4, paragraphe 1 er , point 7.
+- les agents visés à l’article 4, paragraphe 1er, point 7.
 
 (2)
 
@@ -2546,7 +2534,7 @@ Est admissible à la réserve des auxiliaires éducatifs de l’enseignement fon
 
 - satisfait aux conditions d’aptitude physique et psychique requises pour l’exercice de son emploi, à attester par un certificat médical établi par le médecin du travail dans la Fonction publique.
 
-- est détenteur soit du certificat de formation prévu à l’article 21, soit d’un certificat de formation reconnu équivalent par le ministre, soit d’un certificat de formation prévu à l’article 4, paragraphe 1 er , point 7.
+- est détenteur soit du certificat de formation prévu à l’article 21, soit d’un certificat de formation reconnu équivalent par le ministre, soit d’un certificat de formation prévu à l’article 4, paragraphe 1er, point 7.
 
 (3)
 
@@ -2577,7 +2565,7 @@ Les dispenses suivantes sont accordées par le ministre :
 
 - l’agent ayant accompli la dernière année d’études, dans un pays ou une région de langue française ou allemande, lui permettant d’accéder à la réserve, est dispensé de l’épreuve de langue française, respectivement de l’épreuve de langue allemande ;
 
-- l’agent qui peut se prévaloir d’un certificat de compétences de langues, établi suivant le « Cadre européen commun de référence pour les langues » par un institut agréé ou reconnu par le ministre, et attestant qu’il dispose du ou des niveaux de compétences requis conformément aux dispositions du paragraphe 1 er , bénéficie d’une dispense des langues couvertes par le certificat.
+- l’agent qui peut se prévaloir d’un certificat de compétences de langues, établi suivant le « Cadre européen commun de référence pour les langues » par un institut agréé ou reconnu par le ministre, et attestant qu’il dispose du ou des niveaux de compétences requis conformément aux dispositions du paragraphe 1er, bénéficie d’une dispense des langues couvertes par le certificat.
 
 (3)
 
@@ -2685,9 +2673,9 @@ Les membres de la réserve des auxiliaires éducatifs peuvent être détachés d
 
 Par dérogation aux dispositions de l’article 28 de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l'État et des règlements grand-ducaux pris en son exécution :
 
-- l’agent qui bénéficie d’une décharge pour raison d’âge d’une leçon hebdomadaire au moment de la reprise prévue à l’article 1 er continue à en bénéficier. À partir du 1 er janvier de l’année au cours de laquelle il atteint l’âge de cinquante-cinq ans, il conserve cette leçon hebdomadaire de décharge et bénéficie de deux jours ouvrables par année de congé de récréation.
+- l’agent qui bénéficie d’une décharge pour raison d’âge d’une leçon hebdomadaire au moment de la reprise prévue à l’article 1er continue à en bénéficier. À partir du 1er janvier de l’année au cours de laquelle il atteint l’âge de cinquante-cinq ans, il conserve cette leçon hebdomadaire de décharge et bénéficie de deux jours ouvrables par année de congé de récréation.
 
-- l’agent qui bénéficie d’une décharge pour raison d’âge de deux leçons hebdomadaires lors de la reprise prévue à l’article 1 er continue à en bénéficier.
+- l’agent qui bénéficie d’une décharge pour raison d’âge de deux leçons hebdomadaires lors de la reprise prévue à l’article 1er continue à en bénéficier.
 
 #### Chapitre 3 La rémunération des enseignants de religion et des chargés de cours de religion repris dans la réserve de suppléants et la réserve des auxiliaires éducatifs de l’enseignement fondamental
 
@@ -2840,7 +2828,7 @@ Le Fonds a pour mission :
 
 - de répondre des dettes et des charges contractées par les fabriques d’église avant leur suppression et d’exercer, tant en demandant qu’en défendant, les droits et actions ayant appartenu à celles-ci ;
 
-- de pourvoir, à l’exception de tous frais de personnel visés par la loi du 23 juillet 2016 réglant le montant et les modalités d’octroi du soutien financier annuel à l’Église catholique, arrêtant les exemptions en matière d’acquisition d’immeubles affectés à l’exercice du culte catholique et portant 1. modification de la loi modifiée du 30 avril 1873 sur la création de l’évêché; 2. modification de certaines dispositions du Code du Travail ; 3. abrogation de la loi du 10 juillet 1998 portant approbation de la Convention du 31 octobre 1997 entre le Gouvernement, d’une part, et l’Archevêché, d’autre part, portant refixation des cadres du culte catholique et réglant certaines matières connexes; 4. abrogation de certaines dispositions de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’État, aux besoins matériels liés à l’exercice du culte catholique, dont notamment la préservation des édifices religieux qui servent à l’exercice du culte et qui relèvent de sa propriété.
+- de pourvoir, à l’exception de tous frais de personnel visés par la loi du 23 juillet 2016 réglant le montant et les modalités d’octroi du soutien financier annuel à l’Église catholique, arrêtant les exemptions en matière d’acquisition d’immeubles affectés à l’exercice du culte catholique et portant 1. modification de la loi modifiée du 30 avril 1873 sur la création de l’évêché; 2. modification de certaines dispositions du Code du Travail; 3. abrogation de la loi du 10 juillet 1998 portant approbation de la Convention du 31 octobre 1997 entre le Gouvernement, d’une part, et l’Archevêché, d’autre part, portant refixation des cadres du culte catholique et réglant certaines matières connexes; 4. abrogation de certaines dispositions de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’État, aux besoins matériels liés à l’exercice du culte catholique, dont notamment la préservation des édifices religieux qui servent à l’exercice du culte et qui relèvent de sa propriété.
 
 Le Fonds est propriétaire des immeubles, connus sous la dénomination de « biens de cure », qui sont énumérés à l’annexe I avec l’indication de leur dénomination, de leur nature, de leur numéro cadastral et de leur contenance.
 

@@ -169,7 +169,7 @@ Sous réserve des paragraphes 1 et 2 de l’article 6, les informations à fourn
 
 - les caractéristiques environnementales des zones susceptibles d’être touchées de manière notable;
 
-- les problèmes environnementaux liés au plan ou au programme, en particulier ceux qui concernent les zones revêtant une importance particulière pour l’environnement telles que celles désignées conformément aux directives 79/409/CEE et 92/43/CEE ;
+- les problèmes environnementaux liés au plan ou au programme, en particulier ceux qui concernent les zones revêtant une importance particulière pour l’environnement telles que celles désignées conformément aux directives 79/409/CEE et 92/43/CEE;
 
 - les objectifs de la protection de l’environnement, établis au niveau international, communautaire ou national, qui sont pertinents pour le plan ou le programme et la manière dont ces objectifs et les considérations environnementales ont été pris en considération au cours de leur élaboration;
 

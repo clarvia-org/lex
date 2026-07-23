@@ -41,7 +41,7 @@ Peuvent prétendre au complément:
 
 - les personnes admises à durée indéterminée dans les centres intégrés pour personnes âgées, les maisons de soins, ou les autres établissements médico-sociaux assurant un accueil de jour et de nuit dûment agréés conformément à la loi du 8 septembre 1998 réglant les relations entre l'Etat et les organismes oeuvrant dans les domaines social, familial et thérapeutique;
 
-- les personnes séjournant dans un hôpital et considérées comme cas de simple hébergement au sens de l'article 17 du code des assurances sociales .
+- les personnes séjournant dans un hôpital et considérées comme cas de simple hébergement au sens de l'article 17 du code des assurances sociales.
 
 <a id="art-3"></a>
 ## Art. 3.-
@@ -303,7 +303,7 @@ Sont applicables en outre pour l'exécution de la présente loi, sauf adaptation
 
 - les articles 28 à 31 et 33 de la loi du 28 juillet 2018 relative au revenu d'inclusion sociale ;
 
-- ainsi que les articles 291 et 292bis du code des assurances sociales .
+- ainsi que les articles 291 et 292bis du code des assurances sociales.
 
 <a id="art-21"></a>
 ## Art. 21.-

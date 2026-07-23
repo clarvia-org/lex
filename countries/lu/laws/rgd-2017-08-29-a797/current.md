@@ -40,7 +40,7 @@ Au sens du présent règlement, on entend par :
 
 - élève majeur : personne ayant atteint la majorité qui introduit la demande en obtention de la subvention du maintien scolaire ;
 
-- enfant : personne autre que l’élève faisant partie du ménage du demandeur, y étant déclarée et pour laquelle le demandeur perçoit des allocations familiales ou qui soit est inscrite à temps plein, ou en formation concomitante, dans un établissement scolaire, soit poursuit des études supérieures conformément à l’article 2 de la loi du 24 juillet 2014 concernant l’aide financière de l’État pour études supérieures. Est également considéré comme enfant l’élève de l’enseignement secondaire classique et de l’enseignement secondaire général qui est autorisé par le ministre ayant la formation professionnelle dans ses attributions à suivre sa formation professionnelle à l’étranger , ainsi que le membre résidant de fait au ménage et qui poursuit un service volontaire des jeunes en application de la loi modifiée du 31 octobre 2007 sur le service volontaire des jeunes ;
+- enfant : personne autre que l’élève faisant partie du ménage du demandeur, y étant déclarée et pour laquelle le demandeur perçoit des allocations familiales ou qui soit est inscrite à temps plein, ou en formation concomitante, dans un établissement scolaire, soit poursuit des études supérieures conformément à l’article 2 de la loi du 24 juillet 2014 concernant l’aide financière de l’État pour études supérieures. Est également considéré comme enfant l’élève de l’enseignement secondaire classique et de l’enseignement secondaire général qui est autorisé par le ministre ayant la formation professionnelle dans ses attributions à suivre sa formation professionnelle à l’étranger, ainsi que le membre résidant de fait au ménage et qui poursuit un service volontaire des jeunes en application de la loi modifiée du 31 octobre 2007 sur le service volontaire des jeunes ;
 
 - établissement scolaire : un établissement de l’enseignement secondaire classique ou secondaire général luxembourgeois, y compris les établissements d’enseignement privé sous régime contractuel suivant les programmes de l’enseignement luxembourgeois ;
 
@@ -88,7 +88,7 @@ La demande signée doit être accompagnée des pièces suivantes :
 
 - un certificat d’affiliation du Centre commun de la sécurité sociale pour toute l’année calendaire précédant la date du dépôt de la demande. Un tel certificat est à présenter pour le demandeur et son époux(se), ou sa/son partenaire au sens de la loi modifiée du 9 juillet 2004 relative aux effets légaux de certains partenariats ou de sa/son concubin(e), pour autant qu’ils sont membres du ménage ;
 
-- les attestations de revenus des trois derniers mois, hormis le mois d’août, du demandeur et le cas échéant de son époux(se), ou de sa/son partenaire au sens de la loi modifiée du 9 juillet 2004 relative aux effets légaux de certains partenariats ou de sa/son concubin(e) , ainsi que de l’élève lui-même ;
+- les attestations de revenus des trois derniers mois, hormis le mois d’août, du demandeur et le cas échéant de son époux(se), ou de sa/son partenaire au sens de la loi modifiée du 9 juillet 2004 relative aux effets légaux de certains partenariats ou de sa/son concubin(e), ainsi que de l’élève lui-même ;
 
 - un certificat attestant le versement des allocations familiales, ou à défaut une copie de l’extrait du dernier versement des allocations familiales. L’allocation de rentrée scolaire n’est pas prise en compte ;
 
@@ -145,7 +145,7 @@ Le revenu mensuel net disponible du ménage est constitué par :
 
 - des pensions alimentaires perçues ;
 
-- des rentes d’invalidité et d’accident , ainsi que de tout autre revenu de remplacement ;
+- des rentes d’invalidité et d’accident , ainsi que de tout autre revenu de remplacement;
 
 - de l’allocation d’éducation ;
 
@@ -220,7 +220,7 @@ Le revenu mensuel net disponible est calculé en additionnant :
 
 - l’allocation de chômage, le revenu minimum garanti et l’allocation de loyer ;
 
-- tout revenu de remplacement ou indemnité non-occasionnelle , y compris les bourses d’études ;
+- tout revenu de remplacement ou indemnité non-occasionnelle, y compris les bourses d’études ;
 
 - les intérêts et produits en capitaux ;
 
@@ -239,7 +239,7 @@ A ce montant s’ajoute un montant plafonné en fonction de la situation de loge
 
 - un maximum de 700 euros par mois, charges communes incluses, si l’élève loue un bien. Le montant alloué est majoré de maximum 90 euros par mois pour charges locatives privatives ;
 
-- un forfait de 300 euros par mois si l’élève est logé auprès d’un tiers, conformément aux dispositions de l’article 7, paragraphe 1 er , alinéa 2, point 1.
+- un forfait de 300 euros par mois si l’élève est logé auprès d’un tiers, conformément aux dispositions de l’article 7, paragraphe 1er, alinéa 2, point 1.
 
 Le total mensuel obtenu par l'addition des montants ci-dessus est diminué du revenu éventuel prévu à l’article 7 .
 

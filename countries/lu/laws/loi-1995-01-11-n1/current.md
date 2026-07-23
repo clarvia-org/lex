@@ -175,22 +175,30 @@ L'article 2 de la loi du 26 mars 1992 sur l'exercice et la revalorisation de cer
 
 La loi du 3 juin 1994 portant création du régime préparatoire de l'enseignement secondaire technique est modifiée comme suit:
 
-- à l'article III, paragraphe 5, il est ajouté l'alinéa suivant: Il bénéficiera d'une reconstitution de carrière prenant en compte les nominations conférées par la Ville d'Esch-sur-Alzette. Les dispositions de l'article 7, paragraphe 6, de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l'Etat ne lui sont pas applicables. Pour l'application des dispositions de l'article 22, VII, b, dernier alinéa, de la loi du 22 juin 1963 précitée, il est considéré comme rentrant dans le contingent des 10% y défini.
+- à l'article III, paragraphe 5, il est ajouté l'alinéa suivant:
+
+Il bénéficiera d'une reconstitution de carrière prenant en compte les nominations conférées par la Ville d'Esch-sur-Alzette.
+
+Les dispositions de l'article 7, paragraphe 6, de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l'Etat ne lui sont pas applicables.
+
+Pour l'application des dispositions de l'article 22, VII, b, dernier alinéa, de la loi du 22 juin 1963 précitée, il est considéré comme rentrant dans le contingent des 10% y défini.
 
 <a id="art-16"></a>
 ## Art. 16.
 
 La loi modifiée du 4 septembre 1990 portant réforme de l'enseignement secondaire technique et de la formation professionnelle continue est modifiée comme suit:
 
-- à l'article 9 point 7. la mention une division de l'apprentissage paramédical et social est remplacée par la mention une division de l'apprentissage des professions de santé et des professions sociales .
+- à l'article 9 point 7. la mention une division de l'apprentissage paramédical et social est remplacée par la mention une division de l'apprentissage des professions de santé et des professions sociales.
 
-- aux articles 15 et 18 A) l'énumération des divisions du régime de la formation des techniciens est complétée chaque fois par la mention 10. une division des professions de santé et des professions sociales .
+- aux articles 15 et 18 A) l'énumération des divisions du régime de la formation des techniciens est complétée chaque fois par la mention 10. une division des professions de santé et des professions sociales.
 
-- à l'article 17 point 5. la mention une division paramédicale et sociale est remplacée par la mention une division des professions de santé et des professions sociales .
+- à l'article 17 point 5. la mention une division paramédicale et sociale est remplacée par la mention une division des professions de santé et des professions sociales.
 
-- à l'article 18 point B)2. la mention une division paramédicale et sociale est remplacée par la mention une division des professions de santé et professions sociales .
+- à l'article 18 point B)2. la mention une division paramédicale et sociale est remplacée par la mention une division des professions de santé et professions sociales.
 
-- à l'article 33 la deuxième phrase de l'alinéa 3 est remplacée comme suit: A cet effet, les commissions nationales de programme peuvent comprendre, outre des enseignants spécialisés, des représentants des ministres concernés, des chambres professionnelles concernées, du Conseil supérieur de certaines professions de santé et des représentants des employeurs du secteur de la santé et des institutions éducatives et sociales.
+- à l'article 33 la deuxième phrase de l'alinéa 3 est remplacée comme suit:
+
+A cet effet, les commissions nationales de programme peuvent comprendre, outre des enseignants spécialisés, des représentants des ministres concernés, des chambres professionnelles concernées, du Conseil supérieur de certaines professions de santé et des représentants des employeurs du secteur de la santé et des institutions éducatives et sociales.
 
 - à l'article 38 l'alinéa 2 est remplacé comme suit: Cette commission est composée de représentants du ministre, de directeurs de l'enseignement secondaire technique, d'inspecteurs de l'enseignement primaire, d'enseignants des lycées techniques et du régime préparatoire de l'enseignement secondaire technique, de membres du Centre de psychologie et d'orientation scolaires, de représentants des chambres professionnelles, de représentants du Conseil supérieur de certaines professions de santé et de représentants des parents d'élèves.
 
@@ -225,7 +233,7 @@ Les fonctionnaires de l'Etat de la carrière de l'infirmier gradué ainsi que de
 
 Au plus tard dans un délai de six mois à partir de l'entrée en vigueur de la présente loi, ces fonctionnaires peuvent choisir d'être nommés aux fonctions de professeur d'enseignement technique.Toutefois, cette nomination ne peut être prononcée que si ces fonctionnaires remplissent l'une des conditions suivantes:
 
-- avoir accompli, à la mise en vigueur de la présente loi, au moins cinq années en équivalent temps plein comme enseignant dans une école du Luxembourg qui forme des professionnels de santé visés à l'article 1 er de la loi du 26 mars 1992 sur l'exercice et la revalorisation de certaines professions de santé;
+- avoir accompli, à la mise en vigueur de la présente loi, au moins cinq années en équivalent temps plein comme enseignant dans une école du Luxembourg qui forme des professionnels de santé visés à l'article 1er de la loi du 26 mars 1992 sur l'exercice et la revalorisation de certaines professions de santé;
 
 - avoir subi avec succès, dans les trois années qui suivent la mise en vigueur de la présente loi, un examen spécial dont le programme et les modalités sont fixés par règlement grand-ducal.
 
@@ -236,7 +244,7 @@ Les fonctionnaires de l'Etat de la carrière de l'expert en sciences hospitaliè
 
 Au plus tard dans un délai de six mois à partir de l'entrée en vigueur de la présente loi, ces fonctionnaires peuvent choisir d'être nommés aux fonctions de professeur de sciences de l'enseignement secondaire technique. Toutefois, cette nomination ne peut être prononcée que si ces fonctionnaires remplissent l'une des conditions suivantes:
 
-- avoir accompli, à la mise en vigueur de la présente loi, au moins cinq années en équivalent temps plein comme enseignant dans une école du Luxembourg qui forme des professionnels de santé visés à l'article 1 er de la loi du 26 mars 1992 sur l'exercice et la revalorisation de certaines professions de santé;
+- avoir accompli, à la mise en vigueur de la présente loi, au moins cinq années en équivalent temps plein comme enseignant dans une école du Luxembourg qui forme des professionnels de santé visés à l'article 1er de la loi du 26 mars 1992 sur l'exercice et la revalorisation de certaines professions de santé;
 
 - avoir subi avec succès, dans les trois années qui suivent la mise en vigueur de la présente loi, un examen spécial dont le programme et les modalités sont fixés par règlement grand-ducal.
 
@@ -260,7 +268,7 @@ Ils ont le droit de porter respectivement le titre d'infirmier gradué-enseignan
 
 Au plus tard dans un délai de six mois à partir de cette nomination, ces fonctionnaires peuvent choisir d'être nommés respectivement aux fonctions de professeur d'enseignement technique ou de professeur de sciences de l'enseignement secondaire technique. Toutefois, cette nomination ne peut être prononcée que si ces fonctionnaires remplissent l'une des conditions suivantes:
 
-- avoir accompli, à la mise en vigueur de la présente loi, au moins cinq années en équivalent temps plein comme enseignant dans une école du Luxembourg qui forme des professionnels de santé visés à l'article 1 er de la loi du 26 mars 1992 sur l'exercice et la revalorisation de certaines professions de santé;
+- avoir accompli, à la mise en vigueur de la présente loi, au moins cinq années en équivalent temps plein comme enseignant dans une école du Luxembourg qui forme des professionnels de santé visés à l'article 1er de la loi du 26 mars 1992 sur l'exercice et la revalorisation de certaines professions de santé;
 
 - avoir subi avec succès, dans les trois années qui suivent la mise en vigueur de la présente loi, un examen spécial dont le programme et les modalités sont fixés par règlement grand-ducal.
 
@@ -279,7 +287,7 @@ Les employés privés, occupés à l'entrée en vigueur de la présente loi aupr
 
 Au plus tard dans un délai de six mois à partir de cette nomination, ces fonctionnaires peuvent choisir d'être nommés respectivement aux fonctions de professeur d'enseignement technique ou de professeur de sciences de l'enseignement secondaire technique. Toutefois, cette nomination ne peut être prononcée que si ces fonctionnaires remplissent l'une des conditions suivantes:
 
-- avoir accompli, à la mise en vigueur de la présente loi, au moins cinq années en équivalent temps plein comme enseignant dans une école du Luxembourg qui forme des professionnels de santé visés à l'article 1 er de la loi du 26 mars 1992 sur l'exercice et la revalorisation de certaines professions de santé;
+- avoir accompli, à la mise en vigueur de la présente loi, au moins cinq années en équivalent temps plein comme enseignant dans une école du Luxembourg qui forme des professionnels de santé visés à l'article 1er de la loi du 26 mars 1992 sur l'exercice et la revalorisation de certaines professions de santé;
 
 - avoir subi avec succès, dans les trois années qui suivent la mise en vigueur de la présente loi, un examen spécial dont le programme et les modalités sont fixés par règlement grand-ducal.
 
@@ -288,9 +296,9 @@ Au plus tard dans un délai de six mois à partir de cette nomination, ces fonct
 
 Peuvent également bénéficier des dispositions des articles 19 et 20 les agents suivants, à savoir:
 
-- l'expert en sciences hospitalières de la Direction de la Santé nommé à cette fonction le 1 er décembre 1984 et détaché en qualité de chargé de direction à l'Ecole de l'Etat pour Paramédicaux;
+- l'expert en sciences hospitalières de la Direction de la Santé nommé à cette fonction le 1er décembre 1984 et détaché en qualité de chargé de direction à l'Ecole de l'Etat pour Paramédicaux;
 
-- l'infirmière hospitalière graduée de la Direction de la Santé nommée à cette fonction le 1 er janvier 1991 et détachée à mi-temps à l'Ecole de l'Etat pour Paramédicaux en qualité d'infirmière graduée enseignante.
+- l'infirmière hospitalière graduée de la Direction de la Santé nommée à cette fonction le 1er janvier 1991 et détachée à mi-temps à l'Ecole de l'Etat pour Paramédicaux en qualité d'infirmière graduée enseignante.
 
 Pour les agents ci-dessus le temps passé en équivalent temps plein dans leurs fonctions, est mis intégralement en compte pour l'application des délais définis aux articles 19,20 et 26 en vue de l'accès aux fonctions de professeur de sciences de l'enseignement secondaire technique, de professeur d'enseignement technique ou d'infirmier gradué-enseignant.
 

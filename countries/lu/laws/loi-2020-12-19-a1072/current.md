@@ -33,13 +33,13 @@ La présente loi a pour objet la mise en œuvre par le Grand-Duché de Luxembour
 
 - les actes de l’Union européenne suivants :
 
-  - les positions communes adoptées avant le 1 er décembre 2009 en vertu des articles 12 et 15 du Traité sur l’Union européenne et pour les cas visées aux articles 60, §1 er , 301 et 308 du Traité instituant la Communauté européenne ;
+  - les positions communes adoptées avant le 1er décembre 2009 en vertu des articles 12 et 15 du Traité sur l’Union européenne et pour les cas visées aux articles 60, §1er, 301 et 308 du Traité instituant la Communauté européenne ;
 
-  - les décisions adoptées depuis le 1 er décembre 2009 en vertu des articles 25 et 29 du Traité sur l’Union européenne et pour les cas visés aux articles 75, 215 et 352 du Traité sur le fonctionnement de l’Union européenne ;
+  - les décisions adoptées depuis le 1er décembre 2009 en vertu des articles 25 et 29 du Traité sur l’Union européenne et pour les cas visés aux articles 75, 215 et 352 du Traité sur le fonctionnement de l’Union européenne ;
 
-  - les règlements adoptés avant le 1 er décembre 2009 en vertu de l’article 249 du traité instituant la Communauté européenne ou des décisions prises en application de ces règlements et pour les cas visés aux articles 60, §1 er , 301 et 308 du traité instituant la Communauté européenne ;
+  - les règlements adoptés avant le 1er décembre 2009 en vertu de l’article 249 du traité instituant la Communauté européenne ou des décisions prises en application de ces règlements et pour les cas visés aux articles 60, §1er, 301 et 308 du traité instituant la Communauté européenne ;
 
-  - les règlements adoptés depuis le 1 er décembre 2009 en vertu de l’article 288 du traité sur le fonctionnement de l’Union européenne ou des règlements ou décisions pris en application de ces règlements et pour les cas visés aux articles 75, 215 et 352 du traité sur le fonctionnement de l’Union européenne .
+  - les règlements adoptés depuis le 1er décembre 2009 en vertu de l’article 288 du traité sur le fonctionnement de l’Union européenne ou des règlements ou décisions pris en application de ces règlements et pour les cas visés aux articles 75, 215 et 352 du traité sur le fonctionnement de l’Union européenne.
 
 <a id="art-2"></a>
 ## Art. 2.
@@ -86,13 +86,13 @@ Sans préjudice des définitions prévues le cas échéant par les résolutions 
 
   - la Chambre des huissiers visée par le chapitre VIII de la loi modifiée du 4 décembre 1990 portant organisation du service des huissiers de justice.
 
-- « établissement de crédit » : tout établissement de crédit au sens de l’article 4, paragraphe 1 er , point 1), du règlement (UE) n° 575/2013 du Parlement européen et du Conseil du 26 juin 2013 concernant les exigences prudentielles applicables aux établissements de crédit et aux entreprises d’investissement et modifiant le règlement (UE) n° 648/2012 , y compris ses succursales, au sens de l’article 4, paragraphe 1 er , point 17), du règlement (UE) n° 575/2013 précité, que son siège social soit situé dans l’Union ou dans un pays tiers.
+- « établissement de crédit » : tout établissement de crédit au sens de l’article 4, paragraphe 1er, point 1), du règlement (UE) n° 575/2013 du Parlement européen et du Conseil du 26 juin 2013 concernant les exigences prudentielles applicables aux établissements de crédit et aux entreprises d’investissement et modifiant le règlement (UE) n° 648/2012, y compris ses succursales, au sens de l’article 4, paragraphe 1er, point 17), du règlement (UE) n° 575/2013 précité, que son siège social soit situé dans l’Union ou dans un pays tiers.
 
 - « établissement financier » :
 
   - les entreprises d’assurance directe ainsi que les entreprises de réassurance, dont le siège social est établi au Grand-Duché de Luxembourg, ayant obtenu un agrément conformément à l’article 14 de la directive 2009/138/CE du Parlement européen et du Conseil du 25 novembre 2009 sur l’accès aux activités de l’assurance et de la réassurance et leur exercice ;
 
-  - toute entreprise d’investissement au sens de l’article 4, paragraphe 1 er , point 1), de la directive 2014/65/UE du Parlement européen et du Conseil du 15 mai 2014 concernant les marchés d’instruments financiers et modifiant la directive 2002/92/CE et la directive 2011/61/UE ;
+  - toute entreprise d’investissement au sens de l’article 4, paragraphe 1er, point 1), de la directive 2014/65/UE du Parlement européen et du Conseil du 15 mai 2014 concernant les marchés d’instruments financiers et modifiant la directive 2002/92/CE et la directive 2011/61/UE ;
 
   - tout organisme de placement collectif qui commercialise ses parts ou ses actions ;
 

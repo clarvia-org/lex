@@ -37,7 +37,7 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 Au sens du présent règlement, on entend par :
 
-- « adulte » : toute personne âgée d’au moins dix-huit ans révolus avant le 1 er septembre et qui ne s’inscrit pas en formation musicale selon les conditions prévues aux articles 6 à 7, ni en formation instrumentale selon les conditions prévues aux articles 16 à 19 bis , ni en chant classique, moderne ou jazz selon les conditions prévues aux articles 25 à 27, ni en formation diction selon les conditions prévues aux articles 42 à 43, ni en formation danse jazz selon les conditions prévues aux articles 50 à 51 ;
+- « adulte » : toute personne âgée d’au moins dix-huit ans révolus avant le 1er septembre et qui ne s’inscrit pas en formation musicale selon les conditions prévues aux articles 6 à 7, ni en formation instrumentale selon les conditions prévues aux articles 16 à 19bis , ni en chant classique, moderne ou jazz selon les conditions prévues aux articles 25 à 27, ni en formation diction selon les conditions prévues aux articles 42 à 43, ni en formation danse jazz selon les conditions prévues aux articles 50 à 51 ;
 
 - « branche » : toute branche d’enseignement qui peut être enseignée par l’établissement ;
 
@@ -1177,7 +1177,7 @@ Un adulte peut accéder à la formation qualifiante sur décision de l’établi
 
 - avoir quitté un établissement depuis au moins trois années scolaires ;
 
-- avoir suivi des cours de chant classique, moderne ou jazz, visés aux articles 25, 29 ter et 37 bis ;
+- avoir suivi des cours de chant classique, moderne ou jazz, visés aux articles 25, 29ter et 37bis;
 
 - avoir acquis au moins un niveau d’études correspondant au niveau de l’inférieur 3.2, visé à l’article 25.
 
@@ -1964,7 +1964,7 @@ Les élèves ayant obtenu le diplôme du premier cycle de danse classique peuven
 
 La division inférieure comprend deux cycles d’une durée totale de cinq années d’études :
 
-- le premier cycle qui comprend trois années d’études, dénommées « inférieur 1 base », « inférieur 1 facultatif » et « inférieur 2 base » , « inférieur 2 facultatif », « inférieur 3 base » et « inférieur 3 facultatif », avec un cours de base, collectif et hebdomadaire d’une durée de quatre-vingt-dix minutes et un cours d’entraînement facultatif, collectif et hebdomadaire d’une durée de quatre-vingt-dix minutes. Il est clôturé par l’obtention du diplôme du premier cycle ;
+- le premier cycle qui comprend trois années d’études, dénommées « inférieur 1 base », « inférieur 1 facultatif » et « inférieur 2 base » ,« inférieur 2 facultatif », « inférieur 3 base » et « inférieur 3 facultatif », avec un cours de base, collectif et hebdomadaire d’une durée de quatre-vingt-dix minutes et un cours d’entraînement facultatif, collectif et hebdomadaire d’une durée de quatre-vingt-dix minutes. Il est clôturé par l’obtention du diplôme du premier cycle ;
 
 - le deuxième cycle qui comprend deux années d’études, dont la dénomination et la durée des cours collectifs hebdomadaires sont les suivantes :
 
@@ -2637,7 +2637,7 @@ L’article 1er, dernier tiret du règlement grand-ducal modifié du 3 août 199
 <a id="art-67"></a>
 ## Art. 67.
 
-À l’article 1er du règlement grand-ducal du 3 août 1998 fixant la mission et la composition de la Commission nationale des programmes de l’enseignement musical, il est inséré entre les points 2 et 3 un point 2bisnouveau, libellé comme suit :
+À l’article 1er du règlement grand-ducal du 3 août 1998 fixant la mission et la composition de la Commission nationale des programmes de l’enseignement musical, il est inséré entre les points 2 et 3 un point 2bis nouveau, libellé comme suit :
 
 2bis . La Commission est chargée de donner son avis au ministre ayant l’enseignement musical dans ses attributions et de rédiger un programme d’études quant à la demande d’introduction d’une nouvelle branche dans la liste des branches d’enseignement prévues aux annexes citées à l’article 2 du règlement grand-ducal du 10 avril 2020 déterminant les différentes branches enseignées, les modalités d’obtention, de délivrance et la nomenclature des diplômes, ainsi que les modalités de transition entre les différents ordres d’établissement et niveaux d’enseignement.
 
@@ -2667,11 +2667,11 @@ Pour l’année scolaire 2021/2022 chaque établissement peut :
 
 - offrir en parallèle à la formation musicale 4 fixée à l’article 6, un cours supplémentaire, dénommé « formation musicale 4 renforcée », avec un cours collectif hebdomadaire d’une durée de soixante minutes ;
 
-- exempter l’élève du cours de diction fixé aux articles 42 et 43, se présentant à l’examen pour l’obtention du premier prix ou à l’examen pour l’obtention du diplôme supérieur, de la condition de suivre ou avoir suivi obligatoirement le cours de base scène prévu à l’article 47 quater , paragraphe 1 er ;
+- exempter l’élève du cours de diction fixé aux articles 42 et 43, se présentant à l’examen pour l’obtention du premier prix ou à l’examen pour l’obtention du diplôme supérieur, de la condition de suivre ou avoir suivi obligatoirement le cours de base scène prévu à l’article 47quater, paragraphe 1er ;
 
-- exempter l’élève du cours de danse classique, jazz ou contemporaine fixé à l’article 51, paragraphes 2 et 4, se présentant à l’examen pour l’obtention du premier prix ou à l’examen pour l’obtention du diplôme supérieur, de la condition de suivre ou avoir suivi obligatoirement le cours d’histoire de la danse prévu à l’article 53 bis et le cours de chorégraphie et kinésiologie prévu à l’article 53 ter ;
+- exempter l’élève du cours de danse classique, jazz ou contemporaine fixé à l’article 51, paragraphes 2 et 4, se présentant à l’examen pour l’obtention du premier prix ou à l’examen pour l’obtention du diplôme supérieur, de la condition de suivre ou avoir suivi obligatoirement le cours d’histoire de la danse prévu à l’article 53bis et le cours de chorégraphie et kinésiologie prévu à l’article 53ter;
 
-- introduire une demande motivée auprès du ministre en vue de l’obtention d’une autorisation ministérielle pour l’admission d’un élève au cours de didactique et méthodologie visé à l’article 53 sexies ne remplissant pas les conditions d’admissibilité.
+- introduire une demande motivée auprès du ministre en vue de l’obtention d’une autorisation ministérielle pour l’admission d’un élève au cours de didactique et méthodologie visé à l’article 53sexies ne remplissant pas les conditions d’admissibilité.
 
 <a id="art-70"></a>
 ## Art. 70.

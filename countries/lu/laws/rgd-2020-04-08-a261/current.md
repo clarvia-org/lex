@@ -57,9 +57,9 @@ Est assimilé au travailleur indépendant au sens du présent règlement :
 
 Sont exclus du champ d’application du présent règlement les travailleurs indépendants qui exercent les activités et professions suivantes :
 
-- les activités relevant des secteurs mentionnés à l’article 1 er , paragraphe 2 de la loi du 20 décembre 2019 ayant pour objet la mise en place d’un régime d’aides de minimis et les aides visées à l’article 1 er , paragraphe 3 de la même loi.
+- les activités relevant des secteurs mentionnés à l’article 1er, paragraphe 2 de la loi du 20 décembre 2019 ayant pour objet la mise en place d’un régime d’aides de minimis et les aides visées à l’article 1er, paragraphe 3 de la même loi.
 
-- Lorsque le travailleur indépendant exerce ses activités à la fois dans un ou plusieurs des secteurs mentionnés l’article 1 er , paragraphe 2 de la loi du 20 décembre 2019 ayant pour objet la mise en place d’un régime d’aides de minimis et dans un ou plusieurs secteurs entrant dans le champ d’application du présent règlement, alors seules ces dernières activités peuvent être considérées comme éligibles sous réserve d’assurer une séparation des activités ou une distinction des coûts ;
+- Lorsque le travailleur indépendant exerce ses activités à la fois dans un ou plusieurs des secteurs mentionnés l’article 1er, paragraphe 2 de la loi du 20 décembre 2019 ayant pour objet la mise en place d’un régime d’aides de minimis et dans un ou plusieurs secteurs entrant dans le champ d’application du présent règlement, alors seules ces dernières activités peuvent être considérées comme éligibles sous réserve d’assurer une séparation des activités ou une distinction des coûts ;
 
 - les médecins et les professionnels de santé relevant de la loi modifiée du 26 mars 1992 sur l’exercice et la revalorisation de certaines professions de santé ;
 

@@ -567,7 +567,7 @@ Le conseil de résolution peut échanger des informations et coopérer avec les 
 
 - les autorités désignées visées à l’article 163 de la loi du 18 décembre 2015 relative à la défaillance des établissements de crédit et de certaines entreprises d’investissement;
 
-- les dispositifs de financement pour la résolution visés à l’article 100 de la directive 2014/59/UE du Parlement européen et du Conseil du 15 mai 2014 établissant un cadre pour le redressement et la résolution des établissements de crédit et des entreprises d’investissement et modifiant la directive 82/891/CEE du Conseil ainsi que les directives du Parlement européen et du Conseil 2001/24/CE , 2002/47/CE , 2004/25/CE , 2005/56/CE , 2007/36/CE , 2011/35/UE , 2012/30/UE et 2013/36/UE et les règlements du Parlement européen et du Conseil (UE) n° 1093/2010 et (UE) n° 648/2012 ;
+- les dispositifs de financement pour la résolution visés à l’article 100 de la directive 2014/59/UE du Parlement européen et du Conseil du 15 mai 2014 établissant un cadre pour le redressement et la résolution des établissements de crédit et des entreprises d’investissement et modifiant la directive 82/891/CEE du Conseil ainsi que les directives du Parlement européen et du Conseil 2001/24/CE, 2002/47/CE, 2004/25/CE, 2005/56/CE, 2007/36/CE, 2011/35/UE, 2012/30/UE et 2013/36/UE et les règlements du Parlement européen et du Conseil (UE) n° 1093/2010 et (UE) n° 648/2012;
 
 - les systèmes de garantie des dépôts;
 
@@ -577,7 +577,7 @@ Le conseil de résolution peut échanger des informations et coopérer avec les 
 
 - la Banque centrale européenne; et
 
-- l’Autorité bancaire européenne, lorsque cela est nécessaire à l’accomplissement de leurs missions respectives au titre de la directive 2014/59/UE et du règlement (UE) n° 806/2014 .
+- l’Autorité bancaire européenne, lorsque cela est nécessaire à l’accomplissement de leurs missions respectives au titre de la directive 2014/59/UE et du règlement (UE) n° 806/2014.
 
 Lorsque le conseil de résolution communique des informations aux autorités ou organismes visés à l’alinéa 1, il peut indiquer, au moment de la communication, que les informations communiquées ne peuvent être divulguées sans son accord exprès, auquel cas ces informations peuvent être échangées uniquement aux fins pour lesquelles le conseil de résolution a donné son accord.
 

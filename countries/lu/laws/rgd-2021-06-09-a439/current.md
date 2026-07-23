@@ -54,7 +54,7 @@ Le présent règlement ne s’applique pas :
 
 - aux bâtiments servant de lieux de culte et destinés à l’exécution de pratiques religieuses ;
 
-- aux bâtiments indépendants dont la surface de référence énergétique A n est inférieure à cinquante mètres carrés.
+- aux bâtiments indépendants dont la surface de référence énergétique An est inférieure à cinquante mètres carrés.
 
 ##### Section 2 Définitions
 
@@ -71,7 +71,7 @@ Aux fins du présent règlement, on entend par :
 
 « bâtiment d’habitation » : bâtiment pris dans son ensemble dans lequel au moins 90 pour cent de la surface est destinée à des fins d’habitation. La surface du bâtiment est calculée :
 
-- sur base de la surface de référence énergétique A n pour les bâtiments qui ne sont pas soumis au statut de la copropriété ou qui sont soumis au statut de la copropriété, mais encore sans état descriptif de division en conformité avec le règlement grand-ducal du 22 juin 1988 concernant la publicité en matière de copropriété. Dans le deuxième cas, il est fait abstraction des parties communes. Les parties privatives à prendre en considération et la destination des parties privatives à des fins d’habitation ou à des fins autres que l’habitation sont arrêtées et publiées par le ministre ;
+- sur base de la surface de référence énergétique An pour les bâtiments qui ne sont pas soumis au statut de la copropriété ou qui sont soumis au statut de la copropriété, mais encore sans état descriptif de division en conformité avec le règlement grand-ducal du 22 juin 1988 concernant la publicité en matière de copropriété. Dans le deuxième cas, il est fait abstraction des parties communes. Les parties privatives à prendre en considération et la destination des parties privatives à des fins d’habitation ou à des fins autres que l’habitation sont arrêtées et publiées par le ministre ;
 
 - sur base de la surface utile des différents lots privatifs pour les bâtiments soumis au statut de la copropriété et disposant d’un état descriptif de division en conformité avec le règlement grand-ducal du 22 juin 1988 concernant la publicité en matière de copropriété. Les lots privatifs à prendre en considération et la destination de ces lots privatifs à des fins d’habitation ou à des fins autres que l’habitation sont arrêtés et publiés par le ministre ;
 
@@ -416,7 +416,7 @@ L’établissement d’un certificat de performance énergétique pour un bâtim
 
 - lors d’un changement de locataire d’un bâtiment existant ou d’une partie de bâtiment dans un bâtiment existant, si le bâtiment en question ne dispose pas déjà d’un certificat de performance énergétique valide ;
 
-- lorsqu’il s’agit d’un bâtiment dans lequel une surface de référence énergétique A n supérieure à 250 mètres carrés est occupée par une autorité publique et fréquemment visitée par le public, si le bâtiment en question ne dispose pas encore d’un certificat de performance énergétique valide.
+- lorsqu’il s’agit d’un bâtiment dans lequel une surface de référence énergétique An supérieure à 250 mètres carrés est occupée par une autorité publique et fréquemment visitée par le public, si le bâtiment en question ne dispose pas encore d’un certificat de performance énergétique valide.
 
 (4)
 
@@ -491,7 +491,7 @@ Au cas où dans un bâtiment fonctionnel pris dans son ensemble, une partie du b
 
 L’établissement du certificat de performance énergétique additionnel prévu au paragraphe 1er est déclenché lors de la construction d’un bâtiment fonctionnel neuf et dans les cas visés à l’article 14, paragraphe 3, points 1 à 6. Le caractère déterminant des différents certificats de performance énergétique en fonction des parties concernées est réglé comme suit :
 
-- pour la partie du bâtiment fonctionnel qui est destinée à des fins d’habitation, le certificat de performance énergétique prévu au paragraphe 1 er est déterminant notamment en ce qui concerne les cas visés à l’article 17, paragraphes 2 et 3 ;
+- pour la partie du bâtiment fonctionnel qui est destinée à des fins d’habitation, le certificat de performance énergétique prévu au paragraphe 1er est déterminant notamment en ce qui concerne les cas visés à l’article 17, paragraphes 2 et 3 ;
 
 - pour la partie du bâtiment fonctionnel qui est destinée à des fins autres que l’habitation, seul le certificat de performance énergétique prévu à l’article 14, paragraphes 2 et 3, est déterminant notamment en ce qui concerne les cas visés à l’article 17, paragraphes 2 et 3 ;
 
@@ -541,7 +541,7 @@ Les certificats de performance énergétique établis :
 
 - conformément à l’article 14, paragraphe 3, point 7, ou
 
-- conformément à l’article 14, paragraphe 3, points 1 à 6, lorsqu’il s’agit d’un bâtiment dans lequel une surface de référence énergétique A n supérieure à 500 mètres carrés est fréquemment visitée par le public doivent être affichés à un emplacement et d’une manière clairement visible pour le public. Le ministre peut préciser les modalités de l’affichage du certificat de performance énergétique.
+- conformément à l’article 14, paragraphe 3, points 1 à 6, lorsqu’il s’agit d’un bâtiment dans lequel une surface de référence énergétique An supérieure à 500 mètres carrés est fréquemment visitée par le public doivent être affichés à un emplacement et d’une manière clairement visible pour le public. Le ministre peut préciser les modalités de l’affichage du certificat de performance énergétique.
 
 ##### Section 5 Validité du certificat de performance énergétique
 

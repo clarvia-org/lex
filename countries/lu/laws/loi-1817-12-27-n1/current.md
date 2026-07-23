@@ -74,7 +74,7 @@ Les héritiers, légataires ou donataires d’immeubles situés dans le Grand-Du
 
 Pour les successions d’habitants du Grand-Duché, recueillies en ligne directe ou dont la valeur totale, déduction faite des dettes, ne s’élève pas au-delà de 1250 euros, la déclaration se bornera à la désignation :
 
-- Des héritiers et des immeubles qui leur sont échus, et qui sont situés dans le Grand-Duché .
+- Des héritiers et des immeubles qui leur sont échus, et qui sont situés dans le Grand-Duché.
 
 - Des légataires et donataires, et de ce que chacun d’eux recueille ou acquiert.
 
@@ -193,11 +193,11 @@ Les dettes composant le passif de la succession d’un habitant du Grand-Duché,
 
 Sont admises au passif, pour la liquidation du droit de mutation, en cas de décès d’une personne qui n’est pas réputée habitant du Grand-Duché :
 
-- Les dettes garanties par les biens immeubles visés à l’article 1 er ;
+- Les dettes garanties par les biens immeubles visés à l’article 1er ;
 
 - Les dettes contractées pour l’acquisition, l’amélioration ou la conservation des biens
 
-- immeubles visés à l’article 1 er ;
+- immeubles visés à l’article 1er ;
 
 telles qu’elles existent au jour du décès.
 
@@ -206,7 +206,7 @@ telles qu’elles existent au jour du décès.
 
 L’admission au passif des dettes visées à l’article 12bis :
 
-- Ne se fait qu’au regard de l’existence d’actes ou d’autres preuves légales établissant leur existence au jour du décès ainsi que la réalité de leur lien avec les biens immeubles visés à l’article 1 er ;
+- Ne se fait qu’au regard de l’existence d’actes ou d’autres preuves légales établissant leur existence au jour du décès ainsi que la réalité de leur lien avec les biens immeubles visés à l’article 1er ;
 
 - N’est pas retenue dans les cas prévus à l’alinéa 3 de l’article 56 de la loi modifiée du 23 décembre 1913 concernant la révision de la législation qui régit les impôts dont le recouvrement est attribué à l’administration de l’enregistrement et des domaines.
 

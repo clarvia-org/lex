@@ -34,7 +34,7 @@ Aux fins du présent règlement grand-ducal, il y a lieu d'entendre par:
 
 - «la loi»: la loi du 12 novembre 2002 relative aux activités privées de gardiennage et de surveillance;
 
-- «entreprise»: toute personne physique ou morale étant titulaire de l'autorisation prévue à l'article 1 er de la loi, l'habilitant à exercer une ou plusieurs des activités prévues à l'article 2 de la loi;
+- «entreprise»: toute personne physique ou morale étant titulaire de l'autorisation prévue à l'article 1er de la loi, l'habilitant à exercer une ou plusieurs des activités prévues à l'article 2 de la loi;
 
 - «agent»: toute personne physique qui a été engagée par une entreprise pour effectuer les missions prévues à l'article 2 de la loi et qui est titulaire de l'autorisation prévue à l'article 8 de la loi;
 

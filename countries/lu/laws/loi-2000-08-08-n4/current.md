@@ -65,7 +65,7 @@ L’entraide judiciaire peut être refusée par le procureur général d’Etat 
 
 - si la demande d’entraide est de nature à porter atteinte à la souveraineté, à la sécurité, à l’ordre public ou à d’autres intérêts essentiels du Grand-Duché de Luxembourg;
 
-- si la demande d’entraide a trait à des infractions susceptibles d’être qualifiées par la loi luxembourgeoise soit d’infractions politiques, soit d’infractions connexes à des infractions politiques .
+- si la demande d’entraide a trait à des infractions susceptibles d’être qualifiées par la loi luxembourgeoise soit d’infractions politiques, soit d’infractions connexes à des infractions politiques.
 
 - si la demande d’entraide a exclusivement trait à des infractions en matière de taxes et d’impôts, de douane ou de change en vertu de la loi luxembourgeoise.
 

@@ -50,7 +50,7 @@ Au sens du présent règlement on entend par :
 
 - « zone de protection éloignée » : une zone telle que définie à l’article 44 de la loi modifiée du 19 décembre 2008 relative à l’eau ;
 
-- « parc naturel » : une partie du territoire telle que définie à l’article 1 er de la loi modifiée du 10 août 1993 relative aux parcs naturels ;
+- « parc naturel » : une partie du territoire telle que définie à l’article 1er de la loi modifiée du 10 août 1993 relative aux parcs naturels ;
 
 - « zone d’habitation » : une zone telle que définie à l’article 8 du règlement grand-ducal du 8 mars 2017 concernant le contenu du plan d’aménagement général d’une commune ;
 

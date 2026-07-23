@@ -46,11 +46,11 @@ Aux fins du présent chapitre, on entend par:
 
 - «montant dû»: le montant principal, qui aurait dû être payé dans le délai de paiement contractuel ou légal, y compris les taxes, droits, redevances ou charges applicables figurant sur la facture ou la demande de paiement équivalente;
 
-- «pouvoirs publics»: tout pouvoir adjudicateur, tel que défini à l’article 2, paragraphe (1), point a), de la directive 2004/17/CE et à l’article 1 er , paragraphe (9), de la directive 2004/18/CE , indépendamment de l’objet ou de la valeur du contrat;
+- «pouvoirs publics»: tout pouvoir adjudicateur, tel que défini à l’article 2, paragraphe (1), point a), de la directive 2004/17/CE et à l’article 1er, paragraphe (9), de la directive 2004/18/CE, indépendamment de l’objet ou de la valeur du contrat;
 
 - «retard de paiement»: tout paiement non effectué dans le délai de paiement contractuel ou légal et lorsque les conditions spécifiées à l’article 3, paragraphe (1), ou à l’article 4, paragraphe (1) sont remplies;
 
-- «taux de référence»: taux d’intérêt de la principale facilité de refinancement appliquée par la Banque centrale européenne à ses opérations principales de refinancement les plus récentes effectuées avant le 1 er jour de calendrier du semestre en question dans le cas d’appels d’offres à taux fixe. Dans l’éventualité où une opération de refinancement principale a été effectuée selon une procédure d’appels d’offre à taux variable, ce taux directeur se réfère au taux d’intérêt marginal résultant de cet appel d’offres;
+- «taux de référence»: taux d’intérêt de la principale facilité de refinancement appliquée par la Banque centrale européenne à ses opérations principales de refinancement les plus récentes effectuées avant le 1er jour de calendrier du semestre en question dans le cas d’appels d’offres à taux fixe. Dans l’éventualité où une opération de refinancement principale a été effectuée selon une procédure d’appels d’offre à taux variable, ce taux directeur se réfère au taux d’intérêt marginal résultant de cet appel d’offres;
 
 - «titre exécutoire»: tout(e) décision, jugement, arrêt, ordonnance ou injonction de payer prononcé(e) par un tribunal ou une autre autorité compétente, y compris les titres exécutoires par provision, que le paiement soit immédiat ou échelonné, qui permet au créancier de recouvrer sa créance auprès du débiteur par procédure d’exécution forcée;
 
@@ -86,9 +86,9 @@ Dans les transactions commerciales entre entreprises, le créancier est en droit
 
 Le taux de référence applicable est:
 
-- pour le premier semestre de l’année concernée, le taux de référence en vigueur au 1 er janvier de l’année en question;
+- pour le premier semestre de l’année concernée, le taux de référence en vigueur au 1er janvier de l’année en question;
 
-- pour le second semestre de l’année concernée, le taux de référence en vigueur au 1 er juillet de l’année en question.
+- pour le second semestre de l’année concernée, le taux de référence en vigueur au 1er juillet de l’année en question.
 
 (3)
 
@@ -131,9 +131,9 @@ Dans des transactions commerciales où le débiteur est un pouvoir public, le cr
 
 Le taux de référence applicable est:
 
-- pour le premier semestre de l’année concernée, le taux de référence en vigueur au 1 er janvier de l’année en question;
+- pour le premier semestre de l’année concernée, le taux de référence en vigueur au 1er janvier de l’année en question;
 
-- pour le second semestre de l’année concernée, le taux de référence en vigueur au 1 er juillet de l’année en question.
+- pour le second semestre de l’année concernée, le taux de référence en vigueur au 1er juillet de l’année en question.
 
 (3)
 

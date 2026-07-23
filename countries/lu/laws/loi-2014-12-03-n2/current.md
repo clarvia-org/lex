@@ -162,7 +162,7 @@ Les organes consultatifs des centres de recherche publics sont:
 
 - le conseil de concertation;
 
-- la délégation du personnel telle que définie au Code du travail .
+- la délégation du personnel telle que définie au Code du travail.
 
 (3)
 
@@ -185,7 +185,7 @@ Il assume les fonctions suivantes:
 
 - il engage et licencie le directeur général et le directeur général adjoint ;
 
-- il engage et licencie les directeurs de département , le directeur administratif et financier, le directeur des systèmes d’information et le directeur des ressources humaines, sur proposition du directeur général;
+- il engage et licencie les directeurs de département, le directeur administratif et financier, le directeur des systèmes d’information et le directeur des ressources humaines, sur proposition du directeur général;
 
 - il arrête le règlement d'ordre intérieur du centre de recherche public;
 
@@ -201,7 +201,7 @@ Il assume les fonctions suivantes:
 
 - il arrête le rapport d'activités;
 
-- il conclut et résilie tout contrat et toute convention et il peut déléguer cette attribution, selon les modalités arrêtées à cette fin par le règlement d’ordre intérieur, au directeur général, à condition que la valeur ne dépasse pas 100 000 euros à la cote 100 de l’indice des prix à la consommation national au 1 er janvier 1948, ainsi qu’au directeur général adjoint, au directeur administratif et financier, au directeur des systèmes d’information, au directeur des ressources humaines et aux directeurs de département, à condition que la valeur ne dépasse pas 50 000 euros à la cote 100 de l’indice des prix à la consommation national au 1 er janvier 1948. Ces délégations sont susceptibles de subdélégation si cette faculté est prévue dans l’acte de délégation qui en fixe les conditions et les limites. Les modalités de ces subdélégations sont fixées dans le règlement d’ordre intérieur ;
+- il conclut et résilie tout contrat et toute convention et il peut déléguer cette attribution, selon les modalités arrêtées à cette fin par le règlement d’ordre intérieur, au directeur général, à condition que la valeur ne dépasse pas 100 000 euros à la cote 100 de l’indice des prix à la consommation national au 1er janvier 1948, ainsi qu’au directeur général adjoint, au directeur administratif et financier, au directeur des systèmes d’information, au directeur des ressources humaines et aux directeurs de département, à condition que la valeur ne dépasse pas 50 000 euros à la cote 100 de l’indice des prix à la consommation national au 1er janvier 1948. Ces délégations sont susceptibles de subdélégation si cette faculté est prévue dans l’acte de délégation qui en fixe les conditions et les limites. Les modalités de ces subdélégations sont fixées dans le règlement d’ordre intérieur ;
 
 - il approuve les acquisitions, aliénations et échanges d'immeubles ainsi que les conditions de baux à contracter;
 

@@ -70,7 +70,7 @@ Aux fins de la présente loi, on entend par :
 
   - une entreprise a la majorité des droits de vote des actionnaires ou associés d’une autre entreprise ;
 
-  - une entreprise a le droit de nommer ou de révoquer la majorité des membres de l’organe d’administration , de direction ou de surveillance d’une autre entreprise ;
+  - une entreprise a le droit de nommer ou de révoquer la majorité des membres de l’organe d’administration, de direction ou de surveillance d’une autre entreprise ;
 
   - une entreprise a le droit d’exercer une influence dominante sur une autre entreprise en vertu d’un contrat conclu avec celle-ci ou en vertu d’une clause des statuts de celle-ci ;
 
@@ -88,7 +88,7 @@ Aux fins de la présente loi, on entend par :
 
 - « transformation de produits agricoles » : toute opération portant sur un produit agricole qui aboutit à un produit qui est aussi un produit agricole, à l’exception des activités réalisées dans l’exploitation agricole qui sont nécessaires à la préparation d’un produit animal ou végétal destiné à la première vente ;
 
-- « travailleur indépendant » : la personne physique qui, soit exerce une des activités économiques visées à l’annexe en son nom propre, soit détient plus de vingt-cinq pour cent des parts d’une société en nom collectif, d’une société en commandite simple ou d’une société à responsabilité limitée exerçant une telle activité, soit est administrateur, commandité ou mandataire et délégué à la gestion journalière d’une société anonyme, d’une société en commandite par actions ou d’une société coopérative exerçant une telle activité et sur laquelle repose l’autorisation d’établissement visée à l’article 1 er .
+- « travailleur indépendant » : la personne physique qui, soit exerce une des activités économiques visées à l’annexe en son nom propre, soit détient plus de vingt-cinq pour cent des parts d’une société en nom collectif, d’une société en commandite simple ou d’une société à responsabilité limitée exerçant une telle activité, soit est administrateur, commandité ou mandataire et délégué à la gestion journalière d’une société anonyme, d’une société en commandite par actions ou d’une société coopérative exerçant une telle activité et sur laquelle repose l’autorisation d’établissement visée à l’article 1er.
 
 <a id="art-3"></a>
 ## Art. 3.
@@ -167,7 +167,7 @@ La demande doit contenir :
 
 - une déclaration attestant le respect de l’article 3, point 4° ;
 
-- une déclaration attestant l’absence de condamnation visée à l’article 1 er , paragraphe 5, et l’absence des causes d’exclusion visées à l’article 1 er , paragraphe 2 ;
+- une déclaration attestant l’absence de condamnation visée à l’article 1er, paragraphe 5, et l’absence des causes d’exclusion visées à l’article 1er, paragraphe 2 ;
 
 - une déclaration, le cas échéant, des autres aides de minimis reçues au cours des deux exercices fiscaux précédents et de l’exercice fiscal en cours.
 
@@ -199,7 +199,7 @@ L’aide octroyée sur base de la présente loi est cumulable avec :
 
 - les avances remboursables prévues par la loi du 3 avril 2020 relative à la mise en place d’un régime d’aides en faveur des entreprises en difficulté financière temporaire et modifiant la loi modifiée du 19 décembre 2014 relative 1) aux mesures sociales au bénéfice des artistes professionnels indépendants et des intermittents du spectacle 2) à la promotion de la création artistique, pour autant que le cumul des deux aides ne dépasse pas le plafond maximal de 800 000 euros par entreprise unique et que les chiffres utilisés sont des montants bruts, signifiant avant impôts ou autres prélèvements ;
 
-- tout autre régime d’aides qui fait l’objet d’une décision de la Commission européenne reposant sur la section 3.1. de la communication n° 2020/C 91 I/01 du 20 mars 2020 de la Commission intitulée « Encadrement temporaire des mesures d’aide d’État visant à soutenir l’économie dans le contexte actuel de la flambée de COVID-19 », à condition que la valeur nominale totale de ces aides reste inférieure au plafond global par entreprise unique fixé dans la section 3.1. de la communication précitée , les chiffres utilisés étant des montants bruts, signifiant avant impôts ou autres prélèvements.
+- tout autre régime d’aides qui fait l’objet d’une décision de la Commission européenne reposant sur la section 3.1. de la communication n° 2020/C 91 I/01 du 20 mars 2020 de la Commission intitulée « Encadrement temporaire des mesures d’aide d’État visant à soutenir l’économie dans le contexte actuel de la flambée de COVID-19 », à condition que la valeur nominale totale de ces aides reste inférieure au plafond global par entreprise unique fixé dans la section 3.1. de la communication précitée, les chiffres utilisés étant des montants bruts, signifiant avant impôts ou autres prélèvements.
 
 - les aides prévues par la loi du 18 avril 2020 visant à mettre en place un régime de garantie en faveur de l’économie luxembourgeoise dans le cadre de la pandémie Covid-19.
 
@@ -266,16 +266,24 @@ Le fonds est dissous de plein droit après la liquidation de l’intégralité d
 
 La loi du 20 décembre 2019 concernant le budget des recettes et des dépenses de l’État pour l’exercice 2020 est modifiée comme suit :
 
-- Après l’article budgétaire 35.6.53.042 sont insérés les articles budgétaires 35.6.93.000 et 35.6.93.001 nouveaux, libellés comme suit : « — 35.6.93.000 — Alimentation du Fonds de relance et de solidarité en faveur des entreprises : Participation étatique (Crédit non limitatif) : 200.000.000 euros ; — 35.6.93.001 — Alimentation du Fonds de relance et de solidarité en faveur des entreprises : Participation de tiers (Crédit non limitatif) : 100 euros ; ».
+- Après l’article budgétaire 35.6.53.042 sont insérés les articles budgétaires 35.6.93.000 et 35.6.93.001 nouveaux, libellés comme suit :
 
-- Après l’article budgétaire 65.3.38.012 est inséré l’article budgétaire 65.3.38.013 nouveau, libellé comme suit : « — 65.3.38.013 — Remboursement d’aides étatiques versés par le Fonds de relance et de solidarité en faveur des entreprises : 100 euros ».
+« — 35.6.93.000 — Alimentation du Fonds de relance et de solidarité en faveur des entreprises : Participation étatique (Crédit non limitatif) : 200.000.000 euros ;
 
-- Après l’article budgétaire 65.8.38.052 est inséré l’article budgétaire 65.8.38.053 nouveau, libellé comme suit : « — 65.8.38.053 — Dons en faveur du Fonds de relance et de solidarité en faveur des entreprises : 100 euros. ».
+— 35.6.93.001 — Alimentation du Fonds de relance et de solidarité en faveur des entreprises : Participation de tiers (Crédit non limitatif) : 100 euros ; ».
+
+- Après l’article budgétaire 65.3.38.012 est inséré l’article budgétaire 65.3.38.013 nouveau, libellé comme suit :
+
+« — 65.3.38.013 — Remboursement d’aides étatiques versés par le Fonds de relance et de solidarité en faveur des entreprises : 100 euros ».
+
+- Après l’article budgétaire 65.8.38.052 est inséré l’article budgétaire 65.8.38.053 nouveau, libellé comme suit :
+
+« — 65.8.38.053 — Dons en faveur du Fonds de relance et de solidarité en faveur des entreprises : 100 euros. ».
 
 <a id="art-13"></a>
 ## Art. 13.
 
-L’article 112, alinéa 1er, point 1, de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu, est complété par un nouveau tiret,libellé comme suit :
+L’article 112, alinéa 1er, point 1, de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu, est complété par un nouveau tiret, libellé comme suit :
 
 - au Fonds de relance et de solidarité ».
 
@@ -284,17 +292,23 @@ L’article 112, alinéa 1er, point 1, de la loi modifiée du 4 décembre 1967 c
 
 La loi du 3 avril 2020 relative à la mise en place d’un régime d’aides en faveur des entreprises en difficulté financière temporaire et modifiant la loi modifiée du 19 décembre 2014 relative 1) aux mesures sociales au bénéfice des artistes professionnels indépendants et des intermittents du spectacle 2) à la promotion de la création artistique est modifiée comme suit :
 
-- L’article 1 er , paragraphe 2, point 5° est remplacé comme suit : les aides en faveur des entreprises qui, au 31 décembre 2019 étaient en difficulté au sens de l’article 2, paragraphe 18, du règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 déclarant certaines catégories d’aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité sont exclues de l’aide prévue à l’article 3. Par dérogation à l’alinéa 1er, point 5°, l’aide prévue à l’article 3 peut être octroyée à des micros ou petites entreprises qui étaient déjà en difficulté au 31 décembre 2019, dès lors que celles-ci ne font pas l’objet d’une procédure collective d’insolvabilité en vertu du droit national qui leur est applicable et n’ont pas bénéficié d’une aide au sauvetage sous forme de prêt non encore remboursée, d’une aide au sauvetage sous forme d’une garantie à laquelle il n’a pas encore été mis fin ou d’une aide à la restructuration dans le cadre d’un plan de restructuration qui est encore en cours. Ces conditions sont appréciées au moment de l’octroi de l’aide. » ;
+- L’article 1er, paragraphe 2, point 5° est remplacé comme suit :
+
+- les aides en faveur des entreprises qui, au 31 décembre 2019 étaient en difficulté au sens de l’article 2, paragraphe 18, du règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 déclarant certaines catégories d’aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité sont exclues de l’aide prévue à l’article 3. Par dérogation à l’alinéa 1er, point 5°, l’aide prévue à l’article 3 peut être octroyée à des micros ou petites entreprises qui étaient déjà en difficulté au 31 décembre 2019, dès lors que celles-ci ne font pas l’objet d’une procédure collective d’insolvabilité en vertu du droit national qui leur est applicable et n’ont pas bénéficié d’une aide au sauvetage sous forme de prêt non encore remboursée, d’une aide au sauvetage sous forme d’une garantie à laquelle il n’a pas encore été mis fin ou d’une aide à la restructuration dans le cadre d’un plan de restructuration qui est encore en cours. Ces conditions sont appréciées au moment de l’octroi de l’aide. » ;
 
 - À l’article 3, paragraphe 3, le chiffre 500.000 est remplacé par le chiffre 800.000 ;
 
-- À l’article 4, alinéa 1 er , première phrase, les mots 15 août sont remplacés par les mots 1er décembre ;
+- À l’article 4, alinéa 1er, première phrase, les mots 15 août sont remplacés par les mots 1er décembre ;
 
 - L’article 5 est modifié comme suit :
 
-  - Au paragraphe 1 er , deuxième phrase, les mots 1er octobre sont remplacés par les mots 31 décembre ;
+  - Au paragraphe 1er, deuxième phrase, les mots 1er octobre sont remplacés par les mots 31 décembre ;
 
-  - Le paragraphe 4 est remplacé comme suit : (4) Toute aide individuelle supérieure à 100 000 euros octroyée sur base de la présente loi est publiée sur le site de transparence de la Commission européenne au plus tard douze mois après son octroi et conformément à l’annexe III du règlement UE n° 651 2014 de la Commission du 17 juin 2014 déclarant certaines catégories d’aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité.
+  - Le paragraphe 4 est remplacé comme suit :
+
+(4)
+
+Toute aide individuelle supérieure à 100 000 euros octroyée sur base de la présente loi est publiée sur le site de transparence de la Commission européenne au plus tard douze mois après son octroi et conformément à l’annexe III du règlement UE n° 651 2014 de la Commission du 17 juin 2014 déclarant certaines catégories d’aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité.
 
 <a id="art-15"></a>
 ## Art. 15.

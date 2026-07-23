@@ -150,7 +150,7 @@ Le greffier inscrit, à la colonne d’observations de la chemise, la date et la
 
 - Les causes jugées définitivement sont rayées du rôle.
 
-- Celles dans lesquelles il a été rendu un arrêt attaquable par la voie de l’opposition y sont maintenues provisoirement. Toutefois, lorsqu’il s’est écoulé plus de sept mois sans qu’il ait été fait mention d’une opposition sur le registre tenu au greffe, conformément à l’article 163 du code de procédure civile , la cause est définitivement rayée du rôle.
+- Celles dans lesquelles il a été rendu un arrêt attaquable par la voie de l’opposition y sont maintenues provisoirement. Toutefois, lorsqu’il s’est écoulé plus de sept mois sans qu’il ait été fait mention d’une opposition sur le registre tenu au greffe, conformément à l’article 163 du code de procédure civile, la cause est définitivement rayée du rôle.
 
 <a id="art-15"></a>
 ## Art. 15.
@@ -344,7 +344,7 @@ Art. 14.
 
 - Les affaires jugées définitivement sont rayées du rôle.
 
-- Celles dans lesquelles il a été rendu un jugement attaquable par la voie de l’opposition y sont maintenues provisoirement. Toutefois, lorsqu’il s’est écoulé plus de sept mois sans qu’il ait été fait mention d’une opposition sur le registre tenu au greffe conformément à l’article 163 du code de procédure civile , l’affaire est définitivement rayée du rôle.
+- Celles dans lesquelles il a été rendu un jugement attaquable par la voie de l’opposition y sont maintenues provisoirement. Toutefois, lorsqu’il s’est écoulé plus de sept mois sans qu’il ait été fait mention d’une opposition sur le registre tenu au greffe conformément à l’article 163 du code de procédure civile, l’affaire est définitivement rayée du rôle.
 
 Art. 15.
 
@@ -534,7 +534,7 @@ Art. 14.
 
 - Les affaires jugées définitivement sont rayées du rôle.
 
-- Celles dans lesquelles il a été rendu un jugement attaquable par la voie de l’opposition y sont maintenues provisoirement. Toutefois, lorsqu’il s’est écoulé plus de sept mois sans qu’il ait été fait mention d’une opposition sur le registre tenu au greffe conformément à l’article 163 du code de procédure civile , l’affaire est définitivement rayée du rôle.
+- Celles dans lesquelles il a été rendu un jugement attaquable par la voie de l’opposition y sont maintenues provisoirement. Toutefois, lorsqu’il s’est écoulé plus de sept mois sans qu’il ait été fait mention d’une opposition sur le registre tenu au greffe conformément à l’article 163 du code de procédure civile, l’affaire est définitivement rayée du rôle.
 
 Art. 15.
 
@@ -636,7 +636,7 @@ Art. 3.
 
 - Les demandes introduites sur requête sont inscrites sur les registres particuliers prévus par les lois spéciales.
 
-- Toutefois, les causes introduites par requête en matière d’ordonnance de paiement sont inscrites au rôle général par les soins du greffe au moment de la formation du contredit, prévu aux articles 54 et suivants du code de procédure civile .
+- Toutefois, les causes introduites par requête en matière d’ordonnance de paiement sont inscrites au rôle général par les soins du greffe au moment de la formation du contredit, prévu aux articles 54 et suivants du code de procédure civile.
 
 Art. 4.
 
@@ -646,7 +646,7 @@ Art. 5.
 
 - Sont toutefois plaidées sans remise et sans tour de rôle:
 
-  - les affaires introduites par citation à bref délai, visées à l’article 6 du code de procédure civile ;
+  - les affaires introduites par citation à bref délai, visées à l’article 6 du code de procédure civile;
 
   - celles relatives à un déclinatoire de compétence ou à la recevabilité de la demande et qui ne tiennent pas au fond;
 
@@ -654,9 +654,9 @@ Art. 5.
 
   - celles qui sont relatives aux voies d’exécution;
 
-  - celles qui ont trait aux pensions alimentaires visées à l’article 4 du titre préliminaire du code de procédure civile ;
+  - celles qui ont trait aux pensions alimentaires visées à l’article 4 du titre préliminaire du code de procédure civile;
 
-  - les demandes en paiement d’indemnité d’occupation et en expulsion des lieux occupés sans droit visées à l’article 3 du titre préliminaire du code de procédure civile ;
+  - les demandes en paiement d’indemnité d’occupation et en expulsion des lieux occupés sans droit visées à l’article 3 du titre préliminaire du code de procédure civile;
 
   - toutes autres affaires de pareille urgence.
 

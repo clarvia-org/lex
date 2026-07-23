@@ -59,7 +59,7 @@ Aux fins de la présente loi, on entend par :
 
   - étudiant : personne inscrite à l’Université en vue d’obtenir un grade de bachelor, de master ou de docteur ou en vue d’obtenir un diplôme d’études spécialisées en médecine et remplissant les conditions d’accès visées à l’article 32 ;
 
-  - auditeur : personne inscrite à l’Université en vue d’obtenir un certificat visé à l’article 31, para­graphe 4 , et remplissant les conditions d’accès visées à l’article 32, paragraphe 5 ;
+  - auditeur : personne inscrite à l’Université en vue d’obtenir un certificat visé à l’article 31, para­graphe 4, et remplissant les conditions d’accès visées à l’article 32, paragraphe 5 ;
 
   - auditeur libre : personne autorisée, sur décision du doyen de la faculté concernée, à suivre certains enseignements sans pour autant être autorisée à se présenter à un examen menant à la validation de crédits ECTS.
 
@@ -187,9 +187,9 @@ Le conseil de gouvernance exerce les attributions suivantes :
 
 - il arrête les descriptions de postes et les profils des professeurs à recruter ;
 
-- il engage et licencie le directeur administratif et financier et les professeurs ordinaires. Il peut déléguer l’engagement des professeurs ordinaires recrutés selon les dispositions de l’article 25, paragraphe 1 er , au recteur selon les modalités arrêtées à cette fin par le règlement d’ordre intérieur ;
+- il engage et licencie le directeur administratif et financier et les professeurs ordinaires. Il peut déléguer l’engagement des professeurs ordinaires recrutés selon les dispositions de l’article 25, paragraphe 1er, au recteur selon les modalités arrêtées à cette fin par le règlement d’ordre intérieur ;
 
-- il conclut et résilie tout contrat et toute convention et il peut déléguer cette attribution, selon les modalités arrêtées à cette fin par le règlement d’ordre intérieur, au recteur, à condition que la valeur ne dépasse pas cent mille euros à la cote 100 de l’indice des prix à la consommation national au 1 er janvier 1948, ainsi qu’aux vice-recteurs, au directeur administratif et financier, aux doyens et aux directeurs des centres interdisciplinaires, à condition que la valeur ne dépasse pas cinquante mille euros à la cote 100 de l’indice des prix à la consommation national au 1 er janvier 1948. Ces délégations ne sont susceptibles de subdélégation que si cette faculté est prévue dans l’acte de délégation qui en fixe les conditions et les limites ;
+- il conclut et résilie tout contrat et toute convention et il peut déléguer cette attribution, selon les modalités arrêtées à cette fin par le règlement d’ordre intérieur, au recteur, à condition que la valeur ne dépasse pas cent mille euros à la cote 100 de l’indice des prix à la consommation national au 1er janvier 1948, ainsi qu’aux vice-recteurs, au directeur administratif et financier, aux doyens et aux directeurs des centres interdisciplinaires, à condition que la valeur ne dépasse pas cinquante mille euros à la cote 100 de l’indice des prix à la consommation national au 1er janvier 1948. Ces délégations ne sont susceptibles de subdélégation que si cette faculté est prévue dans l’acte de délégation qui en fixe les conditions et les limites ;
 
 - il saisit le rectorat de toutes les questions concernant la gestion et le développement de l’Université ;
 
@@ -345,9 +345,9 @@ Le recteur exerce les attributions suivantes :
 
 - il élabore les descriptions de poste et les profils des professeurs, engage et licencie les professeurs dans le cadre des procédures de recrutement et de promotion, à l’exception des professeurs ordinaires ;
 
-- il conclut et résilie tout contrat et toute convention dans les limites des compétences lui déléguées à cet effet aux termes de l’article 5, paragraphe 1 er , point 15° ;
+- il conclut et résilie tout contrat et toute convention dans les limites des compétences lui déléguées à cet effet aux termes de l’article 5, paragraphe 1er, point 15° ;
 
-- il nomme les membres des commissions d’évaluation visées à l’article 21, paragraphe 2, et à l’article 25, paragraphes 3, 4 et 5, et des commissions de recrutement visées à l’article 25, para­graphe 1 er , et en désigne le président ;
+- il nomme les membres des commissions d’évaluation visées à l’article 21, paragraphe 2, et à l’article 25, paragraphes 3, 4 et 5, et des commissions de recrutement visées à l’article 25, para­graphe 1er, et en désigne le président ;
 
 - il propose la création, le maintien et la suppression de facultés, de centres interdisciplinaires, de leurs départements et des écoles doctorales, ainsi que de programmes d’études conformément aux orientations arrêtées par le conseil universitaire ;
 
@@ -1063,7 +1063,7 @@ Par dérogation aux dispositions de l’article 32, une validation des acquis de
 
 Pour l’accès aux études menant au grade de bachelor, peuvent être pris en compte :
 
-- les études d’enseignement secondaire, d’enseignement secondaire technique, d’enseignement secondaire classique, d’enseignement secondaire général ou de formation pro­fessionnelle, désignées ci-après par « études d’enseignement secondaire », suivies par le candidat et ne répondant pas aux conditions visées à l’article 32, paragraphe 1 er ;
+- les études d’enseignement secondaire, d’enseignement secondaire technique, d’enseignement secondaire classique, d’enseignement secondaire général ou de formation pro­fessionnelle, désignées ci-après par « études d’enseignement secondaire », suivies par le candidat et ne répondant pas aux conditions visées à l’article 32, paragraphe 1er ;
 
 - les études d’enseignement supérieur antérieurement suivies par le candidat ;
 
@@ -1175,7 +1175,7 @@ Pour chaque programme d’études, le directeur de programme définit les élém
 
   - des éléments de travail, de participation ou de présence qui ne font pas l’objet d’une évaluation débouchant sur une note mais dont la réalisation est nécessaire en vue de la validation d’un cours ou d’un module ;
 
-  - des cours fondamentaux faisant partie du plan d’études des deux premiers semestres d’un pro­gramme d’études et pour lesquels l’étudiant doit avoir obtenu, sous peine d’exclusion dudit programme d’études, une note finale supérieure ou égale à 10 points au terme du quatrième semestre, étant entendu que, par dérogation à l’article 36, paragraphe 1 er , alinéa 2, il ne peut se soumettre que deux fois aux modalités d’évaluation prévues ;
+  - des cours fondamentaux faisant partie du plan d’études des deux premiers semestres d’un pro­gramme d’études et pour lesquels l’étudiant doit avoir obtenu, sous peine d’exclusion dudit programme d’études, une note finale supérieure ou égale à 10 points au terme du quatrième semestre, étant entendu que, par dérogation à l’article 36, paragraphe 1er, alinéa 2, il ne peut se soumettre que deux fois aux modalités d’évaluation prévues ;
 
   - des cours consécutifs dont le premier doit avoir été validé avec une note supérieure ou égale à 10 points avant que l’étudiant ne puisse s’inscrire au second cours ;
 
@@ -1871,7 +1871,7 @@ Le « Centre de gestion pour la formation continue et professionnelle universita
 
 - d’étudier et d’analyser, à la demande du ministre ou de l’Université, toute question ayant trait à la formation continue et professionnelle universitaire ;
 
-- de collaborer pour l’exercice des missions visées aux points 1 ° à 4 ° susvisés avec d’autres organismes de formation continue et professionnelle universitaire.
+- de collaborer pour l’exercice des missions visées aux points 1° à 4° susvisés avec d’autres organismes de formation continue et professionnelle universitaire.
 
 Les modalités et les moyens de mise en œuvre des missions du Centre définies à l’alinéa 1er sont réglés par voie de conventions entre l’Université, l’État et le Centre, à approuver par le Gouvernement en conseil.
 

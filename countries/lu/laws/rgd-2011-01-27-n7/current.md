@@ -59,21 +59,21 @@ Sont exonérées de la taxe sur la valeur ajoutée en application de l’article
 
 -
 
-  - Les importations par des personnes physiques, à l’occasion du transfert de leur résidence normale, de biens personnels leur appartenant [articles 3 à 11 du règlement (CE) n° 1186/2009 ]. L’exonération est subordonnée à la condition que les biens aient supporté, soit dans le pays d’origine, soit dans le pays de provenance, les charges fiscales dont ils sont normalement passibles. Sont exclus de l’exonération, les véhicules à usage mixte effectivement utilisés à des fins commerciales ou professionnelles;
+  - Les importations par des personnes physiques, à l’occasion du transfert de leur résidence normale, de biens personnels leur appartenant [articles 3 à 11 du règlement (CE) n° 1186/2009]. L’exonération est subordonnée à la condition que les biens aient supporté, soit dans le pays d’origine, soit dans le pays de provenance, les charges fiscales dont ils sont normalement passibles. Sont exclus de l’exonération, les véhicules à usage mixte effectivement utilisés à des fins commerciales ou professionnelles;
 
   -
 
-    - Les importations de trousseaux et d’objets mobiliers même neufs, appartenant à une personne qui transfère sa résidence normale sur le territoire de la Communauté à l’occasion de son mariage [articles 12, paragraphe 1, et 13 à 16 du règlement (CE) n° 1186/2009 ]. L’exonération est subordonnée à la condition que les biens aient supporté, soit dans le pays d’origine, soit dans le pays de provenance, les charges fiscales dont ils sont normalement passibles;
+    - Les importations de trousseaux et d’objets mobiliers même neufs, appartenant à une personne qui transfère sa résidence normale sur le territoire de la Communauté à l’occasion de son mariage [articles 12, paragraphe 1, et 13 à 16 du règlement (CE) n° 1186/2009]. L’exonération est subordonnée à la condition que les biens aient supporté, soit dans le pays d’origine, soit dans le pays de provenance, les charges fiscales dont ils sont normalement passibles;
 
-    - Les importations de cadeaux habituellement offerts à l’occasion d’un mariage, qui sont reçus par une personne répondant aux conditions prévues au premier tiret, premier alinéa, de la part de personnes ayant leur résidence normale en dehors de la Communauté, pour autant que la valeur de chaque cadeau admis en exonération n’excède pas 1.000 euros [articles 12, paragraphe 2, et 13 à 16 du règlement (CE) n° 1186/2009 ];
+    - Les importations de cadeaux habituellement offerts à l’occasion d’un mariage, qui sont reçus par une personne répondant aux conditions prévues au premier tiret, premier alinéa, de la part de personnes ayant leur résidence normale en dehors de la Communauté, pour autant que la valeur de chaque cadeau admis en exonération n’excède pas 1.000 euros [articles 12, paragraphe 2, et 13 à 16 du règlement (CE) n° 1186/2009];
 
-  - les importations de biens personnels recueillis dans le cadre d’une succession [articles 17 à 20 du règlement (CE) n° 1186/2009 ];
+  - les importations de biens personnels recueillis dans le cadre d’une succession [articles 17 à 20 du règlement (CE) n° 1186/2009];
 
-- Les importations de trousseaux, requis d’études et objets mobiliers usagés constituant l’ameublement normal d’une chambre d’étudiant appartenant aux élèves et étudiants venant séjourner dans la Communauté en vue d’y effectuer des études et destinés à leur usage personnel pendant la durée de leurs études [articles 21 et 22 du règlement (CE) n° 1186/2009 ];
+- Les importations de trousseaux, requis d’études et objets mobiliers usagés constituant l’ameublement normal d’une chambre d’étudiant appartenant aux élèves et étudiants venant séjourner dans la Communauté en vue d’y effectuer des études et destinés à leur usage personnel pendant la durée de leurs études [articles 21 et 22 du règlement (CE) n° 1186/2009];
 
 - Les importations de biens autres que ceux énumérés à l’article 24 du règlement (CE) no 1186/2009 [articles 23 et 24 du règlement (CE) n° 1186/2009], dont la valeur globale n’excède pas 22 euros;
 
-- Les importations de biens faisant l’objet de petits envois adressés de particulier à particulier [articles 25 à 27 du règlement (CE) n° 1186/2009 ], pour autant que: Outre les marchandises énumérées à l’article 27 du règlement (CE) no 1186/2009, bénéficient également de l’exonération dans les limites suivantes: En cas de dépassement desdits seuils et limites quantitatives, les biens importés sont exclus en totalité du bénéfice de l’exonération;
+- Les importations de biens faisant l’objet de petits envois adressés de particulier à particulier [articles 25 à 27 du règlement (CE) n° 1186/2009], pour autant que: Outre les marchandises énumérées à l’article 27 du règlement (CE) no 1186/2009, bénéficient également de l’exonération dans les limites suivantes: En cas de dépassement desdits seuils et limites quantitatives, les biens importés sont exclus en totalité du bénéfice de l’exonération;
 
   - la valeur globale par envoi ne dépasse pas 45 euros;
 
@@ -85,67 +85,67 @@ Sont exonérées de la taxe sur la valeur ajoutée en application de l’article
 
 - Les importations des biens suivants:
 
-  - animaux de laboratoire et substances biologiques ou chimiques destinés à la recherche [article 53 du règlement (CE) n° 1186/2009 ];
+  - animaux de laboratoire et substances biologiques ou chimiques destinés à la recherche [article 53 du règlement (CE) n° 1186/2009];
 
-  - substances thérapeutiques d’origine humaine et réactifs pour la détermination des groupes sanguins et tissulaires [articles 54 à 56 du règlement (CE) n° 1186/2009] ;
+  - substances thérapeutiques d’origine humaine et réactifs pour la détermination des groupes sanguins et tissulaires [articles 54 à 56 du règlement (CE) n° 1186/2009];
 
-  - substances de référence pour le contrôle de la qualité des médicaments [article 59 du règlement (CE) n° 1186/2009 ];
+  - substances de référence pour le contrôle de la qualité des médicaments [article 59 du règlement (CE) n° 1186/2009];
 
-  - produits pharmaceutiques utilisés à l’occasion de manifestations sportives internationales [article 60 du règlement (CE) n° 1186/2009 ];
+  - produits pharmaceutiques utilisés à l’occasion de manifestations sportives internationales [article 60 du règlement (CE) n° 1186/2009];
 
 -
 
-  - Les importations de biens adressés à des organismes à caractère charitable ou philanthropique pour la réalisation d’objectifs généraux [articles 61 à 65 du règlement (CE) n° 1186/2009 ];
+  - Les importations de biens adressés à des organismes à caractère charitable ou philanthropique pour la réalisation d’objectifs généraux [articles 61 à 65 du règlement (CE) n° 1186/2009];
 
-  - Les importations de biens spécialement conçus pour l’éducation, l’emploi ou la promotion sociale des aveugles et des autres personnes physiquement ou mentalement handicapées [articles 66 à 73 du règlement (CE) n° 1186/2009 ], lorsque ces biens sont:
+  - Les importations de biens spécialement conçus pour l’éducation, l’emploi ou la promotion sociale des aveugles et des autres personnes physiquement ou mentalement handicapées [articles 66 à 73 du règlement (CE) n° 1186/2009], lorsque ces biens sont:
 
     - importés par des institutions ou organisations ayant pour activité principale l’éducation des personnes handicapées ou l’assistance à ces personnes et qui sont agréées pour recevoir ces objets en exonération; et
 
     - adressés à titre gratuit et sans aucune intention d’ordre commercial de la part du donateur à une telle institution ou organisation;
 
-  - Les importations de biens, au profit des victimes de catastrophes, par des organismes d’État ou par d’autres organismes à caractère charitable ou philanthropique agréés [articles 74 à 80 du règlement (CE) n° 1186/2009 ];
+  - Les importations de biens, au profit des victimes de catastrophes, par des organismes d’État ou par d’autres organismes à caractère charitable ou philanthropique agréés [articles 74 à 80 du règlement (CE) n° 1186/2009];
 
 - Les importations réalisées dans le cadre de certaines relations internationales et portant sur:
 
-  - des décorations et récompenses décernées à titre honorifique [article 81 du règlement (CE) n° 1186/2009 ];
+  - des décorations et récompenses décernées à titre honorifique [article 81 du règlement (CE) n° 1186/2009];
 
-  - des cadeaux reçus dans le cadre des relations internationales [articles 82 à 84 du règlement (CE) n° 1186/2009 ];
+  - des cadeaux reçus dans le cadre des relations internationales [articles 82 à 84 du règlement (CE) n° 1186/2009];
 
-  - des biens destinés à l’usage des souverains et des chefs d’État [article 85 du règlement (CE) n° 1186/2009 ]. L’exonération s’étend aux dons reçus par les membres de la famille grand-ducale;
+  - des biens destinés à l’usage des souverains et des chefs d’État [article 85 du règlement (CE) n° 1186/2009]. L’exonération s’étend aux dons reçus par les membres de la famille grand-ducale;
 
 - Les importations de biens à des fins de prospection commerciale, à savoir
 
-  - les échantillons de valeur négligeable et servant à la recherche de commandes concernant des marchandises de l’espèce qu’ils représentent [article 86 du règlement (CE) n° 1186/2009 ];
+  - les échantillons de valeur négligeable et servant à la recherche de commandes concernant des marchandises de l’espèce qu’ils représentent [article 86 du règlement (CE) n° 1186/2009];
 
-  - les imprimés et objets à caractère publicitaire [articles 87 à 89 du règlement (CE) n° 1186/2009 ];
+  - les imprimés et objets à caractère publicitaire [articles 87 à 89 du règlement (CE) n° 1186/2009];
 
-  - les biens utilisés ou consommés lors d’une exposition ou d’une manifestation similaire [articles 90 à 94 du règlement (CE) n° 1186/2009 ];
+  - les biens utilisés ou consommés lors d’une exposition ou d’une manifestation similaire [articles 90 à 94 du règlement (CE) n° 1186/2009];
 
-- Les importations de biens pour examens, analyses ou essais [articles 95 à 101 du règlement (CE) n° 1186/2009 ];
+- Les importations de biens pour examens, analyses ou essais [articles 95 à 101 du règlement (CE) n° 1186/2009];
 
 - Diverses autres importations portant sur
 
-  - des envois destinés aux organismes compétents en matière de protection des droits d’auteur ou de la propriété industrielle ou commerciale [article 102 du règlement (CE) n° 1186/2009 ];
+  - des envois destinés aux organismes compétents en matière de protection des droits d’auteur ou de la propriété industrielle ou commerciale [article 102 du règlement (CE) n° 1186/2009];
 
-  - de la documentation à caractère touristique [article 103 du règlement (CE) n° 1186/2009 ]. Cette exonération s’étend à l’importation des documents contenant de la publicité commerciale privée en faveur d’entreprises communautaires;
+  - de la documentation à caractère touristique [article 103 du règlement (CE) n° 1186/2009]. Cette exonération s’étend à l’importation des documents contenant de la publicité commerciale privée en faveur d’entreprises communautaires;
 
   - des documents et articles divers énumérés à l’article 104, points a) à p) du règlement (CE) n° 1186/2009 ainsi que:
 
-    - les articles visés à l’annexe II, point A du règlement (CE) n° 1186/2009 , quel que soit l’usage auquel ils sont destinés, produits par l’Organisation des Nations Unies ou l’une de ses institutions spécialisées;
+    - les articles visés à l’annexe II, point A du règlement (CE) n° 1186/2009, quel que soit l’usage auquel ils sont destinés, produits par l’Organisation des Nations Unies ou l’une de ses institutions spécialisées;
 
     - les objets de collection et objets d’art de caractère éducatif, scientifique ou culturel, non destinés à la vente et importés par des musées, des galeries et autres établissements agréés par les autorités compétentes des États membres pour recevoir ces objets en exonération, dans la mesure où les objets sont importés à titre gratuit ou, au cas où ils sont importés à titre onéreux, ils ne sont pas livrés par un assujetti;
 
     - les importations des publications officielles constituant le moyen d’expression de l’autorité publique du pays ou territoire d’exportation, des organismes internationaux, des collectivités publiques et organismes de droit public, établis dans le pays ou territoire d’exportation, ainsi que des imprimés diffusés à l’occasion des élections au Parlement européen, ou à l’occasion d’élections nationales organisées à partir du pays d’origine, par les organisations politiques étrangères officiellement reconnues comme telles dans les États membres, pour autant que ces publications et imprimés aient été soumis à la taxe dans le pays ou territoire d’exportation et n’aient pas fait l’objet de détaxation à l’exportation;
 
-  - des matériaux accessoires d’arrimage et de protection des marchandises au cours de leur transport [article 105 du règlement (CE) n° 1186/2009 ]. L’exonération est subordonnée à la condition que leur contrepartie soit incluse dans la base d’imposition à l’importation telle que définie à l’article 34 de la loi modifiée du 12 février 1979 concernant la taxe sur la valeur ajoutée;
+  - des matériaux accessoires d’arrimage et de protection des marchandises au cours de leur transport [article 105 du règlement (CE) n° 1186/2009]. L’exonération est subordonnée à la condition que leur contrepartie soit incluse dans la base d’imposition à l’importation telle que définie à l’article 34 de la loi modifiée du 12 février 1979 concernant la taxe sur la valeur ajoutée;
 
-  - des litières, fourrages et aliments destinés aux animaux au cours de leur transport [article 106 du règlement (CE) n° 1186/2009 ];
+  - des litières, fourrages et aliments destinés aux animaux au cours de leur transport [article 106 du règlement (CE) n° 1186/2009];
 
-  - des carburants et lubrifiants à bord des véhicules à moteur terrestres et dans les conteneurs à usages spéciaux [articles 107 à 111 du règlement (CE) n° 1186/2009 ];
+  - des carburants et lubrifiants à bord des véhicules à moteur terrestres et dans les conteneurs à usages spéciaux [articles 107 à 111 du règlement (CE) n° 1186/2009];
 
-  - des biens destinés à la construction, l’entretien ou la décoration de monuments commémoratifs ou de cimetières de victimes de guerre [article 112 du règlement (CE) n° 1186/2009 ];
+  - des biens destinés à la construction, l’entretien ou la décoration de monuments commémoratifs ou de cimetières de victimes de guerre [article 112 du règlement (CE) n° 1186/2009];
 
-  - des cercueils, urnes funéraires et objets d’ornement funéraire [article 113 du règlement (CE) n° 1186/2009 ].
+  - des cercueils, urnes funéraires et objets d’ornement funéraire [article 113 du règlement (CE) n° 1186/2009].
 
 - Les importations des produits d’avitaillement de bateaux, aéronefs et trains internationaux suivants:
 

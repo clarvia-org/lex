@@ -127,7 +127,7 @@ Le procureur d’État et la Police grand-ducale ne communiquent des information
 
 - visés à l’article 563, point 3°, du Code pénal relatif aux voies de fait et violences légères ;
 
-- ayant motivé une procédure d’expulsion sur base de l’article I er de la loi modifiée du 8 septembre 2003 sur la violence domestique.
+- ayant motivé une procédure d’expulsion sur base de l’article Ier de la loi modifiée du 8 septembre 2003 sur la violence domestique.
 
 L’alinéa 1er ne s’applique pas aux faits qui, bien que relevant des points 1° et 2°, ont fait l’objet d’un acquittement, d’une réhabilitation judiciaire ou légale, ou sont prescrits.
 

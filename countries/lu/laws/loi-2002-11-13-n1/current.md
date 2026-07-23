@@ -48,7 +48,7 @@ La présente loi règle l’exercice permanent au Grand-Duché de Luxembourg de 
 
 - en Estonie: Vandeadvokaat,
 
-- en Grèce: Δικηγόρος ,
+- en Grèce: Δικηγόρος,
 
 - en Espagne: Abogado/Advocat/Avogado/Abokatu,
 
@@ -58,7 +58,7 @@ La présente loi règle l’exercice permanent au Grand-Duché de Luxembourg de 
 
 - en Italie: Avvocato,
 
-- à Chypre: Δικηγόρος ,
+- à Chypre: Δικηγόρος,
 
 - en Lettonie: Zvērināts advokāts,
 
@@ -309,7 +309,7 @@ La loi modifiée du 10 août 1991 sur la profession d'avocat est modifiée comme
 
 - Il est ajouté à l'article 6 (1) un point d) libellé comme suit: maîtriser la langue de la législation et les langues administratives et judiciaires au sens de la loi du 24 février 1984 sur le régime des langues.
 
-- A l'article 8 (3), 1 ère ligne, le mot «trois» est remplacé par le mot «quatre».
+- A l'article 8 (3), 1ère ligne, le mot «trois» est remplacé par le mot «quatre».
 
 - Il est ajouté à l'article 8 (3) un point 4, libellé comme suit: La liste IV des avocats exerçant sous leur titre professionnel d'origine
 
@@ -325,7 +325,7 @@ La loi modifiée du 10 août 1991 sur la profession d'avocat est modifiée comme
 
 - La première phrase du paragraphe (2) de l'article 28 est modifié comme suit: Il est créé à ces fins un Conseil disciplinaire et administratif d'appel composé de deux magistrats de la Cour d'appel et de trois assesseurs-avocats inscrits sur la liste I du tableau des avocats.
 
-- Le 3 ème alinéa de l'article 28 (2) est modifié comme suit: Les assesseurs-avocats et leurs suppléants sont nommés par arrêté grand-ducal pour une durée de deux ans. Ils sont choisis sur une liste de cinq avocats à la Cour inscrits sur la liste I du tableau des avocats depuis cinq ans au moins présentée par chaque Conseil de l'Ordre pour chaque fonction.
+- Le 3ème alinéa de l'article 28 (2) est modifié comme suit: Les assesseurs-avocats et leurs suppléants sont nommés par arrêté grand-ducal pour une durée de deux ans. Ils sont choisis sur une liste de cinq avocats à la Cour inscrits sur la liste I du tableau des avocats depuis cinq ans au moins présentée par chaque Conseil de l'Ordre pour chaque fonction.
 
 - Il est ajouté à l'article 28 (2) un 6ème alinéa libellé comme suit: Le Conseil disciplinaire et administratif d'appel est présidé par le magistrat le plus ancien en rang.
 

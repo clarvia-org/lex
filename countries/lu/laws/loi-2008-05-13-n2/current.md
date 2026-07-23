@@ -263,7 +263,7 @@ Il est constitué un conseil scientifique, composé de:
 
 - un membre du comité des parents;
 
-- deux membres du personnel enseignant-chercheur ou du personnel scientifique de l'institution universitaire visée à l'article 1 er intervenant à l'Ecole, désignés par l'institution universitaire;
+- deux membres du personnel enseignant-chercheur ou du personnel scientifique de l'institution universitaire visée à l'article 1er intervenant à l'Ecole, désignés par l'institution universitaire;
 
 - un représentant du Ministère désigné par le ou la ministre.
 

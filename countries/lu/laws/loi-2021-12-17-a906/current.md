@@ -94,9 +94,9 @@ La loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu est mod
 
 À l’article 99, les numéros 4 et 5 sont remplacés comme suit :
 
-- le remboursement sous forme de capital ou sous forme de retraits annuels en exécution d’un contrat individuel de prévoyance-vieillesse, tel que visé à l’article 111 bis , alinéa 2, ou à l’article 111 ter , alinéa 2, ainsi que la restitution de l’épargne accumulée, telle que prévue à l’article 111 bis , alinéa 4, ou à l’article 111 ter , alinéa 4. Est également visé le remboursement anticipé de l’épargne accumulée de pareil contrat, pour des raisons d’invalidité ou de maladie grave, tel que visé à l’article 111 bis , alinéa 6, ou à l’article 111 ter , alinéa 6 ;
+- le remboursement sous forme de capital ou sous forme de retraits annuels en exécution d’un contrat individuel de prévoyance-vieillesse, tel que visé à l’article 111bis, alinéa 2, ou à l’article 111ter, alinéa 2, ainsi que la restitution de l’épargne accumulée, telle que prévue à l’article 111bis, alinéa 4, ou à l’article 111ter, alinéa 4. Est également visé le remboursement anticipé de l’épargne accumulée de pareil contrat, pour des raisons d’invalidité ou de maladie grave, tel que visé à l’article 111bis, alinéa 6, ou à l’article 111ter, alinéa 6 ;
 
-- le remboursement anticipé de l’épargne accumulée ainsi que le capital constitutif de la rente viagère payée de manière anticipative qui deviennent imposables par application de l’article 111 bis , alinéa 6, ou de l’article 111 ter , alinéa 6. ».
+- le remboursement anticipé de l’épargne accumulée ainsi que le capital constitutif de la rente viagère payée de manière anticipative qui deviennent imposables par application de l’article 111bis, alinéa 6, ou de l’article 111ter, alinéa 6. ».
 
 (4)
 
@@ -235,13 +235,21 @@ Le fournisseur de PEPP remet au souscripteur un document attestant le respect de
 
 L’article 115 est modifié comme suit :
 
-- Il est inséré un numéro 2a nouveau libellé comme suit : « 2a. les indemnités allouées par les institutions, organes et organismes, créés par le Traité sur l’Union européenne, le Traité sur le fonctionnement de l’Union européenne ou le Traité instituant la Communauté européenne de l’énergie atomique, ou créés en vertu de ces traités, aux experts nationaux qui y sont détachés, en raison des dépenses qui sont imposées à ces experts par leur charge, telles que les indemnités de séjour journalières et les indemnités de séjour mensuelles ; ».
+- Il est inséré un numéro 2a nouveau libellé comme suit :
 
-- Au numéro 14a, la première phrase est remplacée comme suit : « une tranche de 50% du montant des rentes viagères mensuelles résultant d’un contrat individuel de prévoyance-vieillesse et visées à l’article 111bis, alinéa 2, ou à l’article 111ter, alinéa 2. ».
+« 2a. les indemnités allouées par les institutions, organes et organismes, créés par le Traité sur l’Union européenne, le Traité sur le fonctionnement de l’Union européenne ou le Traité instituant la Communauté européenne de l’énergie atomique, ou créés en vertu de ces traités, aux experts nationaux qui y sont détachés, en raison des dépenses qui sont imposées à ces experts par leur charge, telles que les indemnités de séjour journalières et les indemnités de séjour mensuelles ; ».
 
-- Au numéro 15, la dernière phrase est remplacée par la phrase suivante : « Toutefois, les intérêts ne bénéficient de l’exonération que si les avoirs du compte d’épargne-logement sont affectés au financement de la construction, de l’acquisition, de l’entretien, de la réparation ou de la transformation d’un appartement ou d’une maison utilisés par le propriétaire pour ses besoins personnels d’habitation, y compris le prix du terrain, ainsi qu’au financement d’une installation solaire photovoltaïque ou thermique intégrée à un tel appartement ou à une telle maison et du remboursement d’obligations contractées aux mêmes fins. ».
+- Au numéro 14a, la première phrase est remplacée comme suit :
 
-- Au numéro 17, la deuxième phrase est remplacée comme suit : « Ne sont pas visés par l’exemption, le capital et la valeur de rachat touchés en vertu d’un contrat individuel de prévoyance-vieillesse visé à l’article 111bis ou à l’article 111ter. ».
+« une tranche de 50% du montant des rentes viagères mensuelles résultant d’un contrat individuel de prévoyance-vieillesse et visées à l’article 111bis, alinéa 2, ou à l’article 111ter, alinéa 2. ».
+
+- Au numéro 15, la dernière phrase est remplacée par la phrase suivante :
+
+« Toutefois, les intérêts ne bénéficient de l’exonération que si les avoirs du compte d’épargne-logement sont affectés au financement de la construction, de l’acquisition, de l’entretien, de la réparation ou de la transformation d’un appartement ou d’une maison utilisés par le propriétaire pour ses besoins personnels d’habitation, y compris le prix du terrain, ainsi qu’au financement d’une installation solaire photovoltaïque ou thermique intégrée à un tel appartement ou à une telle maison et du remboursement d’obligations contractées aux mêmes fins. ».
+
+- Au numéro 17, la deuxième phrase est remplacée comme suit :
+
+« Ne sont pas visés par l’exemption, le capital et la valeur de rachat touchés en vertu d’un contrat individuel de prévoyance-vieillesse visé à l’article 111bis ou à l’article 111ter. ».
 
 (11)
 
@@ -302,9 +310,27 @@ Modification de la loi modifiée du 16 octobre 1934 concernant l’évaluation d
 
 La loi modifiée du 16 octobre 1934 concernant l’évaluation des biens et valeurs (« Bewertungsgesetz ») est modifiée comme suit :
 
-- Le paragraphe 22 est remplacé comme suit : « § 22 : fixation nouvelle (1) Il est procédé à une fixation nouvelle de la valeur unitaire : en ce qui concerne les exploitations agricoles et forestières, les fonds et les immeubles d’exploitation, si la valeur unitaire constatée au début d’une année civile varie ou bien de plus de un vingtième, ou bien de plus de 5 000 euros de la valeur unitaire fixée en dernier lieu ; toutefois il ne sera pas tenu compte d’une variation de plus de un vingtième, lorsque son montant sera inférieur à 25 euros ; en ce qui concerne les droits d’exploitation, si la valeur unitaire constatée au début d’une année civile varie ou bien de plus de un cinquième, ou bien de plus de 50 000 euros de la valeur unitaire fixée en dernier lieu ; toutefois il ne sera pas tenu compte d’une variation de plus de un cinquième, lorsque son montant sera inférieur à 2 500 euros. (2) Le bureau d’imposition procède à une fixation nouvelle au moment où il obtient connaissance que les conditions d’une telle fixation sont remplies. Dans les cas visés à l’alinéa 1er et dans les autres cas de fixation nouvelle visés par le paragraphe 225a, alinéa 1er, numéro 2 de la loi générale des impôts modifiée du 22 mai 1931 (« Abgabenordnung »), la fixation est à établir sur base de la situation existant au début de l’année de calendrier qui suit celle au cours de laquelle le changement est intervenu (date-clé de fixation nouvelle). Les dispositions du paragraphe 32, alinéa 2 et du paragraphe 63 sur la prise en considération d’une date-clé de fixation différente restent inchangées. (3) Dans les cas visés à l’alinéa 2, une fixation nouvelle est également établie en vue de redresser une fixation antérieure erronée. Par dérogation à l’alinéa 2, la date-clé de fixation d’un redressement pour fixation antérieure erronée est le début de l’année civile au cours de laquelle le nouveau bulletin de fixation de la valeur unitaire est émis. ».
+- Le paragraphe 22 est remplacé comme suit :
 
-- Le paragraphe 2a BewDV (Wertgrenzen bei der Fortschreibung) de l’ ordonnance d’exécution du 2 février 1935 relative à la loi sur l’évaluation des biens et valeurs – Durchführungsverordnung zum Bewertungsgesetz et l’ arrêté ministériel du 28 décembre 1959 relatif à la modification de certaines limites valables en matière d’évaluation unitaire sont abrogés.
+« § 22 : fixation nouvelle
+
+(1)
+
+Il est procédé à une fixation nouvelle de la valeur unitaire :
+
+- en ce qui concerne les exploitations agricoles et forestières, les fonds et les immeubles d’exploitation, si la valeur unitaire constatée au début d’une année civile varie ou bien de plus de un vingtième, ou bien de plus de 5 000 euros de la valeur unitaire fixée en dernier lieu ; toutefois il ne sera pas tenu compte d’une variation de plus de un vingtième, lorsque son montant sera inférieur à 25 euros ;
+
+- en ce qui concerne les droits d’exploitation, si la valeur unitaire constatée au début d’une année civile varie ou bien de plus de un cinquième, ou bien de plus de 50 000 euros de la valeur unitaire fixée en dernier lieu ; toutefois il ne sera pas tenu compte d’une variation de plus de un cinquième, lorsque son montant sera inférieur à 2 500 euros.
+
+(2)
+
+Le bureau d’imposition procède à une fixation nouvelle au moment où il obtient connaissance que les conditions d’une telle fixation sont remplies. Dans les cas visés à l’alinéa 1er et dans les autres cas de fixation nouvelle visés par le paragraphe 225a, alinéa 1er, numéro 2 de la loi générale des impôts modifiée du 22 mai 1931 (« Abgabenordnung »), la fixation est à établir sur base de la situation existant au début de l’année de calendrier qui suit celle au cours de laquelle le changement est intervenu (date-clé de fixation nouvelle). Les dispositions du paragraphe 32, alinéa 2 et du paragraphe 63 sur la prise en considération d’une date-clé de fixation différente restent inchangées.
+
+(3)
+
+Dans les cas visés à l’alinéa 2, une fixation nouvelle est également établie en vue de redresser une fixation antérieure erronée. Par dérogation à l’alinéa 2, la date-clé de fixation d’un redressement pour fixation antérieure erronée est le début de l’année civile au cours de laquelle le nouveau bulletin de fixation de la valeur unitaire est émis. ».
+
+- Le paragraphe 2a BewDV (Wertgrenzen bei der Fortschreibung) de l’ordonnance d’exécution du 2 février 1935 relative à la loi sur l’évaluation des biens et valeurs – Durchführungsverordnung zum Bewertungsgesetz et l’arrêté ministériel du 28 décembre 1959 relatif à la modification de certaines limites valables en matière d’évaluation unitaire sont abrogés.
 
 - À l’annexe figurant au paragraphe 60, alinéa 4, la lettre u) est supprimée.
 
@@ -315,7 +341,7 @@ Modification de la loi modifiée du 1er décembre 1936 concernant l’impôt com
 
 Au paragraphe 8 de la loi modifiée du 1er décembre 1936 concernant l’impôt commercial (« Gewerbesteuergesetz »), le point final du numéro 9 est remplacé par un point-virgule et il est inséré un numéro 10 nouveau libellé comme suit :
 
-- les montants exonérés de l’impôt sur le revenu des collectivités au titre du même exercice d’exploitation conformément à l’article 164 ter , alinéa 4, numéros 6 et 7 de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu. ».
+- les montants exonérés de l’impôt sur le revenu des collectivités au titre du même exercice d’exploitation conformément à l’article 164ter, alinéa 4, numéros 6 et 7 de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu. ».
 
 <a id="art-6"></a>
 ## Art. 6.
@@ -567,7 +593,7 @@ Sont prorogées avec effet au 1er janvier 2022 et jusqu’au 31 décembre 2022 :
 
 - les dispositions de la loi modifiée du 24 décembre 1977 autorisant le Gouvernement à prendre les mesures destinées à stimuler la croissance économique et à maintenir le plein emploi ;
 
-- les dispositions de la loi modifiée du 24 janvier 1979 complétant l’article 2 de la loi modifiée du 30 juin 1976 portant 1. création d’un fonds de chômage ; 2. réglementation de l’octroi des indemnités de chômage complet et complétant l’article 115 de la loi concernant l’impôt sur le revenu .
+- les dispositions de la loi modifiée du 24 janvier 1979 complétant l’article 2 de la loi modifiée du 30 juin 1976 portant 1. création d’un fonds de chômage ; 2. réglementation de l’octroi des indemnités de chômage complet et complétant l’article 115 de la loi concernant l’impôt sur le revenu.
 
 (2)
 
@@ -894,7 +920,7 @@ Les dépenses pour frais d’études ne peuvent pas dépasser par projet le mont
 
 1) Fonds d’investissements publics administratifs :
 
-- 3 e bâtiment administratif au Kirchberg (Bâtiment Konrad Adenauer)
+- 3e bâtiment administratif au Kirchberg (Bâtiment Konrad Adenauer)
 
 - Centre d’accueil Mullerthal-Berdorf
 
@@ -1063,7 +1089,7 @@ Les dépenses pour frais d’études ne peuvent pas dépasser par projet le mont
 
 - Port de Mertert. Réaménagement des installations ferroviaires.
 
-- Ligne de Luxembourg à Troisvierges. Suppression des passages à niveau N os 15 et 16.
+- Ligne de Luxembourg à Troisvierges. Suppression des passages à niveau Nos 15 et 16.
 
 - Gare de Rodange. Réaménagement de la tête ouest.
 
@@ -2091,7 +2117,7 @@ Modification de la loi du 7 décembre 2007 autorisant l’État à fournir une g
 
 La loi du 7 décembre 2007 autorisant l’État à fournir une garantie bancaire pour la réalisation et l’exploitation d’un réseau de chaleur urbain est modifiée comme suit :
 
-- À l’article 1 er , les termes trente et un mille euros sont remplacés par les termes quatre millions d’euros ;
+- À l’article 1er, les termes trente et un mille euros sont remplacés par les termes quatre millions d’euros ;
 
 - À l’article 3, le terme vingt est remplacé par le terme quarante .
 

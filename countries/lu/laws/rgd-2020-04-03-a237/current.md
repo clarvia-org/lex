@@ -34,7 +34,7 @@ Aux fins du présent règlement, on entend par :
 
 - « service agréé » : tout service de formation, d’emploi ou d’activité de jour pour personnes en situation de handicap ainsi que tout centre psycho-gériatrique pour personnes âgées agréés conformément à l’article 1er, alinéa 2, de la loi modifiée du 8 septembre 1998 réglant les relations entre l’État et les organismes œuvrant dans les domaines social, familial et thérapeutique, ci-après appelée « loi ASFT » ; « service agréé » :
 
-  - tout service de formation, d’emploi ou d’activité de jour pour personnes en situation de handicap ainsi que tout centre psycho-gériatrique pour personnes âgées agréés conformément à l’article 1 er , alinéa 2, de la loi modifiée du 8 septembre 1998 réglant les relations entre l’État et les organismes œuvrant dans les domaines social, familial et thérapeutique, ci-après appelée « loi ASFT » ;
+  - tout service de formation, d’emploi ou d’activité de jour pour personnes en situation de handicap ainsi que tout centre psycho-gériatrique pour personnes âgées agréés conformément à l’article 1er, alinéa 2, de la loi modifiée du 8 septembre 1998 réglant les relations entre l’État et les organismes œuvrant dans les domaines social, familial et thérapeutique, ci-après appelée « loi ASFT » ;
 
   - tout service comparable à ceux énumérés à la lettre a) agréé par une autorité compétente d’un État membre de l’Union européenne.
 

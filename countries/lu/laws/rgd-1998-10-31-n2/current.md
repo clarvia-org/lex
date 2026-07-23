@@ -124,7 +124,7 @@ Aux fins du présent règlement, on entend par:
 
 - «acteurs économiques»: dans le domaine de l’emballage, les fournisseurs de matériaux d’emballage, fabricants, transformateurs, remplisseurs et utilisateurs, importateurs, commerçants et distributeurs, autorités publiques et organismes publics;
 
-- «accord environnemental» : tout accord formel entre le ministre et les responsables d’emballages et/ou organismes agréés qui doit être ouvert à tous les acteurs économiques souhaitant se conformer aux conditions fixées par l’accord afin de contribuer à la réalisation des objectifs dont question à l’article 1 er ;
+- «accord environnemental»: tout accord formel entre le ministre et les responsables d’emballages et/ou organismes agréés qui doit être ouvert à tous les acteurs économiques souhaitant se conformer aux conditions fixées par l’accord afin de contribuer à la réalisation des objectifs dont question à l’article 1er;
 
 - «ministre»: le membre du Gouvernement ayant la protection de l’environnement dans ses attributions;
 

@@ -70,7 +70,7 @@ Le candidat fournit avec sa demande d’inscription, les pièces suivantes :
 
 - s’il y a lieu, une copie de la décision d’inscription au registre des titres ;
 
-- le certificat médical prévu à l’article 33, paragraphe 1 er , point 6°, de la loi du 7 août 2023 sur l’organisation de l’Armée luxembourgeoise ;
+- le certificat médical prévu à l’article 33, paragraphe 1er, point 6°, de la loi du 7 août 2023 sur l’organisation de l’Armée luxembourgeoise ;
 
 - pour les candidats non luxembourgeois ressortissants d’un État membre de l’Union européenne à l’examen-concours d’admission des candidats officiers, un certificat de résidence justifiant de la résidence habituelle au Grand-Duché de Luxembourg et de s’y trouver en séjour régulier pendant au moins trente-six mois, dont la dernière année de résidence précédant immédiatement la candidature doit être ininterrompue.
 

@@ -768,7 +768,7 @@ La présente loi remplace, dans les relations avec un Etat membre de l’Union e
 
 - le titre III, chapitre 4, de la convention d’application du 19 juin 1990 de l’accord de Schengen du 14 juin 1985 relatif à la suppression graduelle des contrôles aux frontières communes;
 
-- le chapitre 1 er du traité Benelux d’extradition et d’entraide judiciaire en matière pénale du 27 juin 1962.
+- le chapitre 1er du traité Benelux d’extradition et d’entraide judiciaire en matière pénale du 27 juin 1962.
 
 2.
 

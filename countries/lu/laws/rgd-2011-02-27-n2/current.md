@@ -83,7 +83,7 @@ Aux fins du présent règlement, on entend par:
 
   - «résolution A.950 (23) de l’OMI», la résolution 950 (23) de l’Organisation maritime internationale intitulée «Services d’assistance maritime (MAS)»;
 
-  - «directives de l’OMI sur le traitement équitable des gens de mer en cas d’accident maritime», les directives annexées à la résolution LEG.3(91) du comité juridique de l’OMI du 27 avril 2006 telles qu’approuvées par le conseil d’administration de l’Organisation internationale du travail lors de sa 296 ème session du 12 au 16 juin 2006;
+  - «directives de l’OMI sur le traitement équitable des gens de mer en cas d’accident maritime», les directives annexées à la résolution LEG.3(91) du comité juridique de l’OMI du 27 avril 2006 telles qu’approuvées par le conseil d’administration de l’Organisation internationale du travail lors de sa 296ème session du 12 au 16 juin 2006;
 
 - «exploitant»: l’armateur ou le gérant du navire;
 
@@ -141,7 +141,7 @@ Aux fins du présent règlement, on entend par:
 
 - «navire ayant besoin d’assistance»: sans préjudice des dispositions de la convention SAR sur le sauvetage des personnes, un navire battant pavillon luxembourgeois se trouvant dans une situation qui pourrait entraîner la perte du navire ou constituer une menace pour l’environnement ou pour la navigation;
 
-- «LRIT»: un système d’identification et de suivi à distance des navires conformément à la règle SOLAS V / 19-1.
+- «LRIT»: un système d’identification et de suivi à distance des navires conformément à la règle SOLAS V/19-1.
 
 <a id="art-3"></a>
 ## Art. 3

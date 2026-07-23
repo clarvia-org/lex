@@ -92,18 +92,18 @@ Les taux d’amortissement prévus à l’article 2, alinéa 2, ne s’appliquen
 
 Par dérogation au numéro 4. du tableau de l’article 2, alinéa 2 :
 
-- le taux d’amortissement d’immeubles ou parties d’immeubles bâtis, acquis ou constitués avant le 1 er janvier 2021 et affectés au logement locatif dont l’achèvement remonte au 1 er janvier de l’année d’imposition à moins de 6 ans est de 6 pour cent. Cette disposition est d’application correspondante aux dépenses d’investissement effectuées en cas de rénovation achevée avant le 1 er janvier 2021 d’un logement ancien à condition qu’elles dépassent 20 pour cent du prix d’acquisition ou de revient du bâtiment ;
+- le taux d’amortissement d’immeubles ou parties d’immeubles bâtis, acquis ou constitués avant le 1er janvier 2021 et affectés au logement locatif dont l’achèvement remonte au 1er janvier de l’année d’imposition à moins de 6 ans est de 6 pour cent. Cette disposition est d’application correspondante aux dépenses d’investissement effectuées en cas de rénovation achevée avant le 1er janvier 2021 d’un logement ancien à condition qu’elles dépassent 20 pour cent du prix d’acquisition ou de revient du bâtiment ;
 
-- le taux d’amortissement d’immeubles ou parties d’immeubles bâtis, acquis ou constitués après le 31 décembre 2020 et avant le 1 er janvier 2023 et affectés au logement locatif dont l’achèvement remonte au 1 er janvier de l’année d’imposition à moins de 5 ans est de 4 pour cent. Cette disposition est d’application correspondante aux dépenses d’investissement effectuées en cas de rénovation achevée après le 31 décembre 2020 et avant le 1 er janvier 2023 d’un logement ancien à condition qu’elles dépassent 20 pour cent du prix d’acquisition ou de revient du bâtiment.
+- le taux d’amortissement d’immeubles ou parties d’immeubles bâtis, acquis ou constitués après le 31 décembre 2020 et avant le 1er janvier 2023 et affectés au logement locatif dont l’achèvement remonte au 1er janvier de l’année d’imposition à moins de 5 ans est de 4 pour cent. Cette disposition est d’application correspondante aux dépenses d’investissement effectuées en cas de rénovation achevée après le 31 décembre 2020 et avant le 1er janvier 2023 d’un logement ancien à condition qu’elles dépassent 20 pour cent du prix d’acquisition ou de revient du bâtiment.
 
 <a id="art-4"></a>
 ## Art. 4.
 
 Sont abrogés:
 
-- le paragraphe 9 de l’ ordonnance d’exécution du 7 décembre 1941 relative à la loi de l’impôt sur le revenu, tel qu’il a été modifié par la suite;
+- le paragraphe 9 de l’ordonnance d’exécution du 7 décembre 1941 relative à la loi de l’impôt sur le revenu, tel qu’il a été modifié par la suite;
 
-- le règlement grand-ducal du 17 décembre 1991 portant exécution de l’article 106, alinéa 4 L.I.R. .
+- le règlement grand-ducal du 17 décembre 1991 portant exécution de l’article 106, alinéa 4 L.I.R..
 
 <a id="art-5"></a>
 ## Art. 5.

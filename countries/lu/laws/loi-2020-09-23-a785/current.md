@@ -61,7 +61,7 @@ Les dispositions de l’article 1er sont également applicables, le cas échéan
 
 - les associations sans but lucratif et aux fondations constituées conformément à la loi modifiée du 21 avril 1928 sur les associations et les fondations sans but lucratif ;
 
-- les associations agricoles constituées conformément à l’ arrêté grand-ducal modifié du 17 septembre 1945 portant révision de la loi du 27 mars 1900 sur l’organisation des associations agricoles ;
+- les associations agricoles constituées conformément à l’arrêté grand-ducal modifié du 17 septembre 1945 portant révision de la loi du 27 mars 1900 sur l’organisation des associations agricoles ;
 
 - les mutuelles régies par la loi du 1er août 2019 concernant les mutuelles ;
 
@@ -77,7 +77,7 @@ Les dispositions de l’article 1er sont également applicables, le cas échéan
 
 - l’Ordre des experts-comptables régi par la loi modifiée du 10 juin 1999 portant organisation de la profession d’expert-comptable ;
 
-- les institutions de sécurité sociale visées à l’alinéa premier de l’article 396, alinéa 1 er , du Code de la sécurité sociale ;
+- les institutions de sécurité sociale visées à l’alinéa premier de l’article 396, alinéa 1er, du Code de la sécurité sociale ;
 
 - l’Ordre des architectes et des ingénieurs-conseils régi par la loi du 13 décembre 1989 portant organisation des professions d’architecte et d’ingénieur-conseil ;
 

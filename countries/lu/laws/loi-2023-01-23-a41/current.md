@@ -85,17 +85,17 @@ Le Conseil se complète par neuf membres suppléants, c’est-à-dire :
 
 Il y a six collèges électoraux, c’est-à-dire :
 
-- le collège électoral des magistrats de la Cour supérieure de justice ; ce collège élit le membre effectif visé à l’article 1 er , point 1°, lettre a), et le membre suppléant visé à l’article 2, point 1°, lettre a) ;
+- le collège électoral des magistrats de la Cour supérieure de justice ; ce collège élit le membre effectif visé à l’article 1er, point 1°, lettre a), et le membre suppléant visé à l’article 2, point 1°, lettre a) ;
 
-- le collège électoral des magistrats des tribunaux d’arrondissement, des justices de paix et du pool de complément des magistrats du siège ; ce collège élit le membre effectif visé à l’article 1 er , point 1°, lettre b), et le membre suppléant visé à l’article 2, point 1°, lettre b) ;
+- le collège électoral des magistrats des tribunaux d’arrondissement, des justices de paix et du pool de complément des magistrats du siège ; ce collège élit le membre effectif visé à l’article 1er, point 1°, lettre b), et le membre suppléant visé à l’article 2, point 1°, lettre b) ;
 
-- le collège électoral des magistrats du Parquet général ; ce collège élit le membre effectif visé à l’article 1 er , point 1°, lettre c), et le membre suppléant visé à l’article 2, point 1°, lettre c) ;
+- le collège électoral des magistrats du Parquet général ; ce collège élit le membre effectif visé à l’article 1er, point 1°, lettre c), et le membre suppléant visé à l’article 2, point 1°, lettre c) ;
 
-- le collège électoral des magistrats des parquets, du pool de complément des magistrats du parquet et de la Cellule de renseignement financier ; ce collège élit le membre effectif visé à l’article 1 er , point 1°, lettre d), et le membre suppléant visé à l’article 2, point 1°, lettre d) ;
+- le collège électoral des magistrats des parquets, du pool de complément des magistrats du parquet et de la Cellule de renseignement financier ; ce collège élit le membre effectif visé à l’article 1er, point 1°, lettre d), et le membre suppléant visé à l’article 2, point 1°, lettre d) ;
 
-- le collège électoral des magistrats de la Cour administrative ; ce collège élit le membre effectif visé à l’article 1 er , point 1°, lettre e), et le membre suppléant visé à l’article 2, point 1°, lettre e) ;
+- le collège électoral des magistrats de la Cour administrative ; ce collège élit le membre effectif visé à l’article 1er, point 1°, lettre e), et le membre suppléant visé à l’article 2, point 1°, lettre e) ;
 
-- le collège électoral des magistrats du Tribunal administratif ; ce collège élit le membre effectif visé à l’article 1 er , point 1°, lettre f), et le membre suppléant visé à l’article 2, point 1°, lettre f).
+- le collège électoral des magistrats du Tribunal administratif ; ce collège élit le membre effectif visé à l’article 1er, point 1°, lettre f), et le membre suppléant visé à l’article 2, point 1°, lettre f).
 
 (2)
 
@@ -821,9 +821,13 @@ Si le président du Conseil est visé par la procédure disciplinaire, la prési
 
 La loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État est modifiée comme suit :
 
-- À l’article 12, paragraphe 1 er , alinéa 7, le point 16° prend la teneur suivante : Les fonctions de secrétaire général du Conseil d’État, de secrétaire général du Conseil économique et social ainsi que de secrétaire général du Conseil national de la justice sont classées au grade 17.
+- À l’article 12, paragraphe 1er, alinéa 7, le point 16° prend la teneur suivante :
 
-- À l’article 17, alinéa 1 er , la lettre b) prend la teneur suivante : Pour les fonctionnaires énumérés ci-après, la valeur des différents échelons de leurs grades respectifs est augmentée de 25 points indiciaires : « directeurs généraux, directeurs généraux adjoints, directeurs, premier conseiller de légation, présidents, ministres plénipotentiaires, administrateurs généraux, commissaires, commissaire du Gouvernement adjoint chargé de l’instruction disciplinaire, colonel-chef d’état-major, inspecteur général adjoint de la sécurité dans la Fonction publique, inspecteur général de la sécurité dans la Fonction publique, Haut-Commissaire à la Protection nationale, lieutenant-colonel/chef d’état-major adjoint, lieutenant-colonel/commandant du centre militaire, vice-présidents, directeurs adjoints, inspecteur général de la Police, inspecteur général adjoint de la police, directeurs centraux de la police, médecins directeurs, représentant permanent auprès de l’Union européenne, secrétaire du Grand-Duc, secrétaire général du Conseil d’État, secrétaire général du Conseil économique et social, secrétaire général du Conseil national de la justice, secrétaire général du département des affaires étrangères, Ombudsman fir Kanner a Jugendlecher. Bénéficient de la même mesure le médecin dirigeant chargé de la direction de la division de la santé au travail du secteur public et le médecin dirigeant de la division de la médecine de contrôle du secteur public, ainsi que les fonctionnaires classés aux grades M5, M6, M7 et S1. »
+- Les fonctions de secrétaire général du Conseil d’État, de secrétaire général du Conseil économique et social ainsi que de secrétaire général du Conseil national de la justice sont classées au grade 17.
+
+- À l’article 17, alinéa 1er, la lettre b) prend la teneur suivante :
+
+- Pour les fonctionnaires énumérés ci-après, la valeur des différents échelons de leurs grades respectifs est augmentée de 25 points indiciaires : « directeurs généraux, directeurs généraux adjoints, directeurs, premier conseiller de légation, présidents, ministres plénipotentiaires, administrateurs généraux, commissaires, commissaire du Gouvernement adjoint chargé de l’instruction disciplinaire, colonel-chef d’état-major, inspecteur général adjoint de la sécurité dans la Fonction publique, inspecteur général de la sécurité dans la Fonction publique, Haut-Commissaire à la Protection nationale, lieutenant-colonel/chef d’état-major adjoint, lieutenant-colonel/commandant du centre militaire, vice-présidents, directeurs adjoints, inspecteur général de la Police, inspecteur général adjoint de la police, directeurs centraux de la police, médecins directeurs, représentant permanent auprès de l’Union européenne, secrétaire du Grand-Duc, secrétaire général du Conseil d’État, secrétaire général du Conseil économique et social, secrétaire général du Conseil national de la justice, secrétaire général du département des affaires étrangères, Ombudsman fir Kanner a Jugendlecher. Bénéficient de la même mesure le médecin dirigeant chargé de la direction de la division de la santé au travail du secteur public et le médecin dirigeant de la division de la médecine de contrôle du secteur public, ainsi que les fonctionnaires classés aux grades M5, M6, M7 et S1. »
 
 #### Chapitre 5. Dispositions transitoires
 
@@ -836,7 +840,7 @@ Avant l’entrée en vigueur de la loi du 17 janvier 2023 portant révision du c
 
 - sont désignés et élus dans les conditions suivantes :
 
-  - la Chambre des députés désigne deux membres effectifs et deux membres suppléants dans les conditions prescrites à l’article 1 er , point 2°, lettre b), et de l’article 2, point 2°, lettre b) ;
+  - la Chambre des députés désigne deux membres effectifs et deux membres suppléants dans les conditions prescrites à l’article 1er, point 2°, lettre b), et de l’article 2, point 2°, lettre b) ;
 
   - les collèges électoraux des magistrats procèdent à l’élection de six membres effectifs et de six membres suppléants dans les conditions prescrites à l’article 3 ;
 

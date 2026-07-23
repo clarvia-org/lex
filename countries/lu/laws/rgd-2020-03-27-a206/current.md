@@ -33,7 +33,7 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 Par dérogation à l’article L. 521-9 du Code du travail :
 
-- La proposition de la convention de collaboration individualisée prévue au paragraphe 4, alinéa 2, se fera au plus tard avant la fin du 6 ème mois de la reprise des rendez-vous physiques auprès des bureaux de placement publics.
+- La proposition de la convention de collaboration individualisée prévue au paragraphe 4, alinéa 2, se fera au plus tard avant la fin du 6ème mois de la reprise des rendez-vous physiques auprès des bureaux de placement publics.
 
 - La dispense maximale prévue au paragraphe 5 alinéa 2 est prorogée jusqu’à la fin de l’état de crise.
 

@@ -45,41 +45,41 @@ Définitions.
 
 Aux fins de la présente loi, on entend par:
 
-- «autorité compétente»: l’autorité administrative désignée par chaque Etat membre conformément à l’article 22 du règlement (UE) n° 596/2014 du Parlement européen et du Conseil du 16 avril 2014 sur les abus de marché (règlement relatif aux abus de marché) et abrogeant la directive 2003/6/CE du Parlement européen et du Conseil et les directives 2003/124/CE , 2003/125/CE et 2004/72/CE de la Commission, dénommé ci-après « règlement (UE) n° 596/2014 ». Au Luxembourg, il s’agit de la Commission de surveillance du secteur financier, dénommée ci-après «CSSF»;
+- «autorité compétente»: l’autorité administrative désignée par chaque Etat membre conformément à l’article 22 du règlement (UE) n° 596/2014 du Parlement européen et du Conseil du 16 avril 2014 sur les abus de marché (règlement relatif aux abus de marché) et abrogeant la directive 2003/6/CE du Parlement européen et du Conseil et les directives 2003/124/CE, 2003/125/CE et 2004/72/CE de la Commission, dénommé ci-après «règlement (UE) n° 596/2014». Au Luxembourg, il s’agit de la Commission de surveillance du secteur financier, dénommée ci-après «CSSF»;
 
-- «contrat au comptant sur matières premières»: un contrat au comptant sur matières premières au sens de l’article 3, paragraphe 1 er , point 15, du règlement (UE) n° 596/2014 ;
+- «contrat au comptant sur matières premières»: un contrat au comptant sur matières premières au sens de l’article 3, paragraphe 1er, point 15, du règlement (UE) n° 596/2014;
 
-- «émetteur»: un émetteur au sens de l’article 3, paragraphe 1 er , point 21, du règlement (UE) n° 596/2014 ;
+- «émetteur»: un émetteur au sens de l’article 3, paragraphe 1er, point 21, du règlement (UE) n° 596/2014;
 
 - «Etat membre»: un Etat membre de l’Union européenne. Sont assimilés aux Etats membres de l’Union européenne les Etats parties à l’Accord sur l’Espace économique européen autres que les Etats membres de l’Union européenne, dans les limites définies par cet accord et les actes y afférents;
 
-- «indice de référence»: un indice de référence au sens de l’article 3, paragraphe 1 er , point 29, du règlement (UE) n° 596/2014 ;
+- «indice de référence»: un indice de référence au sens de l’article 3, paragraphe 1er, point 29, du règlement (UE) n° 596/2014;
 
-- «information privilégiée»: toute information au sens de l’article 7, paragraphes 1 er à 4, du règlement (UE) n° 596/2014 ;
+- «information privilégiée»: toute information au sens de l’article 7, paragraphes 1er à 4, du règlement (UE) n° 596/2014;
 
-- «instrument financier»: un instrument financier au sens de l’article 4, paragraphe 1 er , point 15, de la directive 2014/65/UE du Parlement européen et du Conseil du 15 mai 2014 concernant les marchés d’instruments financiers et modifiant la directive 2002/92/CE et la directive 2011/61/UE , dénommée ci-après « directive 2014/65/UE »;
+- «instrument financier»: un instrument financier au sens de l’article 4, paragraphe 1er, point 15, de la directive 2014/65/UE du Parlement européen et du Conseil du 15 mai 2014 concernant les marchés d’instruments financiers et modifiant la directive 2002/92/CE et la directive 2011/61/UE, dénommée ci-après «directive 2014/65/UE»;
 
-- «marché réglementé»: un marché réglementé tel que défini à l’article 4, paragraphe 1 er , point 21, de la directive 2014/65/UE ;
+- «marché réglementé»: un marché réglementé tel que défini à l’article 4, paragraphe 1er, point 21, de la directive 2014/65/UE;
 
 - «pays tiers»: un Etat qui n’est pas un Etat membre;
 
-- «personnes soumises à la surveillance prudentielle de la CSSF»: les personnes soumises à la surveillance prudentielle de la CSSF, conformément à l’article 2, paragraphe 1 er , de la loi modifiée du 23 décembre 1998 portant création d’une commission de surveillance du secteur financier. Sont assimilées aux personnes soumises à la surveillance prudentielle de la CSSF, les personnes qui exercent une activité surveillée par la CSSF sans disposer de l’agrément requis par la loi;
+- «personnes soumises à la surveillance prudentielle de la CSSF»: les personnes soumises à la surveillance prudentielle de la CSSF, conformément à l’article 2, paragraphe 1er, de la loi modifiée du 23 décembre 1998 portant création d’une commission de surveillance du secteur financier. Sont assimilées aux personnes soumises à la surveillance prudentielle de la CSSF, les personnes qui exercent une activité surveillée par la CSSF sans disposer de l’agrément requis par la loi;
 
-- «plate-forme de négociation»: une plateforme de négociation au sens de l’article 4, paragraphe 1 er , point 24, de la directive 2014/65/UE ;
+- «plate-forme de négociation»: une plateforme de négociation au sens de l’article 4, paragraphe 1er, point 24, de la directive 2014/65/UE;
 
-- «pratique de marché admise»: une pratique de marché qui est admise par l’autorité compétente d’un Etat membre conformément à l’article 13 du règlement (UE) n° 596/2014 ;
+- «pratique de marché admise»: une pratique de marché qui est admise par l’autorité compétente d’un Etat membre conformément à l’article 13 du règlement (UE) n° 596/2014;
 
 - «produit énergétique de gros»: un produit énergétique de gros au sens de l’article 2, point 4, du règlement (UE) n° 1227/2011 du Parlement européen et du Conseil du 25 octobre 2011 concernant l’intégrité et la transparence du marché de gros de l’énergie;
 
 - «programme de rachat»: une opération sur actions propres effectuée conformément aux articles 21 à 27 de la directive 2012/30/UE du Parlement européen et du Conseil du 25 octobre 2012 tendant à coordonner, pour les rendre équivalentes, les garanties qui sont exigées dans les Etats membres des sociétés au sens de l’article 54, deuxième alinéa, du traité sur le fonctionnement de l’Union européenne, en vue de la protection des intérêts tant des associés que des tiers, en ce qui concerne la constitution de la société anonyme ainsi que le maintien et les modifications de son capital;
 
-- «quota d’émission»: un quota d’émission tel que décrit à l’annexe I, section C, point 11, de la directive 2014/65/UE ;
+- «quota d’émission»: un quota d’émission tel que décrit à l’annexe I, section C, point 11, de la directive 2014/65/UE;
 
-- «stabilisation»: une stabilisation au sens de l’article 3, paragraphe 2, lettre d), du règlement (UE) n° 596/2014 ;
+- «stabilisation»: une stabilisation au sens de l’article 3, paragraphe 2, lettre d), du règlement (UE) n° 596/2014;
 
-- «système multilatéral de négociation» ou «MTF»: un système multilatéral de négociation au sens de l’article 4, paragraphe 1 er , point 22, de la directive 2014/65/UE ; et
+- «système multilatéral de négociation» ou «MTF»: un système multilatéral de négociation au sens de l’article 4, paragraphe 1er, point 22, de la directive 2014/65/UE; et
 
-- «système organisé de négociation» ou «OTF»: un système organisé de négociation au sens de l’article 4, paragraphe 1 er , point 23, de la directive 2014/65/UE .
+- «système organisé de négociation» ou «OTF»: un système organisé de négociation au sens de l’article 4, paragraphe 1er, point 23, de la directive 2014/65/UE.
 
 #### Chapitre 2 Répression administrative des abus de marché
 
@@ -142,9 +142,9 @@ Les pouvoirs de la CSSF incluent le droit:
 
 - d’exiger la communication des enregistrements téléphoniques, des communications électroniques ou des enregistrements de données relatives au trafic détenus par des personnes soumises à sa surveillance prudentielle;
 
-- sous réserve de l’autorisation judiciaire prévue à l’article 5, d’exiger les enregistrements de données relatives au trafic détenus par les fournisseurs de services de communications électroniques et les opérateurs de réseaux de communications publics, lorsqu’il existe des raisons de suspecter une violation et que de tels enregistrements peuvent se révéler utiles à la manifestation de la vérité dans le cadre d’une enquête relative à la violation de l’article 14 ou 15, du règlement (UE) n° 596/2014 ;
+- sous réserve de l’autorisation judiciaire prévue à l’article 5, d’exiger les enregistrements de données relatives au trafic détenus par les fournisseurs de services de communications électroniques et les opérateurs de réseaux de communications publics, lorsqu’il existe des raisons de suspecter une violation et que de tels enregistrements peuvent se révéler utiles à la manifestation de la vérité dans le cadre d’une enquête relative à la violation de l’article 14 ou 15, du règlement (UE) n° 596/2014;
 
-- d’enjoindre de cesser temporairement toute pratique que la CSSF considère contraire au règlement (UE) n° 596/2014 ;
+- d’enjoindre de cesser temporairement toute pratique que la CSSF considère contraire au règlement (UE) n° 596/2014;
 
 - de suspendre la négociation des instruments financiers concernés;
 
@@ -154,7 +154,7 @@ Les pouvoirs de la CSSF incluent le droit:
 
 - de prendre des mesures en vue d’assurer la bonne information du public, entre autres des mesures visant à corriger des informations fausses ou trompeuses qui ont été divulguées et d’exiger d’un émetteur ou de toute autre personne ayant publié ou diffusé des informations fausses ou trompeuses de publier un communiqué rectificatif;
 
-- de faire appel à des experts pour une ou plusieurs questions spécifiques soulevées dans une enquête pour violation des dispositions du règlement (UE) n° 596/2014 . Les frais sont à charge des personnes contre lesquelles des sanctions ou autres mesures administratives sont, le cas échéant, prononcées par la CSSF suite à l’enquête en question. Dans tous les autres cas, les frais sont à charge de la CSSF; et
+- de faire appel à des experts pour une ou plusieurs questions spécifiques soulevées dans une enquête pour violation des dispositions du règlement (UE) n° 596/2014. Les frais sont à charge des personnes contre lesquelles des sanctions ou autres mesures administratives sont, le cas échéant, prononcées par la CSSF suite à l’enquête en question. Dans tous les autres cas, les frais sont à charge de la CSSF; et
 
 - d’exiger que les publications effectuées ou à effectuer sur base des dispositions du règlement (UE) n° 596/2014 soient faites dans une des langues suivantes: luxembourgeoise, française, allemande ou anglaise.
 
@@ -370,11 +370,11 @@ Sanctions administratives et autres mesures administratives.
 
 Sans préjudice de toute sanction pénale et des pouvoirs de la CSSF au titre de l’article 4, la CSSF a le pouvoir de prendre les sanctions administratives et autres mesures administratives appropriées en ce qui concerne les violations suivantes:
 
-- violation de l’article 14, 15, 16, paragraphe 1 er ou 2, de l’article 17, paragraphe 1 er , 2, 4, 5 ou 8, de l’article 18, paragraphes 1 er à 6, de l’article 19, paragraphe 1 er , 2, 3, 5, 6, 7 ou 11, ou de l’article 20, paragraphe 1 er , du règlement (UE) n° 596/2014 ;
+- violation de l’article 14, 15, 16, paragraphe 1er ou 2, de l’article 17, paragraphe 1er, 2, 4, 5 ou 8, de l’article 18, paragraphes 1er à 6, de l’article 19, paragraphe 1er, 2, 3, 5, 6, 7 ou 11, ou de l’article 20, paragraphe 1er, du règlement (UE) n° 596/2014;
 
-- violation de l’article 11, paragraphe 3, 5, 6, 7 ou 8, du règlement (UE) n° 596/2014 ;
+- violation de l’article 11, paragraphe 3, 5, 6, 7 ou 8, du règlement (UE) n° 596/2014;
 
-- violation de l’article 8, paragraphe 2, ou de l’article 9, paragraphe 1 er .
+- violation de l’article 8, paragraphe 2, ou de l’article 9, paragraphe 1er.
 
 (2)
 
@@ -390,7 +390,7 @@ En cas de violation d’un des articles visés au paragraphe 1er, point 1, la CS
 
 - l’interdiction provisoire, pour les personnes exerçant des responsabilités dirigeantes au sein d’une personne soumise à la surveillance prudentielle de la CSSF ou toute autre personne physique dont la responsabilité est engagée pour la violation, d’exercer des fonctions de gestion au sein d’une personne soumise à la surveillance prudentielle de la CSSF. L’interdiction provisoire ne peut dépasser un terme de cinq ans;
 
-- en cas de violations répétées de l’article 14 ou 15 du règlement (UE) n° 596/2014 , l’interdiction permanente, pour les personnes exerçant des responsabilités dirigeantes au sein d’une personne soumise à la surveillance prudentielle de la CSSF ou toute autre personne physique dont la responsabilité est engagée pour la violation, d’exercer des fonctions de gestion au sein d’une personne soumise à la surveillance prudentielle de la CSSF;
+- en cas de violations répétées de l’article 14 ou 15 du règlement (UE) n° 596/2014, l’interdiction permanente, pour les personnes exerçant des responsabilités dirigeantes au sein d’une personne soumise à la surveillance prudentielle de la CSSF ou toute autre personne physique dont la responsabilité est engagée pour la violation, d’exercer des fonctions de gestion au sein d’une personne soumise à la surveillance prudentielle de la CSSF;
 
 - l’interdiction provisoire pour un terme ne dépassant pas cinq ans, pour les personnes exerçant des responsabilités dirigeantes au sein d’une personne soumise à la surveillance prudentielle de la CSSF ou toute autre personne physique dont la responsabilité est engagée pour la violation, de négocier pour leur propre compte;
 
@@ -400,19 +400,19 @@ En cas de violation d’un des articles visés au paragraphe 1er, point 1, la CS
 
 - s’il s’agit d’une personne physique, des amendes administratives d’un montant maximal:
 
-  - en cas de violation de l’article 14 ou 15 du règlement (UE) n° 596/2014 , de 5.000.000 d’euros;
+  - en cas de violation de l’article 14 ou 15 du règlement (UE) n° 596/2014, de 5.000.000 d’euros;
 
-  - en cas de violation de l’article 16 ou 17 du règlement (UE) n° 596/2014 , de 1.000.000 d’euros;
+  - en cas de violation de l’article 16 ou 17 du règlement (UE) n° 596/2014, de 1.000.000 d’euros;
 
-  - en cas de violation de l’article 18, 19 ou 20 du règlement (UE) n° 596/2014 , de 500.000 d’euros; et
+  - en cas de violation de l’article 18, 19 ou 20 du règlement (UE) n° 596/2014, de 500.000 d’euros; et
 
 - s’il s’agit d’une personne morale, des amendes administratives d’un montant maximal:
 
-  - en cas de violation de l’article 14 ou 15 du règlement (UE) n° 596/2014 , de 15.000.000 d’euros ou de 15 pour cent du chiffre d’affaires annuel total de la personne morale tel qu’il ressort des derniers comptes disponibles approuvés par l’organe de direction de l’entreprise;
+  - en cas de violation de l’article 14 ou 15 du règlement (UE) n° 596/2014, de 15.000.000 d’euros ou de 15 pour cent du chiffre d’affaires annuel total de la personne morale tel qu’il ressort des derniers comptes disponibles approuvés par l’organe de direction de l’entreprise;
 
-  - en cas de violation de l’article 16 ou 17 du règlement (UE) n° 596/2014 , de 2.500.000 d’euros ou de 2 pour cent de son chiffre d’affaires annuel total tel qu’il ressort des derniers comptes disponibles approuvés par l’organe de direction de l’entreprise;
+  - en cas de violation de l’article 16 ou 17 du règlement (UE) n° 596/2014, de 2.500.000 d’euros ou de 2 pour cent de son chiffre d’affaires annuel total tel qu’il ressort des derniers comptes disponibles approuvés par l’organe de direction de l’entreprise;
 
-  - en cas de violation de l’article 18, 19 ou 20 du règlement (UE) n° 596/2014 , de 1.000.000 d’euros.
+  - en cas de violation de l’article 18, 19 ou 20 du règlement (UE) n° 596/2014, de 1.000.000 d’euros.
 
 Aux fins de l’alinéa 1, point 11, lettres a) et b), lorsque la personne morale est une entreprise mère ou une filiale qui est tenue d’établir des comptes consolidés en vertu de la directive 2013/34/UE du Parlement européen et du Conseil du 26 juin 2013 relative aux états financiers annuels, aux états financiers consolidés et aux rapports y afférents de certaines formes d’entreprises, le chiffre d’affaires annuel total à prendre en considération est le chiffre d’affaires annuel total ou le type de revenus correspondant conformément aux directives comptables pertinentes, tel qu’il ressort des derniers comptes consolidés disponibles approuvés par l’organe de direction de l’entreprise mère ultime. Pour les banques il s’agit de la directive 86/635/CEE du Conseil du 8 décembre 1986 concernant les comptes annuels et les comptes consolidés des banques et autres établissements financiers et pour les entreprises d’assurance il s’agit de la directive 91/674/CEE du Conseil du 19 décembre 1991 concernant les comptes annuels et les comptes consolidés des entreprises d’assurance.
 
@@ -490,17 +490,17 @@ Le présent chapitre s’applique également aux comportements ou aux transactio
 
 Le présent chapitre ne s’applique pas:
 
-- aux opérations sur actions propres effectuées dans le cadre de programmes de rachat si ces opérations sont effectuées conformément à l’article 5, paragraphes 1 er , 2 et 3 du règlement (UE) n° 596/2014 ;
+- aux opérations sur actions propres effectuées dans le cadre de programmes de rachat si ces opérations sont effectuées conformément à l’article 5, paragraphes 1er, 2 et 3 du règlement (UE) n° 596/2014;
 
 - à la négociation de titres ou d’instruments associés visés à l’article 3, paragraphe 2, lettres a) et b), du règlement (UE) n° 596/2014 en vue de la stabilisation de titres, si cette négociation s’effectue conformément à l’article 5, paragraphes 4 et 5, dudit règlement;
 
-- aux transactions, ordres ou comportements qui s’inscrivent dans le cadre d’activités poursuivies au titre des politiques monétaire, de change ou de gestion de la dette publique conformément à l’article 6, paragraphe 1 er , du règlement (UE) n° 596/2014 , aux transactions, ordres ou comportements effectués conformément à l’article 6, paragraphe 2, dudit règlement, aux activités concernant la politique de l’Union européenne en matière de climat conformément à l’article 6, paragraphe 3, dudit règlement ou aux activités exercées au titre de la politique agricole commune et de la politique commune de la pêche de l’Union européenne conformément à l’article 6, paragraphe 4, dudit règlement.
+- aux transactions, ordres ou comportements qui s’inscrivent dans le cadre d’activités poursuivies au titre des politiques monétaire, de change ou de gestion de la dette publique conformément à l’article 6, paragraphe 1er, du règlement (UE) n° 596/2014, aux transactions, ordres ou comportements effectués conformément à l’article 6, paragraphe 2, dudit règlement, aux activités concernant la politique de l’Union européenne en matière de climat conformément à l’article 6, paragraphe 3, dudit règlement ou aux activités exercées au titre de la politique agricole commune et de la politique commune de la pêche de l’Union européenne conformément à l’article 6, paragraphe 4, dudit règlement.
 
 (3)
 
 Les articles 23 et 24 s’appliquent également:
 
-- aux contrats au comptant sur matières premières qui ne sont pas des produits énergétiques de gros, lorsque la transaction, l’ordre ou le comportement a un effet sur le cours ou la valeur d’un instrument financier visé au paragraphe 1 er ;
+- aux contrats au comptant sur matières premières qui ne sont pas des produits énergétiques de gros, lorsque la transaction, l’ordre ou le comportement a un effet sur le cours ou la valeur d’un instrument financier visé au paragraphe 1er;
 
 - aux types d’instruments financiers, y compris les contrats dérivés ou les instruments dérivés servant au transfert du risque de crédit, pour lesquels la transaction, l’ordre, l’offre ou le comportement a un effet sur le cours ou la valeur d’un contrat au comptant sur matières premières lorsque le cours ou la valeur dépendent du cours ou de la valeur de ces instruments financiers;
 

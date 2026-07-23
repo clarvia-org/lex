@@ -55,7 +55,7 @@ Aux fins de la présente loi, on entend par :
 
 - « diplôme accrédité » : diplôme sanctionnant la réussite d’un programme d’études menant au grade de bachelor ou de master, délivré par un établissement d’enseignement supérieur spécialisé accrédité en vertu des dispositions du titre V pour offrir ledit programme ;
 
-- « diplôme national » : diplôme sanctionnant la réussite d’un programme d’études menant au brevet de technicien supérieur tel que visé aux titres II et III ou d’un programme d’études menant au grade de bachelor, de master, de docteur ou de docteur en médecine, offert par l’Université du Luxembourg en vertu des dispositions du titre IV, chapitre I er , de la loi modifiée du 27 juin 2018 ayant pour objet l’organisation de l’Université du Luxembourg ;
+- « diplôme national » : diplôme sanctionnant la réussite d’un programme d’études menant au brevet de technicien supérieur tel que visé aux titres II et III ou d’un programme d’études menant au grade de bachelor, de master, de docteur ou de docteur en médecine, offert par l’Université du Luxembourg en vertu des dispositions du titre IV, chapitre Ier, de la loi modifiée du 27 juin 2018 ayant pour objet l’organisation de l’Université du Luxembourg ;
 
 - « docteur » : grade sanctionnant des études supérieures de troisième cycle consacrées à des travaux de recherche et à l’acquisition de compétences scientifiques, méthodologiques et transversales, débouchant sur la soutenance d’une thèse ;
 
@@ -203,7 +203,7 @@ Pour chaque programme d’études, le groupe curriculaire définit les élément
 
 - le plan d’études fixant la répartition des différents modules dans le temps par année d’études ;
 
-- les modalités d’évaluation dont font l’objet les cours du programme, étant entendu que l’évaluation vise à confirmer la participation active de l’étudiant aux cours ou à vérifier les acquis d’apprentissage, et le type d’épreuves d’évaluation principales et d’épreuves d’évaluation alternatives, telles que définies à l’article 13, paragraphe 1 er , ainsi que leur périodicité en fonction des objectifs d’apprentissage propres à chaque cours ;
+- les modalités d’évaluation dont font l’objet les cours du programme, étant entendu que l’évaluation vise à confirmer la participation active de l’étudiant aux cours ou à vérifier les acquis d’apprentissage, et le type d’épreuves d’évaluation principales et d’épreuves d’évaluation alternatives, telles que définies à l’article 13, paragraphe 1er, ainsi que leur périodicité en fonction des objectifs d’apprentissage propres à chaque cours ;
 
 - la forme et les modalités d’élaboration et d’évaluation du travail de fin d’études ;
 
@@ -1320,7 +1320,7 @@ Par dérogation aux dispositions de l’article 47, paragraphes 1er et 2, une va
 
 Pour l’accès aux études menant au grade de bachelor, peuvent être pris en compte :
 
-- les études d’enseignement secondaire, d’enseignement secondaire technique, d’enseignement secondaire classique, d’enseignement secondaire général ou de formation professionnelle, ci-après « études d’enseignement secondaire », suivies par le candidat et ne répondant pas aux conditions visées à l’article 47, paragraphe 1 er ;
+- les études d’enseignement secondaire, d’enseignement secondaire technique, d’enseignement secondaire classique, d’enseignement secondaire général ou de formation professionnelle, ci-après « études d’enseignement secondaire », suivies par le candidat et ne répondant pas aux conditions visées à l’article 47, paragraphe 1er ;
 
 - les études d’enseignement supérieur antérieurement suivies par le candidat ;
 
@@ -1369,9 +1369,9 @@ Des informations concernant les matières et la nature des épreuves de l’exam
 
 Outre les conditions d’accès visées à l’article 47, l’admission des candidats à un programme d’études menant au grade de master et doté de 60 crédits ECTS est subordonnée à une des conditions suivantes :
 
-- le candidat doit être détenteur d’un diplôme de bachelor ou d’un titre de formation inscrit au registre des titres de formation, section de l’enseignement supérieur, visé à l’article 68 de la loi modifiée du 28 octobre 2016 relative à la reconnaissance des qualifications professionnelles, et correspondant au niveau 6 du CLQ visé à l’article 69 de la loi précitée , et sanctionnant 240 crédits ECTS ; ou
+- le candidat doit être détenteur d’un diplôme de bachelor ou d’un titre de formation inscrit au registre des titres de formation, section de l’enseignement supérieur, visé à l’article 68 de la loi modifiée du 28 octobre 2016 relative à la reconnaissance des qualifications professionnelles, et correspondant au niveau 6 du CLQ visé à l’article 69 de la loi précitée, et sanctionnant 240 crédits ECTS ; ou
 
-- le candidat doit être détenteur d’un diplôme de bachelor ou d’un titre de formation inscrit au registre des titres de formation, section de l’enseignement supérieur, visé à l’article 68 de la loi modifiée du 28 octobre 2016 relative à la reconnaissance des qualifications professionnelles, et correspondant au niveau 6 du CLQ visé à l’article 69 de la loi précitée , et sanctionnant au moins 180 crédits ECTS et avoir validé au moins 60 crédits ECTS dans un programme d’études correspondant au niveau 7 du CLQ.
+- le candidat doit être détenteur d’un diplôme de bachelor ou d’un titre de formation inscrit au registre des titres de formation, section de l’enseignement supérieur, visé à l’article 68 de la loi modifiée du 28 octobre 2016 relative à la reconnaissance des qualifications professionnelles, et correspondant au niveau 6 du CLQ visé à l’article 69 de la loi précitée, et sanctionnant au moins 180 crédits ECTS et avoir validé au moins 60 crédits ECTS dans un programme d’études correspondant au niveau 7 du CLQ.
 
 <a id="art-50"></a>
 ## Art. 50.
@@ -1492,7 +1492,7 @@ Peut être accrédité comme établissement d’enseignement supérieur spécial
 
   - pour un nombre de programmes d’études accrédités ou en procédure d’accréditation inférieur ou égal à cinq, emploie des enseignants moyennant un contrat de travail à durée indéterminée équivalent plein temps au nombre d’au moins quinze pouvant se prévaloir d’un diplôme inscrit au registre des titres de formation, section de l’enseignement supérieur, visé à l’article 68 de la loi modifiée du 28 octobre 2016 relative à la reconnaissance des qualifications professionnelles, et correspondant au minimum au niveau 7 du CLQ visé à l’article 69 de la loi précitée et dont au moins dix peuvent se prévaloir d’un diplôme de doctorat inscrit au registre des titres de formation, section de l’enseignement supérieur, visé à l’article 68 de la loi modifiée du 28 octobre 2016 relative à la reconnaissance des qualifications professionnelles, et correspondant au niveau 8 du CLQ visé à l’article 69 de la loi précitée ;
 
-  - pour un nombre de programmes d’études accrédités ou en procédure d’accréditation supérieur à cinq, s’y ajoutent par programme d’études supplémentaire aux seuils visés à la lettre a), au moins deux enseignants employés moyennant un contrat de travail à durée indéterminée équivalent plein temps dont au moins un est titulaire d’un diplôme de doctorat inscrit au registre des titres de formation, section de l’enseignement supérieur, visé à l’article 68 de la loi modifiée du 28 octobre 2016 relative à la reconnaissance des qualifications professionnelles, et correspondant au niveau 8 du CLQ visé à l’article 69 de la loi précitée et dont au moins un est titulaire d’un diplôme inscrit au registre des titres de formation, section de l’enseignement supérieur, visé à l’article 68 de la loi modifiée du 28 octobre 2016 relative à la reconnaissance des qualifications professionnelles, et correspondant au minimum au niveau 7 du CLQ visé à l’article 69 de la loi précitée .
+  - pour un nombre de programmes d’études accrédités ou en procédure d’accréditation supérieur à cinq, s’y ajoutent par programme d’études supplémentaire aux seuils visés à la lettre a), au moins deux enseignants employés moyennant un contrat de travail à durée indéterminée équivalent plein temps dont au moins un est titulaire d’un diplôme de doctorat inscrit au registre des titres de formation, section de l’enseignement supérieur, visé à l’article 68 de la loi modifiée du 28 octobre 2016 relative à la reconnaissance des qualifications professionnelles, et correspondant au niveau 8 du CLQ visé à l’article 69 de la loi précitée et dont au moins un est titulaire d’un diplôme inscrit au registre des titres de formation, section de l’enseignement supérieur, visé à l’article 68 de la loi modifiée du 28 octobre 2016 relative à la reconnaissance des qualifications professionnelles, et correspondant au minimum au niveau 7 du CLQ visé à l’article 69 de la loi précitée.
 
 (2)
 
@@ -1670,7 +1670,7 @@ Rapport annuel
 
 Pour le 31 décembre au plus tard, le lycée ou l’établissement d’enseignement supérieur spécialisé soumet chaque année au ministre un rapport portant sur l’année d’études qui s’est achevée le 14 septembre. Pour chaque programme d’études accrédité offert par le lycée ou l’établissement d’enseignement supérieur spécialisé concerné, ce rapport comporte au moins les éléments suivants :
 
-- données statistiques sur les étudiants : taux d’admission audit programme, nombre d’étudiants inscrits audit programme par année d’études à temps plein, nombre d’étudiants inscrits audit programme par année d’études à temps partiel, répartition par sexe, âge et nationalité, répartition en fonction du type de diplôme donnant accès au cycle d’études sur base des diplômes énumérés à l’article 10, paragraphes 1 er et 2, ou à l’article 47, paragraphes 1 er et 2, proportion entre étudiants résidants et étudiants non résidants, aperçu sur les décisions en matière de validation des acquis de l’expérience en application de l’article 11 ou de l’article 48, taux de réussite aux différentes années d’études, taux de réussite final, taux de décrochage au cours des différentes années d’études et taux de décrochage global, durée moyenne d’études exprimée en semestres ;
+- données statistiques sur les étudiants : taux d’admission audit programme, nombre d’étudiants inscrits audit programme par année d’études à temps plein, nombre d’étudiants inscrits audit programme par année d’études à temps partiel, répartition par sexe, âge et nationalité, répartition en fonction du type de diplôme donnant accès au cycle d’études sur base des diplômes énumérés à l’article 10, paragraphes 1er et 2, ou à l’article 47, paragraphes 1er et 2, proportion entre étudiants résidants et étudiants non résidants, aperçu sur les décisions en matière de validation des acquis de l’expérience en application de l’article 11 ou de l’article 48, taux de réussite aux différentes années d’études, taux de réussite final, taux de décrochage au cours des différentes années d’études et taux de décrochage global, durée moyenne d’études exprimée en semestres ;
 
 - informations sur les lieux de stage des étudiants inscrits audit programme d’études ;
 
@@ -1722,7 +1722,7 @@ Seuls les établissements d’enseignement supérieur spécialisés accrédités
 
 - assurer des cours dans un ou plusieurs programmes d’études accrédités offerts par ledit établissement ;
 
-- être titulaire d’un diplôme de doctorat inscrit au registre des titres de formation, section de l’enseignement supérieur, visé à l’article 68 de la loi modifiée du 28 octobre 2016 relative à la reconnaissance des qualifications professionnelles, et correspondant au niveau 8 du CLQ visé à l’article 69 de la loi précitée .
+- être titulaire d’un diplôme de doctorat inscrit au registre des titres de formation, section de l’enseignement supérieur, visé à l’article 68 de la loi modifiée du 28 octobre 2016 relative à la reconnaissance des qualifications professionnelles, et correspondant au niveau 8 du CLQ visé à l’article 69 de la loi précitée.
 
 Cette restriction ne s’applique pas aux « professeurs d’université » ou aux « professeurs d’enseignement supérieur spécialisé » nommés comme tels en vertu d’une législation étrangère, à condition que l’enseignant concerné mentionne explicitement ce titre suivi de l’établissement de délivrance.
 
@@ -1764,15 +1764,19 @@ Le Code du travail est modifié comme suit :
 
 - À l’article L. 152-2, les termes ou d’une formation spécifique en vue de l’accès à une profession régie par des dispositions légales ou réglementaires sont supprimés.
 
-- À l’article L. 152-4, l’alinéa 1 er est complété par la phrase suivante : Les périodes de stage effectuées auprès d’un même patron de stage pendant une même année scolaire ou une même année d’études sont additionnées et considérées comme un seul stage.
+- À l’article L. 152-4, l’alinéa 1er est complété par la phrase suivante :
 
-- À l’article L. 152-5, paragraphe 2, alinéa 2, les termes un cycle court de l’enseignement supérieur ou sont insérés après ceux de et pour la personne qui a accompli avec succès .
+Les périodes de stage effectuées auprès d’un même patron de stage pendant une même année scolaire ou une même année d’études sont additionnées et considérées comme un seul stage.
+
+- À l’article L. 152-5, paragraphe 2, alinéa 2, les termes un cycle court de l’enseignement supérieur ou sont insérés après ceux de et pour la personne qui a accompli avec succès.
 
 - L’article L. 152-8 est modifié comme suit :
 
-  - L’alinéa 1 er est complété par la phrase suivante : Les périodes de stage effectuées auprès d’un même patron de stage soit pendant une même année scolaire ou une même année d’études, soit pendant les douze mois suivant la dernière inscription scolaire sont additionnées et considérées comme un seul stage.
+  - L’alinéa 1er est complété par la phrase suivante :
 
-  - À l’alinéa 2, les termes un cycle court de l’enseignement supérieur ou sont insérés après ceux de Pour les stagiaires qui ont accompli avec succès .
+Les périodes de stage effectuées auprès d’un même patron de stage soit pendant une même année scolaire ou une même année d’études, soit pendant les douze mois suivant la dernière inscription scolaire sont additionnées et considérées comme un seul stage.
+
+  - À l’alinéa 2, les termes un cycle court de l’enseignement supérieur ou sont insérés après ceux de Pour les stagiaires qui ont accompli avec succès.
 
 <a id="art-69"></a>
 ## Art. 69.
@@ -1783,19 +1787,29 @@ La loi modifiée du 28 octobre 2016 relative à la reconnaissance des qualificat
 
 - L’article 31 est modifié comme suit :
 
-  - Au paragraphe 8, alinéa 1 er , les termes , et par le diplôme d’État d’infirmier sont supprimés.
+  - Au paragraphe 8, alinéa 1er, les termes , et par le diplôme d’État d’infirmier sont supprimés.
 
-  - À la suite du paragraphe 8 est ajouté un paragraphe 9 nouveau ayant la teneur suivante : (9) L’Université du Luxembourg organise la formation d’infirmier, qui est sanctionnée par le grade de bachelor, mention « infirmier », doté d’un total de 180 crédits ECTS. Cette formation à temps plein porte sur trois années d’études, et elle répond aux critères fixés au présent article. Le plan d’études est précisé dans le règlement des études de l’Université du Luxembourg.
+  - À la suite du paragraphe 8 est ajouté un paragraphe 9 nouveau ayant la teneur suivante :
+
+(9)
+
+L’Université du Luxembourg organise la formation d’infirmier, qui est sanctionnée par le grade de bachelor, mention « infirmier », doté d’un total de 180 crédits ECTS. Cette formation à temps plein porte sur trois années d’études, et elle répond aux critères fixés au présent article.
+
+Le plan d’études est précisé dans le règlement des études de l’Université du Luxembourg.
 
 - L’article 40 est modifié comme suit :
 
-  - Au paragraphe 4, alinéa 1 er , les termes , et par le diplôme d’État de sage-femme sont supprimés.
+  - Au paragraphe 4, alinéa 1er, les termes , et par le diplôme d’État de sage-femme sont supprimés.
 
-  - À la suite du paragraphe 4 est ajouté un paragraphe 5 nouveau ayant la teneur suivante : (5) L’Université du Luxembourg organise la formation de sage-femme, qui est sanctionnée par le grade de bachelor, mention « sage-femme », doté d’un total de 240 crédits ECTS. Cette formation à temps plein porte sur quatre ans d’enseignement théorique et clinique, et elle répond aux critères fixés au présent article. Le plan d’études est précisé dans le règlement des études de l’Université du Luxembourg.
+  - À la suite du paragraphe 4 est ajouté un paragraphe 5 nouveau ayant la teneur suivante :
+
+(5)
+
+L’Université du Luxembourg organise la formation de sage-femme, qui est sanctionnée par le grade de bachelor, mention « sage-femme », doté d’un total de 240 crédits ECTS. Cette formation à temps plein porte sur quatre ans d’enseignement théorique et clinique, et elle répond aux critères fixés au présent article. Le plan d’études est précisé dans le règlement des études de l’Université du Luxembourg.
 
 - L’article 68 est modifié comme suit :
 
-  - Au paragraphe 3, alinéa 1 er , les termes et des diplômes accrédités au sens de la loi du 21 juillet 2023 ayant pour objet l’organisation de l’enseignement supérieur sont insérés après ceux de L’inscription des diplômes nationaux .
+  - Au paragraphe 3, alinéa 1er, les termes et des diplômes accrédités au sens de la loi du 21 juillet 2023 ayant pour objet l’organisation de l’enseignement supérieur sont insérés après ceux de L’inscription des diplômes nationaux.
 
   - Le paragraphe 3, alinéa 2, est remplacé par le libellé suivant : L’inscription d’un diplôme émis par un État ou par une organisation supranationale avec lesquels le Grand-Duché de Luxembourg a conclu un accord se fait d’office, sur base d’une demande individuelle. .
 
@@ -1806,33 +1820,101 @@ Modification de la loi modifiée du 27 juin 2018 ayant pour objet l’organisati
 
 La loi modifiée du 27 juin 2018 ayant pour objet l’organisation de l’Université du Luxembourg est modifiée comme suit :
 
-- À l’article 1 er est inséré, à la suite du point 6°, un point 6 bis ° nouveau ayant la teneur suivante : « 6bis° « docteur en médecine » : grade sanctionnant les études spécialisées en médecine telles que définies par la loi modifiée du 31 juillet 2020 portant organisation d’études spécialisées en médecine à l’Université du Luxembourg, conféré conjointement avec le diplôme d’études spécialisées en médecine ».
+- À l’article 1er est inséré, à la suite du point 6°, un point 6bis° nouveau ayant la teneur suivante :
+
+- « 6bis° « docteur en médecine » : grade sanctionnant les études spécialisées en médecine telles que définies par la loi modifiée du 31 juillet 2020 portant organisation d’études spécialisées en médecine à l’Université du Luxembourg, conféré conjointement avec le diplôme d’études spécialisées en médecine ».
 
 - L’article 6 est modifié comme suit :
 
-  - Le paragraphe 16 est remplacé par le libellé suivant : (16) Les indemnités et jetons de présence des membres du conseil de gouvernance, ainsi que les jetons de présence du recteur et des membres des comités du conseil visés au paragraphe 14 sont fixés par règlement grand-ducal et sont à charge de l’Université.
+  - Le paragraphe 16 est remplacé par le libellé suivant :
 
-  - À la suite du paragraphe 16 est ajouté un paragraphe 17 nouveau ayant la teneur suivante : (17) Le commissaire du Gouvernement bénéficie d’une indemnité mensuelle de 61 euros à la cote 100 de l’indice des prix à la consommation national au 1er janvier 1948, sous réserve d’un taux moyen annuel de participation aux réunions du conseil de gouvernance dépassant 50 pour cent. Pour chaque réunion du conseil de gouvernance, le commissaire du Gouvernement perçoit un jeton de présence de 6 euros à la cote 100 de l’indice des prix à la consommation national au 1er janvier 1948, par heure de présence. Les indemnités et jetons de présence du commissaire du Gouvernement sont à charge de l’État.
+(16)
 
-- À l’article 7, paragraphe 1 er , est ajouté in fine un point 24° nouveau libellé comme suit : il arrête la création, le maintien et la suppression des certificats.
+Les indemnités et jetons de présence des membres du conseil de gouvernance, ainsi que les jetons de présence du recteur et des membres des comités du conseil visés au paragraphe 14 sont fixés par règlement grand-ducal et sont à charge de l’Université.
 
-- À l’article 31, paragraphe 2, est ajoutée in fine la phrase suivante : Le diplôme d’études spécialisées en médecine confère le grade de docteur en médecine.
+  - À la suite du paragraphe 16 est ajouté un paragraphe 17 nouveau ayant la teneur suivante :
 
-- À l’article 32 est inséré, à la suite du paragraphe 1 er , un paragraphe 1 bis nouveau ayant la teneur suivante : (1bis) L’accès aux études d’infirmier spécialisé est réservé aux personnes autorisées à exercer la profession d’infirmier en vertu de l’article 2 de la loi modifiée du 26 mars 1992 sur l’exercice et la revalorisation de certaines professions de santé.
+(17)
+
+Le commissaire du Gouvernement bénéficie d’une indemnité mensuelle de 61 euros à la cote 100 de l’indice des prix à la consommation national au 1er janvier 1948, sous réserve d’un taux moyen annuel de participation aux réunions du conseil de gouvernance dépassant 50 pour cent. Pour chaque réunion du conseil de gouvernance, le commissaire du Gouvernement perçoit un jeton de présence de 6 euros à la cote 100 de l’indice des prix à la consommation national au 1er janvier 1948, par heure de présence.
+
+Les indemnités et jetons de présence du commissaire du Gouvernement sont à charge de l’État.
+
+- À l’article 7, paragraphe 1er, est ajouté in fine un point 24° nouveau libellé comme suit :
+
+- il arrête la création, le maintien et la suppression des certificats.
+
+- À l’article 31, paragraphe 2, est ajoutée in fine la phrase suivante :
+
+Le diplôme d’études spécialisées en médecine confère le grade de docteur en médecine.
+
+- À l’article 32 est inséré, à la suite du paragraphe 1er, un paragraphe 1bis nouveau ayant la teneur suivante :
+
+(1bis)
+
+L’accès aux études d’infirmier spécialisé est réservé aux personnes autorisées à exercer la profession d’infirmier en vertu de l’article 2 de la loi modifiée du 26 mars 1992 sur l’exercice et la revalorisation de certaines professions de santé.
 
 - L’article 36 est modifié comme suit :
 
-  - Au paragraphe 6, alinéa 4, les termes conférant le grade de docteur en médecine sont insérés après ceux de Le diplôme d’études spécialisées en médecine .
+  - Au paragraphe 6, alinéa 4, les termes conférant le grade de docteur en médecine sont insérés après ceux de Le diplôme d’études spécialisées en médecine.
 
-  - Au paragraphe 10 est ajouté in fine un alinéa 3 nouveau ayant la teneur suivante : Le supplément au diplôme comporte au moins les éléments suivants : informations sur le détenteur du diplôme : nom, prénom, date de naissance ; informations sur le diplôme : intitulé du programme d’études et, si applicable, grade ou titre conféré, principaux domaines d’études couverts par le diplôme, nom et statut de l’établissement ayant délivré le diplôme, langues d’enseignement ; informations sur le niveau de qualification, la durée d’études régulière du programme exprimée en années d’études et en crédits ECTS, les conditions d’accès au programme d’études ; informations sur le contenu du programme d’études et le résultat obtenu : forme d’organisation des études, acquis d’apprentissage, système de notation, notes et crédits ECTS obtenus ; informations sur la fonction de la qualification : accès à un niveau d’études supérieur et, si applicable, accès à une profession réglementée ; date de délivrance et signature ; informations générales sur le système national d’enseignement supérieur.
+  - Au paragraphe 10 est ajouté in fine un alinéa 3 nouveau ayant la teneur suivante :
 
-  - À la suite du paragraphe 10 est inséré un paragraphe 10 bis nouveau ayant la teneur suivante : (10bis) Les grades visés au paragraphe 10 sont inscrits d’office au registre des titres de formation, section de l’enseignement supérieur, visé à l’article 68 de la loi modifiée du 28 octobre 2016 relative à la reconnaissance des qualifications professionnelles. À cet effet, l’Université du Luxembourg communique annuellement au ministre, pour le 31 décembre au plus tard, les informations suivantes par rapport aux étudiants ayant obtenu leur diplôme au cours de l’année en question : le nom et le prénom, le sexe, la date et le lieu de naissance de l’étudiant ; l’intitulé du programme d’études, le grade conféré, la mention attribuée et la date et lieu de délivrance du diplôme.
+Le supplément au diplôme comporte au moins les éléments suivants :
+
+- informations sur le détenteur du diplôme : nom, prénom, date de naissance ;
+
+- informations sur le diplôme : intitulé du programme d’études et, si applicable, grade ou titre conféré, principaux domaines d’études couverts par le diplôme, nom et statut de l’établissement ayant délivré le diplôme, langues d’enseignement ;
+
+- informations sur le niveau de qualification, la durée d’études régulière du programme exprimée en années d’études et en crédits ECTS, les conditions d’accès au programme d’études ;
+
+- informations sur le contenu du programme d’études et le résultat obtenu : forme d’organisation des études, acquis d’apprentissage, système de notation, notes et crédits ECTS obtenus ;
+
+- informations sur la fonction de la qualification : accès à un niveau d’études supérieur et, si applicable, accès à une profession réglementée ;
+
+- date de délivrance et signature ;
+
+- informations générales sur le système national d’enseignement supérieur.
+
+  - À la suite du paragraphe 10 est inséré un paragraphe 10bis nouveau ayant la teneur suivante :
+
+(10bis)
+
+Les grades visés au paragraphe 10 sont inscrits d’office au registre des titres de formation, section de l’enseignement supérieur, visé à l’article 68 de la loi modifiée du 28 octobre 2016 relative à la reconnaissance des qualifications professionnelles. À cet effet, l’Université du Luxembourg communique annuellement au ministre, pour le 31 décembre au plus tard, les informations suivantes par rapport aux étudiants ayant obtenu leur diplôme au cours de l’année en question :
+
+- le nom et le prénom, le sexe, la date et le lieu de naissance de l’étudiant ;
+
+- l’intitulé du programme d’études, le grade conféré, la mention attribuée et la date et lieu de délivrance du diplôme.
 
 - L’article 37 est modifié comme suit :
 
-  - Au paragraphe 8 est ajouté in fine un alinéa 4 nouveau ayant la teneur suivante : Le supplément au diplôme comporte au moins les éléments suivants : informations sur le détenteur du diplôme : nom, prénom, date de naissance ; informations sur le diplôme : intitulé du programme d’études et, si applicable, grade ou titre conféré, principaux domaines d’études couverts par le diplôme, nom et statut de l’établissement ayant délivré le diplôme, langues d’enseignement ; informations sur le niveau de qualification, la durée d’études régulière du programme exprimée en années d’études et en crédits ECTS, les conditions d’accès au programme d’études ; informations sur le contenu du programme d’études et le résultat obtenu : acquis d’apprentissage, système de notation, notes et crédits ECTS obtenus ; informations sur la fonction de la qualification et, si applicable, accès à une profession réglementée ; date de délivrance et signature ; informations générales sur le système national d’enseignement supérieur.
+  - Au paragraphe 8 est ajouté in fine un alinéa 4 nouveau ayant la teneur suivante :
 
-  - À la suite du paragraphe 8 est inséré un paragraphe 8 bis nouveau ayant la teneur suivante : (8bis) Le grade visé au paragraphe 8 est inscrit d’office au registre des titres de formation, section de l’enseignement supérieur, visé à l’article 68 de la loi modifiée du 28 octobre 2016 relative à la reconnaissance des qualifications professionnelles. À cet effet, l’Université du Luxembourg communique annuellement au ministre, pour le 31 décembre au plus tard, les informations suivantes par rapport aux étudiants ayant obtenu leur diplôme au cours de l’année en question : le nom et le prénom, le sexe, la date et le lieu de naissance de l’étudiant ; l’intitulé du programme d’études, le grade conféré et la date et lieu de délivrance du diplôme.
+Le supplément au diplôme comporte au moins les éléments suivants :
+
+- informations sur le détenteur du diplôme : nom, prénom, date de naissance ;
+
+- informations sur le diplôme : intitulé du programme d’études et, si applicable, grade ou titre conféré, principaux domaines d’études couverts par le diplôme, nom et statut de l’établissement ayant délivré le diplôme, langues d’enseignement ;
+
+- informations sur le niveau de qualification, la durée d’études régulière du programme exprimée en années d’études et en crédits ECTS, les conditions d’accès au programme d’études ;
+
+- informations sur le contenu du programme d’études et le résultat obtenu : acquis d’apprentissage, système de notation, notes et crédits ECTS obtenus ;
+
+- informations sur la fonction de la qualification et, si applicable, accès à une profession réglementée ;
+
+- date de délivrance et signature ;
+
+- informations générales sur le système national d’enseignement supérieur.
+
+  - À la suite du paragraphe 8 est inséré un paragraphe 8bis nouveau ayant la teneur suivante :
+
+(8bis)
+
+Le grade visé au paragraphe 8 est inscrit d’office au registre des titres de formation, section de l’enseignement supérieur, visé à l’article 68 de la loi modifiée du 28 octobre 2016 relative à la reconnaissance des qualifications professionnelles. À cet effet, l’Université du Luxembourg communique annuellement au ministre, pour le 31 décembre au plus tard, les informations suivantes par rapport aux étudiants ayant obtenu leur diplôme au cours de l’année en question :
+
+- le nom et le prénom, le sexe, la date et le lieu de naissance de l’étudiant ;
+
+- l’intitulé du programme d’études, le grade conféré et la date et lieu de délivrance du diplôme.
 
 <a id="art-71"></a>
 ## Art. 71.
@@ -1841,11 +1923,11 @@ Modification de la loi du 31 juillet 2020 portant organisation d’études spéc
 
 La loi du 31 juillet 2020 portant organisation d’études spécialisées en médecine à l’Université du Luxembourg est modifiée comme suit :
 
-- À l’article 1 er , paragraphe 1 er , à la deuxième phrase sont ajoutés in fine les termes suivants : et par le grade de docteur en médecine .
+- À l’article 1er, paragraphe 1er, à la deuxième phrase sont ajoutés in fine les termes suivants : et par le grade de docteur en médecine.
 
-- À l’article 4, paragraphe 1 er , à la deuxième phrase sont ajoutés in fine les termes suivants : et par le grade de docteur en médecine .
+- À l’article 4, paragraphe 1er, à la deuxième phrase sont ajoutés in fine les termes suivants : et par le grade de docteur en médecine.
 
-- À l’article 7, paragraphe 1 er , à la deuxième phrase sont ajoutés in fine les termes suivants : et par le grade de docteur en médecine .
+- À l’article 7, paragraphe 1er, à la deuxième phrase sont ajoutés in fine les termes suivants : et par le grade de docteur en médecine.
 
 <a id="art-72"></a>
 ## Art. 72.

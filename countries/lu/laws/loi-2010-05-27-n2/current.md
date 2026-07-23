@@ -118,7 +118,7 @@ Les définitions suivantes s’appliquent:
 
   - ensemble visé au premier et au deuxième tiret prêt à être installé et qui ne peut fonctionner en l’état qu’après montage sur un moyen de transport ou installation dans un bâtiment ou une construction,
 
-  - ensemble de machines visées au premier, au deuxième et au troisième tirets ou de quasi-machines visées au point g) du paragraphe 1 de l’article 1 er , ensemble de machines qui, afin de concourir à un même résultat, sont disposées et commandées de manière à être solidaires dans leur fonctionnement,
+  - ensemble de machines visées au premier, au deuxième et au troisième tirets ou de quasi-machines visées au point g) du paragraphe 1 de l’article 1er, ensemble de machines qui, afin de concourir à un même résultat, sont disposées et commandées de manière à être solidaires dans leur fonctionnement,
 
   - ensemble de pièces ou d’organes liés entre eux, dont un au moins est mobile, qui sont réunis en vue de soulever des charges et dont la seule force motrice est une force humaine directement appliquée;
 
@@ -144,7 +144,7 @@ L’annexe V comporte une liste indicative des composants de sécurité;
 
 - «quasi-machine»: ensemble qui constitue presque une machine, mais qui ne peut assurer à lui seul une application définie. Un système d’entraînement est une quasi-machine. La quasi-machine est uniquement destinée à être incorporée ou assemblée à d’autres machines ou à d’autres quasi-machines ou équipements en vue de constituer une machine à laquelle la présente loi s’applique;
 
-- «machine d’occasion»: un produit tel qu’énuméré à l’article 1 er , paragraphe 1, et qui a déjà été utilisé dans l’Union Européenne après sa mise sur le marché;
+- «machine d’occasion»: un produit tel qu’énuméré à l’article 1er, paragraphe 1, et qui a déjà été utilisé dans l’Union Européenne après sa mise sur le marché;
 
 - «mise sur le marché»: première mise à disposition dans l’Union Européenne, à titre onéreux ou gratuit, d’une machine ou quasi-machine en vue de sa distribution ou de son utilisation;
 

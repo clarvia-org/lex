@@ -29,21 +29,21 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 Au sens du présent règlement on entend par:
 
-- « appareils », tous les appareils électriques et électroniques, ainsi que les équipements et installations qui contiennent des composants électriques et/ou électroniques;
+- «appareils», tous les appareils électriques et électroniques, ainsi que les équipements et installations qui contiennent des composants électriques et/ou électroniques;
 
-- « perturbations électromagnétiques », les phénomènes électromagnétiques susceptibles de créer des troubles de fonctionnement d’un dispositif, d’un appareil ou d’un système. Une perturbation électromagnétique peut être un bruit électromagnétique, un signal non désiré ou une modification du milieu de propagation lui-même;
+- «perturbations électromagnétiques», les phénomènes électromagnétiques susceptibles de créer des troubles de fonctionnement d’un dispositif, d’un appareil ou d’un système. Une perturbation électromagnétique peut être un bruit électromagnétique, un signal non désiré ou une modification du milieu de propagation lui-même;
 
-- « immunité », l’aptitude d’un dispositif, d’un appareil ou d’un système à fonctionner sans dégradation de qualité en présence d’une perturbation électromagnétique;
+- «immunité», l’aptitude d’un dispositif, d’un appareil ou d’un système à fonctionner sans dégradation de qualité en présence d’une perturbation électromagnétique;
 
-- « compatibilité électromagnétique », l’aptitude d’un dispositif, d’un appareil ou d’un système à fonctionner dans son environnement électromagnétique de façcon satisfaisante et sans produire lui-même des perturbations électromagnétiques intolérables pour tout ce qui se trouve dans cet environnement;
+- «compatibilité électromagnétique», l’aptitude d’un dispositif, d’un appareil ou d’un système à fonctionner dans son environnement électromagnétique de façcon satisfaisante et sans produire lui-même des perturbations électromagnétiques intolérables pour tout ce qui se trouve dans cet environnement;
 
-- « organisme compétent », organisme qui peut apporter la démonstration de sa conformité aux normes harmonisées de la série EN 45000 par la présentation d’une attestation d’accréditation ou par d’autres moyens de preuve;
+- «organisme compétent», organisme qui peut apporter la démonstration de sa conformité aux normes harmonisées de la série EN 45000 par la présentation d’une attestation d’accréditation ou par d’autres moyens de preuve;
 
-- « organisme notifié », organisme compétent qui est notifié par un Etat membre à la Commission et aux autres Etats membres;
+- «organisme notifié», organisme compétent qui est notifié par un Etat membre à la Commission et aux autres Etats membres;
 
-- « attestation CE de type », document par lequel un organisme notifié certifie que le type d’appareil examiné répond aux dispositions du présent règlement, qui le concernent.
+- «attestation CE de type», document par lequel un organisme notifié certifie que le type d’appareil examiné répond aux dispositions du présent règlement, qui le concernent.
 
-- « norme harmonisée », spécification technique (norme européenne ou document d’harmonisation), adoptée par le Comité Européen de Normalisation Electrotechnique (CENELEC) sur mandat de la Commission, conformément à la directive 83/189/CEE du Conseil, du 28 mars 1983, prévoyant une procédure d’information dans le domaine des normes et réglementations techniques telle qu’elle a été modifiée.
+- «norme harmonisée», spécification technique (norme européenne ou document d’harmonisation), adoptée par le Comité Européen de Normalisation Electrotechnique (CENELEC) sur mandat de la Commission, conformément à la directive 83/189/CEE du Conseil, du 28 mars 1983, prévoyant une procédure d’information dans le domaine des normes et réglementations techniques telle qu’elle a été modifiée.
 
 <a id="art-2"></a>
 ## Art. 2.
@@ -52,7 +52,7 @@ Au sens du présent règlement on entend par:
 
 - Dans la mesure où des exigences de protection spécifiées dans le présent règlement sont harmonisées, pour certains appareils, par des règlements spécifiques, le présent règlement ne s’applique pas ou cesse de s’appliquer, pour ces appareils et pour ces exigences de protection, dès l’entrée en vigueur de ces règlements spécifiques. Constitue notamment un règlement spécifique au sens du présent paragraphe le règlement grand-ducal du 5 février 1993 relatif aux dispositifs médicaux implantables actifs.
 
-- Les équipements radio utilisés par les radio-amateurs au sens de la définition n o 53, article 1 du «règlement radio», qui fait partie de la convention internationale des télécommunications, sont exclus du champ d’application du présent règlement, sauf si l’équipement est disponible dans le commerce.
+- Les équipements radio utilisés par les radio-amateurs au sens de la définition no 53, article 1 du «règlement radio», qui fait partie de la convention internationale des télécommunications, sont exclus du champ d’application du présent règlement, sauf si l’équipement est disponible dans le commerce.
 
 <a id="art-3"></a>
 ## Article 3

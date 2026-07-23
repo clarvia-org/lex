@@ -176,9 +176,9 @@ Pour les véhicules repris à l’article 15-1, paragraphe 1er, alinéa 1er, de 
 
 - une copie du contrat de location ou de leasing du véhicule identifiant le véhicule moyennant son numéro d’identification, lorsque la demande est introduite par le détenteur du véhicule, ou lorsque la demande concerne un véhicule qui fait l’objet d’un contrat de location ou de leasing ;
 
-- une copie d’un document établi par le fournisseur d’électricité justifiant que le propriétaire du véhicule ou, dans le cas d’un contrat de location ou de leasing, le détenteur du véhicule inscrit sur le certificat d’immatriculation ou identifié sur le contrat de location ou de leasing, a souscrit, au plus tard 6 mois avant la date d’introduction de la demande en vue de l’obtention de l’aide financière, à un contrat de fourniture d’électricité verte issue à 100 % de sources renouvelables. Ce document est à présenter uniquement pour les véhicules repris à l’article 15-1, paragraphe 1 er , alinéa 1 er , points 1° et 3° .
+- une copie d’un document établi par le fournisseur d’électricité justifiant que le propriétaire du véhicule ou, dans le cas d’un contrat de location ou de leasing, le détenteur du véhicule inscrit sur le certificat d’immatriculation ou identifié sur le contrat de location ou de leasing, a souscrit, au plus tard 6 mois avant la date d’introduction de la demande en vue de l’obtention de l’aide financière, à un contrat de fourniture d’électricité verte issue à 100 % de sources renouvelables. Ce document est à présenter uniquement pour les véhicules repris à l’article 15-1, paragraphe 1er, alinéa 1er, points 1° et 3° .
 
-- une copie du contrat de vente du véhicule, lorsque la date de conclusion du contrat de vente est comprise entre le 11 mai 2020 et le 30 juin 2026 inclusivement , et lorsque le véhicule est mis en circulation pour la première fois entre le 1 er avril 2021 et le 30 juin 2027 inclusivement .
+- une copie du contrat de vente du véhicule, lorsque la date de conclusion du contrat de vente est comprise entre le 11 mai 2020 et le 30 juin 2026 inclusivement , et lorsque le véhicule est mis en circulation pour la première fois entre le 1er avril 2021 et le 30 juin 2027 inclusivement .
 
 Pour les véhicules repris à l’article 15-4, paragraphe 1er, elles doivent comporter l’ensemble des pièces justificatives suivantes :
 
@@ -192,9 +192,9 @@ Pour les véhicules repris à l’article 15-7, paragraphe 1er, elles doivent co
 
 - une copie de la facture acquittée en due forme, attestant l’achat du véhicule ;
 
-- une copie de la décision prise par le président du Fonds national de solidarité concernant l’octroi de l’allocation de vie chère ou de la prime énergie au requérant de l’aide financière durant la même année où le véhicule est acquis. Ce document est à présenter uniquement pour les véhicules repris à l’article 15-7, paragraphe 1 er , points 1° et 2°, pour lesquels la facture est établie à partir du 1 er octobre 2024 ;
+- une copie de la décision prise par le président du Fonds national de solidarité concernant l’octroi de l’allocation de vie chère ou de la prime énergie au requérant de l’aide financière durant la même année où le véhicule est acquis. Ce document est à présenter uniquement pour les véhicules repris à l’article 15-7, paragraphe 1er, points 1° et 2°, pour lesquels la facture est établie à partir du 1er octobre 2024 ;
 
-- une copie de la fiche technique indiquant la charge utile du véhicule. Ce document est à présenter uniquement pour les véhicules repris à l’article 15-7, paragraphe 1 er , point 3°.
+- une copie de la fiche technique indiquant la charge utile du véhicule. Ce document est à présenter uniquement pour les véhicules repris à l’article 15-7, paragraphe 1er, point 3°.
 
 (5)
 
@@ -219,9 +219,15 @@ Les aides financières prévues par le présent règlement ne sont attribuées q
 
 L’article 2, rubrique 2.3. de l’arrêté grand-ducal modifié du 23 novembre 1955 portant règlement de la circulation sur toutes les voies publiques est modifié comme suit :
 
-- Le point e) est remplacé par le libellé suivant : Véhicule automoteur à carburant de substitution : véhicule à moteur visé à la rubrique 2.3., points a) - d) et f) - h), sauf un véhicule alimenté entièrement à l’essence ou au diesel et qui a fait l’objet d’une réception conformément au cadre établi par la directive 2007/46/CE visée à la rubrique 4.2. »
+- Le point e) est remplacé par le libellé suivant :
 
-- Deux nouvelles définitions g) et h) sont insérées avec les libellés suivants : véhicule automoteur électrique pur : un véhicule automoteur électrique dont la propulsion est assurée par un système consistant en un ou plusieurs dispositifs de stockage de l'énergie électrique, un ou plusieurs dispositifs de conditionnement de l'énergie électrique et une ou plusieurs machines électriques conçues pour transformer l'énergie électrique stockée en énergie mécanique qui est transmise aux roues pour faire avancer le véhicule ; véhicule automoteur à pile à combustible à hydrogène : un véhicule automoteur électrique propulsé par une pile à combustible qui convertit l'énergie chimique de l'hydrogène en énergie électrique afin d'assurer la propulsion du véhicule ; »
+- Véhicule automoteur à carburant de substitution : véhicule à moteur visé à la rubrique 2.3., points a) - d) et f) - h), sauf un véhicule alimenté entièrement à l’essence ou au diesel et qui a fait l’objet d’une réception conformément au cadre établi par la directive 2007/46/CE visée à la rubrique 4.2. »
+
+- Deux nouvelles définitions g) et h) sont insérées avec les libellés suivants :
+
+- véhicule automoteur électrique pur : un véhicule automoteur électrique dont la propulsion est assurée par un système consistant en un ou plusieurs dispositifs de stockage de l'énergie électrique, un ou plusieurs dispositifs de conditionnement de l'énergie électrique et une ou plusieurs machines électriques conçues pour transformer l'énergie électrique stockée en énergie mécanique qui est transmise aux roues pour faire avancer le véhicule ;
+
+- véhicule automoteur à pile à combustible à hydrogène : un véhicule automoteur électrique propulsé par une pile à combustible qui convertit l'énergie chimique de l'hydrogène en énergie électrique afin d'assurer la propulsion du véhicule ; »
 
 <a id="art-5"></a>
 ## Art. 5.

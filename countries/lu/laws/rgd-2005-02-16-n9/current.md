@@ -40,7 +40,7 @@ Définitions
 
 Pour l’application du présent règlement, on entend par :
 
-- « navire roulier à passagers » : un navire transportant plus de douze passagers, doté d’espaces rouliers à cargaison ou d’espaces de catégorie spéciale, tels que définis à la règle II-2/3 de la Convention SOLAS, telle que modifiée , et approuvée par la loi modifiée du 9 novembre 1990 portant approbation de certaines conventions internationales en matière maritime ;
+- « navire roulier à passagers » : un navire transportant plus de douze passagers, doté d’espaces rouliers à cargaison ou d’espaces de catégorie spéciale, tels que définis à la règle II-2/3 de la Convention SOLAS, telle que modifiée, et approuvée par la loi modifiée du 9 novembre 1990 portant approbation de certaines conventions internationales en matière maritime ;
 
 - « navire roulier à passager existant » : tout navire roulier à passagers dont la quille est posée ou qui se trouve à un stade de construction équivalent avant le 5 décembre 2024 ; on entend par « stade de construction équivalent », le stade auquel :
 
@@ -82,7 +82,7 @@ Pour l’application du présent règlement, on entend par :
 
 - « compagnie » : le propriétaire d’un navire roulier à passagers, ou tout autre organisme ou toute autre personne, telle que l’armateur gérant ou l’affréteur coque nue, auquel le propriétaire a confié la responsabilité de l’exploitation du navire à passagers.
 
-- « hauteur de houle significative (hS) » : notion utilisée pour déterminer la hauteur de l’eau sur le pont roulier, conformément à la prescription spécifique de stabilité définie à l’annexe I, section A de la directive 2003/25/CE . ».
+- « hauteur de houle significative (hS) » : notion utilisée pour déterminer la hauteur de l’eau sur le pont roulier, conformément à la prescription spécifique de stabilité définie à l’annexe I, section A de la directive 2003/25/CE. ».
 
 - « zone maritime » : zone définie d’un commun accord par les États membres de l’Union européenne ou, chaque fois que c’est applicable et possible, par les États membres de l’Union européenne et les pays tiers situés à chaque extrémité de la route maritime et pour lesquelles les États du port établissent et mettent à jour une liste.
 
@@ -115,7 +115,7 @@ Au choix de la compagnie, les navires rouliers à passagers neufs certifiés pou
 
 - les prescriptions spécifiques de stabilité définies à l’annexe I, section A, de la directive 2003/25/CE du 14 avril 2003 telle que modifiée par les actes de la Commission européenne pris en conformité de l’article 10 de cette directive ; ou
 
-- les prescriptions spécifiques de stabilité définies à l’annexe I, section B, de la directive 2003/25/CE telle que modifiée par les actes de la Commission européenne pris en conformité de l’article 10 de cette directive .
+- les prescriptions spécifiques de stabilité définies à l’annexe I, section B, de la directive 2003/25/CE telle que modifiée par les actes de la Commission européenne pris en conformité de l’article 10 de cette directive.
 
 (3)
 
@@ -123,7 +123,7 @@ Au choix de la compagnie, les navires rouliers à passagers existants certifiés
 
 - les prescriptions spécifiques de stabilité définies au chapitre II-1, partie B, de la convention SOLAS 2020 ; ou
 
-- les prescriptions spécifiques de stabilité définies à l’annexe I, section A, de la directive 2003/25/CE telle que modifiée par les actes de la Commission européenne pris en conformité de l’article 10 de cette directive , outre les prescriptions énoncées au chapitre II-1, partie B, de la convention SOLAS 2009.
+- les prescriptions spécifiques de stabilité définies à l’annexe I, section A, de la directive 2003/25/CE telle que modifiée par les actes de la Commission européenne pris en conformité de l’article 10 de cette directive, outre les prescriptions énoncées au chapitre II-1, partie B, de la convention SOLAS 2009.
 
 Les prescriptions de stabilité appliquées doivent figurer sur le certificat du navire requis en vertu de l’article 6 du présent règlement.
 
@@ -133,7 +133,7 @@ Au choix de la compagnie, les navires rouliers à passagers existants certifiés
 
 - les prescriptions spécifiques de stabilité définies à l’annexe I, section A, de la directive 2003/25/CE du 14 avril 2003 telle que modifiée par les actes de la Commission européenne pris en conformité de l’article 10 de cette directive ; ou
 
-- les prescriptions spécifiques de stabilité définies à l’annexe I, section B, de la directive 2003/25/CE telle que modifiée par les actes de la Commission européenne pris en conformité de l’article 10 de cette directive .
+- les prescriptions spécifiques de stabilité définies à l’annexe I, section B, de la directive 2003/25/CE telle que modifiée par les actes de la Commission européenne pris en conformité de l’article 10 de cette directive.
 
 Les prescriptions de stabilité appliquées doivent figurer sur le certificat du navire visé à l’article 6 du présent règlement.
 

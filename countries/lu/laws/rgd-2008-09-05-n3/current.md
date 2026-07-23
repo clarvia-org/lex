@@ -39,7 +39,7 @@ Pour faire l’objet d’un examen, la demande visée à l’article 1er doit co
 
 - une copie certifiée conforme à l’original du passeport intégral du requérant;
 
-- un curriculum vitae ;
+- un curriculum vitae;
 
 - une copie des diplômes ou des qualifications professionnelles du requérant, avec si nécessaire, leur traduction si la pièce originale n’est pas rédigée en langue française, allemande ou anglaise ;
 
@@ -47,7 +47,7 @@ Pour faire l’objet d’un examen, la demande visée à l’article 1er doit co
 
 - une lettre de motivation du requérant à l’appui de la demande;
 
-- le certificat récent établi par l’Agence pour le développement de l’emploi conformément à l’article L.622-4, paragraphe (5) du Code du travail , attestant le droit de l’employeur de recruter pour le poste déclaré vacant la personne de son choix ou la preuve que l’employeur a déclaré le poste vacant à l’Agence pour le développement de l’emploi dans les cas où le recrutement d’un travailleur salarié n’est pas soumis à la condition figurant à l’article 42, paragraphe (1), point 1 de la loi du 29 août 2008 précitée.
+- le certificat récent établi par l’Agence pour le développement de l’emploi conformément à l’article L.622-4, paragraphe (5) du Code du travail, attestant le droit de l’employeur de recruter pour le poste déclaré vacant la personne de son choix ou la preuve que l’employeur a déclaré le poste vacant à l’Agence pour le développement de l’emploi dans les cas où le recrutement d’un travailleur salarié n’est pas soumis à la condition figurant à l’article 42, paragraphe (1), point 1 de la loi du 29 août 2008 précitée.
 
 (2)
 

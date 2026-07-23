@@ -43,7 +43,7 @@ Dans l’ensemble des dispositions de la loi modifiée du 27 juillet 1991 sur le
 
 L’article 2 de la même loi est complété par un point 1) nouveau qui a la teneur suivante:
 
-- Autorité , l’Autorité luxembourgeoise indépendante de l’audiovisuel; Le texte actuel de l’article 2 est maintenu tel quel, mais les définitions figurant sous les numéros de 1 à 28 figureront désormais sous les numéros de 2 à 29.
+- Autorité, l’Autorité luxembourgeoise indépendante de l’audiovisuel; Le texte actuel de l’article 2 est maintenu tel quel, mais les définitions figurant sous les numéros de 1 à 28 figureront désormais sous les numéros de 2 à 29.
 
 <a id="art-3"></a>
 ## Art. 3.
@@ -67,7 +67,7 @@ A l’article 9 aux paragraphes (2) et (3) de la même loi, les deux mentions de
 
 A l’article 14 paragraphe (5) de la même loi sont apportées les modifications suivantes:
 
-- Le mot habilité figurant dans la première phrase est mis au féminin. Dans la deuxième phrase, le mot Il est remplacé par Elle et le terme chargé est complété par la rajoute d’un e .
+- Le mot habilité figurant dans la première phrase est mis au féminin. Dans la deuxième phrase, le mot Il est remplacé par Elle et le terme chargé est complété par la rajoute d’un e.
 
 - La dernière phrase est supprimée.
 
@@ -96,11 +96,11 @@ A l’article 23ter de la même loi, dernière phrase, les mots au ministre ayan
 
 A l’article 23quater de la même loi sont apportées les modifications suivantes:
 
-- Au paragraphe (2), dernière phrase, les mots au ministre ayant dans ses attributions les médias et à sont biffés et remplacés par le mot à et le mot leur employé avant le mot fournir et avant le mot permettre est à chaque fois remplacé par le mot lui .
+- Au paragraphe (2), dernière phrase, les mots au ministre ayant dans ses attributions les médias et à sont biffés et remplacés par le mot à et le mot leur employé avant le mot fournir et avant le mot permettre est à chaque fois remplacé par le mot lui.
 
-- Au paragraphe (3) du même article, la phrase suivante est ajoutée: La notification prévue au présent paragraphe peut également être effectuée par la personne à laquelle incombe l’obligation visée au paragraphe (2) .
+- Au paragraphe (3) du même article, la phrase suivante est ajoutée: La notification prévue au présent paragraphe peut également être effectuée par la personne à laquelle incombe l’obligation visée au paragraphe (2).
 
-- Au paragraphe (4) première phrase du même article sont insérés après les mots au chapitre V les mots suivants ainsi qu’à l’article 34bis de la présente loi .
+- Au paragraphe (4) première phrase du même article sont insérés après les mots au chapitre V les mots suivants ainsi qu’à l’article 34bis de la présente loi.
 
 <a id="art-12"></a>
 ## Art. 12.
@@ -116,9 +116,9 @@ L’article 25 de la même loi est modifié comme suit:
 
 L’article 28ter de la même loi est modifié comme suit:
 
-- Au paragraphe (2) de cet article, après les mots si le fournisseur du service de télévision sont intercalés les mots demandant l’accès .
+- Au paragraphe (2) de cet article, après les mots si le fournisseur du service de télévision sont intercalés les mots demandant l’accès.
 
-- Au paragraphe (4) de cet article les mots la même émission est offerte sont remplacés par les mots le même programme est offert .
+- Au paragraphe (4) de cet article les mots la même émission est offerte sont remplacés par les mots le même programme est offert.
 
 <a id="art-14"></a>
 ## Art. 14.
@@ -154,8 +154,6 @@ L’article 35 de la même loi est modifié et a désormais la teneur suivante:
 
 ##### Chapitre VII «De la surveillance de l’application de la loi»
 
-«De la surveillance de l’application de la loi»
-
 <a id="art-35"></a>
 ## Art. 35.
 
@@ -187,7 +185,7 @@ L’Autorité a pour mission:
 
 - d’exercer les attributions lui confiées par l’article 6 de la loi du 20 avril 2009 relative à l’accès aux représentations cinématographiques publiques,
 
-- de surveiller, de contrôler et d’assurer le respect des dispositions légales et réglementaires et des dispositions des cahiers des charges des services de médias audiovisuels ou sonores qui relèvent de la compétence des autorités luxembourgeoises en application de la présente loi, soit parce qu’ils sont bénéficiaires d’une concession ou permission accordée en vertu de la présente loi, soit parce qu’ils ont notifié leurs services conformément à l’article 23 bis , 23 ter ou 23 quater (2) de la présente loi.
+- de surveiller, de contrôler et d’assurer le respect des dispositions légales et réglementaires et des dispositions des cahiers des charges des services de médias audiovisuels ou sonores qui relèvent de la compétence des autorités luxembourgeoises en application de la présente loi, soit parce qu’ils sont bénéficiaires d’une concession ou permission accordée en vertu de la présente loi, soit parce qu’ils ont notifié leurs services conformément à l’article 23bis, 23ter ou 23quater (2) de la présente loi.
 
 (3)
 
@@ -211,7 +209,7 @@ A. Le Conseil d’administration
 
 1. Les compétences du Conseil d’administration
 
-- Il se prononce sur la recevabilité d’une plainte et l’ouverture d’une instruction, constate les violations à la présente loi et aux règlements pris en exécution de celle-ci, ainsi que les manquements aux obligations découlant des concessions, permissions et des charges assortis et prononce le cas échéant une des sanctions prévues à l’article 35 sexies de la présente loi, le directeur entendu en son avis.
+- Il se prononce sur la recevabilité d’une plainte et l’ouverture d’une instruction, constate les violations à la présente loi et aux règlements pris en exécution de celle-ci, ainsi que les manquements aux obligations découlant des concessions, permissions et des charges assortis et prononce le cas échéant une des sanctions prévues à l’article 35sexies de la présente loi, le directeur entendu en son avis.
 
 - Lorsque le Conseil d’administration arrive à la conclusion que les faits relevés par le dossier d’instruction ne constituent pas un manquement aux dispositions de la présente loi et qu’aucune disposition de la présente loi n’ait été enfreinte, il décide de classer l’affaire.
 
@@ -377,7 +375,7 @@ Elle établit son règlement d’ordre intérieur qui règle les modalités de f
 
 Elle a les missions suivantes:
 
-- elle doit être consultée dans le cadre d’une instruction concernant les articles 26 bis , 27 ter , 28 quater et 28 quinquies de la présente loi;
+- elle doit être consultée dans le cadre d’une instruction concernant les articles 26bis, 27ter, 28quater et 28quinquies de la présente loi;
 
 - elle doit être consultée en cas de saisine de l’Autorité conformément à l’article 6 alinéa 2 de la loi du 20 avril 2009 relative à l’accès aux représentations cinématographiques;
 
@@ -533,9 +531,9 @@ Dans tous les cas visés au présent article, il est statué après une procédu
 
 Si un fournisseur de services de medias ne se met pas en conformité avec une disposition visée au paragraphe (3) après la prononciation d’une amende d’ordre prononcée sur base du paragraphe (3), ou en cas de récidive pour violation de la même disposition dans un délai de six mois suivant la prononciation de l’amende, soit le maximum de l’amende d’ordre prévue au paragraphe (3) c) peut être doublé, soit l’Autorité peut,
 
-- lorsqu’il s’agit d’un service de médias audiovisuels visé aux articles 9, 10 bis , 12, 13, 14, 19, 21 et 23 de la présente loi, faire rapport au Ministre ayant l’Autorité dans ses attributions et proposer la suspension temporaire ou le retrait de la permission ou de la concession;
+- lorsqu’il s’agit d’un service de médias audiovisuels visé aux articles 9, 10bis, 12, 13, 14, 19, 21 et 23 de la présente loi, faire rapport au Ministre ayant l’Autorité dans ses attributions et proposer la suspension temporaire ou le retrait de la permission ou de la concession;
 
-- lorsqu’il s’agit d’un service de médias audiovisuels visé aux articles 23 bis , 23 ter ou 23 quater faire rapport au Ministre ayant l’Autorité dans ses attributions et proposer la suspension temporaire ou l’interdiction définitive. Dans le cas d’un service visé à l’article 23 quater , l’interdiction du service entraîne l’interdiction de l’usage de la liaison montante ou de la capacité de satellite luxembourgeois;
+- lorsqu’il s’agit d’un service de médias audiovisuels visé aux articles 23bis, 23ter ou 23quater faire rapport au Ministre ayant l’Autorité dans ses attributions et proposer la suspension temporaire ou l’interdiction définitive. Dans le cas d’un service visé à l’article 23quater, l’interdiction du service entraîne l’interdiction de l’usage de la liaison montante ou de la capacité de satellite luxembourgeois;
 
 - lorsqu’il s’agit d’un service de médias sonore visé aux articles 15 à 18 de la présente loi prononcer la suspension temporaire ou le retrait de la permission.
 
@@ -563,18 +561,26 @@ L’article 38 de la même loi est abrogé.
 
 La loi du 20 avril 2009 relative à l’accès aux représentations cinématographiques publiques est modifiée comme suit:
 
-- A l’article 4, alinéa 2, les termes ceci à partir de la limite d’âge de 12 ans sont remplacés par ceci à partir de l’âge de 6 ans .
+- A l’article 4, alinéa 2, les termes ceci à partir de la limite d’âge de 12 ans sont remplacés par ceci à partir de l’âge de 6 ans.
 
-- L’article 6 est remplacé par le texte suivant: Art. 6. L’Autorité luxembourgeoise indépendante de l’Audiovisuel, ci-après dénommée «l’Autorité» est appelée à contrôler le classement des films, le respect et la publication obligatoire de ce classement prévue à l’article 3. Outre l’autosaisine, l’Autorité peut être saisie par les Ministres ayant en charge respectivement la Famille, la Justice, la Culture, l’Education nationale ainsi que par le Comité luxembourgeois des droits de l’enfant, appelé «Ombuds-Comité fir d’Rechter vum Kand». En cas de divergence de classification par différents organisateurs, l’Autorité est saisie de plein droit. L’Autorité peut, par décision motivée, reclasser des films. Le classement opéré par l’Autorité se substitue à tout classement antérieur et vaut à l’égard des organisateurs et du public à partir du jour de la décision.
+- L’article 6 est remplacé par le texte suivant:
+
+Art. 6.
+
+L’Autorité luxembourgeoise indépendante de l’Audiovisuel, ci-après dénommée «l’Autorité» est appelée à contrôler le classement des films, le respect et la publication obligatoire de ce classement prévue à l’article 3.
+
+Outre l’autosaisine, l’Autorité peut être saisie par les Ministres ayant en charge respectivement la Famille, la Justice, la Culture, l’Education nationale ainsi que par le Comité luxembourgeois des droits de l’enfant, appelé «Ombuds-Comité fir d’Rechter vum Kand». En cas de divergence de classification par différents organisateurs, l’Autorité est saisie de plein droit.
+
+L’Autorité peut, par décision motivée, reclasser des films. Le classement opéré par l’Autorité se substitue à tout classement antérieur et vaut à l’égard des organisateurs et du public à partir du jour de la décision.
 
 <a id="art-27"></a>
 ## Art. 27.
 
 La loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’Etat est modifiée comme suit:
 
-- A l’article 22. Section IV, sous 9° est ajoutée la mention le directeur de l’Autorité luxembourgeoise indépendante de l’Audiovisuel .
+- A l’article 22. Section IV, sous 9° est ajoutée la mention le directeur de l’Autorité luxembourgeoise indépendante de l’Audiovisuel.
 
-- A l’annexe A – classification des fonctions – à la rubrique I (Administration générale) est ajoutée au grade 17 la mention Autorité luxembourgeoise indépendante de l’Audiovisuel – directeur .
+- A l’annexe A – classification des fonctions – à la rubrique I (Administration générale) est ajoutée au grade 17 la mention Autorité luxembourgeoise indépendante de l’Audiovisuel – directeur.
 
 - A l’annexe D – Détermination des carrières inférieures, moyennes et supérieures –, sous la rubrique I (Administration générale), dans la carrière supérieure de l’Administration et au grade 12 de la computation de la bonification d’ancienneté sont ajoutés sous le grade 17 les termes directeur de l’Autorité luxembourgeoise indépendante de l’Audiovisuel.
 

@@ -51,11 +51,11 @@ Sont toutefois exclus du droit d’accès, les documents relatifs :
 
 - à un secret ou une confidentialité protégés par la loi ;
 
-- aux missions de contrôle, d’inspection et de régulation des organismes visés au paragraphe 1 er ;
+- aux missions de contrôle, d’inspection et de régulation des organismes visés au paragraphe 1er ;
 
-- au caractère confidentiel des informations commerciales et industrielles communiquées aux organismes visés au paragraphe 1 er ;
+- au caractère confidentiel des informations commerciales et industrielles communiquées aux organismes visés au paragraphe 1er ;
 
-- à la capacité des organismes visés au paragraphe 1 er de mener leur politique économique, financière, fiscale et commerciale si la publication des documents est de nature à entraver les processus de décision y relatifs ;
+- à la capacité des organismes visés au paragraphe 1er de mener leur politique économique, financière, fiscale et commerciale si la publication des documents est de nature à entraver les processus de décision y relatifs ;
 
 - à la confidentialité des délibérations du Gouvernement.
 
@@ -93,7 +93,7 @@ Le document demandé est mis à la disposition du demandeur dans les meilleurs d
 
 - par la délivrance de copies en un seul exemplaire ; Sans préjudice des pouvoirs conférés par la loi communale modifiée du 13 décembre 1988 aux autorités communales, un règlement grand-ducal peut fixer une redevance à payer par le demandeur en cas de délivrance de copies d’un document. Cette redevance ne peut excéder le coût réel de reproduction.
 
-- par la transmission par voie électronique lorsque le document est disponible sous forme électronique et si le demandeur a communiqué une adresse électronique aux organismes visés à l’article 1 er , paragraphe 1 er ;
+- par la transmission par voie électronique lorsque le document est disponible sous forme électronique et si le demandeur a communiqué une adresse électronique aux organismes visés à l’article 1er, paragraphe 1er ;
 
 - par la consultation sur place lorsque la reproduction nuit à la conservation du document ou n’est pas possible en raison de la nature du document demandé.
 

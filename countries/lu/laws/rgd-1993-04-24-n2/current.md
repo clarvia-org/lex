@@ -109,9 +109,9 @@ Sont exclus de l'éligibilité en dehors des candidats qui ne fournissent pas la
 
 - les personnes qui ne répondent pas aux stipulations de l'article 5 ci-devant,
 
-- pour la durée de la sanction définitive, les personnes qui se trouvent sous le coup de la privation du droit de vote dont question à l'article 26 alinéa 3 de la loi ,
+- pour la durée de la sanction définitive, les personnes qui se trouvent sous le coup de la privation du droit de vote dont question à l'article 26 alinéa 3 de la loi,
 
-- les personnes, contre lesquelles a été prononcé l'une des sanctions disciplinaires définitives prévues à l'article 26, alinéa 4 et 5, de la loi .
+- les personnes, contre lesquelles a été prononcé l'une des sanctions disciplinaires définitives prévues à l'article 26, alinéa 4 et 5, de la loi.
 
 <a id="art-10"></a>
 ## Art. 10.
@@ -407,7 +407,7 @@ Toutefois au cas où, lors d'une ou des assemblées précitées, le(s) mandat(s)
 
 Les organisations professionnelles qui veulent présenter des membres pour le conseil doivent répondre aux caractéristiques suivantes:
 
-- en ce qui concerne les organisations professionnelles qui ont une vocation essentiellement syndicale, documentée pour les besoins de cet article par le fait qu'elles participent en tant qu'organisation directement ou par délégation aux négociations salariales dans le secteur, celles-ci doivent être représentatives sur le plan national et représentées dans le secteur des professions de soins visées par la loi ;
+- en ce qui concerne les organisations professionnelles qui ont une vocation essentiellement syndicale, documentée pour les besoins de cet article par le fait qu'elles participent en tant qu'organisation directement ou par délégation aux négociations salariales dans le secteur, celles-ci doivent être représentatives sur le plan national et représentées dans le secteur des professions de soins visées par la loi;
 
 - en ce qui concerne les organisations professionnelles qui ont une vocation essentiellement non syndicale, documentée pour les besoins de cet article par le fait qu'elles ne participent pas en tant qu'organisation directement ou par délégation aux négociations salariales dans le secteur, celles-ci doivent être essentiellement représentées dans le secteur des professions de soins visées par la loi, leurs membres doivent oeuvrer dans 2 au moins des trois secteurs définis à l'article 23 ou comprendre des membres de 2 au moins des 3 niveaux visés à l'article 24. Chaque organisation propose un membre effectif et un membre suppléant.
 
@@ -520,7 +520,7 @@ Le Conseil se fait assister dans ses travaux par un secrétaire administratif à
 
 Pour les lères élections des commissions professionnelles:
 
-- la liste des électeurs est arrêtée provisoirement sur base des données du régistre au 1 er mars 1993,
+- la liste des électeurs est arrêtée provisoirement sur base des données du régistre au 1er mars 1993,
 
 - la date des élections est fixée par arrêté ministériel à publier au Mémorial au moins 70 jours avant les élections,
 

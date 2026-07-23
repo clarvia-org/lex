@@ -45,13 +45,13 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 Aux fins du présent règlement grand-ducal, on entend par:
 
-- «autorité compétente», l’Administration des Chemins de Fer instituée comme organisme national chargé des tâches relatives à la sécurité des chemins de fer conformément à la « loi modifiée du 22 juillet 2009 » relative à la sécurité ferroviaire;
+- «autorité compétente», l’Administration des Chemins de Fer instituée comme organisme national chargé des tâches relatives à la sécurité des chemins de fer conformément à la «loi modifiée du 22 juillet 2009» relative à la sécurité ferroviaire;
 
 - «conducteur de train», dénommé ci-après le «conducteur», toute personne apte et autorisée à conduire, pour le compte d’une entreprise ferroviaire ou d’un gestionnaire d’infrastructure, de façon autonome, responsable et sûre des trains, y compris, en fonction de sa formation, les locomotives, les locomotives de manœuvre, les trains de travaux et les véhicules ferroviaires d’entretien;
 
 - (…) (Abrogé par le règl. g.-d. du 8 novembre 2013)
 
-- «candidat», toute personne postulant l’admission ou le maintien «à la fonction de conducteur» ;
+- «candidat», toute personne postulant l’admission ou le maintien «à la fonction de conducteur»;
 
 - «employeur», l’entreprise ferroviaire ou le gestionnaire d’infrastructure à l’initiative ou pour le compte de laquelle ou duquel un candidat se soumet aux examens prévus à l’article 5 ou suit des cours de formation à des «fonctions de conducteur» ;
 
@@ -240,7 +240,7 @@ Avant de délivrer l’attestation, l’employeur s’est assuré que le candida
 
 - remplit le critère lié aux connaissances linguistiques indiqué à l’annexe II sub E, uniquement dans le cas où il ne s’agit pas de la langue maternelle de l’intéressé;
 
-- a suivi avec succès une formation en ce qui concerne le système de gestion de la sécurité prévu par la directive 2004/49/CE .
+- a suivi avec succès une formation en ce qui concerne le système de gestion de la sécurité prévu par la directive 2004/49/CE.
 
 (Règl. g.-d. du 8 novembre 2013)
 
@@ -276,7 +276,7 @@ La formation nécessaire à l’acquisition des compétences professionnelles vi
 
 Sous réserve des autres dispositions du présent chapitre, une licence est valide pour une durée de dix ans. Afin qu’elle reste valide, son titulaire doit se soumettre:
 
-- à des examens médicaux périodiques de contrôle de l’«aptitude physique et psychologique» .
+- à des examens médicaux périodiques de contrôle de l’«aptitude physique et psychologique».
 
 La périodicité de ces examens, ainsi que leur contenu sont fixés à l’annexe I sub 3.
 
@@ -533,7 +533,7 @@ Au cas où l’autorité compétente constate ou estime, lors d’une vérificat
 
 - s’il s’agit d’une irrégularité relative à une licence délivrée par une autorité compétente d’un autre Etat membre de la Communauté européenne, elle adresse à celle-ci une demande motivée visant soit à un contrôle complémentaire, soit à la suspension de la licence. Une copie de la demande est adressée aux autres autorités qu’il y a lieu d’informer conformément au droit communautaire. L’autorité compétente a la faculté d’interdire à un conducteur d’opérer sur le réseau ferré luxembourgeois en attendant la notification de la décision de l’autorité de délivrance;
 
-- s’il s’agit d’une irrégularité relative à une attestation, l’autorité compétente s’adresse à l’«organisme de délivrance» et demande soit un contrôle complémentaire, soit la suspension de l’attestation. L’«organisme de délivrance» prend les mesures nécessaires et en informe l’autorité compétente dans un délai de quatre semaines. L’autorité compétente a la faculté d’interdire à un conducteur d’opérer sur le réseau ferré luxembourgeois en attendant l’information de la part de l’«organisme de délivrance» . Copie de toute correspondance est à adresser aux autres autorités qu’il y a lieu d’informer conformément au droit communautaire.
+- s’il s’agit d’une irrégularité relative à une attestation, l’autorité compétente s’adresse à l’«organisme de délivrance» et demande soit un contrôle complémentaire, soit la suspension de l’attestation. L’«organisme de délivrance» prend les mesures nécessaires et en informe l’autorité compétente dans un délai de quatre semaines. L’autorité compétente a la faculté d’interdire à un conducteur d’opérer sur le réseau ferré luxembourgeois en attendant l’information de la part de l’«organisme de délivrance». Copie de toute correspondance est à adresser aux autres autorités qu’il y a lieu d’informer conformément au droit communautaire.
 
 <a id="art-30"></a>
 ## Art. 30.

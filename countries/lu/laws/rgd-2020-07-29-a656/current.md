@@ -42,7 +42,7 @@ La Police grand-ducale organise, selon les besoins, une épreuve spéciale pour 
 
 Pour être admissible à l’épreuve spéciale le candidat doit :
 
-- avoir réussi à l’épreuve d’aptitude générale prévue à l’article 5 bis du règlement grand-ducal modifié du 30 septembre 2015 fixant les conditions et modalités d’inscription et d’organisation des examens-concours d’admission au stage dans les administrations et services de l’État ;
+- avoir réussi à l’épreuve d’aptitude générale prévue à l’article 5bis du règlement grand-ducal modifié du 30 septembre 2015 fixant les conditions et modalités d’inscription et d’organisation des examens-concours d’admission au stage dans les administrations et services de l’État ;
 
 - être de nationalité luxembourgeoise ;
 
@@ -240,7 +240,7 @@ Les tests psychologiques et d’aptitude générale visés au paragraphe 1er, po
 
 L’épreuve spéciale pour l’admission au stage du groupe de traitement B1 du cadre policier comporte :
 
-- un test sportif visant à déterminer si le candidat est apte à acquérir une condition physique nécessaire à l’exercice du service policier, tel que prévu à l’article 9, paragraphe 1 er , point 1°. Seuls les candidats ayant réussi au test sportif sont invités à participer aux tests visés au point 2.
+- un test sportif visant à déterminer si le candidat est apte à acquérir une condition physique nécessaire à l’exercice du service policier, tel que prévu à l’article 9, paragraphe 1er, point 1°. Seuls les candidats ayant réussi au test sportif sont invités à participer aux tests visés au point 2.
 
 - tests standardisés et informatisés :
 
@@ -308,7 +308,7 @@ Le volontaire de l’Armée ayant au moins trente-six mois de service est admis 
 
 L’épreuve spéciale pour l’admission au stage du groupe de traitement C1 du cadre policier comporte :
 
-- un test sportif visant à déterminer si le candidat est apte à acquérir une condition physique nécessaire à l’exercice du service policier, tel que prévu à l’article 9, paragraphe 1 er , point 1°. Seuls les candidats ayant réussi au test sportif sont invités à participer aux tests visés au point 2.
+- un test sportif visant à déterminer si le candidat est apte à acquérir une condition physique nécessaire à l’exercice du service policier, tel que prévu à l’article 9, paragraphe 1er, point 1°. Seuls les candidats ayant réussi au test sportif sont invités à participer aux tests visés au point 2.
 
 - des tests standardisés et informatisés :
 
@@ -383,9 +383,9 @@ Pour pouvoir être admis à l’examen-concours, le candidat doit :
 
 - avoir réussi :
 
-  - soit une classe de 6 e de l’enseignement secondaire classique ;
+  - soit une classe de 6e de l’enseignement secondaire classique ;
 
-  - soit au niveau avancé en langues et mathématiques, une classe de 6 e d’orientation ou, au niveau globalement de base, une classe de 5 e de détermination de l’enseignement secondaire général ;
+  - soit au niveau avancé en langues et mathématiques, une classe de 6e d’orientation ou, au niveau globalement de base, une classe de 5e de détermination de l’enseignement secondaire général ;
 
   - soit une année de formation professionnelle initiale menant vers le diplôme d’aptitude professionnelle ; ou présenter une attestation portant sur des études reconnues équivalentes par le ministre ayant l’Éducation nationale dans ses attributions ;
 
@@ -677,25 +677,41 @@ Les critères d’inaptitude sont fixés à l’annexe A.
 
 Le règlement grand-ducal modifié du 30 septembre 2015 fixant les conditions et modalités d’inscription et d’organisation des examens-concours d’admission au stage dans les administrations et services de l’État est modifié comme suit :
 
-- L’article 1 er est complété par les lettres h) à j) nouvelles libellées comme suit : dans la rubrique « Armée, Police et Inspection générale de la Police », catégorie de traitement A : dans le groupe de traitement A1, au sous-groupe policier ; dans le groupe de traitement A2, au sous-groupe policier ; dans la rubrique « Armée, Police et Inspection générale de la Police », catégorie de traitement B : dans le groupe de traitement B1, au sous-groupe policier ; dans la rubrique « Armée, Police et Inspection générale de la Police », catégorie de traitement C : dans le groupe de traitement C1, au sous-groupe policier.
+- L’article 1er est complété par les lettres h) à j) nouvelles libellées comme suit :
 
-- À l’article 5 bis , il est inséré un nouvel alinéa in fine libellé comme suit : Par dérogation aux alinéas 5 et 6, l’épreuve spéciale en vue de l’admission au stage dans les catégories énumérées à l’article 1er, lettres h) à j) est organisée conformément aux dispositions du règlement grand-ducal du 29 juillet 2020 déterminant les modalités de recrutement du personnel policier.
+- dans la rubrique « Armée, Police et Inspection générale de la Police », catégorie de traitement A :
 
-- Au chapitre 2, section 1, les termes, Armée, Police et Inspection générale de la Police sont insérés après ceux d’ Administration générale .
+  - dans le groupe de traitement A1, au sous-groupe policier ;
 
-- À l’article 13, les termes du sous-groupe policier du groupe A1 de la catégorie A de la rubrique « Armée, Police et Inspection générale de la Police » sont insérés après ceux d’ Administration générale .
+  - dans le groupe de traitement A2, au sous-groupe policier ;
 
-- Au chapitre 2, section 2, les termes, Armée, Police et Inspection générale de la Police sont insérés après ceux d’ Administration générale .
+- dans la rubrique « Armée, Police et Inspection générale de la Police », catégorie de traitement B :
 
-- À l’article 15, les termes un sous-groupe policier du groupe A2 de la catégorie A de la rubrique « Armée, Police et Inspection générale de la Police » sont insérés après ceux d’ Administration générale .
+  - dans le groupe de traitement B1, au sous-groupe policier ;
 
-- Au chapitre 2, section 3, les termes, Armée, Police et Inspection générale de la Police sont insérés après ceux d’ Administration générale .
+- dans la rubrique « Armée, Police et Inspection générale de la Police », catégorie de traitement C :
 
-- À l’article 17, les termes du sous-groupe policier du groupe B1 de la catégorie B de la rubrique « Armée, Police et Inspection générale de la Police » sont insérés après ceux d’ Administration générale .
+  - dans le groupe de traitement C1, au sous-groupe policier.
 
-- Au chapitre 2, section 4, les termes et Armée, Police et Inspection générale de la Police sont insérés après ceux d’ Administration générale .
+- À l’article 5bis, il est inséré un nouvel alinéa in fine libellé comme suit :
 
-- À l’article 19, les termes et du sous-groupe policier du groupe C1 de la catégorie C de la rubrique « Armée, Police et Inspection générale de la Police » sont insérés après ceux d’ Administration générale .
+Par dérogation aux alinéas 5 et 6, l’épreuve spéciale en vue de l’admission au stage dans les catégories énumérées à l’article 1er, lettres h) à j) est organisée conformément aux dispositions du règlement grand-ducal du 29 juillet 2020 déterminant les modalités de recrutement du personnel policier.
+
+- Au chapitre 2, section 1, les termes, Armée, Police et Inspection générale de la Police sont insérés après ceux d’Administration générale.
+
+- À l’article 13, les termes du sous-groupe policier du groupe A1 de la catégorie A de la rubrique « Armée, Police et Inspection générale de la Police » sont insérés après ceux d’Administration générale.
+
+- Au chapitre 2, section 2, les termes, Armée, Police et Inspection générale de la Police sont insérés après ceux d’Administration générale.
+
+- À l’article 15, les termes un sous-groupe policier du groupe A2 de la catégorie A de la rubrique « Armée, Police et Inspection générale de la Police » sont insérés après ceux d’Administration générale.
+
+- Au chapitre 2, section 3, les termes, Armée, Police et Inspection générale de la Police sont insérés après ceux d’Administration générale.
+
+- À l’article 17, les termes du sous-groupe policier du groupe B1 de la catégorie B de la rubrique « Armée, Police et Inspection générale de la Police » sont insérés après ceux d’Administration générale.
+
+- Au chapitre 2, section 4, les termes et Armée, Police et Inspection générale de la Police sont insérés après ceux d’Administration générale.
+
+- À l’article 19, les termes et du sous-groupe policier du groupe C1 de la catégorie C de la rubrique « Armée, Police et Inspection générale de la Police » sont insérés après ceux d’Administration générale.
 
 #### Chapitre 8 Disposition abrogatoire
 
@@ -711,9 +727,9 @@ Le règlement grand-ducal du 17 août 2018 déterminant les modalités de recrut
 
 Pendant une période de deux ans à partir de l’entrée en vigueur du présent règlement, le candidat au groupe de traitement C2 peut être admis à l’examen-concours à condition d’avoir réussi :
 
-- soit une classe de 8 e théorique ;
+- soit une classe de 8e théorique ;
 
-- soit une classe de 9 e polyvalente de l’enseignement secondaire technique ;
+- soit une classe de 9e polyvalente de l’enseignement secondaire technique ;
 
 - soit une année en formation professionnelle ;
 

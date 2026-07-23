@@ -37,7 +37,7 @@ Au sens de la présente loi, il faut entendre par:
 
 - «Accord instituant l'OMC», l'Accord instituant l'Organisation Mondiale du Commerce, signé à Marrakech, le 15 avril 1994;
 
-- « Loi du 8 juillet 1967 », la loi concernant la divulgation et la mise en oeuvre des inventions et des secrets de fabrique intéressant la défense du territoire ou la sûreté de l'Etat;
+- «Loi du 8 juillet 1967», la loi concernant la divulgation et la mise en oeuvre des inventions et des secrets de fabrique intéressant la défense du territoire ou la sûreté de l'Etat;
 
 - «ministre, le ministre», ayant la propriété intellectuelle dans ses attributions;
 
@@ -777,9 +777,9 @@ Modification des revendications, de la description et des dessins
 
 Le titulaire de la demande a le droit d'apporter des modifications aux revendications, à la description et aux dessins,
 
-- une fois, soit jusqu'à l'introduction de la requête en vue de l'établissement du rapport de recherche, soit jusqu'à la réception par le service des pièces visées à l'article 35, paragraphe 1 er , litt. b) ou c)
+- une fois, soit jusqu'à l'introduction de la requête en vue de l'établissement du rapport de recherche, soit jusqu'à la réception par le service des pièces visées à l'article 35, paragraphe 1er, litt. b) ou c)
 
-- une fois, soit comme suite à la réception par le service des pièces visées à l'article 35, paragraphe 1 er litt. b) ou c), soit comme suite à la transmission au titulaire de la demande de brevet du rapport de recherche sollicité par celui-ci conformément à l'article 35 ,
+- une fois, soit comme suite à la réception par le service des pièces visées à l'article 35, paragraphe 1er litt. b) ou c), soit comme suite à la transmission au titulaire de la demande de brevet du rapport de recherche sollicité par celui-ci conformément à l'article 35 ,
 
 - une fois, en cas de dépôt d'une demande divisionnaire.
 
@@ -1163,7 +1163,7 @@ Tous les faits et actes transmettant ou affectant les droits attachés à une de
 
 La notification au service doit être accompagnée:
 
-- des pièces justificatives originales ou copies certifiées conformes de l'accomplissement des faits et actes visés au paragraphe 1 er ;
+- des pièces justificatives originales ou copies certifiées conformes de l'accomplissement des faits et actes visés au paragraphe 1er;
 
 - de la preuve du paiement de la taxe administrative due pour l'inscription et la publication d'un tel fait ou acte.
 
@@ -1903,7 +1903,7 @@ Outre les taxes le remboursement des frais est dû:
 
 - pour les frais de publication au Mémorial;
 
-- pour le rapport de recherche visé à l'article 31, paragraphe 4, à l'article 35, paragraphe 1 er , litt.
+- pour le rapport de recherche visé à l'article 31, paragraphe 4, à l'article 35, paragraphe 1er, litt.
 
 - et à l'article 36.
 
@@ -2085,7 +2085,7 @@ Sous réserve de certaines des dispositions transitoires faisant l'objet des art
 
 - la loi du 30 juin 1880 sur les brevets d'invention,
 
-- la loi du 27 avril 1922 concernant l'accession du Grand-Duché de Luxembourg à l'Union internationale pour la protection de la propriété industrielle, pour autant qu'elle a modifié la loi du 30 juin 1880 ,
+- la loi du 27 avril 1922 concernant l'accession du Grand-Duché de Luxembourg à l'Union internationale pour la protection de la propriété industrielle, pour autant qu'elle a modifié la loi du 30 juin 1880,
 
 - l'arrêté grand-ducal du 13 octobre 1945 ayant pour objet de modifier et compléter la législation sur les brevets d'invention,
 

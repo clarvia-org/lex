@@ -88,9 +88,9 @@ Aux fins du présent règlement, on entend par:
 
 - «agglomération»: une zone qui constitue une conurbation caractérisée par une population supérieure à 250.000 habitants ou, lorsque la population est inférieure ou égale à 250.000 habitants, par une densité d'habitants au kilomètre carré à établir par règlement ministériel;
 
-- «PM 10 »: les particules passant dans un orifice d'entrée calibré tel que défini dans la méthode de référence pour l'échantillonnage et la mesure du PM 10 , norme EN 12 341, avec un rendement de séparation de 50% pour un diamètre aérodynamique de 10 µm ;
+- «PM10»: les particules passant dans un orifice d'entrée calibré tel que défini dans la méthode de référence pour l'échantillonnage et la mesure du PM10, norme EN 12 341, avec un rendement de séparation de 50% pour un diamètre aérodynamique de 10µm;
 
-- «PM 2,5 »: les particules passant dans un orifice d'entrée calibré tel que défini dans la méthode de référence pour l'échantillonnage et la mesure du PM 2,5, norme EN 14907, avec un rendement de séparation de 50% pour un diamètre aérodynamique de 2,5 µm ;
+- «PM2,5»: les particules passant dans un orifice d'entrée calibré tel que défini dans la méthode de référence pour l'échantillonnage et la mesure du PM2,5, norme EN 14907, avec un rendement de séparation de 50% pour un diamètre aérodynamique de 2,5µm;
 
 - «indicateur d'exposition moyenne»: un niveau moyen déterminé sur la base des mesures effectuées dans des lieux caractéristiques de la pollution de fond urbaine sur l'ensemble du territoire national et qui reflète l'exposition de la population. Il est utilisé afin de calculer l'objectif national de réduction de l'exposition et l'obligation en matière de concentration relative à l'exposition;
 
@@ -100,7 +100,7 @@ Aux fins du présent règlement, on entend par:
 
 - «lieux caractéristiques de la pollution de fond urbaine»: des lieux situés dans des zones urbaines où les niveaux sont représentatifs de l'exposition de la population urbaine en général;
 
-- «oxydes d'azote»: la somme du rapport de mélange en volume (ppbv) de monoxyde d'azote (oxyde nitrique) et de dioxyde d'azote, exprimé en unités de concentration massique de dioxyde d'azote (µg/m 3 );
+- «oxydes d'azote»: la somme du rapport de mélange en volume (ppbv) de monoxyde d'azote (oxyde nitrique) et de dioxyde d'azote, exprimé en unités de concentration massique de dioxyde d'azote (µg/m3);
 
 - «mesures fixes»: des mesures effectuées à des endroits fixes, soit en continu, soit par échantillonnage aléatoire, afin de déterminer les niveaux conformément aux objectifs de qualité des données applicables;
 
@@ -224,7 +224,7 @@ Dans toutes les zones et agglomérations où le niveau de polluants visé au par
 
 En plus des évaluations visées aux paragraphes 2, 3 et 4, des mesures sont effectuées dans des lieux ruraux caractéristiques de la pollution de fond à l'écart des sources importantes de pollution atmosphérique, dans le but de fournir, au minimum, des informations sur la concentration totale en masse et les concentrations évaluées par spéciation chimique des particules fines (PM2,5) en moyenne annuelle, selon les critères suivants:
 
-- un point de prélèvement est installé par 100.000 km 2 ;
+- un point de prélèvement est installé par 100.000 km2;
 
 - il est créé au moins une station de mesure ou il est convenu avec les Etats membres limitrophes de créer une ou plusieurs stations de mesure communes, couvrant les zones contiguës concernées, afin d'atteindre la résolution spatiale nécessaire;
 
@@ -306,7 +306,7 @@ Dans les zones et agglomérations dans lesquelles les renseignements fournis par
 
 - le nombre de points de prélèvement à installer et la résolution spatiale des autres techniques sont suffisants pour établir la concentration de l'ozone conformément aux objectifs de qualité des données indiqués à l'annexe I, section A, et permettent aux résultats de l'évaluation de respecter les critères indiqués à l'annexe I, section B;
 
-- le nombre de points de prélèvement dans chaque zone ou agglomération est d'au moins un point de prélèvement pour deux millions d'habitants ou d'un point de prélèvement pour 50.000 km 2 , le nombre retenu étant le plus élevé des deux, mais il ne doit pas être inférieur à un point de prélèvement dans chaque zone ou agglomération;
+- le nombre de points de prélèvement dans chaque zone ou agglomération est d'au moins un point de prélèvement pour deux millions d'habitants ou d'un point de prélèvement pour 50.000 km2, le nombre retenu étant le plus élevé des deux, mais il ne doit pas être inférieur à un point de prélèvement dans chaque zone ou agglomération;
 
 - le dioxyde d'azote est mesuré dans tous les points de prélèvement restants, à l'exception des stations consacrées à la pollution de fond rurale, visées à l'annexe VIII, section A.
 

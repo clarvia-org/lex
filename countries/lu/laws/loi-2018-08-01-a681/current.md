@@ -44,7 +44,7 @@ Au sens de la présente loi, il y a lieu d’entendre par :
 
 - « congé épargne-temps » : le congé rémunéré pris par l’utilisation sur base des droits découlant du CET ;
 
-- « administration » : le département ministériel, l’administration de l’État ou l’établissement public auxquels sont affectés les agents visés à l’article 1 er .
+- « administration » : le département ministériel, l’administration de l’État ou l’établissement public auxquels sont affectés les agents visés à l’article 1er.
 
 #### Chapitre 3 Alimentation du compte épargne-temps
 
@@ -324,7 +324,7 @@ Art. 18.
 <a id="art-19"></a>
 ## Art. 19.
 
-À la suite de l’article 19terde la même loi, il est inséré un nouvel article 19quater, libellé comme suit :
+À la suite de l’article 19ter de la même loi, il est inséré un nouvel article 19quater, libellé comme suit :
 
 <a id="art-19quater"></a>
 ## Art. 19quater.
@@ -361,7 +361,7 @@ L’intitulé du chapitre 9 de la même loi est remplacé comme suit : Chapitre 
 
 L’article 28 de la même loi est modifié comme suit :
 
-- Au paragraphe 1 er , l’alinéa 2 est supprimé.
+- Au paragraphe 1er, l’alinéa 2 est supprimé.
 
 - Le paragraphe 3 est remplacé comme suit : 3. Les congés et jours fériés prévus aux sections I, II, V, VI, IX, XI et XVII sont calculés proportionnellement au degré de la tâche du fonctionnaire.
 
@@ -574,7 +574,7 @@ Des congés et dispenses de service pour activités syndicales peuvent être mis
 
 - si elle est représentée au sein de la Chambre des fonctionnaires et employés publics : proportionnellement au nombre de sièges qu’elle a obtenus lors des élections pour la composition de la Chambre des fonctionnaires et employés publics ;
 
-- si elle n’est pas représentée par des élus au sein de cette chambre professionnelle pour en avoir été écartée en vertu de l’article 43 ter , alinéa 5 de la loi modifiée du 4 avril 1924 portant création de chambres professionnelles à base élective et de son règlement d’exécution : les congés et dispenses de service accordés à ses adhérents ne peuvent pas dépasser le volume qui correspond sous 1° ci-dessus à un siège obtenu dans la même catégorie lors des élections pour cette chambre professionnelle ;
+- si elle n’est pas représentée par des élus au sein de cette chambre professionnelle pour en avoir été écartée en vertu de l’article 43ter, alinéa 5 de la loi modifiée du 4 avril 1924 portant création de chambres professionnelles à base élective et de son règlement d’exécution : les congés et dispenses de service accordés à ses adhérents ne peuvent pas dépasser le volume qui correspond sous 1° ci-dessus à un siège obtenu dans la même catégorie lors des élections pour cette chambre professionnelle ;
 
 - si elle est représentative sur le plan national pour le secteur public dans son ensemble ; est considérée comme telle toute organisation professionnelle qui, d’une part, justifie de la représentativité nationale et qui, d’autre part, est active dans l’intérêt des agents de l’État en général.
 

@@ -115,17 +115,17 @@ Les additions ci-après sont apportées à ladite loi du 22 juin 1963:
 
 - Annexe A - Classification des fonctions - Rubrique I «Administration générale»:
 
-  - au grade 4, entre les mentions Différentes administrations premier artisan et Bâtiments de l’Etat surveillant souschef de brigade , est insérée la mention Administration gouvernementale – huissier principal ;
+  - au grade 4, entre les mentions Différentes administrations premier artisan et Bâtiments de l’Etat surveillant souschef de brigade, est insérée la mention Administration gouvernementale – huissier principal;
 
-  - au grade 13, entre les mentions Différentes administrations ingénieur-inspecteur et Chambre des comptes conseiller , sont insérées les deux mentions Administration gouvernementaleinspecteur principal premier en rang et Administration gouvernementale - attaché de Gouvernement premier en rang .
+  - au grade 13, entre les mentions Différentes administrations ingénieur-inspecteur et Chambre des comptes conseiller, sont insérées les deux mentions Administration gouvernementaleinspecteur principal premier en rang et Administration gouvernementale - attaché de Gouvernement premier en rang.
 
 - Annexe D - Détermination - Tableau I «Administration générale».
 
-  - est ajoutée dans la carrière inférieure garçon de bureau la mention grade 4 huissier principal ;
+  - est ajoutée dans la carrière inférieure garçon de bureau la mention grade 4 huissier principal;
 
-  - est ajoutée dans la carrière moyenne rédacteur , au grade 13 la mention inspecteur principal premier en rang ;
+  - est ajoutée dans la carrière moyenne rédacteur, au grade 13 la mention inspecteur principal premier en rang;
 
-  - est ajoutée dans la carrière supérieure attaché de Gouvernement la mention grade 13 attaché de Gouvernement premier en rang .
+  - est ajoutée dans la carrière supérieure attaché de Gouvernement la mention grade 13 attaché de Gouvernement premier en rang.
 
 <a id="article-c"></a>
 ## Article C

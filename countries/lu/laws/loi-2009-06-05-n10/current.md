@@ -235,7 +235,7 @@ Dans la banque de données visée au paragraphe 1er figurent toutes les données
 
 - émission et gestion administrative des certificats de formation prévus à l’article 3 ;
 
-- échange d’informations relatif au certificats de formation prévus à l’article 3 avec les réseaux électroniques nationaux des autres États membres de l’Union européenne tel que prévue à l’article 10 bis de la directive 2003/59/CE précitée.
+- échange d’informations relatif au certificats de formation prévus à l’article 3 avec les réseaux électroniques nationaux des autres États membres de l’Union européenne tel que prévue à l’article 10bis de la directive 2003/59/CE précitée.
 
 (3)
 

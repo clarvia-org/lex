@@ -854,7 +854,7 @@ Les anciennes dénominations de carrières sont remplacées par les catégories,
 
   - le sous-groupe de l’enseignement visé par le paragraphe 4 de l’article 43 regroupe les anciennes carrières de chargés de cours classés aux grades E5, E6 et E7;
 
-  - le sous-groupe de l’enseignement visé par le paragraphe 5 de l’article 43 regroupe les anciennes carrières du chargé d’éducation et du chargé de cours de la formation des adultes classés au grade E3 ter ;
+  - le sous-groupe de l’enseignement visé par le paragraphe 5 de l’article 43 regroupe les anciennes carrières du chargé d’éducation et du chargé de cours de la formation des adultes classés au grade E3ter;
 
 - groupe d’indemnité A2:
 

@@ -34,13 +34,13 @@ Objet
 
 Le présent règlement a pour objet l’indemnisation des dégâts commis par les espèces animales protégées suivantes, ainsi que le subventionnement des mesures préventives y relatives :
 
-- le loup ( Canis lupus) ;
+- le loup (Canis lupus) ;
 
-- le castor d’Eurasie ( Castor fiber) , ci-après dénommé « castor » ;
+- le castor d’Eurasie (Castor fiber), ci-après dénommé « castor » ;
 
-- le blaireau européen ( Meles meles) , ci-après dénommé « blaireau » ;
+- le blaireau européen (Meles meles), ci-après dénommé « blaireau » ;
 
-- le corbeau freux ( Corvus frugilegus) , la corneille noire ( Corvus corone) et le choucas des tours ( Coloeus monedula) ; ci-après dénommés « corvidés »
+- le corbeau freux (Corvus frugilegus), la corneille noire (Corvus corone) et le choucas des tours (Coloeus monedula) ; ci-après dénommés « corvidés »
 
 <a id="art-2"></a>
 ## Art. 2.
@@ -178,7 +178,7 @@ Le ministre accorde des subventions financières pour l’achat et la mise en pl
 
   - la détention et l’utilisation d’au moins deux chiens de protection par troupeau ;
 
-  - la mise en place préalable de clôtures comme dispositif de prévention d’attaques de loups conformément au point 1 er , à l’exception du demandeur qui pratique le pâturage itinérant.
+  - la mise en place préalable de clôtures comme dispositif de prévention d’attaques de loups conformément au point 1er, à l’exception du demandeur qui pratique le pâturage itinérant.
 
 - pour les propriétaires ou détenteurs d’autres animaux d’élevage et d’équidés, à l’exception des volailles, si au moins trois attaques de loup sur une même surface endéans une période de trois mois ont été constatées, 75 pour cent du coût d’achat et de mise en place de clôtures électriques à conducteurs, de clôtures électriques à filet ou de clôtures fixes type Ursus comme dispositifs de prévention d’attaques de loups, et dont les modalités de mise en place sont précisées à l’annexe.
 
@@ -284,7 +284,7 @@ La demande de subvention pour l’achat respectivement la mise en place de dispo
 
 La demande de subvention est accompagnée :
 
-- pour l’acquisition et la mise en place de clôtures prévues à l’article 7, points 1 er et 3 : Pour la détermination du montant de la subvention, les frais de personnel ne dépassent pas les tarifs usuels pour la rémunération des travaux en régie au moment de la demande.
+- pour l’acquisition et la mise en place de clôtures prévues à l’article 7, points 1er et 3 : Pour la détermination du montant de la subvention, les frais de personnel ne dépassent pas les tarifs usuels pour la rémunération des travaux en régie au moment de la demande.
 
   - d’un extrait de plan cadastral ou d’un extrait de carte topographique avec indication des fonds faisant l’objet des travaux de mise en place de dispositifs de prévention ;
 

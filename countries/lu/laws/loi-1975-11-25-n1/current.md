@@ -159,13 +159,13 @@ Un règlement grand-ducal fixera des bonnes pratiques de délivrance des médica
 
 Cependant, des dépôts de médicaments peuvent être établis au sein :
 
-- d’un établissement hospitalier défini à l’article 1 er , paragraphe 3, de la loi du 8 mars 2018 relative aux établissements hospitaliers et à la planification hospitalière, à l’exception des hôpitaux disposant d’une pharmacie hospitalière, telle que définie à l’article 35 de la loi précitée ;
+- d’un établissement hospitalier défini à l’article 1er, paragraphe 3, de la loi du 8 mars 2018 relative aux établissements hospitaliers et à la planification hospitalière, à l’exception des hôpitaux disposant d’une pharmacie hospitalière, telle que définie à l’article 35 de la loi précitée ;
 
 - d’un établissement relevant de la loi modifiée du 23 décembre 1998 portant création de deux établissements publics dénommés 1) Centres, Foyers et Services pour personnes âgées ; 2) Centres de gériatrie ;
 
 - d’un établissement relevant de la loi modifiée du 8 septembre 1998 réglant les relations entre l’État et les organismes œuvrant dans les domaines social, familial et thérapeutique ;
 
-- d’un établissement agréé au sens de l’article 12, paragraphe 1 er , point 2°, de la loi modifiée du 15 novembre 1978 relative à l’information sexuelle, à la prévention de l’avortement clandestin et à la réglementation de l’interruption volontaire de grossesse ;
+- d’un établissement agréé au sens de l’article 12, paragraphe 1er, point 2°, de la loi modifiée du 15 novembre 1978 relative à l’information sexuelle, à la prévention de l’avortement clandestin et à la réglementation de l’interruption volontaire de grossesse ;
 
 - des services de l’État ;
 
@@ -177,13 +177,13 @@ Cependant, des dépôts de médicaments peuvent être établis au sein :
 
 La liste des médicaments à usage humain autorisés pour les dépôts de médicaments visés au paragraphe 1er, points 2° à 4°, 6° et 7°, concerne les médicaments disposant au Grand-Duché de Luxembourg d’une autorisation de mise sur le marché et :
 
-- destinés aux soins palliatifs et aux soins urgents des personnes hébergées dans un des établissements visés au paragraphe 1 er , points 2° et 3° ;
+- destinés aux soins palliatifs et aux soins urgents des personnes hébergées dans un des établissements visés au paragraphe 1er, points 2° et 3° ;
 
-- destinés aux personnes suivies par les structures du bas-seuil telles que prévues au paragraphe 1 er , point 3°, qui ne sont pas couvertes par l’assurance obligatoire, par l’assurance volontaire ou dispensés de l’assurance au sens du Code de la sécurité sociale ou bien utilisés dans ces structures par ces personnes en support du programme de traitement de la toxicomanie par substitution défini à l’article 8, paragraphe 2, de la loi modifiée du 19 février 1973 concernant la vente de substances médicamenteuses et la lutte contre la toxicomanie ;
+- destinés aux personnes suivies par les structures du bas-seuil telles que prévues au paragraphe 1er, point 3°, qui ne sont pas couvertes par l’assurance obligatoire, par l’assurance volontaire ou dispensés de l’assurance au sens du Code de la sécurité sociale ou bien utilisés dans ces structures par ces personnes en support du programme de traitement de la toxicomanie par substitution défini à l’article 8, paragraphe 2, de la loi modifiée du 19 février 1973 concernant la vente de substances médicamenteuses et la lutte contre la toxicomanie ;
 
-- prescrits aux personnes suivies par l’établissement visé au paragraphe 1 er , point 4°, dans le cadre de la prévention et de l’interruption volontaire de grossesse ;
+- prescrits aux personnes suivies par l’établissement visé au paragraphe 1er, point 4°, dans le cadre de la prévention et de l’interruption volontaire de grossesse ;
 
-- utilisés par les médecins participant au service de remplacement dans le cadre de la prise en charge des patients dans un des locaux visés au paragraphe 1 er , point 7°.
+- utilisés par les médecins participant au service de remplacement dans le cadre de la prise en charge des patients dans un des locaux visés au paragraphe 1er, point 7°.
 
 - utilisés par le Corps grand-ducal d’incendie et de secours dans le cadre du Service d’aide médicale urgente défini à l’article 4, lettre h), de la loi modifiée du 27 mars 2018 portant organisation de la sécurité civile.
 

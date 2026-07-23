@@ -192,7 +192,7 @@ L’évaluation est réalisée sur une échelle de zéro à vingt points. Tous l
 
 - À l’examen final, l’évaluation consiste en :
 
-  - un examen écrit et un examen oral pour les modules 1 et 3 ; pour le module langues, le candidat choisit la langue dans laquelle il entend se soumettre à l’épreuve orale deux mois avant l’épreuve . L’examen écrit et oral du module 1 est organisé au début du quatrième semestre. En cas d’absence à une journée d’examen pour le module 1, un repêchage est organisé endéans huit jours. La note de l’examen final des modules 1 et 3 est la moyenne arithmétique pondérée de la note de l’épreuve écrite affectée du coefficient 2, et de la note de l’épreuve orale affectée du coefficient 1 ;
+  - un examen écrit et un examen oral pour les modules 1 et 3 ; pour le module langues, le candidat choisit la langue dans laquelle il entend se soumettre à l’épreuve orale deux mois avant l’épreuve. L’examen écrit et oral du module 1 est organisé au début du quatrième semestre. En cas d’absence à une journée d’examen pour le module 1, un repêchage est organisé endéans huit jours. La note de l’examen final des modules 1 et 3 est la moyenne arithmétique pondérée de la note de l’épreuve écrite affectée du coefficient 2, et de la note de l’épreuve orale affectée du coefficient 1 ;
 
   - un examen écrit final organisé au cours du deuxième ou du quatrième semestre pour les modules 2, 4, 6, 9, 10, 11 et 12 . La note de l’examen final de ces modules est la note de l’épreuve écrite ;
 

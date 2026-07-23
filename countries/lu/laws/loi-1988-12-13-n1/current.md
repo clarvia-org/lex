@@ -1081,7 +1081,7 @@ Chaque commune participe au coût de la mise en place et du maintien du service 
 
 Les contributions financières annuelles des communes sont fixées comme suit :
 
-- cinquante pour cent de la contribution de chaque commune sont déterminés en fonction du nombre d’habitants dans la commune, calculé par l’Institut national de la statistique et des études économiques et arrêté au 1 er janvier de l’année précédant celle pour laquelle la contribution est due;
+- cinquante pour cent de la contribution de chaque commune sont déterminés en fonction du nombre d’habitants dans la commune, calculé par l’Institut national de la statistique et des études économiques et arrêté au 1er janvier de l’année précédant celle pour laquelle la contribution est due;
 
 - cinquante pour cent de la contribution de chaque commune sont déterminés par le quotient de la part de la commune dans l’ensemble des recettes nationales perçues au profit du Fonds de dotation globale des communes, des participations directes au produit en impôt commercial communal, ainsi que des mesures de compensation éventuelles, déduction faite des participations éventuelles au Fonds pour l’emploi, ces montants se rapportant à l’exercice précédant celui pour lequel la contribution est due.
 
@@ -1726,11 +1726,11 @@ Toutes les dispositions généralement quelconques qui sont contraires à la pr�
 
 - la loi du 24 février 1843 sur l’organisation communale et des districts,
 
-- les articles 45 à 47 et 51 à 71 de l’ arrêté royal grand-ducal du 11 décembre 1846 concernant la réorganisation et le règlement des bureaux de bienfaisance,
+- les articles 45 à 47 et 51 à 71 de l’arrêté royal grand-ducal du 11 décembre 1846 concernant la réorganisation et le règlement des bureaux de bienfaisance,
 
 - la loi du 23 septembre 1847 sur le règlement des comptes des communes et des établissements publics,
 
-- l’ arrêté royal grand-ducal du 29 mars 1882 concernant les poursuites pour le recouvrement des impositions communales directes autres que les centimes additionnels,
+- l’arrêté royal grand-ducal du 29 mars 1882 concernant les poursuites pour le recouvrement des impositions communales directes autres que les centimes additionnels,
 
 - l’article 4 alinéa 2 de la loi modifiée du 14 février 1900 concernant les syndicats de communes,
 

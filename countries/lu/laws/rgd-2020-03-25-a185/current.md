@@ -73,13 +73,13 @@ La suspension des délais prévue à l’article 1er ne s’applique pas :
 
 - aux délais prévus par les articles 39 et 93 du Code de procédure pénale ;
 
-- aux délais, prévus par l’article 116, paragraphe 8, du Code de procédure pénale , d’un jour à partir de celui de l’ordonnance ayant accordé la mise en liberté dans le lequel le procureur d’État doit interjeter appel, et de dix jours après qu’appel a été formé dans lequel la chambre du conseil, la chambre correctionnelle ou la chambre criminelle de la Cour d’appel doit statuer sur l’appel du procureur d’État ;
+- aux délais, prévus par l’article 116, paragraphe 8, du Code de procédure pénale, d’un jour à partir de celui de l’ordonnance ayant accordé la mise en liberté dans le lequel le procureur d’État doit interjeter appel, et de dix jours après qu’appel a été formé dans lequel la chambre du conseil, la chambre correctionnelle ou la chambre criminelle de la Cour d’appel doit statuer sur l’appel du procureur d’État ;
 
-- au délai, prévu par l’article 127, paragraphe 6, alinéa 1, du Code de procédure pénale , de huit jours ouvrables au moins avant celui fixé pour l’examen par la chambre du conseil dans lequel le dossier est mis à la disposition de l’inculpé et de la partie civile ainsi que de leur avocat ;
+- au délai, prévu par l’article 127, paragraphe 6, alinéa 1, du Code de procédure pénale, de huit jours ouvrables au moins avant celui fixé pour l’examen par la chambre du conseil dans lequel le dossier est mis à la disposition de l’inculpé et de la partie civile ainsi que de leur avocat ;
 
 - aux délais, prévu par l’article 133, paragraphe 5, du Code de procédure pénale ainsi que par des lois spéciales, dans lequel appel doit être formé contre les ordonnances du juge d’instruction ou de la chambre du conseil ;
 
-- aux délais, prévus par les articles 203 et 222 du Code de procédure pénale , dans lesquels appel doit être formé contre les jugements de la chambre correctionnelle ou criminelle du tribunal d’arrondissement ;
+- aux délais, prévus par les articles 203 et 222 du Code de procédure pénale, dans lesquels appel doit être formé contre les jugements de la chambre correctionnelle ou criminelle du tribunal d’arrondissement ;
 
 - au délai prévu par l’article 9, paragraphe 4, alinéa 3, de la loi modifiée du 8 août 2000 sur l’entraide judiciaire internationale en matière pénale ;
 
@@ -165,7 +165,7 @@ Pendant la durée l’état de crise, et par dérogation aux articles 203, 221 e
 
   - les demandes en mainlevée ou de modification des obligations du contrôle judiciaire prévues à l’article 111 du Code de procédure pénale ;
 
-  - les demandes de mise en liberté provisoire prévues à l’article 116 du Code de procédure pénale ; et
+  - les demandes de mise en liberté provisoire prévues à l’article 116 du Code de procédure pénale; et
 
   - les demandes en mainlevée de saisie et d’interdictions de conduire provisoires prévues à l’article 14, paragraphe 5, de la loi modifiée du 14 février 1955 concernant la réglementation de la circulation sur toutes les voies publiques ;
 
@@ -217,11 +217,11 @@ Pendant la durée de l’état de crise, sont également suspendus les délais p
 
 - à l’article 55 du Code civil ;
 
-- au Titre I er « Des successions » du Livre III « Des différentes manières dont on acquiert la propriété » du Code civil ;
+- au Titre Ier « Des successions » du Livre III « Des différentes manières dont on acquiert la propriété » du Code civil ;
 
 - et aux articles 810, 811, 814, 815,816, 827, 828, 829, 830, 831, 832, 833, 835, 840, 841, 844, 845, 846, 850, 853, 854, 855, 865, 866, 868, 872, 873, 879 et 885 du Nouveau Code de procédure civile ;
 
-- à l’article 440 du Code de commerce .
+- à l’article 440 du Code de commerce.
 
 <a id="art-7"></a>
 ## Art. 7.

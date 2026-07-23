@@ -137,7 +137,7 @@ Dans la mesure où un brevet luxembourgeois ayant pour objet une invention ident
 
 - la procédure d’opposition a définitivement abouti au maintien en vigueur du brevet européen,
 
-- il a été délivré si cette date est postérieure à celle visée aux lettres a) ou b) , suivant le cas.
+- il a été délivré si cette date est postérieure à celle visée aux lettres a) ou b), suivant le cas.
 
 Le brevet qui s’est ainsi éteint ne renaît pas lorsque le brevet européen tombe ultérieurement en déchéance ou que sa nullité est prononcée.
 

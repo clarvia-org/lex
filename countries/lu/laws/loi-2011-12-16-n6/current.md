@@ -33,9 +33,9 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 Le membre du gouvernement ayant l’Environnement dans ses attributions, ci-après désigné le ministre, exerce les attributions de l’autorité compétente aux fins de l’application:
 
-- du règlement (CE) no 1907/2006 du Parlement européen et du Conseil du 18 décembre 2006 concernant l’enregistrement, l’évaluation et l’autorisation des substances chimiques, ainsi que les restrictions applicables à ces substances (REACH), instituant une agence européenne des produits chimiques, modifiant la directive 1999/45/CE et abrogeant le règlement (CEE) no 793/93 du Conseil et le règlement (CE) no 1488/94 de la Commission ainsi que la directive 76/769/CEE du Conseil et les directives 91/155/CEE , 93/67/CEE , 93/105/CE et 2000/21/CE de la Commission, dénommé ci-après «règlement REACH»;
+- du règlement (CE) no 1907/2006 du Parlement européen et du Conseil du 18 décembre 2006 concernant l’enregistrement, l’évaluation et l’autorisation des substances chimiques, ainsi que les restrictions applicables à ces substances (REACH), instituant une agence européenne des produits chimiques, modifiant la directive 1999/45/CE et abrogeant le règlement (CEE) no 793/93 du Conseil et le règlement (CE) no 1488/94 de la Commission ainsi que la directive 76/769/CEE du Conseil et les directives 91/155/CEE , 93/67/CEE, 93/105/CE et 2000/21/CE de la Commission, dénommé ci-après «règlement REACH»;
 
-- du règlement (CE) no 1272/2008 du Parlement européen et du Conseil du 16 décembre 2008 relatif à la classification, à l’étiquetage et à l’emballage des substances et des mélanges, modifiant et abrogeant les directives 67/548/CEE et 1999/45/CE et modifiant le règlement (CE) no 1907/2006 , dénommé ci-après «règlement CLP».
+- du règlement (CE) no 1272/2008 du Parlement européen et du Conseil du 16 décembre 2008 relatif à la classification, à l’étiquetage et à l’emballage des substances et des mélanges, modifiant et abrogeant les directives 67/548/CEE et 1999/45/CE et modifiant le règlement (CE) no 1907/2006, dénommé ci-après «règlement CLP».
 
 Lorsque plusieurs autorités sont compétentes, le ministre coordonne les activités des différentes autorités compétentes.
 
@@ -71,19 +71,19 @@ Le comité REACH-CLP élabore lui-même son règlement d’organisation interne 
 
 En cas de non-respect d’un ou plusieurs des articles énumérés aux paragraphes 1er et 2 de l’article 9 de la présente loi le ministre peut :
 
-- interdire temporairement, pendant la période nécessaire aux différents contrôles, la mise sur le marché et l’utilisation d’une substance, telle quelle ou contenue dans un mélange, d’un mélange ou d’un article lorsqu’il existe des indices précis et convergents concernant leur non-conformité aux dispositions visées à l’article 1 er ;
+- interdire temporairement, pendant la période nécessaire aux différents contrôles, la mise sur le marché et l’utilisation d’une substance, telle quelle ou contenue dans un mélange, d’un mélange ou d’un article lorsqu’il existe des indices précis et convergents concernant leur non-conformité aux dispositions visées à l’article 1er ;
 
-- ordonner des mesures correctives relatives à la mise sur le marché et l’utilisation d’une substance, telle quelle ou contenue dans un mélange, d’un mélange ou d’un article par rapport à sa non-conformité à un ou plusieurs des articles énumérés à l’article 9, paragraphes 1 er et 2 ;
+- ordonner des mesures correctives relatives à la mise sur le marché et l’utilisation d’une substance, telle quelle ou contenue dans un mélange, d’un mélange ou d’un article par rapport à sa non-conformité à un ou plusieurs des articles énumérés à l’article 9, paragraphes 1er et 2 ;
 
-- ordonner à l’opérateur économique que les personnes susceptibles d’être exposées au risque imminent découlant d’une substance, telle quelle ou contenue dans un mélange, d’un mélange ou d’un article, qui n’est pas conforme aux dispositions visées à l’article 1 er , soient averties de ce risque en temps utile et sous une forme appropriée, y compris par la publication de ces avertissements ;
+- ordonner à l’opérateur économique que les personnes susceptibles d’être exposées au risque imminent découlant d’une substance, telle quelle ou contenue dans un mélange, d’un mélange ou d’un article, qui n’est pas conforme aux dispositions visées à l’article 1er, soient averties de ce risque en temps utile et sous une forme appropriée, y compris par la publication de ces avertissements ;
 
 - impartir à l’opérateur économique un délai dans lequel ce dernier doit se conformer à ces dispositions, délai qui ne peut être supérieur à deux ans ;
 
 - faire suspendre, en tout ou en partie l’activité par mesure provisoire ou faire fermer le local, l’installation ou le site en tout ou en partie et apposer des scellés ;
 
-- ordonner, coordonner ou, le cas échéant, organiser avec les opérateurs économiques, la récupération et l’élimination d’une substance, telle quelle ou contenue dans un mélange, d’un mélange ou d’un article qui n’est pas conforme aux dispositions visées à l’article 1 er , du marché ou auprès des consommateurs et sa destruction dans les conditions adéquates ;
+- ordonner, coordonner ou, le cas échéant, organiser avec les opérateurs économiques, la récupération et l’élimination d’une substance, telle quelle ou contenue dans un mélange, d’un mélange ou d’un article qui n’est pas conforme aux dispositions visées à l’article 1er, du marché ou auprès des consommateurs et sa destruction dans les conditions adéquates ;
 
-- interdire ou restreindre la mise sur le marché d’une substance, telle quelle ou contenue dans un mélange, d’un mélange ou d’un article qui n’est pas conforme aux dispositions visées à l’article 1 er et prendre les mesures d’accompagnement requises pour assurer le respect de cette interdiction.
+- interdire ou restreindre la mise sur le marché d’une substance, telle quelle ou contenue dans un mélange, d’un mélange ou d’un article qui n’est pas conforme aux dispositions visées à l’article 1er et prendre les mesures d’accompagnement requises pour assurer le respect de cette interdiction.
 
 (2)
 

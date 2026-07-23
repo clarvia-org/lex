@@ -100,7 +100,7 @@ Les rentes et pensions dérivant des dispositions du code des assurances sociale
 
 - une avance qui a été faite à l’intéressé sur ses droits par son patron ou une institution d’assurance sociale;
 
-- les créances qui compètent aux communes et offices sociaux en vertu des articles 120 et 235 du code des assurances sociales .
+- les créances qui compètent aux communes et offices sociaux en vertu des articles 120 et 235 du code des assurances sociales.
 
 <a id="art-7"></a>
 ## Art. 7.
@@ -162,7 +162,7 @@ Toutes les dispositions incompatibles avec la présente loi sont abrogées, nota
 
 - l’article 16 de la loi du 8 mai 1872 sur les droits et les devoirs des fonctionnaires de l’Etat;
 
-- l’ arrêté grand-ducal du 20 février 1895 portant règlement d’administration pour la force armée du Grand-duché;
+- l’arrêté grand-ducal du 20 février 1895 portant règlement d’administration pour la force armée du Grand-duché;
 
 - la loi du 19 juillet 1895 concernant la cessibilité et la saisissabilité des salaires et petits traitements des ouvriers et employés;
 
@@ -170,9 +170,9 @@ Toutes les dispositions incompatibles avec la présente loi sont abrogées, nota
 
 - l’article 34 de la loi du 7 août 1912 concernant la création d’une caisse de prévoyance pour les fonctionnaires et employés des communes et établissements publics;
 
-- la loi du 15 mai 1934 portant modification des lois du 19 juillet 1895 , sur les saisies-arrêts respectivement cessions des petits salaires et traitements;
+- la loi du 15 mai 1934 portant modification des lois du 19 juillet 1895, sur les saisies-arrêts respectivement cessions des petits salaires et traitements;
 
-- l’article 14 de la loi du 7 juin 1937 ayant pour objet la réforme de la loi du 3 octobre 1919 portant règlement légal du louage de service des employés privés, tel que cet article a été modifié par la loi du 20 avril 1962 ;
+- l’article 14 de la loi du 7 juin 1937 ayant pour objet la réforme de la loi du 3 octobre 1919 portant règlement légal du louage de service des employés privés, tel que cet article a été modifié par la loi du 20 avril 1962;
 
 - l’article 22 de la loi du 21 mai 1951 ayant pour objet la création d’une caisse de pension des artisans;
 

@@ -60,7 +60,7 @@ Peut prétendre au complément toute personne qui remplit les conditions suivant
 
 - bénéficier d’un droit au séjour, être inscrite au registre principal du registre national des personnes physiques et résider effectivement au lieu où est établi sa résidence habituelle ;
 
-- disposer de ressources personnelles conformément aux dispositions de l’article 3, paragraphe 1 er , point 4°.
+- disposer de ressources personnelles conformément aux dispositions de l’article 3, paragraphe 1er, point 4°.
 
 (2)
 
@@ -89,7 +89,7 @@ Le montant mensuel du complément dû par personne est déterminé en fonction :
 
 - du montant du prix d’hébergement mensuel du logement proposé au bénéficiaire tel qu’il est indiqué au registre précité qui ne peut être dépassé sous réserve des dispositions prévues au point 3°. Si deux personnes partagent une chambre double, le prix d’hébergement mensuel demandé pour la chambre double est divisé par deux pour déterminer le montant limite applicable par personne ;
 
-- d’une majoration de 28 euros au nombre 100 de l’indice pondéré du coût de la vie au 1 er janvier 1948 par rapport au prix d’hébergement mensuel servant de base de calcul pour couvrir les services et produits prévus à l’article 1 er , paragraphe 2, point 2° ;
+- d’une majoration de 28 euros au nombre 100 de l’indice pondéré du coût de la vie au 1er janvier 1948 par rapport au prix d’hébergement mensuel servant de base de calcul pour couvrir les services et produits prévus à l’article 1er, paragraphe 2, point 2° ;
 
 - des ressources personnelles du requérant dont il dispose soit à titre individuel, soit ensemble avec son époux ou partenaire au sens de l’article 2 de la loi modifiée du 9 juillet 2004 relative aux effets légaux de certains partenariats, ci-après « partenaire ». Les ressources personnelles sont déterminées conformément aux articles 4 à 9 et ne peuvent dépasser la somme du montant dû aux termes du complément et du montant mensuel immunisé sur les ressources personnelles du bénéficiaire.
 
@@ -300,11 +300,11 @@ Le Fonds réclame la somme par lui versée au titre du complément :
 
 À l’égard de la succession du bénéficiaire du complément, le Fonds réclame la restitution des sommes versées suivant les modalités ci-après :
 
-- lorsque la succession d’un bénéficiaire échoit en tout ou en partie au conjoint survivant ou au partenaire ou à des successeurs en ligne directe, le Fonds ne peut faire valoir aucune demande en restitution pour une première tranche de l’actif de la succession fixée à 29 747 euros au nombre 100 de l’indice pondéré du coût de la vie au 1 er janvier 1948.
+- lorsque la succession d’un bénéficiaire échoit en tout ou en partie au conjoint survivant ou au partenaire ou à des successeurs en ligne directe, le Fonds ne peut faire valoir aucune demande en restitution pour une première tranche de l’actif de la succession fixée à 29 747 euros au nombre 100 de l’indice pondéré du coût de la vie au 1er janvier 1948.
 
 Lorsque le conjoint survivant ou le partenaire ou un autre successeur en ligne directe d’un bénéficiaire du complément continue à habiter dans un immeuble ayant appartenu soit au bénéficiaire seul, soit conjointement au bénéficiaire du complément et à son conjoint ou à son partenaire, le Fonds ne peut pas, tant que dure cette situation, faire valoir une demande en restitution sur cet immeuble et sur les meubles meublants le garnissant. Toutefois, pour garantir les droits à une restitution ultérieure, l’immeuble est grevé d’une hypothèque légale dont l’inscription est requise par le Fonds.
 
-- À défaut de successeurs en ligne directe et de conjoint ou partenaire survivant, le Fonds ne peut faire valoir aucune demande en restitution pour une première tranche de l’actif de la succession fixée à 180 euros au nombre 100 de l’indice pondéré du coût de vie au 1 er janvier 1948, sans distinction du nombre de successeurs entrant en ligne de compte.
+- À défaut de successeurs en ligne directe et de conjoint ou partenaire survivant, le Fonds ne peut faire valoir aucune demande en restitution pour une première tranche de l’actif de la succession fixée à 180 euros au nombre 100 de l’indice pondéré du coût de vie au 1er janvier 1948, sans distinction du nombre de successeurs entrant en ligne de compte.
 
 <a id="art-15"></a>
 ## Art. 15.

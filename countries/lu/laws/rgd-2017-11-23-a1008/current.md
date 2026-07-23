@@ -409,7 +409,7 @@ L'organisme officiel responsable établit la conformité de la plante mère init
 
 - la description officielle pour les variétés enregistrées dans l'un des registres des États membres de l’Union européenne et pour les variétés protégées par un droit d'obtention végétale ;
 
-- la description accompagnant la demande pour les variétés qui font l'objet d'une demande d'enregistrement dans l'un des États membres de l’Union européenne, telle que visée à l'article 6, paragraphe 1 er du présent règlement grand-ducal ;
+- la description accompagnant la demande pour les variétés qui font l'objet d'une demande d'enregistrement dans l'un des États membres de l’Union européenne, telle que visée à l'article 6, paragraphe 1er du présent règlement grand-ducal ;
 
 - la description accompagnant la demande pour les variétés qui font l'objet d'une demande de droit d'obtention végétale ;
 
@@ -909,7 +909,7 @@ S'il constate qu'un matériel CAC ne répond plus aux conditions du paragraphe 1
 
 - il écarte ledit matériel des autres matériels CAC ;
 
-- il prend les mesures appropriées pour que ledit matériel réponde à nouveau aux conditions visées au paragraphe 1 er .
+- il prend les mesures appropriées pour que ledit matériel réponde à nouveau aux conditions visées au paragraphe 1er.
 
 <a id="art-33"></a>
 ## Art. 33.

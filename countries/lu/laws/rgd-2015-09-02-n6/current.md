@@ -60,7 +60,7 @@ La demande d’admission au bénéfice des aides à caractère social en faveur 
 
 - une copie des contrats de travail et des fiches de salaire y afférentes ,
 
-- une copie des contrats d’entreprise , des factures émises et des preuves de paiement ,
+- une copie des contrats d’entreprise, des factures émises et des preuves de paiement ,
 
 - les inscriptions au carnet de travail de l’intermittent du spectacle relatives aux contrats invoqués,
 

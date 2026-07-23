@@ -56,7 +56,7 @@ Si pour une même période le fonctionnaire peut se prévaloir et du point 4. de
 
   - si les deux conjoints exerçaient simultanément une activité professionnelle.
 
-- L’infirmité éventuelle de l’enfant doit être telle qu’il ne peut subsister sans l’assistance et les soins du parent concerné et doit être constatée par la Commission des pensions prévue à l’article 68 de la loi modifiée du 3 août 1998 , respectivement par l’organe compétent du régime de pension spécial concerné.
+- L’infirmité éventuelle de l’enfant doit être telle qu’il ne peut subsister sans l’assistance et les soins du parent concerné et doit être constatée par la Commission des pensions prévue à l’article 68 de la loi modifiée du 3 août 1998, respectivement par l’organe compétent du régime de pension spécial concerné.
 
 <a id="art-4"></a>
 ## Art. 4.
@@ -107,7 +107,7 @@ Compte tenu des dispositions prévisées, l’intéressé est libre de fixer la 
 
 - soit la rémunération définie conformément aux articles 60, 80 ou 85 de la loi modifiée du 3 août 1998 suivant le régime de pension spécial compétent et réalisée avant l’admission à l’assurance continuée, complémentaire ou facultative, revalorisée, le cas échéant, par rapport à l’exercice d’une tâche complète, soit le plafond défini à l’article 49 de la loi précitée pour le cas où celui-ci est plus favorable,
 
-- soit l’indemnité parlementaire prévue à l’article 126.-1. de la loi électorale du 18 février 2003 dont bénéficie l’assuré en sa qualité de membre de la chambre des députés, à condition que ce mandat soit le fondement exclusif d’une assurance obligatoire. Toutefois, il est loisible à l’intéressé de porter l’assiette jusqu’à concurrence du plafond défini à l’article 49 de la loi précitée .
+- soit l’indemnité parlementaire prévue à l’article 126.-1. de la loi électorale du 18 février 2003 dont bénéficie l’assuré en sa qualité de membre de la chambre des députés, à condition que ce mandat soit le fondement exclusif d’une assurance obligatoire. Toutefois, il est loisible à l’intéressé de porter l’assiette jusqu’à concurrence du plafond défini à l’article 49 de la loi précitée.
 
 Dans la limite des plafonds visés à l’alinéa 3, l’intéressé peut en outre fixer l’assiette de cotisation à une, deux, trois, quatre ou cinq fois le salaire social minimum mensuel.
 
@@ -150,7 +150,7 @@ La période à couvrir rétroactivement ne peut ni se situer avant l’âge de d
 
 - les périodes d’éducation d’un enfant mineur,
 
-- les périodes d’aides et de soins assurés à une personne reconnue dépendante conformément aux articles 348 et 349 du Code de la sécurité sociale ou bénéficiant d’une allocation de soins prévue par la loi du 22 mai 1989 , d’une allocation spéciale pour personnes gravement handicapées au titre de la loi modifiée du 16 avril 1979 , d’une majoration de la rente d’accident en vertu de l’article 97, alinéa 10 du Code de la sécurité sociale ou d’une majoration du complément du revenu minimum garanti prévu par l’article 3, alinéa 4 de la loi modifiée du 26 juillet 1986 conformément à l’article VIII de la loi du 19 juin 1998 portant introduction d’une assurance dépendance,
+- les périodes d’aides et de soins assurés à une personne reconnue dépendante conformément aux articles 348 et 349 du Code de la sécurité sociale ou bénéficiant d’une allocation de soins prévue par la loi du 22 mai 1989, d’une allocation spéciale pour personnes gravement handicapées au titre de la loi modifiée du 16 avril 1979, d’une majoration de la rente d’accident en vertu de l’article 97, alinéa 10 du Code de la sécurité sociale ou d’une majoration du complément du revenu minimum garanti prévu par l’article 3, alinéa 4 de la loi modifiée du 26 juillet 1986 conformément à l’article VIII de la loi du 19 juin 1998 portant introduction d’une assurance dépendance,
 
 - les périodes d’affiliation à un régime de pension étranger ou à un régime de pension d’une organisation internationale.
 

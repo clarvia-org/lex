@@ -219,9 +219,9 @@ Des activités de vente de détail et de prestation de services peuvent être au
 
 Des activités de prestation de services non liées à l’exercice d’une activité définie à l’alinéa 1er peuvent être autorisées :
 
-- pour un immeuble bâti dans lequel est exercé une activité définie à l’alinéa 1 er , si la surface mise à disposition pour tout type d’activités de prestation de services confondus ne dépasse pas la moitié de la surface construite bâtie par immeuble bâti ou ;
+- pour un immeuble bâti dans lequel est exercé une activité définie à l’alinéa 1er, si la surface mise à disposition pour tout type d’activités de prestation de services confondus ne dépasse pas la moitié de la surface construite bâtie par immeuble bâti ou ;
 
-- si elles servent majoritairement les besoins de la zone ou le développement des activités définies à l’alinéa 1 er et sans qu’elles ne dépassent 3.500 m 2 de surface construite brute par immeuble bâti.
+- si elles servent majoritairement les besoins de la zone ou le développement des activités définies à l’alinéa 1er et sans qu’elles ne dépassent 3.500 m2 de surface construite brute par immeuble bâti.
 
 (2)
 
@@ -229,7 +229,7 @@ Si les caractéristiques ou les particularités de la zone le permettent, peuven
 
 - industrielles de production, d’assemblage ou de transformation ;
 
-- de vente de détail de produits de consommation non liées à l’exercice d’une activité définie au paragraphe 1 er , alinéa 1 er , limitées à 2.000 m 2 de surface construite brute par immeuble bâti, ou encore de produits énergétiques s’ils servent majoritairement les besoins de la zone ou le développement des activités définies au paragraphe 1 er , alinéa 1 er , ou au paragraphe 2, point 1°, limitées à 500 m 2 de surface construite brute par immeuble bâti.
+- de vente de détail de produits de consommation non liées à l’exercice d’une activité définie au paragraphe 1er, alinéa 1er, limitées à 2.000 m2 de surface construite brute par immeuble bâti, ou encore de produits énergétiques s’ils servent majoritairement les besoins de la zone ou le développement des activités définies au paragraphe 1er, alinéa 1er, ou au paragraphe 2, point 1°, limitées à 500 m2 de surface construite brute par immeuble bâti.
 
 (3)
 
@@ -277,7 +277,7 @@ Les zones d’activités économiques régionales sont principalement réservée
 
 - de commerce de gros, de transport ou de logistique ;
 
-- de recherche-développement-innovation au sens de l’article 1 er , point 28 de la loi modifiée du 17 mai 2017 relative à la promotion de la recherche, du développement et de l’innovation ;
+- de recherche-développement-innovation au sens de l’article 1er, point 28 de la loi modifiée du 17 mai 2017 relative à la promotion de la recherche, du développement et de l’innovation ;
 
 - d’hébergement ou d’incubateur d’entreprises si elles répondent à des objectifs régionaux ou nationaux de développement sectoriel ou à des besoins spécifiques d’importance régionale ou nationale.
 
@@ -287,9 +287,9 @@ Des activités de vente de détail et de prestation de services peuvent être au
 
 Des activités de prestation de services non liées à l’exercice d’une activité définie à l’alinéa 1er peuvent être autorisées :
 
-- pour un immeuble bâti dans lequel est exercé une activité définie à l’alinéa 1 er , si la surface mise à disposition pour tout type d’activités de prestation des services confondus ne dépasse pas la moitié de la surface construite bâtie par immeuble bâti ou ;
+- pour un immeuble bâti dans lequel est exercé une activité définie à l’alinéa 1er, si la surface mise à disposition pour tout type d’activités de prestation des services confondus ne dépasse pas la moitié de la surface construite bâtie par immeuble bâti ou ;
 
-- si elles servent majoritairement les besoins de la zone ou le développement des activités définies à l’alinéa 1 er et sans qu’elles ne dépassent 3.500 m 2 de surface construite brute par immeuble bâti.
+- si elles servent majoritairement les besoins de la zone ou le développement des activités définies à l’alinéa 1er et sans qu’elles ne dépassent 3.500 m2 de surface construite brute par immeuble bâti.
 
 (3)
 
@@ -322,7 +322,7 @@ Les zones d’activités économiques nationales sont principalement réservées
 
 - industrielles de fabrication, de production, d’assemblage, de transformation, de préparation ou de conditionnement de produits, ainsi que de prestation de services ayant une influence motrice sur le développement économique national ;
 
-- de recherche-développement-innovation au sens de l’article 1 er , point 28 de la loi modifiée du 17 mai 2017 relative à la promotion de la recherche, du développement et de l’innovation ;
+- de recherche-développement-innovation au sens de l’article 1er, point 28 de la loi modifiée du 17 mai 2017 relative à la promotion de la recherche, du développement et de l’innovation ;
 
 - d’hébergement ou d’incubateur d’entreprises si elles répondent à des objectifs nationaux de développement sectoriel ou à des besoins spécifiques d’importance nationale.
 
@@ -349,7 +349,7 @@ Les zones d’activités spécifiques nationales sont principalement réservées
 
 - répondant à des objectifs nationaux de développement sectoriel ou à des fonctions ou besoins spécifiques d’importance nationale ;
 
-- de recherche-développement-innovation au sens de l’article 1 er , point 28 de la loi modifiée du 17 mai 2017 relative à la promotion de la recherche, du développement et de l’innovation ;
+- de recherche-développement-innovation au sens de l’article 1er, point 28 de la loi modifiée du 17 mai 2017 relative à la promotion de la recherche, du développement et de l’innovation ;
 
 - d’hébergement ou d’incubateur d’entreprises si elles répondent à l’un des objectifs fixés au point 1°.
 

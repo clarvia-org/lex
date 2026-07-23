@@ -87,7 +87,7 @@ Les conditions d’admission au stage, de nomination et d’avancement du person
 
 La loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’Etat est modifiée comme suit:
 
-- A l’article 2, paragraphe 1, sous le point d), les termes et psychique sont intercalés entre le terme physique et le terme requises .
+- A l’article 2, paragraphe 1, sous le point d), les termes et psychique sont intercalés entre le terme physique et le terme requises.
 
 - A l’article 12, paragraphe 2, les termes prévu à l’article 32 de la présente loi sont supprimés.
 
@@ -114,7 +114,7 @@ A l’article 67.IV., les termes prévu à l’article 32, paragraphe 8 de la lo
 
 La loi modifiée du 24 décembre 1985 fixant le statut général des fonctionnaires communaux est modifiée comme suit:
 
-- A l’article 2, paragraphe 1 er , sous le point d), les termes et psychique sont intercalés entre le terme physique et le terme requises .
+- A l’article 2, paragraphe 1er, sous le point d), les termes et psychique sont intercalés entre le terme physique et le terme requises.
 
 - A l’article 14, paragraphe 2, les termes prévu à l’article 32 de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’Etat sont supprimés.
 
@@ -127,11 +127,11 @@ La loi modifiée du 24 décembre 1985 fixant le statut général des fonctionnai
 
 La loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’Etat est modifiée comme suit:
 
-- A l’article 22, section II, est ajoutée au point 16° derrière la mention le médecin-chef de division de l’Administration pénitentiaire la mention le médecin-chef de division de l’Administration des Services médicaux du Secteur public .
+- A l’article 22, section II, est ajoutée au point 16° derrière la mention le médecin-chef de division de l’Administration pénitentiaire la mention le médecin-chef de division de l’Administration des Services médicaux du Secteur public.
 
-- A l’article 22, section IV, est ajoutée au point 9° derrière la mention le Secrétaire général du Conseil économique et social la mention le médecin-chef de division de l’Administration des Services médicaux du Secteur public .
+- A l’article 22, section IV, est ajoutée au point 9° derrière la mention le Secrétaire général du Conseil économique et social la mention le médecin-chef de division de l’Administration des Services médicaux du Secteur public.
 
-- A l’article 22, section VIII, est ajoutée au point b) derrière la mention Secrétaire général du Conseil économique et social la mention médecin-chef de division de l’Administration des Services médicaux du Secteur public .
+- A l’article 22, section VIII, est ajoutée au point b) derrière la mention Secrétaire général du Conseil économique et social la mention médecin-chef de division de l’Administration des Services médicaux du Secteur public.
 
 <a id="art-12"></a>
 ## Art. 12.

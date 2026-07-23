@@ -61,9 +61,9 @@ Pour les besoins de l’application de la procédure prévue aux articles 191 à
 
 - à défaut d’avoir sollicité d’être entendus en leurs plaidoiries, les mandataires des parties sont réputés avoir réitéré leurs moyens à l’audience de plaidoiries et ils sont dispensés de se présenter à l’audience fixée à cette fin. Ils déposent leurs fardes de procédure au greffe de la juridiction saisie dans les deux jours ouvrables suivant celle-ci ;
 
-- par dérogation à l’article 226 du Nouveau Code de procédure civile , aucun rapport n’est fait ;
+- par dérogation à l’article 226 du Nouveau Code de procédure civile, aucun rapport n’est fait ;
 
-- par dérogation à l’article 227 du Nouveau Code de procédure civile , l’audience de plaidoiries est toujours tenue par le président du siège seul, sinon par le magistrat par lui délégué seul, à charge pour lui de rendre compte à la juridiction saisie dans son délibéré. À l’issue de l’audience, les mandataires des parties sont informés par la voie électronique de la composition de la juridiction et de la date du prononcé.
+- par dérogation à l’article 227 du Nouveau Code de procédure civile, l’audience de plaidoiries est toujours tenue par le président du siège seul, sinon par le magistrat par lui délégué seul, à charge pour lui de rendre compte à la juridiction saisie dans son délibéré. À l’issue de l’audience, les mandataires des parties sont informés par la voie électronique de la composition de la juridiction et de la date du prononcé.
 
 En complément des communications par la voie électronique visées aux points 1° et 5°, le greffe adresse aux mandataires des parties une copie de cette communication par écrit. Les mêmes règles dérogatoires s’appliquent par analogie à la procédure en instance d’appel telle que régie par les articles 598 à 611 du Nouveau Code de procédure civile.
 
@@ -83,7 +83,7 @@ Est suspendue l’exécution :
 
 - des déguerpissements ordonnés en matière de bail à usage d’habitation ;
 
-- des déguerpissements pris en vertu de l’article 253 du Code civil et de l’article 1007-45 du Nouveau Code de procédure civile .
+- des déguerpissements pris en vertu de l’article 253 du Code civil et de l’article 1007-45 du Nouveau Code de procédure civile.
 
 <a id="art-5"></a>
 ## Art. 5.

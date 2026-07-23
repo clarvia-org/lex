@@ -55,7 +55,7 @@ L’indemnité est soumise au règlement (UE) n° 1407/2013 de la Commission du 
 
 Sont exclus du champ d’application du présent règlement :
 
-- les entreprises relevant des secteurs mentionnés à l’article 1 er , paragraphe 2 de la loi du 20 décembre 2019 ayant pour objet la mise en place d’un régime d’aides de minimis et les aides visées à l’article 1 er , paragraphe 3 de la même loi. Lorsqu’une entreprise exerce ses activités à la fois dans un ou plusieurs des secteurs mentionnés l’article 1 er , paragraphe 2 de la loi du 20 décembre 2019 ayant pour objet la mise en place d’un régime d’aides de minimis et dans un ou plusieurs secteurs entrant dans le champ d’application du présent règlement, alors seules ces dernières activités peuvent être considérées comme éligibles sous réserve d’assurer une séparation des activités ou une distinction des coûts ;
+- les entreprises relevant des secteurs mentionnés à l’article 1er, paragraphe 2 de la loi du 20 décembre 2019 ayant pour objet la mise en place d’un régime d’aides de minimis et les aides visées à l’article 1er, paragraphe 3 de la même loi. Lorsqu’une entreprise exerce ses activités à la fois dans un ou plusieurs des secteurs mentionnés l’article 1er, paragraphe 2 de la loi du 20 décembre 2019 ayant pour objet la mise en place d’un régime d’aides de minimis et dans un ou plusieurs secteurs entrant dans le champ d’application du présent règlement, alors seules ces dernières activités peuvent être considérées comme éligibles sous réserve d’assurer une séparation des activités ou une distinction des coûts ;
 
 - les employeurs qui ont été condamnés à au moins deux reprises pour contraventions aux dispositions interdisant le travail clandestin ou aux dispositions interdisant l’emploi de ressortissants de pays tiers en séjour irrégulier, au cours des quatre dernières années précédant le jugement de la juridiction compétente ;
 
@@ -79,9 +79,9 @@ Une demande d’indemnité doit être soumise au ministre sous forme écrite ava
 
 - une déclaration des autres aides de minimis éventuelles que l’entreprise unique a reçues au cours des deux exercices fiscaux précédents et de l’exercice fiscal en cours ;
 
-- le motif de la demande au regard de l’article 1 er , paragraphe 1 er ;
+- le motif de la demande au regard de l’article 1er, paragraphe 1er ;
 
-- une estimation du montant de la perte du chiffre d’affaires lorsque l’entreprise demande une indemnité sur base de l’article 1 er , paragraphe 1 er , point 2.
+- une estimation du montant de la perte du chiffre d’affaires lorsque l’entreprise demande une indemnité sur base de l’article 1er, paragraphe 1er, point 2.
 
 <a id="art-5"></a>
 ## Art. 5.

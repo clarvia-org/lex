@@ -117,17 +117,17 @@ La loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionn
 
 - Le point 5° de la section I de l’article 22 est supprimé.
 
-- Au point 8° de la section II de l’article 22 est ajoutée la fonction assistant technique viticole .
+- Au point 8° de la section II de l’article 22 est ajoutée la fonction assistant technique viticole.
 
 - Le point 15° de la section II de l’article 22 est supprimé.
 
 - Le point 14° de la section VI est supprimé.
 
-- Au point 18° de la section VI de l’article 22 est ajoutée la fonction assistant technique viticole .
+- Au point 18° de la section VI de l’article 22 est ajoutée la fonction assistant technique viticole.
 
-- Au septième alinéa de la lettre a) de la section VII de l’article 22 est ajoutée la fonction assistant technique viticole .
+- Au septième alinéa de la lettre a) de la section VII de l’article 22 est ajoutée la fonction assistant technique viticole.
 
-- A la rubrique 20 p.i. de la lettre c) de la section VII de l’article 22 est ajoutée la fonction assistant technique viticole .
+- A la rubrique 20 p.i. de la lettre c) de la section VII de l’article 22 est ajoutée la fonction assistant technique viticole.
 
 - A la rubrique I «Administration générale» de l’Annexe A – Classification des fonctions
 

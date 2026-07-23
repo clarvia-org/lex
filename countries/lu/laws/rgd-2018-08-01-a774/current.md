@@ -66,7 +66,7 @@ Au sens du présent règlement, on entend par :
 
   - hêtraies du Luzulo-Fagetum [9110] ;
 
-  - hêtraies de l’ Asperulo-Fagetum [9130] ;
+  - hêtraies de l’Asperulo-Fagetum [9130] ;
 
   - hêtraies calcicoles médio-européennes du Cephalanthero-Fagion [9150] ;
 
@@ -76,7 +76,7 @@ Au sens du présent règlement, on entend par :
 
   - tourbières boisées [91D0]* ;
 
-  - forêts alluviales à Alnus glutinosa et Fraxinus excelsior ( Alno-Padion , Alnion incanae , Salicion albae ) [91E0]* ;
+  - forêts alluviales à Alnus glutinosa et Fraxinus excelsior (Alno-Padion, Alnion incanae, Salicion albae) [91E0]* ;
 
   - formations stables xérothermophiles à Buxus sempervirens des pentes rocheuses (Berberidion p.p.) [5110].
 
@@ -86,7 +86,7 @@ Au sens du présent règlement, on entend par :
 
   - magnocariçaies [BK04] ;
 
-  - roselières ( Phragmition , Phalaridion , Sparganio-Glycerion ) [BK06] ;
+  - roselières (Phragmition, Phalaridion, Sparganio-Glycerion) [BK06] ;
 
   - pelouses maigres sur sols sableux et siliceux [BK07] ;
 
@@ -106,13 +106,13 @@ Au sens du présent règlement, on entend par :
 
   - formations à Juniperus communis sur landes ou pelouses calcaires [5130] ;
 
-  - pelouses sèches semi-naturelles et faciès d’embuissonnement sur calcaires ( Festuco-Brometalia ) [6210] (*sites d’orchidées remarquables) ;
+  - pelouses sèches semi-naturelles et faciès d’embuissonnement sur calcaires (Festuco-Brometalia) [6210] (*sites d’orchidées remarquables) ;
 
-  - formations herbeuses à Nardus , riches en espèces, sur substrats siliceux des zones montagnardes (et des zones submontagnardes de l’Europe continentale) [6230]* ;
+  - formations herbeuses à Nardus, riches en espèces, sur substrats siliceux des zones montagnardes (et des zones submontagnardes de l’Europe continentale) [6230]* ;
 
-  - prairies à Molinia sur sols calcaires, tourbeux ou argilo-limoneux ( Molinion caeruleae ) [6410] ;
+  - prairies à Molinia sur sols calcaires, tourbeux ou argilo-limoneux (Molinion caeruleae) [6410] ;
 
-  - prairies maigres de fauche de basse altitude ( Alopecurus pratensis , Sanguisorba officinalis ) [6510].
+  - prairies maigres de fauche de basse altitude (Alopecurus pratensis, Sanguisorba officinalis) [6510].
 
 - « biotopes protégés humides ou aquatiques » :
 
@@ -126,9 +126,9 @@ Au sens du présent règlement, on entend par :
 
 - « habitats d’intérêt communautaire humides ou aquatiques » :
 
-  - eaux stagnantes, oligotrophes à mésotrophes avec végétation du Littorelletea uniflorae et/ou de l’ Isoëto-Nanojuncetea [3130] ;
+  - eaux stagnantes, oligotrophes à mésotrophes avec végétation du Littorelletea uniflorae et/ou de l’Isoëto-Nanojuncetea [3130] ;
 
-  - eaux oligo-mésotrophes calcaires avec végétation benthique à Chara spp . [3140] ;
+  - eaux oligo-mésotrophes calcaires avec végétation benthique à Chara spp. [3140] ;
 
   - lacs et plans d’eaux eutrophes naturels avec végétation du Magnopotamion ou Hydrocharition [3150] ;
 
@@ -152,7 +152,7 @@ Au sens du présent règlement, on entend par :
 
 - « habitats d’intérêt communautaire rocheux » :
 
-  - pelouses rupicoles calcaires ou basiphiles de l’ Alysso-Sedion albi [6110]* ;
+  - pelouses rupicoles calcaires ou basiphiles de l’Alysso-Sedion albi [6110]* ;
 
   - éboulis médio-européens siliceux des régions hautes [8150] ;
 
@@ -166,7 +166,7 @@ Au sens du présent règlement, on entend par :
 
   - grottes non exploitées par le tourisme [8310].
 
-- « habitats des espèces d’intérêt communautaire pour lesquelles l’état de conservation a été évalué non favorable » : habitats des espèces d’intérêt communautaire visés par la protection de l’article 17 de la loi modifiée du 18 juillet 2018 concernant la protection de la nature et des ressources naturelles correspondant à tous les biotopes ou habitats occupés par lesdites espèces, sous condition que leur venue y est régulière et qu’un lien fonctionnel direct existe entre l’habitat et les spécimens de ces espèces. Outre les sites de reproduction, y inclus tous les habitats essentiels à la reproduction, et les aires de repos, qui sont soumis à une protection particulière par l’article 21 de la loi précitée du 18 juillet 2018 , les habitats des espèces animales d’intérêt communautaire ayant un état de conservation non favorable, visés par l’article 17 de la prédite loi correspondent également aux habitats de chasse ou de recherche de nourriture, ainsi qu’aux couloirs écologiques, régulièrement visités ou occupés.
+- « habitats des espèces d’intérêt communautaire pour lesquelles l’état de conservation a été évalué non favorable » : habitats des espèces d’intérêt communautaire visés par la protection de l’article 17 de la loi modifiée du 18 juillet 2018 concernant la protection de la nature et des ressources naturelles correspondant à tous les biotopes ou habitats occupés par lesdites espèces, sous condition que leur venue y est régulière et qu’un lien fonctionnel direct existe entre l’habitat et les spécimens de ces espèces. Outre les sites de reproduction, y inclus tous les habitats essentiels à la reproduction, et les aires de repos, qui sont soumis à une protection particulière par l’article 21 de la loi précitée du 18 juillet 2018, les habitats des espèces animales d’intérêt communautaire ayant un état de conservation non favorable, visés par l’article 17 de la prédite loi correspondent également aux habitats de chasse ou de recherche de nourriture, ainsi qu’aux couloirs écologiques, régulièrement visités ou occupés.
 
 - « plan de gestion dûment approuvé » : tout plan arrêté ou approuvé par le ministre en vertu de la loi modifiée du 18 juillet 2018 concernant la protection de la nature et des ressources naturelles, déterminant la gestion à appliquer en fonction de la situation spécifique afin de préserver, voire améliorer l’état de conservation du biotope protégé ou habitat visé.
 
@@ -287,7 +287,7 @@ Les mesures générales de réduction, de destruction ou de détérioration des 
 
 - l’emploi de biocides ou de pesticides ;
 
-- l’emploi de boues d’épuration, de purin ou de lisier , ainsi que l’emploi de fertilisants minéraux ;
+- l’emploi de boues d’épuration, de purin ou de lisier, ainsi que l’emploi de fertilisants minéraux ;
 
 - la réduction du nombre, de l’abondance ou du taux de recouvrement des espèces caractéristiques du biotope ou habitat concerné, notamment par un apport inadapté de fertilisant, de chaux ou de tout autre matériau dans le but de modifier la structure ou la fertilité du sol ;
 

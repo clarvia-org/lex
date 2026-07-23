@@ -53,7 +53,7 @@ Pour l’application de la présente loi, on entend par :
 
 - « méthode push » : la méthode par laquelle les transporteurs aériens transfèrent les données PNR vers la base de données de l'Unité d’informations passagers telle que créée à l’article 3 ;
 
-- « infractions terroristes » : les infractions visées au Livre II, Titre 1 ier , Chapitre III-1 du Code pénal ;
+- « infractions terroristes » : les infractions visées au Livre II, Titre 1ier, Chapitre III-1 du Code pénal ;
 
 - « formes graves de criminalité » : les infractions énumérées à l'annexe II qui sont passibles d’une peine privative de liberté d’une durée maximale d’au moins trois ans ;
 
@@ -286,15 +286,15 @@ La demande énonce les motifs sur lesquels s’appuie Europol pour estimer que l
 
 L’UIP peut transférer des données PNR et le résultat de traitement de ces données à un pays non membre de l’Union européenne au cas par cas, et si :
 
-- l’une des conditions prévues à l’article 34, paragraphe 1 er , point d) de la loi du 1er août 2018 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel en matière pénale ainsi qu’en matière de sécurité nationale est remplie ;
+- l’une des conditions prévues à l’article 34, paragraphe 1er, point d) de la loi du 1er août 2018 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel en matière pénale ainsi qu’en matière de sécurité nationale est remplie ;
 
 - l’autorité destinataire est chargée de la prévention, recherche, constatation et poursuite d’infractions terroristes ou de formes graves de criminalité ;
 
-- le transfert est nécessaire aux fins telles que définies à l’article 1 er ;
+- le transfert est nécessaire aux fins telles que définies à l’article 1er ;
 
-- le pays tiers n'accepte de transférer les données à un autre pays tiers que lorsque cela est strictement nécessaire aux fins telles que définies à l’article 1 er ;
+- le pays tiers n'accepte de transférer les données à un autre pays tiers que lorsque cela est strictement nécessaire aux fins telles que définies à l’article 1er ;
 
-- les conditions prévues à l’article 17, paragraphe 1 er sont remplies.
+- les conditions prévues à l’article 17, paragraphe 1er sont remplies.
 
 Les dispositions du présent article ne portent pas atteinte aux dispositions légales sur l’entraide judiciaire internationale en matière pénale.
 

@@ -82,7 +82,7 @@ Au sens du présent règlement, on entend par :
 
     - pour lesquelles il a été constaté, lors d’un examen officiel ou, dans le cas des conditions figurant à l’annexe IV, soit lors d’un examen officiel, soit lors d’un examen effectué sous contrôle officiel, que les conditions énoncées aux lettres a), b) et c) ont été respectées ;
 
-- « Semences certifiées » : les semences de toutes les semences énumérées à l’annexe I autres que Lupinus spp., Pisum sativum , Vicia spp., ainsi que Medicago sativa :
+- « Semences certifiées » : les semences de toutes les semences énumérées à l’annexe I autres que Lupinus spp., Pisum sativum, Vicia spp., ainsi que Medicago sativa :
 
   - qui proviennent directement de semences de base ou, à la demande de l’obtenteur, de semences d’une génération antérieure aux semences de base qui ont répondu, lors d’un examen officiel, aux conditions prévues aux annexes III et IV pour les semences de base ;
 
@@ -124,7 +124,7 @@ Au sens du présent règlement, on entend par :
 
 - « Petits emballages CE B » : les emballages contenant des semences de base, des semences certifiées, des semences commerciales ou – pour autant qu’il ne s’agit pas de petits emballages CE A – un mélange de semences, à concurrence d’un poids net de 10 kilogrammes à l’exclusion, le cas échéant, des pesticides granulés, des substances d’enrobage ou d’autres additifs solides ;
 
-- « Contrôle officiel » : l’inspection des cultures sur pied et l’examen des semences après la récolte, effectués par un des organismes officiels de contrôle visés à l’article 5, paragraphe 1 er de la loi du 18 mars 2008 sur la commercialisation des semences et plants ainsi que sur la coexistence des cultures génétiquement modifiées, conventionnelles et biologiques.
+- « Contrôle officiel » : l’inspection des cultures sur pied et l’examen des semences après la récolte, effectués par un des organismes officiels de contrôle visés à l’article 5, paragraphe 1er de la loi du 18 mars 2008 sur la commercialisation des semences et plants ainsi que sur la coexistence des cultures génétiquement modifiées, conventionnelles et biologiques.
 
 <a id="art-4"></a>
 ## Art. 4.
@@ -485,7 +485,7 @@ Lorsque, dans ces cas, les semences ont été produites directement à partir de
 
 Les semences de plantes fourragères qui ont été récoltées dans l’Union européenne et destinées à être certifiées conformément aux dispositions du paragraphe 1er :
 
-- sont emballées et étiquetées à l’aide d’une étiquette officielle remplissant les conditions fixées à l’annexe VII, parties A et B, conformément aux dispositions prévues par l’article 18, paragraphe 1 er et,
+- sont emballées et étiquetées à l’aide d’une étiquette officielle remplissant les conditions fixées à l’annexe VII, parties A et B, conformément aux dispositions prévues par l’article 18, paragraphe 1er et,
 
 - sont accompagnées d’un document officiel remplissant les conditions prévues à l’annexe VII, partie C.
 

@@ -63,7 +63,7 @@ On entend aux fins de la présente loi par:
 
 - «centre commercial»: tout ensemble de magasins spécialisés ou non, conçu comme un tout. Est également à considérer comme centre commercial l’ensemble des magasins adjacents à une même aire de stationnement.
 
-- «commerce»: toutes les activités économiques qui consistent à réaliser des actes de commerce au sens du Code de commerce , à l’exception des activités industrielles et des services relevant de la liste des activités artisanales.
+- «commerce»: toutes les activités économiques qui consistent à réaliser des actes de commerce au sens du Code de commerce, à l’exception des activités industrielles et des services relevant de la liste des activités artisanales.
 
 - «commerce de détail»: l’ensemble des activités consistant en l’achat de marchandises pour les revendre directement au consommateur final.
 
@@ -89,7 +89,7 @@ On entend aux fins de la présente loi par:
 
 - «exploitant d’un établissement de restauration»: l’activité commerciale consistant à 1) vendre des plats cuisinés, à consommer sur place, à emporter ou à livrer; 2) vendre des boissons alcoolisées et non alcoolisées, à consommer sur place ou à emporter, dans les limites autorisées par la législation sur le cabaretage.
 
-- «géomètre»: l’activité libérale consistant à maîtriser la science des mesures et à rassembler et à évaluer l’information relative au territoire dans le but de concevoir et de mettre en œuvre une gestion efficace de la terre, de la mer et des structures s’y rapportant ainsi que de promouvoir la connaissance et le développement de ces méthodes. L’exercice de la profession de géomètre peut s’étendre à toutes les activités prévues par l'article 1 er de la loi modifiée du 25 juillet 2002 portant réglementation des professions de géomètre et de géomètre officiel.
+- «géomètre»: l’activité libérale consistant à maîtriser la science des mesures et à rassembler et à évaluer l’information relative au territoire dans le but de concevoir et de mettre en œuvre une gestion efficace de la terre, de la mer et des structures s’y rapportant ainsi que de promouvoir la connaissance et le développement de ces méthodes. L’exercice de la profession de géomètre peut s’étendre à toutes les activités prévues par l'article 1er de la loi modifiée du 25 juillet 2002 portant réglementation des professions de géomètre et de géomètre officiel.
 
 - «gestionnaire d’un organisme de formation professionnelle continue»: l’activité commerciale consistant à gérer un organisme de formation professionnelle continue au sens de la législation sur la formation professionnelle continue.
 
@@ -159,11 +159,11 @@ L’entreprise qui exerce une activité visée à la présente loi désigne au m
 
 - satisfait aux exigences de qualification et d’honorabilité professionnelles; et
 
-- assure effectivement et en permanence , par une présence physique dans l’établissement, la gestion journalière de l’entreprise; et
+- assure effectivement et en permanence, par une présence physique dans l’établissement, la gestion journalière de l’entreprise; et
 
 - a un lien réel avec l’entreprise en étant propriétaire, si l’activité est en nom personnel, ou en étant inscrit au Registre de commerce et des sociétés comme mandataire de l’entreprise si l’entreprise prend la forme d’une société ; et
 
-- ne s’est pas soustrait aux charges sociales et fiscales , y inclus aux retenues à la source , soit en nom propre, soit par l’intermédiaire d’une société qu’il dirige ou a dirigée.
+- ne s’est pas soustrait aux charges sociales et fiscales, y inclus aux retenues à la source , soit en nom propre, soit par l’intermédiaire d’une société qu’il dirige ou a dirigée.
 
 <a id="art-4bis"></a>
 ## Art. 4bis.
@@ -232,7 +232,7 @@ Constituent encore des manquements qui affectent l’honorabilité professionnel
 
 - toute condamnation définitive à une peine criminelle ou correctionnelle pour une infraction en relation avec l’activité exercée ou à exercer ;
 
-- tout manquement à l’obligation de l’article 8 ter ;
+- tout manquement à l’obligation de l’article 8ter ;
 
 - le défaut de procéder aux déclarations d’impôt direct, en ce compris les déclarations de retenue à la source, ou d’impôt indirect, relatives à deux exercices subséquents au cours d’une période de trois ans ;
 
@@ -378,7 +378,7 @@ Les dispositions des paragraphes 1er et 2 ne s’appliquent pas:
 
 - aux propriétaires qui, à titre non professionnel, se livrent aux activités visées au présent article concernant des biens sur lesquels ils ont des droits réels, ou aux personnes de leur choix qui, à titre non professionnel, les remplacent dans cette tâche;
 
-- aux personnes agissant pour le compte de leur conjoint, de parents en ordre successible ou pour le compte de majeurs protégés ou de mineurs dans les conditions et suivant les règles prévues aux titres X et XI, livre 1 er du Code civil ;
+- aux personnes agissant pour le compte de leur conjoint, de parents en ordre successible ou pour le compte de majeurs protégés ou de mineurs dans les conditions et suivant les règles prévues aux titres X et XI, livre 1er du Code civil;
 
 - aux personnes exerçant des tâches de syndic prévues par la législation sur la copropriété des immeubles bâtis dans des immeubles soumis au régime de la copropriété qui comportent au maximum 9 lots à usage d’habitation, dont l’un au moins de ces lots appartient au syndic de copropriété proposé.
 
@@ -572,7 +572,7 @@ Le ministre délivre, sur demande et après instruction administrative, une auto
 
 Sans préjudice de l’alinéa 1er, en cas de nouvelle demande d’une entreprise après changement de dirigeant, le ministre ne délivre une autorisation d’établissement que si l’entreprise :
 
-- n’a pas de dettes de charges sociales et fiscales supérieures aux seuils prévus à l’article 7 bis , paragraphe 1 er ;
+- n’a pas de dettes de charges sociales et fiscales supérieures aux seuils prévus à l’article 7bis, paragraphe 1er ;
 
 - est à jour concernant ses déclarations fiscales ;
 
@@ -612,7 +612,7 @@ Sans préjudice du paragraphe 2, doivent être notifiés dans le délai d’un m
 
 - le changement de la résidence habituelle des dirigeants ;
 
-- s’il y a lieu, les documents exigés en vertu des articles 8 bis et 10 ;
+- s’il y a lieu, les documents exigés en vertu des articles 8bis et 10 ;
 
 - s’il y a lieu, l’autorisation délivrée par le ministre ayant le Travail dans ses attributions en matière de travail intérimaire et de prêt de main d’œuvre sur la base de l’article L.131-2 du Code du travail ;
 
@@ -694,7 +694,7 @@ Dans le cadre de la procédure administrative visée aux articles 28 à 38 de la
 
 - b)bis le fichier du Registre des bénéficiaires effectifs exploité en vertu de la loi du 13 janvier 2019 instituant un Registre des bénéficiaires effectifs ;
 
-- le fichier relatif aux recouvrements et le fichier relatif aux affiliations des salariés, des indépendants et des employeurs gérés par le Centre commun de la sécurité sociale sur la base de l’article 413 du Code de la Sécurité sociale ;
+- le fichier relatif aux recouvrements et le fichier relatif aux affiliations des salariés, des indépendants et des employeurs gérés par le Centre commun de la sécurité sociale sur la base de l’article 413 du Code de la Sécurité sociale;
 
 - le fichier relatif aux demandeurs d’emploi inscrits et relatif aux bénéficiaires du revenu minimum garanti ainsi que le fichier relatif aux déclarations de postes vacants géré par l’Administration de l’emploi;
 
@@ -704,7 +704,7 @@ Dans le cadre de la procédure administrative visée aux articles 28 à 38 de la
 
 - g) le volet B du fichier du casier judiciaire;
 
-- le système d’information sur le marché intérieur et les systèmes de coopération administrative, tels qu’ils sont prévus aux directives 2005/36/CE et 2006/123/CE .
+- le système d’information sur le marché intérieur et les systèmes de coopération administrative, tels qu’ils sont prévus aux directives 2005/36/CE et 2006/123/CE.
 
 - le fichier des étrangers tenu pour le compte du service des étrangers du ministre ayant l’immigration dans ses attributions aux fins de vérification de la catégorie et de la durée de validité du titre de séjour dont est titulaire le demandeur.
 
@@ -756,7 +756,7 @@ Le procureur général d’État ou le procureur d’État peut, s’il estime n
 
 - attentat à la pudeur et viol prévus aux articles 372 à 378 du Code pénal ;
 
-- infractions relatives à l’exploitation de la prostitution, au proxénétisme, à la traite des êtres humains et au trafic illicite de migrants à l’égard d’un mineur, prévues aux articles 379, 379 bis , 382-1 et 382-2, 382-5 du Code pénal ;
+- infractions relatives à l’exploitation de la prostitution, au proxénétisme, à la traite des êtres humains et au trafic illicite de migrants à l’égard d’un mineur, prévues aux articles 379, 379bis, 382-1 et 382-2, 382-5 du Code pénal ;
 
 - infractions de propositions sexuelles commises par un majeur à un mineur de moins de seize ans ou à une personne se présentant comme telle en utilisant un moyen de communication électronique, prévues à l’article 385-2 du Code pénal ;
 

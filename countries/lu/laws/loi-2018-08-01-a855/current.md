@@ -252,18 +252,22 @@ L’article 4 de la loi modifiée du 31 juillet 2006 portant introduction d’un
 
 - la lettre i) telle qu’introduite par la loi du 19 décembre 2008 portant réforme de la formation professionnelle devient la lettre k) ;
 
-- les lettres l) et m) suivantes sont ajoutées : la loi modifiée du 6 février 2009 portant organisation de l’enseignement fondamental ; la loi du 1er août 2018 portant création d’une représentation nationale des parents.
+- les lettres l) et m) suivantes sont ajoutées :
+
+- la loi modifiée du 6 février 2009 portant organisation de l’enseignement fondamental ;
+
+- la loi du 1er août 2018 portant création d’une représentation nationale des parents.
 
 <a id="art-14"></a>
 ## Art. 14.
 
 La loi modifiée du 6 février 2009 portant organisation de l’enseignement fondamental est modifiée comme suit :
 
-- À l’article 48, alinéa 1 er , les mots Tous les deux ans sont remplacés par ceux de Tous les trois ans
+- À l’article 48, alinéa 1er, les mots Tous les deux ans sont remplacés par ceux de Tous les trois ans
 
 - L’article 54 est modifié comme suit :
 
-  - À l’alinéa 1 er , point 8, les mots sur proposition de l’organisation représentative des associations des parents d’élèves sont remplacés par les mots termes sur proposition de la représentation nationale des parents ;
+  - À l’alinéa 1er, point 8, les mots sur proposition de l’organisation représentative des associations des parents d’élèves sont remplacés par les mots termes sur proposition de la représentation nationale des parents;
 
   - L’alinéa 3 est supprimé.
 

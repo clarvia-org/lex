@@ -291,7 +291,7 @@ Elle est chargée, suivant les distinctions établies au présent titre, de cons
 
 - les membres du service de police judiciaire qui relèvent du cadre policier;
 
-- les fonctionnaires et employés du service de police judiciaire qui ne relèvent pas du cadre policier, visés à l’ article 14 (2), alinéa 5 de la loi modifiée du 31 mai 1999 sur la Police et l’Inspection générale de la Police, nominativement désignés par un arrêté du Ministre de la Justice.
+- les fonctionnaires et employés du service de police judiciaire qui ne relèvent pas du cadre policier, visés à l’article 14(2), alinéa 5 de la loi modifiée du 31 mai 1999 sur la Police et l’Inspection générale de la Police, nominativement désignés par un arrêté du Ministre de la Justice.
 
 <a id="art-11"></a>
 ## Art. 11
@@ -1319,7 +1319,7 @@ Le profil d’ADN ainsi établi peut être comparé:
 
 - avec les profils d’ADN des personnes dont le profil a été établi en application des articles 48-3 à 48-5 et qui font l’objet du traitement ADN criminalistique visé par la loi du 25 août 2006 relative aux empreintes génétiques en matière pénale, et
 
-- avec les profils d’ADN qui font l’objet du traitement ADN condamnés visé par la même loi ..
+- avec les profils d’ADN qui font l’objet du traitement ADN condamnés visé par la même loi..
 
 (3)
 
@@ -1338,33 +1338,33 @@ Lorsque des cellules humaines ont été prélevées sur une personne déterminé
 
 Il sera procédé, au besoin sous contrainte physique, à un prélèvement de cellules humaines aux fins d’établissement d’un profil d’ADN sur chaque personne qui a été condamnée par une décision judiciaire coulée en force de chose jugée à une peine d’emprisonnement ou à une peine plus lourde pour :
 
-- les infractions d’attentats et de complots visant la personne du Grand-Duc, la famille grand-ducale, la forme du Gouvernement ainsi que la sûreté extérieure et intérieure du Grand-Duché de Luxembourg, prévues aux articles 101 à 133 du Code pénal ;
+- les infractions d’attentats et de complots visant la personne du Grand-Duc, la famille grand-ducale, la forme du Gouvernement ainsi que la sûreté extérieure et intérieure du Grand-Duché de Luxembourg, prévues aux articles 101 à 133 du Code pénal;
 
-- ( L. 26 décembre 2012 ) les infractions de terrorisme prévues aux articles 135-1 à 135-6, 135-9 et 135-11 à 135-16 du Code pénal ;
+- (L. 26 décembre 2012) les infractions de terrorisme prévues aux articles 135-1 à 135-6, 135-9 et 135-11 à 135-16 du Code pénal;
 
-- les infractions de torture prévues aux articles 260-1 à 260-4 du Code pénal ;
+- les infractions de torture prévues aux articles 260-1 à 260-4 du Code pénal;
 
-- les infractions d’association de malfaiteurs et de participation à une organisation criminelle prévues aux articles 322 à 325 du Code pénal ;
+- les infractions d’association de malfaiteurs et de participation à une organisation criminelle prévues aux articles 322 à 325 du Code pénal;
 
-- les infractions d’enlèvement de mineurs prévues aux articles 364 à 371-1 du Code pénal ;
+- les infractions d’enlèvement de mineurs prévues aux articles 364 à 371-1 du Code pénal;
 
-- les infractions d’attentat à la pudeur et de viol prévues aux articles 372 à 378 du Code pénal ;
+- les infractions d’attentat à la pudeur et de viol prévues aux articles 372 à 378 du Code pénal;
 
-- ( L. 21 juillet 2012 ) les infractions relatives à l’exploitation de la prostitution, au proxénétisme et à la traite des êtres humains et au trafic illicite de migrants prévues aux articles 379, 379bis, 382-1 et 382-2, 382-4 et 382-5 du Code pénal ;
+- (L. 21 juillet 2012) les infractions relatives à l’exploitation de la prostitution, au proxénétisme et à la traite des êtres humains et au trafic illicite de migrants prévues aux articles 379, 379bis, 382-1 et 382-2, 382-4 et 382-5 du Code pénal;
 
-- l’infraction sexuelle en relation avec des mineurs prévue à l’ article 384 du Code pénal ;
+- l’infraction sexuelle en relation avec des mineurs prévue à l’article 384 du Code pénal;
 
-- les infractions de meurtre, assassinat, parricide, infanticide, empoisonnement, homicide volontaire non qualifié de meurtre, et de coups et blessures volontaires prévues aux articles 393 à 409 du Code pénal ;
+- les infractions de meurtre, assassinat, parricide, infanticide, empoisonnement, homicide volontaire non qualifié de meurtre, et de coups et blessures volontaires prévues aux articles 393 à 409 du Code pénal;
 
-- les infractions d’attentat à la liberté individuelle prévues aux articles 434 à 438 du Code pénal ;
+- les infractions d’attentat à la liberté individuelle prévues aux articles 434 à 438 du Code pénal;
 
-- l’infraction de prise d’otages prévue à l’ article 442-1 du Code pénal ;
+- l’infraction de prise d’otages prévue à l’article 442-1 du Code pénal;
 
-- les infractions de vol et d’extorsion prévues aux articles 467 à 476 du Code pénal ;
+- les infractions de vol et d’extorsion prévues aux articles 467 à 476 du Code pénal;
 
-- les infractions relatives aux incendies volontaires prévues aux articles 510 à 520 du Code pénal ;
+- les infractions relatives aux incendies volontaires prévues aux articles 510 à 520 du Code pénal;
 
-- ( L. 27 février 2012 ) les violations graves du droit international humanitaire prévues aux articles 136bis à 136quinquies du Code pénal .
+- (L. 27 février 2012) les violations graves du droit international humanitaire prévues aux articles 136bis à 136quinquies du Code pénal.
 
 (2)
 
@@ -1409,7 +1409,7 @@ Dans le contexte du prélèvement, le procès-verbal doit en outre fournir des i
 
 - les nom, prénoms, date et lieu de naissance et sexe de la personne concernée;
 
-- dans le cadre de l’application de l’ article 48-7 , la référence à la condamnation pénale en cause ainsi qu’à la décision du procureur général d’Etat de procéder au prélèvement.
+- dans le cadre de l’application de l’article 48-7, la référence à la condamnation pénale en cause ainsi qu’à la décision du procureur général d’Etat de procéder au prélèvement.
 
 (3)
 
@@ -1523,9 +1523,9 @@ La décision du procureur d’Etat ou du juge d’instruction de procéder à l�
 
 - les motifs spécifiques pour lesquels l’enquête ou l’instruction préparatoire exige une observation;
 
-- le nom ou, s’il n’est pas connu, une description aussi précise que possible de la ou des personnes observées, ainsi que des choses, des lieux ou des événements visés à l’ article 48-12, paragraphe (1) ;
+- le nom ou, s’il n’est pas connu, une description aussi précise que possible de la ou des personnes observées, ainsi que des choses, des lieux ou des événements visés à l’article 48-12, paragraphe (1);
 
-- la manière dont l’observation sera exécutée, y compris la permission d’utiliser des moyens techniques dans les cas prévus à l’ article 48-13, paragraphes (2) et (3). Dans le cas de l’ article 48-13, paragraphe (3) , la décision du juge d’instruction mentionne l’adresse ou une localisation aussi précise que possible de l’habitation qui fait l’objet de l’observation;
+- la manière dont l’observation sera exécutée, y compris la permission d’utiliser des moyens techniques dans les cas prévus à l’article 48-13, paragraphes (2) et (3). Dans le cas de l’article 48-13, paragraphe (3), la décision du juge d’instruction mentionne l’adresse ou une localisation aussi précise que possible de l’habitation qui fait l’objet de l’observation;
 
 - la période durant laquelle l’observation pourra s’appliquer et laquelle ne peut excéder un mois à compter de la date de la décision;
 
@@ -1564,7 +1564,7 @@ Si l’enquête ou l’instruction préparatoire l’exigent et que les moyens o
 
 - crimes et délits contre la sûreté de l’Etat au sens des articles 101 à 123 du Code pénal
 
-- ( L. 26 décembre 2012 ) actes de terrorisme et de financement de terrorisme au sens des articles 135-1 à 135-6, 135-9 et 135-11 à 135-16 du Code pénal
+- (L. 26 décembre 2012) actes de terrorisme et de financement de terrorisme au sens des articles 135-1 à 135-6, 135-9 et 135-11 à 135-16 du Code pénal
 
 - infractions à la loi modifiée du 15 mars 1983 sur les armes et munitions dans le cadre d’une association de malfaiteurs ou une organisation criminelle
 
@@ -1586,7 +1586,7 @@ Si l’enquête ou l’instruction préparatoire l’exigent et que les moyens o
 
 - enlèvement de mineurs au sens des articles 368 à 371-1 du Code pénal
 
-- ( L. 18 juillet 2014 ) infractions en matière informatique au sens des articles 509-1 à 509-7 du Code pénal .
+- (L. 18 juillet 2014) infractions en matière informatique au sens des articles 509-1 à 509-7 du Code pénal.
 
 (2)
 
@@ -1705,7 +1705,7 @@ Dans l’exercice de leurs missions, le procureur général d’Etat, le procure
 
 - le registre général des personnes physiques et morales créé par la loi du 30 mars 1979 organisant l’identification numérique des personnes physiques et morales;
 
-- le fichier relatif aux affiliations des salariés, des indépendants et des employeurs géré par le Centre commun de la sécurité sociale sur base de l’ article 321 du Code des assurances sociales , à l’exclusion de toutes données relatives à la santé;
+- le fichier relatif aux affiliations des salariés, des indépendants et des employeurs géré par le Centre commun de la sécurité sociale sur base de l’article 321 du Code des assurances sociales, à l’exclusion de toutes données relatives à la santé;
 
 - le fichier des étrangers exploité pour le compte du service des étrangers du ministre ayant l’Immigration dans ses attributions;
 
@@ -2087,7 +2087,7 @@ L’ordonnance de saisie est communiquée au procureur d’Etat.
 
 Cette ordonnance est notifiée dans les formes prévues pour les notifications en matière répressive.
 
-- au conservateur des hypothèques du lieu de situation du bien saisi, aux fins de transcription conformément à la loi modifiée du 25 septembre 1905 sur la transcription des droits réels immobiliers ;
+- au conservateur des hypothèques du lieu de situation du bien saisi, aux fins de transcription conformément à la loi modifiée du 25 septembre 1905 sur la transcription des droits réels immobiliers;
 
 - au propriétaire du bien saisi.
 
@@ -2118,7 +2118,7 @@ Si l’instruction préparatoire l’exige et que les moyens ordinaires d’inve
 
 - crimes et délits contre la sûreté de l’Etat au sens des articles 101 à 123 du Code pénal
 
-- ( L. 26 décembre 2012 ) actes de terrorisme et de financement de terrorisme au sens des articles 135-1 à 135-6, 135-9 et 135-11 à 135-16 du Code pénal
+- (L. 26 décembre 2012) actes de terrorisme et de financement de terrorisme au sens des articles 135-1 à 135-6, 135-9 et 135-11 à 135-16 du Code pénal
 
 - infractions à la loi modifiée du 15 mars 1983 sur les armes et munitions dans le cadre d’une association de malfaiteurs ou d’une organisation criminelle
 
@@ -2138,7 +2138,7 @@ Si l’instruction préparatoire l’exige et que les moyens ordinaires d’inve
 
 - faux-monnayage au sens des articles 162 à 192-2 du Code pénal
 
-- enlèvement de mineurs au sens des articles 368 à 371-1 du Code pénal .
+- enlèvement de mineurs au sens des articles 368 à 371-1 du Code pénal.
 
 (2)
 
@@ -2159,7 +2159,7 @@ Si l’instruction préparatoire l’exige et que les moyens ordinaires d’inve
 
 - crimes et délits contre la sûreté de l’Etat au sens des articles 101 à 123 du Code pénal
 
-- ( L. 26 décembre 2012 ) actes de terrorisme et de financement de terrorisme au sens des articles 135-1 à 135-6, 135-9 et 135-11 à 135-16 du Code pénal
+- (L. 26 décembre 2012) actes de terrorisme et de financement de terrorisme au sens des articles 135-1 à 135-6, 135-9 et 135-11 à 135-16 du Code pénal
 
 - infractions à la loi modifiée du 15 mars 1983 sur les armes et munitions dans le cadre d’une association de malfaiteurs ou d’une organisation criminelle
 
@@ -2179,7 +2179,7 @@ Si l’instruction préparatoire l’exige et que les moyens ordinaires d’inve
 
 - faux-monnayage au sens des articles 162 à 192-2 du Code pénal
 
-- enlèvement de mineurs au sens des articles 368 à 371-1 du Code pénal .
+- enlèvement de mineurs au sens des articles 368 à 371-1 du Code pénal.
 
 (2)
 
@@ -2926,7 +2926,7 @@ Ce contrôle astreint la personne concernée à se soumettre, selon la décision
 
 - S’abstenir de recevoir ou de rencontrer certaines personnes spécialement désignées par le juge d’instruction, ainsi que d’entrer en relation avec elles, de quelque façon que ce soit;
 
-- Se soumettre à des mesures de contrôle, de traitement ou de soins, même sous le régime de l’hospitalisation, notamment aux fins de désintoxication, sous réserve de l’ article 24 de la loi modifiée du 19 février 1973 concernant la vente de substances médicamenteuses et la lutte contre la toxicomanie;
+- Se soumettre à des mesures de contrôle, de traitement ou de soins, même sous le régime de l’hospitalisation, notamment aux fins de désintoxication, sous réserve de l’article 24 de la loi modifiée du 19 février 1973 concernant la vente de substances médicamenteuses et la lutte contre la toxicomanie;
 
 - Fournir un cautionnement dont le montant et les délais de versement, en une ou plusieurs fois, sont fixés par le juge d’instruction, compte tenu notamment des ressources et des charges de la personne inculpée;
 
@@ -3012,7 +3012,7 @@ La mainlevée totale ou partielle du contrôle judiciaire peut être demandée e
 
 - à la chambre du conseil de la Cour d’appel, si elle est saisie d’un recours contre l’ordonnance de renvoi de la chambre du conseil du tribunal d’arrondissement;
 
-- aux autres juridictions compétentes selon les distinctions de l’ article 110, deuxième alinéa, sous 3 à 7 .
+- aux autres juridictions compétentes selon les distinctions de l’article 110, deuxième alinéa, sous 3 à 7.
 
 (2)
 
@@ -3166,7 +3166,7 @@ Lorsque la personne inculpée est astreinte à fournir un cautionnement, ce caut
 
 - le payement dans l’ordre suivant:
 
-  - de la réparation des dommages causés par l’infraction et des restitutions, ainsi que de la dette alimentaire lorsque la personne inculpée est poursuivie sur la base de l’ article 391bis du Code pénal pour le défaut de paiement de cette dette,
+  - de la réparation des dommages causés par l’infraction et des restitutions, ainsi que de la dette alimentaire lorsque la personne inculpée est poursuivie sur la base de l’article 391bis du Code pénal pour le défaut de paiement de cette dette,
 
   - des frais avancés par la partie civile,
 
@@ -3925,15 +3925,15 @@ Les chambres correctionnelles des tribunaux d'arrondissement, siégeant au nombr
 
 Sont jugés dans les conditions énoncées au paragraphe précédent, les délits prévus ou visés
 
-- - ( L. 5 juin 2009 ) par la loi modifiée du 14 février 1955 concernant la réglementation de la circulation sur toutes les voies publiques à l’exception des délits visés à l’ article 9bis de cette loi ;
+- - (L. 5 juin 2009) par la loi modifiée du 14 février 1955 concernant la réglementation de la circulation sur toutes les voies publiques à l’exception des délits visés à l’article 9bis de cette loi;
 
-- - par l’ article 19 de la loi du 7 avril 1976 relative à l’assurance obligatoire de la responsabilité civile en matière de véhicules automoteurs;
+- - par l’article 19 de la loi du 7 avril 1976 relative à l’assurance obligatoire de la responsabilité civile en matière de véhicules automoteurs;
 
-- - par l’ article 7 du règlement grand-ducal du 29 janvier 1987 portant exécution et fixant les sanctions des infractions aux dispositions du règlement (CEE) N° 3821/85 du Conseil concernant l’appareil de contrôle dans le domaine des transports par route;
+- - par l’article 7 du règlement grand-ducal du 29 janvier 1987 portant exécution et fixant les sanctions des infractions aux dispositions du règlement (CEE) N° 3821/85 du Conseil concernant l’appareil de contrôle dans le domaine des transports par route;
 
-- - par l’ article 11 du règlement grand-ducal du 22 janvier 1987 fixant les sanctions des infractions aux dispositions du règlement communautaire 3820/85 en matière sociale dans le domaine des transports par route;
+- - par l’article 11 du règlement grand-ducal du 22 janvier 1987 fixant les sanctions des infractions aux dispositions du règlement communautaire 3820/85 en matière sociale dans le domaine des transports par route;
 
-- - par l’ article 491, alinéa 2 du Code pénal .
+- - par l’article 491, alinéa 2 du Code pénal.
 
 (4)
 
@@ -4567,7 +4567,7 @@ Lorsque la citation ou la notification sont faites par le procureur général d'
 
 - les noms, prénoms et qualité du magistrat instrumentant,
 
-- ( L. 3 mars 2010 ) les noms, prénoms et adresse du destinataire de l'acte, ou, si le destinataire est une personne morale, sa dénomination, sa forme et son siège,
+- (L. 3 mars 2010) les noms, prénoms et adresse du destinataire de l'acte, ou, si le destinataire est une personne morale, sa dénomination, sa forme et son siège,
 
 - l'objet de l'acte.
 
@@ -4594,7 +4594,7 @@ Lorsque la citation ou la notification sont faites par un agent de la force publ
 
 - - les noms, prénoms et grade de l'agent instrumentant,
 
-- - ( L. 3 mars 2010 ) les noms, prénoms, profession, domicile ou résidence du destinataire de l’acte, pour autant que le domicile ou la résidence sont connus, ou, si le destinataire est une personne morale, sa dénomination, sa forme et son siège pour autant que le siège est connu,
+- - (L. 3 mars 2010) les noms, prénoms, profession, domicile ou résidence du destinataire de l’acte, pour autant que le domicile ou la résidence sont connus, ou, si le destinataire est une personne morale, sa dénomination, sa forme et son siège pour autant que le siège est connu,
 
 - - les nom, prénoms et adresse de la personne à laquelle l'acte a été remis,
 
@@ -4792,9 +4792,9 @@ Sous réserve de la disposition de l'article 389, alinéa 6, les citations et no
 
 - Lorsqu'une infraction est punissable d'une peine correctionnelle ou d'une peine de police et que le procureur d'Etat estime ne devoir requérir qu'une amende, la fixation de la peine peut être faite, sur ses réquisitions écrites et sans débats préalables, par une ordonnance rendue par le tribunal correctionnel statuant en chambre du conseil ou par le juge de police suivant que l'infraction constitue un délit ou une contravention.
 
-- Lorsque l'infraction constitue un délit, l'amende prononcée par ordonnance pénale ne peut excéder 2.500 euros, sans préjudice des dispositions de l' article 41 du Code pénal .
+- Lorsque l'infraction constitue un délit, l'amende prononcée par ordonnance pénale ne peut excéder 2.500 euros, sans préjudice des dispositions de l'article 41 du Code pénal.
 
-- ( L. 6 mars 2006 ) En cas d'infraction contre la réglementation de la circulation des véhicules sur la voie publique ou de délits qui se sont joints à ces infractions, une interdiction de conduire peut être prononcée par l'ordonnance pénale.
+- (L. 6 mars 2006) En cas d'infraction contre la réglementation de la circulation des véhicules sur la voie publique ou de délits qui se sont joints à ces infractions, une interdiction de conduire peut être prononcée par l'ordonnance pénale.
 
 - Sur les réquisitions écrites du procureur d'Etat, le tribunal correctionnel ou le juge de police peuvent ordonner qu'il sera sursis à l'exécution de tout ou partie des peines prononcées par ordonnance pénale. Les articles 626, alinéa 2, 627, 628, alinéas 1er, 4, 5 et 6, 628-2 et 628-3 sont applicables.
 
@@ -4849,7 +4849,7 @@ Sous réserve de la disposition de l'article 389, alinéa 6, les citations et no
 
 - de la notification de cette ordonnance,
 
-- de la transmission de l'extrait du parquet conformément à l' article 216-10 ,
+- de la transmission de l'extrait du parquet conformément à l'article 216-10 ,
 
 - de l'opposition.
 
@@ -4873,7 +4873,7 @@ Si la juridiction n'agrée pas ces propositions, l'affaire est portée à l'audi
 
 - Elle reproduit le texte des alinéas 1er et 3 de l'article 216-8 .
 
-- Dans le cas où le sursis à l'exécution de tout ou partie des peines prononcées a été ordonné, l'ordonnance indique qu'en cas de nouvelle condamnation dans les conditions des articles 627 et 628 , la première peine sera d'abord exécutée sans qu'elle puisse se confondre avec la seconde.
+- Dans le cas où le sursis à l'exécution de tout ou partie des peines prononcées a été ordonné, l'ordonnance indique qu'en cas de nouvelle condamnation dans les conditions des articles 627 et 628, la première peine sera d'abord exécutée sans qu'elle puisse se confondre avec la seconde.
 
 <a id="art-400"></a>
 ## Art. 400
@@ -4887,9 +4887,9 @@ Si la juridiction n'agrée pas ces propositions, l'affaire est portée à l'audi
 
 - L'ordonnance est assimilée, dans ses effets, à un jugement par défaut.
 
-- Pour les affaires qui sont de la compétence du tribunal de police, l'opposition du prévenu se fait dans les formes et délais de l' article 151 . Pour les affaires qui sont de la compétence du tribunal correctionnel, elle se fait dans les formes et délais de l' article 187 .
+- Pour les affaires qui sont de la compétence du tribunal de police, l'opposition du prévenu se fait dans les formes et délais de l'article 151. Pour les affaires qui sont de la compétence du tribunal correctionnel, elle se fait dans les formes et délais de l'article 187.
 
-- L'ordonnance est susceptible d'appel. Appel doit être interjeté, pour les ordonnances pénales qui sont de la compétence du tribunal de police, dans les formes et délais des articles 172, 173 et 174 du Code d'instruction criminelle . Pour les ordonnances pénales qui sont de la compétence du tribunal correctionnel, l'appel se fait dans les formes et délais des articles 199 et suivants .
+- L'ordonnance est susceptible d'appel. Appel doit être interjeté, pour les ordonnances pénales qui sont de la compétence du tribunal de police, dans les formes et délais des articles 172, 173 et 174 du Code d'instruction criminelle. Pour les ordonnances pénales qui sont de la compétence du tribunal correctionnel, l'appel se fait dans les formes et délais des articles 199 et suivants.
 
 <a id="art-402"></a>
 ## Art. 402
@@ -5052,7 +5052,7 @@ Abrogés (L. 17 juin 1987)
 
 - lorsque, après une condamnation, un fait vient à se produire ou à se révéler ou lorsque des pièces inconnues lors des débats sont représentées, de nature a établir l'innocence totale ou partielle du condamné;
 
-- ( L. 5 juillet 1996 ) lorsqu'il résulte d'un arrêt de la cour européenne des Droits de l'Homme rendu en application de la Convention de sauvegarde des Droits de l'Homme et des Libertés fondamentales qu'une condamnation pénale a été prononcée en violation de cette Convention.
+- (L. 5 juillet 1996) lorsqu'il résulte d'un arrêt de la cour européenne des Droits de l'Homme rendu en application de la Convention de sauvegarde des Droits de l'Homme et des Libertés fondamentales qu'une condamnation pénale a été prononcée en violation de cette Convention.
 
 <a id="art-444"></a>
 ## Art. 444
@@ -6111,7 +6111,7 @@ La réhabilitation est soit acquise de plein droit, soit accordée sur demande p
 
 - pour toute condamnation à des peines de police ainsi que pour toute condamnation à l'amende, après un délai de cinq ans;
 
-- ( L. 13 juin 1994 ) pour la condamnation unique à une peine d'emprisonnement ne dépassant pas six mois, ou la condamnation à une sanction pénale autre que l’emprisonnement ou l’amende prononcée à titre principal, après un délai de dix ans;
+- (L. 13 juin 1994) pour la condamnation unique à une peine d'emprisonnement ne dépassant pas six mois, ou la condamnation à une sanction pénale autre que l’emprisonnement ou l’amende prononcée à titre principal, après un délai de dix ans;
 
 - pour la condamnation unique à une peine d'emprisonnement ne dépassant pas deux ans ou les condamnations multiples dont l'ensemble ne dépasse pas un an, après un délai de quinze ans;
 
@@ -6379,11 +6379,11 @@ Est exigée une traduction en langue française ou allemande de la demande, de l
 
 - si la décision n’est contraire ni aux règles constitutionnelles luxembourgeoises, ni aux principes fondamentaux de l’ordre juridique luxembourgeois;
 
-- si aucune cause légale, en vertu de la loi luxembourgeoise , en particulier la prescription de la peine, ne fait obstacle à l’exécution de la décision.
+- si aucune cause légale, en vertu de la loi luxembourgeoise, en particulier la prescription de la peine, ne fait obstacle à l’exécution de la décision.
 
 Les actes interruptifs ou suspensifs de prescription accomplis dans l’Etat requérant selon le droit de cet Etat sont pris en compte pour le calcul du délai de prescription d’après la loi luxembourgeoise;
 
-- si en cas de décision de confiscation, les biens confisqués par cette décision sont de la nature de ceux visés à l’ article 31 du code pénal ou à l’ article 32-1 du même code ou à l’ article 8-2 de la loi modifiée du 19 février 1973 sur la vente de substances médicamenteuses et la lutte contre la toxicomanie et s’ils ont été confisqués dans des conditions et limites correspondant à celles de la loi luxembourgeoise .
+- si en cas de décision de confiscation, les biens confisqués par cette décision sont de la nature de ceux visés à l’article 31 du code pénal ou à l’article 32-1 du même code ou à l’article 8-2 de la loi modifiée du 19 février 1973 sur la vente de substances médicamenteuses et la lutte contre la toxicomanie et s’ils ont été confisqués dans des conditions et limites correspondant à celles de la loi luxembourgeoise.
 
 Si la décision de confiscation étrangère, dont l’exequatur est demandé, porte sur des biens visés à l’article 31 alinéa 1 sous 4 du code pénal ou à l’article 8-2 à la fin de l’alinéa 1er de la loi précitée du 19 février 1973, il n’est fait droit à cette demande qu’à la condition que la confiscation ne peut être exécutée sur des biens se trouvant sur le territoire de l’Etat requérant, sur déclaration de cet Etat.
 
@@ -6426,7 +6426,7 @@ Les dispositions des alinéas 2 à 6 de l’article 31 du code pénal sont d’a
 
 Toutefois, si cette décision contient des dispositions relatives aux droits des tiers, elle est reconnue par les juridictions luxembourgeoises, sauf
 
-- si les tiers n’ont pas été mis à même à faire valoir leurs droits devant la juridiction étrangère dans des conditions analogues à celles prévues par la loi luxembourgeoise ;
+- si les tiers n’ont pas été mis à même à faire valoir leurs droits devant la juridiction étrangère dans des conditions analogues à celles prévues par la loi luxembourgeoise;
 
 - si la décision étrangère est incompatible avec une décision déjà rendue au Luxembourg sur ces droits ou est incompatible avec l’ordre public luxembourgeois;
 

@@ -83,11 +83,11 @@ Définitions, champ d’application
 
   - dispositif à usage unique: un dispositif destiné à être utilisé une seule fois pour un seul patient.
 
-- Les dispositifs destinés à l’administration d’un médicament au sens de l’article 1 er de la directive 2001/83/CE du Parlement européen et du Conseil sont régis par le présent règlement, sans préjudice des dispositions de la directive 2001/83/CE pour ce qui concerne le médicament. Toutefois, si ces dispositifs sont mis sur le marché de telle sorte qu’ils forment avec le médicament un seul produit intégré qui est destiné à être exclusivement utilisé dans l’association donnée et qui n’est pas réutilisable, ce produit est régi par la directive 2001/83/CE . Les exigences essentielles pertinentes de l’annexe I du présent règlement ne s’appliquent que pour ce qui concerne les caractéristiques liées à la sécurité et aux performances du dispositif.
+- Les dispositifs destinés à l’administration d’un médicament au sens de l’article 1er de la directive 2001/83/CE du Parlement européen et du Conseil sont régis par le présent règlement, sans préjudice des dispositions de la directive 2001/83/CE pour ce qui concerne le médicament. Toutefois, si ces dispositifs sont mis sur le marché de telle sorte qu’ils forment avec le médicament un seul produit intégré qui est destiné à être exclusivement utilisé dans l’association donnée et qui n’est pas réutilisable, ce produit est régi par la directive 2001/83/CE. Les exigences essentielles pertinentes de l’annexe I du présent règlement ne s’appliquent que pour ce qui concerne les caractéristiques liées à la sécurité et aux performances du dispositif.
 
 - Lorsqu’un dispositif incorpore comme partie intégrante une substance qui, si elle est utilisée séparément, est susceptible d’être considérée comme un médicament et qui peut agir sur le corps humain par une action accessoire à celle du dispositif, ce dispositif est évalué et autorisé conformément au présent règlement.
 
-- Lorsqu’un dispositif incorpore comme partie intégrante une substance qui, si elle est utilisée séparément, est susceptible d’être considérée comme un composant de médicament ou un médicament dérivé du sang ou du plasma humains au sens de l’article 1 er de la directive 2001/83/CE , et qui peut agir sur le corps humain par une action accessoire à celle du dispositif, ci-après dénommée «substance dérivée du sang humain», ce dispositif est évalué et autorisé conformément aux dispositions du présent règlement.
+- Lorsqu’un dispositif incorpore comme partie intégrante une substance qui, si elle est utilisée séparément, est susceptible d’être considérée comme un composant de médicament ou un médicament dérivé du sang ou du plasma humains au sens de l’article 1er de la directive 2001/83/CE, et qui peut agir sur le corps humain par une action accessoire à celle du dispositif, ci-après dénommée «substance dérivée du sang humain», ce dispositif est évalué et autorisé conformément aux dispositions du présent règlement.
 
 - Le présent règlement ne s’applique pas:
 
@@ -95,7 +95,7 @@ Définitions, champ d’application
 
   - aux dispositifs implantables actifs couverts par le règlement grand-ducal du 5 février 1993 relatif aux dispositifs médicaux implantables actifs;
 
-  - aux médicaments couverts par la directive 2001/83/CE . Pour décider si un produit relève de ladite directive ou du présent règlement, il est tenu compte tout particulièrement du mode d’action principal du produit;
+  - aux médicaments couverts par la directive 2001/83/CE. Pour décider si un produit relève de ladite directive ou du présent règlement, il est tenu compte tout particulièrement du mode d’action principal du produit;
 
   - aux produits cosmétiques;
 
@@ -420,7 +420,7 @@ Abrogations
 
 - Le règlement grand-ducal du 8 août 1985 concernant les appareils électriques utilisés en médecine humaine et vétérinaire est abrogé pour autant qu’il s’applique aux appareils électriques utilisés en médecine humaine. Il reste cependant applicable aux appareils électriques utilisés en médecine vétérinaire. Toutefois, si un appareil électrique utilisé en médecine vétérinaire est en même temps un dispositif médical au sens du présent règlement et s’il satisfait aux exigences essentielles y prévues pour ce dispositif, le dispositif est réputé conforme aux exigences du présent règlement.
 
-- Le règlement grand-ducal du 31 janvier 1992 portant exécution de la loi du 16 janvier 1990 relative aux appareils médicaux est abrogé, pour autant qu’il s’applique aux appareils médicaux utilisés en médecine humaine et sous réserve des dispositions de l’article 21 alinéa 1 er ci-après.
+- Le règlement grand-ducal du 31 janvier 1992 portant exécution de la loi du 16 janvier 1990 relative aux appareils médicaux est abrogé, pour autant qu’il s’applique aux appareils médicaux utilisés en médecine humaine et sous réserve des dispositions de l’article 21 alinéa 1er ci-après.
 
 <a id="art-20"></a>
 ## Art. 20.
@@ -429,11 +429,39 @@ Dispositions modificatives
 
 Les modifications suivantes sont apportées au règlement grand-ducal du 5 février 1993 relatif aux dispositifs médicaux implantables actifs:
 
-- A l’article 1 er paragraphe 2, les deux alinéas suivants sont ajoutés: h) mise sur le marché: première mise à disposition à titre onéreux ou gratuit d’un dispositif, autre que celui destiné à des investigations cliniques, en vue de sa distribution et/ou utilisation sur le marché, qu’il s’agisse d’un dispositif neuf ou remis à neuf; i) fabricant: la personne physique ou morale responsable de la conception, de la fabrication, du conditionnement et de l’étiquetage d’un dispositif en vue de la mise sur le marché en son propre nom, que ces opérations soient effectuées par cette même personne ou pour son compte par une tierce personne; Les obligations du présent règlement qui s’imposent aux fabricants s’appliquent également à la personne physique ou morale qui assemble, conditionne, traite, remet à neuf et/ou étiquette un ou plusieurs produits préfabriqués et/ou leur assigne la destination d’un dispositif en vue de sa mise sur le marché en son nom propre. Cela ne s’applique pas à la personne qui, sans être fabricant aux termes du premier alinéa, assemble ou adapte conformément à leur destination des dispositifs déjà mis sur le marché, pour un patient individuel.
+- A l’article 1er paragraphe 2, les deux alinéas suivants sont ajoutés:
 
-- A l’article 9, les paragraphes suivants sont ajoutés: 5. Lors de la procédure d’évaluation de conformité portant sur un dispositif, le fabricant et/ou l’organisme notifié tiennent compte des résultats disponibles en vertu des opérations d’évaluation et de vérification qui ont eu lieu le cas échéant, conformément aux dispositions du présent règlement, à un stade intermédiaire de fabrication. 6. Lorsque la procédure d’évaluation de conformité présuppose une intervention d’un organisme notifié, le fabricant, ou son mandataire établi dans la Communauté, peut s’adresser à un organisme de son choix dans le cadre des tâches pour lesquelles cet organisme a été notifié. 7. L’organisme notifié peut, lorsque cela est dûment justifié, exiger toute donnée ou information qui est nécessaire pour établir et maintenir l’attestation de conformité compte tenu de la procédure choisie. 8. Les décisions prises par les organismes notifiés conformément aux annexes II et III ont une validité maximale de cinq ans et sont reconductibles sur demande introduite au moment convenu dans le contrat signé entre les deux parties par périodes de cinq ans. 9. Par dérogation aux paragraphes 1 et 2, le ministre de la Santé peut, sur demande dûment justifiée, autoriser la mise sur le marché et la mise en service de dispositifs individuels pour lesquels les procédures visées aux paragraphes 1 et 2 n’ont pas été appliquées et dont l’utilisation est dans l’intérêt de la protection de la santé.
+h) mise sur le marché: première mise à disposition à titre onéreux ou gratuit d’un dispositif, autre que celui destiné à des investigations cliniques, en vue de sa distribution et/ou utilisation sur le marché, qu’il s’agisse d’un dispositif neuf ou remis à neuf;
 
-- A l’article 14, l’alinéa suivant est ajouté: Sauf le cas d’urgence le fabricant ou son mandataire établi dans la Communauté est entendu avant toute décision de refus ou de refus partiel.
+i) fabricant: la personne physique ou morale responsable de la conception, de la fabrication, du conditionnement et de l’étiquetage d’un dispositif en vue de la mise sur le marché en son propre nom, que ces opérations soient effectuées par cette même personne ou pour son compte par une tierce personne;
+
+Les obligations du présent règlement qui s’imposent aux fabricants s’appliquent également à la personne physique ou morale qui assemble, conditionne, traite, remet à neuf et/ou étiquette un ou plusieurs produits préfabriqués et/ou leur assigne la destination d’un dispositif en vue de sa mise sur le marché en son nom propre. Cela ne s’applique pas à la personne qui, sans être fabricant aux termes du premier alinéa, assemble ou adapte conformément à leur destination des dispositifs déjà mis sur le marché, pour un patient individuel.
+
+- A l’article 9, les paragraphes suivants sont ajoutés:
+
+5.
+
+Lors de la procédure d’évaluation de conformité portant sur un dispositif, le fabricant et/ou l’organisme notifié tiennent compte des résultats disponibles en vertu des opérations d’évaluation et de vérification qui ont eu lieu le cas échéant, conformément aux dispositions du présent règlement, à un stade intermédiaire de fabrication.
+
+6.
+
+Lorsque la procédure d’évaluation de conformité présuppose une intervention d’un organisme notifié, le fabricant, ou son mandataire établi dans la Communauté, peut s’adresser à un organisme de son choix dans le cadre des tâches pour lesquelles cet organisme a été notifié.
+
+7.
+
+L’organisme notifié peut, lorsque cela est dûment justifié, exiger toute donnée ou information qui est nécessaire pour établir et maintenir l’attestation de conformité compte tenu de la procédure choisie.
+
+8.
+
+Les décisions prises par les organismes notifiés conformément aux annexes II et III ont une validité maximale de cinq ans et sont reconductibles sur demande introduite au moment convenu dans le contrat signé entre les deux parties par périodes de cinq ans.
+
+9.
+
+Par dérogation aux paragraphes 1 et 2, le ministre de la Santé peut, sur demande dûment justifiée, autoriser la mise sur le marché et la mise en service de dispositifs individuels pour lesquels les procédures visées aux paragraphes 1 et 2 n’ont pas été appliquées et dont l’utilisation est dans l’intérêt de la protection de la santé.
+
+- A l’article 14, l’alinéa suivant est ajouté:
+
+Sauf le cas d’urgence le fabricant ou son mandataire établi dans la Communauté est entendu avant toute décision de refus ou de refus partiel.
 
 <a id="art-21"></a>
 ## Art. 21.

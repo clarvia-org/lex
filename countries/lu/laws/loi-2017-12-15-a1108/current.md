@@ -75,7 +75,7 @@ Pour l’application de la présente loi, on entend par :
 
   - s'il s'agit d'une société à responsabilité limitée (autre qu'une PME en existence depuis moins de trois ans ou, aux fins de l'admissibilité au bénéfice des aides au financement des risques, une PME exerçant ses activités depuis moins de sept ans après sa première vente commerciale et qui peut bénéficier d'investissements en faveur du financement des risques au terme du contrôle préalable effectué par l'intermédiaire financier sélectionné), lorsque plus de la moitié de son capital social souscrit a disparu en raison des pertes accumulées. Tel est le cas lorsque la déduction des pertes accumulées des réserves (et de tous les autres éléments généralement considérés comme relevant des fonds propres de la société) conduit à un montant cumulé négatif qui excède la moitié du capital social souscrit. Aux fins de la présente disposition, on entend par « société à responsabilité limitée » notamment les types d'entreprises mentionnés à l'annexe I de la directive 2013/34/UE du Parlement européen et du Conseil et le « capital social » comprend, le cas échéant, les primes d'émission ;
 
-  - s'il s'agit d'une société dont certains associés au moins ont une responsabilité illimitée pour les dettes de la société (autre qu'une PME en existence depuis moins de trois ans ou, aux fins de l'admissibilité au bénéfice des aides au financement des risques, une PME exerçant ses activités depuis moins de sept ans après sa première vente commerciale et qui peut bénéficier d'investissements en faveur du financement des risques au terme du contrôle préalable effectué par l'intermédiaire financier sélectionné), lorsque plus de la moitié des fonds propres, tels qu'ils sont inscrits dans les comptes de la société, a disparu en raison des pertes accumulées. Aux fins de la présente disposition, on entend par « société dont certains associés au moins ont une responsabilité illimitée pour les dettes de la société » en particulier les types de sociétés mentionnés à l'annexe II de la directive 2013/34/UE ,
+  - s'il s'agit d'une société dont certains associés au moins ont une responsabilité illimitée pour les dettes de la société (autre qu'une PME en existence depuis moins de trois ans ou, aux fins de l'admissibilité au bénéfice des aides au financement des risques, une PME exerçant ses activités depuis moins de sept ans après sa première vente commerciale et qui peut bénéficier d'investissements en faveur du financement des risques au terme du contrôle préalable effectué par l'intermédiaire financier sélectionné), lorsque plus de la moitié des fonds propres, tels qu'ils sont inscrits dans les comptes de la société, a disparu en raison des pertes accumulées. Aux fins de la présente disposition, on entend par « société dont certains associés au moins ont une responsabilité illimitée pour les dettes de la société » en particulier les types de sociétés mentionnés à l'annexe II de la directive 2013/34/UE,
 
   - lorsque l'entreprise fait l'objet d'une procédure collective d'insolvabilité ou remplit, selon le droit national qui lui est applicable, les conditions de soumission à une procédure collective d'insolvabilité à la demande de ses créanciers,
 
@@ -101,9 +101,9 @@ Pour l’application de la présente loi, on entend par :
 
   - en ce qui concerne l'électricité :
 
-    - les infrastructures de transport, au sens de l'article 1 er , point 50, de la loi modifiée du 1er août 2007 relative à l’organisation du marché de l’électricité,
+    - les infrastructures de transport, au sens de l'article 1er, point 50, de la loi modifiée du 1er août 2007 relative à l’organisation du marché de l’électricité,
 
-    - les infrastructures de distribution, au sens de l'article 1 er , point 12, de la loi modifiée du 1er août 2007 relative à l’organisation du marché de l’électricité,
+    - les infrastructures de distribution, au sens de l'article 1er, point 12, de la loi modifiée du 1er août 2007 relative à l’organisation du marché de l’électricité,
 
     - le stockage d'électricité, défini comme les installations de stockage utilisées pour stocker l'électricité de manière permanente ou temporaire dans des infrastructures situées en surface ou en sous-sol ou dans des sites géologiques, pour autant qu'elles soient directement raccordées à des lignes de transport à haute tension conçues pour une tension d'au moins 110 kV,
 
@@ -129,7 +129,7 @@ Pour l’application de la présente loi, on entend par :
 
     - les équipements ou installations indispensables pour assurer le fonctionnement correct, sûr et efficace du système considéré, y compris les systèmes de protection, de surveillance et de contrôle et les dispositifs d'inversion de flux,
 
-  - en ce qui concerne le CO 2 : les réseaux de pipelines y compris les stations de compression associées, destinés à transporter le CO 2 vers des sites de stockage, dans le but de l'injecter dans des formations géologiques souterraines appropriées en vue d'un stockage permanent ;
+  - en ce qui concerne le CO2 : les réseaux de pipelines y compris les stations de compression associées, destinés à transporter le CO2 vers des sites de stockage, dans le but de l'injecter dans des formations géologiques souterraines appropriées en vue d'un stockage permanent ;
 
 - « intensité de l’aide » : le montant brut de l’aide exprimé en pourcentage des coûts admissibles, avant impôts ou autres prélèvements ;
 
@@ -175,7 +175,7 @@ Pour l’application de la présente loi, on entend par :
 
 - « taux de rendement équitable » : le taux de rendement escompté équivalant à un taux d'actualisation ajusté pour tenir compte du niveau de risque lié à un projet et prenant en considération la nature et le volume des capitaux que les investisseurs privés projettent d'investir ;
 
-- « zone assistée » : les zones situées sur le territoire du Grand-Duché figurant sur la carte des aides à finalité régionale approuvée par la Commission européenne en application de l’article 107, paragraphe 3, points a) et c), du traité pour la période allant du 1 er juillet 2014 au 31 décembre 2021 en ce qui concerne les aides à finalité régionale octroyées jusqu’au 31 décembre 2021 et les zones situées sur le territoire du Grand-Duché figurant sur la carte des aides à finalité régionale approuvée par la Commission européenne en application de l’article 107, paragraphe 3, points a) et c), du traité pour la période allant du 1 er janvier 2022 au 31 décembre 2027 en ce qui concerne les aides à finalité régionale octroyées après le 31 décembre 2021.
+- « zone assistée » : les zones situées sur le territoire du Grand-Duché figurant sur la carte des aides à finalité régionale approuvée par la Commission européenne en application de l’article 107, paragraphe 3, points a) et c), du traité pour la période allant du 1er juillet 2014 au 31 décembre 2021 en ce qui concerne les aides à finalité régionale octroyées jusqu’au 31 décembre 2021 et les zones situées sur le territoire du Grand-Duché figurant sur la carte des aides à finalité régionale approuvée par la Commission européenne en application de l’article 107, paragraphe 3, points a) et c), du traité pour la période allant du 1er janvier 2022 au 31 décembre 2027 en ce qui concerne les aides à finalité régionale octroyées après le 31 décembre 2021.
 
 <a id="art-3"></a>
 ## Art. 3.
@@ -206,7 +206,7 @@ Sont toutefois exclues du champ d’application de la présente loi :
 
   - des aides destinées à remédier aux dommages causés par certaines calamités naturelles, pour autant que ces aides n’ont pas pour effet de traiter les entreprises en difficulté plus favorablement que les autres entreprises, et
 
-  - pour la période comprise entre le 1 er janvier 2020 et le 30 juin 2021, des aides aux entreprises en difficulté qui n’étaient pas en difficulté au 31 décembre 2019, pour autant qu’elles ne fassent pas l’objet d’une procédure collective d’insolvabilité ou ne remplissent pas, selon le droit national qui leur est applicable, les conditions de soumission à une procédure collective d’insolvabilité à la demande de leurs créanciers.
+  - pour la période comprise entre le 1er janvier 2020 et le 30 juin 2021, des aides aux entreprises en difficulté qui n’étaient pas en difficulté au 31 décembre 2019, pour autant qu’elles ne fassent pas l’objet d’une procédure collective d’insolvabilité ou ne remplissent pas, selon le droit national qui leur est applicable, les conditions de soumission à une procédure collective d’insolvabilité à la demande de leurs créanciers.
 
 - les aides individuelles ou ad hoc en faveur d'une entreprise faisant l'objet d'une injonction de récupération non exécutée, émise dans une décision antérieure de la Commission déclarant une aide octroyée par le Grand-Duché de Luxembourg illégale et incompatible avec le marché intérieur, ou en faveur d’entreprises en difficulté, exception faite des régimes d'aides destinés à remédier aux dommages causés par certaines calamités naturelles.
 
@@ -831,23 +831,51 @@ Dispositions modificatives
 
 La loi du 17 mai 2017 relative à la promotion de la recherche, du développement et de l’innovation est modifiée comme suit :
 
-- L’article 2, paragraphe 3, prend la teneur suivante : (3) Est exclu le versement d'aides individuelles en faveur d'une entreprise faisant l'objet d'une injonction de récupération non exécutée, émise dans une décision antérieure de la Commission européenne déclarant une aide octroyée par le Grand-Duché de Luxembourg illégale et incompatible avec le marché intérieur, ou en faveur d’entreprises en difficulté, exception faite des aides en faveur des jeunes entreprises innovantes, pour autant que ces aides ne traitent pas les entreprises en difficulté plus favorablement que les autres entreprises.
+- L’article 2, paragraphe 3, prend la teneur suivante :
 
-- L’article 8, point a), prend la teneur suivante : Le bénéficiaire est une petite entreprise non cotée ou un organisme de recherche privé répondant aux critères de petite entreprise non cotée, enregistrée depuis un maximum de cinq ans, et remplit les conditions suivantes : n’a pas repris l’activité d’une autre entreprise ; n’a pas encore distribué de bénéfices ; et n’est pas issu d’une concentration. Pour les entreprises admissibles dont l'enregistrement n'est pas obligatoire, la période d'admissibilité de cinq ans peut être considérée comme débutant soit au moment où l'entreprise démarre son activité économique soit au moment où elle est assujettie à l'impôt pour l'activité économique qu'elle exerce. Par dérogation au point a), 3., de l’alinéa 1er du présent article, les entreprises issues d’une concentration entre des entreprises admissibles au bénéfice d’une aide au titre du présent article sont également considérées comme des entreprises admissibles pendant une période maximale de cinq ans à compter de la date d’enregistrement de la plus ancienne entreprise participant à la concentration.
+(3)
+
+Est exclu le versement d'aides individuelles en faveur d'une entreprise faisant l'objet d'une injonction de récupération non exécutée, émise dans une décision antérieure de la Commission européenne déclarant une aide octroyée par le Grand-Duché de Luxembourg illégale et incompatible avec le marché intérieur, ou en faveur d’entreprises en difficulté, exception faite des aides en faveur des jeunes entreprises innovantes, pour autant que ces aides ne traitent pas les entreprises en difficulté plus favorablement que les autres entreprises.
+
+- L’article 8, point a), prend la teneur suivante :
+
+- Le bénéficiaire est une petite entreprise non cotée ou un organisme de recherche privé répondant aux critères de petite entreprise non cotée, enregistrée depuis un maximum de cinq ans, et remplit les conditions suivantes :
+
+  - n’a pas repris l’activité d’une autre entreprise ;
+
+  - n’a pas encore distribué de bénéfices ; et
+
+  - n’est pas issu d’une concentration.
+
+Pour les entreprises admissibles dont l'enregistrement n'est pas obligatoire, la période d'admissibilité de cinq ans peut être considérée comme débutant soit au moment où l'entreprise démarre son activité économique soit au moment où elle est assujettie à l'impôt pour l'activité économique qu'elle exerce.
+
+Par dérogation au point a), 3., de l’alinéa 1er du présent article, les entreprises issues d’une concentration entre des entreprises admissibles au bénéfice d’une aide au titre du présent article sont également considérées comme des entreprises admissibles pendant une période maximale de cinq ans à compter de la date d’enregistrement de la plus ancienne entreprise participant à la concentration.
 
 (2)
 
 La loi du 20 juillet 2017 ayant comme objet la mise en place d’un régime d’aide à l’investissement à finalité régionale est modifiée comme suit :
 
-- À l’article 1 er est inséré un nouveau paragraphe 4 bis libellé comme suit : 4bis Délocalisation : un transfert, en tout ou en partie, d’une activité identique ou similaire d’un établissement situé sur le territoire d’une partie contractante à l’accord Espace économique européen vers l’établissement dans lequel est effectué l’investissement bénéficiant d’une aide sur le territoire d’une autre partie contractante à l’accord Espace économique européen. Il y a transfert si le produit ou le service dans l’établissement initial et l’établissement bénéficiant de l’aide a au moins en partie les mêmes finalités et répond aux demandes ou aux besoins du même type de consommateurs et que des emplois sont supprimés dans une activité identique ou similaire dans un des établissements initiaux du bénéficiaire dans l’Espace économique européen.
+- À l’article 1er est inséré un nouveau paragraphe 4bis libellé comme suit :
 
-- À l’article 2, paragraphe 3, le point 2, est modifié comme suit : 2. les entreprises faisant l’objet d’une injonction de récupération non exécutée, émise dans une décision antérieure de la Commission déclarant une aide octroyée par le Grand-Duché de Luxembourg illégale et incompatible avec le marché intérieur ;
+4bis Délocalisation : un transfert, en tout ou en partie, d’une activité identique ou similaire d’un établissement situé sur le territoire d’une partie contractante à l’accord Espace économique européen vers l’établissement dans lequel est effectué l’investissement bénéficiant d’une aide sur le territoire d’une autre partie contractante à l’accord Espace économique européen. Il y a transfert si le produit ou le service dans l’établissement initial et l’établissement bénéficiant de l’aide a au moins en partie les mêmes finalités et répond aux demandes ou aux besoins du même type de consommateurs et que des emplois sont supprimés dans une activité identique ou similaire dans un des établissements initiaux du bénéficiaire dans l’Espace économique européen.
 
-- À l’article 2, paragraphe 3, le point 3, libellé comme suit, est abrogé : 3. les bénéficiaires ayant cessé une activité identique ou similaire dans l’Espace économique européen dans les deux ans qui précèdent la demande d’aide à l’investissement à finalité régionale ou qui, au moment de la demande d’aide à l’investissement à finalité régionale, envisagent concrètement de cesser une telle activité dans les deux ans suivant l’achèvement de l’investissement initial pour lequel l’aide est demandée.
+- À l’article 2, paragraphe 3, le point 2, est modifié comme suit :
 
-- À l’article 3, il est inséré un nouveau paragraphe 3 libellé comme suit : (3) Le bénéficiaire doit confirmer qu’il n’a pas procédé à une délocalisation vers l’établissement dans lequel doit avoir lieu l’investissement initial pour lequel l’aide est demandée, dans les deux années précédant la demande d’aide, et doit s’engager à ne pas le faire dans les deux ans à compter de l’achèvement de l’investissement initial pour lequel l’aide est demandée.
+2. les entreprises faisant l’objet d’une injonction de récupération non exécutée, émise dans une décision antérieure de la Commission déclarant une aide octroyée par le Grand-Duché de Luxembourg illégale et incompatible avec le marché intérieur ;
 
-- L’article 8, paragraphe 1 er , point 1, prend la teneur suivante : « 1. le coût des investissements en actifs corporels et en actifs incorporels relatifs à l’investissement initial ou en faveur d’une nouvelle activité économique, ou ; ».
+- À l’article 2, paragraphe 3, le point 3, libellé comme suit, est abrogé :
+
+3. les bénéficiaires ayant cessé une activité identique ou similaire dans l’Espace économique européen dans les deux ans qui précèdent la demande d’aide à l’investissement à finalité régionale ou qui, au moment de la demande d’aide à l’investissement à finalité régionale, envisagent concrètement de cesser une telle activité dans les deux ans suivant l’achèvement de l’investissement initial pour lequel l’aide est demandée.
+
+- À l’article 3, il est inséré un nouveau paragraphe 3 libellé comme suit :
+
+(3)
+
+Le bénéficiaire doit confirmer qu’il n’a pas procédé à une délocalisation vers l’établissement dans lequel doit avoir lieu l’investissement initial pour lequel l’aide est demandée, dans les deux années précédant la demande d’aide, et doit s’engager à ne pas le faire dans les deux ans à compter de l’achèvement de l’investissement initial pour lequel l’aide est demandée.
+
+- L’article 8, paragraphe 1er, point 1, prend la teneur suivante :
+
+« 1. le coût des investissements en actifs corporels et en actifs incorporels relatifs à l’investissement initial ou en faveur d’une nouvelle activité économique, ou ; ».
 
 <a id="art-24"></a>
 ## Art. 24.

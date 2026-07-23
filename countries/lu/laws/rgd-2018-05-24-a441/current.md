@@ -57,11 +57,11 @@ Les disciplines du volet « spécialisation » sont définies par les grilles ho
 
 Le volet « formation générale » d’une section regroupe les disciplines suivantes pour autant qu’elles soient prévues par la grille horaire et ne fassent pas partie du volet « spécialisation » :
 
-- en classe de 3 e : biologie, physique, chimie, histoire, éducation artistique, éducation physique, cours vie et société ;
+- en classe de 3e : biologie, physique, chimie, histoire, éducation artistique, éducation physique, cours vie et société ;
 
-- en classe de 2 e : histoire, éducation à la citoyenneté , philosophie, physique, chimie, économie générale, géographie, éducation musicale, éducation artistique, éducation physique ;
+- en classe de 2e : histoire, éducation à la citoyenneté , philosophie, physique, chimie, économie générale, géographie, éducation musicale, éducation artistique, éducation physique ;
 
-- en classe de 1 re : philosophie, histoire, économie générale, éducation musicale, éducation artistique, éducation physique.
+- en classe de 1re : philosophie, histoire, économie générale, éducation musicale, éducation artistique, éducation physique.
 
 Les disciplines du volet « domaine optionnel » sont définies par le lycée.
 
@@ -182,11 +182,11 @@ Le règlement grand-ducal du 30 juillet 2002 déterminant les matières obligato
 
 La mise en vigueur du présent règlement grand-ducal est la suivante :
 
-- à partir de l’année scolaire 2018/2019 pour les classes de 4 e et de 3 e de l’enseignement secondaire classique ;
+- à partir de l’année scolaire 2018/2019 pour les classes de 4e et de 3e de l’enseignement secondaire classique ;
 
-- à partir de l’année scolaire 2019/2020 pour les classes de 2 e de l’enseignement secondaire classique ;
+- à partir de l’année scolaire 2019/2020 pour les classes de 2e de l’enseignement secondaire classique ;
 
-- à partir de l’année scolaire 2020/2021 pour les classes de 1 re de l’enseignement secondaire classique.
+- à partir de l’année scolaire 2020/2021 pour les classes de 1re de l’enseignement secondaire classique.
 
 <a id="art-11"></a>
 ## Art. 11.

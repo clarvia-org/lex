@@ -66,7 +66,7 @@ Les semences des hybrides mentionnés à l’annexe I doivent, sauf dispositions
 
   - Lignée inbred : lignée suffisamment homogène et stable, obtenue soit par autofécondation artificielle accompagnée de sélection pendant plusieurs générations successives, soit par des opérations équivalentes ;
 
-  - Hybride simple : première génération d’un croisement entre deux lignées inbred , défini par l’obtenteur ;
+  - Hybride simple : première génération d’un croisement entre deux lignées inbred, défini par l’obtenteur ;
 
   - Hybride double : première génération d’un croisement entre deux hybrides simples, défini par l’obtenteur ;
 
@@ -150,7 +150,7 @@ Les semences des hybrides mentionnés à l’annexe I doivent, sauf dispositions
 
   - pour lesquelles il a été constaté, lors d’un examen officiel ou lors d’un examen effectué sous contrôle officiel, que les conditions énoncées aux lettres a), b) et c) ont été respectées.
 
-- « Contrôle officiel » : l’inspection des cultures sur pied et l’examen des semences après la récolte, effectués par un des organismes officiels de contrôle visés à l’article 5, paragraphe 1 er de la loi du 18 mars 2008 sur la commercialisation des semences et plants ainsi que sur la coexistence des cultures génétiquement modifiées, conventionnelles et biologiques.
+- « Contrôle officiel » : l’inspection des cultures sur pied et l’examen des semences après la récolte, effectués par un des organismes officiels de contrôle visés à l’article 5, paragraphe 1er de la loi du 18 mars 2008 sur la commercialisation des semences et plants ainsi que sur la coexistence des cultures génétiquement modifiées, conventionnelles et biologiques.
 
 <a id="art-4"></a>
 ## Art. 4.
@@ -213,9 +213,9 @@ Les semences sont issues de semences produites selon des règles de sélection c
 
 (3)
 
-- Les semences, sauf celles d’ Oryza sativa , satisfont aux exigences relatives à la certification des semences certifiées, à l’exclusion de celles afférentes à la pureté variétale et à l’examen officiel ou sous contrôle officiel.
+- Les semences, sauf celles d’Oryza sativa, satisfont aux exigences relatives à la certification des semences certifiées, à l’exclusion de celles afférentes à la pureté variétale et à l’examen officiel ou sous contrôle officiel.
 
-- Les semences d’ Oryza sativa satisfont aux exigences relatives à la certification des semences certifiées de la deuxième génération, à l’exclusion de celles afférentes à la pureté variétale et à l’examen officiel ou sous contrôle officiel.
+- Les semences d’Oryza sativa satisfont aux exigences relatives à la certification des semences certifiées de la deuxième génération, à l’exclusion de celles afférentes à la pureté variétale et à l’examen officiel ou sous contrôle officiel.
 
 - Les semences doivent présenter une pureté variétale suffisante.
 
@@ -528,7 +528,7 @@ Lorsque, dans ces cas, les semences ont été produites directement à partir de
 
 Les semences de céréales qui ont été récoltées dans l’Union européenne et sont destinées à être certifiées conformément aux dispositions du paragraphe 1er :
 
-- sont emballées et étiquetées à l’aide d’une étiquette officielle remplissant les conditions fixées à l’annexe VI, parties A et B, conformément aux dispositions prévues par l’article 18 paragraphe 1 er ; et
+- sont emballées et étiquetées à l’aide d’une étiquette officielle remplissant les conditions fixées à l’annexe VI, parties A et B, conformément aux dispositions prévues par l’article 18 paragraphe 1er ; et
 
 - sont accompagnées d’un document officiel remplissant les conditions prévues à l’annexe VI, partie C.
 
@@ -640,7 +640,7 @@ Lors de l’inspection sur pied, le contrôleur vérifie :
 
 - si l’origine de la semence utilisée correspond aux déclarations faites ; à cet effet, le contrôleur peut demander au producteur de semences communication de toute pièce justificative ;
 
-- si les conditions d’isolement des parcelles sont observées ; la distance qui doit séparer les champs est renseignée à l’annexe II .
+- si les conditions d’isolement des parcelles sont observées ; la distance qui doit séparer les champs est renseignée à l’annexe II.
 
 La culture est refusée si les conditions précitées ne sont pas respectées, ou s’il y a fausse déclaration.
 
@@ -658,7 +658,7 @@ Le refus d’une culture est prononcé :
 
 - si l’identité variétale est considérée comme douteuse et si les caractères morphologiques ou physiologique spécifiques de la variété font défaut ;
 
-- si la culture est envahie par Avena fatua . Les cultures d’avoine de toutes catégories, ainsi que les cultures de semences de base des autres espèces de céréales doivent être exemptes d’ Avena fatua ; sont tolérées trois plantes d’ Avena fatua par hectare dans les cultures de semences certifiées des céréales autres que l’avoine ;
+- si la culture est envahie par Avena fatua. Les cultures d’avoine de toutes catégories, ainsi que les cultures de semences de base des autres espèces de céréales doivent être exemptes d’Avena fatua ; sont tolérées trois plantes d’Avena fatua par hectare dans les cultures de semences certifiées des céréales autres que l’avoine ;
 
 - en absence de bordure de séparation suffisante entre la culture avoisinante ;
 

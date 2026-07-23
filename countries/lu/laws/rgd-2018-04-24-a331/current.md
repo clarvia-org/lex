@@ -100,7 +100,7 @@ Aux fins du présent règlement, on entend par :
 
 - « bâtiment » : une construction dotée d'un toit et de murs, dans laquelle l'énergie est utilisée pour réguler le climat intérieur ;
 
-- « bioliquide » : les combustibles liquides au sens du point 2 de l’article 1 er du règlement grand-ducal du 27 février 2011 fixant les critères de durabilité pour les biocarburants et bioliquides et respectant les critères de durabilité y prévus ;
+- « bioliquide » : les combustibles liquides au sens du point 2 de l’article 1er du règlement grand-ducal du 27 février 2011 fixant les critères de durabilité pour les biocarburants et bioliquides et respectant les critères de durabilité y prévus ;
 
 - « biomasse » :
 
@@ -178,7 +178,7 @@ Aux fins du présent règlement, on entend par :
 
 - « organisme agréé » : l’organisme ou la personne titulaire d’un agrément dans le cadre de la loi du 21 avril 1993 relative à l'agrément de personnes physiques ou morales privées ou publiques, autres que l'État, pour l'accomplissement de tâches techniques d'études et de vérification dans le domaine de l'environnement ;
 
-- « oxydes d'azote (NOx) » : le monoxyde et le dioxyde d'azote, exprimés en dioxyde d'azote (NO 2 ) ;
+- « oxydes d'azote (NOx) » : le monoxyde et le dioxyde d'azote, exprimés en dioxyde d'azote (NO2) ;
 
 - « petit réseau isolé » : tout réseau qui a une consommation inférieure à 3 000 GWh en 1996, et qui peut être interconnecté avec d’autres réseaux pour une quantité inférieure à 5 pour cent de sa consommation annuelle ;
 
@@ -554,11 +554,27 @@ Modification du règlement grand-ducal modifié du 7 octobre 2014 relatif a) aux
 
 Le règlement grand-ducal modifié du 7 octobre 2014 relatif a) aux installations de combustion alimentées en combustible solide ou liquide d’une puissance nominale utile supérieure à 7 kW et inférieure à 20 MW b) aux installations de combustion alimentées en combustible gazeux d’une puissance nominale utile supérieure à 3 MW et inférieure à 20 MW est modifié comme suit :
 
-- L’intitulé est modifié comme suit : Règlement grand-ducal modifié du 7 octobre 2014 relatif aux installations de combustion alimentées en combustible solide ou liquide d’une puissance nominale utile supérieure à 7 kW et inférieure à 1 MW
+- L’intitulé est modifié comme suit :
 
-- L’article 1 er , paragraphe 1 er est remplacé par le texte suivant : (1) Le présent règlement s’applique aux : installations de combustion fixes alimentées en combustible solide à chargement manuel ou à chargement automatisé ayant une puissance nominale utile supérieure à 7 kW et inférieure à 1 MW ; installations de combustion fixes alimentées en combustible liquide ayant une puissance nominale utile supérieure à 7 kW et inférieure à 1 MW ; quelle que soit l'affectation des locaux où sont comprises ces installations qui sont dénommées ci-après « installation(s) ».
+Règlement grand-ducal modifié du 7 octobre 2014 relatif aux installations de combustion alimentées en combustible solide ou liquide d’une puissance nominale utile supérieure à 7 kW et inférieure à 1 MW
 
-- L’article 2, point 5 est remplacé comme suit : « certificat de contrôleur pour chauffages » : l'habilitation conférée par le ministre ayant l'Environnement dans ses attributions, dénommé ci-après « ministre », à un candidat contrôleur pour les installations d'une puissance supérieure à 7 kW et inférieure à 1 MW visées par le règlement ;
+- L’article 1er, paragraphe 1er est remplacé par le texte suivant :
+
+(1)
+
+Le présent règlement s’applique aux :
+
+- installations de combustion fixes alimentées en combustible solide à chargement manuel ou à chargement automatisé ayant une puissance nominale utile supérieure à 7 kW et inférieure à 1 MW ;
+
+- installations de combustion fixes alimentées en combustible liquide ayant une puissance nominale utile supérieure à 7 kW et inférieure à 1 MW ;
+
+quelle que soit l'affectation des locaux où sont comprises ces installations qui sont dénommées ci-après « installation(s) ».
+
+- L’article 2, point 5 est remplacé comme suit :
+
+- « certificat de contrôleur pour chauffages » :
+
+l'habilitation conférée par le ministre ayant l'Environnement dans ses attributions, dénommé ci-après « ministre », à un candidat contrôleur pour les installations d'une puissance supérieure à 7 kW et inférieure à 1 MW visées par le règlement ;
 
 - L’article 4, point 9 est supprimé.
 
@@ -566,27 +582,47 @@ Le règlement grand-ducal modifié du 7 octobre 2014 relatif a) aux installation
 
 - Les articles 9, 11, 12 et 14 sont supprimés.
 
-- L’intitulé du premier chapitre du titre III est remplacé comme suit : Chapitre Ier Réception des installations ayant une puissance inférieure 1 MW
+- L’intitulé du premier chapitre du titre III est remplacé comme suit :
 
-- L’intitulé de l’article 15 est remplacé comme suit : Art.15 Réception des installations à combustible solide ou liquide d’une puissance supérieure à 7 kW et inférieure à 1 MW
+#### Chapitre Ier Réception des installations ayant une puissance inférieure 1 MW
 
-- L’article 15, paragraphe 1 er est modifié comme suit : À l'exception des chauffages de locaux non raccordés au circuit de chauffage, les nouvelles installations à combustible solide ou liquide d’une puissance supérieure à 7 kW et inférieure 1 MW sont soumises, sur demande préalable d'une entreprise, à une réception.
+- L’intitulé de l’article 15 est remplacé comme suit :
+
+Art.15
+
+Réception des installations à combustible solide ou liquide d’une puissance supérieure à 7 kW et inférieure à 1 MW
+
+- L’article 15, paragraphe 1er est modifié comme suit :
+
+À l'exception des chauffages de locaux non raccordés au circuit de chauffage, les nouvelles installations à combustible solide ou liquide d’une puissance supérieure à 7 kW et inférieure 1 MW sont soumises, sur demande préalable d'une entreprise, à une réception.
 
 - L’article 17 est supprimé.
 
-- L’intitulé du premier chapitre du titre IV est remplacé comme suit : Chapitre Ier Inspection périodique des installations ayant une puissance supérieure à 7 kW et inférieure 1 MW
+- L’intitulé du premier chapitre du titre IV est remplacé comme suit :
 
-- L’intitulé de l’article 18 est remplacé comme suit : Inspection périodique des installations à combustible solide ou liquide d’une puissance supérieure à 7 kW et inférieure 1 MW
+#### Chapitre Ier Inspection périodique des installations ayant une puissance supérieure à 7 kW et inférieure 1 MW
 
-- L’article 18, paragraphe 1 er , alinéa 1 er est modifié comme suit : (1) À l'exception des chauffages de locaux non raccordés au circuit de chauffage, l'exploitant d'une installation alimentée en combustible solide ou liquide d’une puissance supérieure à 7 kW et inférieure 1 MW est tenu de faire procéder à une inspection périodique tous les deux ans.
+- L’intitulé de l’article 18 est remplacé comme suit :
+
+Inspection périodique des installations à combustible solide ou liquide d’une puissance supérieure à 7 kW et inférieure 1 MW
+
+- L’article 18, paragraphe 1er, alinéa 1er est modifié comme suit :
+
+(1)
+
+À l'exception des chauffages de locaux non raccordés au circuit de chauffage, l'exploitant d'une installation alimentée en combustible solide ou liquide d’une puissance supérieure à 7 kW et inférieure 1 MW est tenu de faire procéder à une inspection périodique tous les deux ans.
 
 - Les articles 19 et 20 sont supprimés.
 
 - L’annexe VII est supprimée.
 
-- L’intitulé de l’annexe XI est remplacé comme suit : Rapport de réception et rapport d’inspection périodique d‘une installation à combustible solide ou liquide d’une puissance supérieure à 7 kW et inférieure 1 MW
+- L’intitulé de l’annexe XI est remplacé comme suit :
 
-- L’annexe XI, alinéa 1 er est remplacé comme suit : Le rapport de réception et le rapport d'inspection pour les installations à combustible solide ou liquide d’une puissance supérieure à 7 kW et inférieure 1 MW doivent contenir au minimum les données suivantes.
+Rapport de réception et rapport d’inspection périodique d‘une installation à combustible solide ou liquide d’une puissance supérieure à 7 kW et inférieure 1 MW
+
+- L’annexe XI, alinéa 1er est remplacé comme suit :
+
+Le rapport de réception et le rapport d'inspection pour les installations à combustible solide ou liquide d’une puissance supérieure à 7 kW et inférieure 1 MW doivent contenir au minimum les données suivantes.
 
 - Les annexes XII, XIII, XIV et XV sont supprimées.
 
@@ -597,11 +633,25 @@ Modification du règlement grand-ducal modifié du 27 février 2010 concernant l
 
 Le règlement grand-ducal modifié du 27 février 2010 concernant les installations à gaz est modifié comme suit :
 
-- L’article 7 est remplacé comme suit : Art. 7. Valeurs de combustion des installations gaz. (1) Les installations à gaz destinées au chauffage des locaux et au chauffage de l’eau sanitaire d’une puissance inférieure à 1 MW doivent être mises en place et exploitées de façon à ce que le rendement de combustion et la qualité de combustion répondent aux exigences indiquées aux annexes 4 et 5. (2) Tous les appareils à gaz d’une puissance inférieure à 1 MW doivent être mis en place et exploités de façon à ce que la qualité de combustion réponde aux exigences indiquées à l’annexe 5.
+- L’article 7 est remplacé comme suit :
 
-- L’article 8, paragraphe 2, alinéa 2 est remplacé comme suit : aux installations qui ont une puissance totale supérieure ou égale à 1 MW ;
+Art. 7.
 
-- À l’annexe 4, premier tableau, ligne 4, les termes 3000 kW sont remplacés par les termes 1000 kW .
+Valeurs de combustion des installations gaz.
+
+(1)
+
+Les installations à gaz destinées au chauffage des locaux et au chauffage de l’eau sanitaire d’une puissance inférieure à 1 MW doivent être mises en place et exploitées de façon à ce que le rendement de combustion et la qualité de combustion répondent aux exigences indiquées aux annexes 4 et 5.
+
+(2)
+
+Tous les appareils à gaz d’une puissance inférieure à 1 MW doivent être mis en place et exploités de façon à ce que la qualité de combustion réponde aux exigences indiquées à l’annexe 5.
+
+- L’article 8, paragraphe 2, alinéa 2 est remplacé comme suit :
+
+aux installations qui ont une puissance totale supérieure ou égale à 1 MW ;
+
+- À l’annexe 4, premier tableau, ligne 4, les termes 3000 kW sont remplacés par les termes 1000 kW.
 
 <a id="art-17"></a>
 ## Art. 17.
@@ -622,7 +672,7 @@ Pour les installations qui sont en service au moment de l´entrée en vigueur du
 
   - pour les installations fonctionnant à combustible gazeux d’une puissance supérieure ou égale à 1 MW et inférieure ou égale à 3 MW, la réception se fait dans les conditions visées par le règlement grand-ducal modifié du 27 février 2010 concernant les installations à gaz ;
 
-  - pour les installations fonctionnant à combustible gazeux d’une puissance supérieure à 3 MW, la réception se fait dans les conditions visées par le règlement grand-ducal précité du 7 octobre 2014 .
+  - pour les installations fonctionnant à combustible gazeux d’une puissance supérieure à 3 MW, la réception se fait dans les conditions visées par le règlement grand-ducal précité du 7 octobre 2014.
 
 <a id="art-18"></a>
 ## Art. 18.

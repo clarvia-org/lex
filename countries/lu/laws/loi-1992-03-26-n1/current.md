@@ -692,13 +692,13 @@ Dispositions transitoires.
 
 Par dérogation aux dispositions de l’article 25bis de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’Etat, le supplément de traitement prévu au paragraphe b), alinéa 1 est fixé à
 
-- quinze points à partir du 1 er janvier 1991.
+- quinze points à partir du 1er janvier 1991.
 
 (2)
 
 Le supplément de traitement prévu à l’alinéa 2 du même paragraphe est fixé à
 
-- trente points à partir du 1 er janvier 1991.
+- trente points à partir du 1er janvier 1991.
 
 <a id="art-46"></a>
 ## Art. 46.

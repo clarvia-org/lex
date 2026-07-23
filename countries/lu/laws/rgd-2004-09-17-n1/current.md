@@ -68,7 +68,7 @@ L'octroi d'avances temporaires de fonds par la Trésorerie de l'Etat pour le pai
 
 - en relation avec les subventions aux comptables des administrations fiscales de l'Etat en cas d'insuffisance de leur encaisse. Les demandes en question doivent être visées par les chefs d'administration ou leurs délégués respectifs.
 
-- en relation avec les dotations aux comptables extraordinaires en poste à l'étranger. Ces avances se limitent aux dotations à recevoir à charge de l'exercice budgétaire à venir et ne peuvent être payées avant le 1 er décembre de l'année précédente. Par dérogation à l'article 1 er ci-avant, ces avances sont dispensées de l'obligation d'un engagement budgétaire préalable;
+- en relation avec les dotations aux comptables extraordinaires en poste à l'étranger. Ces avances se limitent aux dotations à recevoir à charge de l'exercice budgétaire à venir et ne peuvent être payées avant le 1er décembre de l'année précédente. Par dérogation à l'article 1er ci-avant, ces avances sont dispensées de l'obligation d'un engagement budgétaire préalable;
 
 - en relation avec les indemnités de chômage complet couvertes par le Fonds pour l’emploi.
 

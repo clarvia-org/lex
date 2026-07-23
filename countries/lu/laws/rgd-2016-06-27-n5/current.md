@@ -93,7 +93,7 @@ Le revenu professionnel agricole de l’exploitation servant d’assiette au cal
 
 - les salaires payés à des tiers et déclarés auprès du Centre commun de la sécurité sociale, augmentés des cotisations sociales à charge du chef d’exploitation,
 
-- les salaires payés aux personnes visées à l’article 90, alinéa 3 du Code de la sécurité sociale , à condition que leur identité résulte du répertoire national des personnes physiques ou d’un document officiel, ou que ces salaires aient fait l’objet d’une déclaration à l’Administration des contributions directes dans le cadre de l’imposition forfaitaire prévue par le règlement grand-ducal du 7 mai 1991 portant exécution de l’article 137, alinéa 4 de la loi du 4 décembre 1967 concernant l’impôt sur le revenu et modifiant le règlement grand-ducal du 3 décembre 1969 portant exécution de l’article 115, numéro 12 de la prédite loi du 4 décembre 1967 .
+- les salaires payés aux personnes visées à l’article 90, alinéa 3 du Code de la sécurité sociale, à condition que leur identité résulte du répertoire national des personnes physiques ou d’un document officiel, ou que ces salaires aient fait l’objet d’une déclaration à l’Administration des contributions directes dans le cadre de l’imposition forfaitaire prévue par le règlement grand-ducal du 7 mai 1991 portant exécution de l’article 137, alinéa 4 de la loi du 4 décembre 1967 concernant l’impôt sur le revenu et modifiant le règlement grand-ducal du 3 décembre 1969 portant exécution de l’article 115, numéro 12 de la prédite loi du 4 décembre 1967.
 
 <a id="art-7"></a>
 ## Art. 7.

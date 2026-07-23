@@ -838,13 +838,19 @@ Lorsque l’Autorité de concurrence interjette appel sans constituer avocat, la
 
 La loi du 7 novembre 1996 portant organisation des juridictions de l’ordre administratif est modifiée comme suit:
 
-- Au paragraphe (1 er ) de l’article 7, les termes La Cour administrative sont remplacés par les termes Le tribunal administratif .
+- Au paragraphe (1er) de l’article 7, les termes La Cour administrative sont remplacés par les termes Le tribunal administratif.
 
 - L’article 7, paragraphe (3) est supprimé.
 
-- Le dernier paragraphe actuel de l’article 7 devient le paragraphe (3) et est remplacé par le texte suivant: «(3) La décision prononçant l’annulation est publiée de la même manière que l’acte administratif à caractère réglementaire attaqué, dès qu’elle est coulée en force de chose jugée. L’annulation a un caractère absolu, à partir du jour où elle est coulée en force de chose jugée.»
+- Le dernier paragraphe actuel de l’article 7 devient le paragraphe (3) et est remplacé par le texte suivant:
 
-- Un paragraphe (4) nouveau est ajouté à l’article 7, libellé comme suit: «Sauf disposition contraire de la loi, appel peut être interjeté devant la Cour administrative contre les décisions visées au paragraphe 1er.»
+«(3)
+
+La décision prononçant l’annulation est publiée de la même manière que l’acte administratif à caractère réglementaire attaqué, dès qu’elle est coulée en force de chose jugée. L’annulation a un caractère absolu, à partir du jour où elle est coulée en force de chose jugée.»
+
+- Un paragraphe (4) nouveau est ajouté à l’article 7, libellé comme suit:
+
+«Sauf disposition contraire de la loi, appel peut être interjeté devant la Cour administrative contre les décisions visées au paragraphe 1er.»
 
 - L’article 8, paragraphe (3), point 5 est supprimé.
 
@@ -881,19 +887,19 @@ La loi générale des impôts est modifée comme suit:
 
 - Les § 107 alinéa 7, 107a et 21o alinéa 3 A0 sont abrogés. Les dispositions de la loi générale des impôts relatives à la contrainte par corps sont abrogées.
 
-- Au § 131 A0 sont intercalés entre les termes le directeur de l’Administration des contributions directes et accordera , les termes ou son délégué .
+- Au § 131 A0 sont intercalés entre les termes le directeur de l’Administration des contributions directes et accordera, les termes ou son délégué.
 
 - Le § 228 A0 est modifié comme suit:
 
   - La référence au § 168 est supprimée.
 
-  - La première phrase est complétée comme suit: ou son délégué .
+  - La première phrase est complétée comme suit: ou son délégué.
 
 - Le § 237 A0 est modifié comme suit:
 
   - La référence au § 168 est supprimée.
 
-  - Le terme Finanzbehörden est remplacé par celui de Steuerbehörden .
+  - Le terme Finanzbehörden est remplacé par celui de Steuerbehörden.
 
   - Le paragraphe est complété comme suit: Die Frist beträgt drei Monate.
 
@@ -914,7 +920,7 @@ Dans l’alinéa 2, la référence au § 94 Absätze 1 und 2 est supprimée.
 
 L’article 7 de la loi du 1er mars 1952 modifiant certaines dispositions relatives aux impôts directs est modifié comme suit:
 
-- Au deuxième alinéa, le terme réclamation est remplacé par celui de décision .
+- Au deuxième alinéa, le terme réclamation est remplacé par celui de décision.
 
 - L’article est complété comme suit: En matière de ventilation (§ 388 A0) le recours est porté directement devant le tribunal.
 

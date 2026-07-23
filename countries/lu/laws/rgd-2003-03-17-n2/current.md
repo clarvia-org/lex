@@ -40,7 +40,7 @@ Aux fins du présent règlement, on entend par:
 
 - «véhicule»: tout véhicule des catégories M1 ou N1 définies à l’annexe II, partie A, de la directive modifiée 70/156/CEE ainsi que les véhicules à deux ou trois roues définis dans la directive 2002/24/CE;
 
-- «véhicule hors d’usage»: un véhicule qui constitue un déchet au sens de l’article 3, point a), de la loi modifiée du 17 juin 1994 relative à la prévention et à la gestion des déchets, dénommée ci-après «la loi modifiée du 17 juin 1994 »;
+- «véhicule hors d’usage»: un véhicule qui constitue un déchet au sens de l’article 3, point a), de la loi modifiée du 17 juin 1994 relative à la prévention et à la gestion des déchets, dénommée ci-après «la loi modifiée du 17 juin 1994»;
 
 - «producteur»: le constructeur d’un véhicule ou l’importateur professionnel d’un véhicule au Luxembourg;
 
@@ -52,9 +52,9 @@ Aux fins du présent règlement, on entend par:
 
 - «recyclage»: le retraitement, dans un processus de production, des déchets, soit en vue de la même utilisation que celle d’origine, soit à d’autres fins, mais à l’exclusion de la valorisation énergétique; par «valorisation énergétique», on entend l’utilisation de déchets combustibles en tant que moyen de production d’énergie, par incinération directe avec ou sans autres déchets, mais avec récupération de la chaleur;
 
-- «valorisation»: toute opération énumérée à l’annexe III de la loi modifiée du 17 juin 1994 ;
+- «valorisation»: toute opération énumérée à l’annexe III de la loi modifiée du 17 juin 1994;
 
-- «élimination»: toute opération énumérée à l’annexe II de la loi modifiée du 17 juin 1994 ;
+- «élimination»: toute opération énumérée à l’annexe II de la loi modifiée du 17 juin 1994;
 
 - «opérateurs économiques»: les producteurs, les distributeurs, les collecteurs, les compagnies d’assurances automobiles, les démonteurs, les broyeurs, les récupérateurs, les recycleurs de véhicules et les autres intervenants dans le traitement des véhicules hors d’usage, y compris celui de leurs composants et matériaux;
 
@@ -80,7 +80,7 @@ Aux fins du présent règlement, on entend par:
 
 - «information concernant le démontage»: toutes les informations requises pour permettre le traitement approprié et compatible avec l’environnement des véhicules hors d’usage. Ces informations sont mises à la disposition des installations de traitement autorisées par les constructeurs de véhicules et par les producteurs de composants sous forme de manuels ou par le canal des médias électroniques;
 
-- «accord environnemental»: tout accord formel entre le Ministre et les secteurs économiques concernés qui doit être ouvert à tous les opérateurs économiques souhaitant se conformer aux conditions fixées par l’accord afin de contribuer à la réalisation des objectifs dont question à l’article 1 er ;
+- «accord environnemental»: tout accord formel entre le Ministre et les secteurs économiques concernés qui doit être ouvert à tous les opérateurs économiques souhaitant se conformer aux conditions fixées par l’accord afin de contribuer à la réalisation des objectifs dont question à l’article 1er;
 
 - «administration»: l’Administration de l’Environnement;
 
@@ -228,9 +228,9 @@ Le Ministre, l’administration et les secteurs économiques concernés prennent
 
 Les objectifs suivants doivent être atteints par les opérateurs économiques:
 
-- au plus tard le 1 er janvier 2006, pour tous les véhicules hors d’usage, le taux de réutilisation et de valorisation est porté à un minimum de 85% en poids moyen par véhicule et par an. Dans le même délai, le taux de réutilisation et de recyclage est porté à un minimum de 80% en poids moyen par véhicule et par an;
+- au plus tard le 1er janvier 2006, pour tous les véhicules hors d’usage, le taux de réutilisation et de valorisation est porté à un minimum de 85% en poids moyen par véhicule et par an. Dans le même délai, le taux de réutilisation et de recyclage est porté à un minimum de 80% en poids moyen par véhicule et par an;
 
-- au plus tard le 1 er janvier 2015, pour tous les véhicules hors d’usage, le taux de réutilisation et de valorisation est porté à un minimum de 95% en poids moyen par véhicule et par an. Dans le même délai, le taux de réutilisation et de recyclage est porté à un minimum de 85% en poids moyen par véhicule et par an.
+- au plus tard le 1er janvier 2015, pour tous les véhicules hors d’usage, le taux de réutilisation et de valorisation est porté à un minimum de 95% en poids moyen par véhicule et par an. Dans le même délai, le taux de réutilisation et de recyclage est porté à un minimum de 85% en poids moyen par véhicule et par an.
 
 3.
 
@@ -306,9 +306,9 @@ Le présent règlement entre en vigueur le premier jour du mois qui suit celui d
 
 L’article 6 paragraphe 5 s’applique
 
-- à l’expiration d’un délai de deux mois suivant l’entrée en vigueur du présent règlement pour les véhicules dont la première immatriculation a eu lieu à partir du 1 er juillet 2002;
+- à l’expiration d’un délai de deux mois suivant l’entrée en vigueur du présent règlement pour les véhicules dont la première immatriculation a eu lieu à partir du 1er juillet 2002;
 
-- à partir du 1 er janvier 2007 pour les véhicules dont la première immatriculation a eu lieu avant la date visée au premier tiret.
+- à partir du 1er janvier 2007 pour les véhicules dont la première immatriculation a eu lieu avant la date visée au premier tiret.
 
 <a id="art-13"></a>
 ## Art. 13.

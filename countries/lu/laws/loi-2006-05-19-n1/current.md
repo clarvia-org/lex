@@ -106,7 +106,7 @@ Autorité de contrôle et droit applicable
 
 - Pour l’application de la présente loi, toutes les personnes au service de la Commission sont tenues au secret professionnel. Cette obligation persiste au-delà de la cessation de leurs fonctions. Les informations couvertes par le secret professionnel ne peuvent être divulguées, à quelque personne ou autorité que ce soit, qu’en vertu de dispositions législatives dans les conditions définies à l’article 16 de la loi du 23 décembre 1998 portant création d’une commission de surveillance du secteur financier.
 
-- La Commission ainsi que les autorités de contrôle des autres Etats membres au sens de la présente loi et les autres autorités chargées de contrôler les marchés des capitaux, en application notamment de la directive 2004/39/CE , de la directive 2001/34/CE , de la directive 2004/109/CE , de la directive 2003/6/CE et de la directive 2003/71/CE du Parlement européen et du Conseil du 4 novembre 2003 concernant le prospectus à publier en cas d’offre au public de valeurs mobilières ou en vue de l’admission de valeurs mobilières à la négociation, coopèrent et se communiquent des informations dans toute la mesure nécessaire à l’application des règles établies conformément à la présente loi, et en particulier dans les cas prévus au paragraphe (2), points b), c) et e). Les informations ainsi échangées sont couvertes par l’obligation de secret professionnel qui incombe aux personnes exerçant ou ayant exercé une activité auprès des autorités de contrôle qui les reçoivent. La coopération comprend la capacité de notifier les actes juridiques nécessaires à l’application des mesures prises par les autorités compétentes en liaison avec des offres, ainsi que toute autre aide pouvant être raisonnablement demandée par les autorités de contrôle concernées aux fins d’enquêter sur les violations effectives ou prétendues des règles adoptées ou introduites en application de la directive 2004/25/CE .
+- La Commission ainsi que les autorités de contrôle des autres Etats membres au sens de la présente loi et les autres autorités chargées de contrôler les marchés des capitaux, en application notamment de la directive 2004/39/CE, de la directive 2001/34/CE, de la directive 2004/109/CE, de la directive 2003/6/CE et de la directive 2003/71/CE du Parlement européen et du Conseil du 4 novembre 2003 concernant le prospectus à publier en cas d’offre au public de valeurs mobilières ou en vue de l’admission de valeurs mobilières à la négociation, coopèrent et se communiquent des informations dans toute la mesure nécessaire à l’application des règles établies conformément à la présente loi, et en particulier dans les cas prévus au paragraphe (2), points b), c) et e). Les informations ainsi échangées sont couvertes par l’obligation de secret professionnel qui incombe aux personnes exerçant ou ayant exercé une activité auprès des autorités de contrôle qui les reçoivent. La coopération comprend la capacité de notifier les actes juridiques nécessaires à l’application des mesures prises par les autorités compétentes en liaison avec des offres, ainsi que toute autre aide pouvant être raisonnablement demandée par les autorités de contrôle concernées aux fins d’enquêter sur les violations effectives ou prétendues des règles adoptées ou introduites en application de la directive 2004/25/CE.
 
 - Sous réserve des principes généraux énoncés à l’article 3, la Commission est autorisée, dans le domaine de compétence défini par la présente loi, à ne pas faire application, dans des circonstances particulières, des dispositions des articles 3, f), in fine ; 5, paragraphes (1) et (3), 6, paragraphes (1) et (3), 7, paragraphe (1), 11, paragraphe (1) et 13, alinéa 1, point d). Une décision spécialement motivée est exigée dans ce cas.
 
@@ -116,7 +116,7 @@ Autorité de contrôle et droit applicable
 
 Les informations satisfont aux exigences suivantes :
 
-- elles sont communiquées dans un format permettant l’extraction de données au sens de l’article 2, point 3), du règlement (UE) 2023/2859 , ou, lorsque le droit de l’Union européenne l’exige, dans un format lisible par machine au sens de l’article 2, point 4), dudit règlement ;
+- elles sont communiquées dans un format permettant l’extraction de données au sens de l’article 2, point 3), du règlement (UE) 2023/2859, ou, lorsque le droit de l’Union européenne l’exige, dans un format lisible par machine au sens de l’article 2, point 4), dudit règlement ;
 
 - elles sont accompagnées des métadonnées suivantes :
 
@@ -139,13 +139,13 @@ Aux fins de l’alinéa 2, lettre b), point ii), les sociétés obtiennent un id
 
 Protection des actionnaires minoritaires, offre obligatoire et prix équitable
 
-- Lorsqu’une personne physique ou morale obtient, à la suite d’une acquisition faite par elle-même ou par des personnes agissant de concert avec elle, des titres d’une société au sens de l’article 1 er , paragraphe (1), qui, additionnés à toutes les participations en ces titres qu’elle détient déjà et à celles des personnes agissant de concert avec elle, lui confèrent directement ou indirectement un pourcentage déterminé de droits de vote dans cette société lui donnant le contrôle de cette société, cette personne est obligée de faire une offre en vue de protéger les actionnaires minoritaires de la société visée. Cette offre est adressée dans les plus brefs délais à tous les détenteurs de ces titres et porte sur la totalité de leurs participations, au prix équitable défini au paragraphe (4).
+- Lorsqu’une personne physique ou morale obtient, à la suite d’une acquisition faite par elle-même ou par des personnes agissant de concert avec elle, des titres d’une société au sens de l’article 1er, paragraphe (1), qui, additionnés à toutes les participations en ces titres qu’elle détient déjà et à celles des personnes agissant de concert avec elle, lui confèrent directement ou indirectement un pourcentage déterminé de droits de vote dans cette société lui donnant le contrôle de cette société, cette personne est obligée de faire une offre en vue de protéger les actionnaires minoritaires de la société visée. Cette offre est adressée dans les plus brefs délais à tous les détenteurs de ces titres et porte sur la totalité de leurs participations, au prix équitable défini au paragraphe (4).
 
 - L’obligation de lancer une offre prévue au paragraphe (1) n’est plus applicable lorsque le contrôle a été acquis à la suite d’une offre volontaire faite conformément à la présente loi à tous les détenteurs de titres pour la totalité de leurs participations.
 
 - Le pourcentage de droits de vote conférant le contrôle aux fins du paragraphe (1) et son mode de calcul sont fixés par la réglementation de l’Etat membre dans lequel la société visée a son siège social. Pour les sociétés dont le siège social est établi au Luxembourg le pourcentage de droits de vote est fixé à 33 1/3%. Pour le calcul du pourcentage il est tenu compte de tous les titres de la société à l’exclusion des titres assortis d’un droit de vote uniquement dans des situations particulières.
 
-- Est considéré comme le prix équitable le prix le plus élevé payé pour les mêmes titres par l’offrant, ou par des personnes agissant de concert avec lui, pendant une période de douze mois précédant l’offre visée au paragraphe (1). Si, après publication de l’offre et avant expiration de la période d’acceptation de celle-ci , l’offrant ou toute personne agissant de concert avec lui acquiert des titres à un prix supérieur au prix de l’offre, l’offrant porte son offre à un prix au moins égal au prix le plus élevé payé pour les titres ainsi acquis. Sous réserve du respect des principes généraux énoncés à l’article 3, la Commission est autorisée à modifier le prix prévu au premier alinéa. Le prix le plus élevé ne peut être modifié, vers le haut ou vers le bas, que si le prix le plus élevé a été fixé par accord entre l’acheteur et un vendeur, ou si les prix de marché des titres en cause ont été manipulés, ou si les prix de marché en général ou certains prix de marché en particulier ont été affectés par des événements exceptionnels, ou pour permettre le sauvetage d’une entreprise en détresse. La Commission utilise dans ces cas des critères clairement définis qui peuvent être la valeur moyenne de marché sur une certaine période, la valeur de liquidation de la société ou d’autres critères objectifs d’évaluation généralement utilisés en analyse financière. Un règlement grand-ducal peut prévoir d’autres circonstances dans lesquelles des dysfonctionnements du marché auraient une incidence sur l’établissement du prix selon l’alinéa 1 du présent paragraphe. Toute décision de la Commission qui modifie le prix équitable doit être motivée et rendue publique.
+- Est considéré comme le prix équitable le prix le plus élevé payé pour les mêmes titres par l’offrant, ou par des personnes agissant de concert avec lui, pendant une période de douze mois précédant l’offre visée au paragraphe (1). Si, après publication de l’offre et avant expiration de la période d’acceptation de celle-ci, l’offrant ou toute personne agissant de concert avec lui acquiert des titres à un prix supérieur au prix de l’offre, l’offrant porte son offre à un prix au moins égal au prix le plus élevé payé pour les titres ainsi acquis. Sous réserve du respect des principes généraux énoncés à l’article 3, la Commission est autorisée à modifier le prix prévu au premier alinéa. Le prix le plus élevé ne peut être modifié, vers le haut ou vers le bas, que si le prix le plus élevé a été fixé par accord entre l’acheteur et un vendeur, ou si les prix de marché des titres en cause ont été manipulés, ou si les prix de marché en général ou certains prix de marché en particulier ont été affectés par des événements exceptionnels, ou pour permettre le sauvetage d’une entreprise en détresse. La Commission utilise dans ces cas des critères clairement définis qui peuvent être la valeur moyenne de marché sur une certaine période, la valeur de liquidation de la société ou d’autres critères objectifs d’évaluation généralement utilisés en analyse financière. Un règlement grand-ducal peut prévoir d’autres circonstances dans lesquelles des dysfonctionnements du marché auraient une incidence sur l’établissement du prix selon l’alinéa 1 du présent paragraphe. Toute décision de la Commission qui modifie le prix équitable doit être motivée et rendue publique.
 
 - L’offrant peut proposer comme contrepartie des titres, des espèces ou une combinaison des deux. Cependant lorsque la contrepartie proposée par l’offrant ne consiste pas en des titres liquides admis à la négociation sur un marché réglementé, cette contrepartie doit porter, à titre d’option, sur des espèces. La liquidité des titres de l’offrant est présumée suffisante soit lorsque ces titres sont diffusés dans le public à concurrence d’au moins 25% du capital souscrit de l’offrant représenté par cette catégorie de titres, soit lorsque, en raison du nombre élevé de titres d’une même catégorie et l’étendue de leur diffusion dans le public, un fonctionnement régulier du marché est assuré avec un pourcentage plus faible. En tout état de cause, l’offrant propose, au moins à titre d’option, une contrepartie en espèces lorsque lui-même ou des personnes agissant de concert avec lui, au cours d’une période commençant au même moment que la période déterminée en application du paragraphe (4) et prenant fin à l’expiration de la période d’acceptation de l’offre, ont acquis contre des espèces des titres conférant 5% ou plus des droits de vote de la société visée.
 
@@ -218,7 +218,7 @@ Information sur l’offre
 
 Les informations satisfont aux exigences suivantes :
 
-- elles sont communiquées dans un format permettant l’extraction de données au sens de l’article 2, point 3), du règlement (UE) 2023/2859 , ou, lorsque le droit de l’Union européenne l’exige, dans un format lisible par machine au sens de l’article 2, point 4), dudit règlement ;
+- elles sont communiquées dans un format permettant l’extraction de données au sens de l’article 2, point 3), du règlement (UE) 2023/2859, ou, lorsque le droit de l’Union européenne l’exige, dans un format lisible par machine au sens de l’article 2, point 4), dudit règlement ;
 
 - elles sont accompagnées des métadonnées suivantes :
 
@@ -265,7 +265,7 @@ Arrangements facultatifs
 
 - La décision de la société est prise par l’assemblée générale des actionnaires, conformément aux règles applicables à la modification des statuts. La décision est notifiée à la Commission ainsi qu’à toutes les autorités de contrôle des Etats membres dans lesquels ses titres sont admis à la négociation sur des marchés réglementés ou dans lesquels une demande à cet effet a été introduite.
 
-- Les sociétés qui appliquent l’article 10, paragraphes (2) et (3), ou l’article 12 sont exemptées d’appliquer l’article 10, paragraphes (2) et (3), ou l’article 12 si elles deviennent l’objet d’une offre lancée par une société qui, quant à elle, n’applique pas ces mêmes articles ou par une société contrôlée directement ou indirectement par une telle société, conformément à l’article 1 er de la directive 83/349/CEE .
+- Les sociétés qui appliquent l’article 10, paragraphes (2) et (3), ou l’article 12 sont exemptées d’appliquer l’article 10, paragraphes (2) et (3), ou l’article 12 si elles deviennent l’objet d’une offre lancée par une société qui, quant à elle, n’applique pas ces mêmes articles ou par une société contrôlée directement ou indirectement par une telle société, conformément à l’article 1er de la directive 83/349/CEE.
 
 - La Commission veille à ce que les dispositions applicables aux différentes sociétés soient divulguées sans délai.
 
@@ -294,7 +294,7 @@ Obligations de l’organe d’administration ou de direction de la société vis
 
 Les informations satisfont aux exigences suivantes :
 
-- elles sont communiquées dans un format permettant l’extraction de données au sens de l’article 2, point 3), du règlement (UE) 2023/2859 , ou, lorsque le droit de l’Union européenne l’exige, dans un format lisible par machine au sens de l’article 2, point 4), dudit règlement ;
+- elles sont communiquées dans un format permettant l’extraction de données au sens de l’article 2, point 3), du règlement (UE) 2023/2859, ou, lorsque le droit de l’Union européenne l’exige, dans un format lisible par machine au sens de l’article 2, point 4), dudit règlement ;
 
 - elles sont accompagnées des métadonnées suivantes :
 
@@ -317,13 +317,13 @@ Aux fins de l’alinéa 2, lettre b), point ii), les sociétés obtiennent un id
 
 Information sur les sociétés mentionnées à l’article 1er, paragraphe (1)
 
-- Les sociétés mentionnées à l’article 1 er , paragraphe (1), doivent publier des informations détaillées sur les points suivants:
+- Les sociétés mentionnées à l’article 1er, paragraphe (1), doivent publier des informations détaillées sur les points suivants:
 
   - la structure de leur capital, y compris les titres qui ne sont pas admis à la négociation sur un marché réglementé d’un Etat membre, avec le cas échéant une indication des différentes catégories d’actions et, pour chaque catégorie d’actions, les droits et obligations qui lui sont attachés et le pourcentage du capital social total qu’elle représente;
 
-  - toute restriction au transfert de titres, telle que des limitations à la possession de titres ou la nécessité d’obtenir une autorisation de la société ou d’autres détenteurs de titres, sans préjudice de l’article 46 de la directive 2001/34/CE ;
+  - toute restriction au transfert de titres, telle que des limitations à la possession de titres ou la nécessité d’obtenir une autorisation de la société ou d’autres détenteurs de titres, sans préjudice de l’article 46 de la directive 2001/34/CE;
 
-  - les participations significatives au capital, directes ou indirectes (par exemple, des participations indirectes au travers de structures pyramidales ou d’actionnariat croisé), au sens de la directive 2004/109/CE ;
+  - les participations significatives au capital, directes ou indirectes (par exemple, des participations indirectes au travers de structures pyramidales ou d’actionnariat croisé), au sens de la directive 2004/109/CE;
 
   - les détenteurs de tout titre comprenant des droits de contrôle spéciaux et une description de ces droits;
 
@@ -331,7 +331,7 @@ Information sur les sociétés mentionnées à l’article 1er, paragraphe (1)
 
   - toute restriction au droit de vote, telle que des limitations du droit de vote pour les détenteurs d’un certain pourcentage ou d’un certain nombre de votes, des délais imposés pour l’exercice du droit de vote ou des systèmes où, avec la coopération de la société, les droits financiers attachés aux titres sont séparés de la détention des titres;
 
-  - les accords entre actionnaires, qui sont connus de la société et peuvent entraîner des restrictions au transfert de titres ou aux droits de vote, au sens de la directive 2004/109/CE ;
+  - les accords entre actionnaires, qui sont connus de la société et peuvent entraîner des restrictions au transfert de titres ou aux droits de vote, au sens de la directive 2004/109/CE;
 
   - les règles applicables à la nomination et au remplacement des membres de l’organe d’administration ou de direction ainsi qu’à la modification des statuts de la société;
 
@@ -350,7 +350,7 @@ Information sur les sociétés mentionnées à l’article 1er, paragraphe (1)
 
 Neutralisation des restrictions
 
-- Sans préjudice des autres droits et obligations prévus par les lois et règlements en vigueur pour les sociétés visées à l’article 1 er , paragraphe (1), les dispositions prévues aux paragraphes (2) à (7) s’appliquent lorsqu’une offre a été rendue publique et lorsqu’une société a décidé de se soumettre à ces règles conformément aux dispositions de l’article 9, sans préjudice des dispositions relatives à une éventuelle exemption en application de l’article 9.
+- Sans préjudice des autres droits et obligations prévus par les lois et règlements en vigueur pour les sociétés visées à l’article 1er, paragraphe (1), les dispositions prévues aux paragraphes (2) à (7) s’appliquent lorsqu’une offre a été rendue publique et lorsqu’une société a décidé de se soumettre à ces règles conformément aux dispositions de l’article 9, sans préjudice des dispositions relatives à une éventuelle exemption en application de l’article 9.
 
 - Toutes les restrictions au transfert de titres prévues dans les statuts de la société visée sont inopposables à l’offrant pendant la période d’acceptation de l’offre prévue à l’article 7, paragraphe (1). Toutes les restrictions au transfert de titres prévues dans des accords contractuels entre la société visée et des détenteurs de titres de cette société ou dans des accords contractuels conclus après le 21 avril 2004 entre des détenteurs de titres de la société visée sont inopposables à l’offrant pendant la période d’acceptation de l’offre prévue à l’article 7, paragraphe (1).
 
@@ -439,9 +439,9 @@ Sanctions
 
   - ceux qui omettent d’aviser au préalable la Commission d’une offre en exécution de l’article 6 (1) de la présente loi,
 
-  - ceux qui refusent de donner à la Commission les renseignements qu’ils sont tenus de lui fournir en vertu de l’article 6 (2), 3 e alinéa de la présente loi ou qui donnent sciemment des renseignements inexacts ou incomplets,
+  - ceux qui refusent de donner à la Commission les renseignements qu’ils sont tenus de lui fournir en vertu de l’article 6 (2), 3e alinéa de la présente loi ou qui donnent sciemment des renseignements inexacts ou incomplets,
 
-  - ceux qui omettent de transmettre le document d’offre aux représentants du personnel, ou lorsqu’il n’existe pas de tels représentants, au personnel lui-même en application de l’article 6 (2), 5 e alinéa de la présente loi.
+  - ceux qui omettent de transmettre le document d’offre aux représentants du personnel, ou lorsqu’il n’existe pas de tels représentants, au personnel lui-même en application de l’article 6 (2), 5e alinéa de la présente loi.
 
 <a id="art-18"></a>
 ## Art. 18.

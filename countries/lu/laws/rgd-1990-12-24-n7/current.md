@@ -53,7 +53,7 @@ Au sens du présent règlement on entend
 
   - le siège de direction des entreprises maritimes visées sub 5a ci-dessus,
 
-  - le siège de l'organisme de la sécurité sociale visé sous 5 o b ci-dessus.
+  - le siège de l'organisme de la sécurité sociale visé sous 5o b ci-dessus.
 
 ##### Section 2. La retenue d'impôt forfaitaire
 

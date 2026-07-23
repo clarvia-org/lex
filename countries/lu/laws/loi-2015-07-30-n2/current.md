@@ -3091,7 +3091,9 @@ Ces engagements se font par dépassement de l’effectif total du personnel et e
 
 - À l’alinéa 3, les termes «nommé(s) à la fonction d’instituteur» sont remplacés par ceux de «admis au stage préparant à la fonction d’instituteur» et les termes «à la fonction arrêtée conformément aux dispositions de l’article 33» sont remplacés par ceux de «arrêtées par le Gouvernement en conseil».
 
-- L’alinéa 4 est complété comme suit: Les admissions au stage se font pour le 1er septembre.
+- L’alinéa 4 est complété comme suit:
+
+Les admissions au stage se font pour le 1er septembre.
 
 - Au dernier alinéa, les termes «les modalités du concours» sont remplacés par ceux de «les modalités du concours et du stage».
 
@@ -3101,7 +3103,11 @@ L’article 6 de la même loi est modifié comme suit:
 
 - À l’alinéa 1er, les termes «nommé(s) à la fonction d’instituteur» sont remplacés par ceux de «admis au stage préparant à la fonction d’instituteur».
 
-- Il est complété par les alinéas suivants: Pour être admis au stage, les candidats doivent fournir la preuve de l’inscription de leur titre d’enseignement supérieur au registre des titres d’enseignement supérieur. L’inscription des diplômes nationaux visée à l’alinéa précédent se fera d’office dans le registre des titres d’enseignement supérieur.
+- Il est complété par les alinéas suivants:
+
+Pour être admis au stage, les candidats doivent fournir la preuve de l’inscription de leur titre d’enseignement supérieur au registre des titres d’enseignement supérieur.
+
+L’inscription des diplômes nationaux visée à l’alinéa précédent se fera d’office dans le registre des titres d’enseignement supérieur.
 
 (3)
 
@@ -3117,9 +3123,17 @@ Les instituteurs sont nommés à la fonction par l’autorité investie du pouvo
 
 L’article 8 de la même loi est modifié comme suit:
 
-- Les alinéas 1er et 2 sont remplacés par les alinéas suivants: Le ministre affecte les instituteurs ainsi que les stagiaires instituteurs soit à une commune, soit à une école ou classe de l’État, soit à un bureau régional de l’inspection. Après les opérations de réaffectation des instituteurs qui ont lieu annuellement dans le cadre de la première liste des postes d’instituteur vacants, le ministre détermine, parmi les postes d’instituteur restés vacants ou devenus vacants, ceux qui sont réservés pour les stagiaires admis au stage au début de l’année scolaire subséquente. Les stagiaires sont affectés en fonction de leur rang au classement établi au concours visé à l’article 5. Cette affectation vaut pour toute la durée du stage. Si cette affectation devient caduque faute de poste disponible soit dans la commune, soit à l’école ou la classe de l’État, soit au bureau régional où le stagiaire a été affecté l’année scolaire précédente, et par dérogation à l’alinéa précédent, le stagiaire est réaffecté d’office, suite à sa demande et après avoir été entendu en ses observations par le ministre ou son délégué, soit à une commune, soit à une école ou classe de l’État, soit au bureau régional du même arrondissement ou d’un arrondissement avoisinant. La réaffectation d’office des stagiaires instituteurs se fait après les opérations de réaffectation des instituteurs.
+- Les alinéas 1er et 2 sont remplacés par les alinéas suivants:
 
-- L’ancien alinéa 4 devenu l’alinéa 5 est remplacé par l’alinéa suivant: Les décisions individuelles de réaffectation d’un instituteur à une école, à une classe de l’État ou à un bureau régional de l’inspection sont prises par le ministre.
+Le ministre affecte les instituteurs ainsi que les stagiaires instituteurs soit à une commune, soit à une école ou classe de l’État, soit à un bureau régional de l’inspection.
+
+Après les opérations de réaffectation des instituteurs qui ont lieu annuellement dans le cadre de la première liste des postes d’instituteur vacants, le ministre détermine, parmi les postes d’instituteur restés vacants ou devenus vacants, ceux qui sont réservés pour les stagiaires admis au stage au début de l’année scolaire subséquente. Les stagiaires sont affectés en fonction de leur rang au classement établi au concours visé à l’article 5. Cette affectation vaut pour toute la durée du stage.
+
+Si cette affectation devient caduque faute de poste disponible soit dans la commune, soit à l’école ou la classe de l’État, soit au bureau régional où le stagiaire a été affecté l’année scolaire précédente, et par dérogation à l’alinéa précédent, le stagiaire est réaffecté d’office, suite à sa demande et après avoir été entendu en ses observations par le ministre ou son délégué, soit à une commune, soit à une école ou classe de l’État, soit au bureau régional du même arrondissement ou d’un arrondissement avoisinant. La réaffectation d’office des stagiaires instituteurs se fait après les opérations de réaffectation des instituteurs.
+
+- L’ancien alinéa 4 devenu l’alinéa 5 est remplacé par l’alinéa suivant:
+
+Les décisions individuelles de réaffectation d’un instituteur à une école, à une classe de l’État ou à un bureau régional de l’inspection sont prises par le ministre.
 
 (5)
 

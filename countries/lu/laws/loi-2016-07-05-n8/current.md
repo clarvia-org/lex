@@ -260,7 +260,7 @@ En cas d'urgence le ministre peut de sa propre autorité ordonner les mesures de
 
 Si les moyens et les mesures de recherche dont dispose le SRE en vertu des articles 5, 6 et 7 s'avèrent inopérants en raison de la nature des faits et des circonstances spécifiques de l'espèce, le SRE peut être autorisé par le Comité et, en cas d'urgence et sous réserve de faire confirmer sa décision dans les meilleurs délais par le Comité, par le ministre à mettre en œuvre les moyens et mesures de recherche suivants pour un ou plusieurs faits qui revêtent un degré de gravité caractérisé et qui ont trait soit à des activités d'espionnage soit à des activités de prolifération d'armes de destruction massive ou de produits liés à la défense et de technologies y afférentes, soit à des activités de terrorisme:
 
-- demander à la CSSF, selon la procédure arrêtée par la CSSF et selon les conditions de l’article 8, paragraphe 3, de la loi du 25 mars 2020 instituant un système électronique central de recherche de données concernant des comptes IBAN et des coffres-forts, de recevoir sans délai les données visées à l’article 2, paragraphe 1 er , de cette loi ;
+- demander à la CSSF, selon la procédure arrêtée par la CSSF et selon les conditions de l’article 8, paragraphe 3, de la loi du 25 mars 2020 instituant un système électronique central de recherche de données concernant des comptes IBAN et des coffres-forts, de recevoir sans délai les données visées à l’article 2, paragraphe 1er, de cette loi ;
 
 - solliciter auprès d'un organisme bancaire ou d'une institution financière les informations relatives aux transactions bancaires qui ont été réalisées, pendant une période déterminée, sur un ou plusieurs comptes bancaires de la personne visée par la mesure de recherche ou de son véritable bénéficiaire économique ainsi que les informations concernant les titulaires ou mandataires qui, pendant une période déterminée, ont ou avaient accès à un ou plusieurs coffres bancaires de la personne visée par la mesure de recherche. L'organisme bancaire ou l'institution financière visée par la demande doit fournir sa réponse sans délai;
 
@@ -324,7 +324,7 @@ Dans le cadre de l'exercice de sa mission, le SRE a accès direct, par un systè
 
 - le registre national des personnes physiques créé par la loi du 19 juin 2013 relative à l'identification des personnes physiques;
 
-- le fichier relatif aux affiliations des salariés, des indépendants et des employeurs géré par le Centre commun de la sécurité sociale sur base de l'article 413 du Code de la sécurité sociale , à l'exclusion de toutes données relatives à la santé;
+- le fichier relatif aux affiliations des salariés, des indépendants et des employeurs géré par le Centre commun de la sécurité sociale sur base de l'article 413 du Code de la sécurité sociale, à l'exclusion de toutes données relatives à la santé;
 
 - le fichier des étrangers exploité pour le compte du service des étrangers du ministre ayant l'Immigration dans ses attributions;
 
@@ -484,7 +484,7 @@ Par dérogation aux dispositions des articles 68 à 73 de la loi précitée du 8
 
 - la Cour des Comptes transmet le compte accompagné de ses observations au ministre, à charge pour ce dernier de les continuer à la commission de contrôle parlementaire;
 
-- à la fin de l'exercice budgétaire le ministre soumet, après consultation du Comité, au ministre ayant le Budget dans ses attributions une proposition quant à la décharge du comptable extraordinaire. La décision relative à la décharge intervient dans les conditions des articles 30 et suivants de la loi précitée du 8 juin 1999 .
+- à la fin de l'exercice budgétaire le ministre soumet, après consultation du Comité, au ministre ayant le Budget dans ses attributions une proposition quant à la décharge du comptable extraordinaire. La décision relative à la décharge intervient dans les conditions des articles 30 et suivants de la loi précitée du 8 juin 1999.
 
 <a id="art-17"></a>
 ## Art. 17.

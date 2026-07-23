@@ -385,7 +385,7 @@ Le conseil d’administration décide sur les points suivants, sous réserve de 
 
   - la politique générale du Fonds, notamment le concept global d’urbanisation et d’aménagement du plateau de Kirchberg,
 
-  - ibis) l' acceptation des missions visées par l’article 2 bis ainsi que la conclusion des conventions prévues par l’article 3, paragraphe 2, organisant le financement de ces missions,
+  - ibis) l' acceptation des missions visées par l’article 2bis ainsi que la conclusion des conventions prévues par l’article 3, paragraphe 2, organisant le financement de ces missions,
 
   - la politique de vente ou d’octroi de droits réels sur des immeubles appartenant au Fonds,
 
@@ -403,7 +403,7 @@ Le conseil d’administration décide sur les points suivants, sous réserve de 
 
   - l’exécution et la mise en oeuvre de la politique générale,
 
-  - ibis) l’exécution et la mise en œuvre des missions visées par l’article 2 bis ,
+  - ibis) l’exécution et la mise en œuvre des missions visées par l’article 2bis,
 
   - les règles d’exécution du budget,
 
@@ -421,7 +421,7 @@ Le président du conseil d’administration ou celui qui le remplace représente
 
 Le président ou son remplaçant peut déléguer ce pouvoir de représentation et de signature conformément aux dispositions qui suivent :
 
-- la délégation de signature en matière financière ne peut concerner que la signature des contrats, commandes et paiements dont les montants n’excèdent pas la somme déterminée par règlement grand-ducal pris en exécution de l’article 20, paragraphe 1 er , alinéa 3, lettre a), de la loi modifiée du 8 avril 2018 sur les marchés publics et établissant le montant en deçà duquel les marchés publics de travaux, de fournitures et de services peuvent être passés soit par procédure restreinte sans publication d’avis, soit par procédure négociée ;
+- la délégation de signature en matière financière ne peut concerner que la signature des contrats, commandes et paiements dont les montants n’excèdent pas la somme déterminée par règlement grand-ducal pris en exécution de l’article 20, paragraphe 1er, alinéa 3, lettre a), de la loi modifiée du 8 avril 2018 sur les marchés publics et établissant le montant en deçà duquel les marchés publics de travaux, de fournitures et de services peuvent être passés soit par procédure restreinte sans publication d’avis, soit par procédure négociée ;
 
 - la délégation de signature en matière administrative ne peut concerner que les documents qui correspondent à la politique établie par le conseil d’administration et qui ne requièrent pas l’attention personnelle du président.
 

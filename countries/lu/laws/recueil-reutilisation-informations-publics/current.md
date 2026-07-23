@@ -83,9 +83,9 @@ La présente loi ne s’applique pas :
 
 - aux documents détenus par des établissements culturels autres que des bibliothèques, y compris des bibliothèques universitaires, des musées et des archives ;
 
-- aux documents détenus par des établissements d’enseignement de niveau secondaire et au-dessous et, dans le cas de tous les autres établissements d’enseignement, aux documents autres que ceux visés au paragraphe 1 er , point 3° ;
+- aux documents détenus par des établissements d’enseignement de niveau secondaire et au-dessous et, dans le cas de tous les autres établissements d’enseignement, aux documents autres que ceux visés au paragraphe 1er, point 3° ;
 
-- aux documents autres que ceux visés au paragraphe 1 er , point 3°, détenus par des organismes exerçant une activité de recherche et des organisations finançant une activité de recherche, y compris des organisations créées pour le transfert des résultats de la recherche.
+- aux documents autres que ceux visés au paragraphe 1er, point 3°, détenus par des organismes exerçant une activité de recherche et des organisations finançant une activité de recherche, y compris des organisations créées pour le transfert des résultats de la recherche.
 
 (3)
 
@@ -124,7 +124,7 @@ Aux fins de la présente loi, on entend par :
 
   - soit ils sont financés majoritairement par l’État, les communes ou d’autres organismes de droit public, soit leur gestion est soumise à un contrôle de ces autorités ou organismes, soit leur organe d’administration, de direction ou de surveillance est composé de membres dont plus de la moitié sont désignés par l’État, les communes ou d’autres organismes de droit public ;
 
-- « entreprise publique » : toute entreprise active dans les domaines visés à l’article 1 er , paragraphe 1 er , point 2°, et sur laquelle les organismes du secteur public peuvent exercer directement ou indirectement une influence dominante du fait de la propriété de l’entreprise, de la participation financière qu’ils y détiennent ou des règles qui la régissent. Une influence dominante des organismes du secteur public sur l’entreprise est présumée dans tous les cas suivants lorsque ces organismes, directement ou indirectement :
+- « entreprise publique » : toute entreprise active dans les domaines visés à l’article 1er, paragraphe 1er, point 2°, et sur laquelle les organismes du secteur public peuvent exercer directement ou indirectement une influence dominante du fait de la propriété de l’entreprise, de la participation financière qu’ils y détiennent ou des règles qui la régissent. Une influence dominante des organismes du secteur public sur l’entreprise est présumée dans tous les cas suivants lorsque ces organismes, directement ou indirectement :
 
   - détiennent la majorité du capital souscrit de l’entreprise ;
 
@@ -299,9 +299,9 @@ Les redevances sont calculées conformément aux principes comptables applicable
 
 La réutilisation des éléments suivantes est gratuite pour l’utilisateur :
 
-- sous réserve de l’article 13, paragraphes 2 et 3, les ensembles de données de forte valeur, dont la liste est établie conformément à l’article 13, paragraphe 1 er ;
+- sous réserve de l’article 13, paragraphes 2 et 3, les ensembles de données de forte valeur, dont la liste est établie conformément à l’article 13, paragraphe 1er ;
 
-- les données de la recherche visées à l’article 1 er , paragraphe 1 er , point 3°.
+- les données de la recherche visées à l’article 1er, paragraphe 1er, point 3°.
 
 <a id="art-n103f9"></a>
 ## Art. 8.

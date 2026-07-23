@@ -85,8 +85,6 @@ Le conseil d’administration peut décider de la mise en place de groupes de tr
 
 ### Le président du conseil d'administration
 
-Le président du conseil d'administration
-
 (5)
 
 Le président représente le Fonds dans les actes publics et sous seing privé; les actions judiciaires sont intentées et défendues au nom du Fonds, poursuite et diligence du président du conseil d'administration.
@@ -117,15 +115,11 @@ Le président du fonds a droit à une indemnité de 75 points indiciaires dont l
 
 ### Les cadres administratifs
 
-Les cadres administratifs
-
 (12)
 
 Le président est assisté par des employés nommés par le conseil d'administration et placés sous la direction et l'autorité de ce comité.
 
 ### Dispositions d'exécution
-
-Dispositions d'exécution
 
 (13)
 
@@ -490,7 +484,7 @@ Pour faire face à ses engagements, le Fonds dispose de moyens financiers proven
 
 - la quote-part dans le produit de la loterie nationale à déterminer par règlement d'administration publique;
 
-- les dons et legs: le Fonds peut recevoir des dons et legs conformément à l'article 910 du Code civil ;
+- les dons et legs: le Fonds peut recevoir des dons et legs conformément à l'article 910 du Code civil;
 
 - La perception des sommes revenant au Fonds en exécution des dispositions de la présente loi;
 

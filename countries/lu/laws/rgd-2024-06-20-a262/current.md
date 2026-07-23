@@ -72,7 +72,7 @@ Lorsqu’une carte bleue européenne est délivrée à un ressortissant de pays 
 
 L’article 1er du règlement grand-ducal modifié du 26 septembre 2008 déterminant le niveau de rémunération minimal pour un travailleur hautement qualifié en exécution de la loi du 29 août 2008 sur la libre circulation des personnes et l’immigration est modifié comme suit :
 
-- À l’alinéa 1 er , les termes et demie sont supprimés.
+- À l’alinéa 1er, les termes et demie sont supprimés.
 
 - Les alinéas 2, 3 et 4 sont supprimés.
 

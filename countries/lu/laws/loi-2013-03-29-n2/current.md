@@ -98,7 +98,7 @@ Aux fins de la présente loi, on entend par:
 
   - lorsque la législation en vigueur le prévoit, une association de personnes à laquelle est reconnue la capacité d’accomplir des actes juridiques, mais qui ne possède pas le statut de personne morale, ou
 
-  - toute autre construction juridique quelles que soient sa nature et sa forme, dotée ou non de la personnalité juridique, possédant ou gérant des actifs qui, y compris le revenu qui en dérive, sont soumis à l’un des impôts visés à l’article 1 er ;
+  - toute autre construction juridique quelles que soient sa nature et sa forme, dotée ou non de la personnalité juridique, possédant ou gérant des actifs qui, y compris le revenu qui en dérive, sont soumis à l’un des impôts visés à l’article 1er;
 
 - «par voie électronique»: au moyen d’équipements électroniques de traitement, y compris la compression numérique, et de stockage des données, par liaison filaire, radio, procédés optiques ou tout autre procédé électromagnétique;
 
@@ -106,7 +106,7 @@ Aux fins de la présente loi, on entend par:
 
 - «échange automatique»:
 
-  - aux fins de l’article 9 bis , paragraphe 1 er , et de l’article 9 ter , la communication systématique à un autre État membre, sans demande préalable, d’informations prédéfinies, à intervalles réguliers préalablement fixés. Aux fins de l’article 9 bis , paragraphe 1 er , les informations disponibles concernent des informations figurant dans les dossiers fiscaux de l’État membre qui communique les informations et pouvant être consultées conformément aux procédures de collecte et de traitement des informations applicables dans cet État membre;
+  - aux fins de l’article 9bis, paragraphe 1er, et de l’article 9ter, la communication systématique à un autre État membre, sans demande préalable, d’informations prédéfinies, à intervalles réguliers préalablement fixés. Aux fins de l’article 9bis, paragraphe 1er, les informations disponibles concernent des informations figurant dans les dossiers fiscaux de l’État membre qui communique les informations et pouvant être consultées conformément aux procédures de collecte et de traitement des informations applicables dans cet État membre;
 
   - aux fins de toutes les dispositions de la présente loi autres que l’article 9bis, paragraphe 1er, et l’article 9ter, la communication systématique des informations prédéfinies fournies conformément au point 1. de la présente lettre;
 
@@ -118,7 +118,7 @@ Aux fins de la présente loi, on entend par:
 
   - porte sur l’interprétation ou l’application d’une disposition législative ou administrative concernant l’administration ou l’application de la législation nationale relative aux taxes et impôts du Grand-Duché de Luxembourg;
 
-  - se rapporte à une opération transfrontière ou à la question de savoir si les activités exercées par une personne dans une autre juridiction créent ou non un établissement stable , ou à la question de savoir si une personne physique est ou non résidente fiscale au Grand-Duché du Luxembourg ; et
+  - se rapporte à une opération transfrontière ou à la question de savoir si les activités exercées par une personne dans une autre juridiction créent ou non un établissement stable, ou à la question de savoir si une personne physique est ou non résidente fiscale au Grand-Duché du Luxembourg ; et
 
   - est établi préalablement aux opérations ou aux activités menées dans une autre juridiction susceptibles de créer un établissement stable, ou préalablement au dépôt d’une déclaration fiscale couvrant la période au cours de laquelle l’opération, la série d’opérations ou les activités ont eu lieu.
 
@@ -140,7 +140,7 @@ Aux fins de la présente loi, on entend par:
 
   - lorsque cette opération ou série d’opérations a une incidence transfrontière. Aux fins de la lettre r), on entend par «opération transfrontière», une opération ou une série d’opérations faisant intervenir des entreprises associées qui ne sont pas toutes résidentes fiscales sur le territoire de la même juridiction, ou une opération ou une série d’opérations qui a une incidence transfrontière;
 
-- Aux fins des lettres r) et s), on entend par «entreprise», toute forme d’exercice d’une activité commerciale ;
+- Aux fins des lettres r) et s), on entend par «entreprise», toute forme d’exercice d’une activité commerciale;
 
 - « contrôle conjoint » : une enquête administrative menée conjointement par les autorités compétentes du Grand-Duché de Luxembourg et d’un ou plusieurs autres États membres, et liée à une ou plusieurs personnes présentant un intérêt commun ou complémentaire pour ces autorités compétentes ;
 
@@ -287,11 +287,11 @@ Les demandes d’informations introduites par application de l’échange d’in
 
 L’Administration des contributions directes communique à l’autorité compétente d’un autre Etat membre, dans le cadre de l’échange automatique, les informations se rapportant aux périodes imposables à compter du 1er janvier 2014 dont elle dispose au sujet des personnes résidant dans cet autre Etat membre et qui concernent les catégories suivantes spécifiques de revenu et de capital:
 
-- les revenus provenant d’une occupation salariée au sens de l’article 95 de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu qui sont passibles de la retenue à la source au titre de l’impôt sur le revenu en vertu de l’article 136, alinéa 1 de cette loi ;
+- les revenus provenant d’une occupation salariée au sens de l’article 95 de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu qui sont passibles de la retenue à la source au titre de l’impôt sur le revenu en vertu de l’article 136, alinéa 1 de cette loi;
 
-- les revenus au sens de l’article 91, alinéa 1, numéro 2 de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu qui sont passibles de la retenue d’impôt sur les tantièmes en vertu de l’article 152, titre 2 de cette loi ;
+- les revenus au sens de l’article 91, alinéa 1, numéro 2 de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu qui sont passibles de la retenue d’impôt sur les tantièmes en vertu de l’article 152, titre 2 de cette loi;
 
-- les revenus résultant de pensions ou de rentes au sens de l’article 96, alinéa 1, numéros 1 et 2 de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu qui sont passibles de la retenue à la source au titre de l’impôt sur le revenu en vertu de l’article 144 de cette loi .
+- les revenus résultant de pensions ou de rentes au sens de l’article 96, alinéa 1, numéros 1 et 2 de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu qui sont passibles de la retenue à la source au titre de l’impôt sur le revenu en vertu de l’article 144 de cette loi.
 
 (1bis)
 
@@ -354,9 +354,9 @@ Nonobstant l’alinéa 1er, lettre b), l’échange d’informations sur les dé
 
 L’échange d’informations est effectué comme suit:
 
-- pour les informations échangées en application du paragraphe 1 er : sans tarder après l’émission, la modification ou le renouvellement des décisions fiscales anticipées en matière transfrontière ou des accords préalables en matière de prix de transfert et au plus tard trois mois après la fin du semestre de l’année civile au cours duquel les décisions fiscales anticipées en matière transfrontière ou les accords préalables en matière de prix de transfert ont été émis, modifiés ou renouvelés ;
+- pour les informations échangées en application du paragraphe 1er : sans tarder après l’émission, la modification ou le renouvellement des décisions fiscales anticipées en matière transfrontière ou des accords préalables en matière de prix de transfert et au plus tard trois mois après la fin du semestre de l’année civile au cours duquel les décisions fiscales anticipées en matière transfrontière ou les accords préalables en matière de prix de transfert ont été émis, modifiés ou renouvelés ;
 
-- pour les informations échangées en application du paragraphe 2: avant le 1 er janvier 2018.
+- pour les informations échangées en application du paragraphe 2: avant le 1er janvier 2018.
 
 (6)
 
@@ -386,7 +386,7 @@ Les informations qui doivent être communiquées par le Grand-Duché de Luxembou
 
 - une mention précisant si les informations communiquées sont basées sur la décision fiscale anticipée en matière transfrontière ou l’accord préalable en matière de prix de transfert proprement dits ou sur la demande visée au paragraphe 3, deuxième alinéa du présent article ;
 
-- Pour les périodes imposables à partir du 1 er janvier 2028, le NIF des personnes visées aux lettres a) et k) du présent paragraphe, lorsqu’il a été obtenu.
+- Pour les périodes imposables à partir du 1er janvier 2028, le NIF des personnes visées aux lettres a) et k) du présent paragraphe, lorsqu’il a été obtenu.
 
 Par dérogation aux lettres a) et k), lorsque la décision fiscale anticipée concerne une personne physique et est communiquée conformément aux paragraphes 1er et 4, l’identification de la personne physique et, le cas échéant, du groupe de personnes auquel celle-ci appartient, doivent également être communiquées par le Grand-Duché de Luxembourg en application des paragraphes 1er et 2.
 
@@ -463,7 +463,7 @@ Les entreprises d’assurances sont considérées comme des responsables du trai
 
 Chaque entreprise d’assurance a l’obligation :
 
-- d’informer chaque personne physique concernée que des informations la concernant seront recueillies et transférées conformément au présent article et à l’article 9 bis , paragraphe 1 quater ;
+- d’informer chaque personne physique concernée que des informations la concernant seront recueillies et transférées conformément au présent article et à l’article 9bis, paragraphe 1quater ;
 
 - de transmettre à chaque personne physique concernée toutes les informations auxquelles elle peut avoir accès qui proviennent du responsable du traitement dans un délai suffisant pour lui permettre d’exercer ses droits en matière de protection des données et, en tout état de cause, avant que les informations ne soient communiquées à l’Administration des contributions directes.
 
@@ -725,7 +725,7 @@ Les formulaires types peuvent être accompagnés de rapports, d’attestations e
 
 Les formulaires types visés au paragraphe 1er comportent au moins les informations suivantes, que doit fournir l’autorité requérante :
 
-- l’identité de la personne faisant l’objet d’un contrôle ou d’une enquête et, dans le cas de demandes concernant un groupe visées à l’article 6 bis , paragraphe 3, une description détaillée du groupe ;
+- l’identité de la personne faisant l’objet d’un contrôle ou d’une enquête et, dans le cas de demandes concernant un groupe visées à l’article 6bis, paragraphe 3, une description détaillée du groupe ;
 
 - la finalité fiscale des informations demandées.
 

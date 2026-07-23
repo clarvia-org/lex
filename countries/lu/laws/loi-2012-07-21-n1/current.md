@@ -57,11 +57,11 @@ La présente loi ne couvre pas:
 
 - les cotisations sociales obligatoires dues à l’Etat du Grand-Duché de Luxembourg ou à un autre Etat membre ou à une de leurs subdivisions ou aux organismes de sécurité sociale relevant du droit public;
 
-- les redevances qui ne sont pas visées au paragraphe 1 er points d) à f);
+- les redevances qui ne sont pas visées au paragraphe 1er points d) à f);
 
 - les droits de nature contractuelle, tels que la contrepartie versée pour un service public;
 
-- les sanctions pénales infligées sur la base de poursuites à la diligence du ministère public ou les autres sanctions pénales qui ne sont pas visées au paragraphe 1 er point d), ni au paragraphe 2.
+- les sanctions pénales infligées sur la base de poursuites à la diligence du ministère public ou les autres sanctions pénales qui ne sont pas visées au paragraphe 1er point d), ni au paragraphe 2.
 
 <a id="art-2"></a>
 ## Art. 2.
@@ -70,11 +70,11 @@ Au sens de la présente loi on entend par:
 
 - «administration fiscale»: l’Administration des contributions directes, l’Administration de l’enregistrement et des domaines, l’Administration des douanes et accises;
 
-- «autorité requérante luxembourgeoise»: le bureau central de liaison, l’administration fiscale qui formule une demande d’assistance concernant une créance visée à l’article 1 er ;
+- «autorité requérante luxembourgeoise»: le bureau central de liaison, l’administration fiscale qui formule une demande d’assistance concernant une créance visée à l’article 1er;
 
 - «autorité requise luxembourgeoise»: le bureau central de liaison, l’administration fiscale à laquelle une demande d’assistance est adressée;
 
-- «autorité requérante»: le bureau central de liaison, un bureau de liaison ou un service de liaison d’un Etat membre de l’Union européenne qui formule une demande d’assistance concernant une créance visée à l’article 1 er ;
+- «autorité requérante»: le bureau central de liaison, un bureau de liaison ou un service de liaison d’un Etat membre de l’Union européenne qui formule une demande d’assistance concernant une créance visée à l’article 1er;
 
 - «autorité requise»: le bureau central de liaison, un bureau de liaison ou un service de liaison d’un Etat membre de l’Union européenne auquel une demande d’assistance est adressée;
 

@@ -44,7 +44,7 @@ L’épreuve spéciale est organisée par le directeur général du Corps grand-
 
 Pour être admis à l’épreuve spéciale, le candidat doit :
 
-- avoir réussi à l’épreuve d’aptitude générale prévue à l’article 1 er ;
+- avoir réussi à l’épreuve d’aptitude générale prévue à l’article 1er ;
 
 - avoir une présentation compatible avec l’exercice de la fonction et le port de l’uniforme. Les modifications corporelles telles que scarifications ou incisions, marquages de fer, stretchings, les tatouages qu’ils soient permanents ou provisoires, ne peuvent ni illustrer l’appartenance à une organisation politique, syndicale, confessionnelle ou associative, ni porter atteinte aux obligations de réserve, de loyauté et d’exemplarité, en particulier pour les modifications corporelles visibles du public.
 

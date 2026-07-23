@@ -34,13 +34,13 @@ Pour l’application du présent règlement grand-ducal, on entend par :
 
 - « Agence » : le groupement d’intérêt économique dénommé « Agence eSanté - Agence nationale des informations partagées dans le domaine de la santé » ;
 
-- « Application dossier de soins partagé » : l’application de la plateforme électronique nationale d’échange et de partage de données de santé visée à l’article 60 ter du Code de la sécurité sociale , ci-après « plateforme », permettant d’accéder, moyennant un compte personnel et dans les conditions du présent règlement grand-ducal, à un dossier de soins partagé ;
+- « Application dossier de soins partagé » : l’application de la plateforme électronique nationale d’échange et de partage de données de santé visée à l’article 60ter du Code de la sécurité sociale, ci-après « plateforme », permettant d’accéder, moyennant un compte personnel et dans les conditions du présent règlement grand-ducal, à un dossier de soins partagé ;
 
 - « Introducteur d’une donnée » : la personne qui introduit une donnée au sein du dossier de soins partagé ;
 
 - « Patient » : toute personne physique qui cherche à bénéficier ou bénéficie de soins de santé, tel que prévu par l’article 2 de la loi modifiée du 24 juillet 2014 relative aux droits et obligations du patient ;
 
-- « Professionnel de santé » : toute personne physique exerçant légalement une profession réglementée du domaine de la santé et tout professionnel de santé, tout établissement hospitalier, ainsi que tout prestataire de soins, exerçant légalement sa profession en dehors du secteur hospitalier visé par l’alinéa second de l’article 61 du Code de la sécurité sociale , tels que prévus à l’article 2 de la loi précitée du 24 juillet 2014 ;
+- « Professionnel de santé » : toute personne physique exerçant légalement une profession réglementée du domaine de la santé et tout professionnel de santé, tout établissement hospitalier, ainsi que tout prestataire de soins, exerçant légalement sa profession en dehors du secteur hospitalier visé par l’alinéa second de l’article 61 du Code de la sécurité sociale, tels que prévus à l’article 2 de la loi précitée du 24 juillet 2014 ;
 
 - « Titulaire » : le patient auquel le dossier de soins partagé est lié.
 
@@ -348,7 +348,7 @@ Pour établir une connexion à l’application dossier de soins partagé, le pro
 
 La procédure de connexion à la plateforme s’effectue obligatoirement en deux étapes :
 
-- une phase d’analyse et de tests destinée à valider la conformité aux exigences techniques, fonctionnelles , organisationnelles et de sécurité requises pour l’accès à l’application dossier de soins partagé ;
+- une phase d’analyse et de tests destinée à valider la conformité aux exigences techniques, fonctionnelles, organisationnelles et de sécurité requises pour l’accès à l’application dossier de soins partagé ;
 
 - une phase de tests et de contrôle pour valider la connexion effective du programme informatique à la plateforme.
 

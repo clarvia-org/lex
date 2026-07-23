@@ -65,7 +65,7 @@ Définitions
 
 Aux fins de la présente loi, on entend par :
 
-- « produits agricoles et alimentaires » : les produits énumérés à l’annexe I du traité sur le fonctionnement de l’Union européenne , ainsi que les produits ne figurant pas dans ladite annexe, mais qui sont transformés en vue d’être utilisés dans l’alimentation humaine en recourant à des produits énumérés dans ladite annexe ;
+- « produits agricoles et alimentaires » : les produits énumérés à l’annexe I du traité sur le fonctionnement de l’Union européenne, ainsi que les produits ne figurant pas dans ladite annexe, mais qui sont transformés en vue d’être utilisés dans l’alimentation humaine en recourant à des produits énumérés dans ladite annexe ;
 
 - « acheteur » : toute personne physique ou morale, indépendamment du lieu d’établissement de cette personne, ou toute autorité publique dans l’Union européenne, qui achète des produits agricoles et alimentaires ; le terme « acheteur » peut englober un groupe de personnes physiques et morales appartenant à cette catégorie ;
 
@@ -120,9 +120,9 @@ Les pratiques commerciales déloyales suivantes sont interdites :
 
 L’interdiction visée à l’alinéa 1er, point 1°, s’entend sans préjudice :
 
-- des conséquences des retards de paiement et des voies de recours au titre de la loi modifiée du 18 avril 2004 relative aux délais de paiement et aux intérêts de retard qui s’appliquent, par dérogation aux délais de paiement fixés dans la loi précitée , sur la base des délais de paiement prévus par la présente loi ;
+- des conséquences des retards de paiement et des voies de recours au titre de la loi modifiée du 18 avril 2004 relative aux délais de paiement et aux intérêts de retard qui s’appliquent, par dérogation aux délais de paiement fixés dans la loi précitée, sur la base des délais de paiement prévus par la présente loi ;
 
-- de la possibilité dont disposent un acheteur et un fournisseur de se mettre d’accord sur une clause de répartition de la valeur au sens de l’article 172 bis du règlement (UE) n° 1308/2013 du Parlement européen et du Conseil du 17 décembre 2013 portant organisation commune des marchés des produits agricoles et abrogeant les règlements (CEE) n° 922/72 , (CEE) n° 234/79 , (CE) n° 1037/2001 et (CE) n° 1234/2007 du Conseil, tel que modifié (ci-après le « règlement 1308/2013 »).
+- de la possibilité dont disposent un acheteur et un fournisseur de se mettre d’accord sur une clause de répartition de la valeur au sens de l’article 172bis du règlement (UE) n° 1308/2013 du Parlement européen et du Conseil du 17 décembre 2013 portant organisation commune des marchés des produits agricoles et abrogeant les règlements (CEE) n° 922/72, (CEE) n° 234/79, (CE) n° 1037/2001 et (CE) n° 1234/2007 du Conseil, tel que modifié (ci-après le « règlement 1308/2013 »).
 
 L’interdiction visée à l’alinéa 1er, point 1°, ne s’applique pas aux paiements :
 
@@ -130,7 +130,7 @@ L’interdiction visée à l’alinéa 1er, point 1°, ne s’applique pas aux p
 
 - effectués dans le cadre d’accords de fourniture entre des fournisseurs de raisins ou de moût destinés à la production de vin et leurs acheteurs directs, pour autant que :
 
-  - les conditions de paiement spécifiques aux opérations de vente soient contenues dans des contrats types qui ont été rendus obligatoires par l’État conformément à l’article 164 du règlement (UE) n° 1308/2013 avant le 1 er janvier 2019, et que l’extension de contrats types soit renouvelée par l’État à compter de cette date sans modification significative des conditions de paiement au détriment des fournisseurs de raisins ou de moût ;
+  - les conditions de paiement spécifiques aux opérations de vente soient contenues dans des contrats types qui ont été rendus obligatoires par l’État conformément à l’article 164 du règlement (UE) n° 1308/2013 avant le 1er janvier 2019, et que l’extension de contrats types soit renouvelée par l’État à compter de cette date sans modification significative des conditions de paiement au détriment des fournisseurs de raisins ou de moût ;
 
   - les accords de fourniture entre les fournisseurs de raisins ou de moût destinés à la production de vin et leurs acheteurs directs soient pluriannuels ou deviennent pluriannuels.
 

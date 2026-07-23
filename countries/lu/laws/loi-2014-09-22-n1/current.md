@@ -96,7 +96,7 @@ Les attributions du Conseil sont les suivantes :
 
 - il prend les décisions concernant les actions judiciaires à intenter et les transactions à conclure ;
 
-- il approuve la convention pluriannuelle visée à l’article 16 bis et les autres conventions à conclure avec l’État ;
+- il approuve la convention pluriannuelle visée à l’article 16bis et les autres conventions à conclure avec l’État ;
 
 - il approuve les partenariats à conclure ;
 

@@ -52,7 +52,7 @@ Sont exclus du champ d’application de la présente loi les secteurs et aides s
 
 - les aides en faveur d’activités liées à l’exportation vers des pays tiers ou des États membres, les aides servant à financer la mise en place et le fonctionnement d’un réseau de distribution ou d’autres dépenses courantes liées à l’activité d’exportation ainsi que les aides subordonnées à l’utilisation de produits nationaux par préférence aux produits importés ;
 
-- les aides en faveur des entreprises qui, au 31 décembre 2019 étaient en difficulté au sens de l’article 2, paragraphe 18, du règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 déclarant certaines catégories d’aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité sont exclues de l’aide prévue à l’article 3. Par dérogation à l’alinéa 1 er , point 5°, l’aide prévue à l’article 3 peut être octroyée à des micros ou petites entreprises qui étaient déjà en difficulté au 31 décembre 2019, dès lors que celles-ci ne font pas l’objet d’une procédure collective d’insolvabilité en vertu du droit national qui leur est applicable et n’ont pas bénéficié d’une aide au sauvetage sous forme de prêt non encore remboursée, d’une aide au sauvetage sous forme d’une garantie à laquelle il n’a pas encore été mis fin ou d’une aide à la restructuration dans le cadre d’un plan de restructuration qui est encore en cours. Ces conditions sont appréciées au moment de l’octroi de l’aide.
+- les aides en faveur des entreprises qui, au 31 décembre 2019 étaient en difficulté au sens de l’article 2, paragraphe 18, du règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 déclarant certaines catégories d’aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité sont exclues de l’aide prévue à l’article 3.Par dérogation à l’alinéa 1er, point 5°, l’aide prévue à l’article 3 peut être octroyée à des micros ou petites entreprises qui étaient déjà en difficulté au 31 décembre 2019, dès lors que celles-ci ne font pas l’objet d’une procédure collective d’insolvabilité en vertu du droit national qui leur est applicable et n’ont pas bénéficié d’une aide au sauvetage sous forme de prêt non encore remboursée, d’une aide au sauvetage sous forme d’une garantie à laquelle il n’a pas encore été mis fin ou d’une aide à la restructuration dans le cadre d’un plan de restructuration qui est encore en cours. Ces conditions sont appréciées au moment de l’octroi de l’aide.
 
 (3)
 
@@ -71,7 +71,7 @@ Aux fins de la présente loi, on entend par :
 
 - « entreprise » : a) l’entreprise commerciale, artisanale ou industrielle disposant d’une autorisation d’établissement délivrée en application de loi modifiée du 2 septembre 2011 réglementant l’accès aux professions d’artisan, de commerçant, d’industriel ainsi qu’à certaines professions libérales ;
 
-  - la personne physique ou morale établie au Luxembourg et qui exerce à titre principal et d’une façon indépendante une des activités visées à l’article 91, alinéa 1 er , numéro 1, de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu ;
+  - la personne physique ou morale établie au Luxembourg et qui exerce à titre principal et d’une façon indépendante une des activités visées à l’article 91, alinéa 1er, numéro 1, de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu ;
 
 - « entreprise unique » : toutes entreprises qui entretiennent entre elles au moins l’une des relations suivantes : Les entreprises qui entretiennent au moins une des relations visées au présent point à travers une ou plusieurs autres entreprises sont également considérées comme une entreprise unique ;
 
@@ -141,7 +141,7 @@ Une demande d’aide doit être soumise au ministre sous forme écrite avant le 
 
 - le nom de l’entreprise requérante ;
 
-- les pièces apportant la preuve que les conditions prévues à l’article 3, paragraphe 1 er , points 2° à 4° sont remplies ;
+- les pièces apportant la preuve que les conditions prévues à l’article 3, paragraphe 1er, points 2° à 4° sont remplies ;
 
 - la taille de l’entreprise conformément à l’annexe I du règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 déclarant certaines catégories d’aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité ;
 
@@ -149,7 +149,7 @@ Une demande d’aide doit être soumise au ministre sous forme écrite avant le 
 
 - la liste des coûts admissibles de l’entreprise et leur montant calculé conformément à l’article 3 ;
 
-- un plan de redressement, y compris une documentation démontrant un lien de causalité direct entre l’événement imprévisible et les difficultés financières temporaires de l’entreprise pendant la période déterminée par le règlement grand-ducal visé à l’article 3, paragraphe 1 er , point 1° ;
+- un plan de redressement, y compris une documentation démontrant un lien de causalité direct entre l’événement imprévisible et les difficultés financières temporaires de l’entreprise pendant la période déterminée par le règlement grand-ducal visé à l’article 3, paragraphe 1er, point 1° ;
 
 - une déclaration attestant l’absence de condamnation visée à l’article 8, paragraphe 4.
 
@@ -225,11 +225,39 @@ Dispositions modificatives
 
 La loi modifiée du 19 décembre 2014 relative 1) aux mesures sociales au bénéfice des artistes professionnels indépendants et des intermittents du spectacle 2) à la promotion de la création artistique est modifiée comme suit :
 
-- L’article 5, paragraphe 3, est complété par trois nouveaux alinéas 3 à 5 qui se lisent comme suit : Pour les artistes professionnels indépendants admis au bénéfice des aides à caractère social, le Fonds social culturel peut intervenir sur demande au-delà de ce qui est prévu par le présent paragraphe, ceci à hauteur maximum du salaire social minimum pour personnes qualifiées et ce : pendant une période au cours de laquelle a lieu un événement imprévisible dont l’impact dommageable sur les activités tombant sous le champ d’application de la présente loi a été constaté par règlement grand-ducal ; lorsque l’artiste professionnel indépendant établit qu’il rencontre des difficultés temporaires à effectuer ses prestations artistiques pendant la période déterminée par règlement grand-ducal ; s’il existe un lien de causalité direct entre l’événement imprévisible et les difficultés à effectuer ses prestations artistiques. Pour être admise au bénéfice des aides à caractère social, l’activité artistique doit, par dérogation à l’article 5, paragraphe 1er, point 3, avoir généré un revenu d’au moins quatre fois le salaire social minimum mensuel pour travailleurs non qualifiés au cours de l’année immédiatement précédant la demande, réduit d’un montant de 714 euros pour chaque mois pendant la période déterminée par règlement grand-ducal. Par événement imprévisible, il y a lieu d’entendre toute circonstance exceptionnelle ou tout ensemble de circonstances exceptionnelles, d’envergure nationale ou internationale.
+- L’article 5, paragraphe 3, est complété par trois nouveaux alinéas 3 à 5 qui se lisent comme suit :
 
-- L’article 6, paragraphe 4, est complété par trois nouveaux alinéas 2 à 4 qui se lisent comme suit : L’intermittent du spectacle admis au bénéfice de l’indemnisation en cas d’inactivité involontaire peut toucher jusqu’à vingt indemnités journalières par mois supplémentaires en cas d’inactivité involontaire par rapport aux 121 indemnités journalières prévues à l’alinéa 1er, et ce : pendant une période au cours de laquelle a lieu un événement imprévisible au sens de l’article 5, paragraphe 3, alinéa 5, dont l’impact dommageable sur les activités tombant sous le champ d’application de la présente loi a été constaté par règlement grand-ducal ; lorsque l’intermittent du spectacle établit qu’il rencontre des difficultés temporaires à offrir ses services tels que prévus par l’article 3 de la présente loi pendant la période déterminée par règlement grand-ducal ; et s’il existe un lien de causalité direct entre l’événement imprévisible et les difficultés à effectuer ses services. Pour être admis au bénéfice des aides à caractère social, l’intermittent du spectacle doit, par dérogation à l’article 6, paragraphe 1er, point 1, justifier d’une période comptant quatre-vingt jours au moins, réduite de 7 jours pour chaque mois pendant la période déterminée par règlement grand-ducal, ceci endéans la période de 365 jours de calendrier précédant la demande d’ouverture des droits en indemnisation. Par événement imprévisible, il y a lieu d’entendre toute circonstance exceptionnelle ou tout ensemble de circonstances exceptionnelles, d’envergure nationale ou internationale.
+Pour les artistes professionnels indépendants admis au bénéfice des aides à caractère social, le Fonds social culturel peut intervenir sur demande au-delà de ce qui est prévu par le présent paragraphe, ceci à hauteur maximum du salaire social minimum pour personnes qualifiées et ce :
 
-- L’article 8 est modifié comme suit : Lorsqu’une période à laquelle il est fait référence à l’article 5, paragraphe 1er, points 2 et 3, et à l’article 6, paragraphe 1er, points 1 et 2, comprend des périodes d’incapacité de travail couvertes par un congé de maladie d’au moins un mois, un congé de maternité, un congé d’accueil ou un congé parental, ou une période au cours de laquelle a lieu un événement imprévisible au sens de l’article 5, paragraphe 3, alinéa 5, dont l’impact dommageable sur les activités tombant sous le champ d’application de la présente loi a été constaté par règlement grand-ducal, la prédite période est suspendue, si nécessaire, pour une période d’une durée égale à celle de l’incapacité de travail ou celle fixée par règlement grand-ducal. Par événement imprévisible, il y a lieu d’entendre toute circonstance exceptionnelle ou tout ensemble de circonstances exceptionnelles, d’envergure nationale ou internationale.
+- pendant une période au cours de laquelle a lieu un événement imprévisible dont l’impact dommageable sur les activités tombant sous le champ d’application de la présente loi a été constaté par règlement grand-ducal ;
+
+- lorsque l’artiste professionnel indépendant établit qu’il rencontre des difficultés temporaires à effectuer ses prestations artistiques pendant la période déterminée par règlement grand-ducal ;
+
+- s’il existe un lien de causalité direct entre l’événement imprévisible et les difficultés à effectuer ses prestations artistiques.
+
+Pour être admise au bénéfice des aides à caractère social, l’activité artistique doit, par dérogation à l’article 5, paragraphe 1er, point 3, avoir généré un revenu d’au moins quatre fois le salaire social minimum mensuel pour travailleurs non qualifiés au cours de l’année immédiatement précédant la demande, réduit d’un montant de 714 euros pour chaque mois pendant la période déterminée par règlement grand-ducal.
+
+Par événement imprévisible, il y a lieu d’entendre toute circonstance exceptionnelle ou tout ensemble de circonstances exceptionnelles, d’envergure nationale ou internationale.
+
+- L’article 6, paragraphe 4, est complété par trois nouveaux alinéas 2 à 4 qui se lisent comme suit :
+
+L’intermittent du spectacle admis au bénéfice de l’indemnisation en cas d’inactivité involontaire peut toucher jusqu’à vingt indemnités journalières par mois supplémentaires en cas d’inactivité involontaire par rapport aux 121 indemnités journalières prévues à l’alinéa 1er, et ce :
+
+- pendant une période au cours de laquelle a lieu un événement imprévisible au sens de l’article 5, paragraphe 3, alinéa 5, dont l’impact dommageable sur les activités tombant sous le champ d’application de la présente loi a été constaté par règlement grand-ducal ;
+
+- lorsque l’intermittent du spectacle établit qu’il rencontre des difficultés temporaires à offrir ses services tels que prévus par l’article 3 de la présente loi pendant la période déterminée par règlement grand-ducal ; et
+
+- s’il existe un lien de causalité direct entre l’événement imprévisible et les difficultés à effectuer ses services.
+
+Pour être admis au bénéfice des aides à caractère social, l’intermittent du spectacle doit, par dérogation à l’article 6, paragraphe 1er, point 1, justifier d’une période comptant quatre-vingt jours au moins, réduite de 7 jours pour chaque mois pendant la période déterminée par règlement grand-ducal, ceci endéans la période de 365 jours de calendrier précédant la demande d’ouverture des droits en indemnisation.
+
+Par événement imprévisible, il y a lieu d’entendre toute circonstance exceptionnelle ou tout ensemble de circonstances exceptionnelles, d’envergure nationale ou internationale.
+
+- L’article 8 est modifié comme suit :
+
+Lorsqu’une période à laquelle il est fait référence à l’article 5, paragraphe 1er, points 2 et 3, et à l’article 6, paragraphe 1er, points 1 et 2, comprend des périodes d’incapacité de travail couvertes par un congé de maladie d’au moins un mois, un congé de maternité, un congé d’accueil ou un congé parental, ou une période au cours de laquelle a lieu un événement imprévisible au sens de l’article 5, paragraphe 3, alinéa 5, dont l’impact dommageable sur les activités tombant sous le champ d’application de la présente loi a été constaté par règlement grand-ducal, la prédite période est suspendue, si nécessaire, pour une période d’une durée égale à celle de l’incapacité de travail ou celle fixée par règlement grand-ducal.
+
+Par événement imprévisible, il y a lieu d’entendre toute circonstance exceptionnelle ou tout ensemble de circonstances exceptionnelles, d’envergure nationale ou internationale.
 
 <a id="art-11"></a>
 ## Art. 11.

@@ -375,7 +375,7 @@ Les consuls prêtent assistance, dans la mesure du possible, aux Luxembourgeois 
 
 - besoin d’aide et de rapatriement en situation d’urgence ;
 
-- besoin de titres de voyage provisoires comme prévu dans la décision 96/409/PESC .
+- besoin de titres de voyage provisoires comme prévu dans la décision 96/409/PESC.
 
 (2)
 

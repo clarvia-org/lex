@@ -56,7 +56,7 @@ Ces prestataires peuvent toutefois se voir imposer des exigences concernant la p
 
 Pour obtenir l'agrément, les requérants doivent:
 
-- remplir les conditions d'honorabilité, tant dans le chef de la personne physique ou des membres des organes dirigeants de la personne morale responsables de la gestion des activités visées à l'article 1 er que dans le chef du personnel dirigeant ou d'encadrement;
+- remplir les conditions d'honorabilité, tant dans le chef de la personne physique ou des membres des organes dirigeants de la personne morale responsables de la gestion des activités visées à l'article 1er que dans le chef du personnel dirigeant ou d'encadrement;
 
 - disposer d'immeubles, de locaux ou de toute autre infrastructure correspondant tant aux normes minima de salubrité et de sécurité qu'aux besoins des usagers;
 
@@ -207,7 +207,7 @@ Peuvent être considérées les dépenses suivantes:
 
 - les frais courants d'entretien et de gestion;
 
-- les dépenses de personnel qui, pour les besoins de la fixation de la participation de l'Etat, sont chiffrées pour la carrière, le grade et l'échelon de chaque employé ou ouvrier, sur base des salaires ou traitements calculés pour les ouvriers d'après les dispositions du contrat collectif des ouvriers de l'Etat, pour les employés/personnel d'encadrement d'après les dispositions de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l'Etat et pour les employés/personnel administratif, d'après les dispositions du règlement modifié du Gouvernement en conseil du 1 er mars 1974 fixant le régime des indemnités des employés occupés dans les administrations et services de l'Etat. La valeur du point indiciaire est fixée par référence à l'art. 1er B) de la loi du 22 juin 1963 portant fixation de la valeur numérique des traitements des fonctionnaires de l'Etat, ainsi que des modalités de mise en vigueur de la loi du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l'Etat, telle qu'elle a été modifiée. Font partie du calcul de la participation de l'Etat, les dépenses encourues par le versement d'une biennale supplémentaire par les organismes aux employés de leurs services. Sont également pris en considération:
+- les dépenses de personnel qui, pour les besoins de la fixation de la participation de l'Etat, sont chiffrées pour la carrière, le grade et l'échelon de chaque employé ou ouvrier, sur base des salaires ou traitements calculés pour les ouvriers d'après les dispositions du contrat collectif des ouvriers de l'Etat, pour les employés/personnel d'encadrement d'après les dispositions de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l'Etat et pour les employés/personnel administratif, d'après les dispositions du règlement modifié du Gouvernement en conseil du 1er mars 1974 fixant le régime des indemnités des employés occupés dans les administrations et services de l'Etat. La valeur du point indiciaire est fixée par référence à l'art. 1er B) de la loi du 22 juin 1963 portant fixation de la valeur numérique des traitements des fonctionnaires de l'Etat, ainsi que des modalités de mise en vigueur de la loi du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l'Etat, telle qu'elle a été modifiée. Font partie du calcul de la participation de l'Etat, les dépenses encourues par le versement d'une biennale supplémentaire par les organismes aux employés de leurs services. Sont également pris en considération:
 
 - les dépenses engendrées par les mesures spécifiques ou générales concernant les rémunérations, les conditions de travail, les avantages sociaux que l'Etat prend pour ses agents;
 
@@ -253,7 +253,7 @@ Il est créée une Commission d'Harmonisation, appelée ci-après la commission,
 
 - de faire des recommandations en vue d'une coordination et d'une planification des différentes activités pour lesquelles l'Etat accorde une participation financière;
 
-- d'étudier, soit de sa propre initiative, soit à la demande du Gouvernement toute question se rapportant aux activités visées à l'article 1 er .
+- d'étudier, soit de sa propre initiative, soit à la demande du Gouvernement toute question se rapportant aux activités visées à l'article 1er.
 
 <a id="art-15"></a>
 ## Art. 15.

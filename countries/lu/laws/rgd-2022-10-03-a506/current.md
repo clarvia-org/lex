@@ -71,7 +71,7 @@ En ce qui concerne les épreuves préliminaires, les dispenses suivantes sont ac
 
   - pour la catégorie de traitement A, groupe de traitement A1 et A2, le candidat doit être détenteur d’un certificat attestant le niveau de compétence C1 tant pour l’oral que pour l’écrit ;
 
-  - pour la catégorie de traitement B, groupe de traitement B1 , le candidat doit être détenteur d’un certificat attestant le niveau de compétence B1 tant pour l’oral que pour l’écrit.
+  - pour la catégorie de traitement B, groupe de traitement B1, le candidat doit être détenteur d’un certificat attestant le niveau de compétence B1 tant pour l’oral que pour l’écrit.
 
 - le candidat ayant réussi à une ou plusieurs épreuves préliminaires de l’examen-concours de recrutement du personnel enseignant de l’enseignement secondaire ou de l’examen-concours d’admission au stage des fonctions de formateur d’adultes est dispensé de cette ou de ces épreuves préliminaires.
 

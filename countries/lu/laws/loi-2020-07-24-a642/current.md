@@ -57,7 +57,7 @@ Aux fins de la présente loi, on entend par :
 
 - « petite entreprise » : toute entreprise répondant aux critères énoncés à l’annexe I du règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 déclarant certaines catégories d’aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité ;
 
-- « produits agricoles » : les produits énumérés à l’annexe I du traité sur le fonctionnement de l’Union européenne , à l’exclusion des produits de la pêche et de l’aquaculture qui relèvent du règlement (UE) 1379/2013 du Parlement européen et du Conseil du 11 décembre 2013, portant organi­sation commune des marchés dans le secteur des produits de la pêche et de l’aquaculture, modifiant les règlements (CE) n° 1184/2006 et (CE) n° 1224/2009 du Conseil et abrogeant le règlement (CE) n° 104/2000 du Conseil ;
+- « produits agricoles » : les produits énumérés à l’annexe I du traité sur le fonctionnement de l’Union européenne, à l’exclusion des produits de la pêche et de l’aquaculture qui relèvent du règlement (UE) 1379/2013 du Parlement européen et du Conseil du 11 décembre 2013, portant organi­sation commune des marchés dans le secteur des produits de la pêche et de l’aquaculture, modifiant les règlements (CE) n° 1184/2006 et (CE) n° 1224/2009 du Conseil et abrogeant le règlement (CE) n° 104/2000 du Conseil ;
 
 - « transformation de produits agricoles » : toute opération portant sur un produit agricole qui aboutit à un produit qui est aussi un produit agricole, à l’exception des activités réalisées dans l’exploitation agricole qui sont nécessaires à la préparation d’un produit animal ou végétal destiné à la première vente ;
 
@@ -103,7 +103,7 @@ Une aide peut être accordée aux entreprises remplissant les conditions suivant
 
 - elles ont été obligées d’arrêter leurs activités en application du règlement grand-ducal du 18 mars 2020 portant introduction d’une série de mesures dans le cadre de la lutte contre le Covid-19 ou elles ont subi une perte du chiffre d’affaires mensuel moyen ou mensuel d’au moins 50 pour cent durant la période comprise entre le 15 mars 2020 et le 15 mai 2020. La perte du chiffre d’affaires est appréciée par rapport au chiffre d’affaires mensuel moyen de l’année 2019 ou du chiffre d’affaires de la même période de l’année 2019 et, pour les entreprises créées après le 15 mars 2019, au chiffre d’affaires mensuel moyen sur la période comprise entre la date de création de l’entreprise et le 14 mars 2020 ;
 
-- elles ont repris l’activité visée à l’article 1 er dans l’ensemble de leurs magasins à la date du 1 er juin 2020 au plus tard et ne l’ont pas cessée par la suite ;
+- elles ont repris l’activité visée à l’article 1er dans l’ensemble de leurs magasins à la date du 1er juin 2020 au plus tard et ne l’ont pas cessée par la suite ;
 
 - elles ne perçoivent pas de subventions destinées à l’indemnisation des chômeurs partiels telles que prévues à la section 2 du livre 5, titre premier, chapitre premier du Code du travail pour le mois pour lequel elles demandent une aide ;
 
@@ -159,7 +159,7 @@ La demande doit parvenir au ministre au plus tard le 15 février 2021 et conteni
 
 - une déclaration attestant le respect des conditions prévues à l’article 4, points 7° à 9° ;
 
-- une déclaration attestant de l’absence de condamnation visée à l’article 3, paragraphe 2 et l’absence des causes d’exclusion visées à l’article 3, paragraphe 1 er ;
+- une déclaration attestant de l’absence de condamnation visée à l’article 3, paragraphe 2 et l’absence des causes d’exclusion visées à l’article 3, paragraphe 1er ;
 
 - un relevé du personnel de l’entreprise avec indication des numéros d’identification nationaux et du taux d’occupation ou, dans le cas visé à l’article 5, paragraphe 2, alinéa 3, un relevé des salariés affectés à l’activité de commerce de détail avec indication des numéros d’identification nationaux et du taux d’occupation ;
 

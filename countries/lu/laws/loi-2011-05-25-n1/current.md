@@ -580,7 +580,7 @@ Les frais occasionnés par les chasses administratives sont à charge:
 
 - du locataire de la chasse lorsqu'il s'agit de fonds chassables loués,
 
-- des propriétaires des fonds lorsqu'il s'agit de fonds où l'exercice de la chasse est interdit ou suspendu en application de l'article 7 alinéas 1 er et 2,
+- des propriétaires des fonds lorsqu'il s'agit de fonds où l'exercice de la chasse est interdit ou suspendu en application de l'article 7 alinéas 1er et 2,
 
 - de l'Etat lorsque l'exercice de la chasse a été interdit ou limité par une disposition réglementaire en application de l'article 7 alinéa 3.
 
@@ -768,7 +768,7 @@ Est puni d'une peine d'emprisonnement de huit jours à six mois et d'une amende 
 
 - toute personne qui a procédé au nourrissage du gibier contrairement à l'article 11;
 
-- toute personne qui a enfreint les dispositions de l'article 14 alinéa 1 er en matière de recherche de gibier blessé;
+- toute personne qui a enfreint les dispositions de l'article 14 alinéa 1er en matière de recherche de gibier blessé;
 
 - toute personne ayant procédé au lâcher d'animaux appartenant aux espèces classées gibier ou d'autres espèces animales en milieu naturel en infraction aux dispositions de l'article 17;
 
@@ -776,7 +776,7 @@ Est puni d'une peine d'emprisonnement de huit jours à six mois et d'une amende 
 
 - tout locataire qui n'a muni ou fait munir le gibier tué sur son territoire de chasse des dispositifs de marquage prévus à l'article 19 et tous ceux qui ont transporté du gibier non muni de ces dispositifs de marquage;
 
-- toute personne qui a transporté, mis en vente ou acheté du gibier pendant le temps où le transport, la mise en vente, le colportage et la vente et l'achat sont prohibés en application de l'article 20 alinéa 1 er
+- toute personne qui a transporté, mis en vente ou acheté du gibier pendant le temps où le transport, la mise en vente, le colportage et la vente et l'achat sont prohibés en application de l'article 20 alinéa 1er
 
 - toute personne, qui par infraction à l'article 20 alinéa 3, a transporté, mis en vente, colporté, vendu, détenu pour les marchands ou acheté pour revendre du gibier pris au moyen d'engins ou d'instruments dont l'usage est interdit.
 
@@ -977,9 +977,9 @@ Les plans pour la chasse aux espèces cerf et chevreuil arrêtés par le ministr
 
 (3)
 
-- Par dérogation à l'article 22, les propriétaires des fonds non bâtis et non retirés sis dans un district de chasse tel que défini à l'article 1 er de la loi du 25 juillet 1925 sur l'amodiation de la chasse et l'indemnisation des dégâts causés par le gibier restent constitués en syndicat de chasse jusqu'à ce que les dispositions sous (8) prennent effet. Les collèges des syndics élus avant l'entrée en vigueur de la présente loi restent en fonction jusqu'à l'expiration normale de leur mandat.
+- Par dérogation à l'article 22, les propriétaires des fonds non bâtis et non retirés sis dans un district de chasse tel que défini à l'article 1er de la loi du 25 juillet 1925 sur l'amodiation de la chasse et l'indemnisation des dégâts causés par le gibier restent constitués en syndicat de chasse jusqu'à ce que les dispositions sous (8) prennent effet. Les collèges des syndics élus avant l'entrée en vigueur de la présente loi restent en fonction jusqu'à l'expiration normale de leur mandat.
 
-- Par dérogation à l'article 21, les lots de chasse actuels, tels qu'ils ont été délimités avant l'entrée en vigueur de la présente loi, sont maintenus pour la prochaine période de location du droit de chasse, quelque soit leur contenance. En cas de relotissement avant la prochaine période de location, la procédure prévue à l'article 1 er de la loi du 25 juillet 1925 sur l'amodiation de la chasse et l'indemnisation des dégâts causés par le gibier reste applicable. Néanmoins, les fonds exclus du district de chasse conformément à l'article 2, alinéa 1 er de la loi du 25 juillet 1925 sur l'amodiation de la chasse et l'indemnisation des dégâts causés par le gibier au moment de l'entrée en vigueur de la présente loi seront incorporés aux lots de chasse, à l'intérieur desquels ils se trouvent, et ce à partir de la prochaine période de location du droit de chasse.
+- Par dérogation à l'article 21, les lots de chasse actuels, tels qu'ils ont été délimités avant l'entrée en vigueur de la présente loi, sont maintenus pour la prochaine période de location du droit de chasse, quelque soit leur contenance. En cas de relotissement avant la prochaine période de location, la procédure prévue à l'article 1er de la loi du 25 juillet 1925 sur l'amodiation de la chasse et l'indemnisation des dégâts causés par le gibier reste applicable. Néanmoins, les fonds exclus du district de chasse conformément à l'article 2, alinéa 1er de la loi du 25 juillet 1925 sur l'amodiation de la chasse et l'indemnisation des dégâts causés par le gibier au moment de l'entrée en vigueur de la présente loi seront incorporés aux lots de chasse, à l'intérieur desquels ils se trouvent, et ce à partir de la prochaine période de location du droit de chasse.
 
 (4)
 
@@ -1007,7 +1007,7 @@ Les dispositions suivantes s'appliquent pour la première fois à partir de la p
 
 - exercice du droit de vote, objet du vote lors de l'assemblée générale selon les dispositions des articles 25 et 30, sans préjudice de la durée de la location telle que fixée par le paragraphe (4) du présent article;
 
-- élections, mode de fonctionnement et pouvoir du collège des syndics selon les dispositions des articles 27, 28, 29 et 33 ainsi que des articles 31 et 32 alinéa 1 er , sans préjudice des dispositions transitoires s'appliquant aux délais visant la cession du droit de chasse par le collège des syndics;
+- élections, mode de fonctionnement et pouvoir du collège des syndics selon les dispositions des articles 27, 28, 29 et 33 ainsi que des articles 31 et 32 alinéa 1er, sans préjudice des dispositions transitoires s'appliquant aux délais visant la cession du droit de chasse par le collège des syndics;
 
 - les conditions nécessaires pour devenir locataire ou colocataire de chasse selon les dispositions des articles 34 et 36 à 41;
 
@@ -1021,7 +1021,7 @@ Les baux qui seront conclus pour la période allant du 1er avril 2021 au 31 mars
 
 - par dérogation à l'article 23, la convocation à la première assemblée générale des syndicats nouvellement constitués selon l'article 22 se fera par l'administration;
 
-- les anciens syndicats composés des propriétaires des fonds non bâtis et non retirés sis dans un district de chasse tel que défini à l'article 1 er de la loi du 25 juillet 1925 sur l'amodiation de la chasse et l'indemnisation des dégâts causés par le gibier sont dissous avec effet au 31 mars 2021. Les collèges des syndics représentant les anciens syndicats et dont le mandat se termine le 31 mars 2021 conformément à l'article 88(6) agissent comme liquidateurs. Le boni de liquidation sera versé au fonds spécial d'indemnisation des dégâts causés par le gibier au plus tard le 31 décembre 2021. Le rapport de liquidation fera l'objet d'une publication conformément à l'article 43. Une copie du rapport sera notifiée au commissaire de district. Les dispositions visant le contrôle et les recours prévus à l'article 43 s'appliqueront le cas échéant.
+- les anciens syndicats composés des propriétaires des fonds non bâtis et non retirés sis dans un district de chasse tel que défini à l'article 1er de la loi du 25 juillet 1925 sur l'amodiation de la chasse et l'indemnisation des dégâts causés par le gibier sont dissous avec effet au 31 mars 2021. Les collèges des syndics représentant les anciens syndicats et dont le mandat se termine le 31 mars 2021 conformément à l'article 88(6) agissent comme liquidateurs. Le boni de liquidation sera versé au fonds spécial d'indemnisation des dégâts causés par le gibier au plus tard le 31 décembre 2021. Le rapport de liquidation fera l'objet d'une publication conformément à l'article 43. Une copie du rapport sera notifiée au commissaire de district. Les dispositions visant le contrôle et les recours prévus à l'article 43 s'appliqueront le cas échéant.
 
 (9)
 

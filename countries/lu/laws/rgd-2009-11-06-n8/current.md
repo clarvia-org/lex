@@ -95,7 +95,7 @@ Le nombre des unités sur support matériel à déposer est fixé comme suit:
 
 - un exemplaire sur support papier et un exemplaire en format numérique pour les thèses, travaux de candidature et mémoires de recherche;
 
-- deux exemplaires pour les publications numériques sur support matériel telles que définies à l'article 1 er , paragraphe 2.
+- deux exemplaires pour les publications numériques sur support matériel telles que définies à l'article 1er, paragraphe 2.
 
 Les publications imprimées et les publications numériques sur support matériel au contenu identique sont considérées comme des publications distinctes et doivent être déposées en autant d'exemplaires et selon les modalités déterminées ci-avant.
 

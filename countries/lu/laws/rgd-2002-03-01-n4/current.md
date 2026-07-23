@@ -47,7 +47,7 @@ Les locaux et les installations de la pharmacie hospitalière doivent répondre 
 
   - les tâches administratives;
 
-- la superficie requise est fonction de l’activité pharmaceutique de l’établissement et de 1,2 m 2 par lit au moins;
+- la superficie requise est fonction de l’activité pharmaceutique de l’établissement et de 1,2 m2 par lit au moins;
 
 - la pharmacie doit pouvoir être fermée à clef et doit être équipée d’un système d’alarme;
 
@@ -119,8 +119,6 @@ Le pharmacien-gérant est responsable de l’achat, du stockage, de la conservat
 
 ### 1. Tâches générales du pharmacien-gérant :
 
-Tâches générales du pharmacien-gérant :
-
 - l’organisation d’une distribution sûre, économique et efficace pour autant que faire se peut sur base de prescriptions médicales nominatives, en vue d’une distribution unitaire dans l’établissement, y compris l’étiquetage individuel de chaque préparation,
 
 - la préparation de médicaments non stériles et stériles. Par préparation, il faut entendre tout traitement de matières premières ou de produits finis ayant pour but de réaliser une nouvelle composition ou une nouvelle forme d’administration du médicament. Le reconditionnement d’un médicament en vue de la préparation de doses unitaires est assimilé à une préparation sous la responsabilité du pharmacien-gérant,
@@ -130,8 +128,6 @@ Tâches générales du pharmacien-gérant :
 - La responsabilité du contrôle de qualité des matières premières et des médicaments.
 
 ### 2. Tâches spécifiques du pharmacien-gérant :
-
-Tâches spécifiques du pharmacien-gérant :
 
 - l’organisation d’un système de distribution efficace, sûr et économique dans les diverses unités hospitalières, la collecte, le traitement et la diffusion, d’une manière structurée, de toutes les informations pharmacologiques, toxicologiques et pharmacotechniques nécessaires concernant les médicaments utilisés à l’hôpital. Toutes ces informations sont tenues à la disposition du corps médical et de tout le personnel impliqué chacun dans son domaine.
 
@@ -154,8 +150,6 @@ Tâches spécifiques du pharmacien-gérant :
 - la participation au comité médico-pharmaceutique et au comité du matériel médical visés à l’article 14 du présent règlement .
 
 ### 3. Tâches administratives du pharmacien-gérant :
-
-Tâches administratives du pharmacien-gérant :
 
 - description des tâches et des obligations du personnel de l’officine,
 
@@ -309,9 +303,27 @@ Le règlement grand-ducal du 2 décembre 1981 fixant les conditions et les modal
 
 Le règlement grand-ducal modifié du 19 février 1974 portant exécution de la loi modifiée du 19 février 1973 sur la vente des substances médicamenteuses et la lutte contre la toxicomanie est modifié comme suit :
 
-- A l’article 2, les alinéas 1 et 2 sont remplacés par les dispositions suivantes : « Nul ne peut détenir, délivrer ou acquérir, à titre onéreux ou gratuit, les substances ou préparations visées à l’article précédent, s’il n’a obtenu l’autorisation préalable du Ministre de la Santé, excepté les catégories de personnes et établissements suivants : Les pharmaciens tenant officine ouverte au public, Les hôpitaux et établissements hospitaliers spécialisés visées par la loi du 28 août 1998 sur les établissements hospitaliers et disposant d’une pharmacie hospitalière. les médecins et médecins-vétérinaires autorisés à détenir des médicaments dans la limite d’une provision pour les soins urgents en vertu de l’article 9 ci-après. A l’exception des personnes visées à l’alinéa 1er sous 1), nul ne peut vendre ou offrir en vente les substances ou préparations visées à l’article 1e r, s’il n’en a pas reçu l’autorisation préalable du Ministre de la Santé . »
+- A l’article 2, les alinéas 1 et 2 sont remplacés par les dispositions suivantes :
 
-- L’article 11 est abrogé et remplacé par les dispositions suivantes : « Art. 11. Les hôpitaux et établissements hospitaliers spécialisés visés à l’article 1er sous a) et b) de la loi du 28 août 1998 sur les établissements hospitaliers qui disposent d’un dépôt de médicaments, peuvent, sur demande écrite adressée au ministre de la Santé, être autorisés à détenir les substances et préparations visés à l’article 1er du présent règlement. L’acquisition de ces substances et préparations se fait à l’aide d’une ordonnance médicale hospitalière collective, extraite d’un carnet à souches, datée et signée par un médecin attaché à l’établissement. L’exécution des ordonnances ne peut être faite que par le pharmacien responsable du dépôt de médicaments. Dans les établissements hospitaliers où il existe une pharmacie hospitalière, l’acquisition des substances et préparations visées à l’article 1er du présent règlement se fait par le pharmacien–gérant auprès des grossistes établis au Luxembourg, au moyen de bons de commande spéciaux dont le modèle est établi par le ministre de la Santé. Ces substances et préparations doivent être conservées dans une armoire à part, avec système de fermeture de sécurité spéciale, et réservée uniquement à cet effet. Elles ne peuvent être administrées qu’aux patients de l’établissement, sur prescription individuelle, au moyen d’une fiche de dispensation spéciale devant comporter au moins les indications suivantes: nom du patient, date de la dispensation, nom et signature du médecin prescripteur, nom et signature de la personne ayant administré le médicament. Le modèle de cette fiche sera établi par le ministre de la Santé. Le pharmacien responsable du dépôt de médicaments, respectivement le pharmacien-gérant de la pharmacie hospitalière doit tenir le registre des entrées et sorties prévues à l’article 5 du présent règlement.
+« Nul ne peut détenir, délivrer ou acquérir, à titre onéreux ou gratuit, les substances ou préparations visées à l’article précédent, s’il n’a obtenu l’autorisation préalable du Ministre de la Santé, excepté les catégories de personnes et établissements suivants :
+
+- Les pharmaciens tenant officine ouverte au public,
+
+- Les hôpitaux et établissements hospitaliers spécialisés visées par la loi du 28 août 1998 sur les établissements hospitaliers et disposant d’une pharmacie hospitalière.
+
+- les médecins et médecins-vétérinaires autorisés à détenir des médicaments dans la limite d’une provision pour les soins urgents en vertu de l’article 9 ci-après. A l’exception des personnes visées à l’alinéa 1er sous 1), nul ne peut vendre ou offrir en vente les substances ou préparations visées à l’article 1e r, s’il n’en a pas reçu l’autorisation préalable du Ministre de la Santé . »
+
+- L’article 11 est abrogé et remplacé par les dispositions suivantes :
+
+« Art. 11.
+
+- Les hôpitaux et établissements hospitaliers spécialisés visés à l’article 1er sous a) et b) de la loi du 28 août 1998 sur les établissements hospitaliers qui disposent d’un dépôt de médicaments, peuvent, sur demande écrite adressée au ministre de la Santé, être autorisés à détenir les substances et préparations visés à l’article 1er du présent règlement. L’acquisition de ces substances et préparations se fait à l’aide d’une ordonnance médicale hospitalière collective, extraite d’un carnet à souches, datée et signée par un médecin attaché à l’établissement. L’exécution des ordonnances ne peut être faite que par le pharmacien responsable du dépôt de médicaments.
+
+- Dans les établissements hospitaliers où il existe une pharmacie hospitalière, l’acquisition des substances et préparations visées à l’article 1er du présent règlement se fait par le pharmacien–gérant auprès des grossistes établis au Luxembourg, au moyen de bons de commande spéciaux dont le modèle est établi par le ministre de la Santé.
+
+- Ces substances et préparations doivent être conservées dans une armoire à part, avec système de fermeture de sécurité spéciale, et réservée uniquement à cet effet. Elles ne peuvent être administrées qu’aux patients de l’établissement, sur prescription individuelle, au moyen d’une fiche de dispensation spéciale devant comporter au moins les indications suivantes: nom du patient, date de la dispensation, nom et signature du médecin prescripteur, nom et signature de la personne ayant administré le médicament. Le modèle de cette fiche sera établi par le ministre de la Santé.
+
+Le pharmacien responsable du dépôt de médicaments, respectivement le pharmacien-gérant de la pharmacie hospitalière doit tenir le registre des entrées et sorties prévues à l’article 5 du présent règlement.
 
 <a id="art-21"></a>
 ## Art. 21.

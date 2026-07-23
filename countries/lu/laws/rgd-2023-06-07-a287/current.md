@@ -70,7 +70,7 @@ L’inscription sur les listes électorales se fait obligatoirement et exclusive
 
 - l’adresse physique postale ;
 
-- le groupe électoral tel que prévu par l’article 1 er ;
+- le groupe électoral tel que prévu par l’article 1er ;
 
 - l’activité principale.
 

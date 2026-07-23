@@ -620,7 +620,7 @@ Les coûts résultant de ces briefings de l’inspecteur pour les experts et org
 
 L’expert ou l’organisme agréé doit informer au préalable de sa visite le responsable ou le délégué, afin que ce dernier puisse notamment:
 
-- assister aux examens, visites et essais et assumer ses charges afférentes d’organisation, de coordination et de gestion, conformément aux dispositions de l’article 9, 4 e alinéa, de la loi et à celles des paragraphes (1.16.02) et (1.16.04) ci-dessus,
+- assister aux examens, visites et essais et assumer ses charges afférentes d’organisation, de coordination et de gestion, conformément aux dispositions de l’article 9, 4e alinéa, de la loi et à celles des paragraphes (1.16.02) et (1.16.04) ci-dessus,
 
 - compléter, mettre à jour et présenter le registre de sécurité local et les livres d’entretien,
 
@@ -3452,9 +3452,9 @@ Extincteurs portatifs d’incendie
 
 Des extincteurs portatifs d’incendie normalisés d’une capacité de 6 kg au moins doivent être disposés dans les établissements assujettis à raison notamment d’au moins:
 
-- 2 appareils par compartiment et par superficie jusqu’à 200 m 2 ,
+- 2 appareils par compartiment et par superficie jusqu’à 200 m2,
 
-- 1 appareil supplémentaire par compartiment pour chaque fraction de superficie supplémentaire jusqu’à 400 m 2 ,
+- 1 appareil supplémentaire par compartiment pour chaque fraction de superficie supplémentaire jusqu’à 400 m2,
 
 - 1 appareil supplémentaire pour chaque salle présentant des risques accrus, telles que les laboratoires, les ateliers, les salles de travaux pratiques et les cuisines,
 

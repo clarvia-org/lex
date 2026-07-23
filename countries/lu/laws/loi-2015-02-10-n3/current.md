@@ -49,7 +49,7 @@ Au sens de la présente loi, on entend par:
 
 - «importateur pétrolier», toute personne physique ou morale établie sur le territoire d’un Etat membre de l’Union européenne qui est inscrite au registre des importateurs pétroliers en raison de l’importation sur le territoire national d’additifs, de biocarburants, d’essence moteur, d’essence aviation, de carburéacteur type essence (carburéacteur type naphta ou JP4), de carburéacteur type kérosène, de gazole/carburant diesel (fuel-oil distillé) ou de fuel-oil (à haute et à basse teneur en soufre), soit aux fins de les mettre directement ou indirectement sur le marché national, soit aux fins de les y consommer pour ses propres besoins, soit pour les réexporter;
 
-- «infrastructure pétrolière de stockage», dépôt, raffinerie ou installation de stockage, y compris toutes les installations connexes, destinés au stockage de produits pétroliers conformément aux dispositions y relatives à l’annexe III et ayant une capacité de stockage totale minimale de 1.000 m 3 ;
+- «infrastructure pétrolière de stockage», dépôt, raffinerie ou installation de stockage, y compris toutes les installations connexes, destinés au stockage de produits pétroliers conformément aux dispositions y relatives à l’annexe III et ayant une capacité de stockage totale minimale de 1.000 m3;
 
 - «ministre», le membre du Gouvernement ayant l’Energie dans ses attributions;
 

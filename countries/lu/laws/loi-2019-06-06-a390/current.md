@@ -246,7 +246,7 @@ Les missions du gestionnaire de l’infrastructure et les modalités de mise en 
 
 - le volume de l'arriéré d'entretien éventuel et les actifs qui seront retirés du service et, partant, généreront des flux financiers différents ;
 
-- les mesures d'incitation visées à l’article 14, paragraphe 1 er ;
+- les mesures d'incitation visées à l’article 14, paragraphe 1er ;
 
 - les obligations d'information minimales incombant au gestionnaire de l'infrastructure en ce qui concerne le contenu et la fréquence de présentation des rapports, y compris les informations à publier chaque année ;
 
@@ -1323,7 +1323,7 @@ Elle veille à assurer une utilisation efficace et optimale des infrastructures.
 
 - arrête, selon les modalités prévues à l’article 56, l’horaire de service qui retrace l’ensemble des mouvements des trains et du matériel roulant programmés sur une période de douze mois à compter du deuxième samedi de décembre à minuit. Des adaptations de l’horaire peuvent intervenir à d’autres dates si les nécessités du trafic le justifient. Ces dates sont coordonnées avec les autres organismes de répartition des capacités européens et publiées au DRR ;
 
-- met en place un cadre pour la répartition des capacités de l'infrastructure, sous réserve que soit satisfaite la condition relative à l'indépendance de gestion prévue au paragraphe 1 er de l'article 48. Des règles spécifiques de répartition des capacités sont établies. L’Administration accomplit les procédures de répartition de ces capacités. Elle veille à ce que les capacités de l'infrastructure soient réparties sur une base équitable et de manière non discriminatoire et dans le respect du droit de l'Union européenne ;
+- met en place un cadre pour la répartition des capacités de l'infrastructure, sous réserve que soit satisfaite la condition relative à l'indépendance de gestion prévue au paragraphe 1er de l'article 48. Des règles spécifiques de répartition des capacités sont établies. L’Administration accomplit les procédures de répartition de ces capacités. Elle veille à ce que les capacités de l'infrastructure soient réparties sur une base équitable et de manière non discriminatoire et dans le respect du droit de l'Union européenne ;
 
 - respecte la confidentialité, sous l'angle commercial, des informations qui lui sont communiquées.
 
@@ -1822,7 +1822,7 @@ Le régulateur et l’Administration sont informés par les candidats sur leurs 
 
 - toute autorité compétente ayant attribué un service ferroviaire de transport de voyageurs sur le trajet défini dans un contrat de service public ;
 
-- toute autre autorité compétente concernée ayant le droit de limiter l'accès en vertu de l’article 28 , paragraphe 4 ; et
+- toute autre autorité compétente concernée ayant le droit de limiter l'accès en vertu de l’article 28, paragraphe 4 ; et
 
 - toute entreprise ferroviaire exécutant le contrat de service public sur le trajet de ce service de transport de voyageurs.
 

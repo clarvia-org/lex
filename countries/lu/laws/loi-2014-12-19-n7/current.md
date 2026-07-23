@@ -71,19 +71,19 @@ Pour autant que le Grand-Duché de Luxembourg est l'Etat membre de l'infraction,
 
 - le dépassement de la limitation réglementaire de la vitesse considéré comme délit en vertu de l'article 11bis de la loi modifiée du 14 février 1955 concernant la réglementation de la circulation sur toutes les voies publiques;
 
-- le dépassement de la limitation réglementaire de la vitesse considéré comme contravention ou contravention grave en vertu de l'article 7 de la loi précitée du 14 février 1955 ;
+- le dépassement de la limitation réglementaire de la vitesse considéré comme contravention ou contravention grave en vertu de l'article 7 de la loi précitée du 14 février 1955;
 
-- le défaut pour le conducteur d'un véhicule de porter la ceinture de sécurité de façon réglementaire ou le fait pour le conducteur d'un véhicule de transporter un mineur qui, selon le cas, ne porte pas la ceinture de sécurité de façon réglementaire ou n'est pas placé de façon réglementaire dans un dispositif de retenue homologué considérés comme contraventions graves en vertu de l'article 7 de la loi précitée du 14 février 1955 ;
+- le défaut pour le conducteur d'un véhicule de porter la ceinture de sécurité de façon réglementaire ou le fait pour le conducteur d'un véhicule de transporter un mineur qui, selon le cas, ne porte pas la ceinture de sécurité de façon réglementaire ou n'est pas placé de façon réglementaire dans un dispositif de retenue homologué considérés comme contraventions graves en vertu de l'article 7 de la loi précitée du 14 février 1955;
 
-- l'inobservation d'un signal B, 1, d'un signal B, 2a ou d'un signal lumineux rouge ou rouge clignotant ou d'un signal lumineux blanc ou jaune à barre horizontale considérée comme contravention grave en vertu de l'article 7 de la loi précitée du 14 février 1955 ;
+- l'inobservation d'un signal B, 1, d'un signal B, 2a ou d'un signal lumineux rouge ou rouge clignotant ou d'un signal lumineux blanc ou jaune à barre horizontale considérée comme contravention grave en vertu de l'article 7 de la loi précitée du 14 février 1955;
 
-- le fait de commettre comme conducteur d'un véhicule un des délits ou une des contraventions graves prévues à l'article 12 de la loi précitée du 14 février 1955 ;
+- le fait de commettre comme conducteur d'un véhicule un des délits ou une des contraventions graves prévues à l'article 12 de la loi précitée du 14 février 1955;
 
-- le défaut pour le conducteur d'un véhicule de porter de façon réglementaire un casque de protection homologué ou le fait pour le conducteur d'un véhicule de transporter un mineur qui ne porte pas de façon réglementaire un casque de protection homologué considérés comme contraventions graves en vertu de l'article 7 de la loi précitée du 14 février 1955 ;
+- le défaut pour le conducteur d'un véhicule de porter de façon réglementaire un casque de protection homologué ou le fait pour le conducteur d'un véhicule de transporter un mineur qui ne porte pas de façon réglementaire un casque de protection homologué considérés comme contraventions graves en vertu de l'article 7 de la loi précitée du 14 février 1955;
 
-- le fait de circuler sur une bande d'arrêt d'urgence, une partie de la chaussée réservée à d'autres usagers ou une voie fermée considéré comme contravention en vertu de l'article 7 de la loi précitée du 14 février 1955 ;
+- le fait de circuler sur une bande d'arrêt d'urgence, une partie de la chaussée réservée à d'autres usagers ou une voie fermée considéré comme contravention en vertu de l'article 7 de la loi précitée du 14 février 1955;
 
-- le fait d'utiliser un téléphone portable ou tout autre équipement de communication en conduisant un véhicule considéré comme contravention grave en vertu de l'article 7 de la loi précitée du 14 février 1955 .
+- le fait d'utiliser un téléphone portable ou tout autre équipement de communication en conduisant un véhicule considéré comme contravention grave en vertu de l'article 7 de la loi précitée du 14 février 1955.
 
 (2)
 

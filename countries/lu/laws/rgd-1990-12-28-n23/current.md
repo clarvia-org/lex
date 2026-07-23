@@ -55,7 +55,7 @@ Les taux prévus à l’article 1er sont réduits à soixante-dix pour cent en c
 <a id="art-3"></a>
 ## Art. 3.
 
-- La valeur moyenne des rémunérations en nature, telle que cette valeur a été fixée par les articles 1 er et 2, ne s’applique qu’aux seuls salariés qui prennent leurs repas au ménage de l’employeur avec les autres membres de ce ménage ou qui obtiennent un entretien complet dans le cadre de l’organisation interne de l’entreprise de l’employeur.
+- La valeur moyenne des rémunérations en nature, telle que cette valeur a été fixée par les articles 1er et 2, ne s’applique qu’aux seuls salariés qui prennent leurs repas au ménage de l’employeur avec les autres membres de ce ménage ou qui obtiennent un entretien complet dans le cadre de l’organisation interne de l’entreprise de l’employeur.
 
 - Pour les salariés qui ne remplissent pas les conditions de l’alinéa 1, la valeur des rémunérations en nature est fixée:
 

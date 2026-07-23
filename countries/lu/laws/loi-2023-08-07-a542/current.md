@@ -65,7 +65,7 @@ Les personnes visées au paragraphe 1er peuvent bénéficier de l’assistance j
 
 - de ressortissants étrangers assimilés aux ressortissants luxembourgeois en matière d’assistance judiciaire par l’effet d’un traité international, ou ;
 
-- de ressortissants de pays tiers en séjour irrégulier en vue du recouvrement des rémunérations dues en application de l’article L. 572-7 du Code du travail .
+- de ressortissants de pays tiers en séjour irrégulier en vue du recouvrement des rémunérations dues en application de l’article L. 572-7 du Code du travail.
 
 (3)
 
@@ -352,7 +352,7 @@ La réponse au formulaire indique obligatoirement :
 
   - les noms, prénoms, âge et profession d’autres personnes vivant dans le cadre d’un foyer commun ;
 
-- la situation de fortune du requérant et des personnes vivant avec lui en communauté domestique, hormis le cas visé à l’article 5, alinéa 1 er , deuxième phrase. Les éléments suivants sont à indiquer, pièces justificatives à l’appui :
+- la situation de fortune du requérant et des personnes vivant avec lui en communauté domestique, hormis le cas visé à l’article 5, alinéa 1er, deuxième phrase. Les éléments suivants sont à indiquer, pièces justificatives à l’appui :
 
   - si la communauté domestique bénéficie du revenu d’inclusion sociale, le requérant doit joindre à sa demande un certificat justificatif délivré par le fonds national de solidarité comportant des détails de calcul pour l’évaluation du montant de l’allocation ;
 

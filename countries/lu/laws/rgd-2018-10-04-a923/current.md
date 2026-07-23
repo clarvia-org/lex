@@ -50,7 +50,7 @@ Un test rapide peut être réalisé chez toute personne, soit dans son intérêt
 
 - un assistant social ;
 
-- un salarié ou un bénévole relevant du champ d’application de loi modifiée du 26 mars 1992 sur l’exercice et la revalorisation de certaines professions de santé, désigné par une association agréée par le ministre ayant la Santé dans ses attributions, ci-après « le ministre » et , ayant suivi la formation prévue à l’article 5 , qui réalisent le test rapide sous la direction et sous la responsabilité d’un médecin.
+- un salarié ou un bénévole relevant du champ d’application de loi modifiée du 26 mars 1992 sur l’exercice et la revalorisation de certaines professions de santé, désigné par une association agréée par le ministre ayant la Santé dans ses attributions, ci-après « le ministre » et , ayant suivi la formation prévue à l’article 5, qui réalisent le test rapide sous la direction et sous la responsabilité d’un médecin.
 
 (2)
 

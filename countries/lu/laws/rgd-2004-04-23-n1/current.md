@@ -210,9 +210,9 @@ Elles doivent être conçues et équipées de façon à ce que les usagers ne so
 
 Pour tout service ne tombant pas sous la législation relative aux établissements dangereux, insalubres ou incommodes et/ou sous la législation relative à la sécurité dans les administrations et les services publics, le gestionnaire des infrastructures veille à ce que:
 
-- pour toute construction, acquisition, transformation substantielle ou location de bâtiments entamées ou effectuées après le 1 er janvier 2009, toutes les cages d'escalier et autres chemins de fuite à l'intérieur du service soient compartimentés et désenfumés et que la qualité du compartimentage soit au minimum de 30 minutes coupe-feu et coupe-fumée,
+- pour toute construction, acquisition, transformation substantielle ou location de bâtiments entamées ou effectuées après le 1er janvier 2009, toutes les cages d'escalier et autres chemins de fuite à l'intérieur du service soient compartimentés et désenfumés et que la qualité du compartimentage soit au minimum de 30 minutes coupe-feu et coupe-fumée,
 
-- pour toute construction, acquisition, transformation substantielle ou location de bâtiments entamées ou effectuées après le 1 er janvier 2009, à partir de tout local servant à un séjour prolongé des usagers, au moins deux voies d'issue de secours réglementaires distinctes mènent indépendamment vers l'extérieur,
+- pour toute construction, acquisition, transformation substantielle ou location de bâtiments entamées ou effectuées après le 1er janvier 2009, à partir de tout local servant à un séjour prolongé des usagers, au moins deux voies d'issue de secours réglementaires distinctes mènent indépendamment vers l'extérieur,
 
 - une procédure d'urgence soit établie, documentée, exercée et révisée annuellement,
 
@@ -390,7 +390,7 @@ Sans préjudice du paragraphe 2 ci-avant,
 
 - a dénomination « service d’accueil de jour » prévue par le règlement grand-ducal du 18 décembre 1998 est remplacée par celle de « service d’activités de jour » en vertu du présent règlement grand-ducal et
 
-- les services bénéficiant d’un agrément comme « service de communication » en vertu du règlement grand-ducal du 18 décembre 1998 , obtiendront d’office de la part du ministre un nouvel agrément comme « service d’information, de consultation et de rencontre » sans que le gestionnaire ait à introduire une nouvelle demande d’agrément.
+- les services bénéficiant d’un agrément comme « service de communication » en vertu du règlement grand-ducal du 18 décembre 1998, obtiendront d’office de la part du ministre un nouvel agrément comme « service d’information, de consultation et de rencontre » sans que le gestionnaire ait à introduire une nouvelle demande d’agrément.
 
 <a id="art-21"></a>
 ## Art. 21.-

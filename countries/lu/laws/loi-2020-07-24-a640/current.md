@@ -124,7 +124,7 @@ Aux fins de la présente loi, on entend par :
 
 - « investissement alternatif » : tout investissement qui permet la même capacité de production ou prestation de services conformément à l’état de la technique dans le secteur en question ;
 
-- « substance extrêmement préoccupante » : une substance figurant sur la liste des substances extrêmement préoccupantes candidates en vue d’une autorisation, telle que publiée sur le site de l’agence européenne des produits chimiques conformément à l’article 59, paragraphe 10, du règlement N° 1907/2006 du 18 décembre 2006 concernant l’enregistrement, l’évaluation et l’autorisation des substances chimiques, ainsi que les restrictions applicables à ces substances (REACH), instituant une agence européenne des produits chimiques, modifiant la directive 1999/45/CE et abrogeant le règlement (CEE) n° 793/93 du Conseil et le règlement (CE) n° 1488/94 de la Commission ainsi que la directive 76/769/CEE du Conseil et les directives 91/155/CEE , 93/67/CEE , 93/105/CE et 2000/21/CE de la Commission.
+- « substance extrêmement préoccupante » : une substance figurant sur la liste des substances extrêmement préoccupantes candidates en vue d’une autorisation, telle que publiée sur le site de l’agence européenne des produits chimiques conformément à l’article 59, paragraphe 10, du règlement N° 1907/2006 du 18 décembre 2006 concernant l’enregistrement, l’évaluation et l’autorisation des substances chimiques, ainsi que les restrictions applicables à ces substances (REACH), instituant une agence européenne des produits chimiques, modifiant la directive 1999/45/CE et abrogeant le règlement (CEE) n° 793/93 du Conseil et le règlement (CE) n° 1488/94 de la Commission ainsi que la directive 76/769/CEE du Conseil et les directives 91/155/CEE, 93/67/CEE, 93/105/CE et 2000/21/CE de la Commission.
 
 <a id="art-3"></a>
 ## Art. 3.
@@ -250,7 +250,7 @@ La demande d’aide doit être soumise au ministre avant le 1er novembre 2021 . 
 
 - un plan de financement du projet d’investissement ;
 
-- une déclaration attestant l’absence de condamnation visée à l’article 1 er , paragraphe 2, point 4° et l’absence des causes d’exclusion visées à l’article 1 er , paragraphe 3.
+- une déclaration attestant l’absence de condamnation visée à l’article 1er, paragraphe 2, point 4° et l’absence des causes d’exclusion visées à l’article 1er, paragraphe 3.
 
 La demande d’aide peut contenir toute autre pièce que l’entreprise requérante estime utile afin de permettre au ministre d’apprécier le bien-fondé de sa demande.
 

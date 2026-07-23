@@ -43,7 +43,7 @@ Aux fins de la présente loi, on entend par :
 
   - un tel dispositif peut avoir des conséquences sur l’échange automatique d’informations ou sur l’identification des bénéficiaires effectifs.
 
-- « dispositif transfrontière devant faire l’objet d’une déclaration » : tout dispositif transfrontière ayant pour objet un ou plusieurs types de taxes et impôts visés à l’article 1 er de la loi modifiée du 29 mars 2013 relative à la coopération administrative dans le domaine fiscal et comportant au moins l’un des marqueurs figurant à l’annexe ;
+- « dispositif transfrontière devant faire l’objet d’une déclaration » : tout dispositif transfrontière ayant pour objet un ou plusieurs types de taxes et impôts visés à l’article 1er de la loi modifiée du 29 mars 2013 relative à la coopération administrative dans le domaine fiscal et comportant au moins l’un des marqueurs figurant à l’annexe ;
 
 - « marqueur » : une caractéristique ou particularité d’un dispositif transfrontière qui indique un risque potentiel d’évasion fiscale, comme recensée à l’annexe ;
 
@@ -224,7 +224,7 @@ L’Administration des contributions directes, à laquelle les informations ont 
 
 Les informations qui doivent être transmises à l’Administration des contributions directes aux fins de leur communication comprennent, le cas échéant, les éléments suivants :
 
-- l’identification des intermédiaires et des contribuables concernés, y compris leur nom, leur date et lieu de naissance (pour les personnes physiques), leur résidence fiscale et leur numéro d’identification fiscale. L’identification de l’intermédiaire n’est pas requise dans le cas où l’intermédiaire visé est un intermédiaire dispensé de l’obligation de déclaration en raison du secret professionnel auquel il est tenu en application de l’article 3, paragraphe 1 er . Dans le cas où une entreprise associée au contribuable concerné participe au dispositif transfrontière devant faire l’objet d’une déclaration, l’identification comprend également le nom, la date et le lieu de naissance (pour les personnes physiques), la résidence fiscale et le numéro d’identification fiscale de cette entreprise associée ;
+- l’identification des intermédiaires et des contribuables concernés, y compris leur nom, leur date et lieu de naissance (pour les personnes physiques), leur résidence fiscale et leur numéro d’identification fiscale. L’identification de l’intermédiaire n’est pas requise dans le cas où l’intermédiaire visé est un intermédiaire dispensé de l’obligation de déclaration en raison du secret professionnel auquel il est tenu en application de l’article 3, paragraphe 1er. Dans le cas où une entreprise associée au contribuable concerné participe au dispositif transfrontière devant faire l’objet d’une déclaration, l’identification comprend également le nom, la date et le lieu de naissance (pour les personnes physiques), la résidence fiscale et le numéro d’identification fiscale de cette entreprise associée ;
 
 - des informations détaillées sur les marqueurs recensés à l’annexe selon lesquels le dispositif transfrontière doit faire l’objet d’une déclaration ;
 
@@ -238,7 +238,7 @@ Les informations qui doivent être transmises à l’Administration des contribu
 
 - l’identification de l’État membre des contribuables concernés ainsi que de tout autre État membre susceptible d’être concerné par le dispositif transfrontière devant faire l’objet d’une déclaration ;
 
-- l’identification de toute autre personne susceptible d’être concernée par le dispositif transfrontière devant faire l’objet d’une déclaration en indiquant à quels États membres cette personne est liée. Pour les informations transmises après le 1 er janvier 2028 ou après cette date, l’identification comprend, pour toute autre personne identifiée sous la présente lettre, le numéro d’identification fiscale.
+- l’identification de toute autre personne susceptible d’être concernée par le dispositif transfrontière devant faire l’objet d’une déclaration en indiquant à quels États membres cette personne est liée. Pour les informations transmises après le 1er janvier 2028 ou après cette date, l’identification comprend, pour toute autre personne identifiée sous la présente lettre, le numéro d’identification fiscale.
 
 (2)
 

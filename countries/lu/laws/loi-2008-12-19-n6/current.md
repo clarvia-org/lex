@@ -337,7 +337,7 @@ La loi modifiée du 20 mars 1970 portant réorganisation de l'Administration de 
 
 - A l'article 2, le paragraphe 2 est remplacé comme suit: (2) Elle comprend la direction, le service d'inspection, le service d'enregistrement et de recette, le service d'imposition et de contrôle de l'impôt sur le chiffre d'affaires, de l'impôt sur les assurances et de l'impôt sur les transports, le service de la conservation des hypothèques, le magasin du timbre et l'administration des domaines.
 
-- Le libellé du titre III Du service d'inspection des bureaux d'enregistrement et de recette est remplacé comme suit: Du service d'inspection .
+- Le libellé du titre III Du service d'inspection des bureaux d'enregistrement et de recette est remplacé comme suit: Du service d'inspection.
 
 ##### Chapitre VI. Dispositions spécifiques à l'Administration des contributions directes
 
@@ -351,13 +351,13 @@ La loi générale des impôts du 22 mai 1931 (Abgabenordnung) est complétée pa
 
 La loi modifiée du 17 avril 1964 portant réorganisation de l'Administration des contributions directes est modifiée comme suit:
 
-- Dans la loi modifiée du 17 avril 1964 portant réorganisation de l'Administration des contributions directes, l'expression règlement d'administration publique est remplacée par l'expression règlement grand-ducal .
+- Dans la loi modifiée du 17 avril 1964 portant réorganisation de l'Administration des contributions directes, l'expression règlement d'administration publique est remplacée par l'expression règlement grand-ducal.
 
 - A l'article 2, le paragraphe 2 est remplacé comme suit: Elle comprend la direction, le service d'imposition, le service de révision et le service de recette.
 
-- A l'article 3, paragraphe 1 er , sub b), l'expression receveurs de 2e classe est supprimée.
+- A l'article 3, paragraphe 1er, sub b), l'expression receveurs de 2e classe est supprimée.
 
-- A l'article 3, le paragraphe 1 er , sub b) est remplacé comme suit: dans la carrière moyenne de l'ingénieur technicien: un ingénieur inspecteur principal 1er en rang un ingénieur inspecteur principal des ingénieurs techniciens inspecteurs des ingénieurs techniciens principaux des ingénieurs techniciens
+- A l'article 3, le paragraphe 1er, sub b) est remplacé comme suit: dans la carrière moyenne de l'ingénieur technicien: un ingénieur inspecteur principal 1er en rang un ingénieur inspecteur principal des ingénieurs techniciens inspecteurs des ingénieurs techniciens principaux des ingénieurs techniciens
 
 - A l'article 3, paragraphe 4, les alinéas 3 et 4 sont à supprimer.
 

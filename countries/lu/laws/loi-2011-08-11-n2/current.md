@@ -116,7 +116,7 @@ Dans l’exercice des attributions prévues aux paragraphes 1er et (2), les memb
 
 - à recevoir communication de tous livres, registres et fichiers relatifs aux substances, équipements et produits visés par le règlement (CE) n° 1005/2009 du Parlement européen et du Conseil du 16 septembre 2009 relatif à des substances qui appauvrissent la couche d’ozone;
 
-- à prélever ou à faire prélever, aux fins d’examen ou d’analyse, des échantillons des substances visées par le règlement (CE) précité . Une partie de l’échantillon, cachetée ou scellée, est remise à l’exploitant ou au détenteur à moins que celui-ci n’y renonce expressément ou que des raisons techniques ne s’y opposent;
+- à prélever ou à faire prélever, aux fins d’examen ou d’analyse, des échantillons des substances visées par le règlement (CE) précité. Une partie de l’échantillon, cachetée ou scellée, est remise à l’exploitant ou au détenteur à moins que celui-ci n’y renonce expressément ou que des raisons techniques ne s’y opposent;
 
 - à saisir et, au besoin, à mettre sous scellés les substances, équipements et produits visés par le règlement (CE) précité ainsi que les livres, registres et fichiers y relatifs.
 

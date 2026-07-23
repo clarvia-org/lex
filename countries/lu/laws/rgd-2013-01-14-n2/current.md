@@ -51,7 +51,7 @@ En cas de renouvellement l’intéressé doit fournir également les information
 
 Lors de la première prestation de services ou en cas de changement matériel relatif à la situation établie par les documents, la déclaration doit être accompagnée des documents suivants:
 
-- une copie d’une pièce d’identité et, le cas échéant, un document attestant le bénéfice des dispositions de la directive 2003/109/CE ou 2004/38/CE , au titre de l’article 52 de la loi modifiée du 29 avril 1983 concernant l’exercice des professions de médecin, de médecin-dentiste et de médecin vétérinaire;
+- une copie d’une pièce d’identité et, le cas échéant, un document attestant le bénéfice des dispositions de la directive 2003/109/CE ou 2004/38/CE, au titre de l’article 52 de la loi modifiée du 29 avril 1983 concernant l’exercice des professions de médecin, de médecin-dentiste et de médecin vétérinaire;
 
 - une attestation certifiant que le détenteur est légalement établi dans cet Etat pour y exercer les activités de médecin ou de médecin-dentiste et qu’il n’encourt, lorsque l’attestation est délivrée, aucune interdiction même temporaire d’exercer;
 
@@ -109,7 +109,7 @@ En cas de renouvellement l’intéressé doit fournir également les information
 
 Lors de la première prestation de services ou en cas de changement matériel relatif à la situation établie par les documents, la déclaration doit être accompagnée des documents suivants:
 
-- une copie d’une pièce d’identité et, le cas échéant, un document attestant le bénéfice des dispositions de la directive 2003/109/CE ou 2004/38/CE , au titre de l’article 52 de la loi modifiée du 29 avril 1983 concernant l’exercice des professions de médecin, de médecin-dentiste et de médecin-vétérinaire;
+- une copie d’une pièce d’identité et, le cas échéant, un document attestant le bénéfice des dispositions de la directive 2003/109/CE ou 2004/38/CE, au titre de l’article 52 de la loi modifiée du 29 avril 1983 concernant l’exercice des professions de médecin, de médecin-dentiste et de médecin-vétérinaire;
 
 - une attestation certifiant que le détenteur est légalement établi dans cet Etat pour y exercer les activités de médecin-vétérinaire et qu’il n’encourt, lorsque l’attestation est délivrée, aucune interdiction même temporaire d’exercer;
 

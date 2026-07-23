@@ -206,9 +206,9 @@ Il est interdit aux établissements de crédit et aux entreprises d’investisse
 
 Il est interdit aux établissements de crédit et aux entreprises d’investissement de s’engager dans des opérations de financement sur titres en utilisant les instruments financiers détenus pour compte d’un client sur un compte global détenu auprès d’un tiers ou d’utiliser de quelque autre manière des instruments financiers détenus sur ce type de compte pour leur propre compte ou le compte de toute autre personne, à moins que, en sus des conditions énoncées au paragraphe 1er, au moins l’une des conditions suivantes ne soit remplie :
 
-- le client dont les instruments financiers sont détenus sur un compte global a au préalable donné son consentement exprès conformément au paragraphe 1 er , point 1 ; ou
+- le client dont les instruments financiers sont détenus sur un compte global a au préalable donné son consentement exprès conformément au paragraphe 1er, point 1 ; ou
 
-- l’établissement de crédit ou l’entreprise d’investissement a mis en place des systèmes et des contrôles lui permettant de s’assurer que seuls les instruments financiers appartenant à des clients qui ont au préalable donné leur consentement exprès conformément au paragraphe 1 er , point 1, seront utilisés de la sorte.
+- l’établissement de crédit ou l’entreprise d’investissement a mis en place des systèmes et des contrôles lui permettant de s’assurer que seuls les instruments financiers appartenant à des clients qui ont au préalable donné leur consentement exprès conformément au paragraphe 1er, point 1, seront utilisés de la sorte.
 
 Les informations enregistrées par l’établissement de crédit ou l’entreprise d’investissement incluent les coordonnées du client dont les instructions sont à l’origine de l’utilisation des instruments financiers et le nombre d’instruments financiers utilisés appartenant à chaque client ayant donné son consentement, de façon à permettre une répartition correcte des pertes éventuelles.
 
@@ -319,7 +319,7 @@ Les établissements de crédit et les entreprises d’investissement déterminen
 
 - si le profil « risque/rémunération » de l’instrument financier est compatible avec le marché cible ; et
 
-- si les caractéristiques de l’instrument financier sont conçues de manière à bénéficier au client et ne sont pas fondées sur un modèle économique qui nécessite, pour être rentable, que les résultats soient défavorables au client ; et
+- si les caractéristiques de l’instrument financier sont conçues de manière à bénéficier au client et ne sont pas fondées sur un modèle économique qui nécessite, pour être rentable, que les résultats soient défavorables au client; et
 
 - si les facteurs de durabilité de l’instrument financier, le cas échéant, sont compatibles avec le marché cible.
 
@@ -475,7 +475,7 @@ Les établissements de crédit et les entreprises d’investissement tiennent à
 
 En ce qui concerne les paiements et avantages reçus de tiers ou versés à des tiers, les établissements de crédit et les entreprises d’investissement fournissent au client les informations suivantes :
 
-- avant la fourniture du service d’investissement ou auxiliaire, l’établissement de crédit ou l’entreprise d’investissement communique au client des informations sur le paiement ou l’avantage concerné conformément à l’article 37-3, paragraphe 3 quinquies , de la loi modifiée du 5 avril 1993 relative au secteur financier. Les avantages non monétaires mineurs peuvent être décrits de façon générique. Les autres avantages non monétaires versés ou reçus par l’établissement de crédit ou l’entreprise d’investissement en lien avec le service d’investissement fourni au client sont décrits séparément et leur tarification est fournie séparément ;
+- avant la fourniture du service d’investissement ou auxiliaire, l’établissement de crédit ou l’entreprise d’investissement communique au client des informations sur le paiement ou l’avantage concerné conformément à l’article 37-3, paragraphe 3quinquies, de la loi modifiée du 5 avril 1993 relative au secteur financier. Les avantages non monétaires mineurs peuvent être décrits de façon générique. Les autres avantages non monétaires versés ou reçus par l’établissement de crédit ou l’entreprise d’investissement en lien avec le service d’investissement fourni au client sont décrits séparément et leur tarification est fournie séparément ;
 
 - lorsqu’un établissement de crédit ou une entreprise d’investissement communique à son client le mode de calcul du montant d’un paiement ou d’un avantage à verser ou à recevoir au lieu du montant exact parce qu’il n’est pas en mesure d’établir ce montant a priori, il fournit ce montant exact à son client a posteriori ; et
 
@@ -590,29 +590,37 @@ Un établissement de crédit ou une entreprise d’investissement fournissant de
 
 Les intitulés des chapitres du règlement-grand-ducal du 13 juillet 2007 relatif à la tenue d’une cote officielle pour instruments financiers sont modifiés comme suit :
 
-- À l’intitulé des chapitres 1 er , 3 et 4, les mots un marché d’instruments financiers sont remplacés par les mots une plate-forme de négociation ;
+- À l’intitulé des chapitres 1er, 3 et 4, les mots un marché d’instruments financiers sont remplacés par les mots une plate-forme de négociation ;
 
-- À l’intitulé du chapitre 2, les mots marché d’instruments financiers sont remplacés par les mots marché réglementé ou d’un MTF .
+- À l’intitulé du chapitre 2, les mots marché d’instruments financiers sont remplacés par les mots marché réglementé ou d’un MTF.
 
 <a id="art-14"></a>
 ## Art. 14.
 
 L’article 1er du même règlement grand-ducal est modifié comme suit :
 
-- La lettre a) prend la teneur suivante : « a) « exploitant d’une plate-forme de négociation » : l’opérateur d’un marché réglementé agréé au Luxembourg, l’opérateur de marché exploitant un MTF ou un OTF au Luxembourg, l’établissement de crédit exploitant un MTF ou un OTF au Luxembourg ou l’entreprise d’investissement exploitant un MTF ou un OTF au Luxembourg ; » ;
+- La lettre a) prend la teneur suivante :
+
+« a) « exploitant d’une plate-forme de négociation » : l’opérateur d’un marché réglementé agréé au Luxembourg, l’opérateur de marché exploitant un MTF ou un OTF au Luxembourg, l’établissement de crédit exploitant un MTF ou un OTF au Luxembourg ou l’entreprise d’investissement exploitant un MTF ou un OTF au Luxembourg ; » ;
 
 - À la lettre b), les mots un marché d’instruments financiers sont remplacés par les mots une plate-forme de négociation ;
 
 - À la lettre d), point ii), les mots parts admis à la négociation sur un marché réglementé sont remplacés par les mots parts en bourse ;
 
-- Le point final à la fin de la lettre e) est remplacé par un point-virgule, et il est inséré une nouvelle lettre f) libellée comme suit : « f) « plate-forme de négociation » : un marché réglementé, un MTF ou un OTF. ».
+- Le point final à la fin de la lettre e) est remplacé par un point-virgule, et il est inséré une nouvelle lettre f) libellée comme suit :
+
+« f) « plate-forme de négociation » : un marché réglementé, un MTF ou un OTF. ».
 
 <a id="art-15"></a>
 ## Art. 15.
 
 L’article 2 du même règlement grand-ducal est modifié comme suit :
 
-- Le paragraphe 1 er prend la teneur suivante : « (1) Les chapitres 1 à 4 déterminent les règles relatives à l’admission d’instruments financiers à la cote officielle de l’exploitant d’une plate-forme de négociation ainsi que les règles relatives à leur suspension ou à leur retrait de la cote officielle. » ;
+- Le paragraphe 1er prend la teneur suivante :
+
+« (1)
+
+Les chapitres 1 à 4 déterminent les règles relatives à l’admission d’instruments financiers à la cote officielle de l’exploitant d’une plate-forme de négociation ainsi que les règles relatives à leur suspension ou à leur retrait de la cote officielle. » ;
 
 - Au paragraphe 2, les mots un marché d’instruments financiers sont remplacés par les mots une plate-forme de négociation .
 
@@ -630,11 +638,15 @@ L’article 3 du même règlement grand-ducal est modifié comme suit :
 
 L’article 4 du même règlement grand-ducal est modifié comme suit :
 
-- Aux paragraphes 1 er , 4, 5 et 6, les mots un marché d’instruments financiers sont remplacés par les mots une plate-forme de négociation ;
+- Aux paragraphes 1er, 4, 5 et 6, les mots un marché d’instruments financiers sont remplacés par les mots une plate-forme de négociation ;
 
-- Au paragraphe 7, alinéa 1 er , les mots un marché d’instruments financiers sont remplacés par les mots une plate-forme de négociation , et les mots du marché d’instruments financiers sont remplacés par les mots de la plate-forme de négociation ;
+- Au paragraphe 7, alinéa 1er, les mots un marché d’instruments financiers sont remplacés par les mots une plate-forme de négociation, et les mots du marché d’instruments financiers sont remplacés par les mots de la plate-forme de négociation ;
 
-- Le paragraphe 8 prend la teneur suivante : « (8) Sans préjudice du droit de la CSSF d’exiger la suspension ou le retrait d’un instrument financier de la cote officielle conformément à l’article 45 de la loi du 30 mai 2018 relative aux marchés d’instruments financiers, l’exploitant d’une plate-forme de négociation peut suspendre ou retirer de la cote officielle un instrument financier qui ne respecte plus les règles de la plate-forme de négociation. ».
+- Le paragraphe 8 prend la teneur suivante :
+
+« (8)
+
+Sans préjudice du droit de la CSSF d’exiger la suspension ou le retrait d’un instrument financier de la cote officielle conformément à l’article 45 de la loi du 30 mai 2018 relative aux marchés d’instruments financiers, l’exploitant d’une plate-forme de négociation peut suspendre ou retirer de la cote officielle un instrument financier qui ne respecte plus les règles de la plate-forme de négociation. ».
 
 <a id="art-18"></a>
 ## Art. 18.

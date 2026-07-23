@@ -68,7 +68,7 @@ L'Administration de l'enregistrement, des domaines et de la TVA, désignée ci-a
 
 - La gestion du registre des dispositions de dernière volonté et du système d'échange d'informations dans le cadre de l'association du réseau européen des registres testamentaires.
 
-- L'exercice de la mission de surveillance et de contrôle dans le cadre de la lutte contre le blanchiment et contre le financement du terrorisme , ainsi que de la surveillance des mesures restrictives en matière financière prises à l’endroit des personnes qui relèvent de la compétence de l’Administration .
+- L'exercice de la mission de surveillance et de contrôle dans le cadre de la lutte contre le blanchiment et contre le financement du terrorisme, ainsi que de la surveillance des mesures restrictives en matière financière prises à l’endroit des personnes qui relèvent de la compétence de l’Administration .
 
 (2)
 
@@ -333,9 +333,9 @@ Les modifications suivantes sont apportées à la loi modifiée du 25 mars 2015 
 
 À l'annexe A - « Classification des fonctions », la rubrique « Administration générale », catégorie de traitement A, groupe de traitement A1, sous-groupe à attributions particulières, est modifiée et complétée comme suit :
 
-- Au grade 17, les mots directeur adjoint de l'administration de l'enregistrement, des domaines et de la TVA sont ajoutés après les mots directeur adjoint de la santé, .
+- Au grade 17, les mots directeur adjoint de l'administration de l'enregistrement, des domaines et de la TVA sont ajoutés après les mots directeur adjoint de la santé,.
 
-- Au grade 18, les mots directeur de l'Administration de l'enregistrement et des domaines sont remplacés par les mots directeur de l'Administration de l'enregistrement, des domaines et de la TVA .
+- Au grade 18, les mots directeur de l'Administration de l'enregistrement et des domaines sont remplacés par les mots directeur de l'Administration de l'enregistrement, des domaines et de la TVA.
 
 #### Chapitre 13 Dispositions abrogatoires et finales
 

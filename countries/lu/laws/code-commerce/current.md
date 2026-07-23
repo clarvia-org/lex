@@ -101,9 +101,9 @@ Pour l'application du présent titre, il faut entendre par «entreprises»
 
 - les commerçants personnes physiques;
 
-- ( L. 30 juillet 2013 ) les sociétés commerciales dotées de la personnalité juridique, les groupements européens d’intérêt économique et les groupements d’intérêt économique ;
+- (L. 30 juillet 2013) les sociétés commerciales dotées de la personnalité juridique, les groupements européens d’intérêt économique et les groupements d’intérêt économique ;
 
-- ( L. 12 juillet 2013 ) les sociétés en commandite spéciale.
+- (L. 12 juillet 2013) les sociétés en commandite spéciale.
 
 Les personnes physiques qui n'ont pas leur domicile au Luxembourg, les entreprises de droit étranger visées au point 2° de l’alinéa 1er ainsi que les groupements européens d'intérêt économique ayant leur siège à l'étranger, ne sont soumis aux dispositions du présent chapitre qu'en ce qui concerne les succursales et sièges d'opérations qu'ils ont établis au Luxembourg. L'ensemble de leurs succursales et sièges d'opérations dans le pays est considéré comme une entreprise. Les livres, comptes et pièces justificatives relatifs à ces sièges et succursales sont conservés au Luxembourg.
 
@@ -565,7 +565,7 @@ Le failli joindra à son aveu:
 
 - le bilan de ses affaires ou une note indiquant les motifs qui l'empêcheraient de le déposer;
 
-- ( L. 19 décembre 2002 ) les livres prescrits par les articles 9 à 11 du Code de commerce ; ces registres seront arrêtés par le greffier, qui constatera l'état où ils se trouvent.
+- (L. 19 décembre 2002) les livres prescrits par les articles 9 à 11 du Code de commerce; ces registres seront arrêtés par le greffier, qui constatera l'état où ils se trouvent.
 
 Le bilan contiendra l'énumération et l'évaluation de tous les biens mobiliers et immobiliers du débiteur, l'état des dettes actives et passives, le tableau des profits et des pertes, le tableau des dépenses; il devra être certifié véritable, daté et signé par le débiteur.
 
@@ -784,7 +784,7 @@ Ne seront susceptibles d'opposition, ni d'appel, ni de requête civile:
 
 - les jugements relatifs à la nomination ou au remplacement du juge-commissaire, à la nomination ou à la révocation des curateurs;
 
-- ( L. 21 juillet 1992 ) les jugements qui statuent sur les demandes de secours pour le failli et sa famille;
+- (L. 21 juillet 1992) les jugements qui statuent sur les demandes de secours pour le failli et sa famille;
 
 - les jugements qui autorisent à vendre les effets ou marchandises appartenant à la faillite, ou, conformément à l'article 453, paragraphe 3, la remise de la vente d'objets saisis;
 
@@ -838,7 +838,7 @@ En cas de faillite d'une société en nom collectif, ou en commandite, les scell
 
 Ne seront point placés sous les scelles, ou en seront extraits et remis aux curateurs:
 
-- ( L. 29 mars 1979 ) les livres du failli, après avoir été arrêtés par le greffier délégué, qui constatera par son procès-verbal l'état dans lequel ils se trouvent;
+- (L. 29 mars 1979) les livres du failli, après avoir été arrêtés par le greffier délégué, qui constatera par son procès-verbal l'état dans lequel ils se trouvent;
 
 - les effets de portefeuille à courte échéance ou susceptibles d'acceptation, ou pour lesquels il faudra faire des actes conservatoires: le bordereau en sera remis au juge-commissaire;
 
@@ -1640,13 +1640,13 @@ Pourra être déclaré banqueroutier simple, tout commerçant qui se trouvera da
 
 - s'il est de nouveau déclaré en faillite, sans avoir satisfait aux obligations d'un précédent concordat;
 
-- ( L. 12 décembre 1972 ) si, ayant dérogé par contrat aux dispositions du régime matrimonial légal, il ne s'est pas conformé à l'article 69;
+- (L. 12 décembre 1972) si, ayant dérogé par contrat aux dispositions du régime matrimonial légal, il ne s'est pas conformé à l'article 69;
 
 - s'il n'a pas fait l'aveu de la cessation de ses paiements dans le délai prescrit par l'article 440; si cet aveu ne contient pas les noms de tous les associés solidaires; si, en le faisant, il n'a pas fourni les renseignements et éclaircissements exigés par l'article 441, ou si ces renseignements ou éclaircissements sont inexacts;
 
 - s'il s'est absenté sans l'autorisation du juge-commissaire ou si, sans empêchement légitime, il ne s'est pas rendu en personne aux convocations qui lui ont été faites par le juge-commissaire ou par les curateurs;
 
-- ( L. 19 décembre 2002 ) s'il n'a pas tenu les livres prescrits par l'article 9; s'il n'a pas fait l'inventaire exigé par l'article 15; si ses livres et inventaires sont incomplets ou irrégulièrement tenus, ou s'ils n'offrent pas sa véritable situation active et passive, sans néanmoins qu'il y ait fraude.
+- (L. 19 décembre 2002) s'il n'a pas tenu les livres prescrits par l'article 9; s'il n'a pas fait l'inventaire exigé par l'article 15; si ses livres et inventaires sont incomplets ou irrégulièrement tenus, ou s'ils n'offrent pas sa véritable situation active et passive, sans néanmoins qu'il y ait fraude.
 
 <a id="art-575"></a>
 ## Art. 575.
@@ -1677,7 +1677,7 @@ Il en sera de même de ceux qui, sans empêchement légitime, ne se seront pas r
 
 Sera déclaré banqueroutier frauduleux, tout commerçant failli qui se trouvera dans l'un des cas suivants:
 
-- ( L. 19 décembre 2002 ) s'il a soustrait en tout ou en partie les livres ou documents comptables visés aux articles 9, 14 et 15 du Code de commerce , ou s'il en a frauduleusement enlevé, effacé ou altéré le contenu;
+- (L. 19 décembre 2002) s'il a soustrait en tout ou en partie les livres ou documents comptables visés aux articles 9, 14 et 15 du Code de commerce, ou s'il en a frauduleusement enlevé, effacé ou altéré le contenu;
 
 - s'il a détourné ou dissimulé une partie de son actif;
 
@@ -2010,7 +2010,7 @@ Abrogés implicitement (L. 18 février 1885)
 
 - de celles relatives aux actes de commerce entre toutes personnes;
 
-- ( L. 25 mars 1991 ) des contestations pour raison d'un groupement d'intérêt économique ou d'un groupement européen d'intérêt économique entre membres, entre gérants, entre gérants et membres, entre liquidateurs, entre liquidateurs et membres ou entre membres, gérants et liquidateurs ainsi que de toute demande en dissolution d'un groupement.
+- (L. 25 mars 1991) des contestations pour raison d'un groupement d'intérêt économique ou d'un groupement européen d'intérêt économique entre membres, entre gérants, entre gérants et membres, entre liquidateurs, entre liquidateurs et membres ou entre membres, gérants et liquidateurs ainsi que de toute demande en dissolution d'un groupement.
 
 <a id="art-632-et-633"></a>
 ## Art. 632 et 633.

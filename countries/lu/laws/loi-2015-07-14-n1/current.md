@@ -48,7 +48,7 @@ L’exercice de la profession de psychothérapeute est subordonné à une autori
 
 - le demandeur doit être ressortissant au sens de l’article 3, point q) de la loi du 28 octobre 2016 relative à la reconnaissance des qualifications professionnelles;
 
-- le demandeur doit être en possession soit d’un master en psychologie clinique ou d’un diplôme en psychologie reconnu équivalent par le ministre, sur avis du Conseil scientifique de psychothérapie, inscrit au registre des titres de formation visé à l’article 66 de la loi du 28 octobre 2016 relative à la reconnaissance des qualifications professionnelles, soit d’un des titres de formation médicale de base dont question à l’article 1 er , paragraphe 1 er , point b) de la loi modifiée du 29 avril 1983 concernant l’exercice des professions de médecin, de médecin-dentiste et de médecin-vétérinaire;
+- le demandeur doit être en possession soit d’un master en psychologie clinique ou d’un diplôme en psychologie reconnu équivalent par le ministre, sur avis du Conseil scientifique de psychothérapie, inscrit au registre des titres de formation visé à l’article 66 de la loi du 28 octobre 2016 relative à la reconnaissance des qualifications professionnelles, soit d’un des titres de formation médicale de base dont question à l’article 1er, paragraphe 1er, point b) de la loi modifiée du 29 avril 1983 concernant l’exercice des professions de médecin, de médecin-dentiste et de médecin-vétérinaire;
 
 - le demandeur doit être titulaire soit d’un diplôme, certificat ou autre titre de formation luxembourgeois relatif à la profession de psychothérapeute, soit d’un diplôme, certificat ou autre titre étranger reconnu équivalent par le ministre ayant l’Enseignement supérieur dans ses attributions, selon les dispositions de la loi du 28 octobre 2016 relative à la reconnaissance des qualifications professionnelles;
 
@@ -166,7 +166,7 @@ Le conseil a pour mission:
 
 Le conseil est composé:
 
-- de quatre psychothérapeutes, dont deux détenteurs d’un master en psychologie, et deux détenteurs du titre de formation de médecin avec formation médicale de base dont question à l’article 1 er , paragraphe 1 er , point b) de la loi modifiée du 29 avril 1983 concernant l’exercice des professions de médecin, de médecin-dentiste et de médecin-vétérinaire, nommés sur proposition du Collège médical,
+- de quatre psychothérapeutes, dont deux détenteurs d’un master en psychologie, et deux détenteurs du titre de formation de médecin avec formation médicale de base dont question à l’article 1er, paragraphe 1er, point b) de la loi modifiée du 29 avril 1983 concernant l’exercice des professions de médecin, de médecin-dentiste et de médecin-vétérinaire, nommés sur proposition du Collège médical,
 
 - d’un représentant de la discipline «psychologie», nommé sur proposition de l’Université du Luxembourg,
 
@@ -327,16 +327,20 @@ Le Code de la sécurité sociale est modifié comme suit:
 
   - l’alinéa 1 prend la teneur suivante: Les actes, services professionnels et prothèses dispensés par les prestataires de soins visés à l’article 61, alinéa 2, points 1) à 7), 12) et 13) et pris en charge par l’assurance maladie-maternité sont inscrits dans des nomenclatures différentes.
 
-  - L’alinéa 2, première phrase prend la teneur suivante: Dans chacune des nomenclatures des prestataires de soins visés à l’article 61, alinéa 2, points 1) à 4), 12) et 13), chaque acte ou service est désigné par la même lettre-clé et par un coefficient.
+  - L’alinéa 2, première phrase prend la teneur suivante:
 
-- A l’article 66, l’alinéa 2 prend la teneur suivante: Les valeurs des lettres-clés des nomenclatures des prestataires de soins visés à l’article 61, alinéa 2, points 1) à 3), 12) et 13) correspondent au nombre cent de l’indice pondéré du coût de la vie au 1er janvier 1948 et sont adaptées suivant les modalités applicables aux traitements et pensions des fonctionnaires de l’Etat.
+Dans chacune des nomenclatures des prestataires de soins visés à l’article 61, alinéa 2, points 1) à 4), 12) et 13), chaque acte ou service est désigné par la même lettre-clé et par un coefficient.
+
+- A l’article 66, l’alinéa 2 prend la teneur suivante:
+
+Les valeurs des lettres-clés des nomenclatures des prestataires de soins visés à l’article 61, alinéa 2, points 1) à 3), 12) et 13) correspondent au nombre cent de l’indice pondéré du coût de la vie au 1er janvier 1948 et sont adaptées suivant les modalités applicables aux traitements et pensions des fonctionnaires de l’Etat.
 
 <a id="art-18"></a>
 ## Art. 18.
 
 La loi du 8 juin 1999 relative au Collège médical est modifiée comme suit:
 
-- L’article 1 er est remplacé par la disposition suivante: Art. 1er. Il existe un Collège médical, qui regroupe les représentants élus des médecins, médecins-dentistes, pharmaciens et psychothérapeutes et qui a la personnalité civile.
+- L’article 1er est remplacé par la disposition suivante: Art. 1er. Il existe un Collège médical, qui regroupe les représentants élus des médecins, médecins-dentistes, pharmaciens et psychothérapeutes et qui a la personnalité civile.
 
 - A l’article 2, les points 1 et 2 sont modifiés comme suit: de veiller à la sauvegarde de l’honneur, de maintenir et de défendre les principes de dignité, de probité, de délicatesse et de compétence devant régir les professions de médecin, de médecin-dentiste, de pharmacien et de psychothérapeute; de veiller à l’observation des règles déontologiques s’appliquant aux médecins, aux médecins-dentistes, aux pharmaciens et aux psychothérapeutes;».
 
@@ -352,7 +356,7 @@ La loi du 8 juin 1999 relative au Collège médical est modifiée comme suit:
 
 - A l’article 9 sont apportées les modifications suivantes:
 
-  - Le paragraphe 1 er est modifié comme suit: (1) Sont éligibles les médecins, médecins-dentistes, pharmaciens et psychothérapeutes qui se portent candidats, qui exercent leur profession au Luxembourg depuis au moins cinq ans à la date des élections et qui répondent aux conditions de l’article 7, ainsi qu’à la condition d’âge dont question à l’article 3.
+  - Le paragraphe 1er est modifié comme suit: (1) Sont éligibles les médecins, médecins-dentistes, pharmaciens et psychothérapeutes qui se portent candidats, qui exercent leur profession au Luxembourg depuis au moins cinq ans à la date des élections et qui répondent aux conditions de l’article 7, ainsi qu’à la condition d’âge dont question à l’article 3.
 
   - Au paragraphe 2, le point 1 prend la teneur suivante: les médecins, médecins-dentistes, pharmaciens et psychothérapeutes assurant la direction d’un hôpital.
 
@@ -366,7 +370,7 @@ La loi du 8 juin 1999 relative au Collège médical est modifiée comme suit:
 
 - Les modifications suivantes sont apportées à l’article 17.
 
-  - Le paragraphe 1 er est modifié comme suit: (1) Le conseil de discipline en matière disciplinaire se compose du président du tribunal d’arrondissement de Luxembourg ou du juge qui le remplace et de seize assesseurs, à savoir quatre pour chacune des professions de médecin, de médecin-dentiste, de pharmacien et de psychothérapeute.
+  - Le paragraphe 1er est modifié comme suit: (1) Le conseil de discipline en matière disciplinaire se compose du président du tribunal d’arrondissement de Luxembourg ou du juge qui le remplace et de seize assesseurs, à savoir quatre pour chacune des professions de médecin, de médecin-dentiste, de pharmacien et de psychothérapeute.
 
   - Au paragraphe 2, il est rajouté un quatrième tiret libellé comme suit: deux par l’association la plus représentative des intérêts des psychothérapeutes.
 

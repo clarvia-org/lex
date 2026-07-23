@@ -145,9 +145,13 @@ L’action en cessation est introduite selon la procédure applicable devant le 
 
 La loi modifiée du 10 août 1991 sur la profession d’avocat est modifiée comme suit:
 
-- Le 5 ème tiret de l’article 2 (1) 2 ème alinéa est libellé comme suit: du Ministre ayant la protection des consommateurs dans ses attributions, du Ministre ayant la santé dans ses attributions, de la Commission de surveillance du secteur financier et du Commissariat aux assurances de se faire représenter par un fonctionnaire ou un agent de leurs administrations, dûment mandaté, devant les juridictions statuant sur base d’une action en cessation prévue par l’article L. 313-1 et suivant du Code de la consommation.
+- Le 5 ème tiret de l’article 2 (1) 2 ème alinéa est libellé comme suit:
 
-- L’alinéa 1 er de l’article 35, paragraphe (3) est libellé comme suit: Le lieu de travail de l’avocat et le secret des communications, par quelque moyen que ce soit, entre l’avocat et son client, sont inviolables. Lorsqu’une mesure de procédure civile ou d’instruction criminelle ou d’inspection prévue par l’article L. 311-8 du Code de la consommation est effectuée auprès ou à l’égard d’un avocat dans les cas prévus par la loi, il ne peut y être procédé qu’en présence du Bâtonnier ou de son représentant, ou ceux-ci dûment appelés.
+- du Ministre ayant la protection des consommateurs dans ses attributions, du Ministre ayant la santé dans ses attributions, de la Commission de surveillance du secteur financier et du Commissariat aux assurances de se faire représenter par un fonctionnaire ou un agent de leurs administrations, dûment mandaté, devant les juridictions statuant sur base d’une action en cessation prévue par l’article L. 313-1 et suivant du Code de la consommation.
+
+- L’alinéa 1 er de l’article 35, paragraphe (3) est libellé comme suit:
+
+Le lieu de travail de l’avocat et le secret des communications, par quelque moyen que ce soit, entre l’avocat et son client, sont inviolables. Lorsqu’une mesure de procédure civile ou d’instruction criminelle ou d’inspection prévue par l’article L. 311-8 du Code de la consommation est effectuée auprès ou à l’égard d’un avocat dans les cas prévus par la loi, il ne peut y être procédé qu’en présence du Bâtonnier ou de son représentant, ou ceux-ci dûment appelés.
 
 (8)
 
@@ -6245,7 +6249,7 @@ Aucune amende administrative ne peut être imposée lorsque le non-respect des o
 
 Il a pour mission:
 
-- ( L. 20 novembre 2025 ) ( L. 23 avril 2026 ) de promouvoir l’échange de vues entre le gouvernement, des représentants des intérêts des consommateurs, et des organisations patronales;
+- ( L. 20 novembre 2025) ( L. 23 avril 2026 ) de promouvoir l’échange de vues entre le gouvernement, des représentants des intérêts des consommateurs, et des organisations patronales;
 
 - de favoriser la concertation entre les représentants des intérêts des consommateurs et les délégués des organisations patronales pour tous les problèmes relevant du domaine de la protection des consommateurs;
 
@@ -8583,7 +8587,18 @@ Le cas échéant
 
 Le taux annuel effectif global visé à l’article L. 224-20, paragraphe 1 du Code de la consommation est calculé selon la formule mathématique et, le cas échéant, selon les hypothèses supplémentaires exposées ci après:
 
-- Équation de base traduisant l’équivalence des prélèvements de crédit, d’une part, et des remboursements et frais, d’autre part. L’équation de base, qui définit le taux annuel effectif global (TAEG), exprime sur base annuelle l’égalité entre, d’une part, la somme des valeurs actualisées des prélèvements de crédit et, d’autre part, la somme des valeurs actualisées des montants des remboursements et paiements des frais, soit: où: - X est le TAEG et - m désigne le numéro d’ordre du dernier prélèvement de crédit - k désigne le numéro d’ordre d’un prélèvement de crédit, donc 1≤ k ≤ m, - C k est le montant du prélèvement de crédit numéro k, - t k désigne l’intervalle de temps, exprimé en années et fractions d’années, entre la date du premier prélèvement de crédit et la date de chaque prélèvement de crédit, donc t1 = 0, - m’ est le numéro d’ordre du dernier remboursement ou paiement des frais, - l est le numéro d’ordre d’un remboursement ou paiement des frais, - D l est le montant d’un remboursement ou paiement des frais, - s l est l’intervalle de temps, exprimé en années et fractions d’années, entre la date du premier prélèvement de crédit et la date de chaque remboursement ou paiement des frais. Remarques S étant le solde des flux actualisés et dont la valeur sera nulle si on veut conserver l’équivalence des flux.
+- Équation de base traduisant l’équivalence des prélèvements de crédit, d’une part, et des remboursements et frais, d’autre part. L’équation de base, qui définit le taux annuel effectif global (TAEG), exprime sur base annuelle l’égalité entre, d’une part, la somme des valeurs actualisées des prélèvements de crédit et, d’autre part, la somme des valeurs actualisées des montants des remboursements et paiements des frais, soit: où: Remarques S étant le solde des flux actualisés et dont la valeur sera nulle si on veut conserver l’équivalence des flux.
+
+| - | X | est le TAEG et |
+| --- | --- | --- |
+| - | m | désigne le numéro d’ordre du dernier prélèvement de crédit |
+| - | k | désigne le numéro d’ordre d’un prélèvement de crédit, donc 1≤ k ≤ m, |
+| - | C k | est le montant du prélèvement de crédit numéro k, |
+| - | t k | désigne l’intervalle de temps, exprimé en années et fractions d’années, entre la date du premier prélèvement de crédit et la date de chaque prélèvement de crédit, donc t1 = 0, |
+| - | m’ | est le numéro d’ordre du dernier remboursement ou paiement des frais, |
+| - | l | est le numéro d’ordre d’un remboursement ou paiement des frais, |
+| - | D l | est le montant d’un remboursement ou paiement des frais, |
+| - | s l | est l’intervalle de temps, exprimé en années et fractions d’années, entre la date du premier prélèvement de crédit et la date de chaque remboursement ou paiement des frais. |
 
   - Les montants payés de part et d’autre à différents moments ne sont pas nécessairement égaux et ne sont pas nécessairement versés à des intervalles réguliers.
 
@@ -9085,7 +9100,18 @@ L’autorité compétente pour la surveillance du stade précontractuel de l’a
 
 Le taux annuel effectif global (TAEG) visé à l’article L. 226-19, paragraphe 6 du Code de la consommation est calculé selon la formule mathématique, et le cas échéant, selon les hypothèses supplémentaires exposées ci-après:
 
-- Équation de base traduisant l’équivalence des prélèvements de crédit (drawdowns), d’une part, et des remboursements et frais, d’autre part. L’équation de base, qui définit le taux annuel effectif global (TAEG) exprime sur une base annuelle l’égalité entre, d’une part, la somme des valeurs actualisées des prélèvements de crédit et, d’autre part, la somme des valeurs actualisées des remboursements et paiements de frais, soit: où, - X est le TAEG; - m désigne le numéro d’ordre du dernier prélèvement de crédit; - k désigne le numéro d’ordre d’un prélèvement de crédit, donc 1 ≤ k ≤ m; - C k est le montant du prélèvement de crédit numéro k; - t k désigne l’intervalle de temps, exprimé en années et fractions d’année, entre la date du premier prélèvement de crédit et la date de chaque prélèvement de crédit, donc t1 = 0; - m’ est le numéro d’ordre du dernier remboursement ou paiement des frais; - l est le numéro d’ordre d’un remboursement ou paiement des frais; - D l est le montant d’un remboursement ou paiement des frais; - S l est l’intervalle de temps, exprimé en années et fractions d’années, entre la date du premier prélèvement de crédit et la date de chaque remboursement ou paiement des frais. Remarques: S étant le solde des flux actualisés et dont la valeur sera nulle si on veut conserver l’équivalence des flux.
+- Équation de base traduisant l’équivalence des prélèvements de crédit (drawdowns), d’une part, et des remboursements et frais, d’autre part. L’équation de base, qui définit le taux annuel effectif global (TAEG) exprime sur une base annuelle l’égalité entre, d’une part, la somme des valeurs actualisées des prélèvements de crédit et, d’autre part, la somme des valeurs actualisées des remboursements et paiements de frais, soit: où, Remarques: S étant le solde des flux actualisés et dont la valeur sera nulle si on veut conserver l’équivalence des flux.
+
+| - | X | est le TAEG; |
+| --- | --- | --- |
+| - | m | désigne le numéro d’ordre du dernier prélèvement de crédit; |
+| - | k | désigne le numéro d’ordre d’un prélèvement de crédit, donc 1 ≤ k ≤ m; |
+| - | C k | est le montant du prélèvement de crédit numéro k; |
+| - | t k | désigne l’intervalle de temps, exprimé en années et fractions d’année, entre la date du premier prélèvement de crédit et la date de chaque prélèvement de crédit, donc t1 = 0; |
+| - | m’ | est le numéro d’ordre du dernier remboursement ou paiement des frais; |
+| - | l | est le numéro d’ordre d’un remboursement ou paiement des frais; |
+| - | D l | est le montant d’un remboursement ou paiement des frais; |
+| - | S l | est l’intervalle de temps, exprimé en années et fractions d’années, entre la date du premier prélèvement de crédit et la date de chaque remboursement ou paiement des frais. |
 
   - Les montants payés de part et d’autre à différents moments ne sont pas nécessairement égaux et ne sont pas nécessairement versés à des intervalles réguliers.
 

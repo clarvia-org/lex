@@ -39,9 +39,9 @@ Le début et la fin de l’année scolaire et les calendriers des vacances et co
 
   - le congé de Carnaval commence le samedi 11 février 2023 et finit le dimanche 19 février 2023 ;
 
-  - les vacances de Pâques commencent le samedi 1 er avril 2023 et finissent le dimanche 16 avril 2023 ;
+  - les vacances de Pâques commencent le samedi 1er avril 2023 et finissent le dimanche 16 avril 2023 ;
 
-  - jour férié légal : lundi 1 er mai 2023 ;
+  - jour férié légal : lundi 1er mai 2023 ;
 
   - jour férié légal de la Journée de l’Europe : mardi 9 mai 2023 ;
 
@@ -63,7 +63,7 @@ Le début et la fin de l’année scolaire et les calendriers des vacances et co
 
   - les vacances de Pâques commencent le samedi 30 mars 2024 et finissent le dimanche 14 avril 2024 ;
 
-  - jour férié légal : mercredi le 1 er mai 2024 ;
+  - jour férié légal : mercredi le 1er mai 2024 ;
 
   - jour férié légal de la Journée de l’Europe / jour de congé pour l’Ascension : jeudi 9 mai 2024 ;
 
@@ -85,11 +85,11 @@ Le début et la fin de l’année scolaire et les calendriers des vacances et co
 
   - jour férié légal le lundi de Pâques : lundi 21 avril 2025 ;
 
-  - jour férié légal : jeudi 1 er mai 2025 ;
+  - jour férié légal : jeudi 1er mai 2025 ;
 
   - jour férié légal de la Journée de l’Europe : vendredi 9 mai 2025 ;
 
-  - le congé de la Pentecôte commence le samedi 24 mai 2025 et finit le dimanche 1 er juin 2025 ;
+  - le congé de la Pentecôte commence le samedi 24 mai 2025 et finit le dimanche 1er juin 2025 ;
 
   - jour férié légal le lundi de Pentecôte : lundi 9 juin 2025 ;
 
@@ -112,9 +112,9 @@ Par dérogation aux dispositions de l’article 1er, la date de début et de fin
 
   - le congé de Carnaval commence le samedi 11 février 2023 et finit le dimanche 19 février 2023 ;
 
-  - les vacances de Pâques commencent le samedi 1 er avril 2023 et finissent le mercredi 12 avril 2023 ;
+  - les vacances de Pâques commencent le samedi 1er avril 2023 et finissent le mercredi 12 avril 2023 ;
 
-  - jour férié légal : lundi 1 er mai 2023 ;
+  - jour férié légal : lundi 1er mai 2023 ;
 
   - jour férié de la Journée de l’Europe : mardi 9 mai 2023 ;
 
@@ -140,25 +140,25 @@ Par dérogation aux dispositions de l’article 1er, la date de début et de fin
 
   - les vacances de Pâques commencent le samedi 23 mars 2024 et finissent le dimanche 7 avril 2024 ;
 
-  - jour férié légal : mercredi 1 er mai 2024 ;
+  - jour férié légal : mercredi 1er mai 2024 ;
 
   - jour férié de la Journée de l’Europe / jour de congé pour l’Ascension : jeudi 9 mai 2024 ;
 
   - le congé de la Pentecôte commence le samedi 25 mai 2024 et finit le dimanche 7 juin 2024 ;
 
-  - les vacances d’été commencent le samedi 13 juillet 2024 et finissent le dimanche 1 er septembre 2024.
+  - les vacances d’été commencent le samedi 13 juillet 2024 et finissent le dimanche 1er septembre 2024.
 
 - Pour l’année scolaire 2024/2025, l’année débute le lundi 2 septembre 2024 et finit le vendredi 4 juillet 2025 et le calendrier est le suivant :
 
   - jour de congé pour la fête nationale allemande : le jeudi 3 octobre 2024 ;
 
-  - jour de congé pour la Toussaint : vendredi 1 er novembre 2024 ;
+  - jour de congé pour la Toussaint : vendredi 1er novembre 2024 ;
 
   - jour de congé pour vendredi saint : vendredi 18 avril 2025 ;
 
   - jour férié légal le lundi de Pâques : lundi 21 avril 2025 ;
 
-  - jour férié légal : le jeudi 1 er mai 2025 ;
+  - jour férié légal : le jeudi 1er mai 2025 ;
 
   - jour férié légal de la Journée de l’Europe : vendredi 9 mai 2025 ;
 
@@ -198,7 +198,7 @@ Par dérogation aux dispositions de l’article 1er, la date de début et de fin
 
   - les vacances de Pâques commencent le dimanche 2 avril 2023 et finissent le dimanche 16 avril 2023 ;
 
-  - jour férié légal : lundi 1 er mai 2023 ;
+  - jour férié légal : lundi 1er mai 2023 ;
 
   - jour férié légal de la Journée de l’Europe : mardi 9 mai 2023 ;
 
@@ -220,7 +220,7 @@ Par dérogation aux dispositions de l’article 1er, la date de début et de fin
 
   - les vacances de Pâques commencent le dimanche 31 mars 2024 et finissent le dimanche 14 avril 2024 ;
 
-  - jour férié légal : mercredi le 1 er mai 2024 ;
+  - jour férié légal : mercredi le 1er mai 2024 ;
 
   - jour férié légal de la Journée de l’Europe / jour de congé pour l’Ascension : jeudi 9 mai 2024 ;
 
@@ -242,11 +242,11 @@ Par dérogation aux dispositions de l’article 1er, la date de début et de fin
 
   - jour férié légal le lundi de Pâques : lundi 21 avril 2025 ;
 
-  - jour férié légal : jeudi 1 er mai 2025 ;
+  - jour férié légal : jeudi 1er mai 2025 ;
 
   - jour férié légal de la Journée de l’Europe : vendredi 9 mai 2025 ;
 
-  - le congé de la Pentecôte commence le dimanche 25 mai 2025 et finit le dimanche 1 er juin 2025 ;
+  - le congé de la Pentecôte commence le dimanche 25 mai 2025 et finit le dimanche 1er juin 2025 ;
 
   - jour férié légal le lundi de Pentecôte : lundi 9 juin 2025 ;
 

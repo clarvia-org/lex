@@ -51,7 +51,7 @@ Aux fins du présent règlement grand-ducal, on entend par:
 
 - «agent cancérigène»:
 
-  - une substance ou un mélange qui répond aux critères de classification dans la catégorie 1A ou 1B des cancérigènes, tels que fixés à l'annexe I du règlement (CE) n° 1272/2008 du Parlement européen et du Conseil du 16 décembre 2008 relatif à la classification, à l'étiquetage et à l'emballage des substances et des mélanges, modifiant et abrogeant les directives 67/548/CEE et 1999/45/CE et modifiant le règlement (CE) n° 1907/2006 , dénommé ci-après «règlement CLP»;
+  - une substance ou un mélange qui répond aux critères de classification dans la catégorie 1A ou 1B des cancérigènes, tels que fixés à l'annexe I du règlement (CE) n° 1272/2008 du Parlement européen et du Conseil du 16 décembre 2008 relatif à la classification, à l'étiquetage et à l'emballage des substances et des mélanges, modifiant et abrogeant les directives 67/548/CEE et 1999/45/CE et modifiant le règlement (CE) n° 1907/2006, dénommé ci-après «règlement CLP»;
 
   - une substance, un mélange ou un procédé visé à l'annexe I, ainsi qu'une substance ou un mélange dégagé par un procédé visé à ladite annexe.
 
@@ -271,7 +271,7 @@ Des mesures appropriées sont prises pour assurer que:
 
   - les conséquences sur la sécurité et la santé des salariés, liées au choix, au port et à l'utilisation des vêtements et des équipements de protection, sans préjudice des responsabilités de l'employeur pour déterminer l'efficacité des vêtements et des équipements de protection;
 
-  - les mesures déterminées par l'employeur, visées à l'article 8, paragraphe 1 er , alinéa 1, sans préjudice des responsabilités de l'employeur pour déterminer ces mesures.
+  - les mesures déterminées par l'employeur, visées à l'article 8, paragraphe 1er, alinéa 1, sans préjudice des responsabilités de l'employeur pour déterminer ces mesures.
 
 - les salariés respectivement leurs représentants dans l'entreprise ou l'établissement sont informés le plus rapidement possible d'expositions anormales, y compris celles visées à l'article 8, de leurs causes et des mesures prises ou à prendre pour remédier à la situation;
 

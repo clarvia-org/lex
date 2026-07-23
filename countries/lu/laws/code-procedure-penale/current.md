@@ -685,11 +685,11 @@ Le présent article est applicable aux procédures concernant les infractions su
 
 - infractions d’atteinte à l’intégrité sexuelle et de viol prévues aux articles 372 à 378 du Code pénal ;
 
-- infractions relatives à l’exploitation de la prostitution, au proxénétisme, à la traite des êtres humains et au trafic illicite de migrants, prévues aux articles 379 et 379 bis , 382-1 et 382-2, 382-4 et 382-5, du Code pénal ;
+- infractions relatives à l’exploitation de la prostitution, au proxénétisme, à la traite des êtres humains et au trafic illicite de migrants, prévues aux articles 379 et 379bis, 382-1 et 382-2, 382-4 et 382-5, du Code pénal ;
 
-- infractions prévues aux articles 383 à 385 et 385-2 à 385 ter du Code pénal relatifs aux outrages publics aux bonnes mœurs et aux dispositions particulières visant à protéger la jeunesse ;
+- infractions prévues aux articles 383 à 385 et 385-2 à 385ter du Code pénal relatifs aux outrages publics aux bonnes mœurs et aux dispositions particulières visant à protéger la jeunesse ;
 
-- infractions prévues à l’article 409 bis du Code pénal relatif à la mutilation d’organes génitaux.
+- infractions prévues à l’article 409bis du Code pénal relatif à la mutilation d’organes génitaux.
 
 (3)
 
@@ -3691,7 +3691,7 @@ Les mesures visées à l’article 88-1 ne peuvent être décidées par le juge 
 
   - s’agissant de la sonorisation et de la fixation d’images des lieux et véhicules visés à l’article 88-1, paragraphe 2, et de la captation de données informatiques, en tout ou en partie, un fait d’une gravité particulière emportant une peine criminelle ou une peine correctionnelle prévue aux articles suivants :
 
-    - articles 101 à 120 bis , 120 sexies et 121 à 123, du Code pénal ;
+    - articles 101 à 120bis, 120sexies et 121 à 123, du Code pénal ;
 
     - articles 135-1 à 135-17 du Code pénal ;
 
@@ -3699,17 +3699,17 @@ Les mesures visées à l’article 88-1 ne peuvent être décidées par le juge 
 
     - articles 248, 310 et 310-1, du Code pénal ;
 
-    - articles 323 à 324 ter du Code pénal ;
+    - articles 323 à 324ter du Code pénal ;
 
     - articles 327, 328 et 331, du Code pénal ;
 
     - articles 368 et 370 du Code pénal ;
 
-    - articles 379 et 379 bis du Code pénal ;
+    - articles 379 et 379bis du Code pénal ;
 
     - articles 382-1 à 382-5 du Code pénal ;
 
-    - articles 383 à 383 ter du Code pénal ;
+    - articles 383 à 383ter du Code pénal ;
 
     - article 385-2 du Code pénal ;
 
@@ -3723,7 +3723,7 @@ Les mesures visées à l’article 88-1 ne peuvent être décidées par le juge 
 
     - articles 58 à 60 de la loi du 27 juin 2018 relative au contrôle des exportations ;
 
-    - article 10 de la loi modifiée du 19 décembre 2020 relative à la mise en œuvre de mesures restrictives en matière financière ;
+    - article 10 de la loi modifiée du 19 décembre 2020relative à la mise en œuvre de mesures restrictives en matière financière ;
 
 - que des faits déterminés rendent la personne à surveiller suspecte, soit d’avoir commis l’infraction ou d’y avoir participé, soit de recevoir ou de transmettre des informations destinées à l’inculpé ou au suspect ou qui proviennent de lui ;
 

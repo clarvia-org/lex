@@ -66,7 +66,7 @@ Aux fins des dispositions des Livres Ier et II, on entend par :
 
 - « pouvoirs adjudicateurs », l’État, les communes, les organismes de droit public ou les associations formées par une ou plusieurs de ces autorités ou un ou plusieurs de ces organismes de droit public ;
 
-- « autorités publiques centrales », les pouvoirs adjudicateurs figurant à l’annexe I de la directive 2014/24/UE du Parlement européen et du Conseil du 26 février 2014 sur la passation des marchés publics et abrogeant la directive 2004/18/CE , telle que modifiée par les actes de la Commission européenne pris en conformité de l’article 87 de cette directive ; dans la mesure où des rectificatifs ou des modifications auraient été apportés, il s’agit des entités qui leur auraient succédé ;
+- « autorités publiques centrales », les pouvoirs adjudicateurs figurant à l’annexe I de la directive 2014/24/UE du Parlement européen et du Conseil du 26 février 2014 sur la passation des marchés publics et abrogeant la directive 2004/18/CE, telle que modifiée par les actes de la Commission européenne pris en conformité de l’article 87 de cette directive ; dans la mesure où des rectificatifs ou des modifications auraient été apportés, il s’agit des entités qui leur auraient succédé ;
 
 - « pouvoirs adjudicateurs sous-centraux », tous les pouvoirs adjudicateurs qui ne sont pas des autorités publiques centrales ;
 
@@ -107,15 +107,15 @@ Aux fins des dispositions des Livres Ier et II, on entend par :
 
 Aux fins des dispositions des Livres Ier et II, on entend par :
 
-- les « procédures ouvertes » sont, au sens des Livres I er et II, les procédures dans lesquelles tout opérateur économique intéressé peut présenter une offre en réponse à un appel à concurrence ;
+- les « procédures ouvertes » sont, au sens des Livres Ier et II, les procédures dans lesquelles tout opérateur économique intéressé peut présenter une offre en réponse à un appel à concurrence ;
 
 - les « procédures restreintes » sont, au sens du Livre II, les procédures auxquelles tout opérateur économique peut demander à participer et dans lesquelles seuls les opérateurs économiques invités par les pouvoirs adjudicateurs peuvent présenter une offre ;
 
-- les « procédures restreintes avec publication d’avis » sont, au sens du Livre I er , les procédures auxquelles tout opérateur économique peut demander à participer et dans lesquelles seuls les opérateurs économiques invités par les pouvoirs adjudicateurs peuvent présenter une offre ;
+- les « procédures restreintes avec publication d’avis » sont, au sens du Livre Ier, les procédures auxquelles tout opérateur économique peut demander à participer et dans lesquelles seuls les opérateurs économiques invités par les pouvoirs adjudicateurs peuvent présenter une offre ;
 
-- les « procédures restreintes sans publication d’avis » sont, au sens du Livre I er , les procédures dans lesquelles les pouvoirs adjudicateurs s’adressent à un nombre limité d’entrepreneurs, fournisseurs ou prestataires de services de leur choix pour présenter une offre ;
+- les « procédures restreintes sans publication d’avis » sont, au sens du Livre Ier, les procédures dans lesquelles les pouvoirs adjudicateurs s’adressent à un nombre limité d’entrepreneurs, fournisseurs ou prestataires de services de leur choix pour présenter une offre ;
 
-- les « procédures négociées », appelées, dans le cadre du Livre II « procédures négociées sans publication préalable » sont, au sens des Livres I er et II, les procédures dans lesquelles les pouvoirs adjudicateurs consultent les opérateurs économiques de leur choix et négocient les conditions du marché avec un ou plusieurs d’entre eux ;
+- les « procédures négociées », appelées, dans le cadre du Livre II « procédures négociées sans publication préalable » sont, au sens des Livres Ier et II, les procédures dans lesquelles les pouvoirs adjudicateurs consultent les opérateurs économiques de leur choix et négocient les conditions du marché avec un ou plusieurs d’entre eux ;
 
 - la « procédure concurrentielle avec négociation » est une procédure à laquelle tout opérateur économique peut demander à participer et dans laquelle seuls les opérateurs économiques invités par les pouvoirs adjudicateurs peuvent présenter une offre initiale qui sera susceptible de faire l’objet de négociations, en vue de l’amélioration de son contenu ;
 
@@ -143,7 +143,7 @@ Aux fins des dispositions des Livres Ier et II, on entend par :
 
 - « exigences en matière de label », les exigences que doivent remplir les ouvrages, les produits, les services, les procédés ou les procédures en question pour obtenir le label concerné ;
 
-- le « Vocabulaire commun pour les marchés publics » (Common Procurement Vocabulary, en abrégé CPV) désigne la nomenclature de référence applicable aux marchés publics prévue par le règlement (CE) n° 2195/2002 du Parlement européen et du Conseil du 5 novembre 2002 relatif au vocabulaire commun pour les marchés publics, tel que modifié en dernier lieu par le règlement CE n° 596/2009 . Ces codes sont susceptibles d’être adaptés par des actes de la Commission européenne pris en conformité de l’article 87 de cette directive, auquel cas les modifications s’appliquent avec effet au jour de la date de l’entrée en vigueur des actes modificatifs afférents de l’Union européenne. Le ministre publie un avis au Journal officiel du Grand-Duché de Luxembourg, renseignant sur les modifications ainsi intervenues, en y ajoutant une référence à l’acte publié au Journal officiel de l’Union européenne.
+- le « Vocabulaire commun pour les marchés publics » (Common Procurement Vocabulary, en abrégé CPV) désigne la nomenclature de référence applicable aux marchés publics prévue par le règlement (CE) n° 2195/2002 du Parlement européen et du Conseil du 5 novembre 2002 relatif au vocabulaire commun pour les marchés publics, tel que modifié en dernier lieu par le règlement CE n° 596/2009. Ces codes sont susceptibles d’être adaptés par des actes de la Commission européenne pris en conformité de l’article 87 de cette directive, auquel cas les modifications s’appliquent avec effet au jour de la date de l’entrée en vigueur des actes modificatifs afférents de l’Union européenne. Le ministre publie un avis au Journal officiel du Grand-Duché de Luxembourg, renseignant sur les modifications ainsi intervenues, en y ajoutant une référence à l’acte publié au Journal officiel de l’Union européenne.
 
 <a id="art-n10256"></a>
 ## Art. 4.
@@ -582,7 +582,7 @@ En cas de procédure négociée, les pouvoirs adjudicateurs consultent les opér
 
 Il peut être recouru soit à la procédure restreinte sans publication d’avis, soit à la procédure négociée dans les cas suivants :
 
-- lorsque le montant total du marché à conclure n’excède pas une somme à déterminer par règlement grand-ducal ; cette somme peut varier selon les différents corps de métier en présence, mais sans qu’elle ne puisse dépasser 8 000 euros hors TVA, valeur cent de l’indice des prix à la consommation au 1 er janvier 1948, adapté conformément à l’article 160. S’il s’agit de dépenses à engager au cours d’une même année et pour un même objet et que ces dépenses aient été prévisibles, il devra être tenu compte de l’ensemble des dépenses portant sur des travaux, fournitures et services de nature identique ou similaire commandés à un même opérateur économique.
+- lorsque le montant total du marché à conclure n’excède pas une somme à déterminer par règlement grand-ducal ; cette somme peut varier selon les différents corps de métier en présence, mais sans qu’elle ne puisse dépasser 8 000 euros hors TVA, valeur cent de l’indice des prix à la consommation au 1er janvier 1948, adapté conformément à l’article 160. S’il s’agit de dépenses à engager au cours d’une même année et pour un même objet et que ces dépenses aient été prévisibles, il devra être tenu compte de l’ensemble des dépenses portant sur des travaux, fournitures et services de nature identique ou similaire commandés à un même opérateur économique.
 
 - en présence d’offres non conformes ou inacceptables à la suite du recours à une procédure ouverte ou à une procédure restreinte avec publication d’avis ou lorsque aucune offre n’a été déposée, pour autant que la passation du contrat soit urgente ; sinon l’exception est applicable sous les mêmes conditions, mais après une seconde procédure ouverte ou une seconde procédure restreinte avec publication d’avis ;
 
@@ -833,7 +833,7 @@ Les projets transfrontaliers visés à l’alinéa 1er concernent :
 
 - les projets qui font partie de tronçons présélectionnés du réseau central tels qu’ils sont répertoriés dans l’annexe de la directive (UE) 2021/1187 du Parlement européen et du Conseil du 7 juillet 2021 concernant des mesures de rationalisation en vue de progresser dans la réalisation du réseau transeuropéen de transport (RTE-T) ;
 
-- d’autres projets relatifs aux corridors de réseau central, tels qu’ils sont identifiés en vertu de l’article 44, paragraphe 1, du règlement (UE) n° 1315/2013 du Parlement européen et du Conseil du 11 décembre 2013 sur les orientations de l’Union pour le développement du réseau transeuropéen de transport et abrogeant la décision n° 661/2010/UE , dont le coût total excède 300 000 000 euros, à l’exception des projets portant exclusivement sur les applications télématiques, les nouvelles technologies et l’innovation, au sens des articles 31 et 33 du règlement (UE) n° 1315/2013 précité.
+- d’autres projets relatifs aux corridors de réseau central, tels qu’ils sont identifiés en vertu de l’article 44, paragraphe 1, du règlement (UE) n° 1315/2013 du Parlement européen et du Conseil du 11 décembre 2013 sur les orientations de l’Union pour le développement du réseau transeuropéen de transport et abrogeant la décision n° 661/2010/UE, dont le coût total excède 300 000 000 euros, à l’exception des projets portant exclusivement sur les applications télématiques, les nouvelles technologies et l’innovation, au sens des articles 31 et 33 du règlement (UE) n° 1315/2013 précité.
 
 #### Chapitre IV Déroulement de la procédure
 
@@ -897,17 +897,17 @@ Motifs d’exclusion de la participation à une procédure de passation de march
 
 Les pouvoirs adjudicateurs excluent un opérateur économique de la participation à une procédure de passation de marché lorsqu’ils ont établi, en procédant à des vérifications conformément à l’article 31 et, pour les marchés relevant du champ d’application du Livre II, conformément à l’article 71, ou qu’ils sont informés, de quelque autre manière, que cet opérateur économique a fait l’objet d’une condamnation, prononcée par un jugement définitif, pour l’une des raisons suivantes :
 
-- infraction aux articles 322 à 324ter du Code Pénal , relatifs à la participation à une organisation criminelle ;
+- infraction aux articles 322 à 324ter du Code Pénal, relatifs à la participation à une organisation criminelle ;
 
-- infraction aux articles 246 à 249 du Code Pénal , relatifs à la corruption ;
+- infraction aux articles 246 à 249 du Code Pénal, relatifs à la corruption ;
 
 - infraction aux articles 496-1 à 496-4 du Code Pénal relatifs à la l’escroquerie et à la tromperie ;
 
-- infraction aux articles 135-1 et suivants du Code Pénal , relatifs au terrorisme ;
+- infraction aux articles 135-1 et suivants du Code Pénal, relatifs au terrorisme ;
 
-- infraction aux articles 506-1 et 135-5 du Code Pénal , relatifs au blanchiment de capitaux et au financement du terrorisme et infraction à l’article 8-1 de la loi modifiée du 19 février 1973 concernant la vente de substances médicamenteuses ;
+- infraction aux articles 506-1 et 135-5 du Code Pénal, relatifs au blanchiment de capitaux et au financement du terrorisme et infraction à l’article 8-1 de la loi modifiée du 19 février 1973 concernant la vente de substances médicamenteuses ;
 
-- travail des enfants et autres formes de traite des êtres humains définis à l’article 382-1 du Code Pénal .
+- travail des enfants et autres formes de traite des êtres humains définis à l’article 382-1 du Code Pénal.
 
 L’obligation d’exclure un opérateur économique s’applique aussi lorsque la personne condamnée par jugement définitif est un membre de l’organe administratif, de gestion ou de surveillance dudit opérateur économique ou détient un pouvoir de représentation, de décision ou de contrôle en son sein.
 
@@ -1037,7 +1037,7 @@ Les pouvoirs adjudicateurs n’exigent pas de moyens de preuve autres que ceux v
 
 Les pouvoirs adjudicateurs acceptent comme preuve suffisante attestant que l’opérateur économique ne se trouve dans aucun des cas visés à l’article 29 :
 
-- pour le paragraphe 1 er de l’article 29, la production d’un extrait du registre pertinent, tel qu’un extrait de casier judiciaire, ou, à défaut, d’un document équivalent délivré par l’autorité judiciaire ou administrative compétente de l’État membre ou du pays d’origine ou d’établissement de l’opérateur économique et dont il résulte que ces conditions sont remplies ;
+- pour le paragraphe 1er de l’article 29, la production d’un extrait du registre pertinent, tel qu’un extrait de casier judiciaire, ou, à défaut, d’un document équivalent délivré par l’autorité judiciaire ou administrative compétente de l’État membre ou du pays d’origine ou d’établissement de l’opérateur économique et dont il résulte que ces conditions sont remplies ;
 
 - pour le paragraphe 2 et le paragraphe 3, point b), de l’article 29, un certificat délivré par l’autorité compétente de l’État membre ou du pays concerné.
 
@@ -1429,7 +1429,7 @@ Une modification d’un marché ou d’un accord-cadre en cours est considérée
 
 - elle élargit considérablement le champ d’application du marché ou de l’accord-cadre ;
 
-- lorsqu’un nouveau contractant remplace celui auquel le pouvoir adjudicateur a initialement attribué le marché dans d’autres cas que ceux prévus au paragraphe 1 er , point d).
+- lorsqu’un nouveau contractant remplace celui auquel le pouvoir adjudicateur a initialement attribué le marché dans d’autres cas que ceux prévus au paragraphe 1er, point d).
 
 (5)
 
@@ -1450,9 +1450,9 @@ Le contrat peut être résilié à la demande du pouvoir adjudicateur lorsque :
 
 - le marché a fait l’objet d’une modification substantielle qui aurait requis une nouvelle procédure de passation de marché en vertu de l’article 43 ;
 
-- le contractant se trouvait, lors de l’attribution du marché, dans une des situations visées à l’article 29, paragraphes 1 er et 2, et aurait dès lors dû être exclu de la procédure de passation de marché ;
+- le contractant se trouvait, lors de l’attribution du marché, dans une des situations visées à l’article 29, paragraphes 1er et 2, et aurait dès lors dû être exclu de la procédure de passation de marché ;
 
-- le marché n’aurait pas dû être attribué au contractant en raison d’un manquement grave aux obligations prévues par les traités et la présente loi, qui a été établi par la Cour de justice de l’Union européenne dans le cadre d’une procédure au titre de l’article 258 du traité sur le fonctionnement de l’Union européenne .
+- le marché n’aurait pas dû être attribué au contractant en raison d’un manquement grave aux obligations prévues par les traités et la présente loi, qui a été établi par la Cour de justice de l’Union européenne dans le cadre d’une procédure au titre de l’article 258 du traité sur le fonctionnement de l’Union européenne.
 
 (2)
 
@@ -1721,7 +1721,7 @@ Marchés subventionnés par les pouvoirs adjudicateurs
 
 Le présent Livre s’applique à la passation :
 
-- de marchés de travaux subventionnés directement à plus de 50 pour cent par des pouvoirs adjudicateurs, dont la valeur estimée, hors TVA, est égale ou supérieure à la valeur prévue à l’article 13 de la directive 2014/24/UE du Parlement et du Conseil du 26 février 2014 sur la passation des marchés publics et abrogeant la directive 2004/18/CE et qui concernent l’une des activités suivantes :
+- de marchés de travaux subventionnés directement à plus de 50 pour cent par des pouvoirs adjudicateurs, dont la valeur estimée, hors TVA, est égale ou supérieure à la valeur prévue à l’article 13 de la directive 2014/24/UE du Parlement et du Conseil du 26 février 2014 sur la passation des marchés publics et abrogeant la directive 2004/18/CEet qui concernent l’une des activités suivantes :
 
   - des activités de génie civil figurant sur la liste de l’annexe II ;
 
@@ -1791,7 +1791,7 @@ Lorsque les pouvoirs adjudicateurs décident de passer des marchés distincts po
 
 Lorsque les pouvoirs adjudicateurs choisissent de passer un marché unique, les critères ci-après s’appliquent pour déterminer le régime juridique applicable :
 
-- lorsqu’une partie d’un marché donné relève de l’article 346 du traité sur le fonctionnement de l’Union européenne , le marché peut être passé sans appliquer le présent Livre, sous réserve que la passation d’un marché unique soit justifiée par des raisons objectives ;
+- lorsqu’une partie d’un marché donné relève de l’article 346 du traité sur le fonctionnement de l’Union européenne, le marché peut être passé sans appliquer le présent Livre, sous réserve que la passation d’un marché unique soit justifiée par des raisons objectives ;
 
 - lorsqu’une partie d’un marché donné relève de la loi du 26 décembre 2012 sur les marchés publics de la défense et de la sécurité, le marché peut être passé conformément à ladite loi, sous réserve que la passation d’un marché unique soit justifiée par des raisons objectives. Le présent point est sans préjudice des seuils et exclusions prévus par la loi du 26 décembre 2012 sur les marchés publics de la défense et de la sécurité.
 
@@ -2232,7 +2232,7 @@ Les pouvoirs adjudicateurs peuvent réserver aux organisations remplissant les c
 
 Une organisation visée au paragraphe 1er remplit toutes les conditions suivantes :
 
-- elle a pour objectif d’assumer une mission de service public liée à la prestation des services visés au paragraphe 1 er ;
+- elle a pour objectif d’assumer une mission de service public liée à la prestation des services visés au paragraphe 1er ;
 
 - son bénéfice est réinvesti en vue d’atteindre l’objectif de l’organisation. En cas de distribution ou de redistribution du bénéfice, celle-ci devrait être fondée sur des principes participatifs ;
 
@@ -2409,7 +2409,7 @@ Aux fins du présent Livre, on entend par :
 
   - préparation et gestion des procédures de passation de marché au nom de l’entité adjudicatrice concernée et pour son compte ;
 
-- « centrale d’achat », une entité adjudicatrice au sens de l’article 87, paragraphe 1 er ou un pouvoir adjudicateur au sens de l’article 5, paragraphe 1 er , point 1) du Livre I er , qui fournit des activités d’achat centralisées et, éventuellement, des activités d’achat auxiliaires. Un marché passé par une centrale d’achats en vue d’effectuer des activités d’achat centralisées est considéré comme un marché passé en vue de mener une des activités visées aux articles 91 à 97. L’article 100 ne s’applique pas aux marchés passés par une centrale d’achats en vue de mener des activités d’achat centralisées ;
+- « centrale d’achat », une entité adjudicatrice au sens de l’article 87, paragraphe 1er ou un pouvoir adjudicateur au sens de l’article 5, paragraphe 1er, point 1) du Livre Ier, qui fournit des activités d’achat centralisées et, éventuellement, des activités d’achat auxiliaires. Un marché passé par une centrale d’achats en vue d’effectuer des activités d’achat centralisées est considéré comme un marché passé en vue de mener une des activités visées aux articles 91 à 97. L’article 100 ne s’applique pas aux marchés passés par une centrale d’achats en vue de mener des activités d’achat centralisées ;
 
 - « prestataire de services de passation de marché », un organisme public ou privé qui propose des activités d’achat auxiliaires sur le marché ;
 
@@ -2475,7 +2475,7 @@ Les droits octroyés au moyen d’une procédure ayant fait l’objet d’une pu
 
 Ces procédures sont notamment les suivantes :
 
-- des procédures de passation de marché avec mise en concurrence préalable, conformément au Livre I er ou au Livre II, à la loi du 26 décembre 2012 sur les marchés publics de la défense et de la sécurité, à la législation applicable en matière d’attribution de contrats de concession ou au présent Livre ;
+- des procédures de passation de marché avec mise en concurrence préalable, conformément au Livre Ier ou au Livre II, à la loi du 26 décembre 2012 sur les marchés publics de la défense et de la sécurité, à la législation applicable en matière d’attribution de contrats de concession ou au présent Livre ;
 
 - des procédures en vertu des actes juridiques de l’Union européenne et des lois et règlements, énumérés à l’annexe VII , le cas échéant, telle que complétée par des actes délégués .
 
@@ -2535,11 +2535,11 @@ Un marché destiné à couvrir plusieurs activités suit les règles applicables
 
 Dans le cas d’un marché pour lequel il est objectivement impossible d’établir à quelle activité le marché est principalement destiné, les règles applicables sont déterminées conformément aux points a), b) et c) :
 
-- le marché est attribué conformément au Livre I er ou au Livre II, si l’une des activités auxquelles le marché est destiné relève du présent Livre et l’autre du Livre Ier ou du Livre II ;
+- le marché est attribué conformément au Livre Ier ou au Livre II, si l’une des activités auxquelles le marché est destiné relève du présent Livre et l’autre du Livre Ier ou du Livre II ;
 
 - le marché est attribué conformément au présent Livre, si l’une des activités auxquelles le marché est destiné relève du présent Livre et l’autre de la législation applicable en matière d’attribution de contrats de concession ;
 
-- le marché est attribué conformément au présent Livre, si l’une des activités auxquelles le marché est destiné relève du présent Livre et si l’autre ne relève ni du présent Livre, ni du Livre I er , ni du Livre II, ni de la législation applicable en matière d’attribution de contrats de concession.
+- le marché est attribué conformément au présent Livre, si l’une des activités auxquelles le marché est destiné relève du présent Livre et si l’autre ne relève ni du présent Livre, ni du Livre Ier, ni du Livre II, ni de la législation applicable en matière d’attribution de contrats de concession.
 
 #### Chapitre II Activités
 
@@ -2569,7 +2569,7 @@ En ce qui concerne le gaz et la chaleur, le présent Livre s’applique aux acti
 
 L’alimentation, par une entité adjudicatrice autre que les pouvoirs adjudicateurs, en gaz ou en chaleur des réseaux qui fournissent un service au public n’est pas considérée comme une activité visée au paragraphe 1er lorsque toutes les conditions suivantes sont remplies :
 
-- la production de gaz ou de chaleur par ladite entité adjudicatrice est le résultat inéluctable de l’exercice d’une activité autre que celles visées au paragraphe 1 er du présent article ou aux articles 92 à 94 ;
+- la production de gaz ou de chaleur par ladite entité adjudicatrice est le résultat inéluctable de l’exercice d’une activité autre que celles visées au paragraphe 1er du présent article ou aux articles 92 à 94 ;
 
 - l’alimentation du réseau public ne vise qu’à exploiter de manière économique cette production et ne représente pas plus de 20 pour cent du chiffre d’affaires de l’entité adjudicatrice calculés sur la base de la moyenne des trois dernières années, y compris l’année en cours.
 
@@ -2590,7 +2590,7 @@ En ce qui concerne l’électricité, le présent Livre s’applique aux activit
 
 L’alimentation, par une entité adjudicatrice autre que les pouvoirs adjudicateurs, en électricité des réseaux qui fournissent un service au public n’est pas considérée comme une activité visée au paragraphe 1er lorsque toutes les conditions suivantes sont remplies :
 
-- la production d’électricité par ladite entité adjudicatrice a lieu parce que sa consommation est nécessaire à l’exercice d’une activité autre que celles visées au paragraphe 1 er ou aux articles 91, 93 et 94 ;
+- la production d’électricité par ladite entité adjudicatrice a lieu parce que sa consommation est nécessaire à l’exercice d’une activité autre que celles visées au paragraphe 1er ou aux articles 91, 93 et 94 ;
 
 - l’alimentation du réseau public ne dépend que de la consommation propre de ladite entité adjudicatrice et n’a pas dépassé 30 pour cent de la production totale d’énergie de cette entité adjudicatrice calculés sur la base de la moyenne des trois dernières années, y compris l’année en cours.
 
@@ -2650,7 +2650,7 @@ Le présent Livre s’applique aux activités liées à la fourniture :
 
 - de services postaux ;
 
-- d’autres services que des services postaux, pourvu que ces services soient fournis par une entité fournissant également des services postaux au sens du paragraphe 2, point b), et que les conditions fixées à l’article 115, paragraphe 1 er , ne soient pas remplies en ce qui concerne les services relevant du paragraphe 2, point b).
+- d’autres services que des services postaux, pourvu que ces services soient fournis par une entité fournissant également des services postaux au sens du paragraphe 2, point b), et que les conditions fixées à l’article 115, paragraphe 1er, ne soient pas remplies en ce qui concerne les services relevant du paragraphe 2, point b).
 
 (2)
 
@@ -2875,7 +2875,7 @@ Le présent Livre ne s’applique pas aux marchés de services :
 
 - concernant les services de défense civile, de protection civile et de prévention des risques qui sont fournis par des organisations ou des associations à but non lucratif et qui relèvent des codes CPV 75250000-3, 75251000-0, 75251100- 1, 75251110-4, 75251120-7, 75252000-7, 75222000-8, 98113100-9 et 85143000-3, excepté les services ambulanciers de transport de patients ;
 
-- concernant les temps de diffusion ou la fourniture de programmes qui sont attribués à des prestataires de services de médias audiovisuels ou à des organismes de radiodiffusion. Aux fins du présent point, les expressions « services de médias audiovisuels » et « fournisseurs de services de médias » revêtent respectivement le même sens que dans le cadre de la loi du 27 juillet 1991 sur les médias électroniques, telle que modifiée. Le terme « programme » a le même sens que dans le cadre de la législation visée à la phrase qui précède, mais il englobe également les programmes radiophoniques et le matériel pour programmes radiophoniques. L’expression « matériel de programmes » a le même sens que le terme « programme » .
+- concernant les temps de diffusion ou la fourniture de programmes qui sont attribués à des prestataires de services de médias audiovisuels ou à des organismes de radiodiffusion. Aux fins du présent point, les expressions « services de médias audiovisuels » et « fournisseurs de services de médias » revêtent respectivement le même sens que dans le cadre de la loi du 27 juillet 1991 sur les médias électroniques, telle que modifiée. Le terme « programme » a le même sens que dans le cadre de la législation visée à la phrase qui précède, mais il englobe également les programmes radiophoniques et le matériel pour programmes radiophoniques. L’expression « matériel de programmes » a le même sens que le terme « programme ».
 
 <a id="art-n138eb"></a>
 ## Art. 104.
@@ -2891,9 +2891,9 @@ Marchés passés par certaines entités adjudicatrices pour l’achat d’eau et
 
 Le présent Livre ne s’applique pas :
 
-- aux marchés pour l’achat d’eau, pour autant qu’ils soient passés par des entités adjudicatrices exerçant une ou les deux activités relatives à l’eau potable visées à l’article 93, paragraphe 1 er ;
+- aux marchés pour l’achat d’eau, pour autant qu’ils soient passés par des entités adjudicatrices exerçant une ou les deux activités relatives à l’eau potable visées à l’article 93, paragraphe 1er ;
 
-- aux marchés passés par des entités adjudicatrices elles-mêmes présentes dans le secteur de l’énergie du fait qu’elles exercent l’une des activités visées à l’article 91, paragraphe 1 er , à l’article 92, paragraphe 1 er , ou à l’article 97 pour la fourniture :
+- aux marchés passés par des entités adjudicatrices elles-mêmes présentes dans le secteur de l’énergie du fait qu’elles exercent l’une des activités visées à l’article 91, paragraphe 1er, à l’article 92, paragraphe 1er, ou à l’article 97 pour la fourniture :
 
   - d’énergie ;
 
@@ -2941,7 +2941,7 @@ Lorsque les entités adjudicatrices décident de passer des marchés distincts p
 
 Lorsque les entités adjudicatrices choisissent de passer un marché unique, les critères ci-après s’appliquent pour déterminer le régime juridique applicable :
 
-- lorsqu’une partie d’un marché donné relève de l’article 346 du traité sur le fonctionnement de l’Union européenne , le marché peut être passé sans appliquer le présent Livre, sous réserve que la passation d’un marché unique soit justifiée par des raisons objectives ;
+- lorsqu’une partie d’un marché donné relève de l’article 346 du traité sur le fonctionnement de l’Union européenne, le marché peut être passé sans appliquer le présent Livre, sous réserve que la passation d’un marché unique soit justifiée par des raisons objectives ;
 
 - lorsqu’une partie d’un marché donné relève de la loi du 26 décembre 2012 sur les marchés publics de la défense et de la sécurité, le marché peut être passé conformément à ladite loi, sous réserve que la passation d’un marché unique soit justifiée par des raisons objectives. Le présent point est sans préjudice des seuils et exclusions prévus par la loi du 26 décembre 2012 sur les marchés publics de la défense et de la sécurité.
 
@@ -2972,7 +2972,7 @@ Dans le cas de marchés destinés à couvrir une activité relevant du présent 
 
 - relevant de la loi du 26 décembre 2012 sur les marchés publics de la défense et de la sécurité ; ou
 
-- relevant de l’article 346 du traité sur le fonctionnement de l’Union européenne ,
+- relevant de l’article 346 du traité sur le fonctionnement de l’Union européenne,
 
 le marché peut être passé conformément à la loi du 26 décembre 2012 sur les marchés publics de la défense et de la sécurité dans les cas visés à l’alinéa 1er, point a), et il peut être passé sans appliquer le présent Livre dans les cas visés au point b). Le présent alinéa est sans préjudice des seuils et exclusions prévus par la loi du 26 décembre 2012 sur les marchés publics de la défense et de la sécurité.
 
@@ -3260,7 +3260,7 @@ Recours à la procédure négociée sans mise en concurrence préalable
 
 Les entités adjudicatrices peuvent recourir à une procédure négociée sans mise en concurrence préalable dans les cas suivants :
 
-- lorsque aucune offre ou aucune offre appropriée ou aucune demande de participation ou aucune demande appropriée de participation n’a été déposée en réponse à une procédure avec mise en concurrence préalable, pour autant que les conditions initiales du marché ne soient pas substantiellement modifiées ; une offre n’est pas considérée comme appropriée lorsqu’elle est sans rapport avec le marché parce qu’elle n’est manifestement pas en mesure, sans modifications substantielles, de répondre aux besoins et aux exigences de l’entité adjudicatrice spécifiés dans les documents de marché. Une demande de participation n’est pas considérée comme appropriée lorsque l’opérateur économique concerné doit ou peut être exclu en vertu de l’article 139, paragraphe 1 er , ou de l’article 141, paragraphe 1 er , ou ne remplit pas les critères de sélection établis par l’entité adjudicatrice en vertu de l’article 139 ou de l’article 141 ;
+- lorsque aucune offre ou aucune offre appropriée ou aucune demande de participation ou aucune demande appropriée de participation n’a été déposée en réponse à une procédure avec mise en concurrence préalable, pour autant que les conditions initiales du marché ne soient pas substantiellement modifiées ; une offre n’est pas considérée comme appropriée lorsqu’elle est sans rapport avec le marché parce qu’elle n’est manifestement pas en mesure, sans modifications substantielles, de répondre aux besoins et aux exigences de l’entité adjudicatrice spécifiés dans les documents de marché. Une demande de participation n’est pas considérée comme appropriée lorsque l’opérateur économique concerné doit ou peut être exclu en vertu de l’article 139, paragraphe 1er, ou de l’article 141, paragraphe 1er, ou ne remplit pas les critères de sélection établis par l’entité adjudicatrice en vertu de l’article 139 ou de l’article 141 ;
 
 - lorsqu’un marché est passé uniquement à des fins de recherche, d’expérimentation, d’étude ou de développement et non dans le but d’assurer une rentabilité ou d’amortir les coûts de recherche et de développement et dans la mesure où la passation d’un tel marché ne porte pas préjudice à la mise en concurrence des marchés subséquents qui poursuivent notamment ces buts ;
 
@@ -3276,7 +3276,7 @@ Les entités adjudicatrices peuvent recourir à une procédure négociée sans m
 
 - dans le cas de marchés de fournitures pour des livraisons complémentaires effectuées par le fournisseur initial et destinées soit au renouvellement partiel de fournitures ou d’installations, soit à l’extension de fournitures ou d’installations existantes, lorsque le changement de fournisseur obligerait l’entité adjudicatrice à acquérir des fournitures ayant des caractéristiques techniques différentes entraînant une incompatibilité ou des difficultés techniques d’utilisation et d’entretien disproportionnées ;
 
-- pour de nouveaux travaux ou services consistant dans la répétition de travaux ou services similaires confiés à un entrepreneur auquel les mêmes entités adjudicatrices ont attribué un précédent marché, à condition que ces travaux ou ces services soient conformes à un projet de base et que ce projet ait fait l’objet d’un premier marché passé selon une des procédures visées à l’article 123, paragraphe 1 er ; le projet de base précise l’étendue des travaux ou services supplémentaires possibles et les conditions de leur attribution. La possibilité de recourir à cette procédure est indiquée dès la mise en concurrence du premier projet, et le montant total envisagé pour la suite des travaux ou les services supplémentaires est pris en considération par les entités adjudicatrices pour l’application des articles 98 et 99 ;
+- pour de nouveaux travaux ou services consistant dans la répétition de travaux ou services similaires confiés à un entrepreneur auquel les mêmes entités adjudicatrices ont attribué un précédent marché, à condition que ces travaux ou ces services soient conformes à un projet de base et que ce projet ait fait l’objet d’un premier marché passé selon une des procédures visées à l’article 123, paragraphe 1er ; le projet de base précise l’étendue des travaux ou services supplémentaires possibles et les conditions de leur attribution. La possibilité de recourir à cette procédure est indiquée dès la mise en concurrence du premier projet, et le montant total envisagé pour la suite des travaux ou les services supplémentaires est pris en considération par les entités adjudicatrices pour l’application des articles 98 et 99 ;
 
 - lorsqu’il s’agit de fournitures cotées et achetées à une bourse de matières premières ;
 
@@ -3572,7 +3572,7 @@ Les projets transfrontaliers visés à l’alinéa 1er concernent :
 
 - les projets qui font partie de tronçons présélectionnés du réseau central tels qu’ils sont répertoriés dans l’annexe de la directive (UE) 2021/1187 du Parlement européen et du Conseil du 7 juillet 2021 concernant des mesures de rationalisation en vue de progresser dans la réalisation du réseau transeuropéen de transport (RTE-T) ;
 
-- d’autres projets relatifs aux corridors de réseau central, tels qu’ils sont identifiés en vertu de l’article 44, paragraphe 1, du règlement (UE) n° 1315/2013 du Parlement européen et du Conseil du 11 décembre 2013 sur les orientations de l’Union pour le développement du réseau transeuropéen de transport et abrogeant la décision n° 661/2010/UE , dont le coût total excède 300 000 000 euros, à l’exception des projets portant exclusivement sur les applications télématiques, les nouvelles technologies et l’innovation, au sens des articles 31 et 33 du règlement (UE) n° 1315/2013 précité.
+- d’autres projets relatifs aux corridors de réseau central, tels qu’ils sont identifiés en vertu de l’article 44, paragraphe 1, du règlement (UE) n° 1315/2013 du Parlement européen et du Conseil du 11 décembre 2013 sur les orientations de l’Union pour le développement du réseau transeuropéen de transport et abrogeant la décision n° 661/2010/UE, dont le coût total excède 300 000 000 euros, à l’exception des projets portant exclusivement sur les applications télématiques, les nouvelles technologies et l’innovation, au sens des articles 31 et 33 du règlement (UE) n° 1315/2013 précité.
 
 #### Chapitre IV Déroulement de la procédure
 
@@ -3611,7 +3611,7 @@ Principes généraux
 
 Aux fins de la sélection de participants à des procédures de passation de marché, les règles suivantes s’appliquent :
 
-- les entités adjudicatrices ayant établi des règles et des critères d’exclusion des soumissionnaires ou des candidats conformément à l’article 139, paragraphe 1 er , ou à l’article 141, paragraphe 1 er , excluent les opérateurs économiques en fonction de ces règles et de ces critères ;
+- les entités adjudicatrices ayant établi des règles et des critères d’exclusion des soumissionnaires ou des candidats conformément à l’article 139, paragraphe 1er, ou à l’article 141, paragraphe 1er, excluent les opérateurs économiques en fonction de ces règles et de ces critères ;
 
 - elles sélectionnent les soumissionnaires ou les candidats conformément aux règles et critères objectifs établis en vertu des articles 139 et 141 ;
 
@@ -3623,7 +3623,7 @@ Lorsque l’appel à la concurrence s’effectue par un avis sur l’existence d
 
 - qualifient les opérateurs économiques conformément à l’article 138 ;
 
-- appliquent à ces opérateurs économiques qualifiés les dispositions du paragraphe 1 er qui se rapportent aux procédures restreintes, aux procédures négociées, aux dialogues compétitifs ou aux partenariats d’innovation.
+- appliquent à ces opérateurs économiques qualifiés les dispositions du paragraphe 1er qui se rapportent aux procédures restreintes, aux procédures négociées, aux dialogues compétitifs ou aux partenariats d’innovation.
 
 (3)
 
@@ -3994,7 +3994,7 @@ Les entités adjudicatrices qui sont des pouvoirs adjudicateurs peuvent réserve
 
 Une organisation visée au paragraphe 1er doit remplir toutes les conditions suivantes :
 
-- elle a pour objectif d’assumer une mission de service public liée à la prestation des services visés au paragraphe 1 er ;
+- elle a pour objectif d’assumer une mission de service public liée à la prestation des services visés au paragraphe 1er ;
 
 - ses bénéfices sont réinvestis en vue d’atteindre l’objectif de l’organisation. En cas de distribution ou de redistribution des bénéfices, celle-ci devrait être fondée sur des principes participatifs ;
 
@@ -4147,7 +4147,7 @@ Une modification d’un marché ou d’un accord-cadre en cours est considérée
 
 - elle élargit considérablement le champ d’application du marché ou de l’accord-cadre ;
 
-- lorsqu’un nouveau contractant remplace celui auquel l’entité adjudicatrice a initialement attribué le marché dans d’autres cas que ceux prévus au paragraphe 1 er , point d).
+- lorsqu’un nouveau contractant remplace celui auquel l’entité adjudicatrice a initialement attribué le marché dans d’autres cas que ceux prévus au paragraphe 1er, point d).
 
 (5)
 
@@ -4164,9 +4164,9 @@ Le contrat peut être résilié à la demande de l’entité adjudicatrice lorsq
 
 - le marché a fait l’objet d’une modification substantielle qui aurait requis une nouvelle procédure de passation de marché en vertu de l’article 155 ;
 
-- le contractant se trouvait, lors de l’attribution du marché, dans une des situations visées à l’article 29 et aurait dès lors dû être exclu de la procédure de passation de marché en vertu de l’article 140, paragraphe 1 er , alinéa 2 ;
+- le contractant se trouvait, lors de l’attribution du marché, dans une des situations visées à l’article 29 et aurait dès lors dû être exclu de la procédure de passation de marché en vertu de l’article 140, paragraphe 1er, alinéa 2 ;
 
-- le marché n’aurait pas dû être attribué au contractant en raison d’un manquement grave aux obligations prévues par les traités et le présent Livre, qui a été établi par la Cour de justice de l’Union européenne dans le cadre d’une procédure au titre de l’article 258 du traité sur le fonctionnement de l’Union européenne .
+- le marché n’aurait pas dû être attribué au contractant en raison d’un manquement grave aux obligations prévues par les traités et le présent Livre, qui a été établi par la Cour de justice de l’Union européenne dans le cadre d’une procédure au titre de l’article 258 du traité sur le fonctionnement de l’Union européenne.
 
 (2)
 
@@ -4902,7 +4902,7 @@ Sont à considérer comme cas dûment justifiés au sens de l’alinéa qui pré
 
 - les cas visés à l’article 105, paragraphe 4,
 
-- les cas énumérés à l’article 44, paragraphe 1 er , points b) et c) de la loi,
+- les cas énumérés à l’article 44, paragraphe 1er, points b) et c) de la loi,
 
 - l’exclusion de la participation aux marchés publics,
 
@@ -5466,7 +5466,7 @@ Lorsque les informations ou les documents qui doivent être soumis par les opér
 
 - qu’elles ne conduisent pas indûment à favoriser ou défavoriser le ou les candidats ou soumissionnaires auxquels lesdites demandes ont été adressées et
 
-- qu’elles n’aboutissent pas à permettre qu’il soit dérogé aux articles 63, 80, paragraphe 1 er , et 83, paragraphe 1 er , de sorte à aboutir à la présentation, par les soumissionnaires concernés, d’une offre nouvelle.
+- qu’elles n’aboutissent pas à permettre qu’il soit dérogé aux articles 63, 80, paragraphe 1er, et 83, paragraphe 1er, de sorte à aboutir à la présentation, par les soumissionnaires concernés, d’une offre nouvelle.
 
 Le pouvoir adjudicateur peut prévoir que les renseignements sont à fournir par le soumissionnaire, sous peine de l’exclusion de son offre, dans un délai de quinze jours à courir à partir de la réception de la demande y relative.
 
@@ -6254,7 +6254,7 @@ Dans le cas de procédures restreintes et de procédures concurrentielles avec n
 
 - il contient, outre les informations mentionnées à l’annexe II, partie B, section I, celles mentionnées à l’annexe II, partie B, section II ;
 
-- il a été envoyé pour publication entre trente-cinq jours et douze mois avant la date d’envoi de l’invitation visée à l’article 192, paragraphe 1 er .
+- il a été envoyé pour publication entre trente-cinq jours et douze mois avant la date d’envoi de l’invitation visée à l’article 192, paragraphe 1er.
 
 De tels avis ne sont pas publiés sur un profil d’acheteur. Toutefois, l’éventuelle publication supplémentaire au niveau national conformément à l’article 161 peut être réalisée sur un profil d’acheteur.
 
@@ -6320,7 +6320,7 @@ Les avis visés aux articles 156 à 158 sont publiés intégralement dans la ou 
 
 L’Office des publications de l’Union européenne veille à ce que le texte intégral et le résumé des avis de préinformation visés à l’article 156, paragraphe 2, et des avis d’appel à la concurrence instaurant un système d’acquisition dynamique visés à l’article 203, paragraphe 4, point a), continuent à être publiés :
 
-- dans le cas des avis de préinformation, pendant douze mois ou jusqu’à réception d’un avis d’attribution de marché, comme prévu à l’article 158, avec la mention qu’aucun autre marché ne sera attribué au cours de la période de douze mois couverte par l’avis d’appel à la concurrence. Toutefois, dans le cas de marchés publics pour des services sociaux et d’autres services spécifiques, l’avis de préinformation visé à l’article 189, paragraphe 1 er , point b), continue d’être publié jusqu’à la fin de sa période de validité indiquée initialement ou jusqu’à réception d’un avis d’attribution de marché, comme prévu à l’article 158, avec la mention qu’aucun autre marché ne sera pas attribué au cours de la période couverte par l’appel à la concurrence ;
+- dans le cas des avis de préinformation, pendant douze mois ou jusqu’à réception d’un avis d’attribution de marché, comme prévu à l’article 158, avec la mention qu’aucun autre marché ne sera attribué au cours de la période de douze mois couverte par l’avis d’appel à la concurrence. Toutefois, dans le cas de marchés publics pour des services sociaux et d’autres services spécifiques, l’avis de préinformation visé à l’article 189, paragraphe 1er, point b), continue d’être publié jusqu’à la fin de sa période de validité indiquée initialement ou jusqu’à réception d’un avis d’attribution de marché, comme prévu à l’article 158, avec la mention qu’aucun autre marché ne sera pas attribué au cours de la période couverte par l’appel à la concurrence ;
 
 - dans le cas des avis d’appel à la concurrence instaurant un système d’acquisition dynamique, pour la période de validité de ce système.
 
@@ -6737,7 +6737,7 @@ Les pouvoirs adjudicateurs informent dans les meilleurs délais chaque candidat 
 
 - à tout candidat écarté, les motifs du rejet de sa demande de participation ;
 
-- à tout soumissionnaire écarté, les motifs du rejet de son offre, y compris, dans les cas visés à l’article 36, paragraphe 1 er , alinéas 2 et 3, de la loi, les raisons pour lesquelles ils ont conclu à la non-équivalence ou décidé les travaux, fournitures, ou services ne répondent pas aux performances ou aux exigences fonctionnelles ;
+- à tout soumissionnaire écarté, les motifs du rejet de son offre, y compris, dans les cas visés à l’article 36, paragraphe 1er, alinéas 2 et 3, de la loi, les raisons pour lesquelles ils ont conclu à la non-équivalence ou décidé les travaux, fournitures, ou services ne répondent pas aux performances ou aux exigences fonctionnelles ;
 
 - à tout soumissionnaire ayant fait une offre recevable, les caractéristiques et avantages relatifs de l’offre retenue ainsi que le nom du titulaire ou des parties à l’accord-cadre ;
 
@@ -6898,7 +6898,7 @@ Outre les exigences visées à l’alinéa 1er, le règlement ministériel fixan
 
   - les pouvoirs adjudicateurs établissent le format de signature avancé requis en se fondant sur les formats prévus par la décision 2011/130/UE de la Commission européenne du 25 février 2011 établissant des exigences minimales pour le traitement transfrontalier des documents signés électroniquement par les autorités compétentes, et mettent en place les mesures nécessaires pour le traitement technique de ces formats; dans le cas où un format de signature électronique différent est utilisé, la signature électronique ou le support électronique du document comporte des informations concernant les possibilités de validation existantes. Les possibilités de validation permettent au pouvoir adjudicateur de valider en ligne, gratuitement et d’une manière qui soit compréhensible pour les allophones, la signature électronique reçue comme une signature électronique avancée accompagnée d’un certificat qualifié. Le ministre compétent pour l’accréditation des prestataires de services de validation notifie les informations concernant le prestataire de services de validation à la Commission européenne, qui les met à la disposition du public sur l’internet ;
 
-  - lorsque l’offre est signée en recourant à un certificat qualifié au sens du règlement n° 910/2014 du Parlement européen et du Conseil du 23 juillet 2014 sur l’identification électronique et les services de confiance pour les transactions électroniques au sein du marché intérieur et abrogeant la directive 1999/93/CE , les pouvoirs adjudicateurs n’appliquent pas d’exigences supplémentaires susceptibles de faire obstacle à l’utilisation de ces signatures par les soumissionnaires.
+  - lorsque l’offre est signée en recourant à un certificat qualifié au sens du règlement n° 910/2014 du Parlement européen et du Conseil du 23 juillet 2014 sur l’identification électronique et les services de confiance pour les transactions électroniques au sein du marché intérieur et abrogeant la directive 1999/93/CE, les pouvoirs adjudicateurs n’appliquent pas d’exigences supplémentaires susceptibles de faire obstacle à l’utilisation de ces signatures par les soumissionnaires.
 
 En ce qui concerne les documents utilisés dans le cadre d’une procédure de passation de marchés qui sont signés par une autorité compétente d’un État membre ou une autre entité d’émission compétente, l’autorité ou l’entité d’émission compétente peut établir le format de signature avancé requis conformément aux exigences énoncées à l’article 1er, paragraphe 2, de la décision 2011/130/UE de la Commission européenne du 25 février 2011 établissant des exigences minimales pour le traitement transfrontalier des documents signés électroniquement par les autorités compétentes. Les pouvoirs adjudicateurs mettent en place les mesures nécessaires pour le traitement technique de ces formats en faisant figurer dans le document concerné les informations requises aux fins du traitement de la signature. Ces documents comportent, dans la signature électronique ou le support électronique du document, des informations concernant les possibilités de validation existantes qui permettent de valider la signature électronique reçue en ligne, gratuitement et d’une manière qui soit compréhensible pour les allophones.
 
@@ -7256,7 +7256,7 @@ Lorsque l’appel à la concurrence est effectué au moyen d’un avis périodiq
 
 - il mentionne que ce marché sera passé selon une procédure restreinte ou négociée sans publication ultérieure d’un avis d’appel à la concurrence et invite les opérateurs économiques intéressés à manifester leur intérêt ;
 
-- il contient, outre les informations mentionnées à l’annexe VIII, partie A, section I ère , celles mentionnées à l’annexe VIII, partie A, section II ;
+- il contient, outre les informations mentionnées à l’annexe VIII, partie A, section Ière, celles mentionnées à l’annexe VIII, partie A, section II ;
 
 - il a été envoyé pour publication entre trente-cinq jours et douze mois avant la date d’envoi de l’invitation à confirmer l’intérêt.
 
@@ -7349,7 +7349,7 @@ Les avis visés aux articles 214 à 217 sont publiés intégralement dans la ou 
 
 L’Office des publications de l’Union européenne veille à ce que le texte intégral et le résumé des avis périodiques indicatifs visés à l’article 214, paragraphe 2, des avis d’appel à la concurrence instaurant un système d’acquisition dynamique visés à l’article 251, paragraphe 4, point a), et des avis sur l’existence d’un système de qualification utilisés comme moyen de mise en concurrence conformément à l’article 213, alinéa 1er, point b), continuent à être publiés :
 
-- dans le cas des avis périodiques indicatifs, pendant douze mois ou jusqu’à réception d’un avis d’attribution de marché comme prévu à l’article 217, paragraphe 2, avec la mention qu’aucun autre marché ne sera attribué au cours de la période de douze mois couverte par l’avis d’appel à la concurrence. Toutefois, dans le cas des marchés pour des services sociaux et d’autres services spécifiques, l’avis périodique indicatif visé à l’article 238, paragraphe 1 er , point b), continue d’être publié jusqu’à la fin de sa période de validité indiquée initialement ou jusqu’à réception d’un avis d’attribution de marché, comme prévu à l’article 217, avec la mention qu’aucun autre marché ne sera attribué au cours de la période couverte par l’appel à la concurrence ;
+- dans le cas des avis périodiques indicatifs, pendant douze mois ou jusqu’à réception d’un avis d’attribution de marché comme prévu à l’article 217, paragraphe 2, avec la mention qu’aucun autre marché ne sera attribué au cours de la période de douze mois couverte par l’avis d’appel à la concurrence. Toutefois, dans le cas des marchés pour des services sociaux et d’autres services spécifiques, l’avis périodique indicatif visé à l’article 238, paragraphe 1er, point b), continue d’être publié jusqu’à la fin de sa période de validité indiquée initialement ou jusqu’à réception d’un avis d’attribution de marché, comme prévu à l’article 217, avec la mention qu’aucun autre marché ne sera attribué au cours de la période couverte par l’appel à la concurrence ;
 
 - dans le cas des avis d’appel à la concurrence instaurant un système d’acquisition dynamique, pour la durée de validité de ce système ;
 
@@ -7747,11 +7747,11 @@ Outre les exigences visées à l’alinéa 1er, le règlement ministériel fixan
 
 - le niveau de sécurité exigé pour le recours aux moyens électroniques de communication pour chacune des phases de la procédure de passation de marché, proportionné aux risques ;
 
-- lorsque le niveau de risque, estimé en vertu de la point b), est tel que l’usage de signatures électroniques avancées, au sens du règlement n° 910/2014 du Parlement européen et du Conseil du 23 juillet 2014 sur l’identification électronique et les services de confiance pour les transactions électroniques au sein du marché intérieur et abrogeant la directive 1999/93/CE , est requis, les entités adjudicatrices acceptent les signatures électroniques qui sont accompagnées d’un certificat qualifié, en tenant compte du fait de savoir si ces certificats sont fournis par un fournisseur de services de certificat, qui figure sur une liste de confiance prévue par la décision 2009/767/CE de la Commission européenne du 16 octobre 2009 établissant des mesures, destinées à faciliter l’exécution de procédures par voie électronique par l’intermédiaire des guichets uniques, créés avec ou sans dispositif sécurisé de création de signature, pour autant que les conditions suivantes soient remplies :
+- lorsque le niveau de risque, estimé en vertu de la point b), est tel que l’usage de signatures électroniques avancées, au sens du règlement n° 910/2014 du Parlement européen et du Conseil du 23 juillet 2014 sur l’identification électronique et les services de confiance pour les transactions électroniques au sein du marché intérieur et abrogeant la directive 1999/93/CE, est requis, les entités adjudicatrices acceptent les signatures électroniques qui sont accompagnées d’un certificat qualifié, en tenant compte du fait de savoir si ces certificats sont fournis par un fournisseur de services de certificat, qui figure sur une liste de confiance prévue par la décision 2009/767/CE de la Commission européenne du 16 octobre 2009 établissant des mesures, destinées à faciliter l’exécution de procédures par voie électronique par l’intermédiaire des guichets uniques, créés avec ou sans dispositif sécurisé de création de signature, pour autant que les conditions suivantes soient remplies :
 
   - l’entité adjudicatrice établit le format de signature avancé requis en se fondant sur les formats prévus par la décision 2011/130/UE de la Commission européenne du 25 février 2011 établissant des exigences minimales pour le traitement transfrontalier des documents signés électroniquement par les autorités compétentes, et met en place les mesures nécessaires pour le traitement technique de ces formats; dans le cas où un format de signature électronique différent est utilisé, la signature électronique ou le support électronique du document comporte des informations concernant les possibilités de validation existantes. Les possibilités de validation permettent à l’entité adjudicatrice de valider en ligne, gratuitement et d’une manière qui soit compréhensible pour les allophones, la signature électronique reçue comme une signature électronique avancée accompagnée d’un certificat qualifié. Le ministre compétent pour l’accréditation des prestataires de services de validation notifie les informations concernant le prestataire de services de validation à la Commission européenne, qui les met à la disposition du public sur l’internet ;
 
-  - lorsque l’offre est signée en recourant à un certificat qualifié au sens du règlement n° 910/2014 du Parlement européen et du Conseil du 23 juillet 2014 sur l’identification électronique et les services de confiance pour les transactions électroniques au sein du marché intérieur et abrogeant la directive 1999/93/CE , l’entité adjudicatrice n’applique pas d’exigences supplémentaires susceptibles de faire obstacle à l’utilisation de ces signatures par les soumissionnaires.
+  - lorsque l’offre est signée en recourant à un certificat qualifié au sens du règlement n° 910/2014 du Parlement européen et du Conseil du 23 juillet 2014 sur l’identification électronique et les services de confiance pour les transactions électroniques au sein du marché intérieur et abrogeant la directive 1999/93/CE, l’entité adjudicatrice n’applique pas d’exigences supplémentaires susceptibles de faire obstacle à l’utilisation de ces signatures par les soumissionnaires.
 
 En ce qui concerne les documents utilisés dans le cadre d’une procédure de passation de marchés qui sont signés par une autorité compétente d’un État ou une autre entité d’émission compétente, l’autorité ou l’entité d’émission compétente peut établir le format de signature avancé requis conformément aux exigences énoncées à l’article 1er, paragraphe 2, de la décision 2011/130/UE du 25 février 2011 établissant les exigences minimales pour le traitement transfrontalier des documents signés électroniquement par les autorités compétentes. Les pouvoirs adjudicateurs mettent en place les mesures nécessaires pour le traitement technique de ces formats en faisant figurer dans le document concerné les informations requises aux fins du traitement de la signature. Ces documents comportent, dans la signature électronique ou le support électronique du document, des informations concernant les possibilités de validation existantes qui permettent de valider la signature électronique reçue en ligne, gratuitement et d’une manière qui soit compréhensible pour les allophones.
 
@@ -7787,7 +7787,7 @@ Les entités adjudicatrices informent dans les meilleurs délais chaque candidat
 
 - à tout candidat écarté, les motifs du rejet de sa demande de participation ;
 
-- à tout soumissionnaire écarté, les motifs du rejet de son offre, y compris, dans les cas visés à l’article 144, paragraphe 1 er , alinéas 2 à 4, de la loi, les raisons pour lesquelles elles ont conclu à la non-équivalence ou décidé que les travaux, fournitures, ou services ne répondent pas aux performances ou aux exigences fonctionnelles ;
+- à tout soumissionnaire écarté, les motifs du rejet de son offre, y compris, dans les cas visés à l’article 144, paragraphe 1er, alinéas 2 à 4, de la loi, les raisons pour lesquelles elles ont conclu à la non-équivalence ou décidé que les travaux, fournitures, ou services ne répondent pas aux performances ou aux exigences fonctionnelles ;
 
 - à tout soumissionnaire ayant fait une offre recevable, les caractéristiques et avantages relatifs de l’offre retenue ainsi que le nom du titulaire ou des parties à l’accord-cadre ;
 
@@ -8053,7 +8053,7 @@ Les entités adjudicatrices conservent les informations appropriées concernant 
 
 - l’utilisation de procédures négociées sans appel à la concurrence conformément à l’article 124 de la loi ;
 
-- la non-application des dispositions relatives aux techniques et instruments pour les marchés électroniques et agrégés, au déroulement de la procédure et à l’exécution des marchés, en vertu des dérogations prévues aux chapitres II et III du titre I er du Livre III de la loi ;
+- la non-application des dispositions relatives aux techniques et instruments pour les marchés électroniques et agrégés, au déroulement de la procédure et à l’exécution des marchés, en vertu des dérogations prévues aux chapitres II et III du titre Ier du Livre III de la loi ;
 
 - le cas échéant, les raisons pour lesquelles des moyens de communication autres que les moyens électroniques ont été utilisés pour la soumission électronique.
 
@@ -8132,7 +8132,7 @@ Lorsqu’elle reçoit une demande soumise conformément au paragraphe 1er, la Co
 
 Les marchés destinés à permettre l’exercice de l’activité donnée et les concours organisés pour la poursuite d’une telle activité cessent d’être soumis au Livre III dans chacun des cas suivants :
 
-- la Commission européenne a adopté l’acte d’exécution établissant l’applicabilité de l’article 115, paragraphe 1 er , de la loi, dans les délais prévus à l’annexe VII ;
+- la Commission européenne a adopté l’acte d’exécution établissant l’applicabilité de l’article 115, paragraphe 1er, de la loi, dans les délais prévus à l’annexe VII ;
 
 - la Commission européenne n’a pas adopté l’acte d’exécution dans les délais prévus à l’annexe VII.
 
@@ -8177,7 +8177,7 @@ Afin de permettre au ministre ayant les Travaux publics dans ses attributions, d
 
 Le rapport de contrôle visé à l’alinéa qui précède intègrera :
 
-- le résultat des opérations de contrôle visées au paragraphe 1 er ;
+- le résultat des opérations de contrôle visées au paragraphe 1er ;
 
 - le cas échéant, des informations sur les causes les plus fréquentes de mauvaise application des règles ou d’insécurité juridique, y compris d’éventuels problèmes structurels ou récurrents dans l’application des règles, sur le niveau de participation des PME aux procédures de passation des marchés publics ainsi que sur la prévention, la détection et le signalement adéquat des cas de fraude, de corruption, de conflit d’intérêts et d’autres irrégularités graves dans le cadre de la passation de marchés ; Aux fins du tiret qui précède, on entend par « PME » l’entreprise qui est définie dans la recommandation 2003/361/CE de la Commission européenne du 6 mars 2003 concernant la définition des micro, petites et moyennes entreprises.
 
@@ -8843,9 +8843,9 @@ L'Office des publications de l'Union européenne délivre au pouvoir adjudicateu
 
 ### 2. Publication d'informations complémentaires ou additionnelles
 
-- Sauf disposition contraire de l'article 162, paragraphe 1 er , deuxième et troisième alinéas, les pouvoirs adjudicateurs publient l'intégralité des documents de marché sur l'internet.
+- Sauf disposition contraire de l'article 162, paragraphe 1er, deuxième et troisième alinéas, les pouvoirs adjudicateurs publient l'intégralité des documents de marché sur l'internet.
 
-- Le profil d'acheteur peut comprendre des avis de préinformation, visés à l'article 156, paragraphe 1 er , des informations sur les invitations à soumissionner en cours, les achats programmés, les marchés passés, les procédures annulées, ainsi que toute information générale utile, comme un point de contact, un numéro de téléphone et de télécopie, une adresse postale et une adresse électronique. Le profil d'acheteur peut également comprendre des avis de préinformation servant de moyens d'appel à la concurrence, qui sont publiés au niveau national conformément à l'article 161.
+- Le profil d'acheteur peut comprendre des avis de préinformation, visés à l'article 156, paragraphe 1er, des informations sur les invitations à soumissionner en cours, les achats programmés, les marchés passés, les procédures annulées, ainsi que toute information générale utile, comme un point de contact, un numéro de téléphone et de télécopie, une adresse postale et une adresse électronique. Le profil d'acheteur peut également comprendre des avis de préinformation servant de moyens d'appel à la concurrence, qui sont publiés au niveau national conformément à l'article 161.
 
 ### 3. Format et modalités de transmission des avis par voie électronique
 
@@ -9055,7 +9055,7 @@ Publication des avis
 
 Les avis visés aux articles 214, 215, 216, 217, 238 et 239 sont envoyés par les entités adjudicatrices à l'Office des publications de l'Union européenne et publiés conformément aux règles suivantes :
 
-- Les avis visés aux articles 214, 215, 216, 217, 238 et 239 sont publiés par l'Office des publications de l'Union européenne ou par les entités adjudicatrices dans le cas d'avis périodiques indicatifs publiés sur un profil d'acheteur conformément à l'article 214, paragraphe 1 er .
+- Les avis visés aux articles 214, 215, 216, 217, 238 et 239 sont publiés par l'Office des publications de l'Union européenne ou par les entités adjudicatrices dans le cas d'avis périodiques indicatifs publiés sur un profil d'acheteur conformément à l'article 214, paragraphe 1er.
 
 Les entités adjudicatrices peuvent, en plus, publier ces informations sur l'internet, sur un « profil d'acheteur » tel que visé au paragraphe 2, point b), ci-dessous ;
 
@@ -9065,9 +9065,9 @@ Les entités adjudicatrices peuvent, en plus, publier ces informations sur l'int
 
 Publication d'informations complémentaires ou additionnelles
 
-- Sauf disposition contraire de l'article 240, paragraphe 1 er , troisième et quatrième alinéas, les entités adjudicatrices publient l'intégralité des documents de marché sur Internet.
+- Sauf disposition contraire de l'article 240, paragraphe 1er, troisième et quatrième alinéas, les entités adjudicatrices publient l'intégralité des documents de marché sur Internet.
 
-- Le profil d'acheteur peut comprendre des avis périodiques indicatifs, visés à l'article 214, paragraphe 1 er , des informations sur les invitations à soumissionner en cours, les achats programmés, les marchés passés, les procédures annulées, ainsi que toute information générale utile, comme un point de contact, un numéro de téléphone et de télécopie, une adresse postale et une adresse électronique. Le profil d'acheteur peut également comprendre des avis périodiques indicatifs servant de moyens d'appel à la concurrence, qui sont publiés au niveau national conformément à l'article 220.
+- Le profil d'acheteur peut comprendre des avis périodiques indicatifs, visés à l'article 214, paragraphe 1er, des informations sur les invitations à soumissionner en cours, les achats programmés, les marchés passés, les procédures annulées, ainsi que toute information générale utile, comme un point de contact, un numéro de téléphone et de télécopie, une adresse postale et une adresse électronique. Le profil d'acheteur peut également comprendre des avis périodiques indicatifs servant de moyens d'appel à la concurrence, qui sont publiés au niveau national conformément à l'article 220.
 
 3.
 
@@ -9485,7 +9485,7 @@ Au moins un résumé sur la nature et la quantité des produits, des travaux ou 
 
 - Forme de l'appel à la concurrence (avis sur l'existence d'un système de qualification, avis périodique, appel d'offres).
 
-- Date(s) et référence(s) de la publication de l'avis au Journal officiel de l'Union européenne .
+- Date(s) et référence(s) de la publication de l'avis au Journal officiel de l'Union européenne.
 
 - Dans le cas de marchés passés sans mise en concurrence préalable, indiquer la disposition concernée de l'article 124 de la loi.
 
@@ -9944,7 +9944,7 @@ Aux fins de la présente loi, les présentes définitions s'appliquent:
 
 - «accord-cadre»: un accord conclu entre un ou plusieurs pouvoirs adjudicateurs ou entités adjudicatrices et un ou plusieurs opérateurs économiques ayant pour objet d'établir les termes régissant les marchés à passer au cours d'une période donnée, notamment en ce qui concerne les prix et, le cas échéant, les quantités envisagées;
 
-- «achats civils»: des marchés qui ne sont pas visés à l'article 1 er , ayant pour objet des achats de produits, travaux ou services logistiques de nature non militaire effectués dans les conditions visées à l'article 17 de la présente loi;
+- «achats civils»: des marchés qui ne sont pas visés à l'article 1er, ayant pour objet des achats de produits, travaux ou services logistiques de nature non militaire effectués dans les conditions visées à l'article 17 de la présente loi;
 
 - «candidat»: un opérateur économique qui a sollicité une invitation à participer à une procédure restreinte ou négociée ou à un dialogue compétitif;
 
@@ -9966,7 +9966,7 @@ Aux fins de la présente loi, les présentes définitions s'appliquent:
 
   - d'établir le montage juridique et/ou financier d'un projet;
 
-- «Directive 2009/81/CE»: la directive 2009/81/CE du Parlement européen et du Conseil du 13 juillet 2009 relative à la coordination des procédures de passation de certains marchés de travaux, de fournitures et de services par des pouvoirs adjudicateurs ou entités adjudicatrices dans les domaines de la défense et de la sécurité, et modifiant les directives 2004/17/CE et 2004/18/CE ;
+- «Directive 2009/81/CE»: la directive 2009/81/CE du Parlement européen et du Conseil du 13 juillet 2009 relative à la coordination des procédures de passation de certains marchés de travaux, de fournitures et de services par des pouvoirs adjudicateurs ou entités adjudicatrices dans les domaines de la défense et de la sécurité, et modifiant les directives 2004/17/CE et 2004/18/CE;
 
 - «écrit(e)» ou «par écrit»: tout ensemble de mots ou de chiffres qui peut être lu, reproduit, puis communiqué. Cet ensemble peut inclure des informations transmises et stockées par des moyens électroniques;
 
@@ -9996,7 +9996,7 @@ Aux fins de la présente loi, les présentes définitions s'appliquent:
 
 - «opérateur économique»: un entrepreneur, fournisseur ou prestataire de services. Les termes «opérateur économique» sont utilisés uniquement dans un souci de simplification du texte;
 
-- «pouvoirs adjudicateurs ou entités adjudicatrices»: pouvoirs adjudicateurs au sens de l'article 2 de la loi modifiée du 25 juin 2009 sur les marchés publics et entités adjudicatrices au sens de l'article 56 de cette loi ;
+- «pouvoirs adjudicateurs ou entités adjudicatrices»: pouvoirs adjudicateurs au sens de l'article 2 de la loi modifiée du 25 juin 2009 sur les marchés publics et entités adjudicatrices au sens de l'article 56 de cette loi;
 
 - «procédure négociée»: une procédure dans laquelle le pouvoir adjudicateur ou l'entité adjudicatrice invitent les opérateurs économiques de leur choix et négocient les conditions du marché avec un ou plusieurs d'entre eux;
 
@@ -11005,7 +11005,7 @@ Situation personnelle du candidat ou soumissionnaire
 
 Est exclu de la participation à un marché public tout candidat ou soumissionnaire ayant fait l'objet d'une condamnation prononcée par un jugement définitif, dont le pouvoir adjudicateur ou l'entité adjudicatrice ont connaissance, pour une ou plusieurs des raisons énumérées ci-dessous:
 
-- infraction aux articles 322 à 324 ter du Code pénal relatifs à la participation à une organisation criminelle;
+- infraction aux articles 322 à 324ter du Code pénal relatifs à la participation à une organisation criminelle;
 
 - infraction aux articles 246 à 249 du Code pénal relatifs à la corruption;
 
@@ -11043,7 +11043,7 @@ Les conditions d'application du présent paragraphe sont indiquées dans les cah
 
 Les pouvoirs adjudicateurs ou les entités adjudicatrices acceptent comme preuve suffisante attestant que l'opérateur économique ne se trouve pas dans les cas visés au paragraphe 1er et au paragraphe 2, points a), b), c), f) et g):
 
-- pour le paragraphe 1 er et le paragraphe 2, points a), et c), la production d'un extrait du casier judiciaire ou, à défaut, d'un document équivalent délivré par l'autorité judiciaire ou administrative compétente du pays d'origine ou de provenance et dont il résulte que ces exigences sont satisfaites;
+- pour le paragraphe 1er et le paragraphe 2, points a), et c), la production d'un extrait du casier judiciaire ou, à défaut, d'un document équivalent délivré par l'autorité judiciaire ou administrative compétente du pays d'origine ou de provenance et dont il résulte que ces exigences sont satisfaites;
 
 - pour le paragraphe 2, points f) et g), un certificat délivré par l'autorité compétente de l'Etat membre concerné.
 
@@ -11457,7 +11457,7 @@ Dispositions modificatives de la loi du 10 novembre 2010 instituant les recours 
 
 La loi du 10 novembre 2010 instituant les recours en matière de marchés publics est modifiée comme suit:
 
-- est rajouté à son article 1 er un nouveau deuxième alinéa avec le texte suivant:
+- est rajouté à son article 1er un nouveau deuxième alinéa avec le texte suivant:
 
 - le premier alinéa de son article 5 est modifié comme suit:
 
@@ -11482,7 +11482,7 @@ Dispositions modificatives de la loi modifiée du 25 juin 2009 sur les marchés 
 
 La loi modifiée du 25 juin 2009 sur les marchés publics est modifié comme suit:
 
-- est rajouté à son article 1 er un nouveau paragraphe avec le texte suivant:
+- est rajouté à son article 1er un nouveau paragraphe avec le texte suivant:
 
 - l'introduction du point j) de l'article 8 est modifiée comme suit:
 
@@ -11782,7 +11782,7 @@ Caractéristiques concernant la publication
 
 - Publication des avis
 
-  - Les avis visés aux articles 30 et 52 sont envoyés par les pouvoirs adjudicateurs ou les entités adjudicatrices ou les soumissionnaires retenus à l’Office des publications de l’Union européenne dans le format visé à l’article 31. Les avis de préinformation visés à l’article 30, paragraphe 1 er , premier aliéna, publiés sur un profil d’acheteur tel que visé au point 2, respectent également ce format, de même que l’avis annonçant cette publication. Les avis visés aux articles 30 et 52 sont publiés par l’Office des publications de l’Union européenne ou par les pouvoirs adjudicateurs ou les entités adjudicatrices dans le cas d’avis de préinformation publiés sur un profil d’acheteur conformément à l’article 30, paragraphe 1er, premier alinéa. Les pouvoirs adjudicateurs ou les entités adjudicatrices peuvent, en outre, publier ces informations via le réseau internet su un «profil acheteur» tel que visé au point 2;
+  - Les avis visés aux articles 30 et 52 sont envoyés par les pouvoirs adjudicateurs ou les entités adjudicatrices ou les soumissionnaires retenus à l’Office des publications de l’Union européenne dans le format visé à l’article 31. Les avis de préinformation visés à l’article 30, paragraphe 1er, premier aliéna, publiés sur un profil d’acheteur tel que visé au point 2, respectent également ce format, de même que l’avis annonçant cette publication. Les avis visés aux articles 30 et 52 sont publiés par l’Office des publications de l’Union européenne ou par les pouvoirs adjudicateurs ou les entités adjudicatrices dans le cas d’avis de préinformation publiés sur un profil d’acheteur conformément à l’article 30, paragraphe 1er, premier alinéa. Les pouvoirs adjudicateurs ou les entités adjudicatrices peuvent, en outre, publier ces informations via le réseau internet su un «profil acheteur» tel que visé au point 2;
 
   - L’Office des publications de l’Union européenne délivre au pouvoir adjudicateur ou à l’entité adjudicatrice la confirmation de publication visée à l’article 31, paragraphe 8.
 
@@ -11879,7 +11879,7 @@ La publication électronique sur le portail des avis, des documents de marché e
 
 Le traitement des données à caractère personnel, au sens du règlement général sur la protection des données règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE (règlement général sur la protection des données), notamment celles visées aux articles 6 et 7 ainsi que d’autres données à caractère personnel collectées au moyen du portail, est réalisé :
 
-- sous la responsabilité du ministre ayant les Travaux publics dans ses attributions, ci-après, « ministre », pour les finalités de gestion du portail et des services souscrits par les personnes concernées au moyen du portail; ces traitements portent au moins sur l’historique des actions et transactions réalisées sur ou au moyen du portail, la conservation des documents échangés au moyen du portail et celle des messages échangés au moyen de la messagerie intégrée du portail; ces traitements sont réalisés selon les modalités fixées par le règlement ministériel visé à l’article 270, paragraphe 1 er du règlement grand-ducal d’exécution du 8 avril 2018 de la loi du 8 avril 2018 sur les marchés publics; et
+- sous la responsabilité du ministre ayant les Travaux publics dans ses attributions, ci-après, « ministre », pour les finalités de gestion du portail et des services souscrits par les personnes concernées au moyen du portail; ces traitements portent au moins sur l’historique des actions et transactions réalisées sur ou au moyen du portail, la conservation des documents échangés au moyen du portail et celle des messages échangés au moyen de la messagerie intégrée du portail; ces traitements sont réalisés selon les modalités fixées par le règlement ministériel visé à l’article 270, paragraphe 1er du règlement grand-ducal d’exécution du 8 avril 2018 de la loi du 8 avril 2018 sur les marchés publics; et
 
 - sous la responsabilité de chaque pouvoir adjudicateur ou entité adjudicatrice concerné, pour les finalités de l’administration des offres et des demandes de participation qui les concernent, la gestion des soumissions y relatives et des registres visés à l’article 7, ainsi que la communication avec les opérateurs économiques.
 
@@ -12136,15 +12136,15 @@ Pour l’application de la présente loi, on entend par :
 
 - « syntaxe » : le langage ou le dialecte lisible par une machine qui est utilisé pour représenter les éléments de données contenus dans une facture électronique ;
 
-- « pouvoirs adjudicateurs » : les pouvoirs adjudicateurs au sens de l’article 3, point 21, de la loi du 26 décembre 2012 sur les marchés publics de la défense et de la sécurité, au sens de l’article 6, point 1, de la loi du 3 juillet 2018 sur l’attribution de contrats de concession et portant modification du Code pénal , du Code du travail et de la loi modifiée du 10 novembre 2010 instituant les recours en matière de marchés publics et au sens de l’article 2, lettre a, de la loi modifiée du 8 avril 2018 sur les marchés publics ;
+- « pouvoirs adjudicateurs » : les pouvoirs adjudicateurs au sens de l’article 3, point 21, de la loi du 26 décembre 2012 sur les marchés publics de la défense et de la sécurité, au sens de l’article 6, point 1, de la loi du 3 juillet 2018 sur l’attribution de contrats de concession et portant modification du Code pénal, du Code du travail et de la loi modifiée du 10 novembre 2010 instituant les recours en matière de marchés publics et au sens de l’article 2, lettre a, de la loi modifiée du 8 avril 2018 sur les marchés publics ;
 
 - « pouvoirs adjudicateurs sous-centraux » : les pouvoirs adjudicateurs au sens de l’article 2, lettre c, de la loi modifiée du 8 avril 2018 sur les marchés publics ;
 
 - « centrale d’achat » : une centrale d’achat au sens de l’article 4, lettre g, de la loi modifiée du 8 avril 2018 sur les marchés publics ;
 
-- « entités adjudicatrices » : les entités adjudicatrices au sens de de l’article 3, point 21, de la loi du 26 décembre 2012 sur les marchés publics de la défense et de la sécurité, au sens de l’article 7 de la loi du 3 juillet 2018 sur l’attribution de contrats de concession et portant modification du Code pénal , du Code du travail et de la loi modifiée du 10 novembre 2010 instituant les recours en matière de marchés publics et au sens de l’article 87 de la loi modifiée du 8 avril 2018 sur les marchés publics ;
+- « entités adjudicatrices » : les entités adjudicatrices au sens de de l’article 3, point 21, de la loi du 26 décembre 2012 sur les marchés publics de la défense et de la sécurité, au sens de l’article 7 de la loi du 3 juillet 2018 sur l’attribution de contrats de concession et portant modification du Code pénal, du Code du travail et de la loi modifiée du 10 novembre 2010 instituant les recours en matière de marchés publics et au sens de l’article 87 de la loi modifiée du 8 avril 2018 sur les marchés publics ;
 
-- « norme européenne » : une norme européenne au sens de l’article 2, point 1) b), du règlement (UE) n° 1025/2012 du Parlement européen et du Conseil du 25 octobre 2012 relatif à la normalisation européenne, modifiant les directives 89/686/CEE et 93/15/CEE du Conseil ainsi que les directives 94/9/CE , 94/25/CE , 95/16/CE , 97/23/CE , 98/34/CE , 2004/22/CE , 2007/23/CE , 2009/23/CE et 2009/105/CE du Parlement européen et du Conseil et abrogeant la décision 87/95/CEE du Conseil et la décision n° 1673/2006/CE du Parlement européen et du Conseil ;
+- « norme européenne » : une norme européenne au sens de l’article 2, point 1) b), du règlement (UE) n° 1025/2012 du Parlement européen et du Conseil du 25 octobre 2012 relatif à la normalisation européenne, modifiant les directives 89/686/CEE et 93/15/CEE du Conseil ainsi que les directives 94/9/CE, 94/25/CE, 95/16/CE, 97/23/CE, 98/34/CE, 2004/22/CE, 2007/23/CE, 2009/23/CE et 2009/105/CE du Parlement européen et du Conseil et abrogeant la décision 87/95/CEE du Conseil et la décision n° 1673/2006/CE du Parlement européen et du Conseil ;
 
 - « opérateurs économiques » : les opérateurs économiques au sens de l’article 3, point 20, de la loi du 26 décembre 2012 sur les marchés publics de la défense et de la sécurité, au sens de l’article 5, point 2, de la loi du 3 juillet 2018 sur l’attribution de contrats de concession et au sens de l’article 3, paragraphe 2, lettre i, de la loi modifiée du 8 avril 2018 sur les marchés publics ;
 
@@ -12268,7 +12268,7 @@ L’article 4bis s’applique cinq mois après l’entrée en vigueur de la loi 
 
 Par dérogation à l’alinéa 1er, les opérateurs économiques :
 
-- appliquent l’obligation énoncée à l’article 4 bis , dix mois après l’entrée en vigueur de la loi du 13 décembre 2021 modifiant la loi du 16 mai 2019 relative à la facturation électronique dans le cadre des marchés publics et des contrats de concession au plus tard, à la condition de ne pas dépasser à la date de clôture du bilan de l’année 2019, les limites chiffrées d’au moins deux des trois critères suivants :
+- appliquent l’obligation énoncée à l’article 4bis, dix mois après l’entrée en vigueur de la loi du 13 décembre 2021 modifiant la loi du 16 mai 2019 relative à la facturation électronique dans le cadre des marchés publics et des contrats de concession au plus tard, à la condition de ne pas dépasser à la date de clôture du bilan de l’année 2019, les limites chiffrées d’au moins deux des trois critères suivants :
 
   - total du bilan : 20 millions d’euros ;
 
@@ -12276,7 +12276,7 @@ Par dérogation à l’alinéa 1er, les opérateurs économiques :
 
   - nombre des membres du personnel employé à plein temps et en moyenne au cours de l’exercice : 250.
 
-- appliquent l’obligation énoncée à l’article 4 bis , quinze mois après l’entrée en vigueur de de la loi du 13 décembre 2021 modifiant la loi du 16 mai 2019 relative à la facturation électronique dans le cadre des marchés publics et des contrats de concession au plus tard, à la condition de ne pas dépasser à la date de clôture du bilan de l’année 2019, les limites chiffrées d’au moins deux des trois critères suivants :
+- appliquent l’obligation énoncée à l’article 4bis, quinze mois après l’entrée en vigueur de de la loi du 13 décembre 2021 modifiant la loi du 16 mai 2019 relative à la facturation électronique dans le cadre des marchés publics et des contrats de concession au plus tard, à la condition de ne pas dépasser à la date de clôture du bilan de l’année 2019, les limites chiffrées d’au moins deux des trois critères suivants :
 
   - total du bilan : 4,4 millions d’euros ;
 
@@ -12284,7 +12284,7 @@ Par dérogation à l’alinéa 1er, les opérateurs économiques :
 
   - nombre des membres du personnel employé à plein temps et en moyenne au cours de l’exercice : 50.
 
-- appliquent l’obligation énoncée à l’article 4 bis , quinze mois après l’entrée en vigueur de la loi du 13 décembre 2021 modifiant la loi du 16 mai 2019 relative à la facturation électronique dans le cadre des marchés publics et des contrats de concession au plus tard s’il leur est matériellement impossible de fournir, pour l’année 2019, les limites chiffrées d’au moins un des trois critères visés respectivement au point 1°, lettres a) à c) et au point 2°, lettres a) à c).
+- appliquent l’obligation énoncée à l’article 4bis, quinze mois après l’entrée en vigueur de la loi du 13 décembre 2021 modifiant la loi du 16 mai 2019 relative à la facturation électronique dans le cadre des marchés publics et des contrats de concession au plus tard s’il leur est matériellement impossible de fournir, pour l’année 2019, les limites chiffrées d’au moins un des trois critères visés respectivement au point 1°, lettres a) à c) et au point 2°, lettres a) à c).
 
 ## Règlement ministériel du 8 juillet 2019 instituant un cahier spécial des charges standardisé relatif aux marchés de travaux de ferblanterie.
 
@@ -12443,9 +12443,9 @@ Les navigateurs, équipements, configurations et services requis ou préconisés
 
   - Seules les signatures électroniques répondant à toutes les caractéristiques suivantes sont acceptées :
 
-    - La signature électronique doit avoir été créée par un dispositif de création de signatures électroniques qualifiées ( Qualified certificate for electronic signature ) au sens du règlement (UE) n° 910/2014 du Parlement européen et du Conseil du 23 juillet 2014 sur l’identification électronique et les services de confiance pour les transactions électroniques au sein du marché intérieur et abrogeant la directive 1999/93/CE (" eIDAS "), permettant de signer des documents de façon électronique avec l’assurance que ces signatures ont, dans tous les pays de l’Union européenne (UE), une valeur juridique équivalente à celle d’une signature manuscrite.
+    - La signature électronique doit avoir été créée par un dispositif de création de signatures électroniques qualifiées (Qualified certificate for electronic signature) au sens du règlement (UE) n° 910/2014 du Parlement européen et du Conseil du 23 juillet 2014 sur l’identification électronique et les services de confiance pour les transactions électroniques au sein du marché intérieur et abrogeant la directive 1999/93/CE ("eIDAS"), permettant de signer des documents de façon électronique avec l’assurance que ces signatures ont, dans tous les pays de l’Union européenne (UE), une valeur juridique équivalente à celle d’une signature manuscrite.
 
-    - La signature électronique qualifiée doit figurer sur une des listes de confiance (« EU Trusted Lists »), telles que définies à l’article 22 du règlement eIDAS. Une vérification de la validité de la signature électronique doit pouvoir être effectuée sur le site « Trusted List Browser » ( https://webgate.ec.europa.eu/tl-browser ).
+    - La signature électronique qualifiée doit figurer sur une des listes de confiance (« EU Trusted Lists »), telles que définies à l’article 22 du règlement eIDAS. Une vérification de la validité de la signature électronique doit pouvoir être effectuée sur le site « Trusted List Browser » (https://webgate.ec.europa.eu/tl-browser).
 
     - Les certificats de signature électronique des Utilisateurs doivent être accessibles :
 
@@ -12583,7 +12583,7 @@ Les termes « données personnelles », « traitement », « responsable de trai
 
 L’Adjudicateur :
 
-- demande au MMTP, qui accepte, de réaliser les actes de traitement (le " Traitement ") de données personnelles (les " Données ") nécessaires à la gestion des marchés publics et des concessions de l’Adjudicateur au moyen du Portail, ainsi que ceux visés dans des instructions documentées par écrit que l’Adjudicateur pourra donner le cas échéant au MMTP (étant précisé qu’aucune instruction ne saurait être contraire aux dispositions légales applicables en matière de marchés et de concessions ou avoir comme conséquence le non-respect de ces dispositions par le MMTP) ;
+- demande au MMTP, qui accepte, de réaliser les actes de traitement (le "Traitement") de données personnelles (les "Données") nécessaires à la gestion des marchés publics et des concessions de l’Adjudicateur au moyen du Portail, ainsi que ceux visés dans des instructions documentées par écrit que l’Adjudicateur pourra donner le cas échéant au MMTP (étant précisé qu’aucune instruction ne saurait être contraire aux dispositions légales applicables en matière de marchés et de concessions ou avoir comme conséquence le non-respect de ces dispositions par le MMTP) ;
 
 - demande en particulier au MMTP d’effectuer le Traitement nécessaire à la publication des avis, le dépôt des offres et toutes les opérations de gestion des appels d’offres et de communication avec les Opérateurs économiques conformément aux procédures et dispositions légales applicables en matière de marchés publics et de concessions ; les Données porteront sur les personnes physiques agissant en qualité de représentant des adjudicateurs et Opérateurs économiques, les Utilisateurs et toutes les personnes physiques dont des Données peuvent être incluses dans les offres des Opérateurs économiques; ces Données peuvent inclure l’identité, les données de connexion au Portail et toute information potentiellement contenue dans les offres des Opérateurs économiques; le Traitement et la durée de conservation des Données devront être conformes aux dispositions légales applicables en matière de marchés publics et de concessions ; et
 
@@ -12750,7 +12750,7 @@ Le pouvoir adjudicateur ou l’entité adjudicatrice est obligé de surseoir à 
 
 La décision d’attribution est communiquée à chaque soumissionnaire et candidat concerné, accompagnée:
 
-- d’un exposé synthétique des motifs pertinents à communiquer par le pouvoir adjudicateur sur demande de la partie concernée tel que prévu par règlement grand-ducal, sauf exceptions y prévues, et pour les marchés tombant dans le champ d’application du livre III de la loi modifiée du 25 juin 2009 sur les marchés publics, d’un exposé synthétique des motifs pertinents à communiquer par les entités adjudicatrices sur demande de la partie concernée tel que prévu par règlement grand-ducal, sauf exceptions y prévues et pour les contrats de concession d’un exposé synthétique des motifs pertinents à communiquer par les pouvoirs adjudicateurs ou entités adjudicatrices sur demande de la partie concernée tel que prévu par l’article 40 paragraphe 1 er de la loi sur l’attribution de contrats de concession , sous réserve de l’article 40, paragraphe 2.
+- d’un exposé synthétique des motifs pertinents à communiquer par le pouvoir adjudicateur sur demande de la partie concernée tel que prévu par règlement grand-ducal, sauf exceptions y prévues, et pour les marchés tombant dans le champ d’application du livre III de la loi modifiée du 25 juin 2009 sur les marchés publics, d’un exposé synthétique des motifs pertinents à communiquer par les entités adjudicatrices sur demande de la partie concernée tel que prévu par règlement grand-ducal, sauf exceptions y prévues et pour les contrats de concession d’un exposé synthétique des motifs pertinents à communiquer par les pouvoirs adjudicateurs ou entités adjudicatrices sur demande de la partie concernée tel que prévu par l’article 40 paragraphe 1er de la loi sur l’attribution de contrats de concession, sous réserve de l’article 40, paragraphe 2.
 
 - d’une mention précise de la durée exacte du délai de suspension applicable.
 
@@ -12769,16 +12769,16 @@ Lorsque la dérogation visée au point c) est invoquée, le marché en cause est
 
 - s’il y a eu violation des dispositions régissant l’attribution des marchés fondés sur les accords-cadres ou régissant l’attribution de marchés spécifiques fondés sur des systèmes d’acquisition dynamiques avec plusieurs opérateurs économiques remis en concurrence telles que fixées par règlement grand-ducal,
 
-- si le montant estimé du marché est égal ou supérieur aux seuils d'application du livre II de la loi sur les marchés publics ou aux seuils visés à l'article 8 de la loi sur les marchés publics de la défense et de la sécurité .
+- si le montant estimé du marché est égal ou supérieur aux seuils d'application du livre II de la loi sur les marchés publics ou aux seuils visés à l'article 8 de la loi sur les marchés publics de la défense et de la sécurité.
 
 <a id="art-n221b0"></a>
 ## Art. 9.
 
 Un marché est déclaré dépourvu d’effets par le président du tribunal d’arrondissement siégeant comme juge des référés:
 
-- si le pouvoir adjudicateur ou l’entité adjudicatrice a passé un marché sans avoir préalablement publié un avis de marché au Journal officiel de l’Union européenne, sans que cela ne soit autorisé en vertu des dispositions des Livres II et III de la loi sur les marchés publics , ou que le pouvoir adjudicateur ou l’entité adjudicatrice a attribué un contrat de concession sans avoir préalablement publié un avis de concession au Journal officiel de l’Union européenne, sans que cela ne soit autorisé par l’article 30 de la loi sur l’attribution de contrats de concession ;
+- si le pouvoir adjudicateur ou l’entité adjudicatrice a passé un marché sans avoir préalablement publié un avis de marché au Journal officiel de l’Union européenne, sans que cela ne soit autorisé en vertu des dispositions des Livres II et III de la loi sur les marchés publics, ou que le pouvoir adjudicateur ou l’entité adjudicatrice a attribué un contrat de concession sans avoir préalablement publié un avis de concession au Journal officiel de l’Union européenne, sans que cela ne soit autorisé par l’article 30 de la loi sur l’attribution de contrats de concession ;
 
-- en cas de violation des articles 4, alinéa (2), 5, 6, 20, paragraphe 5, ou de l’article 21, si cette violation a privé le soumissionnaire intentant un recours de la possibilité d’engager ou de mener à son terme un recours précontractuel lorsqu’une telle violation est accompagnée, soit d’une violation des dispositions des Livres II ou III de la loi sur les marchés publics ou des dispositions régissant le cahier général des charges applicables aux marchés publics d’une certaine envergure et le cahier général des charges applicables aux marchés dans les secteurs de l’eau, de l’énergie, des transports et des services postaux telles que fixées par règlement grand-ducal, soit d’une violation des dispositions des titres I et II de la loi du 26 décembre 2012 sur les marchés publics de la défense et de la sécurité, ou d’une violation des dispositions de la loi sur l’attribution de contrats de concession , et si cette violation a compromis les chances du soumissionnaire intentant un recours d’obtenir le marché ;
+- en cas de violation des articles 4, alinéa (2), 5, 6, 20, paragraphe 5, ou de l’article 21, si cette violation a privé le soumissionnaire intentant un recours de la possibilité d’engager ou de mener à son terme un recours précontractuel lorsqu’une telle violation est accompagnée, soit d’une violation des dispositions des Livres II ou III de la loi sur les marchés publics ou des dispositions régissant le cahier général des charges applicables aux marchés publics d’une certaine envergure et le cahier général des charges applicables aux marchés dans les secteurs de l’eau, de l’énergie, des transports et des services postaux telles que fixées par règlement grand-ducal, soit d’une violation des dispositions des titres I et II de la loi du 26 décembre 2012 sur les marchés publics de la défense et de la sécurité, ou d’une violation des dispositions de la loi sur l’attribution de contrats de concession, et si cette violation a compromis les chances du soumissionnaire intentant un recours d’obtenir le marché ;
 
 - dans les cas visés à l’article 8, point c), deuxième alinéa.
 
@@ -12807,11 +12807,11 @@ Toutefois, l’intérêt économique directement lié au marché concerné ne co
 
 L’intervention du président du tribunal d’arrondissement siégeant comme juge des référés prévue à l’article 9, point a) est exclue si:
 
-- le pouvoir adjudicateur ou l’entité adjudicatrice estiment que la passation du marché sans publication préalable d’un avis de marché ou d’un avis de concession au Journal officiel de l’Union européenne est autorisée en vertu des dispositions des Livres II ou III de la loi sur les marchés publics ou des dispositions de la loi du 26 décembre 2012 sur les marchés publics de la défense et de la sécurité ou des dispositions de la loi sur l’attribution de contrats de concession ,
+- le pouvoir adjudicateur ou l’entité adjudicatrice estiment que la passation du marché sans publication préalable d’un avis de marché ou d’un avis de concession au Journal officiel de l’Union européenne est autorisée en vertu des dispositions des Livres II ou III de la loi sur les marchés publics ou des dispositions de la loi du 26 décembre 2012 sur les marchés publics de la défense et de la sécurité ou des dispositions de la loi sur l’attribution de contrats de concession,
 
 - le pouvoir adjudicateur ou l’entité adjudicatrice a publié au Journal officiel de l’Union européenne un avis de transparence ex ante volontaire exprimant son intention de conclure le marché, tel que décrit à l’article 18, et
 
-- le marché n’a pas été conclu avant l’expiration d’un délai d’au moins dix jours à compter du lendemain du jour de publication de cet avis au Journal officiel de l’Union européenne .
+- le marché n’a pas été conclu avant l’expiration d’un délai d’au moins dix jours à compter du lendemain du jour de publication de cet avis au Journal officiel de l’Union européenne.
 
 En cas de recours dans le délai prévu au troisième tiret selon les modalités des articles 6 ou 21, le pouvoir adjudicateur ou l’entité adjudicatrice est obligé de surseoir à la conclusion du contrat jusqu’à la notification de l’ordonnance en référé et jusqu’à l’expiration du délai prévu au troisième tiret.
 
@@ -12860,9 +12860,9 @@ L’introduction d’un recours en application de l’article 9 doit intervenir:
 
 - avant l’expiration d’un délai de 30 jours à compter du lendemain du jour où:
 
-  - le pouvoir adjudicateur ou l’entité adjudicatrice a publié un avis d’attribution du marché selon les procédures fixées par règlement grand-ducal ou conformément à l’article 30, paragraphe 3, et aux articles 31 et 32 de la loi du 26 décembre 2012 sur les marchés publics de la défense et de la sécurité, pour les marchés relevant de ladite loi , ou conformément aux articles 31 et 32 de la loi sur l’attribution de contrats de concession , à condition que cet avis contienne la justification de la décision d’attribuer le marché sans publication préalable d’un avis de marché au Journal officiel de l’Union européenne, ou
+  - le pouvoir adjudicateur ou l’entité adjudicatrice a publié un avis d’attribution du marché selon les procédures fixées par règlement grand-ducal ou conformément à l’article 30, paragraphe 3, et aux articles 31 et 32 de la loi du 26 décembre 2012 sur les marchés publics de la défense et de la sécurité, pour les marchés relevant de ladite loi, ou conformément aux articles 31 et 32 de la loi sur l’attribution de contrats de concession, à condition que cet avis contienne la justification de la décision d’attribuer le marché sans publication préalable d’un avis de marché au Journal officiel de l’Union européenne, ou
 
-  - le pouvoir adjudicateur ou l’entité adjudicatrice a informé les soumissionnaires et les candidats concernés de la conclusion d’un accord-cadre ou de l’adjudication d’un marché, pour autant que cette information soit accompagnée d’un exposé synthétique des motifs tel que prévu à l’article 7, ou en ce qui concerne la loi sur l’attribution de contrats de concession tel que prévu à l’article 39, paragraphe 1 er , alinéa 2, sous réserve de l’article 39, paragraphe 2. Ce délai s’applique également aux cas visés à l’article 8, point c) ;
+  - le pouvoir adjudicateur ou l’entité adjudicatrice a informé les soumissionnaires et les candidats concernés de la conclusion d’un accord-cadre ou de l’adjudication d’un marché, pour autant que cette information soit accompagnée d’un exposé synthétique des motifs tel que prévu à l’article 7, ou en ce qui concerne la loi sur l’attribution de contrats de concession tel que prévu à l’article 39, paragraphe 1er, alinéa 2, sous réserve de l’article 39, paragraphe 2. Ce délai s’applique également aux cas visés à l’article 8, point c) ;
 
 - avant l’expiration d’un délai de six mois à compter du lendemain du jour de la conclusion du contrat lorsque le pouvoir adjudicateur ou l’entité adjudicatrice n’a pas respecté les dispositions du point a).
 
@@ -12885,7 +12885,7 @@ L’avis de transparence ex ante volontaire visé à l’article 12, deuxième t
 
 - description de l’objet du marché;
 
-- justification de la décision du pouvoir adjudicateur ou de l’entité adjudicatrice d’attribuer le marché sans publication préalable d’avis de marché au Journal officiel de l’Union européenne ;
+- justification de la décision du pouvoir adjudicateur ou de l’entité adjudicatrice d’attribuer le marché sans publication préalable d’avis de marché au Journal officiel de l’Union européenne;
 
 - nom et coordonnées de l’opérateur économique auquel il a été décidé d’attribuer le marché, et
 
@@ -13407,7 +13407,7 @@ Le paragraphe 1er s'applique également lorsqu'une personne morale contrôlée q
 
 Un pouvoir adjudicateur ou une entité adjudicatrice au sens de l'article 7, paragraphe 1er, point a), qui n'exerce pas de contrôle au sens du paragraphe 1er sur une personne morale de droit privé ou public peut néanmoins attribuer une concession à cette personne morale sans appliquer la présente loi, lorsque toutes les conditions suivantes sont réunies :
 
-- le pouvoir adjudicateur ou l'entité adjudicatrice au sens de l'article 7, paragraphe 1 er , point a), exerce, conjointement avec d'autres pouvoirs adjudicateurs ou entités adjudicatrices, un contrôle sur cette personne morale analogue à celui qu'ils exercent sur leurs propres services ;
+- le pouvoir adjudicateur ou l'entité adjudicatrice au sens de l'article 7, paragraphe 1er, point a), exerce, conjointement avec d'autres pouvoirs adjudicateurs ou entités adjudicatrices, un contrôle sur cette personne morale analogue à celui qu'ils exercent sur leurs propres services ;
 
 - plus de 80 pour cent des activités de cette personne morale sont exercées dans le cadre de l'exécution des tâches qui lui sont confiées par les pouvoirs adjudicateurs ou les entités adjudicatrices qui la contrôlent ou par d'autres personnes morales que ces mêmes pouvoirs adjudicateurs ou entités adjudicatrices contrôlent ; et
 
@@ -13739,7 +13739,7 @@ Aux fins de l’alinéa 1er, une offre n'est pas considérée comme appropriée 
 
 Aux fins de l’alinéa 1er, une candidature n'est pas considérée comme appropriée dès lors que :
 
-- le candidat concerné est ou peut être exclu en vertu de l'article 37, paragraphes 5 à 9, ou ne remplit pas les critères de sélection établis par le pouvoir adjudicateur ou l'entité adjudicatrice en vertu de l'article 37, paragraphe 1 er ;
+- le candidat concerné est ou peut être exclu en vertu de l'article 37, paragraphes 5 à 9, ou ne remplit pas les critères de sélection établis par le pouvoir adjudicateur ou l'entité adjudicatrice en vertu de l'article 37, paragraphe 1er ;
 
 - la candidature comporte des offres qui ne sont pas appropriées au sens de l’alinéa 2.
 
@@ -13845,7 +13845,7 @@ Les concessions sont attribuées sur la base des critères d'attribution établi
 
 - l'offre est conforme aux exigences minimales fixées, le cas échéant, par le pouvoir adjudicateur ou l'entité adjudicatrice ;
 
-- le soumissionnaire remplit les conditions de participation visées à l'article 37, paragraphe 1 er ; et
+- le soumissionnaire remplit les conditions de participation visées à l'article 37, paragraphe 1er; et
 
 - le soumissionnaire n'est pas exclu de la participation à la procédure d'attribution en vertu de l'article 37, paragraphes 4 à 6, et sous réserve de l'article 37, paragraphe 8.
 
@@ -13906,7 +13906,7 @@ Les pouvoirs adjudicateurs et les entités adjudicatrices au sens de l'article 7
 
 - infraction aux articles 506-1 et 135-5 du Code pénal relatifs au blanchiment de capitaux et au financement du terrorisme et infraction à l’article 8-1 de la loi modifiée du 19 février 1973 concernant la vente de substances médicamenteuses ;
 
-- travail des enfants et autres formes de traite des êtres humains définis à l'article 382-1 du Code pénal .
+- travail des enfants et autres formes de traite des êtres humains définis à l'article 382-1 du Code pénal.
 
 L'obligation d'exclure un opérateur économique s'applique aussi lorsque la personne condamnée par un jugement définitif est membre de l'organe d'administration, de direction ou de surveillance dudit opérateur économique ou détient un pouvoir de représentation, de décision ou de contrôle en son sein.
 
@@ -14083,7 +14083,7 @@ Les concessions peuvent être modifiées sans nouvelle procédure d'attribution 
 
 - lorsque les modifications, quel que soit leur montant, ont été prévues dans les documents de concession initiaux sous la forme de clauses de réexamen, dont des clauses de révision du montant, ou d'options claires, précises et sans équivoque. Ces clauses indiquent le champ d'application et la nature des modifications ou options envisageables ainsi que les conditions dans lesquelles il peut en être fait usage. Elles ne permettent pas de modifications ou d'options qui changeraient la nature globale de la concession ;
 
-- pour les travaux ou services supplémentaires réalisés par le concessionnaire initial qui sont devenus nécessaires et ne figuraient pas dans la concession initiale, lorsqu'un changement de concessionnaire : Toutefois, en ce qui concerne les concessions attribuées par le pouvoir adjudicateur afin de mener une activité autre que celles visées à l'annexe II, toute augmentation de leur montant ne peut être supérieure à 50 pour cent du montant de la concession initiale. Lorsque plusieurs modifications successives sont effectuées, cette limite s'applique au montant de chaque modification. Ces modifications consécutives ne visent pas à contourner la présente loi ;
+- pour les travaux ou services supplémentaires réalisés par le concessionnaire initial qui sont devenus nécessaires et ne figuraient pas dans la concession initiale, lorsqu'un changement de concessionnaire :
 
   - est impossible pour des raisons économiques ou techniques telles que les exigences d'interchangeabilité ou d'interopérabilité avec les équipements, services ou installations existants acquis dans le cadre de la concession initiale ; et
 
@@ -14131,7 +14131,7 @@ La modification d'une concession en cours est considérée comme substantielle a
 
 - elle étend considérablement le champ d'application de la concession ;
 
-- lorsqu'un nouveau concessionnaire remplace celui auquel le pouvoir adjudicateur ou l'entité adjudicatrice a initialement attribué la concession dans d'autres cas que ceux prévus au paragraphe 1 er point d).
+- lorsqu'un nouveau concessionnaire remplace celui auquel le pouvoir adjudicateur ou l'entité adjudicatrice a initialement attribué la concession dans d'autres cas que ceux prévus au paragraphe 1er point d).
 
 (5)
 
@@ -14187,29 +14187,51 @@ Dispositions modificatives de la loi du 10 novembre 2010 instituant les recours 
 
 La loi modifiée du 10 novembre 2010 instituant les recours en matière de marchés publics est modifiée comme suit :
 
-- l’intitulé est remplacé par l’intitulé suivant : « Loi du 10 novembre 2010 relative aux recours en matière de marchés publics et d’attribution de contrats de concession » ;
+- l’intitulé est remplacé par l’intitulé suivant :
 
-- est rajouté à l’article 1 er un nouvel alinéa 3 avec le texte suivant : « La présente loi s’applique aux concessions visées par la loi du (…) sur l’attribution de contrats de concession, dénommée ci-après « la loi sur l’attribution de contrats de concession », dont la valeur estimée n’est pas inférieure aux seuils prévus à l’article 8 de cette loi, sauf si ces concessions sont exclues en application des articles 9, 10, 11, 16 et 25 de cette loi » ;
+« Loi du 10 novembre 2010 relative aux recours en matière de marchés publics et d’attribution de contrats de concession » ;
 
-- à l’article 1 er alinéa 3, qui formera l’alinéa 4, les mots et les concessions de travaux publics sont supprimés et le mot et est inséré entre les mots services et accords-cadres ;
+- est rajouté à l’article 1er un nouvel alinéa 3 avec le texte suivant :
 
-- l’article 5, alinéa 1 er est modifié comme suit : « La conclusion du contrat qui suit la décision d’attribution d’un marché relevant du champ d’application des Livres II et III de la loi sur les marchés publics ou du champ d’application de la loi du 26 décembre 2012 sur les marchés publics de la défense et de la sécurité ou de la loi sur l’attribution de contrats de concession ne peut avoir lieu avant l’expiration d’un délai d’au moins dix jours à compter du lendemain du jour où la décision d’attribution du marché a été envoyée aux soumissionnaires et candidats concernés si un télécopieur ou un moyen électronique est utilisé ou, si d’autres moyens de communication sont utilisés, avant l’expiration d’un délai d’au moins quinze jours à compter du lendemain du jour où la décision d’attribution du marché est envoyée aux soumissionnaires et candidats concernés. » ;
+« La présente loi s’applique aux concessions visées par la loi du (…) sur l’attribution de contrats de concession, dénommée ci-après « la loi sur l’attribution de contrats de concession », dont la valeur estimée n’est pas inférieure aux seuils prévus à l’article 8 de cette loi, sauf si ces concessions sont exclues en application des articles 9, 10, 11, 16 et 25 de cette loi » ;
 
-- sont rajoutés à l’article 7, premier tiret, les mots suivants après « sauf exceptions y prévues » : « et pour les contrats de concession d’un exposé synthétique des motifs pertinents à communiquer par les pouvoirs adjudicateurs ou entités adjudicatrices sur demande de la partie concernée tel que prévu par l’article 40 paragraphe 1er de la loi sur l’attribution de contrats de concession, sous réserve de l’article 40, paragraphe 2. » ;
+- à l’article 1er alinéa 3, qui formera l’alinéa 4, les mots et les concessions de travaux publics sont supprimés et le mot et est inséré entre les mots services et accords-cadres ;
 
-- l’article 8 alinéa 1 er , le point c), est modifié comme suit : « lorsqu’il s’agit d’un marché fondé sur un accord-cadre ou d’un marché spécifique fondé sur un système d’acquisition dynamique visé par le Livre II de la loi sur les marchés publics ou d’un marché fondé sur un accord cadre visé à l’article 29 de la loi du 26 décembre 2012 sur les marchés publics de la défense et de la sécurité. » ;
+- l’article 5, alinéa 1er est modifié comme suit :
 
-- l’article 8 alinéa 2, premier tiret est modifié comme suit : « s’il y a eu violation des dispositions régissant l’attribution des marchés fondés sur les accords-cadres ou régissant l’attribution de marchés spécifiques fondés sur des systèmes d’acquisition dynamiques avec plusieurs opérateurs économiques remis en concurrence telles que fixées par règlement grand-ducal, » ;
+« La conclusion du contrat qui suit la décision d’attribution d’un marché relevant du champ d’application des Livres II et III de la loi sur les marchés publics ou du champ d’application de la loi du 26 décembre 2012 sur les marchés publics de la défense et de la sécurité ou de la loi sur l’attribution de contrats de concession ne peut avoir lieu avant l’expiration d’un délai d’au moins dix jours à compter du lendemain du jour où la décision d’attribution du marché a été envoyée aux soumissionnaires et candidats concernés si un télécopieur ou un moyen électronique est utilisé ou, si d’autres moyens de communication sont utilisés, avant l’expiration d’un délai d’au moins quinze jours à compter du lendemain du jour où la décision d’attribution du marché est envoyée aux soumissionnaires et candidats concernés. » ;
 
-- l’article 9, point a) est modifié comme suit : « si le pouvoir adjudicateur ou l’entité adjudicatrice a passé un marché sans avoir préalablement publié un avis de marché au Journal officiel de l’Union européenne, sans que cela ne soit autorisé en vertu des dispositions des Livres II et III de la loi sur les marchés publics, ou que le pouvoir adjudicateur ou l’entité adjudicatrice a attribué un contrat de concession sans avoir préalablement publié un avis de concession au Journal officiel de l’Union européenne, sans que cela ne soit autorisé par l’article 30 de la loi sur l’attribution de contrats de concession ; » ;
+- sont rajoutés à l’article 7, premier tiret, les mots suivants après « sauf exceptions y prévues » :
 
-- l’article 9, point b) est modifié comme suit : en cas de violation des articles 4, alinéa (2), 5, 6, 20, paragraphe 5, ou de l’article 21, si cette violation a privé le soumissionnaire intentant un recours de la possibilité d’engager ou de mener à son terme un recours précontractuel lorsqu’une telle violation est accompagnée, soit d’une violation des dispositions des Livres II ou III de la loi sur les marchés publics ou des dispositions régissant le cahier général des charges applicables aux marchés publics d’une certaine envergure et le cahier général des charges applicables aux marchés dans les secteurs de l’eau, de l’énergie, des transports et des services postaux telles que fixées par règlement grand-ducal, soit d’une violation des dispositions des titres I et II de la loi du 26 décembre 2012 sur les marchés publics de la défense et de la sécurité, ou d’une violation des dispositions de la loi sur l’attribution de contrats de concession, et si cette violation a compromis les chances du soumissionnaire intentant un recours d’obtenir le marché ; » ;
+« et pour les contrats de concession d’un exposé synthétique des motifs pertinents à communiquer par les pouvoirs adjudicateurs ou entités adjudicatrices sur demande de la partie concernée tel que prévu par l’article 40 paragraphe 1er de la loi sur l’attribution de contrats de concession, sous réserve de l’article 40, paragraphe 2. » ;
 
-- l’article 12, premier tiret est modifié comme suit : le pouvoir adjudicateur ou l’entité adjudicatrice estiment que la passation du marché sans publication préalable d’un avis de marché ou d’un avis de concession au Journal officiel de l’Union européenne est autorisée en vertu des dispositions des Livres II ou III de la loi sur les marchés publics ou des dispositions de la loi du 26 décembre 2012 sur les marchés publics de la défense et de la sécurité ou des dispositions de la loi sur l’attribution de contrats de concession, » ;
+- l’article 8 alinéa 1er, le point c), est modifié comme suit :
 
-- l’article 15, point a) premier tiret est modifié comme suit : le pouvoir adjudicateur ou l’entité adjudicatrice a publié un avis d’attribution du marché selon les procédures fixées par règlement grand-ducal ou conformément à l’article 30, paragraphe 3, et aux articles 31 et 32 de la loi du 26 décembre 2012 sur les marchés publics de la défense et de la sécurité, pour les marchés relevant de ladite loi, ou conformément aux articles 31 et 32 de la loi sur l’attribution de contrats de concession, à condition que cet avis contienne la justification de la décision d’attribuer le marché sans publication préalable d’un avis de marché au Journal officiel de l’Union européenne, ou » ;
+« lorsqu’il s’agit d’un marché fondé sur un accord-cadre ou d’un marché spécifique fondé sur un système d’acquisition dynamique visé par le Livre II de la loi sur les marchés publics ou d’un marché fondé sur un accord cadre visé à l’article 29 de la loi du 26 décembre 2012 sur les marchés publics de la défense et de la sécurité. » ;
 
-- l’article 15, point a), deuxième tiret est modifié comme suit : le pouvoir adjudicateur ou l’entité adjudicatrice a informé les soumissionnaires et les candidats concernés de la conclusion d’un accord-cadre ou de l’adjudication d’un marché, pour autant que cette information soit accompagnée d’un exposé synthétique des motifs tel que prévu à l’article 7, ou en ce qui concerne la loi sur l’attribution de contrats de concession tel que prévu à l’article 39, paragraphe 1er, alinéa 2, sous réserve de l’article 39, paragraphe 2. Ce délai s’applique également aux cas visés à l’article 8, point c) ; »
+- l’article 8 alinéa 2, premier tiret est modifié comme suit :
+
+« s’il y a eu violation des dispositions régissant l’attribution des marchés fondés sur les accords-cadres ou régissant l’attribution de marchés spécifiques fondés sur des systèmes d’acquisition dynamiques avec plusieurs opérateurs économiques remis en concurrence telles que fixées par règlement grand-ducal, » ;
+
+- l’article 9, point a) est modifié comme suit :
+
+« si le pouvoir adjudicateur ou l’entité adjudicatrice a passé un marché sans avoir préalablement publié un avis de marché au Journal officiel de l’Union européenne, sans que cela ne soit autorisé en vertu des dispositions des Livres II et III de la loi sur les marchés publics, ou que le pouvoir adjudicateur ou l’entité adjudicatrice a attribué un contrat de concession sans avoir préalablement publié un avis de concession au Journal officiel de l’Union européenne, sans que cela ne soit autorisé par l’article 30 de la loi sur l’attribution de contrats de concession ; » ;
+
+- l’article 9, point b) est modifié comme suit :
+
+- en cas de violation des articles 4, alinéa (2), 5, 6, 20, paragraphe 5, ou de l’article 21, si cette violation a privé le soumissionnaire intentant un recours de la possibilité d’engager ou de mener à son terme un recours précontractuel lorsqu’une telle violation est accompagnée, soit d’une violation des dispositions des Livres II ou III de la loi sur les marchés publics ou des dispositions régissant le cahier général des charges applicables aux marchés publics d’une certaine envergure et le cahier général des charges applicables aux marchés dans les secteurs de l’eau, de l’énergie, des transports et des services postaux telles que fixées par règlement grand-ducal, soit d’une violation des dispositions des titres I et II de la loi du 26 décembre 2012 sur les marchés publics de la défense et de la sécurité, ou d’une violation des dispositions de la loi sur l’attribution de contrats de concession, et si cette violation a compromis les chances du soumissionnaire intentant un recours d’obtenir le marché ; » ;
+
+- l’article 12, premier tiret est modifié comme suit :
+
+- le pouvoir adjudicateur ou l’entité adjudicatrice estiment que la passation du marché sans publication préalable d’un avis de marché ou d’un avis de concession au Journal officiel de l’Union européenne est autorisée en vertu des dispositions des Livres II ou III de la loi sur les marchés publics ou des dispositions de la loi du 26 décembre 2012 sur les marchés publics de la défense et de la sécurité ou des dispositions de la loi sur l’attribution de contrats de concession, » ;
+
+- l’article 15, point a) premier tiret est modifié comme suit :
+
+- le pouvoir adjudicateur ou l’entité adjudicatrice a publié un avis d’attribution du marché selon les procédures fixées par règlement grand-ducal ou conformément à l’article 30, paragraphe 3, et aux articles 31 et 32 de la loi du 26 décembre 2012 sur les marchés publics de la défense et de la sécurité, pour les marchés relevant de ladite loi, ou conformément aux articles 31 et 32 de la loi sur l’attribution de contrats de concession, à condition que cet avis contienne la justification de la décision d’attribuer le marché sans publication préalable d’un avis de marché au Journal officiel de l’Union européenne, ou » ;
+
+- l’article 15, point a), deuxième tiret est modifié comme suit :
+
+- le pouvoir adjudicateur ou l’entité adjudicatrice a informé les soumissionnaires et les candidats concernés de la conclusion d’un accord-cadre ou de l’adjudication d’un marché, pour autant que cette information soit accompagnée d’un exposé synthétique des motifs tel que prévu à l’article 7, ou en ce qui concerne la loi sur l’attribution de contrats de concession tel que prévu à l’article 39, paragraphe 1er, alinéa 2, sous réserve de l’article 39, paragraphe 2. Ce délai s’applique également aux cas visés à l’article 8, point c) ; »
 
 <a id="art-n239f1"></a>
 ## Art. 47.
@@ -14280,7 +14302,7 @@ Les dispositions de la présente loi concernant les concessions attribuées par 
 
   - l’alimentation de ces réseaux fixes en électricité.
 
-  - la production d’électricité par l’entité adjudicatrice concernée résulte du fait que sa consommation est nécessaire à l’exercice d’une activité autre que celles visées au présent paragraphe ou aux paragraphes 1 er et 3 de la présente annexe ;
+  - la production d’électricité par l’entité adjudicatrice concernée résulte du fait que sa consommation est nécessaire à l’exercice d’une activité autre que celles visées au présent paragraphe ou aux paragraphes 1er et 3 de la présente annexe ;
 
   - l’alimentation du réseau public dépend uniquement de la propre consommation de l’entité adjudicatrice et n’a pas dépassé 30 % de la production totale d’énergie de ladite ‘entité adjudicatrice sur la base de la moyenne des trois dernières années, y compris l’année en cours.
 
@@ -14292,7 +14314,7 @@ Les dispositions de la présente loi concernant les concessions attribuées par 
 
   - de services postaux ;
 
-  - d’autres services que des services postaux, pour autant que ces services soient réalisés par une entité réalisant également des services postaux au sens de l’alinéa 2, point ii), du présent paragraphe et que les conditions fixées à l’article 34, paragraphe 1 er , de la directive 2014/25/UE ne soient pas remplies en ce qui concerne les services relevant de l’alinéa 2, point ii). Aux fins de la présente loi et sans préjudice de la loi modifiée du 15 décembre 2000 sur les services postaux et les services financiers postaux, on entend par :
+  - d’autres services que des services postaux, pour autant que ces services soient réalisés par une entité réalisant également des services postaux au sens de l’alinéa 2, point ii), du présent paragraphe et que les conditions fixées à l’article 34, paragraphe 1er, de la directive 2014/25/UE ne soient pas remplies en ce qui concerne les services relevant de l’alinéa 2, point ii). Aux fins de la présente loi et sans préjudice de la loi modifiée du 15 décembre 2000 sur les services postaux et les services financiers postaux, on entend par :
 
     - « envoi postal », un envoi adressé sous la forme définitive dans laquelle il doit être acheminé, quel que soit son poids. Outre les envois de correspondance, ces envois comprennent par exemple des livres, des catalogues, des journaux ; des périodiques et des colis postaux contenant des marchandises avec ou sans valeur commerciale, quel que soit leur poids ;
 
@@ -14589,11 +14611,11 @@ Les définitions et les catégorisations reprises aux articles 2 et 2bis de l’
 
 Au sens du présent règlement, on entend par :
 
-- « pouvoirs adjudicateurs » : les pouvoirs adjudicateurs définis par les dispositions des articles 2, lettre a), et 86, paragraphe 1 er de la loi modifiée du 8 avril 2018 sur les marchés publics ;
+- « pouvoirs adjudicateurs » : les pouvoirs adjudicateurs définis par les dispositions des articles 2, lettre a), et 86, paragraphe 1er de la loi modifiée du 8 avril 2018 sur les marchés publics ;
 
-- « entités adjudicatrices » : les entités adjudicatrices définies par les dispositions de l’article 87, paragraphe 1 er de la loi modifiée du 8 avril 2018 sur les marchés publics ;
+- « entités adjudicatrices » : les entités adjudicatrices définies par les dispositions de l’article 87, paragraphe 1er de la loi modifiée du 8 avril 2018 sur les marchés publics ;
 
-- « véhicule léger propre » : un véhicule de catégorie M1, M2 ou N1 dont les émissions maximales à l’échappement exprimées en grammes de CO 2 /kilomètre et les émissions de polluants en conditions de conduite réelles se situent en deçà d’un pourcentage des limites d’émission applicables figurant dans le tableau à l’annexe I, appendice 1 er ;
+- « véhicule léger propre » : un véhicule de catégorie M1, M2 ou N1 dont les émissions maximales à l’échappement exprimées en grammes de CO2/kilomètre et les émissions de polluants en conditions de conduite réelles se situent en deçà d’un pourcentage des limites d’émission applicables figurant dans le tableau à l’annexe I, appendice 1er ;
 
 - « véhicule utilitaire lourd propre » : un véhicule de la catégorie M3, N2 ou N3 classifiable en tant que : Dans le cas des véhicules utilisant des biocarburants liquides, des carburants de synthèse et des carburants paraffiniques, ces carburants ne doivent pas être mélangés à des combustibles fossiles traditionnels.
 
@@ -14613,7 +14635,7 @@ Au sens du présent règlement, on entend par :
 
   - le gaz de pétrole liquéfié (GPL).
 
-- « véhicule utilitaire lourd à émission nulle » : un véhicule utilitaire lourd propre au sens du paragraphe 2, point 4° du présent article sans moteur à combustion interne, ou équipé d’un moteur à combustion interne dont les émissions de CO 2 sont inférieures à 1 gramme/kilowattheure, telles que déterminées conformément au règlement (CE) n° 595/2009 du Parlement européen et du Conseil du 18 juin 2009 relatif à la réception par type des véhicules à moteur et des moteurs au regard des émissions des véhicules utilitaires lourds (Euro VI), et modifiant le règlement (CE) n° 715/2007 et la directive 2007/46/CE , et abrogeant les directives 80/1269/CEE , 2005/55/CE et 2005/78/CE et à ses mesures d’exécution, ou inférieures à 1 g/kilomètre, telles que déterminées conformément au règlement (CE) n° 715/2007 du Parlement européen et du Conseil du 20 juin 2007 relatif à la réception des véhicules à moteur au regard des émissions des véhicules particuliers et utilitaires légers (Euro 5 et Euro 6) et aux informations sur la réparation et l’entretien des véhicules et à ses mesures d’exécution.
+- « véhicule utilitaire lourd à émission nulle » : un véhicule utilitaire lourd propre au sens du paragraphe 2, point 4° du présent article sans moteur à combustion interne, ou équipé d’un moteur à combustion interne dont les émissions de CO2 sont inférieures à 1 gramme/kilowattheure, telles que déterminées conformément au règlement (CE) n° 595/2009 du Parlement européen et du Conseil du 18 juin 2009 relatif à la réception par type des véhicules à moteur et des moteurs au regard des émissions des véhicules utilitaires lourds (Euro VI), et modifiant le règlement (CE) n° 715/2007 et la directive 2007/46/CE, et abrogeant les directives 80/1269/CEE, 2005/55/CE et 2005/78/CE et à ses mesures d’exécution, ou inférieures à 1 g/kilomètre, telles que déterminées conformément au règlement (CE) n° 715/2007 du Parlement européen et du Conseil du 20 juin 2007 relatif à la réception des véhicules à moteur au regard des émissions des véhicules particuliers et utilitaires légers (Euro 5 et Euro 6) et aux informations sur la réparation et l’entretien des véhicules et à ses mesures d’exécution.
 
 <a id="art-n24937"></a>
 ## Art. 3.
@@ -14636,9 +14658,9 @@ Le pourcentage minimal à atteindre pour les véhicules légers propres est de 3
 
 Le pourcentage minimal à atteindre pour les véhicules utilitaires lourds propres dans le nombre total de véhicules utilitaires lourds couverts par les contrats visés à l’article 1er est de :
 
-- 10 pour cent pour les véhicules de catégorie N2 ou N3 pour les contrats visés à l’article 1 er et pour lesquels l’attribution se produit entre le 2 août 2021 et le 31 décembre 2025, et de 15 pour cent pour chaque période quinquennale successive ;
+- 10 pour cent pour les véhicules de catégorie N2 ou N3 pour les contrats visés à l’article 1er et pour lesquels l’attribution se produit entre le 2 août 2021 et le 31 décembre 2025, et de 15 pour cent pour chaque période quinquennale successive ;
 
-- 45 pour cent pour les véhicules de catégorie M3 pour les contrats visés à l’article 1 er pour lesquels l’attribution se produit entre le 2 août 2021 et le 31 décembre 2025, et de 65 pour cent pour chaque période quinquennale successive.
+- 45 pour cent pour les véhicules de catégorie M3 pour les contrats visés à l’article 1er pour lesquels l’attribution se produit entre le 2 août 2021 et le 31 décembre 2025, et de 65 pour cent pour chaque période quinquennale successive.
 
 (5)
 
@@ -15081,7 +15103,7 @@ La charge des cotisations incombe:
 
 - à l’Etat pour les personnes exerçcant à titre principal une activité professionnelle ressortissant de la Chambre d’Agriculture;
 
-- à toute personne affiliée obligatoirement au titre d’une activité non-salariée aux termes de l’article 171 alinéa 2 du code des assurances sociales , à moins qu’elle n’exerce une activité ressortissant de la Chambre d’Agriculture ou qu’elle n’exerce une profession salariée à titre principal ou qu’elle ne bénéficie d’une pension de vieillesse, d’invalidité ou d’orphelin ou qu’elle n’ait atteint l’âge de soixante-cinq ans.
+- à toute personne affiliée obligatoirement au titre d’une activité non-salariée aux termes de l’article 171 alinéa 2 du code des assurances sociales, à moins qu’elle n’exerce une activité ressortissant de la Chambre d’Agriculture ou qu’elle n’exerce une profession salariée à titre principal ou qu’elle ne bénéficie d’une pension de vieillesse, d’invalidité ou d’orphelin ou qu’elle n’ait atteint l’âge de soixante-cinq ans.
 
 2. L’article 17, alinéa 1er, est modifié comme suit:
 
@@ -15134,13 +15156,13 @@ La loi modifiée du 30 juin 1976 portant
 
 2. Pour l’exercice 1994, les taux prévus à l’article 7 sont fixés comme suit:
 
-- le taux prévu au paragraphe 1 er de l’article 7 est porté de 101% à 102,5%;
+- le taux prévu au paragraphe 1er de l’article 7 est porté de 101% à 102,5%;
 
 - le taux prévu au paragraphe 2 de l’article 7 est porté de 1% à 2,5%.
 
 3. A partir du 1er janvier 1995, les taux prévus à l’article 7 sont fixés comme suit:
 
-- le taux prévu au paragraphe 1 er de l’article 7 est porté de 102,5% à 104%
+- le taux prévu au paragraphe 1er de l’article 7 est porté de 102,5% à 104%
 
 - le taux prévu au paragraphe 2 de l’article 7 est porté de 2,5% à 4%.
 

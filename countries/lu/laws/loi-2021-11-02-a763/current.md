@@ -177,9 +177,9 @@ Aux fins du paragraphe 2, alinéa 1er, point 6°, l’effet des dispositions nou
 
 Avant d’introduire de nouvelles dispositions ou de modifier des dispositions existantes, il est également effectué un examen de la conformité avec le principe de proportionnalité des exigences spécifiques relatives à la prestation temporaire ou occasionnelle de services, prévues au titre II de la loi précitée du 28 octobre 2016, dont :
 
-- l’inscription temporaire automatique ou l’adhésion pro forma à une organisation professionnelle ou à un organisme professionnel, visés à l’article 6, alinéa 1 er , lettre a), de la loi précitée du 28 octobre 2016 ;
+- l’inscription temporaire automatique ou l’adhésion pro forma à une organisation professionnelle ou à un organisme professionnel, visés à l’article 6, alinéa 1er, lettre a), de la loi précitée du 28 octobre 2016 ;
 
-- une déclaration préalable conformément à l’article 7, paragraphes 1 er et 2, de la loi précitée du 28 octobre 2016 , la fourniture de documents exigés conformément au paragraphe 2 dudit article ou toute autre exigence équivalente ;
+- une déclaration préalable conformément à l’article 7, paragraphes 1er et 2, de la loi précitée du 28 octobre 2016, la fourniture de documents exigés conformément au paragraphe 2 dudit article ou toute autre exigence équivalente ;
 
 - le versement d’une redevance ou des frais requis pour les procédures administratives, liés à l’accès à des professions réglementées ou à leur exercice, à la charge du prestataire de services.
 

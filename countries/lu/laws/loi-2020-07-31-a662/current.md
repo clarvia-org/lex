@@ -345,7 +345,7 @@ Outre les conditions visées à l’article 34 de la loi modifiée du 27 juin 20
 
 - la possession d’un des titres de formation médicale de base reconnu conformément aux dispositions de la loi du 28 octobre 2016 relative à la reconnaissance des qualifications professionnelles ;
 
-- la possession d’une autorisation du ministre ayant la Santé dans ses attributions, attestant que le candidat remplit les conditions d’exercice visées à l’article 2, paragraphe 1 er , de la loi modifiée du 29 avril 1983 concernant l’exercice des professions de médecin, de médecin-dentiste et de médecin-vétérinaire.
+- la possession d’une autorisation du ministre ayant la Santé dans ses attributions, attestant que le candidat remplit les conditions d’exercice visées à l’article 2, paragraphe 1er, de la loi modifiée du 29 avril 1983 concernant l’exercice des professions de médecin, de médecin-dentiste et de médecin-vétérinaire.
 
 <a id="art-11"></a>
 ## Art. 11.
@@ -437,7 +437,7 @@ La répartition de la participation à l’indemnité de stage visée au paragra
 
 Par dérogation au principe de la répartition entre le ministre ayant la Santé dans ses attributions et le maître de stage ou l’établissement hospitalier prévu par les dispositions des paragraphes 1er et 2, le ministre ayant la Santé dans ses attributions verse l’entièreté de l’indemnité :
 
-- pendant l’accomplissement des enseignements cliniques visés à l’article 1 er , paragraphe 3, point 3°, à l’article 4, paragraphe 3, point 2°, et à l’article 7, paragraphe 3, point 3° ;
+- pendant l’accomplissement des enseignements cliniques visés à l’article 1er, paragraphe 3, point 3°, à l’article 4, paragraphe 3, point 2°, et à l’article 7, paragraphe 3, point 3° ;
 
 - pendant les semestres effectués à l’étranger.
 
@@ -507,38 +507,89 @@ Les établissements hospitaliers visés au paragraphe 1er touchent un forfait é
 
 La loi modifiée du 29 avril 1983 concernant l’exercice des professions de médecin, de médecin-dentiste et de médecin-vétérinaire est modifiée comme suit :
 
-- À l’article 1 er , paragraphe 1 er , alinéa 1 er , la référence à l’article 7, paragraphe 3 est remplacée par une référence à l’article 7, paragraphe 2 .
+- À l’article 1er, paragraphe 1er, alinéa 1er, la référence à l’article 7, paragraphe 3 est remplacée par une référence à l’article 7, paragraphe 2.
 
-- À l’article 1 er ter , les termes Les médecins résidant au Luxembourg ou inscrits à l’Université du Luxembourg peuvent sont remplacés par les termes Le médecin répondant aux conditions d’éligibilité prévues à l’article 3 de la loi modifiée du 24 juillet 2014 concernant l’aide financière de l’État pour études supérieures peut .
+- À l’article 1er ter, les termes Les médecins résidant au Luxembourg ou inscrits à l’Université du Luxembourg peuvent sont remplacés par les termes Le médecin répondant aux conditions d’éligibilité prévues à l’article 3 de la loi modifiée du 24 juillet 2014 concernant l’aide financière de l’État pour études supérieures peut.
 
-- À l’article 5, les paragraphes 1 er et 2 sont remplacés par les dispositions suivantes : « (1) La personne autorisée à exercer la médecine au Luxembourg en qualité de médecin-généraliste porte le titre professionnel de docteur en médecine, médecin-généraliste. (2) La personne autorisée à exercer la médecine au Luxembourg en qualité de médecin-spécialiste porte le titre professionnel de docteur en médecine, médecin-spécialiste suivi du nom de la spécialité reconnue au Luxembourg. ».
+- À l’article 5, les paragraphes 1er et 2 sont remplacés par les dispositions suivantes :
 
-- À la suite de l’article 7 est inséré un article 7 bis ayant la teneur suivante : Art. 7bis. (1) Toute personne autorisée à exercer la médecine au Luxembourg obtient une carte de médecin permettant à son titulaire d’attester de son identité et son droit d’exercer. (2) Les modalités d’obtention et la durée de la validité de la carte de médecin sont définies par règlement grand-ducal.
+« (1)
 
-- À l’article 8, paragraphe 1 er , alinéa 1 er , la référence à l’article 14, paragraphe 3 est remplacée par une référence à l’article 14, paragraphe 2 .
+La personne autorisée à exercer la médecine au Luxembourg en qualité de médecin-généraliste porte le titre professionnel de docteur en médecine, médecin-généraliste.
 
-- À l’article 12, les paragraphes 1 er et 2 sont remplacés par les dispositions suivantes : (1) La personne autorisée à exercer la médecine dentaire au Luxembourg porte le titre professionnel de docteur en médecine dentaire, médecin-dentiste. (2) La personne autorisée à exercer la médecine dentaire au Luxembourg en qualité de médecin-dentiste spécialiste porte le titre professionnel de docteur en médecine dentaire, médecin-dentiste spécialiste suivi du nom de la spécialité reconnue au Luxembourg.
+(2)
 
-- À l’article 26, le paragraphe 1 er est remplacé par la disposition suivante : (1) La personne autorisée à exercer la médecine vétérinaire au Luxembourg porte le titre professionnel de docteur en médecine vétérinaire, médecin-vétérinaire.
+La personne autorisée à exercer la médecine au Luxembourg en qualité de médecin-spécialiste porte le titre professionnel de docteur en médecine, médecin-spécialiste suivi du nom de la spécialité reconnue au Luxembourg. ».
 
-- À l’article 27 est inséré un paragraphe 3 ayant la teneur suivante : (3) Le médecin-vétérinaire qui participe au service de garde a droit à une indemnité forfaitaire par service de garde effectué. Cette indemnité est à charge du budget de l’État et ne peut pas dépasser le montant de 300 euros. Un règlement grand-ducal fixe le montant de cette indemnité.
+- À la suite de l’article 7 est inséré un article 7bis ayant la teneur suivante :
+
+<a id="art-7bis"></a>
+## Art. 7bis.
+
+(1)
+
+Toute personne autorisée à exercer la médecine au Luxembourg obtient une carte de médecin permettant à son titulaire d’attester de son identité et son droit d’exercer.
+
+(2)
+
+Les modalités d’obtention et la durée de la validité de la carte de médecin sont définies par règlement grand-ducal.
+
+- À l’article 8, paragraphe 1er, alinéa 1er, la référence à l’article 14, paragraphe 3 est remplacée par une référence à l’article 14, paragraphe 2.
+
+- À l’article 12, les paragraphes 1er et 2 sont remplacés par les dispositions suivantes :
+
+(1)
+
+La personne autorisée à exercer la médecine dentaire au Luxembourg porte le titre professionnel de docteur en médecine dentaire, médecin-dentiste.
+
+(2)
+
+La personne autorisée à exercer la médecine dentaire au Luxembourg en qualité de médecin-dentiste spécialiste porte le titre professionnel de docteur en médecine dentaire, médecin-dentiste spécialiste suivi du nom de la spécialité reconnue au Luxembourg.
+
+- À l’article 26, le paragraphe 1er est remplacé par la disposition suivante :
+
+(1)
+
+La personne autorisée à exercer la médecine vétérinaire au Luxembourg porte le titre professionnel de docteur en médecine vétérinaire, médecin-vétérinaire.
+
+- À l’article 27 est inséré un paragraphe 3 ayant la teneur suivante :
+
+(3)
+
+Le médecin-vétérinaire qui participe au service de garde a droit à une indemnité forfaitaire par service de garde effectué. Cette indemnité est à charge du budget de l’État et ne peut pas dépasser le montant de 300 euros.
+
+Un règlement grand-ducal fixe le montant de cette indemnité.
 
 <a id="art-19"></a>
 ## Art. 19.
 
 La loi du 28 octobre 2016 relative à la reconnaissance des qualifications professionnelles est modifiée comme suit :
 
-- À l’article 10, alinéa 1 er , la lettre b) est remplacée par les dispositions suivantes : pour les médecins ayant une formation de base, les médecins spécialistes, les infirmiers, les médecins-dentistes, les médecins-dentistes spécialistes, les médecins-vétérinaires, les sages-femmes, les pharmaciens et les architectes, lorsque le migrant ne remplit pas les conditions de pratique professionnelle effective et licite prévues aux articles 23, 27, 33, 37, 39, 43 et 49 ; ».
+- À l’article 10, alinéa 1er, la lettre b) est remplacée par les dispositions suivantes :
 
-- À l’article 10, alinéa 1 er , la lettre d) est remplacée par les dispositions suivantes : sans préjudice de l’article 21, paragraphe 1er, et des articles 23 et 27, pour les médecins, infirmiers, médecins-dentistes, médecins-vétérinaires, sages-femmes, pharmaciens et architectes détenant un titre de formation spécialisée, qui doivent avoir suivi la formation conduisant à la possession d’un titre figurant à l’annexe V de la directive 2005/36/CE précitée, points 5.1.1, 5.2.2, 5.3.2, 5.4.2, 5.5.2, 5.6.2 et 5.7.1, et uniquement aux fins de reconnaissance de la spécialisation en question ; ».
+- pour les médecins ayant une formation de base, les médecins spécialistes, les infirmiers, les médecins-dentistes, les médecins-dentistes spécialistes, les médecins-vétérinaires, les sages-femmes, les pharmaciens et les architectes, lorsque le migrant ne remplit pas les conditions de pratique professionnelle effective et licite prévues aux articles 23, 27, 33, 37, 39, 43 et 49 ; ».
 
-- À l’article 10 est ajouté un alinéa 3 ayant la teneur suivante : Par dérogation à l’alinéa 2, sont toutefois pris en considération pour les besoins du présent chapitre les titres de formation de médecin-généraliste ou de médecin-spécialiste obtenus dans un pays tiers pour l’accès aux professions de médecin-généraliste ou de médecin-spécialiste dans une des spécialités médicales visées au chapitre 1er de la loi du 31 juillet 2020 portant organisation d’études spécialisées en médecine à l’Université du Luxembourg.
+- À l’article 10, alinéa 1er, la lettre d) est remplacée par les dispositions suivantes :
 
-- À l’article 25 est ajouté un paragraphe 5 ayant la teneur suivante : (5) L’Université du Luxembourg organise la formation de médecin-spécialiste, qui est sanctionnée par un diplôme d’études spécialisées en médecine et qui répond aux critères fixés par la loi du 31 juillet 2020 portant organisation d’études spécialisées en médecine à l’Université du Luxembourg.
+- sans préjudice de l’article 21, paragraphe 1er, et des articles 23 et 27, pour les médecins, infirmiers, médecins-dentistes, médecins-vétérinaires, sages-femmes, pharmaciens et architectes détenant un titre de formation spécialisée, qui doivent avoir suivi la formation conduisant à la possession d’un titre figurant à l’annexe V de la directive 2005/36/CE précitée, points 5.1.1, 5.2.2, 5.3.2, 5.4.2, 5.5.2, 5.6.2 et 5.7.1, et uniquement aux fins de reconnaissance de la spécialisation en question ; ».
 
-- À l’article 28 est ajouté un paragraphe 5 ayant la teneur suivante : (5) L’Université du Luxembourg organise la formation de médecin-généraliste, qui est sanctionnée par un diplôme d’études spécialisées en médecine et qui répond aux critères fixés par la loi du 31 juillet 2020 portant organisation d’études spécialisées en médecine à l’Université du Luxembourg.
+- À l’article 10 est ajouté un alinéa 3 ayant la teneur suivante :
 
-- À l’article 69, au tableau du cadre luxembourgeois des qualifications, au niveau 8, la ligne Doctorat est complétée par une ligne intitulée Diplôme d’études spécialisées en médecine .
+Par dérogation à l’alinéa 2, sont toutefois pris en considération pour les besoins du présent chapitre les titres de formation de médecin-généraliste ou de médecin-spécialiste obtenus dans un pays tiers pour l’accès aux professions de médecin-généraliste ou de médecin-spécialiste dans une des spécialités médicales visées au chapitre 1er de la loi du 31 juillet 2020 portant organisation d’études spécialisées en médecine à l’Université du Luxembourg.
+
+- À l’article 25 est ajouté un paragraphe 5 ayant la teneur suivante :
+
+(5)
+
+L’Université du Luxembourg organise la formation de médecin-spécialiste, qui est sanctionnée par un diplôme d’études spécialisées en médecine et qui répond aux critères fixés par la loi du 31 juillet 2020 portant organisation d’études spécialisées en médecine à l’Université du Luxembourg.
+
+- À l’article 28 est ajouté un paragraphe 5 ayant la teneur suivante :
+
+(5)
+
+L’Université du Luxembourg organise la formation de médecin-généraliste, qui est sanctionnée par un diplôme d’études spécialisées en médecine et qui répond aux critères fixés par la loi du 31 juillet 2020 portant organisation d’études spécialisées en médecine à l’Université du Luxembourg.
+
+- À l’article 69, au tableau du cadre luxembourgeois des qualifications, au niveau 8, la ligne Doctorat est complétée par une ligne intitulée Diplôme d’études spécialisées en médecine.
 
 #### Chapitre 4 Disposition finale
 

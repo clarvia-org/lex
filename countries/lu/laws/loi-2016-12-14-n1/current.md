@@ -69,7 +69,7 @@ Aux termes de la présente loi, on entend par:
 
 - «population», la population de résidence la plus récente calculée par l’Institut national de la statistique et des études économiques du Grand-Duché de Luxembourg;
 
-- «superficie totale de la commune», la superficie totale de la commune en km 2 la plus récente déterminée par l’Administration du cadastre et de la topographie;
+- «superficie totale de la commune», la superficie totale de la commune en km2 la plus récente déterminée par l’Administration du cadastre et de la topographie;
 
 - «emplois salariés», le nombre d’emplois salariés le plus récent déterminé par l’Administration des contributions directes sur la base des fiches de retenue d’impôt et dont le lieu de travail est affecté au territoire de la commune;
 
@@ -77,7 +77,7 @@ Aux termes de la présente loi, on entend par:
 
 - «logement social», un logement dont la commune est propriétaire et qu’elle donne en location pour une période de dix mois au moins sur l’année de référence dans les conditions prévues aux dispositions de la loi du 7 août 2023 relative au logement abordable ;
 
-- «ratio des zones urbanisées», le ratio entre la population et la superficie totale de la zone urbanisée de la commune exprimée en km 2 , la superficie totale de la zone urbanisée étant la superficie totale des terrains bâtis de la commune en km 2 la plus récente déterminée par l’Administration du cadastre et de la topographie.
+- «ratio des zones urbanisées», le ratio entre la population et la superficie totale de la zone urbanisée de la commune exprimée en km2, la superficie totale de la zone urbanisée étant la superficie totale des terrains bâtis de la commune en km2 la plus récente déterminée par l’Administration du cadastre et de la topographie.
 
 (2)
 
@@ -91,7 +91,7 @@ Le Fonds de dotation globale des communes est réparti suivant les règles suiva
 
     - Quant aux critères d’aménagement du territoire, la population de la Ville de Luxembourg est augmentée à raison de 45 pour cent, celle de la Ville d’Esch-sur-Alzette à raison de 25 pour cent, celles des villes de Diekirch et d’Ettelbruck à raison de 10 pour cent et celles des villes de Differdange, de Dudelange, d’Echternach, de Grevenmacher, de Remich, de Vianden et de Wiltz, de même que celle des communes de Clervaux, d’Erpeldange-sur-Sûre, de Junglinster, de Mersch, de Mondorf-les-Bains, de Redange-sur-Attert et de Steinfort à raison de 5 pour cent.
 
-    - Quant à la densité, l’ajustement de la population se situe dans un intervalle de -5 pour cent à 5 pour cent en appliquant une progression linéaire sur l’intervalle de densité allant de 0 à 2 000 habitants par km 2 . Pour les communes où la densité dépasse les 2 000 habitants par km 2 , l’ajustement est effectué avec 5 pour cent. Aux termes de la présente loi, on entend par « densité », le ratio entre la population et la superficie totale de la commune en km 2 .
+    - Quant à la densité, l’ajustement de la population se situe dans un intervalle de -5 pour cent à 5 pour cent en appliquant une progression linéaire sur l’intervalle de densité allant de 0 à 2 000 habitants par km2. Pour les communes où la densité dépasse les 2 000 habitants par km2, l’ajustement est effectué avec 5 pour cent. Aux termes de la présente loi, on entend par « densité », le ratio entre la population et la superficie totale de la commune en km2.
 
   - 3 pour cent entre les communes d’après le nombre d’emplois salariés.
 
@@ -99,7 +99,7 @@ Le Fonds de dotation globale des communes est réparti suivant les règles suiva
 
   - Un maximum de 1 pour cent entre les communes d’après leur nombre de logements sociaux à raison de 1 500 euros par logement, le reste éventuel étant ajouté au montant prévu sous c). En cas de dépassement du maximum, le montant par logement est réduit à 1 pour cent au prorata du dépassement. La déclaration annuelle du nombre des logements sociaux est présentée au ministre de l’Intérieur pour le 31 décembre au plus tard de l’année en question sous la forme d’un relevé certifié exact par le collège des bourgmestre et échevins. À défaut, les logements sociaux de la commune ne sont pas pris en compte pour la répartition de la part du Fonds de dotation globale des communes au titre du point d). Une part trop perçue sur déclaration erronée ou fausse est à rembourser.
 
-  - 5 pour cent entre les communes d’après la superficie totale ajustée des communes, l’ajustement de la superficie totale de la commune étant situé dans l’intervalle allant de -25 pour cent à 75 pour cent en appliquant une progression linéaire sur l’intervalle du ratio des zones urbanisées allant de 0 habitant par km 2 à 6 000 habitants par km 2 . Pour les communes où ce ratio dépasse les 6 000 habitants par km 2 , l’ajustement s’effectue avec 75 pour cent.
+  - 5 pour cent entre les communes d’après la superficie totale ajustée des communes, l’ajustement de la superficie totale de la commune étant situé dans l’intervalle allant de -25 pour cent à 75 pour cent en appliquant une progression linéaire sur l’intervalle du ratio des zones urbanisées allant de 0 habitant par km2 à 6 000 habitants par km2. Pour les communes où ce ratio dépasse les 6 000 habitants par km2, l’ajustement s’effectue avec 75 pour cent.
 
 <a id="art-4"></a>
 ## Art. 4.
@@ -114,7 +114,7 @@ Le Fonds de dotation globale des communes est alimenté annuellement par:
 
 - une partie du produit de la taxe sur les véhicules automoteurs;
 
-- une partie du produit de l’impôt commercial communal telle que déterminée à l’article 2, paragraphe 1 er , point 4;
+- une partie du produit de l’impôt commercial communal telle que déterminée à l’article 2, paragraphe 1er, point 4;
 
 - un crédit spécial inscrit au budget des dépenses ordinaires du ministère de l’Intérieur égal à la différence entre la dotation du Fonds de dotation globale des communes telle que définie à l’article 2 et les alimentations du Fonds de dotation globale des communes prévues aux points 1 à 4.
 
@@ -154,26 +154,46 @@ Par dérogation aux dispositions de l’article 76 de la loi modifiée du 8 juin
 
 La loi modifiée du 1er mars 1952 modifiant certaines dispositions relatives aux impôts directs est modifiée comme suit:
 
-- À l’article 6, paragraphe 2, la première phrase est remplacée par le texte suivant: «Sans préjudice de l’article 9, l’impôt commercial est attribué»
+- À l’article 6, paragraphe 2, la première phrase est remplacée par le texte suivant:
+
+«Sans préjudice de l’article 9, l’impôt commercial est attribué»
 
 - À l’article 6, le paragraphe 3 est abrogé.
 
-- À l’article 7, alinéa 2, la première phrase prend la teneur suivante: «La répartition de l’impôt commercial communal aux communes prévue à l’article 9 est déterminée par le directeur de l’Administration des contributions directes.»
+- À l’article 7, alinéa 2, la première phrase prend la teneur suivante:
 
-- À l’article 8, la première phrase prend la teneur suivante: «Les autorités communales fixent avant le 1er novembre de chaque année le taux communal se situant entre 225 et 350 pour cent à appliquer à partir de l’année d’imposition 2018 en matière d’impôt commercial communal à la base d’assiette d’après le bénéfice d’exploitation.»
+«La répartition de l’impôt commercial communal aux communes prévue à l’article 9 est déterminée par le directeur de l’Administration des contributions directes.»
 
-- Il est ajouté un article 9 qui prend la teneur suivante: «La participation directe d’une commune au produit en impôt commercial communal généré sur son territoire équivaut au montant le plus bas entre 35 pour cent de ce produit et 35 pour cent de la moyenne nationale par habitant des recettes en impôt commercial communal multiplié avec la population de la commune. Le montant restant est affecté au Fonds de dotation globale des communes.»
+- À l’article 8, la première phrase prend la teneur suivante:
+
+«Les autorités communales fixent avant le 1er novembre de chaque année le taux communal se situant entre 225 et 350 pour cent à appliquer à partir de l’année d’imposition 2018 en matière d’impôt commercial communal à la base d’assiette d’après le bénéfice d’exploitation.»
+
+- Il est ajouté un article 9 qui prend la teneur suivante:
+
+«La participation directe d’une commune au produit en impôt commercial communal généré sur son territoire équivaut au montant le plus bas entre 35 pour cent de ce produit et 35 pour cent de la moyenne nationale par habitant des recettes en impôt commercial communal multiplié avec la population de la commune. Le montant restant est affecté au Fonds de dotation globale des communes.»
 
 <a id="art-7"></a>
 ## Art. 7.
 
 La loi modifiée du 30 juin 1976 portant 1. création d’un fonds de chômage; 2. réglementation de l’octroi des indemnités de chômage complet est modifiée comme suit:
 
-- À l’article 8, le paragraphe 1 er est remplacé par le texte suivant: «La contribution totale des communes au Fonds de l’emploi est fixée à 2 pour cent du montant total des communes en impôt commercial.»
+- À l’article 8, le paragraphe 1er est remplacé par le texte suivant:
 
-- À l’article 8, le paragraphe 2 est remplacé par le texte suivant: «La participation de chaque commune au Fonds de l’emploi se compose de deux contributions: Une première contribution se fait par les communes dont la moyenne des recettes combinées par population ajustée dépasse de 10 pour cent au moins la moyenne nationale par population ajustée, la population ajustée étant définie à l’article 3, paragraphe 2, point 2, lettre a) de la loi portant création d’un Fonds de dotation globale des communes. La contribution correspond au montant de ce dépassement jusqu’à concurrence du montant défini à l’article 8, paragraphe 1er. Si la somme de tous les dépassements excède le montant précité, la contribution de chaque commune est réduite proportionnellement afin que les communes en question contribuent le montant défini à l’article 8, paragraphe 1er. Si la somme des premières contributions des communes est insuffisante pour couvrir le montant défini à l’article 8, paragraphe 1er, une deuxième contribution s’effectue afin de combler la différence comme suit: Cette deuxième contribution incombe à l’ensemble des communes. Le pourcentage de participation de chaque commune à la deuxième contribution correspond à la part de ses recettes combinées dans les recettes combinées du pays. Aux termes du présent paragraphe, on entend par «recettes combinées» la somme des recettes provenant du Fonds de dotation globale des communes et des recettes de la participation directe d’une commune au produit en impôt commercial communal.»
+«La contribution totale des communes au Fonds de l’emploi est fixée à 2 pour cent du montant total des communes en impôt commercial.»
 
-- À l’article 8, le paragraphe 3 prend la teneur suivante: «Une contribution supplémentaire d’un maximum de 12 millions d’euros pour l’ensemble des communes est versée au Fonds de l’emploi exclusivement par des communes déterminées qui perçoivent des montants d’impôt commercial dépassant proportionnellement de façon substantielle la moyenne du pays. La participation de chaque commune au Fonds de l’emploi est déduite des recettes du Fonds de dotation globale des communes et versée directement au Fonds de l’emploi. Un règlement grand-ducal fixe les modalités de calcul de la contribution supplémentaire.»
+- À l’article 8, le paragraphe 2 est remplacé par le texte suivant:
+
+«La participation de chaque commune au Fonds de l’emploi se compose de deux contributions:
+
+- Une première contribution se fait par les communes dont la moyenne des recettes combinées par population ajustée dépasse de 10 pour cent au moins la moyenne nationale par population ajustée, la population ajustée étant définie à l’article 3, paragraphe 2, point 2, lettre a) de la loi portant création d’un Fonds de dotation globale des communes. La contribution correspond au montant de ce dépassement jusqu’à concurrence du montant défini à l’article 8, paragraphe 1er. Si la somme de tous les dépassements excède le montant précité, la contribution de chaque commune est réduite proportionnellement afin que les communes en question contribuent le montant défini à l’article 8, paragraphe 1er.
+
+- Si la somme des premières contributions des communes est insuffisante pour couvrir le montant défini à l’article 8, paragraphe 1er, une deuxième contribution s’effectue afin de combler la différence comme suit: Cette deuxième contribution incombe à l’ensemble des communes. Le pourcentage de participation de chaque commune à la deuxième contribution correspond à la part de ses recettes combinées dans les recettes combinées du pays.
+
+Aux termes du présent paragraphe, on entend par «recettes combinées» la somme des recettes provenant du Fonds de dotation globale des communes et des recettes de la participation directe d’une commune au produit en impôt commercial communal.»
+
+- À l’article 8, le paragraphe 3 prend la teneur suivante:
+
+«Une contribution supplémentaire d’un maximum de 12 millions d’euros pour l’ensemble des communes est versée au Fonds de l’emploi exclusivement par des communes déterminées qui perçoivent des montants d’impôt commercial dépassant proportionnellement de façon substantielle la moyenne du pays. La participation de chaque commune au Fonds de l’emploi est déduite des recettes du Fonds de dotation globale des communes et versée directement au Fonds de l’emploi. Un règlement grand-ducal fixe les modalités de calcul de la contribution supplémentaire.»
 
 <a id="art-8"></a>
 ## Art. 8.
@@ -189,7 +209,9 @@ La loi modifiée du 6 février 2009 portant organisation de l’enseignement fon
 
 - À l’article 76, les paragraphes 2, 3 et 4 sont abrogés.
 
-- À l’article 76, le paragraphe 5 devient le paragraphe 2 et prend la teneur suivante: «Les décomptes des frais du personnel enseignant et du personnel socio-éducatif de l’enseignement fondamental, ventilés par commune ou par syndicats scolaires des années 2015 et 2016 sont établis par les services du ministère de l’Éducation nationale, sur base des données fournies par l’Administration du personnel de l’État et communiqués au ministère de l’Intérieur au plus tard 2 ans après la fin de l’année scolaire faisant le décompte. Ces décomptes sont appliqués sur le Fonds de dotation globale des communes.»
+- À l’article 76, le paragraphe 5 devient le paragraphe 2 et prend la teneur suivante:
+
+«Les décomptes des frais du personnel enseignant et du personnel socio-éducatif de l’enseignement fondamental, ventilés par commune ou par syndicats scolaires des années 2015 et 2016 sont établis par les services du ministère de l’Éducation nationale, sur base des données fournies par l’Administration du personnel de l’État et communiqués au ministère de l’Intérieur au plus tard 2 ans après la fin de l’année scolaire faisant le décompte. Ces décomptes sont appliqués sur le Fonds de dotation globale des communes.»
 
 (2)
 

@@ -45,7 +45,7 @@ L’affectation et la réaffectation des auxiliaires éducatifs à une direction
 
 - les auxiliaires éducatifs non-détenteurs du certificat de formation précité, visés à l’article 16, paragraphe 3 de la loi du 2 août 2017 portant organisation de la reprise des enseignants de religion et des chargés de cours de religion;
 
-- les auxiliaires éducatifs détenteurs du certificat de formation établi conformément aux dispositions de l’article 4, paragraphe 1 er , point 7 de la loi du 2 août 2017 portant organisation de la reprise des enseignants de religion et des chargés de cours de religion.
+- les auxiliaires éducatifs détenteurs du certificat de formation établi conformément aux dispositions de l’article 4, paragraphe 1er, point 7 de la loi du 2 août 2017 portant organisation de la reprise des enseignants de religion et des chargés de cours de religion.
 
 (4)
 

@@ -90,7 +90,7 @@ La CSSF a le pouvoir d’infliger les sanctions administratives et autres mesure
 
 - dans le cas d’une personne physique, une amende administrative d’un montant maximal de 1 000 000 euros ;
 
-- dans le cas d’une personne morale, une amende administrative d’un montant maximal de 5 000 000 euros ou de 10 pour cent du chiffre d’affaires annuel total réalisé par cette personne morale selon les derniers comptes disponibles approuvés par l’organe de direction. Lorsque la personne morale est une entreprise mère ou une filiale d’une entreprise mère qui est tenue d’établir des comptes consolidés conformément à la directive 2013/34 /UE du Parlement européen et du Conseil du 26 juin 2013 relative aux états financiers annuels, aux états financiers consolidés et aux rapports y afférents de certaines formes d’entreprises, modifiant la directive 2006/43/CE du Parlement européen et du Conseil et abrogeant les directives 78/660/CEE et 83/349/CEE du Conseil, dénommée ci-après « directive 2013/34/UE », le chiffre d’affaires annuel total à prendre en considération est le chiffre d’affaires annuel total, tel qu’il ressort des derniers comptes consolidés disponibles approuvés par l’organe de direction de l’entreprise mère ultime.
+- dans le cas d’une personne morale, une amende administrative d’un montant maximal de 5 000 000 euros ou de 10 pour cent du chiffre d’affaires annuel total réalisé par cette personne morale selon les derniers comptes disponibles approuvés par l’organe de direction. Lorsque la personne morale est une entreprise mère ou une filiale d’une entreprise mère qui est tenue d’établir des comptes consolidés conformément à la directive 2013/34/UE du Parlement européen et du Conseil du 26 juin 2013 relative aux états financiers annuels, aux états financiers consolidés et aux rapports y afférents de certaines formes d’entreprises, modifiant la directive 2006/43/CE du Parlement européen et du Conseil et abrogeant les directives 78/660/CEE et 83/349/CEE du Conseil, dénommée ci-après « directive 2013/34/UE », le chiffre d’affaires annuel total à prendre en considération est le chiffre d’affaires annuel total, tel qu’il ressort des derniers comptes consolidés disponibles approuvés par l’organe de direction de l’entreprise mère ultime.
 
 (2)
 
@@ -183,7 +183,7 @@ La CSSF a le pouvoir d’infliger les sanctions administratives et autres mesure
 
 - dans le cas d’une personne physique, une amende administrative d’un montant maximal de 1 000 000 euros ;
 
-- dans le cas d’une personne morale, une amende administrative d’un montant maximal de 5 000 000 euros ou de 10 pour cent du chiffre d’affaires annuel total réalisé par cette personne morale selon les derniers comptes disponibles approuvés par l’organe de direction. Lorsque la personne morale est une entreprise mère ou une filiale d’une entreprise mère qui est tenue d’établir des comptes consolidés conformément à la directive 2013/34/UE , le chiffre d’affaires annuel total à prendre en considération est le chiffre d’affaires annuel total, tel qu’il ressort des derniers comptes consolidés disponibles approuvés par l’organe de direction de l’entreprise mère ultime.
+- dans le cas d’une personne morale, une amende administrative d’un montant maximal de 5 000 000 euros ou de 10 pour cent du chiffre d’affaires annuel total réalisé par cette personne morale selon les derniers comptes disponibles approuvés par l’organe de direction. Lorsque la personne morale est une entreprise mère ou une filiale d’une entreprise mère qui est tenue d’établir des comptes consolidés conformément à la directive 2013/34/UE, le chiffre d’affaires annuel total à prendre en considération est le chiffre d’affaires annuel total, tel qu’il ressort des derniers comptes consolidés disponibles approuvés par l’organe de direction de l’entreprise mère ultime.
 
 (2)
 
@@ -296,7 +296,7 @@ La CSSF a le pouvoir d’infliger les sanctions administratives et autres mesure
 
 - dans le cas d’une personne physique, une amende administrative d’un montant maximal de 1 000 000 euros ;
 
-- dans le cas d’une personne morale, une amende administrative d’un montant maximal de 5 000 000 euros ou de 10 pour cent du chiffre d’affaires annuel total réalisé par cette personne morale selon les derniers comptes disponibles approuvés par l’organe de direction. Lorsque la personne morale est une entreprise mère ou une filiale d’une entreprise mère qui est tenue d’établir des comptes consolidés conformément à la directive 2013/34/UE , le chiffre d’affaires annuel total à prendre en considération est le chiffre d’affaires annuel total, tel qu’il ressort des derniers comptes consolidés disponibles approuvés par l’organe de direction de l’entreprise mère ultime.
+- dans le cas d’une personne morale, une amende administrative d’un montant maximal de 5 000 000 euros ou de 10 pour cent du chiffre d’affaires annuel total réalisé par cette personne morale selon les derniers comptes disponibles approuvés par l’organe de direction. Lorsque la personne morale est une entreprise mère ou une filiale d’une entreprise mère qui est tenue d’établir des comptes consolidés conformément à la directive 2013/34/UE, le chiffre d’affaires annuel total à prendre en considération est le chiffre d’affaires annuel total, tel qu’il ressort des derniers comptes consolidés disponibles approuvés par l’organe de direction de l’entreprise mère ultime.
 
 (2)
 
@@ -394,7 +394,7 @@ Les pouvoirs en question sont les suivants :
 
 - d’enjoindre de respecter les dispositions du règlement (UE) 2017/2402 et des mesures prises pour leur exécution et de s’abstenir de répéter tout comportement qui constitue une violation audit règlement ou aux mesures prises pour son exécution ;
 
-- d’adopter toute mesure nécessaire pour s’assurer que les personnes soumises à leur surveillance continuent de se conformer aux exigences du règlement (UE) 2017/2402 , du présent chapitre et des mesures prises pour leur exécution ;
+- d’adopter toute mesure nécessaire pour s’assurer que les personnes soumises à leur surveillance continuent de se conformer aux exigences du règlement (UE) 2017/2402, du présent chapitre et des mesures prises pour leur exécution ;
 
 - de transmettre des informations au procureur d’État en vue de poursuites pénales.
 
@@ -415,13 +415,13 @@ La CSSF et le CAA, en tant qu’autorités compétentes désignées en vertu de 
 
 - l’initiateur, le sponsor ou la SSPE ne satisfait pas aux exigences prévues à l’article 18 du règlement (UE) 2017/2402 ;
 
-- lorsqu’une titrisation est considérée comme étant simple, transparente et standardisée, l’initiateur, le sponsor ou la SSPE de cette titrisation ne satisfait pas aux exigences prévues aux articles 19 à 22 ou 23 à 26 ou aux articles 26 bis à 26 sexies du règlement (UE) 2017/2402 ;
+- lorsqu’une titrisation est considérée comme étant simple, transparente et standardisée, l’initiateur, le sponsor ou la SSPE de cette titrisation ne satisfait pas aux exigences prévues aux articles 19 à 22 ou 23 à 26 ou aux articles 26bis à 26sexies du règlement (UE) 2017/2402 ;
 
-- l’initiateur ou le sponsor fait une déclaration trompeuse au titre de l’article 27, paragraphe 1 er , du règlement (UE) 2017/2402 ;
+- l’initiateur ou le sponsor fait une déclaration trompeuse au titre de l’article 27, paragraphe 1er, du règlement (UE) 2017/2402 ;
 
 - l’initiateur ou le sponsor ne satisfait pas aux exigences prévues à l’article 27, paragraphe 4, du règlement (UE) 2017/2402 ; ou
 
-- le tiers agréé en vertu de l’article 28 du règlement (UE) 2017/2402 n’a pas notifié les modifications significatives apportées aux informations fournies conformément à l’article 28, paragraphe 1 er , dudit règlement , ou toute autre modification dont on pourrait raisonnablement estimer qu’elle influe sur l’évaluation de la CSSF ou du CAA.
+- le tiers agréé en vertu de l’article 28 du règlement (UE) 2017/2402 n’a pas notifié les modifications significatives apportées aux informations fournies conformément à l’article 28, paragraphe 1er, dudit règlement, ou toute autre modification dont on pourrait raisonnablement estimer qu’elle influe sur l’évaluation de la CSSF ou du CAA.
 
 Lorsque les dispositions visées à l’alinéa 1er s’appliquent à des personnes morales, la CSSF et le CAA ont le pouvoir d’infliger les sanctions administratives et autres mesures administratives visées au paragraphe 2 à l’égard des membres de l’organe de direction.
 
@@ -437,7 +437,7 @@ La CSSF et le CAA peuvent, dans les limites de leurs compétences respectives, p
 
 - dans le cas d’une personne physique, prononcer une amende administrative d’un montant maximal de 5 000 000 euros ;
 
-- dans le cas d’une personne morale, prononcer une amende administrative d’un montant maximal de 5 000 000 euros ou 10 pour cent du chiffre d’affaires total annuel net de la personne morale tel qu’il ressort des derniers comptes disponibles approuvés par l’organe de direction. Lorsque la personne morale est une entreprise mère ou une filiale d’une entreprise mère qui est tenue d’établir des comptes consolidés conformément à la directive 2013/34/UE , le chiffre d’affaires total annuel net à prendre en considération est le chiffre d’affaires total annuel tel qu’il ressort des derniers comptes consolidés disponibles approuvés par l’organe de direction de l’entreprise mère ultime.
+- dans le cas d’une personne morale, prononcer une amende administrative d’un montant maximal de 5 000 000 euros ou 10 pour cent du chiffre d’affaires total annuel net de la personne morale tel qu’il ressort des derniers comptes disponibles approuvés par l’organe de direction. Lorsque la personne morale est une entreprise mère ou une filiale d’une entreprise mère qui est tenue d’établir des comptes consolidés conformément à la directive 2013/34/UE, le chiffre d’affaires total annuel net à prendre en considération est le chiffre d’affaires total annuel tel qu’il ressort des derniers comptes consolidés disponibles approuvés par l’organe de direction de l’entreprise mère ultime.
 
 La CSSF et le CAA peuvent prononcer, dans les limites de leurs compétences respectives, une amende d’ordre de 250 à 250 000 euros contre ceux qui font obstacle à l’exercice de leurs pouvoirs de surveillance et d’enquête, qui ne donnent pas suite aux injonctions prononcées en vertu de l’article 17, paragraphe 2, point 4, ou qui auront sciemment donné des informations inexactes ou incomplètes suite à des demandes basées sur l’article 17, paragraphe 2, points 1 à 3.
 
@@ -541,7 +541,7 @@ Sanctions administratives
 
 La CSSF et le CAA ont le pouvoir d’infliger les sanctions administratives et autres mesures administratives visées au paragraphe 2 :
 
-- en cas de violation de l’article 4, de l’article 5, paragraphe 1 er , de l’article 6, paragraphe 1 er , paragraphe 2 et paragraphe 6, alinéa 2, de l’article 7, paragraphe 3, de l’article 8, paragraphe 5, de l’article 9, de l’article 14, de l’article 15, paragraphes 1 er et 5, de l’article 18, de l’article 19, de l’article 20, paragraphes 1 er et 4, de l’article 21, paragraphes 1 er , 2 et 6, de l’article 22, de l’article 23, paragraphe 1 er , de l’article 24, de l’article 25, paragraphe 1 er , de l’article 26, de l’article 27, de l’article 28, paragraphes 1 er à 4, de l’article 29, de l’article 30, paragraphe 1 er , de l’article 33, paragraphes 1 er et 2, de l’article 34, de l’article 35, de l’article 36, paragraphe 1 er , de l’article 37, paragraphe 1 er , de l’article 38, de l’article 39, de l’article 40, paragraphes 1 er , 3 et 4, paragraphe 5, alinéa 1 er , paragraphe 6 et paragraphe 8, de l’article 41, paragraphe 1 er , de l’article 42, paragraphes 2 et 3, de l’article 44, de l’article 45, paragraphes 1 er et 2, de l’article 46, paragraphe 1 er , de l’article 48, paragraphe 1 er , de l’article 49, paragraphe 3, de l’article 50, paragraphes 1 er à 5, de l’article 52, de l’article 53, de l’article 54, paragraphes 3 et 4, de l’article 55, paragraphe 1 er , de l’article 56, de l’article 59 et de l’article 60 du règlement (UE) 2019/1238 ;
+- en cas de violation de l’article 4, de l’article 5, paragraphe 1er, de l’article 6, paragraphe 1er, paragraphe 2 et paragraphe 6, alinéa 2, de l’article 7, paragraphe 3, de l’article 8, paragraphe 5, de l’article 9, de l’article 14, de l’article 15, paragraphes 1er et 5, de l’article 18, de l’article 19, de l’article 20, paragraphes 1er et 4, de l’article 21, paragraphes 1er , 2 et 6, de l’article 22, de l’article 23, paragraphe 1er, de l’article 24, de l’article 25, paragraphe 1er, de l’article 26, de l’article 27, de l’article 28, paragraphes 1er à 4, de l’article 29, de l’article 30, paragraphe 1er, de l’article 33, paragraphes 1er et 2, de l’article 34, de l’article 35, de l’article 36, paragraphe 1er, de l’article 37, paragraphe 1er, de l’article 38, de l’article 39, de l’article 40, paragraphes 1er, 3 et 4, paragraphe 5, alinéa 1er, paragraphe 6 et paragraphe 8, de l’article 41, paragraphe 1er, de l’article 42, paragraphes 2 et 3, de l’article 44, de l’article 45, paragraphes 1er et 2, de l’article 46, paragraphe 1er, de l’article 48, paragraphe 1er, de l’article 49, paragraphe 3, de l’article 50, paragraphes 1er à 5, de l’article 52, de l’article 53, de l’article 54, paragraphes 3 et 4, de l’article 55, paragraphe 1er, de l’article 56, de l’article 59 et de l’article 60 du règlement (UE) 2019/1238 ;
 
 - contre toute personne qui fournit ou distribue des produits portant l’appellation « produit paneuropéen d’épargne-retraite individuelle » ou « PEPP » sans avoir satisfait à l’exigence d’enregistrement ;
 
@@ -561,7 +561,7 @@ Dans les cas visés au paragraphe 1er, la CSSF et le CAA peuvent prononcer, dans
 
 - dans le cas d’une personne morale, des amendes administratives d’un montant maximal de 5 000 000 euros ;
 
-- dans le cas d’une personne morale, les amendes administratives maximales visées au point 4 peuvent atteindre jusqu’à 10 pour cent du chiffre d’affaires annuel total selon les derniers comptes disponibles approuvés par l’organe de direction, de surveillance ou d’administration. Lorsque la personne morale est une entreprise mère ou une filiale d’une entreprise mère qui est tenue d’établir des comptes consolidés conformément à la directive 2013/34/UE , le chiffre d’affaires annuel total à prendre en considération est le chiffre d’affaires annuel total, tel qu’il ressort des derniers comptes consolidés disponibles approuvés par l’organe de direction de l’entreprise mère ultime ;
+- dans le cas d’une personne morale, les amendes administratives maximales visées au point 4 peuvent atteindre jusqu’à 10 pour cent du chiffre d’affaires annuel total selon les derniers comptes disponibles approuvés par l’organe de direction, de surveillance ou d’administration. Lorsque la personne morale est une entreprise mère ou une filiale d’une entreprise mère qui est tenue d’établir des comptes consolidés conformément à la directive 2013/34/UE, le chiffre d’affaires annuel total à prendre en considération est le chiffre d’affaires annuel total, tel qu’il ressort des derniers comptes consolidés disponibles approuvés par l’organe de direction de l’entreprise mère ultime ;
 
 - dans le cas d’une personne physique, des amendes administratives d’un montant maximal de 700 000 euros ;
 
@@ -641,9 +641,9 @@ Les pouvoirs de la CSSF et du CAA sont les suivants :
 
 - procéder à des inspections sur place auprès des personnes soumises à leur surveillance respective ;
 
-- prendre les mesures appropriées pour faire en sorte qu’un acteur des marchés financiers ou un conseiller financier continue de se conformer aux dispositions du règlement (UE) 2019/2088 , du règlement (UE) 2020/852 et des mesures prises pour leur exécution ;
+- prendre les mesures appropriées pour faire en sorte qu’un acteur des marchés financiers ou un conseiller financier continue de se conformer aux dispositions du règlement (UE) 2019/2088, du règlement (UE) 2020/852 et des mesures prises pour leur exécution ;
 
-- enjoindre à un acteur des marchés financiers ou à un conseiller financier de se conformer aux dispositions du règlement (UE) 2019/2088 , du règlement (UE) 2020/852 et des mesures prises pour leur exécution et de s’abstenir de répéter tout comportement qui constitue une violation desdites dispositions ;
+- enjoindre à un acteur des marchés financiers ou à un conseiller financier de se conformer aux dispositions du règlement (UE) 2019/2088, du règlement (UE) 2020/852 et des mesures prises pour leur exécution et de s’abstenir de répéter tout comportement qui constitue une violation desdites dispositions ;
 
 - enjoindre à un acteur des marchés financiers ou à un conseiller financier de publier des informations à publier conformément au règlement (UE) 2019/2088 et au règlement (UE) 2020/852 sur leur site internet, dans les informations précontractuelles ou dans les rapports périodiques, ou de modifier ou de supprimer des informations fausses ou trompeuses publiées afin de rendre celles-ci conformes aux critères posés par les règlements (UE) 2019/2088 et (UE) 2020/852 et les mesures prises pour leur exécution, et d’exiger la publication d’un communiqué rectificatif ;
 
@@ -660,7 +660,7 @@ Sanctions administratives
 
 La CSSF et le CAA ont le pouvoir d’infliger les sanctions administratives et autres mesures administratives visées au paragraphe 2 :
 
-- en cas de violation de l’article 3, de l’article 4, paragraphes 1 er à 5, de l’article 5, de l’article 6, de l’article 7, de l’article 8, paragraphes 1 er à 2 bis , de l’article 9, paragraphes 1 er à 4 bis , de l’article 10, paragraphe 1 er , de l’article 11, paragraphes 1 er à 3, de l’article 12 et de l’article 13, paragraphe 1 er , du règlement (UE) 2019/2088 ;
+- en cas de violation de l’article 3, de l’article 4, paragraphes 1er à 5, de l’article 5, de l’article 6, de l’article 7, de l’article 8, paragraphes 1er à 2bis, de l’article 9, paragraphes 1er à 4bis, de l’article 10, paragraphe 1er, de l’article 11, paragraphes 1er à 3, de l’article 12 et de l’article 13, paragraphe 1er, du règlement (UE) 2019/2088 ;
 
 - en cas de violation de l’article 5, de l’article 6 et de l’article 7 du règlement (UE) 2020/852 ;
 
@@ -791,7 +791,7 @@ Les pouvoirs de la CSSF sont les suivants :
 
 - interdire ou suspendre les communications publicitaires ou exiger d’un prestataire de services de financement participatif ou d’un tiers désigné pour exercer des fonctions en rapport avec la prestation de services de financement participatif, qu’il arrête ou suspende les communications publicitaires pendant un délai maximal de dix jours ouvrables consécutifs, chaque fois qu’il existe des motifs raisonnables de croire qu’il y a eu violation du règlement (UE) 2020/1503 ;
 
-- interdire une offre de financement participatif en cas de violation du règlement (UE) 2020/1503 , ou lorsqu’il existe des motifs raisonnables de soupçonner qu’il y aurait violation du règlement (UE) 2020/1503 ;
+- interdire une offre de financement participatif en cas de violation du règlement (UE) 2020/1503, ou lorsqu’il existe des motifs raisonnables de soupçonner qu’il y aurait violation du règlement (UE) 2020/1503 ;
 
 - suspendre les prestations de services de financement participatif ou exiger d’un prestataire de services de financement participatif qu’il suspende ces prestations pendant un délai maximal de dix jours ouvrables consécutifs, chaque fois qu’il existe des motifs raisonnables de croire qu’il y a eu violation du règlement (UE) 2020/1503 ;
 
@@ -803,7 +803,7 @@ Les pouvoirs de la CSSF sont les suivants :
 
 - suspendre ou exiger d’un prestataire de services de financement participatif ou d’un tiers désigné pour exercer des fonctions en rapport avec la prestation de services de financement participatif qu’il suspende la prestation de services de financement participatif lorsqu’elle estime que la situation du prestataire de services de financement participatif est telle que cette prestation de services serait préjudiciable aux intérêts des investisseurs ;
 
-- transférer les contrats existants à un autre prestataire de services de financement participatif lorsque l’agrément d’un prestataire de services de financement participatif est retiré conformément à l’article 17, paragraphe 1 er , alinéa 1 er , lettre c), du règlement (UE) 2020/1503 , sous réserve de l’accord des clients et du prestataire de services de financement participatif destinataire ;
+- transférer les contrats existants à un autre prestataire de services de financement participatif lorsque l’agrément d’un prestataire de services de financement participatif est retiré conformément à l’article 17, paragraphe 1er, alinéa 1er, lettre c), du règlement (UE) 2020/1503, sous réserve de l’accord des clients et du prestataire de services de financement participatif destinataire ;
 
 - transmettre des informations au procureur d’État en vue de poursuites pénales.
 
@@ -816,7 +816,7 @@ Sanctions administratives et autres mesures administratives
 
 La CSSF a le pouvoir d’infliger les sanctions administratives et les mesures administratives visées au paragraphe 2 :
 
-- en cas de violation des articles 3 à 5, de l’article 6, paragraphes 1 er à 6, de l’article 7, paragraphes 1 er à 4, de l’article 8, paragraphes 1 er à 6, de l’article 9, paragraphes 1 er et 2, de l’article 10, de l’article 11, de l’article 12, paragraphes 1 er et 11, de l’article 13, paragraphe 2, de l’article 15, paragraphes 2 et 3, de l’article 16, paragraphe 1 er , de l’article 18, paragraphes 1 er et 4, de l’article 19, paragraphes 1 er à 6, de l’article 20, paragraphes 1 er et 2, de l’article 21, paragraphes 1 er à 7, de l’article 22, de l’article 23, paragraphes 1 er à 13, des articles 24 à 26 et de l’article 27, paragraphes 1 er à 3, du règlement (UE) 2020/1503 ;
+- en cas de violation des articles 3 à 5, de l’article 6, paragraphes 1er à 6, de l’article 7, paragraphes 1er à 4, de l’article 8, paragraphes 1er à 6, de l’article 9, paragraphes 1er et 2, de l’article 10, de l’article 11, de l’article 12, paragraphes 1er et 11, de l’article 13, paragraphe 2, de l’article 15, paragraphes 2 et 3, de l’article 16, paragraphe 1er, de l’article 18, paragraphes 1er et 4, de l’article 19, paragraphes 1er à 6, de l’article 20, paragraphes 1er et 2, de l’article 21, paragraphes 1er à 7, de l’article 22, de l’article 23, paragraphes 1er à 13, des articles 24 à 26 et de l’article 27, paragraphes 1er à 3, du règlement (UE) 2020/1503 ;
 
 - en cas de refus de coopérer ou de se soumettre à une enquête, une inspection ou une demande, conformément à l’article 20-16, paragraphe 2, points 1 à 4.
 
@@ -832,7 +832,7 @@ Pour les cas visés au paragraphe 1er, la CSSF peut imposer :
 
 - des amendes administratives d’un montant maximal de deux fois l’avantage retiré de la violation, si celui-ci peut être déterminé, même si ce montant dépasse les montants maximaux visés au point 5 ;
 
-- dans le cas d’une personne morale, des amendes administratives d’un montant maximal de 500 000 euros ou de 5 pour cent du chiffre d’affaires annuel total de la personne morale tel qu’il ressort des derniers états financiers disponibles approuvés par l’organe de direction. Lorsque la personne morale est une entreprise mère ou une filiale d’une entreprise mère qui est tenue d’établir des états financiers consolidés conformément à la directive 2013/34/UE , le chiffre d’affaires annuel total à prendre en considération est le chiffre d’affaires annuel total ou le type de revenus correspondant selon le droit de l’Union européenne pertinent en matière comptable, tel qu’il ressort des derniers états financiers consolidés disponibles approuvés par l’organe de direction de l’entreprise mère ultime ;
+- dans le cas d’une personne morale, des amendes administratives d’un montant maximal de 500 000 euros ou de 5 pour cent du chiffre d’affaires annuel total de la personne morale tel qu’il ressort des derniers états financiers disponibles approuvés par l’organe de direction. Lorsque la personne morale est une entreprise mère ou une filiale d’une entreprise mère qui est tenue d’établir des états financiers consolidés conformément à la directive 2013/34/UE, le chiffre d’affaires annuel total à prendre en considération est le chiffre d’affaires annuel total ou le type de revenus correspondant selon le droit de l’Union européenne pertinent en matière comptable, tel qu’il ressort des derniers états financiers consolidés disponibles approuvés par l’organe de direction de l’entreprise mère ultime ;
 
 - dans le cas d’une personne physique, des amendes administratives d’un montant maximal de 500 000 euros.
 
@@ -920,7 +920,7 @@ Les pouvoirs de la CSSF et du CAA sont les suivants :
 
 - interroger toute autre personne physique ou morale qui accepte de l’être aux fins de recueillir des informations concernant l’objet d’une enquête visée au point 2 ;
 
-- sous réserve de l’autorisation judiciaire prévue au paragraphe 3, exiger les enregistrements de données relatives au trafic détenus par les fournisseurs de services de communications électroniques et les opérateurs de réseaux de communications publics, lorsqu’il existe des raisons de suspecter une violation et que de tels enregistrements peuvent se révéler utiles à la manifestation de la vérité dans le cadre d’une enquête relative à la violation des dispositions visées à l’article 20-24, paragraphe 1 er ;
+- sous réserve de l’autorisation judiciaire prévue au paragraphe 3, exiger les enregistrements de données relatives au trafic détenus par les fournisseurs de services de communications électroniques et les opérateurs de réseaux de communications publics, lorsqu’il existe des raisons de suspecter une violation et que de tels enregistrements peuvent se révéler utiles à la manifestation de la vérité dans le cadre d’une enquête relative à la violation des dispositions visées à l’article 20-24, paragraphe 1er ;
 
 - imposer des sanctions administratives et autres mesures administratives conformément à l’article 20-24 ;
 
@@ -955,9 +955,9 @@ La CSSF et le CAA peuvent prononcer, dans les limites de leurs compétences resp
 
 - dans le cas d’une personne physique, une amende administrative d’un montant maximal de 5 000 000 euros ;
 
-- dans le cas d’une personne morale, une amende administrative d’un montant maximal de 5 000 000 euros ou jusqu’à 10 pour cent du chiffre d’affaires annuel total selon les derniers comptes disponibles approuvés par l’organe de direction, de surveillance ou d’administration. Lorsque la personne morale est une entreprise mère ou une filiale d’une entreprise mère qui est tenue d’établir des comptes consolidés conformément à la directive 2013/34/UE , le chiffre d’affaires annuel total à prendre en considération est le chiffre d’affaires annuel total, tel qu’il ressort des derniers comptes consolidés disponibles approuvés par l’organe de direction de l’entreprise mère ultime ;
+- dans le cas d’une personne morale, une amende administrative d’un montant maximal de 5 000 000 euros ou jusqu’à 10 pour cent du chiffre d’affaires annuel total selon les derniers comptes disponibles approuvés par l’organe de direction, de surveillance ou d’administration. Lorsque la personne morale est une entreprise mère ou une filiale d’une entreprise mère qui est tenue d’établir des comptes consolidés conformément à la directive 2013/34/UE, le chiffre d’affaires annuel total à prendre en considération est le chiffre d’affaires annuel total, tel qu’il ressort des derniers comptes consolidés disponibles approuvés par l’organe de direction de l’entreprise mère ultime ;
 
-- une déclaration publique précisant l’identité de la personne responsable et la nature de la violation, conformément à l’article 54 du règlement (UE) 2022/2554 .
+- une déclaration publique précisant l’identité de la personne responsable et la nature de la violation, conformément à l’article 54 du règlement (UE) 2022/2554.
 
 (3)
 
@@ -1013,7 +1013,7 @@ Les pouvoirs visés à l’alinéa 1er sont les suivants :
 
 - suspendre ou exiger d’un prestataire de services sur crypto-actifs qu’il suspende la fourniture d’un ou de plusieurs services sur crypto-actifs lorsque la CSSF estime que la situation du prestataire de services sur crypto-actifs est telle que la fourniture du ou des services sur crypto-actifs serait préjudiciable aux intérêts des clients, en particulier des détenteurs de détail ;
 
-- exiger le transfert des contrats existants à un autre prestataire de services sur crypto-actifs lorsque l’agrément d’un prestataire de services sur crypto-actifs lui est retiré conformément à l’article 64 du règlement (UE) 2023/1114 , sous réserve de l’accord des clients et du prestataire de services sur crypto-actifs auquel les contrats doivent être transférés ;
+- exiger le transfert des contrats existants à un autre prestataire de services sur crypto-actifs lorsque l’agrément d’un prestataire de services sur crypto-actifs lui est retiré conformément à l’article 64 du règlement (UE) 2023/1114, sous réserve de l’accord des clients et du prestataire de services sur crypto-actifs auquel les contrats doivent être transférés ;
 
 - s’il existe une raison de penser qu’une personne fournit un ou plusieurs services sur crypto-actifs sans agrément, ordonner la cessation immédiate de l’activité sans préavis ni délai ;
 
@@ -1041,9 +1041,9 @@ Les pouvoirs visés à l’alinéa 1er sont les suivants :
 
 - suspendre ou exiger du prestataire de services sur crypto-actifs concerné qui exploite la plate-forme de négociation de crypto-actifs qu’il suspende la négociation de crypto-actifs lorsque la CSSF estime que la situation de l’offreur, de la personne qui demande l’admission à la négociation d’un crypto-actif ou de l’émetteur d’un jeton se référant à un ou des actifs ou d’un jeton de monnaie électronique est telle que cette négociation serait préjudiciable aux intérêts des détenteurs de crypto-actifs, en particulier des détenteurs de détail ;
 
-- s’il existe une raison de penser qu’une personne émet des jetons se référant à un ou des actifs ou des jetons de monnaie électronique sans agrément ou qu’une personne offre des crypto-actifs autres que des jetons se référant à un ou des actifs ou des jetons de monnaie électronique ou demande leur admission à la négociation sans avoir notifié un livre blanc sur les crypto-actifs conformément à l’article 8 du règlement (UE) 2023/1114 , ordonner la cessation immédiate de l’activité sans préavis ni délai ;
+- s’il existe une raison de penser qu’une personne émet des jetons se référant à un ou des actifs ou des jetons de monnaie électronique sans agrément ou qu’une personne offre des crypto-actifs autres que des jetons se référant à un ou des actifs ou des jetons de monnaie électronique ou demande leur admission à la négociation sans avoir notifié un livre blanc sur les crypto-actifs conformément à l’article 8 du règlement (UE) 2023/1114, ordonner la cessation immédiate de l’activité sans préavis ni délai ;
 
-- prendre tout type de mesure pour faire en sorte qu’un offreur, une personne qui demande l’admission à la négociation de crypto-actifs, un émetteur d’un jeton se référant à un ou des actifs ou d’un jeton de monnaie électronique ou un prestataire de services sur crypto-actifs respectent le règlement (UE) 2023/1114 , y compris exiger la cessation de toute pratique ou conduite que la CSSF estime contraire au règlement (UE) 2023/1114 ;
+- prendre tout type de mesure pour faire en sorte qu’un offreur, une personne qui demande l’admission à la négociation de crypto-actifs, un émetteur d’un jeton se référant à un ou des actifs ou d’un jeton de monnaie électronique ou un prestataire de services sur crypto-actifs respectent le règlement (UE) 2023/1114, y compris exiger la cessation de toute pratique ou conduite que la CSSF estime contraire au règlement (UE) 2023/1114 ;
 
 - procéder, auprès des personnes soumises à sa surveillance prudentielle, à des inspections sur place ou à des enquêtes sur des sites autres que les résidences privées de personnes physiques et, pour ce faire, pénétrer dans des locaux afin d’accéder à des documents et à d’autres données, sous quelque forme que ce soit, et, sous réserve de l’autorisation judiciaire prévue à l’article 20-29, auprès de toute autre personne physique ou morale ;
 
@@ -1146,13 +1146,13 @@ Sanctions administratives et autres mesures administratives
 
 La CSSF a le pouvoir d’infliger les sanctions administratives et autres mesures administratives visées au paragraphe 2 :
 
-- en cas de violation de l’article 4, paragraphes 1 er et 3, alinéa 3, et paragraphes 6 et 8, de l’article 5, paragraphe 1 er à 3, de l’article 6, paragraphes 1 er à 10, de l’article 7, paragraphes 1 er et 2, de l’article 8, paragraphes 1 er , 2, 4, 5 et 6, alinéa 1 er , de l’article 9, de l’article 10, de l’article 11, paragraphe 1 er , de l’article 12, paragraphes 1 er à 4 et 6 à 9, de l’article 13, et de l’article 14, paragraphe 1 er , alinéa 1 er , et paragraphes 2 et 3, du règlement (UE) 2023/1114 ;
+- en cas de violation de l’article 4, paragraphes 1er et 3, alinéa 3, et paragraphes 6 et 8, de l’article 5, paragraphe 1er à 3, de l’article 6, paragraphes 1er à 10, de l’article 7, paragraphes 1er et 2, de l’article 8, paragraphes 1er, 2, 4, 5 et 6, alinéa 1er, de l’article 9, de l’article 10, de l’article 11, paragraphe 1er, de l’article 12, paragraphes 1er à 4 et 6 à 9, de l’article 13, et de l’article 14, paragraphe 1er, alinéa 1er, et paragraphes 2 et 3, du règlement (UE) 2023/1114 ;
 
-- en cas de violation de l’article 16, paragraphes 1 er et 2, alinéa 2, de l’article 17, paragraphes 1 er et 2, deuxième phrase, et paragraphe 3, alinéa 3, de l’article 19, paragraphes 1 er à 9, de l’article 22, paragraphe 1 er , alinéa 1 er , paragraphe 2 et paragraphe 3, de l’article 23, paragraphes 1 er et 4, de l’article 25, paragraphes 1 er et 2, alinéa 1 er et 2, et paragraphe 4, de l’article 27, de l’article 28, de l’article 29, paragraphes 1 er à 3, et paragraphes 5 et 6, de l’article 30, de l’article 31, paragraphes 1 er à 4, de l’article 32, paragraphes 1 er à 4, de l’article 33, de l’article 34, paragraphes 1 er à 12, de l’article 35, paragraphes 1 er à 5, de l’article 36, paragraphes 1 er à 3, et paragraphes 5 à 12, de l’article 37, de l’article 38, paragraphes 1 er à 4, de l’article 39, de l’article 40, de l’article 41, paragraphes 1 er et 2, de l’article 46, paragraphes 1 er à 3, et de l’article 47, paragraphes 1 er à 3, du règlement (UE) 2023/1114 ;
+- en cas de violation de l’article 16, paragraphes 1er et 2, alinéa 2, de l’article 17, paragraphes 1er et 2, deuxième phrase, et paragraphe 3, alinéa 3, de l’article 19, paragraphes 1er à 9, de l’article 22, paragraphe 1er, alinéa 1er, paragraphe 2 et paragraphe 3, de l’article 23, paragraphes 1er et 4, de l’article 25, paragraphes 1er et 2, alinéa 1er et 2, et paragraphe 4, de l’article 27, de l’article 28, de l’article 29, paragraphes 1er à 3, et paragraphes 5 et 6, de l’article 30, de l’article 31, paragraphes 1er à 4, de l’article 32, paragraphes 1er à 4, de l’article 33, de l’article 34, paragraphes 1er à 12, de l’article 35, paragraphes 1er à 5, de l’article 36, paragraphes 1er à 3, et paragraphes 5 à 12, de l’article 37, de l’article 38, paragraphes 1er à 4, de l’article 39, de l’article 40, de l’article 41, paragraphes 1er et 2, de l’article 46, paragraphes 1er à 3, et de l’article 47, paragraphes 1er à 3, du règlement (UE) 2023/1114 ;
 
-- en cas de violation de l’article 48, paragraphes 1 er , 6 et 7, de l’article 49, de l’article 50, de l’article 51, paragraphes 1 er à 9, paragraphe 11, alinéa 1 er , et paragraphes 12, 13, et 14, alinéa 1 er , première phrase, de l’article 53, de l’article 54, et de l’article 55, du règlement (UE) 2023/1114 ;
+- en cas de violation de l’article 48, paragraphes 1er, 6 et 7, de l’article 49, de l’article 50, de l’article 51, paragraphes 1er à 9, paragraphe 11, alinéa 1er, et paragraphes 12, 13, et 14, alinéa 1er, première phrase, de l’article 53, de l’article 54, et de l’article 55, du règlement (UE) 2023/1114 ;
 
-- en cas de violation de l’article 59, paragraphes 1 er à 5, et paragraphe 8, de l’article 60, paragraphes 1 er à 7, paragraphe 8, alinéa 3, et paragraphe 9, de l’article 64, paragraphe 8, de l’article 65, paragraphes 1 er et 4, de l’article 66, paragraphes 1 er à 5, de l’article 67, de l’article 68, paragraphes 1 er à 9, de l’article 69, de l’article 70, paragraphes 1 er à 4, de l’article 71, paragraphes 1 er à 4, de l’article 72, paragraphes 1 er à 4, de l’article 73, de l’article 74, de l’article 75, de l’article 76, paragraphes 1 er à 15, de l’article 77, de l’article 78, de l’article 79, de l’article 80, de l’article 81, paragraphes 1 er à 14, de l’article 82, paragraphe 1 er , et de l’article 83, paragraphes 1 er et 2, du règlement (UE) 2023/1114 ;
+- en cas de violation de l’article 59, paragraphes 1er à 5, et paragraphe 8, de l’article 60, paragraphes 1er à 7, paragraphe 8, alinéa 3, et paragraphe 9, de l’article 64, paragraphe 8, de l’article 65, paragraphes 1er et 4, de l’article 66, paragraphes 1er à 5, de l’article 67, de l’article 68, paragraphes 1er à 9, de l’article 69, de l’article 70, paragraphes 1er à 4, de l’article 71, paragraphes 1er à 4, de l’article 72, paragraphes 1er à 4, de l’article 73, de l’article 74, de l’article 75, de l’article 76, paragraphes 1er à 15, de l’article 77, de l’article 78, de l’article 79, de l’article 80, de l’article 81, paragraphes 1er à 14, de l’article 82, paragraphe 1er, et de l’article 83, paragraphes 1er et 2, du règlement (UE) 2023/1114 ;
 
 - en cas de refus de coopérer ou de se soumettre à une enquête, une inspection ou une demande, conformément à l’article 20-28, paragraphe 2, points 1, 2, 3, 5, 7 et 8.
 
@@ -1174,13 +1174,13 @@ Pour les cas visés au paragraphe 1er, la CSSF peut prononcer :
 
 - dans le cas d’une personne morale, des amendes administratives d’un montant maximal :
 
-  - de 5 000 000 euros, pour les cas visés au paragraphe 1 er , points 1 à 5 ;
+  - de 5 000 000 euros, pour les cas visés au paragraphe 1er, points 1 à 5 ;
 
-  - de 3 pour cent du chiffre d’affaires annuel total de la personne morale tel qu’il ressort des derniers états financiers disponibles approuvés par l’organe de direction, pour les cas visés au paragraphe 1 er , point 1 ;
+  - de 3 pour cent du chiffre d’affaires annuel total de la personne morale tel qu’il ressort des derniers états financiers disponibles approuvés par l’organe de direction, pour les cas visés au paragraphe 1er, point 1 ;
 
-  - de 5 pour cent du chiffre d’affaires annuel total de la personne morale tel qu’il ressort des derniers états financiers disponibles approuvés par l’organe de direction, pour les cas visés au paragraphe 1 er , point 4 ;
+  - de 5 pour cent du chiffre d’affaires annuel total de la personne morale tel qu’il ressort des derniers états financiers disponibles approuvés par l’organe de direction, pour les cas visés au paragraphe 1er, point 4 ;
 
-  - de 12,5 pour cent du chiffre d’affaires annuel total de la personne morale tel qu’il ressort des derniers états financiers disponibles approuvés par l’organe de direction, pour les cas visés au paragraphe 1 er , points 2 et 3.
+  - de 12,5 pour cent du chiffre d’affaires annuel total de la personne morale tel qu’il ressort des derniers états financiers disponibles approuvés par l’organe de direction, pour les cas visés au paragraphe 1er, points 2 et 3.
 
 Lorsque la personne morale visée au point 7, est une entreprise mère ou une filiale d’une entreprise mère qui est tenue d’établir des états financiers consolidés conformément à la directive 2013/34/UE, le chiffre d’affaires annuel total à prendre en considération est le chiffre d’affaires annuel total ou le type de revenus correspondant selon le droit de l’Union européenne pertinent en matière comptable, tel qu’il ressort des derniers états financiers consolidés disponibles approuvés par l’organe de direction de l’entreprise mère ultime.
 
@@ -1210,7 +1210,7 @@ Pour les cas visés au paragraphe 4, la CSSF peut prononcer :
 
 - l’interdiction provisoire, pour tout membre de l’organe de direction du prestataire de services sur crypto-actifs ou toute autre personne physique tenue pour responsable de la violation, d’exercer des fonctions de direction au sein des prestataires de services sur crypto-actifs pour une durée maximale de cinq ans ;
 
-- en cas de violations répétées à l’article 88, paragraphes 1 er à 3, des articles 89 à 91 ou de l’article 92, paragraphe 1 er , alinéa 1 er , du règlement (UE) 2023/1114 , une interdiction de dix ans, pour tout membre de l’organe de direction d’un prestataire de services sur crypto-actifs ou toute autre personne physique tenue pour responsable de la violation, d’exercer des fonctions de direction au sein du prestataire de services sur crypto-actifs ;
+- en cas de violations répétées à l’article 88, paragraphes 1er à 3, des articles 89 à 91 ou de l’article 92, paragraphe 1er, alinéa 1er, du règlement (UE) 2023/1114, une interdiction de dix ans, pour tout membre de l’organe de direction d’un prestataire de services sur crypto-actifs ou toute autre personne physique tenue pour responsable de la violation, d’exercer des fonctions de direction au sein du prestataire de services sur crypto-actifs ;
 
 - l’interdiction provisoire, pour tout membre de l’organe de direction du prestataire de services sur crypto-actifs ou toute autre personne physique tenue pour responsable de la violation, de négocier pour compte propre pour une durée maximale de cinq ans ;
 
@@ -1218,15 +1218,15 @@ Pour les cas visés au paragraphe 4, la CSSF peut prononcer :
 
 - dans le cas d’une personne physique, des amendes administratives d’un montant maximal :
 
-  - de 1 000 000 euros en cas de violation de l’article 88, paragraphes 1 er à 3, du règlement (UE) 2023/1114 ;
+  - de 1 000 000 euros en cas de violation de l’article 88, paragraphes 1er à 3, du règlement (UE) 2023/1114 ;
 
-  - de 5 000 000 euros en cas de violation de l’article 89, 90, 91 ou 92, paragraphe 1 er , alinéa 1 er , du règlement (UE) 2023/1114 ;
+  - de 5 000 000 euros en cas de violation de l’article 89, 90, 91 ou 92, paragraphe 1er, alinéa 1er, du règlement (UE) 2023/1114 ;
 
 - dans le cas des personnes morales, des amendes administratives d’un montant maximal :
 
-  - de 2 500 000 euros ou de 2 pour cent du chiffre d’affaires annuel total de la personne morale tel qu’il ressort des derniers comptes disponibles approuvés par l’organe de direction, en cas de violation de l’article 88, paragraphes 1 er à 3, du règlement (UE) 2023/1114 ;
+  - de 2 500 000 euros ou de 2 pour cent du chiffre d’affaires annuel total de la personne morale tel qu’il ressort des derniers comptes disponibles approuvés par l’organe de direction, en cas de violation de l’article 88, paragraphes 1er à 3, du règlement (UE) 2023/1114 ;
 
-  - de 15 000 000 euros ou de 15 pour cent du chiffre d’affaires annuel total de la personne morale tel qu’il ressort des derniers comptes disponibles approuvés par l’organe de direction, en cas de violation de l’article 88, paragraphes 1 er à 3, des articles 89 à 91 ou de l’article 92, paragraphe 1 er , alinéa 1 er , du règlement (UE) 2023/1114 .
+  - de 15 000 000 euros ou de 15 pour cent du chiffre d’affaires annuel total de la personne morale tel qu’il ressort des derniers comptes disponibles approuvés par l’organe de direction, en cas de violation de l’article 88, paragraphes 1er à 3, des articles 89 à 91 ou de l’article 92, paragraphe 1er, alinéa 1er, du règlement (UE) 2023/1114.
 
 Lorsque la personne morale est une entreprise mère ou une filiale d’une entreprise mère qui est tenue d’établir des états financiers consolidés conformément à la directive 2013/34/UE, le chiffre d’affaires annuel total à prendre en considération est le chiffre d’affaires annuel total ou le type de revenus correspondant selon le droit de l’Union européenne pertinent en matière comptable, tel qu’il ressort des derniers états financiers consolidés disponibles approuvés par l’organe de direction de l’entreprise mère ultime.
 
@@ -1342,7 +1342,7 @@ Les pouvoirs de la CSSF visés à l’alinéa 1er sont les suivants :
 
 - d’exiger la communication des enregistrements téléphoniques, des communications électroniques ou des enregistrements de données relatives au trafic détenues par des personnes soumises au règlement (UE) 2023/1113 ;
 
-- d’enjoindre aux personnes soumises au règlement (UE) 2023/1113 de mettre un terme à toute pratique contraire aux dispositions visées à l’article 20-41, paragraphes 1 er et 2, et de s’abstenir de la réitérer, dans le délai qu’elle fixe ;
+- d’enjoindre aux personnes soumises au règlement (UE) 2023/1113 de mettre un terme à toute pratique contraire aux dispositions visées à l’article 20-41, paragraphes 1er et 2, et de s’abstenir de la réitérer, dans le délai qu’elle fixe ;
 
 - de requérir le gel ou la mise sous séquestre d’actifs auprès du président du tribunal d’arrondissement de et à Luxembourg statuant sur requête ;
 
@@ -1350,7 +1350,7 @@ Les pouvoirs de la CSSF visés à l’alinéa 1er sont les suivants :
 
 - d’exiger des réviseurs d’entreprises et des réviseurs d’entreprises agréés des personnes soumises au règlement (UE) 2023/1113 qu’ils fournissent des informations ;
 
-- d’instruire des réviseurs d’entreprises, des réviseurs d’entreprises agréés ou des experts d’effectuer des vérifications sur place ou des enquêtes auprès des personnes soumises au règlement (UE) 2023/1113 . Ces vérifications et enquêtes se font aux frais de la personne concernée ;
+- d’instruire des réviseurs d’entreprises, des réviseurs d’entreprises agréés ou des experts d’effectuer des vérifications sur place ou des enquêtes auprès des personnes soumises au règlement (UE) 2023/1113. Ces vérifications et enquêtes se font aux frais de la personne concernée ;
 
 - de transmettre des informations au procureur d’État en vue de poursuites pénales.
 
@@ -1364,7 +1364,7 @@ Si au terme du délai fixé par la CSSF en application du paragraphe 1er, aliné
 
 - suspendre les membres de l’organe de direction ou toute autre personne qui, par leur fait, leur négligence ou leur imprudence, ont entraîné la situation constatée et dont le maintien en fonction risque de porter préjudice à l’application de mesures de redressement ou de réorganisation ;
 
-- suspendre l’exercice de droits de vote attachés aux actions ou parts détenues par les actionnaires ou associés dont l’influence est susceptible de se faire au détriment d’une gestion prudente et saine de la personne concernée ou qui sont tenus pour responsables de la pratique contraire aux dispositions visées à l’article 20-41, paragraphes 1 er et 2 ;
+- suspendre l’exercice de droits de vote attachés aux actions ou parts détenues par les actionnaires ou associés dont l’influence est susceptible de se faire au détriment d’une gestion prudente et saine de la personne concernée ou qui sont tenus pour responsables de la pratique contraire aux dispositions visées à l’article 20-41, paragraphes 1er et 2 ;
 
 - suspendre la poursuite des activités de la personne concernée.
 
@@ -1381,13 +1381,13 @@ En cas de violation des dispositions de l’article 4, 5, 6, 7, 8, 9, 10, 11, 12
 
 Par dérogation au paragraphe 1er, la CSSF a le pouvoir d’infliger les sanctions administratives et autres mesures administratives prévues au paragraphe 3 à l’égard des personnes visées au présent paragraphe, ainsi qu’à l’égard des membres de leurs organes de direction, à leurs dirigeants effectifs, ou aux autres personnes responsables de la violation, en cas de :
 
-- manquement répété ou systématique du prestataire de services de paiement à l’obligation de veiller à ce que le transfert de fonds soit accompagné des informations requises sur le donneur d’ordre ou le bénéficiaire de fonds, en violation de l’article 4, 5 ou 6 du règlement (UE) 2023/1113 , ou du prestataire de services sur crypto-actifs à l’obligation de veiller à ce que le transfert de crypto-actifs soit accompagné des informations requises sur l’initiateur et le bénéficiaire de crypto-actifs, en violation de l’article 14 ou 15 du règlement (UE) 2023/1113 ;
+- manquement répété ou systématique du prestataire de services de paiement à l’obligation de veiller à ce que le transfert de fonds soit accompagné des informations requises sur le donneur d’ordre ou le bénéficiaire de fonds, en violation de l’article 4, 5 ou 6 du règlement (UE) 2023/1113, ou du prestataire de services sur crypto-actifs à l’obligation de veiller à ce que le transfert de crypto-actifs soit accompagné des informations requises sur l’initiateur et le bénéficiaire de crypto-actifs, en violation de l’article 14 ou 15 du règlement (UE) 2023/1113 ;
 
 - manquement répété, systématique ou grave du prestataire de services de paiement ou du prestataire de services sur crypto-actifs à l’obligation de conservation des informations, en violation de l’article 26 du règlement (UE) 2023/1113 ;
 
-- manquement du prestataire de services de paiement à l’obligation de mettre en oeuvre des procédures efficaces, fondées sur les risques, en violation de l’article 8 ou 12 du règlement (UE) 2023/1113 , ou du prestataire de services sur crypto-actifs à l’obligation de mettre en oeuvre des procédures efficaces, fondées sur les risques, en violation de l’article 17 du règlement (UE) 2023/1113 ;
+- manquement du prestataire de services de paiement à l’obligation de mettre en oeuvre des procédures efficaces, fondées sur les risques, en violation de l’article 8 ou 12 du règlement (UE) 2023/1113, ou du prestataire de services sur crypto-actifs à l’obligation de mettre en oeuvre des procédures efficaces, fondées sur les risques, en violation de l’article 17 du règlement (UE) 2023/1113 ;
 
-- manquement grave à l’article 11 ou 12 du règlement (UE) 2023/1113 , de la part d’un prestataire de services de paiement intermédiaire ou à l’article 19, 20 ou 21 du règlement (UE) 2023/1113 , de la part d’un prestataire de services sur crypto-actifs intermédiaire.
+- manquement grave à l’article 11 ou 12 du règlement (UE) 2023/1113, de la part d’un prestataire de services de paiement intermédiaire ou à l’article 19, 20 ou 21 du règlement (UE) 2023/1113, de la part d’un prestataire de services sur crypto-actifs intermédiaire.
 
 (3)
 
@@ -1475,7 +1475,7 @@ Les pouvoirs de la CSSF sont les suivants :
 
 - exiger que les émetteurs notifient la publication à la CSSF conformément à l’article 15, paragraphe 4, du règlement (UE) 2023/2631 ;
 
-- lorsque les émetteurs utilisent les modèles communs prévus à l’article 21 du règlement (UE) 2023/2631 , exiger que ces émetteurs incluent les éléments qui y sont mentionnés dans leurs informations périodiques postérieures à l’émission ;
+- lorsque les émetteurs utilisent les modèles communs prévus à l’article 21 du règlement (UE) 2023/2631, exiger que ces émetteurs incluent les éléments qui y sont mentionnés dans leurs informations périodiques postérieures à l’émission ;
 
 - exiger que les émetteurs, les auditeurs et la direction générale de l’émetteur fournissent des documents et informations pertinents ;
 
@@ -1487,7 +1487,7 @@ Les pouvoirs de la CSSF sont les suivants :
 
 - interdire les communications à caractère promotionnel ou exiger des émetteurs d’obligations vertes européennes ou des intermédiaires financiers concernés qu’ils cessent les communications à caractère promotionnel lorsqu’il existe des motifs raisonnables de soupçonner que l’émetteur continue de ne pas se conformer à une obligation en vertu du titre II, chapitre 2, ou de l’article 18 ou 19 du règlement (UE) 2023/2631 ;
 
-- rendre public le fait qu’un émetteur d’obligations vertes européennes ne respecte pas le règlement (UE) 2023/2631 , et exiger de cet émetteur qu’il publie cette information sur son site internet ;
+- rendre public le fait qu’un émetteur d’obligations vertes européennes ne respecte pas le règlement (UE) 2023/2631, et exiger de cet émetteur qu’il publie cette information sur son site internet ;
 
 - interdire à un émetteur d’émettre des obligations vertes européennes pour une période n’excédant pas un an si l’émetteur a enfreint de manière répétée et grave le titre II, chapitre 2, ou les articles 18 ou 19 du règlement (UE) 2023/2631 ;
 
@@ -1508,7 +1508,7 @@ Sanctions administratives et autres mesures administratives
 
 La CSSF a le pouvoir d’infliger les sanctions administratives et autres mesures administratives visées au paragraphe 2 :
 
-- en cas de violation de l’article 3, de l’article 10, paragraphes 1 er et 3, de l’article 11, paragraphes 1 er , 2, et 4 à 8, de l’article 12, paragraphes 1 er et 3, deuxième phrase, des articles 13 à 15, des articles 18 et 19, et de l’article 21, paragraphe 1 er , alinéa 2, et paragraphes 2 et 3, du règlement (UE) 2023/2631 ;
+- en cas de violation de l’article 3, de l’article 10, paragraphes 1er et 3, de l’article 11, paragraphes 1er, 2, et 4 à 8, de l’article 12, paragraphes 1er et 3, deuxième phrase, des articles 13 à 15, des articles 18 et 19, et de l’article 21, paragraphe 1er, alinéa 2, et paragraphes 2 et 3, du règlement (UE) 2023/2631 ;
 
 - en cas de refus de coopérer ou de se soumettre à une enquête, une inspection ou une exigence prévue à l’article 20-47, paragraphe 2.
 
@@ -1516,7 +1516,7 @@ La CSSF a le pouvoir d’infliger les sanctions administratives et autres mesure
 
 Pour les cas visés au paragraphe 1er, la CSSF peut prononcer :
 
-- une déclaration publique qui précise l’identité de la personne physique ou morale responsable et la nature de la violation conformément à l’article 20-47, paragraphe 2, alinéa 1 er , point 12 ;
+- une déclaration publique qui précise l’identité de la personne physique ou morale responsable et la nature de la violation conformément à l’article 20-47, paragraphe 2, alinéa 1er, point 12 ;
 
 - une injonction ordonnant à la personne physique ou morale responsable de mettre un terme au comportement constitutif de la violation en cause ;
 
@@ -1524,7 +1524,7 @@ Pour les cas visés au paragraphe 1er, la CSSF peut prononcer :
 
 - des amendes administratives d’un montant maximal de deux fois le montant de l’avantage retiré de la violation ou des pertes qu’elle a permis d’éviter, s’ils peuvent être déterminés ;
 
-- dans le cas d’une personne morale, des amendes administratives d’un montant maximal de 500 000 euros ou de 0,5 pour cent du chiffre d’affaires annuel total de la personne morale tel qu’il ressort des derniers états financiers disponibles approuvés par l’organe de direction. Lorsque la personne morale est une entreprise mère ou une filiale d’une entreprise mère qui est tenue d’établir des états financiers consolidés conformément à la directive 2013/34/UE , le chiffre d’affaires annuel total à prendre en considération est le chiffre d’affaires annuel total ou le type de revenus correspondant selon le droit de l’Union européenne applicable en matière comptable, tel qu’il ressort des comptes consolidés disponibles les plus récents approuvés par l’organe de direction de l’entreprise mère ultime ;
+- dans le cas d’une personne morale, des amendes administratives d’un montant maximal de 500 000 euros ou de 0,5 pour cent du chiffre d’affaires annuel total de la personne morale tel qu’il ressort des derniers états financiers disponibles approuvés par l’organe de direction. Lorsque la personne morale est une entreprise mère ou une filiale d’une entreprise mère qui est tenue d’établir des états financiers consolidés conformément à la directive 2013/34/UE, le chiffre d’affaires annuel total à prendre en considération est le chiffre d’affaires annuel total ou le type de revenus correspondant selon le droit de l’Union européenne applicable en matière comptable, tel qu’il ressort des comptes consolidés disponibles les plus récents approuvés par l’organe de direction de l’entreprise mère ultime ;
 
 - dans le cas d’une personne physique, des amendes administratives d’un montant maximal de 50 000 euros.
 

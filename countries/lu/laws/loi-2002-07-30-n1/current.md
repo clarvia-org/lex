@@ -185,7 +185,7 @@ L’acquéreur est pareillement tenu au remboursement total de l’abattement ac
 
 - dans le cas d’une expertise fiscale prévue par l’article 45 de la loi du 23 décembre 1913 concernant la révision de la législation qui régit les impôts dont le recouvrement est attribué à l’administration de l’enregistrement et des domaines, si la plus-value constatée par le rapport des experts est égale ou supérieure à un huitième, soit du prix ou de la valeur vénale déclarée;
 
-- en cas de dissimulations établies, visées par la section première de la loi du 28 janvier 1948 , tendant à assurer la juste et exacte perception des droits d’enregistrement et de succession.
+- en cas de dissimulations établies, visées par la section première de la loi du 28 janvier 1948, tendant à assurer la juste et exacte perception des droits d’enregistrement et de succession.
 
 <a id="art-13"></a>
 ## Art. 13.
@@ -220,7 +220,9 @@ Avec effet à partir de l'année d'imposition 2002, la loi modifiée du 4 décem
 
 La loi modifiée du 12 février 1979 concernant la taxe sur la valeur ajoutée est modifiée comme suit:
 
-- Il est ajouté à l’annexe B un point 22° ayant la teneur suivante: Certains travaux de création et de rénovation effectués dans l’intérêt d’un logement affecté à des fins d’habitation principale dans les limites et les conditions à déterminer par règlement grand-ducal.
+- Il est ajouté à l’annexe B un point 22° ayant la teneur suivante:
+
+- Certains travaux de création et de rénovation effectués dans l’intérêt d’un logement affecté à des fins d’habitation principale dans les limites et les conditions à déterminer par règlement grand-ducal.
 
 -
 
@@ -228,11 +230,11 @@ La loi modifiée du 12 février 1979 concernant la taxe sur la valeur ajoutée e
 
   - L’ancien paragraphe 6 de l’article 61 devient le nouveau paragraphe 7.
 
-- A l’article 37, paragraphe 2, deuxième alinéa, les termes francs luxembourgeois sont remplacés par les termes euros .
+- A l’article 37, paragraphe 2, deuxième alinéa, les termes francs luxembourgeois sont remplacés par les termes euros.
 
 - A l’article 54, paragraphe 1, point b), les termes et qui n’ont pas fait agréer un représentant responsable conformément aux dispositions de l’article 66 sont supprimés.
 
-- A l’article 88, deuxième alinéa, le terme ministériel est remplacé par le terme grand-ducal .
+- A l’article 88, deuxième alinéa, le terme ministériel est remplacé par le terme grand-ducal.
 
 <a id="art-18"></a>
 ## Art. 18.

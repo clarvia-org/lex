@@ -78,7 +78,7 @@ Commissions d’examen.
 
 Admissibilité à l’examen.
 
-- Sont admissibles à l’examen les élèves pour lesquels le directeur d’un lycée, ou le directeur d’un établissement offrant l’enseignement privé sous régime contractuel appliquant les programmes de l’enseignement public luxembourgeois tel que défini par la loi du 13 juin 2003 concernant les relations entre l’Etat et l’enseignement postprimaire privé , certifie qu’ils ont suivi régulièrement et de façon continue l’enseignement de la classe de première et qu’ils ont composé dans toutes les disciplines prévues au programme.
+- Sont admissibles à l’examen les élèves pour lesquels le directeur d’un lycée, ou le directeur d’un établissement offrant l’enseignement privé sous régime contractuel appliquant les programmes de l’enseignement public luxembourgeois tel que défini par la loi du 13 juin 2003 concernant les relations entre l’Etat et l’enseignement postprimaire privé, certifie qu’ils ont suivi régulièrement et de façon continue l’enseignement de la classe de première et qu’ils ont composé dans toutes les disciplines prévues au programme.
 
 - Sur demande motivée et écrite, une dérogation aux conditions fixées à l’article 4, point 1, peut être accordée par le ministre.
 
@@ -112,7 +112,7 @@ Epreuves d’examen.
 
 Présence et absence des candidats.
 
-- Les candidats sont tenus de se présenter à l’examen lors de la session d’été. Le candidat qui bénéficie des dispositions du règlement grand-ducal du 10 décembre 1998 concernant des mesures spéciales et aménagements quant aux critères de promotion à l’intention d’élèves de l’enseignement post-primaire engagés sur le plan sportif ou musical dans un cadre de haut niveau , et celui empêché de se présenter aux épreuves de la session d’été pour des raisons reconnues valables par le commissaire, sont autorisés à présenter leur première session lors de la session d’automne.
+- Les candidats sont tenus de se présenter à l’examen lors de la session d’été. Le candidat qui bénéficie des dispositions du règlement grand-ducal du 10 décembre 1998 concernant des mesures spéciales et aménagements quant aux critères de promotion à l’intention d’élèves de l’enseignement post-primaire engagés sur le plan sportif ou musical dans un cadre de haut niveau, et celui empêché de se présenter aux épreuves de la session d’été pour des raisons reconnues valables par le commissaire, sont autorisés à présenter leur première session lors de la session d’automne.
 
 - Le candidat qui, sans motif reconnu valable par le commissaire, se désiste ou s’absente, est renvoyé à la session d’été de l’année suivante.
 
@@ -280,7 +280,7 @@ Epreuves complémentaires.
 
 - La commission décide si l’épreuve complémentaire est écrite ou orale ou pratique. Le questionnaire est élaboré et l’épreuve est évaluée par un membre de la commission compétente. Pendant l’épreuve complémentaire, les candidats sont constamment surveillés par au moins deux membres d’une commission d’examen de l’établissement. Sur décision du directeur, l’un des deux membres peut être remplacé par un enseignant de l’établissement. Pour les sessions d’examen de l’année 2020 et par dérogation à l’alinéa 1er, troisième et quatrième phrases, les dispositions suivantes s’appliquent aux candidats : Pendant l’épreuve complémentaire, les candidats sont constamment surveillés par au moins deux enseignants de l’établissement scolaire. Pour les sessions d’examen de l’année 2021 et par dérogation à l’alinéa 1er, troisième et quatrième phrases, les dispositions suivantes s’appliquent aux candidats : Pendant l’épreuve complémentaire, les candidats sont constamment surveillés par au moins deux enseignants de l’établissement scolaire.
 
-- L’épreuve complémentaire a lieu au plus tôt le 3 e jour après la communication de la décision; la date est fixée par le commissaire. L’horaire est fixé par le directeur.
+- L’épreuve complémentaire a lieu au plus tôt le 3e jour après la communication de la décision; la date est fixée par le commissaire. L’horaire est fixé par le directeur.
 
 - Pour chaque discipline qui a donné lieu à une épreuve complémentaire réussie, la note finale est fixée à 30 points. Pour chaque discipline qui a donné lieu à une épreuve complémentaire non réussie, la note finale reste celle fixée antérieurement.
 

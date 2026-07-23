@@ -3508,7 +3508,7 @@ Les dispositions des articles 3 et 4 de la loi du 23 décembre 1978 portant fusi
 
 Sont abrogées:
 
-- la loi électorale du 31 juillet 1924 , telle qu'elle a été modifiée par la suite;
+- la loi électorale du 31 juillet 1924, telle qu'elle a été modifiée par la suite;
 
 - la loi du 7 janvier 1999 sur le remboursement partiel des frais de campagnes électorales aux partis et groupements politiques engagés dans les élections à la Chambre des députés et du Parlement européen.
 

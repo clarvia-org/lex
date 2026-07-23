@@ -58,21 +58,21 @@ Une discipline ne peut être offerte dans un établissement que s'il y a un mini
 
 Peut être admis en classe de IVe internationale:
 
-- l'élève qui a réussi la classe de V e de l'enseignement secondaire et qui a passé un test d'admission dans la langue véhiculaire dans laquelle les cours sont offerts;
+- l'élève qui a réussi la classe de Ve de l'enseignement secondaire et qui a passé un test d'admission dans la langue véhiculaire dans laquelle les cours sont offerts;
 
-- l'élève qui a réussi la classe de 9 e théorique de l'enseignement secondaire technique avec une moyenne générale d'au moins 45 points et qui a passé un test d'admission dans la langue véhiculaire dans laquelle les cours sont offerts;
+- l'élève qui a réussi la classe de 9e théorique de l'enseignement secondaire technique avec une moyenne générale d'au moins 45 points et qui a passé un test d'admission dans la langue véhiculaire dans laquelle les cours sont offerts;
 
 - l'élève qui a passé un test d'admission dans la langue véhiculaire dans laquelle les cours sont offerts, ainsi que le cas échéant d'autres tests d'admission organisés par le lycée, après consultation du dossier de l'élève par le directeur.
 
 Peut être admis en classe de IIIe internationale:
 
-- l'élève qui a réussi la IV e internationale;
+- l'élève qui a réussi la IVe internationale;
 
 - l'élève qui a passé des tests d'admission organisés par le lycée après consultation du dossier de l'élève par le directeur.
 
 Peut être admis en classe de IIe internationale:
 
-- l'élève qui a réussi la III e internationale;
+- l'élève qui a réussi la IIIe internationale;
 
 - l'élève qui a passé des tests d'admission organisés par le lycée après consultation du dossier de l'élève par le directeur.
 

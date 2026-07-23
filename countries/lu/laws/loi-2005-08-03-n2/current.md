@@ -340,25 +340,25 @@ La durée annuelle maximale de congé sportif à laquelle a droit le bénéficia
 
 - vingt-cinq jours pour les sportifs faisant partie d’une sélection nationale individuelle ou d’équipes senior d’une fédération sportive agréée régissant un sport de compétition ;
 
-- douze jours pour les sportifs tels que définis à l’article 15-1, alinéa 1 er , point 2. ;
+- douze jours pour les sportifs tels que définis à l’article 15-1, alinéa 1er, point 2. ;
 
-- six jours pour les sportifs tels que définis à l’article 15-1, alinéa 1 er , point 3. ;
+- six jours pour les sportifs tels que définis à l’article 15-1, alinéa 1er, point 3. ;
 
-- vingt-cinq jours pour les juges et arbitres tels que définis à l’article 15-1, alinéa 1 er , point 4. ;
+- vingt-cinq jours pour les juges et arbitres tels que définis à l’article 15-1, alinéa 1er, point 4. ;
 
-- douze jours pour les personnes physiques désignées par une fédération sportive agréée, le C.O.S.L. ou le L.P.C., telles que définies à l’article 15-1, alinéa 1 er , point 6. ;
+- douze jours pour les personnes physiques désignées par une fédération sportive agréée, le C.O.S.L. ou le L.P.C., telles que définies à l’article 15-1, alinéa 1er, point 6. ;
 
-- six jours pour les personnes physiques désignées par un club affilié à une fédération sportive agréée, telles que définies à l’article 15-1, alinéa 1 er , point 6. ;
+- six jours pour les personnes physiques désignées par un club affilié à une fédération sportive agréée, telles que définies à l’article 15-1, alinéa 1er, point 6. ;
 
-- cinquante jours par organisme pour les personnes physiques désignées par une fédération sportive agréée, le C.O.S.L. ou le L.P.C., telles que définies à l’article 15-1, alinéa 1 er , point 7. ;
+- cinquante jours par organisme pour les personnes physiques désignées par une fédération sportive agréée, le C.O.S.L. ou le L.P.C., telles que définies à l’article 15-1, alinéa 1er, point 7. ;
 
-- dix jours par club affilié à une fédération sportive agréée pour les personnes physiques désignées par le club, telles que définies à l’article 15-1, alinéa 1 er , point 7. ;
+- dix jours par club affilié à une fédération sportive agréée pour les personnes physiques désignées par le club, telles que définies à l’article 15-1, alinéa 1er, point 7. ;
 
-- vingt-cinq jours pour les cadres techniques désignés par une fédération sportive agréée, le C.O.S.L. ou le L.P.C., tels que définis à l’article 15-1, alinéa 1 er , point 8. ;
+- vingt-cinq jours pour les cadres techniques désignés par une fédération sportive agréée, le C.O.S.L. ou le L.P.C., tels que définis à l’article 15-1, alinéa 1er, point 8. ;
 
-- dix jours pour les cadres techniques désignés par un club affilié à une fédération sportive agréée, tels que définis à l’article 15-1, alinéa 1 er , point 8. ;
+- dix jours pour les cadres techniques désignés par un club affilié à une fédération sportive agréée, tels que définis à l’article 15-1, alinéa 1er, point 8. ;
 
-- cinq jours pour les participants à une formation telle que définie à l’article 15-1, alinéa 1 er , point 9.
+- cinq jours pour les participants à une formation telle que définie à l’article 15-1, alinéa 1er, point 9.
 
 La durée annuelle du congé sportif est proratisée en fonction du degré d’occupation et de la durée de travail annuelle.
 

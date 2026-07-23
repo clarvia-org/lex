@@ -139,9 +139,9 @@ Une aide sous forme de subvention en capital mensuelle peut être octroyée aux 
 
 Une aide sous forme de subvention en capital mensuelle peut être octroyée à une entreprise visée à l’article 2, points 1° à 3° qui a débuté l’activité au titre de laquelle elle sollicite l’aide entre le 15 mars 2020 et le 31 décembre 2020 pour le mois de décembre 2020 et les mois de janvier, février mars, avril, mai et juin 2021 pour autant que les conditions ci-après soient remplies :
 
-- l’entreprise remplit les conditions énoncées au paragraphe 1 er , points 1°, 3°, 4° et 6° ;
+- l’entreprise remplit les conditions énoncées au paragraphe 1er, points 1°, 3°, 4° et 6° ;
 
-- le chiffre d’affaires mensuel moyen de l’entreprise pour la durée effective pendant laquelle elle a été en activité avant le 1 er janvier 2021 , est au moins égal à 1 250 euros, ce montant étant adapté au prorata de la durée effective pour les mois partiels ;
+- le chiffre d’affaires mensuel moyen de l’entreprise pour la durée effective pendant laquelle elle a été en activité avant le 1er janvier 2021 , est au moins égal à 1 250 euros, ce montant étant adapté au prorata de la durée effective pour les mois partiels ;
 
 - elle a subi au cours du mois pour lequel l’aide est sollicitée, une perte du chiffre d’affaires d’au moins 25 pour cent par rapport au chiffre d’affaires mensuel moyen réalisé au cours des mois précédents pendant lesquels elle a été en activité Par dérogation, la perte du chiffre d’affaires subie au mois de janvier 2021 peut être inférieure à 25 pour cent si l’entreprise a fait l’objet, au cours de ce mois, d’une obligation de fermeture en application de la loi modifiée du 17 juillet 2020 sur les mesures de lutte contre la pandémie Covid-19 ;
 
@@ -180,9 +180,9 @@ Une aide sous forme de subvention en capital mensuelle peut être octroyée aux 
 
 Une aide sous forme de subvention en capital mensuelle peut être octroyée aux entreprises visées au paragraphe 1er, pour les mois y visés, qui ont débuté l’activité au titre de laquelle elles sollicitent l’aide entre le 15 mars 2020 et le 31 mai 2021 pour autant que les conditions ci-après soient remplies :
 
-- l’entreprise remplit les conditions énoncées au paragraphe 1 er , points 1°, 3°, 4° et 6° ;
+- l’entreprise remplit les conditions énoncées au paragraphe 1er, points 1°, 3°, 4° et 6° ;
 
-- le chiffre d’affaires mensuel moyen de l’entreprise pour la durée effective pendant laquelle elle a été en activité avant le 1 er juin 2021, est au moins égal à 1 250 euros, ce montant étant adapté au prorata de la durée effective pour les mois partiels ;
+- le chiffre d’affaires mensuel moyen de l’entreprise pour la durée effective pendant laquelle elle a été en activité avant le 1er juin 2021, est au moins égal à 1 250 euros, ce montant étant adapté au prorata de la durée effective pour les mois partiels ;
 
 - elle a subi au cours du mois pour lequel l’aide est sollicitée, une perte du chiffre d’affaires d’au moins 25 pour cent par rapport au chiffre d’affaires mensuel moyen réalisé au cours des mois précédents pendant lesquels elle a été en activité.
 
@@ -201,7 +201,7 @@ Le montant de la subvention en capital mensuelle est calculé en multipliant le 
 
 - pour le mois de décembre 2020 et les mois de janvier, février, mars, avril, mai, juin, juillet et août 2021 : 1 250 euros par travailleur indépendant et par salarié en activité au cours du mois pour lequel l’aide est sollicitée et 250 euros par salarié au chômage partiel complet au cours du mois pour lequel l’aide est sollicitée ;
 
-- pour les mois de septembre , octobre et novembre 2021 : 1 000 euros par travailleur indépendant et par salarié en activité au cours du mois pour lequel l’aide est sollicitée et 250 euros par salarié au chômage partiel complet au cours du mois pour lequel l’aide est sollicitée.
+- pour les mois de septembre, octobre et novembre 2021 : 1 000 euros par travailleur indépendant et par salarié en activité au cours du mois pour lequel l’aide est sollicitée et 250 euros par salarié au chômage partiel complet au cours du mois pour lequel l’aide est sollicitée.
 
 - pour le mois de décembre 2021 : 1 250 euros par travailleur indépendant et par salarié en activité au cours du mois pour lequel l’aide est sollicitée et 250 euros par salarié au chômage partiel complet au cours du mois pour lequel l’aide est sollicitée.
 
@@ -244,7 +244,7 @@ Les demandes doivent parvenir au ministre au plus tard le 15 septembre 2021 en c
 
 - la taille de l’entreprise, y compris les pièces justificatives, conformément à l’annexe I du règlement (UE) n° 651/2014 précité ;
 
-- pour les entreprises visées à l’article 5, paragraphe 1 er et à l’article 5 bis , paragraphe 1 er , le bilan de l’exercice fiscal 2019 déposé au registre de commerce et des sociétés, le compte de profits et pertes de l’exercice fiscal 2019 et le compte de profits et pertes pour le mois relatif à la demande et, pour les entreprises visées à l’article 5, paragraphe 2 et à l’article 5 bis , paragraphe 2 , le compte de profits et pertes pour les mois précédents pendant lesquels elles ont été en activité. ;
+- pour les entreprises visées à l’article 5, paragraphe 1er et à l’article 5bis, paragraphe 1er , le bilan de l’exercice fiscal 2019 déposé au registre de commerce et des sociétés, le compte de profits et pertes de l’exercice fiscal 2019 et le compte de profits et pertes pour le mois relatif à la demande et, pour les entreprises visées à l’article 5, paragraphe 2 et à l’article 5bis, paragraphe 2 , le compte de profits et pertes pour les mois précédents pendant lesquels elles ont été en activité. ;
 
 - la déclaration de la taxe sur la valeur ajoutée pour 2019 ;
 
@@ -254,9 +254,9 @@ Les demandes doivent parvenir au ministre au plus tard le 15 septembre 2021 en c
 
 - le numéro d’immatriculation de l’entreprise auprès du Centre commun de la sécurité sociale, le certificat d’affiliation des travailleurs indépendants et le taux d’occupation visé à l’article 6, paragraphe 3 ;
 
-- une déclaration attestant le respect de l’article 5, paragraphe 1 er , point 6° ;
+- une déclaration attestant le respect de l’article 5, paragraphe 1er, point 6° ;
 
-- une déclaration attestant l’absence de condamnation visée à l’article 3, paragraphe 4, et l’absence des causes d’exclusion visées à l’article 3, paragraphe 1 er ;
+- une déclaration attestant l’absence de condamnation visée à l’article 3, paragraphe 4, et l’absence des causes d’exclusion visées à l’article 3, paragraphe 1er ;
 
 - une déclaration, le cas échéant, des aides de minimis reçues au cours des deux exercices fiscaux précédents et de l’exercice fiscal en cours.
 
@@ -296,7 +296,7 @@ L’aide prévue par la présente loi est cumulable avec :
 
 - les avances remboursables prévues par la loi du 3 avril 2020 relative à la mise en place d’un régime d’aides en faveur des entreprises en difficulté financière temporaire et modifiant la loi modifiée du 19 décembre 2014 relative 1) aux mesures sociales au bénéfice des artistes professionnels indépendants et des intermittents du spectacle 2) à la promotion de la création artistique, pour autant que le cumul des deux aides ne dépasse pas le plafond maximal de 800 000 euros par entreprise unique et que les chiffres utilisés sont des montants bruts, signifiant avant impôts ou autres prélèvements ;
 
-- tout autre régime d’aides qui fait l’objet d’une décision de la Commission européenne reposant sur la section 3.1. de la communication n° 2020/C 91 I/01 du 20 mars 2020 de la Commission intitulée « Encadrement temporaire des mesures d’aide d’État visant à soutenir l’économie dans le contexte actuel de la flambée de COVID-19 », à condition que la valeur nominale totale de ces aides reste inférieure au plafond global par entreprise unique fixé dans la section 3.1. de la communication précitée , les chiffres utilisés étant des montants bruts, signifiant avant impôts ou autres prélèvements. ;
+- tout autre régime d’aides qui fait l’objet d’une décision de la Commission européenne reposant sur la section 3.1. de la communication n° 2020/C 91 I/01 du 20 mars 2020 de la Commission intitulée « Encadrement temporaire des mesures d’aide d’État visant à soutenir l’économie dans le contexte actuel de la flambée de COVID-19 », à condition que la valeur nominale totale de ces aides reste inférieure au plafond global par entreprise unique fixé dans la section 3.1. de la communication précitée, les chiffres utilisés étant des montants bruts, signifiant avant impôts ou autres prélèvements. ;
 
 - les aides prévues par la loi du 18 avril 2020 visant à mettre en place un régime de garantie en faveur de l’économie luxembourgeoise dans le cadre de la pandémie Covid-19.
 
@@ -341,9 +341,9 @@ L’intégralité des dépenses occasionnées par l’octroi d’aides sur base 
 
 La loi modifiée du 3 avril 2020 relative à la mise en place d’un régime d’aides en faveur des entreprises en difficulté financière temporaire et modifiant la loi modifiée du 19 décembre 2014 relative 1) aux mesures sociales au bénéfice des artistes professionnels indépendants et des intermittents du spectacle 2) à la promotion de la création artistique est modifiée comme suit :
 
-- À l’article 4, alinéa 1 er , première phrase, les mots 1er décembre 2020 remplacés par les mots 1er juin 2021 ;
+- À l’article 4, alinéa 1er, première phrase, les mots 1er décembre 2020 remplacés par les mots 1er juin 2021 ;
 
-- À l’article 5, paragraphe 1 er , deuxième phrase, les mots 31 décembre 2020 sont remplacés par les mots 30 juin 2021 .
+- À l’article 5, paragraphe 1er, deuxième phrase, les mots 31 décembre 2020 sont remplacés par les mots 30 juin 2021.
 
 <a id="art-15"></a>
 ## Art. 15.
@@ -352,13 +352,13 @@ La loi du 24 juillet 2020 visant à mettre en place un fonds de relance et de so
 
 - L’article 5, alinéa 2, est remplacé comme suit : La demande doit parvenir au ministre au plus tard le 15 février 2021. ;
 
-- À l’article 6, paragraphe 1 er , les mots 31 décembre 2020 sont remplacés par les mots 30 juin 2021 ;
+- À l’article 6, paragraphe 1er, les mots 31 décembre 2020 sont remplacés par les mots 30 juin 2021 ;
 
 - L’article 11 est modifié comme suit :
 
   - Au paragraphe 3, les mots prévues à l’article 3 sont remplacés par par la présente loi, par la loi du 19 décembre 2020 ayant pour objet la mise en place d’une nouvelle aide de relance et par la loi du 19 décembre 2020 ayant pour objet la mise en place d’une contribution temporaire de l’État aux coûts non couverts de certaines entreprises ;
 
-  - Au paragraphe 6, après le mot loi est insérée la partie de phrase précédée d’une virgule de la loi du 19 décembre 2020 ayant pour objet la mise en place d’une nouvelle aide de relance et par la loi du 19 décembre 2020 ayant pour objet la mise en place d’une contribution temporaire de l’État aux coûts non couverts de certaines entreprises .
+  - Au paragraphe 6, après le mot loi est insérée la partie de phrase précédée d’une virgule de la loi du 19 décembre 2020 ayant pour objet la mise en place d’une nouvelle aide de relance et par la loi du 19 décembre 2020 ayant pour objet la mise en place d’une contribution temporaire de l’État aux coûts non couverts de certaines entreprises.
 
 <a id="art-16"></a>
 ## Art. 16.
@@ -367,7 +367,7 @@ La loi du 24 juillet 2020 ayant pour objet la mise en place d’un régime d’a
 
 - À l’article 5, paragraphe 4, les mots 31 décembre 2020 sont remplacés par les mots 30 juin 2021 ;
 
-- À l’article 6, alinéa 2, les mots dernier jour du mois suivant le mois auquel elle se rapporte sont remplacés par 15 février 2021 .
+- À l’article 6, alinéa 2, les mots dernier jour du mois suivant le mois auquel elle se rapporte sont remplacés par 15 février 2021.
 
 <a id="art-17"></a>
 ## Art. 17.

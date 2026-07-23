@@ -95,7 +95,7 @@ Pour pouvoir prétendre à l'obtention d'un titre de voyage pour étrangers, le 
 
 - être titulaire d'une autorisation de séjour, ou avoir obtenu de la part du ministre ayant l'Immigration dans ses attributions l'accord pour l'octroi d'une telle autorisation;
 
-- apporter la preuve qu'il se trouve dans l'une des hypothèses visées à l'article 1 er , paragraphes (1) et (2).
+- apporter la preuve qu'il se trouve dans l'une des hypothèses visées à l'article 1er, paragraphes (1) et (2).
 
 - autoriser le ministre ayant l'Immigration dans ses attributions et de l'Immigration à s'enquérir auprès de l'Ambassade du pays d'origine sur les raisons qui sont à la base du refus de la délivrance d'un passeport national ou, le cas échéant, de la procédure de délivrance excessivement longue ou difficile .
 

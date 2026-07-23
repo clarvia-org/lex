@@ -84,7 +84,7 @@ Prescriptions concernant le traitement des eaux minérales naturelles
 
 - En particulier, tout traitement de désinfection par quelque moyen que ce soit et, sous réserve du paragraphe 2, l'adjonction d'éléments bactériostatiques ou tout autre traitement de nature à modifier le microbisme de l'eau minérale naturelle sont interdits.
 
-- Le paragraphe 1 er ne fait pas obstacle à l'utilisation d'eaux minérales naturelles ou d'eaux de source pour la fabrication de boissons rafraîchissantes sans alcool.
+- Le paragraphe 1er ne fait pas obstacle à l'utilisation d'eaux minérales naturelles ou d'eaux de source pour la fabrication de boissons rafraîchissantes sans alcool.
 
 <a id="art-6"></a>
 ## Art. 6.-

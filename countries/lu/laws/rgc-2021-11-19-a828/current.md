@@ -86,7 +86,7 @@ Les montants prévus aux paragraphes 1 et 2 correspondent au nombre cent de l’
 
 Ils sont adaptés annuellement
 
-- à la cote d’application applicable au 1 er janvier de l’année au cours de laquelle l’allocation est due suivant les modalités applicables aux traitements des fonctionnaires de l’État ;
+- à la cote d’application applicable au 1er janvier de l’année au cours de laquelle l’allocation est due suivant les modalités applicables aux traitements des fonctionnaires de l’État ;
 
 - à toute variation du salaire social minimum.
 

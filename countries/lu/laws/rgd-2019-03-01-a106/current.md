@@ -59,7 +59,15 @@ Le montant annuel de l’allocation de reconnaissance est déterminé sur base d
 
 - le cadre et le dernier grade fonctionnel, obtenu en tant que pompier volontaire, tels que prévus à l’article 36 de la loi précitée du 27 mars 2018 ;
 
-- le barème suivant : Temps de service Montant annuel > 15 ans € 260,00 > 20 ans € 360,00 > 25 ans € 460,00 > 30 ans € 560,00 > 35 ans € 660,00
+- le barème suivant :
+
+| Temps de service | Montant annuel |
+| --- | --- |
+| > 15 ans | € 260,00 |
+| > 20 ans | € 360,00 |
+| > 25 ans | € 460,00 |
+| > 30 ans | € 560,00 |
+| > 35 ans | € 660,00 |
 
 <a id="art-5"></a>
 ## Art. 5.

@@ -37,7 +37,7 @@ Les modifications et additions indiquées ci-après y sont introduites.
 
 Il est ajouté aux articles 1er et 75 de la loi uniforme les dispositions suivantes:
 
-- A l'article 1 er , 1°. L'obligation d'insérer la dénomination «lettre de change» ne s'appliquera qu'aux effets créés six mois au moins après l'entrée en vigueur de la loi.
+- A l'article 1er, 1°. L'obligation d'insérer la dénomination «lettre de change» ne s'appliquera qu'aux effets créés six mois au moins après l'entrée en vigueur de la loi.
 
 - A l'article 75, 1°. L'obligation d'insérer la dénomination «billet à ordre» ne s'appliquera qu'aux effets créés six mois au moins après l'entrée en vigueur de la loi.
 

@@ -137,7 +137,7 @@ Pour les déclarations pays par pays communiquées pour l’Exercice fiscal comm
 
 Pour les déclarations pays par pays communiquées pour l’Exercice fiscal commençant le 1er janvier 2017 ou après cette date, les juridictions suivantes sont considérées comme des Juridictions soumises à déclaration au sens de l’Annexe, Section I, point 1 de la loi du 23 décembre 2016 relative à la déclaration pays par pays :
 
-- Les juridictions énumérées à l’article 1 er
+- Les juridictions énumérées à l’article 1er
 
 - Arabie Saoudite
 

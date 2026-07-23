@@ -529,4 +529,4 @@ Sont abrogés:
 
 - l’article 67 du décret du 18 juin 1811 contenant le règlement pour l’administration de la justice en matière criminelle, de police correctionnelle et de simple police et tarif général des frais;
 
-- Les articles 62 et 67du code de procédure civile .
+- Les articles 62 et 67du code de procédure civile.

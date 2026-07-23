@@ -34,7 +34,7 @@ Le système métrique décimal des poids et mesures, établi par la loi du 21 ao
 
 Les mesures d'unité admises pour les transactions, annonces et prix-courants sont:
 
-- Pour les mesures de longueur: le mètre avec ses multiples de dix, cent, mille et dix mille, suivant les dénominations admises dans la loi du 14 octobre 1842 , et avec ses subdivisions décimales pour les excédants du mètre seulement ou pour les fractions qui ne peuvent atteindre celte mesure dans une transaction.
+- Pour les mesures de longueur: le mètre avec ses multiples de dix, cent, mille et dix mille, suivant les dénominations admises dans la loi du 14 octobre 1842, et avec ses subdivisions décimales pour les excédants du mètre seulement ou pour les fractions qui ne peuvent atteindre celte mesure dans une transaction.
 
 - Pour les mesures de surface et agraires: le hectare, l'are et le centiare, avec exclusion de toute mesure intermédiaire comme unité.
 
@@ -51,9 +51,9 @@ On pourra néanmoins se servir des dénominations suivantes comme mesure d'une v
 
 - tonne pour 1000 kilos,
 
-- cord e pour double stère,
+- corde pour double stère,
 
-- lieu e pour cinq kilomètres,
+- lieue pour cinq kilomètres,
 
 - maldre pour double hectolitre, sans qu'on puisse donner une autre valeur à ces mesures ou dénominations.
 

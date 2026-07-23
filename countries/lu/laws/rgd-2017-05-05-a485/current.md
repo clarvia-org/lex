@@ -43,7 +43,7 @@ Le point de contact national pour le signalement des transactions suspectes, des
 
 - par courriel : à l’adresse email dri@police.etat.lu ;
 
-- par formulaire en ligne, disponible sur le site internet www.police.etat.lu .
+- par formulaire en ligne, disponible sur le site internet www.police.etat.lu.
 
 <a id="art-2bis"></a>
 ## Art. 2bis.

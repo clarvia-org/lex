@@ -52,13 +52,13 @@ Pour l’application du présent règlement, on entend par :
 
 - « convention de coopération spécifique » : une convention conclue entre l’État, représenté par le ministre, et la fédération sportive agréée ou le partenaire tiers concerné, visant à arrêter la planification du déroulement de chaque partie de la formation et des examens correspondants ;
 
-- « formation initiale » : la formation, théorique et pratique, organisée par l’ INAPS , qui vise à procurer les connaissances et compétences nécessaires aux cadres techniques et administratifs ;
+- « formation initiale » : la formation, théorique et pratique, organisée par l’INAPS , qui vise à procurer les connaissances et compétences nécessaires aux cadres techniques et administratifs ;
 
 - « formation continue » : le recyclage et le perfectionnement par une formation permanente des connaissances et compétences acquises par les cadres techniques et administratifs lors de la formation initiale dans un ou plusieurs domaines de spécialisation ;
 
 - « partenaires tiers » : des structures et associations autres que les fédérations sportives agréées et leurs clubs sportifs affiliés, agissant dans le domaine du sport, de l’éducation et des loisirs ;
 
-- « programme cadre » : un programme, publié par règlement ministériel, visant à régler les domaines visés aux articles 3, 4, points 3° à 7°, 5, point 4°, 15, paragraphe 1 er , 17, 19, paragraphe 1 er , 30 à 32, 34, 35, 37 à 39, 41 à 43 et 45 à 47 ;
+- « programme cadre » : un programme, publié par règlement ministériel, visant à régler les domaines visés aux articles 3, 4, points 3° à 7°, 5, point 4°, 15, paragraphe 1er, 17, 19, paragraphe 1er, 30 à 32, 34, 35, 37 à 39, 41 à 43 et 45 à 47 ;
 
 - « assistant technique de sécurité » : une personne qui assiste le chargé de cours, en cas de besoin et pour des raisons de sécurité, dans le cadre d’une partie spécialisée ou pratique d’une formation.
 

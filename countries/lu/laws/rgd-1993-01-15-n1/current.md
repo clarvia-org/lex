@@ -210,7 +210,7 @@ La mention «à usage vétérinaire» doit également être portée sur les méd
 <a id="art-7"></a>
 ## Art. 7.
 
-- Par dérogation à l’article 11 du règlement grand-ducal du 15 décembre 1992 précité , lorsqu’il s’agit d’ampoules, les informations visées à l’article qui précède sont à mentionner sur les emballages extérieurs. Par contre, sur les conditionnements primaires, seules les informations suivantes sont nécessaires :
+- Par dérogation à l’article 11 du règlement grand-ducal du 15 décembre 1992 précité, lorsqu’il s’agit d’ampoules, les informations visées à l’article qui précède sont à mentionner sur les emballages extérieurs. Par contre, sur les conditionnements primaires, seules les informations suivantes sont nécessaires :
 
   - la dénomination de la spécialité
 
@@ -250,13 +250,13 @@ Par dérogation à l’article 14 du règlement grand-ducal du 15 décembre 1992
 <a id="art-9"></a>
 ## Art. 9.
 
-- Un médicament vétérinaire ne peut faire l’objet d’une autorisation de mise sur le marché pour une ou plusieurs espèces productrices de denrées alimentaires, que si les substances pharmacologiquement actives qu’il contient figurent à l’annexe I, II ou III du règlement (CEE) no 2377/90 .
+- Un médicament vétérinaire ne peut faire l’objet d’une autorisation de mise sur le marché pour une ou plusieurs espèces productrices de denrées alimentaires, que si les substances pharmacologiquement actives qu’il contient figurent à l’annexe I, II ou III du règlement (CEE) no 2377/90.
 
-- Dans le cas où une modification des annexes du règlement (CEE) no 2377/90 le justifie, le titulaire de l’autorisation de mise sur le marché ou, le cas échéant le ministre, prend toutes les mesures nécessaires en vue de la modification de l’autorisation de mise sur le marché, ou de son retrait, dans les soixante jours qui suivent la publication au Journal officiel de l’Union européenne de ladite modification des annexes dudit règlement .
+- Dans le cas où une modification des annexes du règlement (CEE) no 2377/90 le justifie, le titulaire de l’autorisation de mise sur le marché ou, le cas échéant le ministre, prend toutes les mesures nécessaires en vue de la modification de l’autorisation de mise sur le marché, ou de son retrait, dans les soixante jours qui suivent la publication au Journal officiel de l’Union européenne de ladite modification des annexes dudit règlement.
 
-- Par dérogation au paragraphe 1, un médicament vétérinaire contenant des substances pharmacologiquement actives ne figurant pas à l’annexe I, II ou III du règlement (CEE) no 2377/90 peut être autorisé pour les animaux particuliers appartenant à la famille des équidés qui ont été déclarés, conformément à la décision 93/623/CEE de la Commission établissant le document d’identification (passeport) accompagnant les équidés enregistrés et à la décision 2000/68/CE de la Commission du 22 décembre 1999 modifiant la décision 93/623/CEE et établissant l’identification des équidés d’élevage et de rente, comme n’étant pas destinés à l’abattage pour la consommation humaine. Ces médicaments vétérinaires ne contiennent pas de substances actives figurant à l’annexe IV du règlement (CEE) no 2377/90 , et ne sont pas destinés à être utilisés pour le traitement d’affections, telles que spécifiées dans le résumé autorisé des caractéristiques du produit, pour lesquelles un médicament vétérinaire est autorisé pour soigner les animaux de la famille des équidés.
+- Par dérogation au paragraphe 1, un médicament vétérinaire contenant des substances pharmacologiquement actives ne figurant pas à l’annexe I, II ou III du règlement (CEE) no 2377/90 peut être autorisé pour les animaux particuliers appartenant à la famille des équidés qui ont été déclarés, conformément à la décision 93/623/CEE de la Commission établissant le document d’identification (passeport) accompagnant les équidés enregistrés et à la décision 2000/68/CE de la Commission du 22 décembre 1999 modifiant la décision 93/623/CEE et établissant l’identification des équidés d’élevage et de rente, comme n’étant pas destinés à l’abattage pour la consommation humaine. Ces médicaments vétérinaires ne contiennent pas de substances actives figurant à l’annexe IV du règlement (CEE) no 2377/90, et ne sont pas destinés à être utilisés pour le traitement d’affections, telles que spécifiées dans le résumé autorisé des caractéristiques du produit, pour lesquelles un médicament vétérinaire est autorisé pour soigner les animaux de la famille des équidés.
 
-- Dans le cas de médicaments vétérinaires destinés à une ou plusieurs espèces animales productrices de denrées alimentaires, mais dont la ou les substances pharmacologiquement actives ne figurent pas encore, pour l’espèce ou les espèces considérées, à l’annexe I, II ou III du règlement (CEE) no 2377/90 , la demande d’autorisation de mise sur le marché ne peut être introduite qu’après le dépôt d’une demande valide pour l’établissement de limites maximales de résidus conformément audit règlement. Le délai entre la demande valide d’établissement de limites maximales de résidus et la demande d’autorisation de mise sur le marché doit être d’au moins six mois. Toutefois, en ce qui concerne les médicaments vétérinaires visés au paragraphe 3, l’autorisation de mise sur le marché peut être demandée en l’absence de demande valide conformément au règlement (CEE) no 2377/90. La totalité de la documentation scientifique nécessaire pour démontrer la qualité, la sécurité et l’efficacité du médicament vétérinaire, comme le prévoit le paragraphe 3, doit être fournie.
+- Dans le cas de médicaments vétérinaires destinés à une ou plusieurs espèces animales productrices de denrées alimentaires, mais dont la ou les substances pharmacologiquement actives ne figurent pas encore, pour l’espèce ou les espèces considérées, à l’annexe I, II ou III du règlement (CEE) no 2377/90, la demande d’autorisation de mise sur le marché ne peut être introduite qu’après le dépôt d’une demande valide pour l’établissement de limites maximales de résidus conformément audit règlement. Le délai entre la demande valide d’établissement de limites maximales de résidus et la demande d’autorisation de mise sur le marché doit être d’au moins six mois. Toutefois, en ce qui concerne les médicaments vétérinaires visés au paragraphe 3, l’autorisation de mise sur le marché peut être demandée en l’absence de demande valide conformément au règlement (CEE) no 2377/90. La totalité de la documentation scientifique nécessaire pour démontrer la qualité, la sécurité et l’efficacité du médicament vétérinaire, comme le prévoit le paragraphe 3, doit être fournie.
 
 <a id="art-10"></a>
 ## Art. 10.
@@ -446,15 +446,15 @@ Il tiennent un registre contenant au moins les indications suivantes:
 
 Conformément au règlement délégué (UE) 2021/578 de la Commission du 29 janvier 2021 (ci-après le « règlement délégué (UE) 2021/578 ») complétant le règlement (UE) 2019/6 du Parlement européen et du Conseil en ce qui concerne les exigences relatives à la collecte des données sur le volume des ventes de médicaments antimicrobiens et sur l’utilisation de ceux-ci chez l’animal :
 
-- les titulaires d’une autorisation de distribution en gros et les pharmaciens communiquent à la Direction de la santé les données sur le volume des ventes de médicaments vétérinaires antimicrobiens destinés à être utilisés au Luxembourg et visés aux articles 1 er et 2 du règlement délégué (UE) 2021/578 ;
+- les titulaires d’une autorisation de distribution en gros et les pharmaciens communiquent à la Direction de la santé les données sur le volume des ventes de médicaments vétérinaires antimicrobiens destinés à être utilisés au Luxembourg et visés aux articles 1er et 2 du règlement délégué (UE) 2021/578 ;
 
 - les médecins-vétérinaires établis au Luxembourg et les médecins-vétérinaires qui effectuent des prestations de services au Luxembourg communiquent à l’Administration luxembourgeoise vétérinaire et alimentaire les données sur l’utilisation, au Luxembourg, de médicaments vétérinaires antimicrobiens chez l’animal visés aux articles 3 et 4 du règlement délégué (UE) 2021/578 :
 
-  - en ce qui concerne les espèces animales productrices de denrées alimentaires visées à l’article 15, paragraphe 1 er du règlement délégué (UE) précité à partir du 1 er janvier 2023 ;
+  - en ce qui concerne les espèces animales productrices de denrées alimentaires visées à l’article 15, paragraphe 1er du règlement délégué (UE) précité à partir du 1er janvier 2023 ;
 
-  - en ce qui concerne les espèces animales productrices de denrées alimentaires visées à l’article 15, paragraphe 2 du règlement délégué (UE) précité à partir du 1 er janvier 2026 ;
+  - en ce qui concerne les espèces animales productrices de denrées alimentaires visées à l’article 15, paragraphe 2 du règlement délégué (UE) précité à partir du 1er janvier 2026 ;
 
-  - en ce qui concerne les espèces animales non productrices de denrées alimentaires visées à l’article 15, paragraphe 3 du règlement délégué (UE) précité à partir du 1 er janvier 2029.
+  - en ce qui concerne les espèces animales non productrices de denrées alimentaires visées à l’article 15, paragraphe 3 du règlement délégué (UE) précité à partir du 1er janvier 2029.
 
 (2)
 
@@ -469,7 +469,7 @@ La communication des données visées au paragraphe 1er, lettre b) est effectué
 
 - Au sens du présent article on entend par médicament vétérinaire immunologique un médicament vétérinaire administré aux animaux en vue de provoquer une immunité active ou passive ou de diagnostiquer l’état d’immunité.
 
-- Par dérogation au paragrpahe 1 er les dispositions y citées ne s’appliquent pas aux médicaments vétérinaires immunologiques inactivés fabriqués à partir d’organismes pathogènes et antigènes obtenus à partir d’un animal ou d’animaux d’un même élevage et utilisés pour le traitement de cet animal ou de cet élevage dans la même localité.
+- Par dérogation au paragrpahe 1er les dispositions y citées ne s’appliquent pas aux médicaments vétérinaires immunologiques inactivés fabriqués à partir d’organismes pathogènes et antigènes obtenus à partir d’un animal ou d’animaux d’un même élevage et utilisés pour le traitement de cet animal ou de cet élevage dans la même localité.
 
 - La description quantitative d’un médicament vétérinaire immunologique doit être exprimée en masse, en unités internationales, en unités d’activité biologique, en nombre de germes ou, si possible, en contenu protéique spécifique et ce en fonction du produit considéré.
 

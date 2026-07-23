@@ -93,7 +93,7 @@ Pour l’application de la présente loi, on entend par :
 
 - « petite entreprise » : toute entreprise répondant aux critères énoncés à l’annexe I du règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 déclarant certaines catégories d’aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité ;
 
-- « zone assistée » : les zones situées sur le territoire du Grand-Duché figurant sur la carte des aides à finalité régionale approuvée par la Commission européenne en application de l’article 107, paragraphe 3, points a) et c), du traité pour la période allant du 1 er juillet 2014 au 31 décembre 2021 en ce qui concerne les aides à finalité régionale octroyées jusqu’au 31 décembre 2021 et les zones situées sur le territoire du Grand-Duché figurant sur la carte des aides à finalité régionale approuvée par la Commission européenne en application de l’article 107, paragraphe 3, points a) et c), du traité pour la période allant du 1 er janvier 2022 au 31 décembre 2027 en ce qui concerne les aides à finalité régionale octroyées après le 31 décembre 2021.
+- « zone assistée » : les zones situées sur le territoire du Grand-Duché figurant sur la carte des aides à finalité régionale approuvée par la Commission européenne en application de l’article 107, paragraphe 3, points a) et c), du traité pour la période allant du 1er juillet 2014 au 31 décembre 2021 en ce qui concerne les aides à finalité régionale octroyées jusqu’au 31 décembre 2021 et les zones situées sur le territoire du Grand-Duché figurant sur la carte des aides à finalité régionale approuvée par la Commission européenne en application de l’article 107, paragraphe 3, points a) et c), du traité pour la période allant du 1er janvier 2022 au 31 décembre 2027 en ce qui concerne les aides à finalité régionale octroyées après le 31 décembre 2021.
 
 <a id="art-3"></a>
 ## Art. 3.
@@ -128,7 +128,7 @@ Sont toutefois exclues du champ d’application de la présente loi :
 
   - des aides en faveur de jeunes entreprises,
 
-  - pour la période comprise entre le 1 er janvier 2020 et le 30 juin 2021, des aides aux entreprises en difficulté qui n’étaient pas en difficulté au 31 décembre 2019, pour autant qu’elles ne fassent pas l’objet d’une procédure collective d’insolvabilité ou ne remplissent pas, selon le droit national qui leur est applicable, les conditions de soumission à une procédure collective d’insolvabilité à la demande de leurs créanciers.
+  - pour la période comprise entre le 1er janvier 2020 et le 30 juin 2021, des aides aux entreprises en difficulté qui n’étaient pas en difficulté au 31 décembre 2019, pour autant qu’elles ne fassent pas l’objet d’une procédure collective d’insolvabilité ou ne remplissent pas, selon le droit national qui leur est applicable, les conditions de soumission à une procédure collective d’insolvabilité à la demande de leurs créanciers.
 
   - s’il s’agit d’une société à responsabilité limitée (autre qu’une PME, en existence depuis moins de trois ans ou, aux fins de l’admissibilité au bénéfice des aides au financement des risques, une PME exerçant ses activités depuis moins de sept ans après sa première vente commerciale et qui peut bénéficier d’investissements en faveur du financement des risques au terme du contrôle préalable effectué par l’intermédiaire financier sélectionné), lorsque plus de la moitié de son capital social souscrit a disparu en raison des pertes accumulées. Tel est le cas lorsque la déduction des pertes accumulées des réserves (et de tous les autres éléments généralement considérés comme relevant des fonds propres de la société) conduit à un montant cumulé négatif qui excède la moitié du capital social souscrit. Aux fins de la présente disposition, on entend par « société à responsabilité limitée » notamment les types d’entreprises mentionnés à l’annexe I de la directive 2013/34/UE du Parlement européen et du Conseil du 26 juin 2013 relative aux états financiers annuels, aux états financiers consolidés et aux rapports y afférents de certaines formes d’entreprises, modifiant la directive 2006/43/CE du Parlement européen et du Conseil et abrogeant les directives 78/660/CEE et 83/349/CEE du Conseil et le « capital social » comprend, le cas échéant, les primes d’émission ;
 
@@ -431,7 +431,7 @@ Les aides au financement des risques garantissent que les décisions de financem
 
 - un processus de contrôle préalable est mis en place afin de garantir une stratégie d’investissement commercialement saine aux fins de la mise en œuvre de la mesure de financement des risques, y inclut l’adoption d’une stratégie appropriée de diversification des risques visant à parvenir à la viabilité économique et à un niveau efficient en termes de taille et de portée territoriale du portefeuille d’investissements correspondant ;
 
-- le financement des risques des entreprises admissibles se fonde sur un plan d’entreprise viable, contenant des informations sur l’évolution des produits, des ventes et de la rentabilité et établissant la viabilité financière ex ante .
+- le financement des risques des entreprises admissibles se fonde sur un plan d’entreprise viable, contenant des informations sur l’évolution des produits, des ventes et de la rentabilité et établissant la viabilité financière ex ante.
 
 (7)
 

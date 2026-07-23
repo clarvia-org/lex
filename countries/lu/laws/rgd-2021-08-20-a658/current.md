@@ -32,15 +32,15 @@ L’article 2 du règlement grand-ducal du 24 août 2016 concernant le statut du
 
 - Le paragraphe 2 est modifié comme suit :
 
-  - À l’alinéa 2, les termes soixante-quinze unités sont remplacés par les termes cent seize unités et les termes trois unités sont remplacés par les termes treize unités .
+  - À l’alinéa 2, les termes soixante-quinze unités sont remplacés par les termes cent seize unités et les termes trois unités sont remplacés par les termes treize unités.
 
-  - À l’alinéa 3, les termes quatre-vingt-quinze unités sont remplacés par les termes quatre-vingt-dix-huit unités .
+  - À l’alinéa 3, les termes quatre-vingt-quinze unités sont remplacés par les termes quatre-vingt-dix-huit unités.
 
-  - À l’alinéa 4, les termes dix-huit unités sont remplacés par les termes vingt-cinq unités .
+  - À l’alinéa 4, les termes dix-huit unités sont remplacés par les termes vingt-cinq unités.
 
-  - À l’alinéa 5, les termes huit unités sont remplacés par les termes six unités .
+  - À l’alinéa 5, les termes huit unités sont remplacés par les termes six unités.
 
-- Au paragraphe 3, les termes deux cent soixante unités sont remplacés par les termes trois cent vingt-neuf unités et les termes vingt-sept unités sont remplacés par les termes quarante-huit unités .
+- Au paragraphe 3, les termes deux cent soixante unités sont remplacés par les termes trois cent vingt-neuf unités et les termes vingt-sept unités sont remplacés par les termes quarante-huit unités.
 
 <a id="art-2"></a>
 ## Art. 2.

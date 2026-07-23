@@ -208,13 +208,13 @@ Dans les cas où, conformément aux dispositions de l’article 16, la période 
 
 Dans les cas où, conformément aux dispositions de l’article 16, la période de régularisation prévue aux articles 14 et 15 a commencé à courir le 1er janvier des années 1976, 1977, 1978 et 1979, la durée de cette période est fixée à titre de mesure transitoire:
 
-- à six ans, lorsque la période de régularisation a commencé à courir le 1 er janvier 1976;
+- à six ans, lorsque la période de régularisation a commencé à courir le 1er janvier 1976;
 
-- à sept ans, lorsque la période de régularisation a commencé à courir le 1 er janvier 1977;
+- à sept ans, lorsque la période de régularisation a commencé à courir le 1er janvier 1977;
 
-- à huit ans, lorsque la période de régularisation a commencé à courir le 1 er janvier 1978;
+- à huit ans, lorsque la période de régularisation a commencé à courir le 1er janvier 1978;
 
-- à neuf ans, lorsque la période de régularisation a commencé à courir le 1 er janvier 1979.
+- à neuf ans, lorsque la période de régularisation a commencé à courir le 1er janvier 1979.
 
 Dans les cas prévus à l’alinéa qui précède la régularisation pour le temps restant à courir à partir du 1er janvier 1980 porte chaque année sur un dixième de la taxe dont l’immeuble a été grevé.
 

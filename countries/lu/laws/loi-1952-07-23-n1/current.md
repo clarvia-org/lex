@@ -261,7 +261,7 @@ Les modalités concernant les conditions de recrutement, de formation et d’ava
 
 Pour les emplois visés à l’article 9. (1) a) de la présente loi, sont admissibles:
 
-- pour l’envoi en formation d’officier, les détenteurs d’un certificat de fin d’études secondaires luxembourgeoises ou d’un diplôme reconnu équivalent par le ministre ayant l’éducation nationale et la formation professionnelle dans ses attributions, remplissant les conditions d’études fixées par le règlement grand-ducal prévu à l’alinéa 1 er du présent article, à condition d’être âgés de moins de vingt-quatre ans accomplis le premier jour des épreuves de sélection. A l’issue de leur formation militaire, ils doivent accomplir avec succès un stage tel que fixé par la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’Etat.
+- pour l’envoi en formation d’officier, les détenteurs d’un certificat de fin d’études secondaires luxembourgeoises ou d’un diplôme reconnu équivalent par le ministre ayant l’éducation nationale et la formation professionnelle dans ses attributions, remplissant les conditions d’études fixées par le règlement grand-ducal prévu à l’alinéa 1er du présent article, à condition d’être âgés de moins de vingt-quatre ans accomplis le premier jour des épreuves de sélection. A l’issue de leur formation militaire, ils doivent accomplir avec succès un stage tel que fixé par la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’Etat.
 
 - pour l’admission au stage tel que défini par la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’Etat, les détenteurs d’un diplôme remplissant les conditions prévues à l’article 2 du règlement grand-ducal modifié du 30 janvier 2004 portant organisation des examens-concours pour l’admission au stage des fonctions administratives et scientifiques de la carrière supérieure des administrations de l’Etat et des établissements publics, à condition d’être âgés de moins de vingt-neuf ans accomplis le jour de leur admission au stage.
 
@@ -588,17 +588,29 @@ Le code des assurances sociales est modifié comme suit:
 
 -
 
-  - L’article 1 er est complété par un point 16 ayant la teneur suivante: les volontaires de l’armée au sens de la loi du 2 août 1997 portant réorganisation de l’armée et modification de la loi du 27 juillet 1992 relative à la participation du Grand-Duché de Luxembourg à des opérations pour le maintien de la paix et des opérations de prévention, ainsi que de gestion de crise.
+  - L’article 1er est complété par un point 16 ayant la teneur suivante:
 
-  - Le huitième tiret de l’article 32 prend la teneur suivante: à l’Etat en ce qui concerne les assurés visés à l’article 1er sous 13), 15) et 16) ainsi que les élèves et étudiants âgés de moins de trente ans, assurés en vertu de l’article 1er sous 14) ou ayant contracté une assurance volontaire en vertu de l’article 2 et ne disposant que de ressources inférieures au revenu minimum garanti pour une personne seule, tel que défini par la loi modifiée du 26 juillet 1986.
+les volontaires de l’armée au sens de la loi du 2 août 1997 portant réorganisation de l’armée et modification de la loi du 27 juillet 1992 relative à la participation du Grand-Duché de Luxembourg à des opérations pour le maintien de la paix et des opérations de prévention, ainsi que de gestion de crise.
 
-  - L’article 93, alinéa 1 est complété comme suit: Sont encore assurés les volontaires de l’armée au sens de la loi du 2 août 1997 portant réorganisation de l’armée et modification de la loi du 27 juillet 1992 relative à la participation du Grand-Duché de Luxembourg à des opérations pour le maintien de la paix et des opérations de prévention, ainsi que de gestion de crise.
+  - Le huitième tiret de l’article 32 prend la teneur suivante:
 
-  - L’article 171 est complété par un point 12 ayant la teneur suivante: les périodes pendant lesquelles l’intéressé était volontaire au service de l’armée au sens de la loi du 2 août 1997 portant réorganisation de l’armée et modification de la loi du 27 juillet 1992 relative à la participation du Grand-Duché de Luxembourg à des opérations pour le maintien de la paix et des opérations de prévention, ainsi que de gestion de crise.
+à l’Etat en ce qui concerne les assurés visés à l’article 1er sous 13), 15) et 16) ainsi que les élèves et étudiants âgés de moins de trente ans, assurés en vertu de l’article 1er sous 14) ou ayant contracté une assurance volontaire en vertu de l’article 2 et ne disposant que de ressources inférieures au revenu minimum garanti pour une personne seule, tel que défini par la loi modifiée du 26 juillet 1986.
 
-  - A l’article 240 le texte suivant est inséré entre le premier et le deuxième tiret: entièrement à charge de l’Etat pour les assurés visés à l’article 171, 12º
+  - L’article 93, alinéa 1 est complété comme suit:
 
-  - Le troisième alinéa de l’article 250 est libellé comme suit: La caisse de pension des employés privés est compétente pour les personnes affiliées au titre des périodes visées à l’article 171, 1), 4), 5), 8), 9), 10) et 12), si l’activité exercée a un caractère principalement intellectuel à préciser par règlement grand-ducal, et les périodes visées aux numéros 2) et 6) du même article s’il s’agit d’une activité non visée à l’alinéa 4 ou 5 ci-dessous.
+Sont encore assurés les volontaires de l’armée au sens de la loi du 2 août 1997 portant réorganisation de l’armée et modification de la loi du 27 juillet 1992 relative à la participation du Grand-Duché de Luxembourg à des opérations pour le maintien de la paix et des opérations de prévention, ainsi que de gestion de crise.
+
+  - L’article 171 est complété par un point 12 ayant la teneur suivante:
+
+les périodes pendant lesquelles l’intéressé était volontaire au service de l’armée au sens de la loi du 2 août 1997 portant réorganisation de l’armée et modification de la loi du 27 juillet 1992 relative à la participation du Grand-Duché de Luxembourg à des opérations pour le maintien de la paix et des opérations de prévention, ainsi que de gestion de crise.
+
+  - A l’article 240 le texte suivant est inséré entre le premier et le deuxième tiret:
+
+- entièrement à charge de l’Etat pour les assurés visés à l’article 171, 12º
+
+  - Le troisième alinéa de l’article 250 est libellé comme suit:
+
+La caisse de pension des employés privés est compétente pour les personnes affiliées au titre des périodes visées à l’article 171, 1), 4), 5), 8), 9), 10) et 12), si l’activité exercée a un caractère principalement intellectuel à préciser par règlement grand-ducal, et les périodes visées aux numéros 2) et 6) du même article s’il s’agit d’une activité non visée à l’alinéa 4 ou 5 ci-dessous.
 
 (2)
 
@@ -897,7 +909,7 @@ Les ouvriers de l’Etat qui sont détenteurs d’un certificat artisanal d’ap
 
 - Les 12 fonctionnaires du cadre des commissariats et postes de Police grand-ducale détachés à la Direction, aux services communs de la Police grand-ducale, ou effectuant au Commissariat Central de la Ville de Luxembourg des missions entrant dans les attributions de la Direction, sont repris dans le cadre de la Direction et des commandements des circonscriptions de la Police grand-ducale le premier jour du mois qui suit la mise en vigueur de la présente loi.
 
-- L’employé de l’Etat, engagé le 1 er juillet 1978, auprès de la Police grand-ducale pour y exercer la fonction d’ingénieur peut obtenir une nomination dans cette carrière. A cet effet il est dispensé de l’examen d’admission au stage, du stage et de l’examen de fin de stage. Les dispositions de l’article 7, paragraphe 6 de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’Etat ne lui sont pas applicables. En vue des promotions ultérieures, le rang de l’intéressé est fixé en tenant compte du temps passé au service de l’Etat à tâche complète, déduction faite d’une période de trois années.
+- L’employé de l’Etat, engagé le 1er juillet 1978, auprès de la Police grand-ducale pour y exercer la fonction d’ingénieur peut obtenir une nomination dans cette carrière. A cet effet il est dispensé de l’examen d’admission au stage, du stage et de l’examen de fin de stage. Les dispositions de l’article 7, paragraphe 6 de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’Etat ne lui sont pas applicables. En vue des promotions ultérieures, le rang de l’intéressé est fixé en tenant compte du temps passé au service de l’Etat à tâche complète, déduction faite d’une période de trois années.
 
 - L’employé de l’Etat, détenteur du diplôme d’ingénieur-technicien décerné par l’Institut supérieur de technologie. engagé en 1986 auprès de la Direction de la Police grand-ducale peut être admis au stage de la carrière de l’ingénieur-technicien. A cet effet, il est dispensé de l’examen d’admission au stage. Il bénéficie d’une réduction de stage égale à la période passée au service de l’Etat à tâche complète.
 

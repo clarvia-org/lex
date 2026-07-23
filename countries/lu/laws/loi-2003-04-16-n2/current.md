@@ -31,17 +31,17 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 Au sens de la présente loi et des règlements grand-ducaux pris en son exécution, on entend par:
 
-- "véhicules": les véhicules automoteurs destinés à circuler sur le sol et qui peuvent être actionnés exclusivement par une force mécanique sans être liés à une voie ferrée; avec, soit une vitesse maximale par construction supérieure à 25 km/h, soit un poids net maximal supérieur à 25 kg et une vitesse maximale par construction supérieure à 14 km/h. Tout ce qui est attelé au véhicule est considéré comme en faisant partie. Sont assimilées aux véhicules, les remorques construites spécialement pour être attelées à un véhicule en vue du transport de personnes ou de choses , qu’elles soient attelées ou non, et qui seront déterminées par un règlement grand-ducal;
+- "véhicules": les véhicules automoteurs destinés à circuler sur le sol et qui peuvent être actionnés exclusivement par une force mécanique sans être liés à une voie ferrée; avec, soit une vitesse maximale par construction supérieure à 25 km/h, soit un poids net maximal supérieur à 25 kg et une vitesse maximale par construction supérieure à 14 km/h. Tout ce qui est attelé au véhicule est considéré comme en faisant partie. Sont assimilées aux véhicules, les remorques construites spécialement pour être attelées à un véhicule en vue du transport de personnes ou de choses, qu’elles soient attelées ou non, et qui seront déterminées par un règlement grand-ducal;
 
 - "assurés": les personnes dont la responsabilité civile est couverte conformément aux dispositions de la présente loi;
 
 - "personnes lésées": les personnes qui ont subi un dommage donnant lieu à l'application de la présente loi, ainsi que leurs ayants droit;
 
-- "entreprise d'assurances": une entreprise ayant reçu l'agrément administratif conformément à l’article 14, paragraphes 1 er et 2, lettres a) et b), ou à l’article 162, paragraphe 2, lettres a) à h), de la directive 2009/138/CE du Parlement européen et du Conseil du 25 novembre 2009 sur l’accès aux activités de l’assurance et de la réassurance et leur exercice (solvabilité II) et autorisée à opérer dans la branche d'assurances de la responsabilité civile des véhicules terrestres automoteurs;
+- "entreprise d'assurances": une entreprise ayant reçu l'agrément administratif conformément à l’article 14, paragraphes 1er et 2, lettres a) et b), ou à l’article 162, paragraphe 2, lettres a) à h), de la directive 2009/138/CE du Parlement européen et du Conseil du 25 novembre 2009 sur l’accès aux activités de l’assurance et de la réassurance et leur exercice (solvabilité II) et autorisée à opérer dans la branche d'assurances de la responsabilité civile des véhicules terrestres automoteurs;
 
 - "entreprise d'assurances autorisée": toute entreprise d'assurances autorisée à opérer au Grand-Duché de Luxembourg dans la branche d'assurances de la responsabilité civile des véhicules terrestres automoteurs;
 
-- "entreprise d'assurances établie": toute entreprise luxembourgeoise telle que définie à l’article 32, paragraphe 1 er , point 8, de la loi modifiée du 7 décembre 2015 sur le secteur des assurances et agréée pour la branche d'assurances de la responsabilité civile des véhicules terrestres automoteurs et toute succursale d'une entreprise dont le siège social est établi en dehors du Grand-Duché de Luxembourg et agréée ou autorisée à opérer au Grand-Duché de Luxembourg dans la même branche d'assurances;
+- "entreprise d'assurances établie": toute entreprise luxembourgeoise telle que définie à l’article 32, paragraphe 1er, point 8, de la loi modifiée du 7 décembre 2015 sur le secteur des assurances et agréée pour la branche d'assurances de la responsabilité civile des véhicules terrestres automoteurs et toute succursale d'une entreprise dont le siège social est établi en dehors du Grand-Duché de Luxembourg et agréée ou autorisée à opérer au Grand-Duché de Luxembourg dans la même branche d'assurances;
 
 - "le Bureau": le Bureau luxembourgeois des assureurs contre les accidents d'automobiles visé par l'article 24;
 
@@ -51,7 +51,7 @@ Au sens de la présente loi et des règlements grand-ducaux pris en son exécuti
 
 - "Pays tiers": tout pays non membre de l'Union Européenne;
 
-- "Pays tiers adhérant au système de la carte verte": pays tiers dont le bureau d'assurance, au sens de l’article 1 er , point 3), de la directive 2009/103/CE du Parlement européen et du Conseil du 16 septembre 2009 concernant l’assurance de la responsabilité civile résultant de la circulation de véhicules automoteurs et le contrôle de l’obligation d’assurer cette responsabilité, ci-après « directive 2009/103/CE », a adhéré au système de la carte verte;
+- "Pays tiers adhérant au système de la carte verte": pays tiers dont le bureau d'assurance, au sens de l’article 1er, point 3), de la directive 2009/103/CE du Parlement européen et du Conseil du 16 septembre 2009 concernant l’assurance de la responsabilité civile résultant de la circulation de véhicules automoteurs et le contrôle de l’obligation d’assurer cette responsabilité, ci-après « directive 2009/103/CE », a adhéré au système de la carte verte;
 
 - «Territoire où le véhicule a son stationnement habituel»:
 
@@ -73,7 +73,7 @@ Au sens de la présente loi et des règlements grand-ducaux pris en son exécuti
 
 - "Acte de terrorisme": opération violente organisée et perpétrée à des fins ou pour des raisons idéologiques, politiques, économiques ou ethniques, exécutée individuellement ou par un ou plusieurs groupes de personnes agissant de leur propre chef pour le compte ou en relation avec une ou plusieurs organisations dans l'intention d'impressionner un gouvernement et/ou de semer la peur parmi toute ou partie de la population;
 
-- " FGA ": le Fonds de Garantie Automobile tel que visé par l’article 15 ;
+- "FGA ": le Fonds de Garantie Automobile tel que visé par l’article 15 ;
 
 - « FIAA » : le Fonds d’insolvabilité en assurance automobile tel que visé à l’article 23-1 ;
 
@@ -123,7 +123,7 @@ Tout contrat d'assurance conclu en exécution de la présente loi est réputé d
 
 - L'assurance doit couvrir les dommages causés en territoire étranger par un véhicule ayant son stationnement habituel au Grand-Duché de Luxembourg, conformément à la loi du pays de survenance du sinistre. Un règlement grand-ducal détermine la liste des Etats sur le territoire desquels l'assurance doit accorder couverture.
 
-- L'assurance portant sur une remorque assimilée à un véhicule par l'article 1 er littera a) ne doit couvrir que les dommages causés par la remorque non attelée.
+- L'assurance portant sur une remorque assimilée à un véhicule par l'article 1er littera a) ne doit couvrir que les dommages causés par la remorque non attelée.
 
 - Sont exclus de la garantie les dommages corporels et matériels résultant des effets directs ou indirects d'explosion, de dégagement de chaleur, d'irradiation, de contamination provenant de la transmutation d'atomes ou de radioactivité, ainsi que des effets de radiations provoquées par l'accélération artificielle de particules nucléaires.
 
@@ -186,7 +186,7 @@ S'il y a plusieurs personnes lésées et si le total des indemnités dues excèd
 <a id="art-12"></a>
 ## Art. 12.-
 
-- Pour être opposables à la personne lésée, l’expiration, l’annulation, la résiliation, la suspension du contrat ou de la garantie, relatif à un véhicule routier soumis à l’obligation d’immatriculation telle que définie à l’article 4, paragraphe 2, de la loi précitée du 14 février 1955 , quelle que soit leur cause, doivent être notifiées par l’entreprise d’assurances autorisée par voie électronique sécurisée et l’information est enregistrée dans la banque de données relative à l’assurance de responsabilité civile automobile des véhicules routiers visée à l’article 4, paragraphe 7, alinéa 4, de la loi précitée du 14 février 1955 par la Société Nationale de Circulation Automobile, en abrégé « SNCA », agissant pour le compte du ministre ayant les Transports dans ses attributions conformément à l’article 4, paragraphe 7, de la loi précitée du 14 février 1955 .
+- Pour être opposables à la personne lésée, l’expiration, l’annulation, la résiliation, la suspension du contrat ou de la garantie, relatif à un véhicule routier soumis à l’obligation d’immatriculation telle que définie à l’article 4, paragraphe 2, de la loi précitée du 14 février 1955, quelle que soit leur cause, doivent être notifiées par l’entreprise d’assurances autorisée par voie électronique sécurisée et l’information est enregistrée dans la banque de données relative à l’assurance de responsabilité civile automobile des véhicules routiers visée à l’article 4, paragraphe 7, alinéa 4, de la loi précitée du 14 février 1955 par la Société Nationale de Circulation Automobile, en abrégé « SNCA », agissant pour le compte du ministre ayant les Transports dans ses attributions conformément à l’article 4, paragraphe 7, de la loi précitée du 14 février 1955.
 
 - Les obligations de l'entreprise d'assurances autorisée à l'égard de la personne lésée subsistent pour les sinistres survenus avant l'expiration d'un délai de seize jours suivant la notification prévue au paragraphe précédent; ce délai ne peut prendre cours avant le jour qui suit la fin du contrat ou de la garantie.
 
@@ -232,7 +232,7 @@ Le FGA a pour mission, dans les limites et aux conditions déterminées par règ
 
   - à une personne lésée résidant au Grand-Duché de Luxembourg du fait d'un accident survenu dans un Etat membre autre que le Grand-Duché de Luxembourg;
 
-- de réparer les préjudices résultant d’un accident dont la responsabilité civile à laquelle il donne lieu n’est couverte ni par une assurance conforme à la présente loi , y compris les véhicules qui sont retirés temporairement ou définitivement de la circulation, ni par un bureau national d’assurance au sens de l’article 1 er , point 3), de la directive 2009/103/CE du Parlement européen et du Conseil du 16 septembre 2009 concernant l’assurance de la responsabilité civile résultant de la circulation de véhicules automoteurs et le contrôle de l’obligation d’assurer cette responsabilité, ci-après « directive 2009/103/CE »,
+- de réparer les préjudices résultant d’un accident dont la responsabilité civile à laquelle il donne lieu n’est couverte ni par une assurance conforme à la présente loi, y compris les véhicules qui sont retirés temporairement ou définitivement de la circulation, ni par un bureau national d’assurance au sens de l’article 1er, point 3), de la directive 2009/103/CE du Parlement européen et du Conseil du 16 septembre 2009 concernant l’assurance de la responsabilité civile résultant de la circulation de véhicules automoteurs et le contrôle de l’obligation d’assurer cette responsabilité, ci-après « directive 2009/103/CE »,
 
   - si l’accident est survenu au Grand-Duché de Luxembourg et qu’il n’est pas pris en charge par le fonds de garantie de l’Etat membre qui est l’Etat de situation du risque au sens de l’article 43, point 17, la lettre c) de la loi modifiée du 7 décembre 2015 sur le secteur des assurances. ou
 
@@ -312,7 +312,7 @@ Dans la mesure de ses prestations le FGA est subrogé dans les droits que possè
 <a id="art-22"></a>
 ## Art. 22.-
 
-- Tout sinistre devant donner lieu à l’intervention du FGA conformément aux points 1, 2, 2-1, 3 , 4 et 5 bis de l’article 16 de la présente loi doit lui être dénoncé dans les trois ans, à peine de forclusion, à moins que la personne lésée ne prouve qu’elle a été dans l’impossibilité physique ou morale de faire cette dénonciation dans le délai prescrit.
+- Tout sinistre devant donner lieu à l’intervention du FGA conformément aux points 1, 2, 2-1, 3 , 4 et 5bis de l’article 16 de la présente loi doit lui être dénoncé dans les trois ans, à peine de forclusion, à moins que la personne lésée ne prouve qu’elle a été dans l’impossibilité physique ou morale de faire cette dénonciation dans le délai prescrit.
 
 - Toute action récursoire du FGA sera prescrite après trois ans à compter du règlement effectué par le FGA en conformité des dispositions de la présente loi.
 
@@ -323,14 +323,14 @@ Dans la mesure de ses prestations le FGA est subrogé dans les droits que possè
 
 - Toute entreprise d'assurances autorisée membre du FGA est tenue de fournir les informations dont le contenu et les modalités sont fixés par règlement grand-ducal au gestionnaire de la banque de données des véhicules routiers et de leurs propriétaires et détenteurs. Ces informations doivent être conservées par le gestionnaire de cette banque de données pendant une période à déterminer par règlement grand-ducal.
 
-- Toute entreprise d’assurances établie membre du FGA est en outre tenue de fournir au FGA les noms, prénoms et adresses des représentants chargés du règlement des sinistres nommés en application de l’article 49, paragraphe 1 er , lettre h) de la loi modifiée du 7 décembre 2015 sur le secteur des assurances.
+- Toute entreprise d’assurances établie membre du FGA est en outre tenue de fournir au FGA les noms, prénoms et adresses des représentants chargés du règlement des sinistres nommés en application de l’article 49, paragraphe 1er, lettre h) de la loi modifiée du 7 décembre 2015 sur le secteur des assurances.
 
 ## Partie IIIbis Le Fonds d’insolvabilité en assurance automobile
 
 <a id="art-23-1"></a>
 ## Art. 23-1
 
-- Il est créé un organisme sous le statut juridique d’un établissement public dénommé Fonds d’insolvabilité en assurance automobile, désigné ci-après « FIAA », auquel les entreprises d’assurances de droit luxembourgeois, telles que définies à l’article 1 er , lettre r), sont tenues d’adhérer (ci-après, « entreprises adhérentes »). Le FIAA est doté de la personnalité juridique et est placé sous la tutelle du ministre ayant le secteur des assurances dans ses attributions. Il a son siège à Luxembourg. Le FIAA constitue, au Grand-Duché de Luxembourg, l’organisme visé à l’article 10bis, paragraphe 1er, et à l’article 25bis, paragraphe 1er, de la directive 2009/103/CE.
+- Il est créé un organisme sous le statut juridique d’un établissement public dénommé Fonds d’insolvabilité en assurance automobile, désigné ci-après « FIAA », auquel les entreprises d’assurances de droit luxembourgeois, telles que définies à l’article 1er, lettre r), sont tenues d’adhérer (ci-après, « entreprises adhérentes »). Le FIAA est doté de la personnalité juridique et est placé sous la tutelle du ministre ayant le secteur des assurances dans ses attributions. Il a son siège à Luxembourg. Le FIAA constitue, au Grand-Duché de Luxembourg, l’organisme visé à l’article 10bis, paragraphe 1er, et à l’article 25bis, paragraphe 1er, de la directive 2009/103/CE.
 
 - Les avoirs du FIAA visés à l’article 23-4 détenus en espèces sont placés sur des comptes auprès de la Banque centrale du Luxembourg ouverts au nom du FIAA.
 
@@ -343,11 +343,11 @@ Le FIAA a pour mission :
 
   - le Commissariat aux assurances (ci-après, « CAA ») notifie au FIAA qu’une entreprise d’assurances de droit luxembourgeois fait l’objet d’une procédure de liquidation collective au sens de l’article 229, point 3, de la loi modifiée du 7 décembre 2015 sur le secteur des assurances ; ou
 
-  - un organisme équivalent d’un autre État membre notifie au FIAA qu’une entreprise d’assurances fait l’objet d’une procédure de faillite ou d’une procédure de liquidation au sens de l’article 268, paragraphe 1 er , lettre d), de la directive 2009/138/CE du Parlement européen et du Conseil du 25 novembre 2009 sur l’accès aux activités de l’assurance et de la réassurance et leur exercice (ci-après, « directive 2009/138/CE ») ;
+  - un organisme équivalent d’un autre État membre notifie au FIAA qu’une entreprise d’assurances fait l’objet d’une procédure de faillite ou d’une procédure de liquidation au sens de l’article 268, paragraphe 1er, lettre d), de la directive 2009/138/CE du Parlement européen et du Conseil du 25 novembre 2009 sur l’accès aux activités de l’assurance et de la réassurance et leur exercice (ci-après, « directive 2009/138/CE ») ;
 
-- de rembourser intégralement le montant versé à titre d’indemnisation par tout organisme équivalent d’un autre État membre pour des dommages matériels ou corporels causés par un véhicule assuré par une entreprise adhérente. Ce montant ne peut pas être supérieur aux limites de l’obligation d’assurance conformément à la loi applicable à l’accident et est remboursé dans un délai de six mois à compter de la réception de la demande, sauf si le FIAA et l’organisme équivalent de l’autre État membre en conviennent autrement. Le remboursement des frais administratifs se fait selon les modalités des accords visés à l’article 10 bis , paragraphe 13, et à l’article 25 bis , paragraphe 13, de la directive 2009/103/CE ;
+- de rembourser intégralement le montant versé à titre d’indemnisation par tout organisme équivalent d’un autre État membre pour des dommages matériels ou corporels causés par un véhicule assuré par une entreprise adhérente. Ce montant ne peut pas être supérieur aux limites de l’obligation d’assurance conformément à la loi applicable à l’accident et est remboursé dans un délai de six mois à compter de la réception de la demande, sauf si le FIAA et l’organisme équivalent de l’autre État membre en conviennent autrement. Le remboursement des frais administratifs se fait selon les modalités des accords visés à l’article 10bis, paragraphe 13, et à l’article 25bis, paragraphe 13, de la directive 2009/103/CE ;
 
-- de négocier et de conclure des accords conformément à l’article 10 bis , paragraphe 13, et l’article 25 bis , paragraphe 13, de la directive 2009/103/CE , en ce qui concerne les fonctions et les obligations des organismes parties aux accords ainsi que les procédures de remboursement entre les parties ;
+- de négocier et de conclure des accords conformément à l’article 10bis, paragraphe 13, et l’article 25bis, paragraphe 13, de la directive 2009/103/CE, en ce qui concerne les fonctions et les obligations des organismes parties aux accords ainsi que les procédures de remboursement entre les parties ;
 
 - de collecter les contributions dues par les entreprises adhérentes et de gérer les moyens financiers visés à l’article 23-4.
 
@@ -372,11 +372,11 @@ Le FIAA a pour mission :
 
 - Le comité de direction nomme un réviseur d’entreprises agréé. Il est nommé pour une période de trois années. Sa nomination est renouvelable. Sa rémunération est à charge du FIAA. Le réviseur d’entreprises agréé a pour mission de vérifier et de certifier les comptes du FIAA. Il dresse, à l’intention du comité de direction et du Gouvernement un rapport détaillé sur les comptes du FIAA à la clôture de l’exercice financier. Il peut être chargé par le comité de direction de procéder à des vérifications spécifiques. L’exercice financier du FIAA coïncide avec l’année civile.
 
-- Toutes les personnes appelées à recevoir ou à donner des informations dans le cadre des missions incombant au FIAA prévues à l’article 23-2, sont tenues au secret professionnel, selon les règles et conditions prévues par l’article 7, alinéa 1 er , de la loi modifiée du 7 décembre 2015 sur le secteur des assurances. En dehors des communications que le FIAA décide de rendre officielles, les membres du FIAA, leurs suppléants et toute autre personne appelée à assister aux réunions du FIAA sont tenus au secret des délibérations.
+- Toutes les personnes appelées à recevoir ou à donner des informations dans le cadre des missions incombant au FIAA prévues à l’article 23-2, sont tenues au secret professionnel, selon les règles et conditions prévues par l’article 7, alinéa 1er, de la loi modifiée du 7 décembre 2015 sur le secteur des assurances. En dehors des communications que le FIAA décide de rendre officielles, les membres du FIAA, leurs suppléants et toute autre personne appelée à assister aux réunions du FIAA sont tenus au secret des délibérations.
 
 - Le comité de direction se dote d’un règlement d’ordre intérieur soumis à l’approbation du ministre ayant le secteur des assurances dans ses attributions. Le comité de direction tient compte, pour les décisions prises conformément à la présente partie, de l’incidence potentielle des décisions sur la stabilité financière.
 
-- Le FIAA ne peut être engagé que par la signature conjointe des membres visés au paragraphe 1 er , lettres a) et b), en leur qualité de membre du comité de direction.
+- Le FIAA ne peut être engagé que par la signature conjointe des membres visés au paragraphe 1er, lettres a) et b), en leur qualité de membre du comité de direction.
 
 - Un membre qui, dans l’exercice de ses fonctions est amené à se prononcer sur une affaire dans laquelle il peut avoir un intérêt personnel, direct ou indirect, de nature à compromettre son indépendance, en informe le comité de direction du FIAA et ne prend part ni à la délibération, ni à la décision en question. Pour que la responsabilité civile du FIAA pour des dommages individuels puisse être engagée, il doit être prouvé que le dommage a été causé par une négligence grave dans le choix et l’application des moyens mis en œuvre pour l’accomplissement de la mission de service public du FIAA. L’alinéa 2 s’applique également aux membres du comité de direction, qui ne sont responsables que collectivement, lorsque ces derniers exercent une mission de service public en représentant le FIAA.
 
@@ -412,7 +412,7 @@ Dans le cadre de ses missions visées à l’article 23-2, lettres a) et b), le 
 
 - informe, après avoir été informé par le CAA, tout organisme d’un autre État membre équivalent du FIAA, ainsi que le FGA et tout organisme d’un autre État membre équivalent du FGA, de toute décision prise par le tribunal d’arrondissement siégeant en matière commerciale concernant une procédure telle que visée à l’article 23-2, lettre a), point i), à l’encontre d’une entreprise adhérente ;
 
-- coopère en temps utile et à tout moment avec les organismes visés sous le point 1, les entreprises d’assurances faisant l’objet d’une procédure visée à l’article 23-2, lettre a), points i) et ii), leurs représentants chargés du règlement des sinistres, leurs administrateurs ou liquidateurs tels que définis respectivement à l’article 268, paragraphe 1 er , lettres e) et f), de la directive 2009/138/CE , et les autorités nationales compétentes impliquées.
+- coopère en temps utile et à tout moment avec les organismes visés sous le point 1, les entreprises d’assurances faisant l’objet d’une procédure visée à l’article 23-2, lettre a), points i) et ii), leurs représentants chargés du règlement des sinistres, leurs administrateurs ou liquidateurs tels que définis respectivement à l’article 268, paragraphe 1er, lettres e) et f), de la directive 2009/138/CE, et les autorités nationales compétentes impliquées.
 
 <a id="art-23-6"></a>
 ## Art. 23-6
@@ -445,13 +445,13 @@ Dans le cadre de ses missions visées à l’article 23-2, lettres a) et b), le 
 
 - Dès réception d’une demande d’indemnisation de la personne lésée, le FIAA informe :
 
-  - l’organisme équivalent du FIAA de l’État membre d’origine de l’entreprise d’assurances concernée faisant l’objet d’une procédure de faillite ou d’une procédure de liquidation au sens de l’article 268, paragraphe 1 er , lettre d), de la directive 2009/138/CE ;
+  - l’organisme équivalent du FIAA de l’État membre d’origine de l’entreprise d’assurances concernée faisant l’objet d’une procédure de faillite ou d’une procédure de liquidation au sens de l’article 268, paragraphe 1er, lettre d), de la directive 2009/138/CE ;
 
   - l’entreprise d’assurances concernée, ou son administrateur ou liquidateur ; et le cas échéant
 
   - le FGA, dans son rôle d’organisme d’information selon l’article 23 de la directive 2009/103/CE et tout organisme équivalent de l’État membre d’origine de l’entreprise d’assurances concernée.
 
-- Le FIAA présente à la personne lésée dans un délai de trois mois à compter de la date à laquelle cette dernière a présenté une demande d’indemnisation telle que visée au paragraphe 1 er : La décision relative à l’indemnisation peut faire l’objet d’un recours par voie de réclamation auprès du FIAA. La réclamation, dûment motivée, est introduite par écrit auprès du FIAA dans un délai de trois mois à compter de la notification de la décision du FIAA. En cas de rejet total ou partiel de la réclamation, un recours en réformation contre la décision du FIAA peut être introduit devant le tribunal administratif endéans trois mois à compter de la notification de la décision du FIAA.
+- Le FIAA présente à la personne lésée dans un délai de trois mois à compter de la date à laquelle cette dernière a présenté une demande d’indemnisation telle que visée au paragraphe 1er : La décision relative à l’indemnisation peut faire l’objet d’un recours par voie de réclamation auprès du FIAA. La réclamation, dûment motivée, est introduite par écrit auprès du FIAA dans un délai de trois mois à compter de la notification de la décision du FIAA. En cas de rejet total ou partiel de la réclamation, un recours en réformation contre la décision du FIAA peut être introduit devant le tribunal administratif endéans trois mois à compter de la notification de la décision du FIAA.
 
   - soit une offre d’indemnisation motivée, dans le cas où la responsabilité n’est pas contestée et où le dommage a été quantifié partiellement ou entièrement ;
 
@@ -461,7 +461,7 @@ Dans le cadre de ses missions visées à l’article 23-2, lettres a) et b), le 
 
 - La personne lésée qui est en droit d’être indemnisée des suites d’un accident par un organisme de la sécurité sociale ou par son employeur, en vertu de dispositions légales, ne peut faire valoir de prétentions à l’égard du FIAA que dans la mesure où ses droits contre l’auteur responsable ne passent pas à l’organisme de la sécurité sociale en question ou à l’employeur. Les organismes de la sécurité sociale et les employeurs ne peuvent exercer de recours contre le FIAA, ni contre la personne responsable de l’accident. Si, en vertu d’une assurance dommage ou de responsabilité, des indemnités sont allouées à la personne lésée, le FIAA n’est tenu qu’au paiement de la différence entre le montant total du dommage et les indemnités allouées. Les assureurs dommages ou de responsabilité n’ont aucun droit de subrogation contre le FIAA pour le dommage qu’ils ont pris en charge.
 
-- Toute demande d’indemnisation visée au paragraphe 1 er devant donner lieu à l’intervention du FIAA conformément à l’article 23-2, lettre a), point i), parvient au FIAA dans les trois ans suivant l’ouverture de la procédure visée à l’article 23-2, lettre a), point i), sous peine de forclusion, à moins que la personne lésée ne prouve qu’elle a été dans l’impossibilité physique ou morale de faire la demande d’indemnisation dans le délai prescrit. Toute action récursoire du FIAA sera prescrite après trois ans à compter du règlement effectué par le FIAA conformément à la présente loi. Dans les affaires portées devant les juridictions répressives, le ministère public est tenu d’informer le FIAA de l’ouverture de l’instruction, de l’inviter à prendre inspection des dossiers dès la clôture de l’instruction et de lui faire tenir une copie de la citation à l’audience notifiée aux prévenus.
+- Toute demande d’indemnisation visée au paragraphe 1er devant donner lieu à l’intervention du FIAA conformément à l’article 23-2, lettre a), point i), parvient au FIAA dans les trois ans suivant l’ouverture de la procédure visée à l’article 23-2, lettre a), point i), sous peine de forclusion, à moins que la personne lésée ne prouve qu’elle a été dans l’impossibilité physique ou morale de faire la demande d’indemnisation dans le délai prescrit. Toute action récursoire du FIAA sera prescrite après trois ans à compter du règlement effectué par le FIAA conformément à la présente loi. Dans les affaires portées devant les juridictions répressives, le ministère public est tenu d’informer le FIAA de l’ouverture de l’instruction, de l’inviter à prendre inspection des dossiers dès la clôture de l’instruction et de lui faire tenir une copie de la citation à l’audience notifiée aux prévenus.
 
 <a id="art-23-7"></a>
 ## Art. 23-7
@@ -491,7 +491,7 @@ Si une entreprise d’assurances de droit luxembourgeois refuse d’adhérer au 
 <a id="art-24"></a>
 ## Art. 24.-
 
-- Toutes les entreprises d'assurances autorisées telles que définies à l'article 1 er littera e) sont obligatoirement réunies dans un Bureau, qui a pour mission de régler les dommages causés au Grand-Duché de Luxembourg par des véhicules visés à l’article 2 point 2.
+- Toutes les entreprises d'assurances autorisées telles que définies à l'article 1er littera e) sont obligatoirement réunies dans un Bureau, qui a pour mission de régler les dommages causés au Grand-Duché de Luxembourg par des véhicules visés à l’article 2 point 2.
 
 - Un règlement grand-ducal détermine les conditions de fonctionnement du Bureau.
 
@@ -511,7 +511,7 @@ Si une entreprise d’assurances de droit luxembourgeois refuse d’adhérer au 
 <a id="art-26"></a>
 ## Art. 26.-
 
-- Il est créé un organisme dénommé "le pool des risques aggravés" ayant pour objet la répartition parmi toutes les entreprises d’assurances autorisées des risques jugés trop graves pour être supportés par une seule d'entre elles. Toutes les entreprises d'assurances autorisées telles que définies à l'article 1 er littera e) y adhèrent obligatoirement. Les modalités de fonctionnement de cet organisme sont fixées par règlement grand-ducal.
+- Il est créé un organisme dénommé "le pool des risques aggravés" ayant pour objet la répartition parmi toutes les entreprises d’assurances autorisées des risques jugés trop graves pour être supportés par une seule d'entre elles. Toutes les entreprises d'assurances autorisées telles que définies à l'article 1er littera e) y adhèrent obligatoirement. Les modalités de fonctionnement de cet organisme sont fixées par règlement grand-ducal.
 
 - Le pool des risques aggravés est soumis à la surveillance du Gouvernement par l'intermédiaire d'un commissaire de gouvernement désigné à cette fin.
 
@@ -557,7 +557,7 @@ Les spécifications relatives à la communication précitée ainsi que les donn�
 
 L'organisation de courses ou de concours de vitesse, de régularité ou d'adresse au moyen de véhicules est soumise à une autorisation par le Gouvernement, qui a pour mission de constater :
 
-- qu’une assurance spéciale, répondant aux dispositions de la présente loi, couvrant la responsabilité civile des organisateurs et des personnes visées à l’article 5, paragraphe 1 er , a été souscrite
+- qu’une assurance spéciale, répondant aux dispositions de la présente loi, couvrant la responsabilité civile des organisateurs et des personnes visées à l’article 5, paragraphe 1er, a été souscrite
 
 - que la course, le concours de vitesse, de régularité ou d’adresse au moyen de véhicules a lieu dans un espace bien délimité et à accès restreint.
 

@@ -1435,7 +1435,7 @@ Est un enfant à charge :
 
 - l’enfant pour lequel un membre de la communauté domestique perçoit des allocations familiales, qui habite avec la communauté domestique dans le logement et qui y est déclaré ; ou
 
-- l’enfant jusqu’à l’âge de 27 ans, qui bénéficie de la protection liée à l’affiliation à l’assurance-maladie d’un membre de la communauté domestique soit au titre de l’article 7 du Code de la sécurité sociale , soit au titre de la législation d’un État avec lequel le Luxembourg est lié par un instrument bi- ou multilatéral de sécurité sociale, soit au titre d’un régime d’assurance-maladie en raison d’une activité au service d’un organisme international, qui habite avec la communauté domestique dans le logement et qui y est déclaré. Il en est de même si cet enfant bénéficie d’une rente d’orphelin à l’exclusion de tout autre revenu.
+- l’enfant jusqu’à l’âge de 27 ans, qui bénéficie de la protection liée à l’affiliation à l’assurance-maladie d’un membre de la communauté domestique soit au titre de l’article 7 du Code de la sécurité sociale, soit au titre de la législation d’un État avec lequel le Luxembourg est lié par un instrument bi- ou multilatéral de sécurité sociale, soit au titre d’un régime d’assurance-maladie en raison d’une activité au service d’un organisme international, qui habite avec la communauté domestique dans le logement et qui y est déclaré. Il en est de même si cet enfant bénéficie d’une rente d’orphelin à l’exclusion de tout autre revenu.
 
 (4)
 
@@ -1662,7 +1662,7 @@ En cas de relogement visé à l’alinéa 1er, point 1°, l’alinéa 4 n’est 
 
 Sur demande du locataire, le bailleur social peut proposer un relogement :
 
-- au locataire occupant un logement dont la typologie ne correspond pas à la composition de sa communauté domestique au sens de l’article 58, alinéa 1 er , point 1° ;
+- au locataire occupant un logement dont la typologie ne correspond pas à la composition de sa communauté domestique au sens de l’article 58, alinéa 1er, point 1° ;
 
 - au locataire en cas de changements concernant sa communauté domestique, l’état de santé ou la situation professionnelle ou scolaire d’un des membres de sa communauté domestique, ou en cas d’autres motifs graves et légitimes.
 
@@ -1847,7 +1847,7 @@ Dans ce cas, le ministre peut, afin de contrôler si les conditions d’attribut
 
   - les données techniques du logement ;
 
-- au Centre commun de la sécurité sociale sur la base de l’article 413 du Code de la sécurité sociale , la transmission des données suivantes :
+- au Centre commun de la sécurité sociale sur la base de l’article 413 du Code de la sécurité sociale, la transmission des données suivantes :
 
   - le nom, les prénoms, le numéro d’identification national et l’adresse ;
 
@@ -2020,15 +2020,19 @@ Modification de la loi modifiée du 25 mars 2020 portant création du Fonds spé
 
 La loi modifiée du 25 mars 2020 portant création du Fonds spécial de soutien au développement du logement est modifiée comme suit :
 
-- À l’article 1 er , alinéa 1 er , les termes Fonds spécial de soutien au développement du logement sont remplacés par ceux de Fonds spécial pour le logement abordable .
+- À l’article 1er, alinéa 1er, les termes Fonds spécial de soutien au développement du logement sont remplacés par ceux de Fonds spécial pour le logement abordable.
 
-- L’article 2, point 1°, est remplacé comme suit : « 1° la réalisation de logements abordables au sens de la loi du 7 août 2023 relative au logement abordable ; ».
+- L’article 2, point 1°, est remplacé comme suit :
+
+« 1° la réalisation de logements abordables au sens de la loi du 7 août 2023 relative au logement abordable ; ».
 
 - L’article 3 est modifié comme suit :
 
   - Au point 14°, le point final est remplacé par un point-virgule ;
 
-  - Il est ajouté un point 15° nouveau qui prend la teneur suivante : la réalisation de mesures permettant l’inclusion citoyenne dans le processus de planification de réalisation de logements abordables. »
+  - Il est ajouté un point 15° nouveau qui prend la teneur suivante :
+
+- la réalisation de mesures permettant l’inclusion citoyenne dans le processus de planification de réalisation de logements abordables. »
 
 <a id="art-86"></a>
 ## Art. 86.

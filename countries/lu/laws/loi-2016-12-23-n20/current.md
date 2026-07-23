@@ -69,7 +69,7 @@ Définitions
 
 Pour l’application de la présente loi, l’on entend par:
 
-- «demandeur»: la ou les personnes qui introduisent et signent une demande en obtention d’une aide visée par la présente loi et qui réunissent dans leur chef la pleine et entière propriété du logement ou des installations techniques, sauf s’il est établi que le nouveau propriétaire du logement et/ou des installations techniques renonce à l’aide en question au profit du demandeur qui a réalisé les investissements visés par la présente loi . Dans le cas d’un immeuble soumis au statut de la copropriété, le syndic ou toute autre personne expressément mandatée pour le faire introduit la demande en exécution d’une décision de l’assemblée générale des copropriétaires prise conformément à la loi modifiée du 16 mai 1975 portant statut de la copropriété des immeubles bâtis. Est considéré comme demandeur, le copropriétaire qui a été autorisé par l’assemblée générale des copropriétaires à monter à ses frais les installations sur la partie commune ;
+- «demandeur»: la ou les personnes qui introduisent et signent une demande en obtention d’une aide visée par la présente loi et qui réunissent dans leur chef la pleine et entière propriété du logement ou des installations techniques, sauf s’il est établi que le nouveau propriétaire du logement et/ou des installations techniques renonce à l’aide en question au profit du demandeur qui a réalisé les investissements visés par la présente loi. Dans le cas d’un immeuble soumis au statut de la copropriété, le syndic ou toute autre personne expressément mandatée pour le faire introduit la demande en exécution d’une décision de l’assemblée générale des copropriétaires prise conformément à la loi modifiée du 16 mai 1975 portant statut de la copropriété des immeubles bâtis. Est considéré comme demandeur, le copropriétaire qui a été autorisé par l’assemblée générale des copropriétaires à monter à ses frais les installations sur la partie commune ;
 
 - «bénéficiaire»: le demandeur auquel une aide a été accordée;
 
@@ -180,7 +180,7 @@ Le ministre est autorisé à accorder des aides financières pour la mise en pla
 
 - une chaudière à bois et un filtre à particules ;
 
-- un réseau de chaleur et raccordement à un réseau de chaleur ;
+- un réseau de chaleur et raccordement à un réseau de chaleur;
 
 - une installation de stockage.
 
@@ -242,7 +242,7 @@ Toutefois:
 
 - 1bis. le bonus financier repris au point 1 peut être porté à 50 pour cent des aides financières pour une chaudière à bois ou pour une pompe à chaleur visées à l’alinéa 2 lorsque les conditions suivantes sont simultanément remplies :
 
-  - la date de commande se situe à partir du 1 er novembre 2022 ;
+  - la date de commande se situe à partir du 1er novembre 2022 ;
 
   - la facture est établie au plus tard le 31 décembre 2025. Ce délai est prolongé jusqu’au 31 décembre 2029 inclus sous condition que les investissements en question soient réalisés conjointement avec l’assainissement énergétique d’un bâtiment existant visé à l’article 4.
 
@@ -316,15 +316,15 @@ Dans le cadre de l’instruction des demandes en obtention des aides financière
 
 - aux données du Registre national des personnes physiques en vue de vérifier l’exactitude des données fournies sur les demandeurs concernés ;
 
-- aux données de la base de données du ministre ayant l’Économie dans ses attributions relative aux aides financières accordées en vertu de la loi du 19 décembre 2025 introduisant une procédure de préfinancement pour les installations solaires photovoltaïques, en vue de vérifier le respect de l’article 7 bis ;
+- aux données de la base de données du ministre ayant l’Économie dans ses attributions relative aux aides financières accordées en vertu de la loi du 19 décembre 2025 introduisant une procédure de préfinancement pour les installations solaires photovoltaïques, en vue de vérifier le respect de l’article 7bis ;
 
-- aux données du registre des installateurs admis à la procédure de préfinancement visé à l’article 4, de la loi précitée du 19 décembre 2025 , afin d’évaluer s’il y a lieu de réexaminer les demandes contenant des fiches annexes validées par un installateur radié en vertu de l’article 4, paragraphe 5, de cette même loi ou dont un des dirigeants a été lié à un installateur radié en vertu de cette même disposition ;
+- aux données du registre des installateurs admis à la procédure de préfinancement visé à l’article 4, de la loi précitée du 19 décembre 2025, afin d’évaluer s’il y a lieu de réexaminer les demandes contenant des fiches annexes validées par un installateur radié en vertu de l’article 4, paragraphe 5, de cette même loi ou dont un des dirigeants a été lié à un installateur radié en vertu de cette même disposition ;
 
 - aux données du Registre des bénéficiaires effectifs afin d’évaluer s’il y a lieu de réexaminer les demandes contenant des fiches annexes validées par un installateur dont un des actionnaires a été lié à un installateur radié en vertu de l’article 4, paragraphe 5, de la loi précitée du 19 décembre 2025 ;
 
-- aux données détenues par les gestionnaires des réseaux électriques relatives à la production d’électricité des points de raccordement des demandeurs et bénéficiaires pour les trois dernières années avant le dépôt de la demande ainsi que les trois années après la notification de la décision d’octroi de l’aide en vue de vérifier que des installations telles que prévues à l’article 5, paragraphe 1 er , point 1, sont opérationnelles ;
+- aux données détenues par les gestionnaires des réseaux électriques relatives à la production d’électricité des points de raccordement des demandeurs et bénéficiaires pour les trois dernières années avant le dépôt de la demande ainsi que les trois années après la notification de la décision d’octroi de l’aide en vue de vérifier que des installations telles que prévues à l’article 5, paragraphe 1er, point 1, sont opérationnelles ;
 
-- aux données du registre national des centrales de production visées à l’article 17, paragraphes 1 er et 1 bis , de la loi modifiée du 1er août 2007 relative à l’organisation du marché de l’électricité, en vue de vérifier si la déclaration de fin de travaux a été notifiée au gestionnaire du réseau concerné.
+- aux données du registre national des centrales de production visées à l’article 17, paragraphes 1er et 1bis, de la loi modifiée du 1er août 2007 relative à l’organisation du marché de l’électricité, en vue de vérifier si la déclaration de fin de travaux a été notifiée au gestionnaire du réseau concerné.
 
 (2)
 

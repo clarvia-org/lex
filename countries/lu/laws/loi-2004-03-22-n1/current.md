@@ -247,7 +247,7 @@ Les organismes de titrisation qui émettent en continu, au sens de la présente 
 
 Une émission d’instruments financiers offerts au public, au sens de la présente loi, est une émission :
 
-- qui n’est pas destinée à des clients professionnels au sens de l’article 1 er , point 5, de la loi modifiée du 5 avril 1993 relative au secteur financier ;
+- qui n’est pas destinée à des clients professionnels au sens de l’article 1er, point 5, de la loi modifiée du 5 avril 1993 relative au secteur financier ;
 
 - dont les coupures sont inférieures à 100.000 euros ; et
 
@@ -1029,9 +1029,13 @@ La loi modifiée du 4 décembre 1967 relative à l’impôt sur le revenu est mo
 
 - L’article 46 est complété par l’ajout d’un numéro 14 libellé comme suit: «14. les engagements assumés vis-à-vis des investisseurs et de tout autre créancier par une société de titrisation.»
 
-- L’article 97 est complété par l’ajout d’un alinéa 6 libellé comme suit: «(6) Les distributions et autres produits alloués aux investisseurs et autres créanciers d’un organisme de titrisation constituent des revenus provenant de capitaux mobiliers au sens de l’alinéa 1 er numéro 5 du présent article.»
+- L’article 97 est complété par l’ajout d’un alinéa 6 libellé comme suit: «(6) Les distributions et autres produits alloués aux investisseurs et autres créanciers d’un organisme de titrisation constituent des revenus provenant de capitaux mobiliers au sens de l’alinéa 1er numéro 5 du présent article.»
 
-- L’article 164bis est complété par l’insertion après l’alinéa 4 d’un nouvel alinéa 5 libellé comme suit: «(5) Les organismes de titrisation sont exclus du champ d’application du présent article.» Les autres alinéas sont renumérotés en conséquence.
+- L’article 164bis est complété par l’insertion après l’alinéa 4 d’un nouvel alinéa 5 libellé comme suit:
+
+«(5)
+
+Les organismes de titrisation sont exclus du champ d’application du présent article.» Les autres alinéas sont renumérotés en conséquence.
 
 <a id="art-90"></a>
 ## Art. 90.

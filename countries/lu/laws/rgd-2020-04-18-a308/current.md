@@ -35,7 +35,7 @@ Les emprunts autorisés par la loi peuvent être émis par le Ministre ayant les
 
 - instruments négociables admis sur un marché réglementé ou sur un système multilatéral de négociation , tels que notamment des emprunts obligataires ou certificats de trésorerie ;
 
-- instruments non négociables , tels que notamment des prêts ou lignes de crédit en compte contractés auprès d’un professionnel du secteur financier ou d’une institution internationale , tels que notamment des prêts ou lignes de crédit en compte .
+- instruments non négociables, tels que notamment des prêts ou lignes de crédit en compte contractés auprès d’un professionnel du secteur financier ou d’une institution internationale , tels que notamment des prêts ou lignes de crédit en compte .
 
 <a id="art-2"></a>
 ## Art. 2.

@@ -41,7 +41,7 @@ La Commission d'Harmonisation, ci-après appelée « la commission », prévue p
 
 - de faire des recommandations en vue d'une coordination et d'une planification des différentes activités pour lesquelles l'État accorde une participation financière ;
 
-- d'étudier, soit de sa propre initiative, soit à la demande du Gouvernement toute question se rapportant aux activités visées à l'art. 1 er de la loi du 8.9.1998 précitée ;
+- d'étudier, soit de sa propre initiative, soit à la demande du Gouvernement toute question se rapportant aux activités visées à l'art. 1er de la loi du 8.9.1998 précitée ;
 
 se compose de 20 membres effectifs et de 20 membres suppléants, dont 10 membres représentant l'État et 10 membres représentant les personnes physiques et morales ayant signé une convention avec l'État conformément aux dispositions de l'article 11 de la loi du 8.9.1998 précitée.
 

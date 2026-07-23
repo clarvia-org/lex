@@ -60,7 +60,7 @@ La présente loi n’est pas applicable:
 
 - aux amorces à percussion conçues spécialement pour des jouets relevant du champ d’application de la loi modifiée du 15 décembre 2010 relative à la sécurité des jouets;
 
-- aux explosifs relevant du champ d’application du règlement grand-ducal modifié du 24 novembre 2005 relatif à la mise sur le marché et le contrôle des explosifs à usage civil, adopté selon la procédure prévue par la loi précitée du 9 août 1971 ;
+- aux explosifs relevant du champ d’application du règlement grand-ducal modifié du 24 novembre 2005 relatif à la mise sur le marché et le contrôle des explosifs à usage civil, adopté selon la procédure prévue par la loi précitée du 9 août 1971;
 
 - aux munitions;
 
@@ -101,7 +101,7 @@ Aux fins de la présente loi, on entend par:
 
 - munitions: des projectiles, charges propulsives et munitions à blanc utilisés dans les armes à feu portatives, dans d’autres armes à feu et dans l’artillerie;
 
-- norme harmonisée: une norme harmonisée au sens de l’article 2, point 1), point c), du règlement (UE) n° 1025/2012 du Parlement européen et du Conseil du 25 octobre 2012 relatif à la normalisation européenne modifiant les directives 89/686/CEE et 93/15/CEE du Conseil ainsi que les directives 94/9/CE , 94/25/CE , 95/16/CE , 97/23/CE , 98/34/CE , 2004/22/CE , 2007/23/CE , 2009/23/CE et 2009/105/CE du Parlement européen et du Conseil et abrogeant la décision 87/95/CEE du Conseil et la décision n° 1673/2006/CE du Parlement européen et du Conseil;
+- norme harmonisée: une norme harmonisée au sens de l’article 2, point 1), point c), du règlement (UE) n° 1025/2012 du Parlement européen et du Conseil du 25 octobre 2012 relatif à la normalisation européenne modifiant les directives 89/686/CEE et 93/15/CEE du Conseil ainsi que les directives 94/9/CE, 94/25/CE, 95/16/CE, 97/23/CE, 98/34/CE, 2004/22/CE, 2007/23/CE, 2009/23/CE et 2009/105/CE du Parlement européen et du Conseil et abrogeant la décision 87/95/CEE du Conseil et la décision n° 1673/2006/CE du Parlement européen et du Conseil;
 
 - opérateurs économiques: le fabricant, l’importateur et le distributeur;
 

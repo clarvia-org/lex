@@ -51,7 +51,7 @@ Le Ministre accorde les concessions, assorties des cahiers des charges, au nom d
 <a id="art-5"></a>
 ## Art. 5.
 
-- Les cahiers des charges assortis aux concessions seront conformes à l'article 21 de la loi .
+- Les cahiers des charges assortis aux concessions seront conformes à l'article 21 de la loi.
 
 - Si la concession porte sur plusieurs services , le cahier des charges pourra comprendre des dispositions communes concernant tous les services et des dispositions particulières concernant chacun des services visés par la concession.
 

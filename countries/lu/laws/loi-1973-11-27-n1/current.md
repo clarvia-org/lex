@@ -41,7 +41,7 @@ Pour l'établissement, l'entretien et l'exploitation des canalisations et de tou
 
 La société aura le droit:
 
-- d'installer les canalisations de gaz dans des terrains privés, non bâtis, qui ne sont pas entourés de murs ou d'autres clôtures équivalentes ;
+- d'installer les canalisations de gaz dans des terrains privés, non bâtis, qui ne sont pas entourés de murs ou d'autres clôtures équivalentes;
 
 - d'assurer la surveillance des canalisations;
 

@@ -142,7 +142,7 @@ Pour l’exécution du présent règlement il est tenu au greffe de chaque justi
 
 - les décisions du juge de paix et les recours exercés contre elles ainsi que les décisions intervenues sur ces recours;
 
-- la mention de la transmission du dossier de la saisie-arrêt au greffe d’une autre justice de paix en conformité de l’alinéa 2 de l’article 9 de la loi du 11 novembre 1970 ;
+- la mention de la transmission du dossier de la saisie-arrêt au greffe d’une autre justice de paix en conformité de l’alinéa 2 de l’article 9 de la loi du 11 novembre 1970;
 
 - la date de la radiation ou de la demande tendant au maintien de la saisie.
 

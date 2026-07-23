@@ -471,7 +471,7 @@ Le prestataire de services de confiance ou le prestataire de services de confian
 
 - l’ILNAS retire le statut qualifié au prestataire de services de confiance qualifié ou au service de confiance qualifié sous lequel le certificat a été émis, sauf dérogation de l’ILNAS ;
 
-- l’ILNAS demande la révocation du certificat qualifié pour non-respect des exigences de la présente loi ou du règlement (UE) n° 910/2014 .
+- l’ILNAS demande la révocation du certificat qualifié pour non-respect des exigences de la présente loi ou du règlement (UE) n° 910/2014.
 
 (3)
 
@@ -652,7 +652,7 @@ Le prestataire de services de confiance qualifié peut transférer à un autre p
 
 - Le prestataire de services de confiance qualifié transmet toutes les informations visées à l’article 24, paragraphe 2, lettre h), du règlement (UE) n° 910/2014 au prestataire de services de confiance qualifié auquel il est envisagé de transférer les certificats qualifiés ;
 
-- Le prestataire de services de confiance qualifié transmet au prestataire de services de confiance qualifié, qui reprend tout ou partie de son activité, tous ses propres certificats en relation avec les données indiquées aux articles 33, paragraphe 1 er , lettre b), et 42, paragraphe 1 er , lettre c), du règlement (UE) n° 910/2014 ainsi qu’aux annexes I, lettre g), III, lettre g), et IV, lettre h), du même règlement .
+- Le prestataire de services de confiance qualifié transmet au prestataire de services de confiance qualifié, qui reprend tout ou partie de son activité, tous ses propres certificats en relation avec les données indiquées aux articles 33, paragraphe 1er, lettre b), et 42, paragraphe 1er, lettre c), du règlement (UE) n° 910/2014 ainsi qu’aux annexes I, lettre g), III, lettre g), et IV, lettre h), du même règlement.
 
 (3)
 
@@ -705,9 +705,9 @@ L’ILNAS peut infliger une amende de 250 euros à 15.000 euros à tout prestata
 
 - enfreint les dispositions concernant l’utilisation du label de confiance de l’Union européenne de l’article 23 du règlement (UE) n° 910/2014 et du règlement d’exécution (UE) 2015/806 de la Commission du 22 mai 2015 établissant les spécifications relatives à la forme du label de confiance de l’Union pour les services de confiance qualifiés ;
 
-- ne respecte pas les méthodes d’identification et les exigences minimales définies en vertu de l’article 29 bis , paragraphe 1 er ;
+- ne respecte pas les méthodes d’identification et les exigences minimales définies en vertu de l’article 29bis, paragraphe 1er ;
 
-- ne transmet pas à l’ILNAS le rapport d’évaluation de la conformité prévu à l’article 20, paragraphe 1 er , du règlement (UE) n° 910/2014 .
+- ne transmet pas à l’ILNAS le rapport d’évaluation de la conformité prévu à l’article 20, paragraphe 1er, du règlement (UE) n° 910/2014.
 
 (2)
 
@@ -827,15 +827,15 @@ Sont punis d’une amende de 251 euros jusqu’à 25.000 euros ceux qui offrent 
 
 Est puni d’une amende de 251 euros à 25.000 euros, d’une peine d’emprisonnement de huit jours à six mois ou d’une de ces peines seulement :
 
-- tout prestataire de services de confiance qualifié qui ne s’est pas conformé à l’obligation d’information préalable telle que prévue par l’article 32, paragraphe 1 er ;
+- tout prestataire de services de confiance qualifié qui ne s’est pas conformé à l’obligation d’information préalable telle que prévue par l’article 32, paragraphe 1er ;
 
 - tout prestataire de services de confiance qualifié qui ne s’est pas conformé aux exigences concernant le transfert des certificats qualifiés telles que prévues par l’article 32, paragraphe 2 ;
 
-- tout prestataire de services de confiance qualifié qui ne s’est pas conformé aux obligations de se soumettre aux audits prévus à l’article 20, paragraphes 1 er et 2, du règlement (UE) n° 910/2014 ;
+- tout prestataire de services de confiance qualifié qui ne s’est pas conformé aux obligations de se soumettre aux audits prévus à l’article 20, paragraphes 1er et 2, du règlement (UE) n° 910/2014 ;
 
-- tout prestataire de services de confiance qualifié qui ne s’est pas conformé aux exigences d’identification applicables pour l’émission d’un certificat qualifié conformément à l’article 24, paragraphe 1 er , du règlement (UE) n° 910/2014 ;
+- tout prestataire de services de confiance qualifié qui ne s’est pas conformé aux exigences d’identification applicables pour l’émission d’un certificat qualifié conformément à l’article 24, paragraphe 1er, du règlement (UE) n° 910/2014 ;
 
-- tout prestataire de services de confiance qualifié fournissant des services de confiance qualifiés qui ne s’est pas conformé aux exigences de l’article 24, paragraphe 2, du règlement (UE) n° 910/2014 .
+- tout prestataire de services de confiance qualifié fournissant des services de confiance qualifiés qui ne s’est pas conformé aux exigences de l’article 24, paragraphe 2, du règlement (UE) n° 910/2014.
 
 (3)
 
@@ -847,7 +847,7 @@ Est puni d’une amende de 251 euros à 500.000 euros et d’une peine d’empri
 
 - tout prestataire de services de confiance qualifié qui ne s’est pas conformé aux exigences de révocation d’un certificat qualifié conformément à l’article 24, paragraphe 3, du règlement (UE) n° 910/2014 ;
 
-- toute personne qui délivre des certificats qualifiés sans fournir des informations sur la validité ou le statut de révocation des certificats qualifiés conformément à l’article 24, paragraphe 4, du règlement (UE) n° 910/2014 .
+- toute personne qui délivre des certificats qualifiés sans fournir des informations sur la validité ou le statut de révocation des certificats qualifiés conformément à l’article 24, paragraphe 4, du règlement (UE) n° 910/2014.
 
 ### TITRE IV. DES COMMUNICATIONS COMMERCIALES
 

@@ -53,7 +53,7 @@ Le système de cartes de jeu électroniques mis en oeuvre doit remplir les condi
 
 - Le système des cartes de jeu électroniques est soutenu par un dispositif informatique comportant une composante de sauvegarde permettant de récupérer les données informatiques même en cas de dysfonctionnement du système informatique principal.
 
-- Le système des cartes de jeu électroniques enregistre toutes les opérations de jeu, effectuées sur chacun des appareils à sous muni de ce système, dont la comptabilisation est nécessaire pour la réalisation des écritures comptables et fiscales prévues au titre VI du règlement grand-ducal modifié du 12 février 1979 pris en exécution des articles 6 et 12 de la loi modifiée du 20 avril 1977 relative à l’exploitation des jeux de hasard et des paris relatifs aux épreuves sportives, ci-après désigné comme le « règlement grand-ducal du 12 février 1979 ».
+- Le système des cartes de jeu électroniques enregistre toutes les opérations de jeu, effectuées sur chacun des appareils à sous muni de ce système, dont la comptabilisation est nécessaire pour la réalisation des écritures comptables et fiscales prévues au titre VI du règlement grand-ducal modifié du 12 février 1979 pris en exécution des articles 6 et 12 de la loi modifiée du 20 avril 1977 relative à l’exploitation des jeux de hasard et des paris relatifs aux épreuves sportives, ci-après désigné comme le «règlement grand-ducal du 12 février 1979».
 
 <a id="art-3"></a>
 ## Art. 3.
@@ -76,11 +76,11 @@ Les dispositions du règlement grand-ducal du 12 février 1979 s’appliquent au
 
 - Le paiement du gain sur un appareil à sous visé à l’article 18-3 point 3 du même règlement peut également se faire par sa comptabilisation à l’aide d’une carte de jeu électronique.
 
-- Les appareils à sous munis du système de cartes de jeu électroniques peuvent être dépourvus de compteurs de pièces et de tokens au sens de l’article 18-3 point 5 du même règlement .
+- Les appareils à sous munis du système de cartes de jeu électroniques peuvent être dépourvus de compteurs de pièces et de tokens au sens de l’article 18-3 point 5 du même règlement.
 
-- Les appareils à sous munis du système de cartes de jeu électroniques peuvent être dépourvus de monnayeurs comparateurs visés à l’article 18-4 du même règlement .
+- Les appareils à sous munis du système de cartes de jeu électroniques peuvent être dépourvus de monnayeurs comparateurs visés à l’article 18-4 du même règlement.
 
-- Les appareils à sous munis du système de cartes de jeu électroniques peuvent être dépourvus des deux systèmes de réception des pièces de monnaie et des tokens visés à l’article 18-5 du même règlement .
+- Les appareils à sous munis du système de cartes de jeu électroniques peuvent être dépourvus des deux systèmes de réception des pièces de monnaie et des tokens visés à l’article 18-5 du même règlement.
 
 - L’article 18-10 du même règlement ne s’applique pas si les gains y visés ont été comptabilisés sur une carte de jeu électronique et ceci dans les limites maximales visées aux points 5) et 6) de l’article 2 du présent règlement.
 

@@ -615,7 +615,7 @@ Dispositions abrogatoires et finales
 
 Sont abrogés
 
-- l’ arrêté grand-ducal modifié du 27 octobre 1955 concernant les conditions d’admission et d’avancement aux différents grades des bureaux du Gouvernement
+- l’arrêté grand-ducal modifié du 27 octobre 1955 concernant les conditions d’admission et d’avancement aux différents grades des bureaux du Gouvernement
 
 - le règlement grand-ducal du 9 décembre 1965 fixant les conditions de promotion aux fonctions supérieures à celle de commis adjoint de l’administration gouvernementale
 

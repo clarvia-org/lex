@@ -89,7 +89,7 @@ Aux fins d’obtention de l’agrément, le requérant introduit une demande par
 
 - un certificat médical datant de moins de 30 jours attestant de l’aptitude physique et psychologique du requérant à exercer l’activité d’assistance parentale et de son remplaçant à exercer la prise en charge temporaire des enfants confiés à l’assistant parental ;
 
-- les attestations des formations requises pour l’exercice de l’activité d’assistance parentale , conformément à l’article 5 ;
+- les attestations des formations requises pour l’exercice de l’activité d’assistance parentale, conformément à l’article 5 ;
 
 - une attestation récente d’une formation de premier secours et
 
@@ -141,7 +141,7 @@ L’agrément d’assistant parental n’est accordé qu’aux personnes justifi
 
   - soit être détenteur d’une autorisation d’exercer une profession de santé au Grand-Duché de Luxembourg, délivrée par le ministre ayant la Santé dans ses attributions ou d’un diplôme dans le domaine de la santé destinant le titulaire à l’encadrement socio-éducatif professionnel d’enfants reconnu par le ministre compétent
 
-- avoir accompli la préformation définie à l’article 10 bis , ayant pour objet de préparer à l’exercice et à l’organisation de l’activité d’assistance parentale.
+- avoir accompli la préformation définie à l’article 10bis, ayant pour objet de préparer à l’exercice et à l’organisation de l’activité d’assistance parentale.
 
 - avoir la capacité de comprendre et de s’exprimer dans au moins une des trois langues prévues par la loi du 24 février 1984 sur le régime des langues.
 
@@ -154,7 +154,7 @@ Sans préjudice quant aux autres conditions applicables à l’exercice de l’a
 
 - disposer d’un certificat de réussite de cinq années d’enseignement secondaire ou d’un diplôme de fin d’études secondaires ou d’un diplôme universitaire qui ne prédispose pas à l’encadrement socio-éducatif professionnel des enfants ; et
 
-- avoir accompli la préformation définie à l’article 10 bis , ayant pour objet de préparer à l’exercice et à l’organisation de l’activité d’assistance parentale.
+- avoir accompli la préformation définie à l’article 10bis, ayant pour objet de préparer à l’exercice et à l’organisation de l’activité d’assistance parentale.
 
 Les personnes titulaires d’un agrément au sens du présent article doivent, avant son expiration, suivre avec succès la formation prévue à l’article 10.
 

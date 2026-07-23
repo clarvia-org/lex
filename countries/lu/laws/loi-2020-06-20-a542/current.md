@@ -147,7 +147,7 @@ Sans préjudice des procédures prévues aux articles 203, 221 et 222 du Code de
 
 - les demandes en mainlevée ou de modification des obligations du contrôle judiciaire prévues à l’article 111 du Code de procédure pénale ;
 
-- les demandes de mise en liberté provisoire prévues à l’article 116 du Code de procédure pénale , et
+- les demandes de mise en liberté provisoire prévues à l’article 116 du Code de procédure pénale, et
 
 - les demandes en mainlevée de saisie et d’interdictions de conduire provisoires prévues à l’article 14, paragraphe 5, de la loi modifiée du 14 février 1955 concernant la réglementation de la circulation sur toutes les voies publiques,
 

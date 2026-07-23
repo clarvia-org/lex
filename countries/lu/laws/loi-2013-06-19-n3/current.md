@@ -596,15 +596,15 @@ Sont inscrits sur le registre d’attente:
 
 - les personnes dont la réalité ou la continuité de la résidence habituelle déclarée est soumise à une vérification conformément à l’article 22, paragraphe 2;
 
-- les personnes inscrites au registre national par un responsable d’un fichier visé à l’article 1 er , paragraphe 1 er , lettre b) à une adresse établie dans une commune luxembourgeoise et qui n’ont pas encore effectué leur déclaration d’arrivée dans la commune de la résidence indiquée au registre national;
+- les personnes inscrites au registre national par un responsable d’un fichier visé à l’article 1er, paragraphe 1er, lettre b) à une adresse établie dans une commune luxembourgeoise et qui n’ont pas encore effectué leur déclaration d’arrivée dans la commune de la résidence indiquée au registre national;
 
-- les ressortissants de pays tiers qui font une déclaration d’arrivée pour un séjour jusqu’à trois mois en application de l’article 36 ou pour un séjour de plus de trois mois en application de l’article 40, paragraphe 1 er de la loi modifiée du 29 août 2008 sur la libre circulation des personnes et l’immigration;
+- les ressortissants de pays tiers qui font une déclaration d’arrivée pour un séjour jusqu’à trois mois en application de l’article 36 ou pour un séjour de plus de trois mois en application de l’article 40, paragraphe 1er de la loi modifiée du 29 août 2008 sur la libre circulation des personnes et l’immigration;
 
 - les ressortissants de pays tiers qui sont titulaires d’une attestation en cours de validité telle que prévue par les articles 6, paragraphe 5 ou 62 de la loi modifiée du 5 mai 2006 relative au droit d’asile et à des formes complémentaires de protection;
 
-- les étrangers qui ont reçu une décision de retour telle que visée à l’article 3, lettre h) de la loi modifiée du 29 août 2008 sur la libre circulation des personnes et l’immigration ou une décision d’éloignement telle que visée à l’article 27 de cette même loi ;
+- les étrangers qui ont reçu une décision de retour telle que visée à l’article 3, lettre h) de la loi modifiée du 29 août 2008 sur la libre circulation des personnes et l’immigration ou une décision d’éloignement telle que visée à l’article 27 de cette même loi;
 
-- les ressortissants de pays tiers bénéficiant ou bien d’une attestation leur permettant de demeurer sur le territoire luxembourgeois en vertu de l’article 93 de la loi modifiée du 29 août 2008 sur la libre circulation des personnes et l’immigration ou bien d’un sursis à l’éloignement en vertu de l’article 132 de cette loi ou bien d’une décision de report à l’éloignement en vertu de l’article 125 bis de cette loi ;
+- les ressortissants de pays tiers bénéficiant ou bien d’une attestation leur permettant de demeurer sur le territoire luxembourgeois en vertu de l’article 93 de la loi modifiée du 29 août 2008 sur la libre circulation des personnes et l’immigration ou bien d’un sursis à l’éloignement en vertu de l’article 132 de cette loi ou bien d’une décision de report à l’éloignement en vertu de l’article 125bis de cette loi;
 
 - les personnes trouvées ou abandonnées sur le territoire de la commune jusqu’à ce que leur situation soit clarifiée; et
 
@@ -682,7 +682,7 @@ La radiation du registre principal en faveur d’une inscription sur le registre
 
 - en cas de décision en faveur d’une inscription sur le registre d’attente prise par le bourgmestre ou l’agent délégué dans le cadre de l’article 22, paragraphe 2;
 
-- en cas de décision de retour telle que visée à l’article 3, lettre h) de la loi modifiée du 29 août 2008 sur la libre circulation des personnes et l’immigration ou de décision d’éloignement telle que visée à l’article 27 de cette même loi .
+- en cas de décision de retour telle que visée à l’article 3, lettre h) de la loi modifiée du 29 août 2008 sur la libre circulation des personnes et l’immigration ou de décision d’éloignement telle que visée à l’article 27 de cette même loi.
 
 (3)
 
@@ -692,9 +692,9 @@ La radiation du registre d’attente en faveur d’une inscription sur le regist
 
 - dans le cas prévu à l’article 27, paragraphe 2, alinéa 1 si les personnes concernées ont produit les documents, pièces ou données démontrant que les motifs ayant justifié leur inscription sur le registre d’attente n’existent plus;
 
-- en cas d’octroi d’une protection internationale aux ressortissants de pays tiers qui ont été titulaires d’une attestation telle que prévue par l’article 7, paragraphe 1 er de la loi du 18 décembre 2015 relative à la protection internationale et à la protection temporaire;
+- en cas d’octroi d’une protection internationale aux ressortissants de pays tiers qui ont été titulaires d’une attestation telle que prévue par l’article 7, paragraphe 1er de la loi du 18 décembre 2015 relative à la protection internationale et à la protection temporaire;
 
-- en cas d’octroi d’un titre de séjour délivré en vertu de la loi modifiée du 29 août 2008 sur la libre circulation des personnes et l’immigration aux ressortissants de pays tiers qui ont fait une déclaration d’arrivée pour un séjour de plus de trois mois en application de l’article 40, paragraphe 1 er de la loi modifiée du 29 août 2008 précitée.
+- en cas d’octroi d’un titre de séjour délivré en vertu de la loi modifiée du 29 août 2008 sur la libre circulation des personnes et l’immigration aux ressortissants de pays tiers qui ont fait une déclaration d’arrivée pour un séjour de plus de trois mois en application de l’article 40, paragraphe 1er de la loi modifiée du 29 août 2008 précitée.
 
 <a id="art-32"></a>
 ## Art. 32.
@@ -895,7 +895,9 @@ L’article 76, alinéa 1er de la loi communale modifiée du 13 décembre 1988 e
 
 - Le point 1° est supprimé.
 
-- Le point 2° est remplacé par un nouveau point 2° ayant la teneur suivante: la délivrance d’extraits du registre communal des personnes physiques et de certificats établis en tout ou en partie d’après ce registre;».
+- Le point 2° est remplacé par un nouveau point 2° ayant la teneur suivante:
+
+- la délivrance d’extraits du registre communal des personnes physiques et de certificats établis en tout ou en partie d’après ce registre;».
 
 <a id="art-48"></a>
 ## Art. 48.

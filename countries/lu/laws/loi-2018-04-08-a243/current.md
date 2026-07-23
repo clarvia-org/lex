@@ -64,7 +64,7 @@ Aux fins des dispositions des Livres Ier et II, on entend par :
 
 - « pouvoirs adjudicateurs », l’État, les communes, les organismes de droit public ou les associations formées par une ou plusieurs de ces autorités ou un ou plusieurs de ces organismes de droit public ;
 
-- « autorités publiques centrales », les pouvoirs adjudicateurs figurant à l’annexe I de la directive 2014/24/UE du Parlement européen et du Conseil du 26 février 2014 sur la passation des marchés publics et abrogeant la directive 2004/18/CE , telle que modifiée par les actes de la Commission européenne pris en conformité de l’article 87 de cette directive ; dans la mesure où des rectificatifs ou des modifications auraient été apportés, il s’agit des entités qui leur auraient succédé ;
+- « autorités publiques centrales », les pouvoirs adjudicateurs figurant à l’annexe I de la directive 2014/24/UE du Parlement européen et du Conseil du 26 février 2014 sur la passation des marchés publics et abrogeant la directive 2004/18/CE, telle que modifiée par les actes de la Commission européenne pris en conformité de l’article 87 de cette directive ; dans la mesure où des rectificatifs ou des modifications auraient été apportés, il s’agit des entités qui leur auraient succédé ;
 
 - « pouvoirs adjudicateurs sous-centraux », tous les pouvoirs adjudicateurs qui ne sont pas des autorités publiques centrales ;
 
@@ -105,15 +105,15 @@ Aux fins des dispositions des Livres Ier et II, on entend par :
 
 Aux fins des dispositions des Livres Ier et II, on entend par :
 
-- les « procédures ouvertes » sont, au sens des Livres I er et II, les procédures dans lesquelles tout opérateur économique intéressé peut présenter une offre en réponse à un appel à concurrence ;
+- les « procédures ouvertes » sont, au sens des Livres Ier et II, les procédures dans lesquelles tout opérateur économique intéressé peut présenter une offre en réponse à un appel à concurrence ;
 
 - les « procédures restreintes » sont, au sens du Livre II, les procédures auxquelles tout opérateur économique peut demander à participer et dans lesquelles seuls les opérateurs économiques invités par les pouvoirs adjudicateurs peuvent présenter une offre ;
 
-- les « procédures restreintes avec publication d’avis » sont, au sens du Livre I er , les procédures auxquelles tout opérateur économique peut demander à participer et dans lesquelles seuls les opérateurs économiques invités par les pouvoirs adjudicateurs peuvent présenter une offre ;
+- les « procédures restreintes avec publication d’avis » sont, au sens du Livre Ier, les procédures auxquelles tout opérateur économique peut demander à participer et dans lesquelles seuls les opérateurs économiques invités par les pouvoirs adjudicateurs peuvent présenter une offre ;
 
-- les « procédures restreintes sans publication d’avis » sont, au sens du Livre I er , les procédures dans lesquelles les pouvoirs adjudicateurs s’adressent à un nombre limité d’entrepreneurs, fournisseurs ou prestataires de services de leur choix pour présenter une offre ;
+- les « procédures restreintes sans publication d’avis » sont, au sens du Livre Ier, les procédures dans lesquelles les pouvoirs adjudicateurs s’adressent à un nombre limité d’entrepreneurs, fournisseurs ou prestataires de services de leur choix pour présenter une offre ;
 
-- les « procédures négociées », appelées, dans le cadre du Livre II « procédures négociées sans publication préalable » sont, au sens des Livres I er et II, les procédures dans lesquelles les pouvoirs adjudicateurs consultent les opérateurs économiques de leur choix et négocient les conditions du marché avec un ou plusieurs d’entre eux ;
+- les « procédures négociées », appelées, dans le cadre du Livre II « procédures négociées sans publication préalable » sont, au sens des Livres Ier et II, les procédures dans lesquelles les pouvoirs adjudicateurs consultent les opérateurs économiques de leur choix et négocient les conditions du marché avec un ou plusieurs d’entre eux ;
 
 - la « procédure concurrentielle avec négociation » est une procédure à laquelle tout opérateur économique peut demander à participer et dans laquelle seuls les opérateurs économiques invités par les pouvoirs adjudicateurs peuvent présenter une offre initiale qui sera susceptible de faire l’objet de négociations, en vue de l’amélioration de son contenu ;
 
@@ -141,7 +141,7 @@ Aux fins des dispositions des Livres Ier et II, on entend par :
 
 - « exigences en matière de label », les exigences que doivent remplir les ouvrages, les produits, les services, les procédés ou les procédures en question pour obtenir le label concerné ;
 
-- le « Vocabulaire commun pour les marchés publics » (Common Procurement Vocabulary, en abrégé CPV) désigne la nomenclature de référence applicable aux marchés publics prévue par le règlement (CE) n° 2195/2002 du Parlement européen et du Conseil du 5 novembre 2002 relatif au vocabulaire commun pour les marchés publics, tel que modifié en dernier lieu par le règlement CE n° 596/2009 . Ces codes sont susceptibles d’être adaptés par des actes de la Commission européenne pris en conformité de l’article 87 de cette directive, auquel cas les modifications s’appliquent avec effet au jour de la date de l’entrée en vigueur des actes modificatifs afférents de l’Union européenne. Le ministre publie un avis au Journal officiel du Grand-Duché de Luxembourg, renseignant sur les modifications ainsi intervenues, en y ajoutant une référence à l’acte publié au Journal officiel de l’Union européenne.
+- le « Vocabulaire commun pour les marchés publics » (Common Procurement Vocabulary, en abrégé CPV) désigne la nomenclature de référence applicable aux marchés publics prévue par le règlement (CE) n° 2195/2002 du Parlement européen et du Conseil du 5 novembre 2002 relatif au vocabulaire commun pour les marchés publics, tel que modifié en dernier lieu par le règlement CE n° 596/2009. Ces codes sont susceptibles d’être adaptés par des actes de la Commission européenne pris en conformité de l’article 87 de cette directive, auquel cas les modifications s’appliquent avec effet au jour de la date de l’entrée en vigueur des actes modificatifs afférents de l’Union européenne. Le ministre publie un avis au Journal officiel du Grand-Duché de Luxembourg, renseignant sur les modifications ainsi intervenues, en y ajoutant une référence à l’acte publié au Journal officiel de l’Union européenne.
 
 <a id="art-4"></a>
 ## Art. 4.
@@ -580,7 +580,7 @@ En cas de procédure négociée, les pouvoirs adjudicateurs consultent les opér
 
 Il peut être recouru soit à la procédure restreinte sans publication d’avis, soit à la procédure négociée dans les cas suivants :
 
-- lorsque le montant total du marché à conclure n’excède pas une somme à déterminer par règlement grand-ducal ; cette somme peut varier selon les différents corps de métier en présence, mais sans qu’elle ne puisse dépasser 8 000 euros hors TVA, valeur cent de l’indice des prix à la consommation au 1 er janvier 1948, adapté conformément à l’article 160. S’il s’agit de dépenses à engager au cours d’une même année et pour un même objet et que ces dépenses aient été prévisibles, il devra être tenu compte de l’ensemble des dépenses portant sur des travaux, fournitures et services de nature identique ou similaire commandés à un même opérateur économique.
+- lorsque le montant total du marché à conclure n’excède pas une somme à déterminer par règlement grand-ducal ; cette somme peut varier selon les différents corps de métier en présence, mais sans qu’elle ne puisse dépasser 8 000 euros hors TVA, valeur cent de l’indice des prix à la consommation au 1er janvier 1948, adapté conformément à l’article 160. S’il s’agit de dépenses à engager au cours d’une même année et pour un même objet et que ces dépenses aient été prévisibles, il devra être tenu compte de l’ensemble des dépenses portant sur des travaux, fournitures et services de nature identique ou similaire commandés à un même opérateur économique.
 
 - en présence d’offres non conformes ou inacceptables à la suite du recours à une procédure ouverte ou à une procédure restreinte avec publication d’avis ou lorsque aucune offre n’a été déposée, pour autant que la passation du contrat soit urgente ; sinon l’exception est applicable sous les mêmes conditions, mais après une seconde procédure ouverte ou une seconde procédure restreinte avec publication d’avis ;
 
@@ -831,7 +831,7 @@ Les projets transfrontaliers visés à l’alinéa 1er concernent :
 
 - les projets qui font partie de tronçons présélectionnés du réseau central tels qu’ils sont répertoriés dans l’annexe de la directive (UE) 2021/1187 du Parlement européen et du Conseil du 7 juillet 2021 concernant des mesures de rationalisation en vue de progresser dans la réalisation du réseau transeuropéen de transport (RTE-T) ;
 
-- d’autres projets relatifs aux corridors de réseau central, tels qu’ils sont identifiés en vertu de l’article 44, paragraphe 1, du règlement (UE) n° 1315/2013 du Parlement européen et du Conseil du 11 décembre 2013 sur les orientations de l’Union pour le développement du réseau transeuropéen de transport et abrogeant la décision n° 661/2010/UE , dont le coût total excède 300 000 000 euros, à l’exception des projets portant exclusivement sur les applications télématiques, les nouvelles technologies et l’innovation, au sens des articles 31 et 33 du règlement (UE) n° 1315/2013 précité.
+- d’autres projets relatifs aux corridors de réseau central, tels qu’ils sont identifiés en vertu de l’article 44, paragraphe 1, du règlement (UE) n° 1315/2013 du Parlement européen et du Conseil du 11 décembre 2013 sur les orientations de l’Union pour le développement du réseau transeuropéen de transport et abrogeant la décision n° 661/2010/UE, dont le coût total excède 300 000 000 euros, à l’exception des projets portant exclusivement sur les applications télématiques, les nouvelles technologies et l’innovation, au sens des articles 31 et 33 du règlement (UE) n° 1315/2013 précité.
 
 #### Chapitre IV Déroulement de la procédure
 
@@ -895,17 +895,17 @@ Motifs d’exclusion de la participation à une procédure de passation de march
 
 Les pouvoirs adjudicateurs excluent un opérateur économique de la participation à une procédure de passation de marché lorsqu’ils ont établi, en procédant à des vérifications conformément à l’article 31 et, pour les marchés relevant du champ d’application du Livre II, conformément à l’article 71, ou qu’ils sont informés, de quelque autre manière, que cet opérateur économique a fait l’objet d’une condamnation, prononcée par un jugement définitif, pour l’une des raisons suivantes :
 
-- infraction aux articles 322 à 324ter du Code Pénal , relatifs à la participation à une organisation criminelle ;
+- infraction aux articles 322 à 324ter du Code Pénal, relatifs à la participation à une organisation criminelle ;
 
-- infraction aux articles 246 à 249 du Code Pénal , relatifs à la corruption ;
+- infraction aux articles 246 à 249 du Code Pénal, relatifs à la corruption ;
 
 - infraction aux articles 496-1 à 496-4 du Code Pénal relatifs à la l’escroquerie et à la tromperie ;
 
-- infraction aux articles 135-1 et suivants du Code Pénal , relatifs au terrorisme ;
+- infraction aux articles 135-1 et suivants du Code Pénal, relatifs au terrorisme ;
 
-- infraction aux articles 506-1 et 135-5 du Code Pénal , relatifs au blanchiment de capitaux et au financement du terrorisme et infraction à l’article 8-1 de la loi modifiée du 19 février 1973 concernant la vente de substances médicamenteuses ;
+- infraction aux articles 506-1 et 135-5 du Code Pénal, relatifs au blanchiment de capitaux et au financement du terrorisme et infraction à l’article 8-1 de la loi modifiée du 19 février 1973 concernant la vente de substances médicamenteuses ;
 
-- travail des enfants et autres formes de traite des êtres humains définis à l’article 382-1 du Code Pénal .
+- travail des enfants et autres formes de traite des êtres humains définis à l’article 382-1 du Code Pénal.
 
 L’obligation d’exclure un opérateur économique s’applique aussi lorsque la personne condamnée par jugement définitif est un membre de l’organe administratif, de gestion ou de surveillance dudit opérateur économique ou détient un pouvoir de représentation, de décision ou de contrôle en son sein.
 
@@ -1035,7 +1035,7 @@ Les pouvoirs adjudicateurs n’exigent pas de moyens de preuve autres que ceux v
 
 Les pouvoirs adjudicateurs acceptent comme preuve suffisante attestant que l’opérateur économique ne se trouve dans aucun des cas visés à l’article 29 :
 
-- pour le paragraphe 1 er de l’article 29, la production d’un extrait du registre pertinent, tel qu’un extrait de casier judiciaire, ou, à défaut, d’un document équivalent délivré par l’autorité judiciaire ou administrative compétente de l’État membre ou du pays d’origine ou d’établissement de l’opérateur économique et dont il résulte que ces conditions sont remplies ;
+- pour le paragraphe 1er de l’article 29, la production d’un extrait du registre pertinent, tel qu’un extrait de casier judiciaire, ou, à défaut, d’un document équivalent délivré par l’autorité judiciaire ou administrative compétente de l’État membre ou du pays d’origine ou d’établissement de l’opérateur économique et dont il résulte que ces conditions sont remplies ;
 
 - pour le paragraphe 2 et le paragraphe 3, point b), de l’article 29, un certificat délivré par l’autorité compétente de l’État membre ou du pays concerné.
 
@@ -1427,7 +1427,7 @@ Une modification d’un marché ou d’un accord-cadre en cours est considérée
 
 - elle élargit considérablement le champ d’application du marché ou de l’accord-cadre ;
 
-- lorsqu’un nouveau contractant remplace celui auquel le pouvoir adjudicateur a initialement attribué le marché dans d’autres cas que ceux prévus au paragraphe 1 er , point d).
+- lorsqu’un nouveau contractant remplace celui auquel le pouvoir adjudicateur a initialement attribué le marché dans d’autres cas que ceux prévus au paragraphe 1er, point d).
 
 (5)
 
@@ -1448,9 +1448,9 @@ Le contrat peut être résilié à la demande du pouvoir adjudicateur lorsque :
 
 - le marché a fait l’objet d’une modification substantielle qui aurait requis une nouvelle procédure de passation de marché en vertu de l’article 43 ;
 
-- le contractant se trouvait, lors de l’attribution du marché, dans une des situations visées à l’article 29, paragraphes 1 er et 2, et aurait dès lors dû être exclu de la procédure de passation de marché ;
+- le contractant se trouvait, lors de l’attribution du marché, dans une des situations visées à l’article 29, paragraphes 1er et 2, et aurait dès lors dû être exclu de la procédure de passation de marché ;
 
-- le marché n’aurait pas dû être attribué au contractant en raison d’un manquement grave aux obligations prévues par les traités et la présente loi, qui a été établi par la Cour de justice de l’Union européenne dans le cadre d’une procédure au titre de l’article 258 du traité sur le fonctionnement de l’Union européenne .
+- le marché n’aurait pas dû être attribué au contractant en raison d’un manquement grave aux obligations prévues par les traités et la présente loi, qui a été établi par la Cour de justice de l’Union européenne dans le cadre d’une procédure au titre de l’article 258 du traité sur le fonctionnement de l’Union européenne.
 
 (2)
 
@@ -1719,7 +1719,7 @@ Marchés subventionnés par les pouvoirs adjudicateurs
 
 Le présent Livre s’applique à la passation :
 
-- de marchés de travaux subventionnés directement à plus de 50 pour cent par des pouvoirs adjudicateurs, dont la valeur estimée, hors TVA, est égale ou supérieure à la valeur prévue à l’article 13 de la directive 2014/24/UE du Parlement et du Conseil du 26 février 2014 sur la passation des marchés publics et abrogeant la directive 2004/18/CE et qui concernent l’une des activités suivantes :
+- de marchés de travaux subventionnés directement à plus de 50 pour cent par des pouvoirs adjudicateurs, dont la valeur estimée, hors TVA, est égale ou supérieure à la valeur prévue à l’article 13 de la directive 2014/24/UE du Parlement et du Conseil du 26 février 2014 sur la passation des marchés publics et abrogeant la directive 2004/18/CEet qui concernent l’une des activités suivantes :
 
   - des activités de génie civil figurant sur la liste de l’annexe II ;
 
@@ -1789,7 +1789,7 @@ Lorsque les pouvoirs adjudicateurs décident de passer des marchés distincts po
 
 Lorsque les pouvoirs adjudicateurs choisissent de passer un marché unique, les critères ci-après s’appliquent pour déterminer le régime juridique applicable :
 
-- lorsqu’une partie d’un marché donné relève de l’article 346 du traité sur le fonctionnement de l’Union européenne , le marché peut être passé sans appliquer le présent Livre, sous réserve que la passation d’un marché unique soit justifiée par des raisons objectives ;
+- lorsqu’une partie d’un marché donné relève de l’article 346 du traité sur le fonctionnement de l’Union européenne, le marché peut être passé sans appliquer le présent Livre, sous réserve que la passation d’un marché unique soit justifiée par des raisons objectives ;
 
 - lorsqu’une partie d’un marché donné relève de la loi du 26 décembre 2012 sur les marchés publics de la défense et de la sécurité, le marché peut être passé conformément à ladite loi, sous réserve que la passation d’un marché unique soit justifiée par des raisons objectives. Le présent point est sans préjudice des seuils et exclusions prévus par la loi du 26 décembre 2012 sur les marchés publics de la défense et de la sécurité.
 
@@ -2230,7 +2230,7 @@ Les pouvoirs adjudicateurs peuvent réserver aux organisations remplissant les c
 
 Une organisation visée au paragraphe 1er remplit toutes les conditions suivantes :
 
-- elle a pour objectif d’assumer une mission de service public liée à la prestation des services visés au paragraphe 1 er ;
+- elle a pour objectif d’assumer une mission de service public liée à la prestation des services visés au paragraphe 1er ;
 
 - son bénéfice est réinvesti en vue d’atteindre l’objectif de l’organisation. En cas de distribution ou de redistribution du bénéfice, celle-ci devrait être fondée sur des principes participatifs ;
 
@@ -2407,7 +2407,7 @@ Aux fins du présent Livre, on entend par :
 
   - préparation et gestion des procédures de passation de marché au nom de l’entité adjudicatrice concernée et pour son compte ;
 
-- « centrale d’achat », une entité adjudicatrice au sens de l’article 87, paragraphe 1 er ou un pouvoir adjudicateur au sens de l’article 5, paragraphe 1 er , point 1) du Livre I er , qui fournit des activités d’achat centralisées et, éventuellement, des activités d’achat auxiliaires. Un marché passé par une centrale d’achats en vue d’effectuer des activités d’achat centralisées est considéré comme un marché passé en vue de mener une des activités visées aux articles 91 à 97. L’article 100 ne s’applique pas aux marchés passés par une centrale d’achats en vue de mener des activités d’achat centralisées ;
+- « centrale d’achat », une entité adjudicatrice au sens de l’article 87, paragraphe 1er ou un pouvoir adjudicateur au sens de l’article 5, paragraphe 1er, point 1) du Livre Ier, qui fournit des activités d’achat centralisées et, éventuellement, des activités d’achat auxiliaires. Un marché passé par une centrale d’achats en vue d’effectuer des activités d’achat centralisées est considéré comme un marché passé en vue de mener une des activités visées aux articles 91 à 97. L’article 100 ne s’applique pas aux marchés passés par une centrale d’achats en vue de mener des activités d’achat centralisées ;
 
 - « prestataire de services de passation de marché », un organisme public ou privé qui propose des activités d’achat auxiliaires sur le marché ;
 
@@ -2473,7 +2473,7 @@ Les droits octroyés au moyen d’une procédure ayant fait l’objet d’une pu
 
 Ces procédures sont notamment les suivantes :
 
-- des procédures de passation de marché avec mise en concurrence préalable, conformément au Livre I er ou au Livre II, à la loi du 26 décembre 2012 sur les marchés publics de la défense et de la sécurité, à la législation applicable en matière d’attribution de contrats de concession ou au présent Livre ;
+- des procédures de passation de marché avec mise en concurrence préalable, conformément au Livre Ier ou au Livre II, à la loi du 26 décembre 2012 sur les marchés publics de la défense et de la sécurité, à la législation applicable en matière d’attribution de contrats de concession ou au présent Livre ;
 
 - des procédures en vertu des actes juridiques de l’Union européenne et des lois et règlements, énumérés à l’annexe VII , le cas échéant, telle que complétée par des actes délégués .
 
@@ -2533,11 +2533,11 @@ Un marché destiné à couvrir plusieurs activités suit les règles applicables
 
 Dans le cas d’un marché pour lequel il est objectivement impossible d’établir à quelle activité le marché est principalement destiné, les règles applicables sont déterminées conformément aux points a), b) et c) :
 
-- le marché est attribué conformément au Livre I er ou au Livre II, si l’une des activités auxquelles le marché est destiné relève du présent Livre et l’autre du Livre Ier ou du Livre II ;
+- le marché est attribué conformément au Livre Ier ou au Livre II, si l’une des activités auxquelles le marché est destiné relève du présent Livre et l’autre du Livre Ier ou du Livre II ;
 
 - le marché est attribué conformément au présent Livre, si l’une des activités auxquelles le marché est destiné relève du présent Livre et l’autre de la législation applicable en matière d’attribution de contrats de concession ;
 
-- le marché est attribué conformément au présent Livre, si l’une des activités auxquelles le marché est destiné relève du présent Livre et si l’autre ne relève ni du présent Livre, ni du Livre I er , ni du Livre II, ni de la législation applicable en matière d’attribution de contrats de concession.
+- le marché est attribué conformément au présent Livre, si l’une des activités auxquelles le marché est destiné relève du présent Livre et si l’autre ne relève ni du présent Livre, ni du Livre Ier, ni du Livre II, ni de la législation applicable en matière d’attribution de contrats de concession.
 
 #### Chapitre II Activités
 
@@ -2567,7 +2567,7 @@ En ce qui concerne le gaz et la chaleur, le présent Livre s’applique aux acti
 
 L’alimentation, par une entité adjudicatrice autre que les pouvoirs adjudicateurs, en gaz ou en chaleur des réseaux qui fournissent un service au public n’est pas considérée comme une activité visée au paragraphe 1er lorsque toutes les conditions suivantes sont remplies :
 
-- la production de gaz ou de chaleur par ladite entité adjudicatrice est le résultat inéluctable de l’exercice d’une activité autre que celles visées au paragraphe 1 er du présent article ou aux articles 92 à 94 ;
+- la production de gaz ou de chaleur par ladite entité adjudicatrice est le résultat inéluctable de l’exercice d’une activité autre que celles visées au paragraphe 1er du présent article ou aux articles 92 à 94 ;
 
 - l’alimentation du réseau public ne vise qu’à exploiter de manière économique cette production et ne représente pas plus de 20 pour cent du chiffre d’affaires de l’entité adjudicatrice calculés sur la base de la moyenne des trois dernières années, y compris l’année en cours.
 
@@ -2588,7 +2588,7 @@ En ce qui concerne l’électricité, le présent Livre s’applique aux activit
 
 L’alimentation, par une entité adjudicatrice autre que les pouvoirs adjudicateurs, en électricité des réseaux qui fournissent un service au public n’est pas considérée comme une activité visée au paragraphe 1er lorsque toutes les conditions suivantes sont remplies :
 
-- la production d’électricité par ladite entité adjudicatrice a lieu parce que sa consommation est nécessaire à l’exercice d’une activité autre que celles visées au paragraphe 1 er ou aux articles 91, 93 et 94 ;
+- la production d’électricité par ladite entité adjudicatrice a lieu parce que sa consommation est nécessaire à l’exercice d’une activité autre que celles visées au paragraphe 1er ou aux articles 91, 93 et 94 ;
 
 - l’alimentation du réseau public ne dépend que de la consommation propre de ladite entité adjudicatrice et n’a pas dépassé 30 pour cent de la production totale d’énergie de cette entité adjudicatrice calculés sur la base de la moyenne des trois dernières années, y compris l’année en cours.
 
@@ -2648,7 +2648,7 @@ Le présent Livre s’applique aux activités liées à la fourniture :
 
 - de services postaux ;
 
-- d’autres services que des services postaux, pourvu que ces services soient fournis par une entité fournissant également des services postaux au sens du paragraphe 2, point b), et que les conditions fixées à l’article 115, paragraphe 1 er , ne soient pas remplies en ce qui concerne les services relevant du paragraphe 2, point b).
+- d’autres services que des services postaux, pourvu que ces services soient fournis par une entité fournissant également des services postaux au sens du paragraphe 2, point b), et que les conditions fixées à l’article 115, paragraphe 1er, ne soient pas remplies en ce qui concerne les services relevant du paragraphe 2, point b).
 
 (2)
 
@@ -2873,7 +2873,7 @@ Le présent Livre ne s’applique pas aux marchés de services :
 
 - concernant les services de défense civile, de protection civile et de prévention des risques qui sont fournis par des organisations ou des associations à but non lucratif et qui relèvent des codes CPV 75250000-3, 75251000-0, 75251100- 1, 75251110-4, 75251120-7, 75252000-7, 75222000-8, 98113100-9 et 85143000-3, excepté les services ambulanciers de transport de patients ;
 
-- concernant les temps de diffusion ou la fourniture de programmes qui sont attribués à des prestataires de services de médias audiovisuels ou à des organismes de radiodiffusion. Aux fins du présent point, les expressions « services de médias audiovisuels » et « fournisseurs de services de médias » revêtent respectivement le même sens que dans le cadre de la loi du 27 juillet 1991 sur les médias électroniques, telle que modifiée. Le terme « programme » a le même sens que dans le cadre de la législation visée à la phrase qui précède, mais il englobe également les programmes radiophoniques et le matériel pour programmes radiophoniques. L’expression « matériel de programmes » a le même sens que le terme « programme » .
+- concernant les temps de diffusion ou la fourniture de programmes qui sont attribués à des prestataires de services de médias audiovisuels ou à des organismes de radiodiffusion. Aux fins du présent point, les expressions « services de médias audiovisuels » et « fournisseurs de services de médias » revêtent respectivement le même sens que dans le cadre de la loi du 27 juillet 1991 sur les médias électroniques, telle que modifiée. Le terme « programme » a le même sens que dans le cadre de la législation visée à la phrase qui précède, mais il englobe également les programmes radiophoniques et le matériel pour programmes radiophoniques. L’expression « matériel de programmes » a le même sens que le terme « programme ».
 
 <a id="art-104"></a>
 ## Art. 104.
@@ -2889,9 +2889,9 @@ Marchés passés par certaines entités adjudicatrices pour l’achat d’eau et
 
 Le présent Livre ne s’applique pas :
 
-- aux marchés pour l’achat d’eau, pour autant qu’ils soient passés par des entités adjudicatrices exerçant une ou les deux activités relatives à l’eau potable visées à l’article 93, paragraphe 1 er ;
+- aux marchés pour l’achat d’eau, pour autant qu’ils soient passés par des entités adjudicatrices exerçant une ou les deux activités relatives à l’eau potable visées à l’article 93, paragraphe 1er ;
 
-- aux marchés passés par des entités adjudicatrices elles-mêmes présentes dans le secteur de l’énergie du fait qu’elles exercent l’une des activités visées à l’article 91, paragraphe 1 er , à l’article 92, paragraphe 1 er , ou à l’article 97 pour la fourniture :
+- aux marchés passés par des entités adjudicatrices elles-mêmes présentes dans le secteur de l’énergie du fait qu’elles exercent l’une des activités visées à l’article 91, paragraphe 1er, à l’article 92, paragraphe 1er, ou à l’article 97 pour la fourniture :
 
   - d’énergie ;
 
@@ -2939,7 +2939,7 @@ Lorsque les entités adjudicatrices décident de passer des marchés distincts p
 
 Lorsque les entités adjudicatrices choisissent de passer un marché unique, les critères ci-après s’appliquent pour déterminer le régime juridique applicable :
 
-- lorsqu’une partie d’un marché donné relève de l’article 346 du traité sur le fonctionnement de l’Union européenne , le marché peut être passé sans appliquer le présent Livre, sous réserve que la passation d’un marché unique soit justifiée par des raisons objectives ;
+- lorsqu’une partie d’un marché donné relève de l’article 346 du traité sur le fonctionnement de l’Union européenne, le marché peut être passé sans appliquer le présent Livre, sous réserve que la passation d’un marché unique soit justifiée par des raisons objectives ;
 
 - lorsqu’une partie d’un marché donné relève de la loi du 26 décembre 2012 sur les marchés publics de la défense et de la sécurité, le marché peut être passé conformément à ladite loi, sous réserve que la passation d’un marché unique soit justifiée par des raisons objectives. Le présent point est sans préjudice des seuils et exclusions prévus par la loi du 26 décembre 2012 sur les marchés publics de la défense et de la sécurité.
 
@@ -2970,7 +2970,7 @@ Dans le cas de marchés destinés à couvrir une activité relevant du présent 
 
 - relevant de la loi du 26 décembre 2012 sur les marchés publics de la défense et de la sécurité ; ou
 
-- relevant de l’article 346 du traité sur le fonctionnement de l’Union européenne ,
+- relevant de l’article 346 du traité sur le fonctionnement de l’Union européenne,
 
 le marché peut être passé conformément à la loi du 26 décembre 2012 sur les marchés publics de la défense et de la sécurité dans les cas visés à l’alinéa 1er, point a), et il peut être passé sans appliquer le présent Livre dans les cas visés au point b). Le présent alinéa est sans préjudice des seuils et exclusions prévus par la loi du 26 décembre 2012 sur les marchés publics de la défense et de la sécurité.
 
@@ -3258,7 +3258,7 @@ Recours à la procédure négociée sans mise en concurrence préalable
 
 Les entités adjudicatrices peuvent recourir à une procédure négociée sans mise en concurrence préalable dans les cas suivants :
 
-- lorsque aucune offre ou aucune offre appropriée ou aucune demande de participation ou aucune demande appropriée de participation n’a été déposée en réponse à une procédure avec mise en concurrence préalable, pour autant que les conditions initiales du marché ne soient pas substantiellement modifiées ; une offre n’est pas considérée comme appropriée lorsqu’elle est sans rapport avec le marché parce qu’elle n’est manifestement pas en mesure, sans modifications substantielles, de répondre aux besoins et aux exigences de l’entité adjudicatrice spécifiés dans les documents de marché. Une demande de participation n’est pas considérée comme appropriée lorsque l’opérateur économique concerné doit ou peut être exclu en vertu de l’article 139, paragraphe 1 er , ou de l’article 141, paragraphe 1 er , ou ne remplit pas les critères de sélection établis par l’entité adjudicatrice en vertu de l’article 139 ou de l’article 141 ;
+- lorsque aucune offre ou aucune offre appropriée ou aucune demande de participation ou aucune demande appropriée de participation n’a été déposée en réponse à une procédure avec mise en concurrence préalable, pour autant que les conditions initiales du marché ne soient pas substantiellement modifiées ; une offre n’est pas considérée comme appropriée lorsqu’elle est sans rapport avec le marché parce qu’elle n’est manifestement pas en mesure, sans modifications substantielles, de répondre aux besoins et aux exigences de l’entité adjudicatrice spécifiés dans les documents de marché. Une demande de participation n’est pas considérée comme appropriée lorsque l’opérateur économique concerné doit ou peut être exclu en vertu de l’article 139, paragraphe 1er, ou de l’article 141, paragraphe 1er, ou ne remplit pas les critères de sélection établis par l’entité adjudicatrice en vertu de l’article 139 ou de l’article 141 ;
 
 - lorsqu’un marché est passé uniquement à des fins de recherche, d’expérimentation, d’étude ou de développement et non dans le but d’assurer une rentabilité ou d’amortir les coûts de recherche et de développement et dans la mesure où la passation d’un tel marché ne porte pas préjudice à la mise en concurrence des marchés subséquents qui poursuivent notamment ces buts ;
 
@@ -3274,7 +3274,7 @@ Les entités adjudicatrices peuvent recourir à une procédure négociée sans m
 
 - dans le cas de marchés de fournitures pour des livraisons complémentaires effectuées par le fournisseur initial et destinées soit au renouvellement partiel de fournitures ou d’installations, soit à l’extension de fournitures ou d’installations existantes, lorsque le changement de fournisseur obligerait l’entité adjudicatrice à acquérir des fournitures ayant des caractéristiques techniques différentes entraînant une incompatibilité ou des difficultés techniques d’utilisation et d’entretien disproportionnées ;
 
-- pour de nouveaux travaux ou services consistant dans la répétition de travaux ou services similaires confiés à un entrepreneur auquel les mêmes entités adjudicatrices ont attribué un précédent marché, à condition que ces travaux ou ces services soient conformes à un projet de base et que ce projet ait fait l’objet d’un premier marché passé selon une des procédures visées à l’article 123, paragraphe 1 er ; le projet de base précise l’étendue des travaux ou services supplémentaires possibles et les conditions de leur attribution. La possibilité de recourir à cette procédure est indiquée dès la mise en concurrence du premier projet, et le montant total envisagé pour la suite des travaux ou les services supplémentaires est pris en considération par les entités adjudicatrices pour l’application des articles 98 et 99 ;
+- pour de nouveaux travaux ou services consistant dans la répétition de travaux ou services similaires confiés à un entrepreneur auquel les mêmes entités adjudicatrices ont attribué un précédent marché, à condition que ces travaux ou ces services soient conformes à un projet de base et que ce projet ait fait l’objet d’un premier marché passé selon une des procédures visées à l’article 123, paragraphe 1er ; le projet de base précise l’étendue des travaux ou services supplémentaires possibles et les conditions de leur attribution. La possibilité de recourir à cette procédure est indiquée dès la mise en concurrence du premier projet, et le montant total envisagé pour la suite des travaux ou les services supplémentaires est pris en considération par les entités adjudicatrices pour l’application des articles 98 et 99 ;
 
 - lorsqu’il s’agit de fournitures cotées et achetées à une bourse de matières premières ;
 
@@ -3570,7 +3570,7 @@ Les projets transfrontaliers visés à l’alinéa 1er concernent :
 
 - les projets qui font partie de tronçons présélectionnés du réseau central tels qu’ils sont répertoriés dans l’annexe de la directive (UE) 2021/1187 du Parlement européen et du Conseil du 7 juillet 2021 concernant des mesures de rationalisation en vue de progresser dans la réalisation du réseau transeuropéen de transport (RTE-T) ;
 
-- d’autres projets relatifs aux corridors de réseau central, tels qu’ils sont identifiés en vertu de l’article 44, paragraphe 1, du règlement (UE) n° 1315/2013 du Parlement européen et du Conseil du 11 décembre 2013 sur les orientations de l’Union pour le développement du réseau transeuropéen de transport et abrogeant la décision n° 661/2010/UE , dont le coût total excède 300 000 000 euros, à l’exception des projets portant exclusivement sur les applications télématiques, les nouvelles technologies et l’innovation, au sens des articles 31 et 33 du règlement (UE) n° 1315/2013 précité.
+- d’autres projets relatifs aux corridors de réseau central, tels qu’ils sont identifiés en vertu de l’article 44, paragraphe 1, du règlement (UE) n° 1315/2013 du Parlement européen et du Conseil du 11 décembre 2013 sur les orientations de l’Union pour le développement du réseau transeuropéen de transport et abrogeant la décision n° 661/2010/UE, dont le coût total excède 300 000 000 euros, à l’exception des projets portant exclusivement sur les applications télématiques, les nouvelles technologies et l’innovation, au sens des articles 31 et 33 du règlement (UE) n° 1315/2013 précité.
 
 #### Chapitre IV Déroulement de la procédure
 
@@ -3609,7 +3609,7 @@ Principes généraux
 
 Aux fins de la sélection de participants à des procédures de passation de marché, les règles suivantes s’appliquent :
 
-- les entités adjudicatrices ayant établi des règles et des critères d’exclusion des soumissionnaires ou des candidats conformément à l’article 139, paragraphe 1 er , ou à l’article 141, paragraphe 1 er , excluent les opérateurs économiques en fonction de ces règles et de ces critères ;
+- les entités adjudicatrices ayant établi des règles et des critères d’exclusion des soumissionnaires ou des candidats conformément à l’article 139, paragraphe 1er, ou à l’article 141, paragraphe 1er, excluent les opérateurs économiques en fonction de ces règles et de ces critères ;
 
 - elles sélectionnent les soumissionnaires ou les candidats conformément aux règles et critères objectifs établis en vertu des articles 139 et 141 ;
 
@@ -3621,7 +3621,7 @@ Lorsque l’appel à la concurrence s’effectue par un avis sur l’existence d
 
 - qualifient les opérateurs économiques conformément à l’article 138 ;
 
-- appliquent à ces opérateurs économiques qualifiés les dispositions du paragraphe 1 er qui se rapportent aux procédures restreintes, aux procédures négociées, aux dialogues compétitifs ou aux partenariats d’innovation.
+- appliquent à ces opérateurs économiques qualifiés les dispositions du paragraphe 1er qui se rapportent aux procédures restreintes, aux procédures négociées, aux dialogues compétitifs ou aux partenariats d’innovation.
 
 (3)
 
@@ -3992,7 +3992,7 @@ Les entités adjudicatrices qui sont des pouvoirs adjudicateurs peuvent réserve
 
 Une organisation visée au paragraphe 1er doit remplir toutes les conditions suivantes :
 
-- elle a pour objectif d’assumer une mission de service public liée à la prestation des services visés au paragraphe 1 er ;
+- elle a pour objectif d’assumer une mission de service public liée à la prestation des services visés au paragraphe 1er ;
 
 - ses bénéfices sont réinvestis en vue d’atteindre l’objectif de l’organisation. En cas de distribution ou de redistribution des bénéfices, celle-ci devrait être fondée sur des principes participatifs ;
 
@@ -4145,7 +4145,7 @@ Une modification d’un marché ou d’un accord-cadre en cours est considérée
 
 - elle élargit considérablement le champ d’application du marché ou de l’accord-cadre ;
 
-- lorsqu’un nouveau contractant remplace celui auquel l’entité adjudicatrice a initialement attribué le marché dans d’autres cas que ceux prévus au paragraphe 1 er , point d).
+- lorsqu’un nouveau contractant remplace celui auquel l’entité adjudicatrice a initialement attribué le marché dans d’autres cas que ceux prévus au paragraphe 1er, point d).
 
 (5)
 
@@ -4162,9 +4162,9 @@ Le contrat peut être résilié à la demande de l’entité adjudicatrice lorsq
 
 - le marché a fait l’objet d’une modification substantielle qui aurait requis une nouvelle procédure de passation de marché en vertu de l’article 155 ;
 
-- le contractant se trouvait, lors de l’attribution du marché, dans une des situations visées à l’article 29 et aurait dès lors dû être exclu de la procédure de passation de marché en vertu de l’article 140, paragraphe 1 er , alinéa 2 ;
+- le contractant se trouvait, lors de l’attribution du marché, dans une des situations visées à l’article 29 et aurait dès lors dû être exclu de la procédure de passation de marché en vertu de l’article 140, paragraphe 1er, alinéa 2 ;
 
-- le marché n’aurait pas dû être attribué au contractant en raison d’un manquement grave aux obligations prévues par les traités et le présent Livre, qui a été établi par la Cour de justice de l’Union européenne dans le cadre d’une procédure au titre de l’article 258 du traité sur le fonctionnement de l’Union européenne .
+- le marché n’aurait pas dû être attribué au contractant en raison d’un manquement grave aux obligations prévues par les traités et le présent Livre, qui a été établi par la Cour de justice de l’Union européenne dans le cadre d’une procédure au titre de l’article 258 du traité sur le fonctionnement de l’Union européenne.
 
 (2)
 

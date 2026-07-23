@@ -81,7 +81,7 @@ Pour être admis à la catégorie de traitement C, groupe de traitement C2, aucu
 
 L’article 4 de la même loi est modifié comme suit :
 
-- Le paragraphe 1 er est modifié comme suit :
+- Le paragraphe 1er est modifié comme suit :
 
   - L’alinéa 3 est supprimé.
 
@@ -100,9 +100,11 @@ L’article 4 de la même loi est modifié comme suit :
 
 L’article 11 de la même loi est modifié comme suit :
 
-- À l’alinéa 1 er , le terme quatre est remplacé par le terme trois et les termes , C et D sont remplacés par les termes et C .
+- À l’alinéa 1er, le terme quatre est remplacé par le terme trois et les termes , C et D sont remplacés par les termes et C.
 
-- L’alinéa 4 est remplacé comme suit : Dans la catégorie de traitement C, il est créé deux groupes de traitement, à savoir le groupe de traitement C1 et le groupe de traitement C2.
+- L’alinéa 4 est remplacé comme suit :
+
+Dans la catégorie de traitement C, il est créé deux groupes de traitement, à savoir le groupe de traitement C1 et le groupe de traitement C2.
 
 - L’alinéa 5 est supprimé.
 
@@ -113,7 +115,7 @@ L’article 12 de la même loi est modifié comme suit :
 
 - Le paragraphe 4 est modifié comme suit :
 
-  - L’alinéa 1 er est modifié comme suit :
+  - L’alinéa 1er est modifié comme suit :
 
     - Les termes comprenant les grades 4, 6, 7, 8 et 8bis, sont supprimés ;
 
@@ -121,11 +123,43 @@ L’article 12 de la même loi est modifié comme suit :
 
     - Les termes grades 8 et 8bis sont remplacés par les termes grades 7bis et 8bis .
 
-  - À l’alinéa 2, les termes aux grades 6 et 7 sont remplacés par les termes aux grades 5 et 6 .
+  - À l’alinéa 2, les termes aux grades 6 et 7 sont remplacés par les termes aux grades 5 et 6.
 
   - À l’alinéa 5, les termes aux grades 8 et 8bis sont remplacés par les termes aux grades 7bis et 8bis .
 
-- Le paragraphe 5 est remplacé comme suit : (5) Dans la catégorie de traitement C, groupe de traitement C2, il est créé trois sous-groupes : un sous-groupe administratif avec au niveau général les fonctions d’agent administratif, d’huissier ou d’agent de salle et au niveau supérieur les fonctions d’agent administratif dirigeant, d’huissier dirigeant ou de surveillant de salle ; un sous-groupe technique avec au niveau général la fonction d’agent des domaines et au niveau supérieur la fonction de surveillant des domaines ; un sous-groupe à attributions particulières. Pour les sous-groupes sous a) et b), le niveau général comprend les grades 2, 3 et 4 et les avancements en traitement aux grades 3 et 4 se font après respectivement trois et six années de grade à compter de la première nomination. Pour bénéficier du second avancement en traitement et des avancements en grade ultérieurs de son sous-groupe, le fonctionnaire doit avoir passé avec succès un examen de promotion. Toutefois, la condition d’avoir passé avec succès un examen de promotion n’est pas requise pour bénéficier du second avancement en traitement lorsque le fonctionnaire est âgé de cinquante ans au moins. Dans ces sous-groupes, l’accès au niveau supérieur se fait par promotion et est subordonné à l’accomplissement d’au moins douze années de grade passées au niveau général et à la condition d’avoir suivi au moins douze jours de formation continue à l’Institut national d’administration publique, ou d’avoir suivi une autre formation reconnue équivalente, ou d’en avoir été dispensé pour des raisons dûment motivées par le ministre ayant la Fonction publique dans ses attributions. Pour ces mêmes sous-groupes, le niveau supérieur comprend les grades 5 et 6, les promotions aux grades 5 et 6 intervenant, sous réserve que toutes les conditions prévues par la loi soient remplies, après chaque fois trois années de grade à compter du dernier avancement en grade, sans que la promotion au dernier grade du sous-groupe ne puisse intervenir avant d’avoir accompli vingt années de grade à compter de la première nomination. La promotion au dernier grade est en outre liée à la condition d’avoir accompli au moins trente journées de formation continue attestées par des certificats de perfectionnement établis par l’Institut national d’administration publique, ou d’avoir suivi une autre formation reconnue équivalente, ou d’en avoir été dispensé pour des raisons dûment motivées par le ministre ayant la Fonction publique dans ses attributions. Pour le sous-groupe à attributions particulières mentionné sous c), le classement des fonctions de facteur est fixé comme suit : Au niveau général, les fonctions de facteur, de facteur en chef et de facteur aux écritures sont classées respectivement aux grades 2, 3 et 4 et l’avancement en traitement aux grades 3 et 4 se fait après respectivement trois et six années de grade à compter de la première nomination. Pour bénéficier du second avancement en traitement et des avancements en grade ultérieurs de son sous-groupe, le fonctionnaire doit avoir passé avec succès un examen de promotion. Toutefois, la condition d’avoir passé avec succès un examen de promotion n’est pas requise pour bénéficier du second avancement en traitement lorsque le fonctionnaire est âgé de cinquante ans au moins. L’accès au niveau supérieur se fait par promotion et est subordonné à l’accomplissement d’au moins douze années de grade passées au niveau général et à la condition d’avoir suivi au moins douze jours de formation continue à l’Institut national d’administration publique, ou d’avoir suivi une autre formation reconnue équivalente, ou d’en avoir été dispensé pour des raisons dûment motivées par le ministre ayant la Fonction publique dans ses attributions. Au niveau supérieur, les fonctions de facteur aux écritures principal et de facteur comptable principal ou de facteur dirigeant sont classées respectivement aux grades 5 et 6, les promotions aux grades 5 et 6 intervenant, sous réserve que toutes les conditions prévues par la loi soient remplies, après chaque fois trois années de grade à compter du dernier avancement en grade, sans que la promotion au dernier grade du sous-groupe ne puisse intervenir avant d’avoir accompli vingt années de grade à compter de la première nomination. La promotion au dernier grade est en outre liée à la condition d’avoir accompli au moins trente journées de formation continue attestées par des certificats de perfectionnement établis par l’Institut national d’administration publique, ou d’avoir suivi une autre formation reconnue équivalente, ou d’en avoir été dispensé pour des raisons dûment motivées.
+- Le paragraphe 5 est remplacé comme suit :
+
+(5)
+
+Dans la catégorie de traitement C, groupe de traitement C2, il est créé trois sous-groupes :
+
+- un sous-groupe administratif avec au niveau général les fonctions d’agent administratif, d’huissier ou d’agent de salle et au niveau supérieur les fonctions d’agent administratif dirigeant, d’huissier dirigeant ou de surveillant de salle ;
+
+- un sous-groupe technique avec au niveau général la fonction d’agent des domaines et au niveau supérieur la fonction de surveillant des domaines ;
+
+- un sous-groupe à attributions particulières.
+
+Pour les sous-groupes sous a) et b), le niveau général comprend les grades 2, 3 et 4 et les avancements en traitement aux grades 3 et 4 se font après respectivement trois et six années de grade à compter de la première nomination.
+
+Pour bénéficier du second avancement en traitement et des avancements en grade ultérieurs de son sous-groupe, le fonctionnaire doit avoir passé avec succès un examen de promotion. Toutefois, la condition d’avoir passé avec succès un examen de promotion n’est pas requise pour bénéficier du second avancement en traitement lorsque le fonctionnaire est âgé de cinquante ans au moins.
+
+Dans ces sous-groupes, l’accès au niveau supérieur se fait par promotion et est subordonné à l’accomplissement d’au moins douze années de grade passées au niveau général et à la condition d’avoir suivi au moins douze jours de formation continue à l’Institut national d’administration publique, ou d’avoir suivi une autre formation reconnue équivalente, ou d’en avoir été dispensé pour des raisons dûment motivées par le ministre ayant la Fonction publique dans ses attributions.
+
+Pour ces mêmes sous-groupes, le niveau supérieur comprend les grades 5 et 6, les promotions aux grades 5 et 6 intervenant, sous réserve que toutes les conditions prévues par la loi soient remplies, après chaque fois trois années de grade à compter du dernier avancement en grade, sans que la promotion au dernier grade du sous-groupe ne puisse intervenir avant d’avoir accompli vingt années de grade à compter de la première nomination.
+
+La promotion au dernier grade est en outre liée à la condition d’avoir accompli au moins trente journées de formation continue attestées par des certificats de perfectionnement établis par l’Institut national d’administration publique, ou d’avoir suivi une autre formation reconnue équivalente, ou d’en avoir été dispensé pour des raisons dûment motivées par le ministre ayant la Fonction publique dans ses attributions.
+
+Pour le sous-groupe à attributions particulières mentionné sous c), le classement des fonctions de facteur est fixé comme suit :
+
+Au niveau général, les fonctions de facteur, de facteur en chef et de facteur aux écritures sont classées respectivement aux grades 2, 3 et 4 et l’avancement en traitement aux grades 3 et 4 se fait après respectivement trois et six années de grade à compter de la première nomination.
+
+Pour bénéficier du second avancement en traitement et des avancements en grade ultérieurs de son sous-groupe, le fonctionnaire doit avoir passé avec succès un examen de promotion. Toutefois, la condition d’avoir passé avec succès un examen de promotion n’est pas requise pour bénéficier du second avancement en traitement lorsque le fonctionnaire est âgé de cinquante ans au moins.
+
+L’accès au niveau supérieur se fait par promotion et est subordonné à l’accomplissement d’au moins douze années de grade passées au niveau général et à la condition d’avoir suivi au moins douze jours de formation continue à l’Institut national d’administration publique, ou d’avoir suivi une autre formation reconnue équivalente, ou d’en avoir été dispensé pour des raisons dûment motivées par le ministre ayant la Fonction publique dans ses attributions.
+
+Au niveau supérieur, les fonctions de facteur aux écritures principal et de facteur comptable principal ou de facteur dirigeant sont classées respectivement aux grades 5 et 6, les promotions aux grades 5 et 6 intervenant, sous réserve que toutes les conditions prévues par la loi soient remplies, après chaque fois trois années de grade à compter du dernier avancement en grade, sans que la promotion au dernier grade du sous-groupe ne puisse intervenir avant d’avoir accompli vingt années de grade à compter de la première nomination.
+
+La promotion au dernier grade est en outre liée à la condition d’avoir accompli au moins trente journées de formation continue attestées par des certificats de perfectionnement établis par l’Institut national d’administration publique, ou d’avoir suivi une autre formation reconnue équivalente, ou d’en avoir été dispensé pour des raisons dûment motivées.
 
 - Les paragraphes 6 et 7 sont abrogés.
 
@@ -134,25 +168,61 @@ L’article 12 de la même loi est modifié comme suit :
 
 L’article 14 de la même loi est modifié comme suit :
 
-- Le paragraphe 2 est remplacé comme suit : (2) Dans la catégorie de traitement C, groupe de traitement C1, il est créé trois sous-groupes : un sous-groupe militaire avec un niveau général et un niveau supérieur ; un sous-groupe policier avec un niveau général et un niveau supérieur ; un sous-groupe à attributions particulières avec un niveau général et un niveau supérieur. Pour les trois sous-groupes, le niveau général comprend les grades F3, F4 et F5 et les avancements en traitement aux grades F4 et F5 se font après respectivement trois et six années de grade à compter de la première nomination. Pour bénéficier du second avancement en traitement et des avancements en grade ultérieurs de son sous-groupe, le fonctionnaire doit avoir passé avec succès un examen de promotion. Toutefois, la condition d’avoir passé avec succès un examen de promotion n’est pas requise pour bénéficier du second avancement en traitement lorsque le fonctionnaire est âgé de cinquante ans au moins. Pour les trois sous-groupes, le niveau supérieur comprend les grades F6bis et F7bis, les promotions aux grades F6bis et F7bis intervenant, sous réserve que toutes les conditions prévues par la loi soient remplies, après chaque fois trois années de grade à compter du dernier avancement en grade, sans que la promotion au dernier grade du sous-groupe ne puisse intervenir avant d’avoir accompli vingt années de grade à compter de la première nomination.
+- Le paragraphe 2 est remplacé comme suit :
 
-- Le paragraphe 3 est remplacé comme suit : (3) Dans la catégorie de traitement C, groupe de traitement C2, il est créé deux sous-groupes : un sous-groupe militaire avec un niveau général et un niveau supérieur ; un sous-groupe policier avec un niveau général et un niveau supérieur. Pour les deux sous-groupes, le niveau général comprend les grades F1, F2 et F3 et les avancements aux grades F2 et F3 se font après respectivement trois et six années de grade à compter de la première nomination. Pour bénéficier du second avancement en traitement et des avancements en grade ultérieurs de son sous-groupe, le fonctionnaire doit avoir passé avec succès un examen de promotion. Toutefois, la condition d’avoir passé avec succès un examen de promotion n’est pas requise pour bénéficier du second avancement en traitement lorsque le fonctionnaire est âgé de cinquante ans au moins. Pour les deux sous-groupes, le niveau supérieur comprend les grades F4 et F5, les promotions aux grades F4 et F5 intervenant, sous réserve que toutes les conditions prévues par la loi soient remplies, après chaque fois trois années de grade à compter du dernier avancement en grade, sans que la promotion au dernier grade du sous-groupe ne puisse intervenir avant d’avoir accompli vingt années de grade à compter de la première nomination.
+(2)
+
+Dans la catégorie de traitement C, groupe de traitement C1, il est créé trois sous-groupes :
+
+- un sous-groupe militaire avec un niveau général et un niveau supérieur ;
+
+- un sous-groupe policier avec un niveau général et un niveau supérieur ;
+
+- un sous-groupe à attributions particulières avec un niveau général et un niveau supérieur.
+
+Pour les trois sous-groupes, le niveau général comprend les grades F3, F4 et F5 et les avancements en traitement aux grades F4 et F5 se font après respectivement trois et six années de grade à compter de la première nomination.
+
+Pour bénéficier du second avancement en traitement et des avancements en grade ultérieurs de son sous-groupe, le fonctionnaire doit avoir passé avec succès un examen de promotion. Toutefois, la condition d’avoir passé avec succès un examen de promotion n’est pas requise pour bénéficier du second avancement en traitement lorsque le fonctionnaire est âgé de cinquante ans au moins.
+
+Pour les trois sous-groupes, le niveau supérieur comprend les grades F6bis et F7bis, les promotions aux grades F6bis et F7bis intervenant, sous réserve que toutes les conditions prévues par la loi soient remplies, après chaque fois trois années de grade à compter du dernier avancement en grade, sans que la promotion au dernier grade du sous-groupe ne puisse intervenir avant d’avoir accompli vingt années de grade à compter de la première nomination.
+
+- Le paragraphe 3 est remplacé comme suit :
+
+(3)
+
+Dans la catégorie de traitement C, groupe de traitement C2, il est créé deux sous-groupes :
+
+- un sous-groupe militaire avec un niveau général et un niveau supérieur ;
+
+- un sous-groupe policier avec un niveau général et un niveau supérieur.
+
+Pour les deux sous-groupes, le niveau général comprend les grades F1, F2 et F3 et les avancements aux grades F2 et F3 se font après respectivement trois et six années de grade à compter de la première nomination.
+
+Pour bénéficier du second avancement en traitement et des avancements en grade ultérieurs de son sous-groupe, le fonctionnaire doit avoir passé avec succès un examen de promotion. Toutefois, la condition d’avoir passé avec succès un examen de promotion n’est pas requise pour bénéficier du second avancement en traitement lorsque le fonctionnaire est âgé de cinquante ans au moins.
+
+Pour les deux sous-groupes, le niveau supérieur comprend les grades F4 et F5, les promotions aux grades F4 et F5 intervenant, sous réserve que toutes les conditions prévues par la loi soient remplies, après chaque fois trois années de grade à compter du dernier avancement en grade, sans que la promotion au dernier grade du sous-groupe ne puisse intervenir avant d’avoir accompli vingt années de grade à compter de la première nomination.
 
 <a id="art-7"></a>
 ## Art. 7.
 
 L’article 15, paragraphe 4, de la même loi est modifié comme suit :
 
-- Les alinéas 1 er et 2 sont remplacés comme suit : Dans la catégorie de traitement C, groupe de traitement C1, il est créé un sous-groupe des douanes avec au niveau général les fonctions de brigadier, de brigadier principal et de brigadier-chef et au niveau supérieur la fonction de vérificateur et de vérificateur principal. Pour ce sous-groupe, le niveau général comprend les grades 4 avec la fonction de brigadier, 5 avec la fonction de brigadier principal et 6 avec la fonction de brigadier-chef et les avancements en traitement aux grades 5 et 6 se font après respectivement trois et six années de grade à compter de la première nomination.
+- Les alinéas 1er et 2 sont remplacés comme suit :
 
-- L’alinéa 5 est remplacé comme suit : Dans ce même sous-groupe, le niveau supérieur comprend les grades 7bis avec la fonction de vérificateur et 8bis avec la fonction de vérificateur principal, les promotions aux grades 7bis et 8bis intervenant, sous réserve que toutes les conditions prévues par la loi soient remplies, après chaque fois trois années de grade à compter du dernier avancement en grade, sans que la promotion au dernier grade du sous-groupe ne puisse intervenir avant d’avoir accompli vingt années de grade à compter de la première nomination.
+Dans la catégorie de traitement C, groupe de traitement C1, il est créé un sous-groupe des douanes avec au niveau général les fonctions de brigadier, de brigadier principal et de brigadier-chef et au niveau supérieur la fonction de vérificateur et de vérificateur principal.
+
+Pour ce sous-groupe, le niveau général comprend les grades 4 avec la fonction de brigadier, 5 avec la fonction de brigadier principal et 6 avec la fonction de brigadier-chef et les avancements en traitement aux grades 5 et 6 se font après respectivement trois et six années de grade à compter de la première nomination.
+
+- L’alinéa 5 est remplacé comme suit :
+
+Dans ce même sous-groupe, le niveau supérieur comprend les grades 7bis avec la fonction de vérificateur et 8bis avec la fonction de vérificateur principal, les promotions aux grades 7bis et 8bis intervenant, sous réserve que toutes les conditions prévues par la loi soient remplies, après chaque fois trois années de grade à compter du dernier avancement en grade, sans que la promotion au dernier grade du sous-groupe ne puisse intervenir avant d’avoir accompli vingt années de grade à compter de la première nomination.
 
 <a id="art-8"></a>
 ## Art. 8.
 
 L’article 16 de la même loi est modifié comme suit :
 
-- Au paragraphe 1 er , alinéa 7, et au paragraphe 2, alinéa 5, les termes sur avis du ministre ayant la Fonction publique dans ses attributions sont supprimés.
+- Au paragraphe 1er, alinéa 7, et au paragraphe 2, alinéa 5, les termes sur avis du ministre ayant la Fonction publique dans ses attributions sont supprimés.
 
 - Le paragraphe 3 est modifié comme suit :
 
@@ -160,13 +230,17 @@ L’article 16 de la même loi est modifié comme suit :
 
   - Aux lettres c), d), e), f), h), k), l) et n), les termes sur avis du ministre ayant la Fonction publique dans ses attributions sont supprimés.
 
-  - À la lettre c), les termes , de facteur comptable ou premier facteur aux écritures principal sont supprimés et les termes 5, 6 et 7 sont remplacés par les termes 5 et 6 .
+  - À la lettre c), les termes , de facteur comptable ou premier facteur aux écritures principal sont supprimés et les termes 5, 6 et 7 sont remplacés par les termes 5 et 6.
 
-  - Il est ajouté une lettre o) ayant la teneur suivante : Pour les fonctionnaires de la musique militaire, la majoration d’échelon telle que prévue au présent article s’applique aux grades du niveau supérieur, le nombre de postes pouvant bénéficier de cette mesure étant limité à 30 pour cent de l’effectif des fonctionnaires de la musique militaire défini pour chaque groupe de traitement. Toutefois, à défaut d’un candidat remplissant la condition d’être classé à l’un des grades faisant partie du niveau supérieur de son groupe de traitement, le ministre du ressort peut désigner un fonctionnaire classé à l’un des grades du niveau général pour occuper le poste à responsabilité particulière vacant.
+  - Il est ajouté une lettre o) ayant la teneur suivante :
+
+- Pour les fonctionnaires de la musique militaire, la majoration d’échelon telle que prévue au présent article s’applique aux grades du niveau supérieur, le nombre de postes pouvant bénéficier de cette mesure étant limité à 30 pour cent de l’effectif des fonctionnaires de la musique militaire défini pour chaque groupe de traitement. Toutefois, à défaut d’un candidat remplissant la condition d’être classé à l’un des grades faisant partie du niveau supérieur de son groupe de traitement, le ministre du ressort peut désigner un fonctionnaire classé à l’un des grades du niveau général pour occuper le poste à responsabilité particulière vacant.
 
 - Le paragraphe 4 est modifié comme suit :
 
-  - À l’alinéa 1 er , la lettre e) est remplacée comme suit : dans le groupe de traitement C2 de 22 points indiciaires.
+  - À l’alinéa 1er, la lettre e) est remplacée comme suit :
+
+- dans le groupe de traitement C2 de 22 points indiciaires.
 
   - L’alinéa 2 est supprimé.
 
@@ -175,9 +249,17 @@ L’article 16 de la même loi est modifié comme suit :
 
 L’article 22 de la même loi est modifié comme suit :
 
-- Au paragraphe 1 er , les lettres d), e) et f) sont remplacées comme suit : aux agents de la catégorie de traitement C, groupe de traitement C1, sous-groupe administratif, nommés aux fonctions d’agent pénitentiaire et d’agent pénitentiaire dirigeant ; aux agents de la catégorie de traitement C, groupe de traitement C2, sous-groupe technique, nommés aux fonctions d’agent des domaines et de surveillant des domaines auprès de l’Administration des ponts et chaussées ainsi qu’à ceux exerçant les fonctions de garde-chasse et de garde-pêche auprès de l’Administration de la gestion de l’eau et de l’Administration de la nature et des forêts ; aux agents de la catégorie de traitement C, groupe de traitement C2, sous-groupe administratif, nommés aux fonctions d’agent de salle et de surveillant de salle auprès d’un Institut culturel ainsi qu’à ceux exerçant la fonction de garde des domaines auprès de l’Administration de l’enregistrement, des domaines et de la TVA.
+- Au paragraphe 1er, les lettres d), e) et f) sont remplacées comme suit :
 
-- Au paragraphe 2, la lettre c) est remplacée comme suit : aux agents de la catégorie de traitement C, groupe de traitement C2, sous-groupe technique, nommés aux fonctions d’agent des domaines et de surveillant des domaines non visés au paragraphe 1er ;
+- aux agents de la catégorie de traitement C, groupe de traitement C1, sous-groupe administratif, nommés aux fonctions d’agent pénitentiaire et d’agent pénitentiaire dirigeant ;
+
+- aux agents de la catégorie de traitement C, groupe de traitement C2, sous-groupe technique, nommés aux fonctions d’agent des domaines et de surveillant des domaines auprès de l’Administration des ponts et chaussées ainsi qu’à ceux exerçant les fonctions de garde-chasse et de garde-pêche auprès de l’Administration de la gestion de l’eau et de l’Administration de la nature et des forêts ;
+
+- aux agents de la catégorie de traitement C, groupe de traitement C2, sous-groupe administratif, nommés aux fonctions d’agent de salle et de surveillant de salle auprès d’un Institut culturel ainsi qu’à ceux exerçant la fonction de garde des domaines auprès de l’Administration de l’enregistrement, des domaines et de la TVA.
+
+- Au paragraphe 2, la lettre c) est remplacée comme suit :
+
+- aux agents de la catégorie de traitement C, groupe de traitement C2, sous-groupe technique, nommés aux fonctions d’agent des domaines et de surveillant des domaines non visés au paragraphe 1er ;
 
 <a id="art-10"></a>
 ## Art. 10.
@@ -189,9 +271,15 @@ L’article 22 de la même loi est modifié comme suit :
 
 L’article 26 de la même loi est modifié comme suit :
 
-- Au paragraphe 1 er , les termes des Maisons d’enfants de l’État sont remplacés par les termes de l’Institut étatique d’aide à l’enfance et à la jeunesse .
+- Au paragraphe 1er, les termes des Maisons d’enfants de l’État sont remplacés par les termes de l’Institut étatique d’aide à l’enfance et à la jeunesse.
 
-- Le paragraphe 2 est remplacé comme suit : (2) Les fonctionnaires exerçant des activités à caractère exclusivement paramédical des catégories de traitement B et C, et qui sont détenteurs d’une autorisation d’exercer leur profession paramédicale, bénéficient d’une prime de 15 points indiciaires. La prime en question est accordée par le ministre du ressort. Toutefois, pour les fonctionnaires relevant de la catégorie de traitement C et exerçant leur profession auprès du Centre hospitalier neuro-psychiatrique, des Centres, Foyers et Services pour personnes âgées, de l’Institut étatique d’aide à l’enfance et à la jeunesse ou de l’Administration d’évaluation et de contrôle de l’assurance dépendance, la prime est fixée à 30 points indiciaires.
+- Le paragraphe 2 est remplacé comme suit :
+
+(2)
+
+Les fonctionnaires exerçant des activités à caractère exclusivement paramédical des catégories de traitement B et C, et qui sont détenteurs d’une autorisation d’exercer leur profession paramédicale, bénéficient d’une prime de 15 points indiciaires. La prime en question est accordée par le ministre du ressort.
+
+Toutefois, pour les fonctionnaires relevant de la catégorie de traitement C et exerçant leur profession auprès du Centre hospitalier neuro-psychiatrique, des Centres, Foyers et Services pour personnes âgées, de l’Institut étatique d’aide à l’enfance et à la jeunesse ou de l’Administration d’évaluation et de contrôle de l’assurance dépendance, la prime est fixée à 30 points indiciaires.
 
 <a id="art-12"></a>
 ## Art. 12.
@@ -207,7 +295,9 @@ L’article 37 de la même loi est modifié comme suit :
 
   - L’alinéa 3 est supprimé.
 
-  - L’alinéa 4 est remplacé comme suit : Pour les fonctionnaires stagiaires de la catégorie de traitement B, groupe de traitement B1, sous-groupe technique, chargés des fonctions de contrôleur aérien auprès de l’Administration de la navigation aérienne de la rubrique « Administration générale », les indemnités sont fixées au sixième échelon du grade de computation de la bonification d’ancienneté.
+  - L’alinéa 4 est remplacé comme suit :
+
+Pour les fonctionnaires stagiaires de la catégorie de traitement B, groupe de traitement B1, sous-groupe technique, chargés des fonctions de contrôleur aérien auprès de l’Administration de la navigation aérienne de la rubrique « Administration générale », les indemnités sont fixées au sixième échelon du grade de computation de la bonification d’ancienneté.
 
   - L’alinéa 5 est supprimé.
 
@@ -218,7 +308,7 @@ L’article 37 de la même loi est modifié comme suit :
 
 L’article 38 de la même loi est modifié comme suit :
 
-- À l’alinéa 1 er , les termes , de magasinier créé par les lois organiques des différentes administrations de l’État sont supprimés.
+- À l’alinéa 1er, les termes , de magasinier créé par les lois organiques des différentes administrations de l’État sont supprimés.
 
 - L’alinéa 5 est supprimé.
 
@@ -247,11 +337,19 @@ L’annexe B de la même loi est modifiée comme suit :
 
 - Sous le point « B1), Tableaux indiciaires », les rubriques « I. Administration générale » et « II. Armée, Police et Inspection générale de la Police » sont remplacées par les rubriques figurant à l’annexe B de la présente loi.
 
-- Sous le point « B2) Allongements », le point 4 est remplacé comme suit : Pour les fonctionnaires de la catégorie de traitement C, groupe de traitement C1, de la rubrique « Administration générale », le grade 6 est allongé d’un treizième échelon ayant l’indice 279.
+- Sous le point « B2) Allongements », le point 4 est remplacé comme suit :
 
-- Sous le point « B2) Allongements », le point 5 est remplacé comme suit : Pour les fonctionnaires de la catégorie de traitement C, groupe de traitement C1, de la rubrique « Armée, Police et Inspection générale de la Police », le grade F5 est allongé d’un treizième échelon ayant l’indice 279.
+- Pour les fonctionnaires de la catégorie de traitement C, groupe de traitement C1, de la rubrique « Administration générale », le grade 6 est allongé d’un treizième échelon ayant l’indice 279.
 
-- Sous le point « B2) Allongements », après le point 5, sont insérés deux points 5 bis et 5 ter nouveaux ayant la teneur suivante : 5bis . Pour les fonctionnaires de la catégorie de traitement C, groupe de traitement C2, de la rubrique « Administration générale », le grade 6 est allongé d’un treizième échelon ayant l’indice 275. 5ter . Pour les fonctionnaires de la catégorie de traitement C, groupe de traitement C2, de la rubrique « Armée, Police et Inspection générale de la Police », le grade F5 est allongé d’un treizième échelon ayant l’indice 275.
+- Sous le point « B2) Allongements », le point 5 est remplacé comme suit :
+
+- Pour les fonctionnaires de la catégorie de traitement C, groupe de traitement C1, de la rubrique « Armée, Police et Inspection générale de la Police », le grade F5 est allongé d’un treizième échelon ayant l’indice 279.
+
+- Sous le point « B2) Allongements », après le point 5, sont insérés deux points 5bis et 5ter nouveaux ayant la teneur suivante :
+
+- 5bis . Pour les fonctionnaires de la catégorie de traitement C, groupe de traitement C2, de la rubrique « Administration générale », le grade 6 est allongé d’un treizième échelon ayant l’indice 275.
+
+- 5ter . Pour les fonctionnaires de la catégorie de traitement C, groupe de traitement C2, de la rubrique « Armée, Police et Inspection générale de la Police », le grade F5 est allongé d’un treizième échelon ayant l’indice 275.
 
 <a id="art-18"></a>
 ## Art. 18.
@@ -267,7 +365,9 @@ L’article 29 de la loi modifiée du 25 mars 2015 déterminant le régime et le
 
 - À l’alinéa 2, les termes , sur avis du ministre, sont supprimés.
 
-- À l’alinéa 4, la lettre e) est remplacée par une nouvelle lettre e) libellée comme suit : dans le groupe d’indemnité C2 de 22 points indiciaires.
+- À l’alinéa 4, la lettre e) est remplacée par une nouvelle lettre e) libellée comme suit :
+
+- dans le groupe d’indemnité C2 de 22 points indiciaires.
 
 <a id="art-20"></a>
 ## Art. 20.
@@ -334,7 +434,7 @@ Les articles 48 et 49 de la même loi sont abrogés.
 
 L’article 50 de la même loi est modifié comme suit :
 
-- Le terme D1 est remplacé à chaque fois par le terme C2 .
+- Le terme D1 est remplacé à chaque fois par le terme C2.
 
 - L’alinéa 3 est supprimé.
 
@@ -359,27 +459,39 @@ Le tableau indiciaire « Administration générale » prévu sous le point I. de
 
 L’article 2 de la loi modifiée du 25 mars 2015 fixant les conditions et modalités de l’accès du fonctionnaire à un groupe de traitement supérieur au sien et de l’employé de l’État à un groupe d’indemnité supérieur au sien est modifié comme suit :
 
-- Les paragraphes 1 er et 2 sont abrogés.
+- Les paragraphes 1er et 2 sont abrogés.
 
-- Le paragraphe 3 est remplacé comme suit : (3) Par groupe de traitement immédiatement supérieur au groupe de traitement C2, il faut entendre le groupe de traitement C1.
+- Le paragraphe 3 est remplacé comme suit :
+
+(3)
+
+Par groupe de traitement immédiatement supérieur au groupe de traitement C2, il faut entendre le groupe de traitement C1.
 
 <a id="art-29"></a>
 ## Art. 29.
 
 L’article 3 de la même loi est modifié comme suit :
 
-- Les paragraphes 1 er et 2 sont abrogés.
+- Les paragraphes 1er et 2 sont abrogés.
 
-- Le paragraphe 3 est remplacé comme suit : (3) Par groupe d’indemnité immédiatement supérieur au groupe d’indemnité C2, il faut entendre le groupe d’indemnité C1.
+- Le paragraphe 3 est remplacé comme suit :
+
+(3)
+
+Par groupe d’indemnité immédiatement supérieur au groupe d’indemnité C2, il faut entendre le groupe d’indemnité C1.
 
 <a id="art-30"></a>
 ## Art. 30.
 
 L’article 15 de la même loi est modifié comme suit :
 
-- Au paragraphe 1 er , entre les alinéas 2 et 3, est inséré un nouvel alinéa 3 ayant la teneur suivante : Par dérogation aux alinéas qui précèdent, le fonctionnaire de l’État du groupe de traitement C1 classé au grade 7bis du niveau supérieur qui change de groupe de traitement bénéfice d’une promotion et est classé au grade 9 dans son nouveau groupe de traitement.
+- Au paragraphe 1er, entre les alinéas 2 et 3, est inséré un nouvel alinéa 3 ayant la teneur suivante :
 
-- Au paragraphe 2, à la suite de l’alinéa 2, est inséré un nouvel alinéa 3 ayant la teneur suivante : Par dérogation aux alinéas qui précèdent, l’employé de l’État du groupe d’indemnité C1 classé au grade 7bis du niveau supérieur qui change de groupe d’indemnité bénéfice d’un avancement en grade et est classé au grade 9 dans son nouveau groupe d’indemnité.
+Par dérogation aux alinéas qui précèdent, le fonctionnaire de l’État du groupe de traitement C1 classé au grade 7bis du niveau supérieur qui change de groupe de traitement bénéfice d’une promotion et est classé au grade 9 dans son nouveau groupe de traitement.
+
+- Au paragraphe 2, à la suite de l’alinéa 2, est inséré un nouvel alinéa 3 ayant la teneur suivante :
+
+Par dérogation aux alinéas qui précèdent, l’employé de l’État du groupe d’indemnité C1 classé au grade 7bis du niveau supérieur qui change de groupe d’indemnité bénéfice d’un avancement en grade et est classé au grade 9 dans son nouveau groupe d’indemnité.
 
 #### Chapitre 4 Modification de la loi modifiée du 18 juillet 2018 sur la Police grand-ducale
 
@@ -393,9 +505,15 @@ L’article 15 de la même loi est modifié comme suit :
 
 L’article 54 de la même loi est modifié comme suit :
 
-- Au point 1°, le dernier alinéa est remplacé par les alinéas suivants : Le groupe de traitement B1 passe au niveau commissaire par la réussite de son examen de promotion. Le groupe de traitement C1 passe au niveau commissaire trois ans après la réussite de son examen de promotion. Le groupe de traitement C2 passe au niveau commissaire suite à un changement de carrière.
+- Au point 1°, le dernier alinéa est remplacé par les alinéas suivants :
 
-- Au point 2°, alinéa 1 er , les termes du classement de l’examen de promotion de leur catégorie de traitement. sont remplacés par les termes de la date de réussite de l’examen de promotion de leur catégorie de traitement et du classement à cet examen. .
+Le groupe de traitement B1 passe au niveau commissaire par la réussite de son examen de promotion.
+
+Le groupe de traitement C1 passe au niveau commissaire trois ans après la réussite de son examen de promotion.
+
+Le groupe de traitement C2 passe au niveau commissaire suite à un changement de carrière.
+
+- Au point 2°, alinéa 1er, les termes du classement de l’examen de promotion de leur catégorie de traitement. sont remplacés par les termes de la date de réussite de l’examen de promotion de leur catégorie de traitement et du classement à cet examen..
 
 <a id="art-33"></a>
 ## Art. 33.
@@ -577,7 +695,7 @@ Par dérogation à l’alinéa précédent :
 
 - les fonctionnaires ayant, au moment de l’entrée en vigueur de la présente loi, une ancienneté de service entre quatre et six années à compter de la date de leur nomination, et qui n’ont pas la possibilité de se présenter au premier examen de promotion organisé après l’entrée en vigueur de la présente loi, peuvent participer à un des examens de promotion organisés au courant des deux années suivant l’entrée en vigueur de la présente loi. En cas de réussite audit examen de promotion, ils bénéficieront du second avancement en traitement, s’il y a lieu avec effet rétroactif.
 
-- pour les fonctionnaires participant à une opération au sens de l’article 1 er de la loi modifiée du 27 juillet 1992 relative à la participation du Grand-Duché de Luxembourg à des opérations pour le maintien de la paix et des opérations de prévention, ainsi que de gestion de crise ou à une opération Frontex au cours des trois années suivant l’entrée en vigueur de la présente loi, le prochain examen de promotion visé ci-avant est celui qui sera organisé dans l’année qui suit la fin de l’opération.
+- pour les fonctionnaires participant à une opération au sens de l’article 1er de la loi modifiée du 27 juillet 1992 relative à la participation du Grand-Duché de Luxembourg à des opérations pour le maintien de la paix et des opérations de prévention, ainsi que de gestion de crise ou à une opération Frontex au cours des trois années suivant l’entrée en vigueur de la présente loi, le prochain examen de promotion visé ci-avant est celui qui sera organisé dans l’année qui suit la fin de l’opération.
 
 <a id="art-43"></a>
 ## Art. 43.

@@ -210,7 +210,7 @@ Le Centre pour l’égalité de traitement visé au chapitre 3 de la loi du 28 n
 
 - modification du Code du travail et portant introduction dans le livre II d’un nouveau titre V relatif à l’égalité de traitement en matière d’emploi et de travail;
 
-- modification des articles 454 et 455 du Code pénal ;
+- modification des articles 454 et 455 du Code pénal;
 
 - modification de la loi du 12 septembre 2003 relative aux personnes handicapées;
 
@@ -227,7 +227,7 @@ L’article 455 du Code pénal est modifié comme suit:
 
 - Au paragraphe 2) de l’article 455 du Code pénal sont insérés après les termes la fourniture d’un service les termes et/ou l’accès à un service
 
-- Au paragraphe 3) de l’article 455 du Code pénal sont ajoutés après les termes la fourniture d’un bien ou d’un service les termes et/ou l’accès à un bien ou à un service .
+- Au paragraphe 3) de l’article 455 du Code pénal sont ajoutés après les termes la fourniture d’un bien ou d’un service les termes et/ou l’accès à un bien ou à un service.
 
 <a id="art-14"></a>
 ## Art. 14.

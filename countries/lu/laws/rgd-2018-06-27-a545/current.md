@@ -66,7 +66,7 @@ Au sens du présent règlement, on entend par :
 
 - « objectifs de qualité de l'air » : les valeurs limites, les valeurs cibles et les obligations en matière de concentration d'exposition pour la qualité de l'air respectivement prévues par le règlement grand-ducal modifié du 29 avril 2011 portant application de la directive 2008/50/CE du Parlement européen et du Conseil du 21 mai 2008 concernant la qualité de l'air ambiant et un air pur pour l'Europe et par le règlement grand-ducal modifié du 30 mai 2005 portant application de la directive 2004/107/CE du Parlement européen et du Conseil du 15 décembre 2004 concernant l'arsenic, le cadmium, le mercure, le nickel et les hydrocarbures aromatiques polycycliques dans l'air ambiant ;
 
-- « dioxyde de soufre » ou « SO 2 » : tous les composés soufrés exprimés en dioxyde de soufre, y compris le trioxyde de soufre (SO 3 ), l'acide sulfurique (H 2 SO 4 ), et les composés soufrés réduits, tels que l'hydrogène sulfuré (H 2 S), les mercaptans et le sulfure de diméthyle ;
+- « dioxyde de soufre » ou « SO 2 » : tous les composés soufrés exprimés en dioxyde de soufre, y compris le trioxyde de soufre (SO3), l'acide sulfurique (H2SO4), et les composés soufrés réduits, tels que l'hydrogène sulfuré (H2S), les mercaptans et le sulfure de diméthyle ;
 
 - « oxydes d'azote » ou « NO x » : le monoxyde d'azote et le dioxyde d'azote, exprimés en dioxyde d'azote ;
 
@@ -251,7 +251,7 @@ La coordination est assurée avec d'autres programmes de surveillance établis e
 
 - du règlement grand-ducal du 29 avril 2011 portant application de la directive 2008/50/CE du Parlement européen et du Conseil du 21 mai 2008 concernant la qualité de l'air ambiant et un air pur pour l'Europe ;
 
-- le cas échéant, de la convention PATLD .
+- le cas échéant, de la convention PATLD.
 
 Le cas échéant, les données collectées au titre de ces programmes sont utilisées.
 

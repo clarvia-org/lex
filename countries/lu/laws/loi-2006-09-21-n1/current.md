@@ -53,7 +53,7 @@ La loi ne s’applique pas:
 
 - aux logements meublés ou non-meublés dans des structures d’hébergement spéciales telles que maisons de retraite, centres intégrés pour personnes âgées, centres de gériatrie, centres pour personnes handicapées, et notamment les logements meublés ou non-meublés dans les structures d’hébergement tombant sous la loi modifiée du 8 septembre 1998 réglant les relations entre l’Etat et les organismes œuvrant dans les domaines social, familial et thérapeutique;
 
-- aux logements meublés ou non-meublés mis à disposition de personnes physiques à titre d’aide sociale par un promoteur public au sens de l’article 16, alinéa 1 er , de la loi modifiée du 25 février 1979 concernant l’aide au logement, un office social, une association sans but lucratif, une fondation ou une socié té d’impact socié tal régie par la loi modifiée du 12 décembre 2016 portant création des sociétés d’impact socié tal et dont le capital social est constitué à 100 pour cent de parts d’impact, œuvrant dans le domaine du logement.
+- aux logements meublés ou non-meublés mis à disposition de personnes physiques à titre d’aide sociale par un promoteur public au sens de l’article 16, alinéa 1er , de la loi modifiée du 25 février 1979 concernant l’aide au logement, un office social, une association sans but lucratif, une fondation ou une socié té d’impact socié tal régie par la loi modifiée du 12 décembre 2016 portant création des sociétés d’impact socié tal et dont le capital social est constitué à 100 pour cent de parts d’impact, œuvrant dans le domaine du logement.
 
 Toutefois, pour les immeubles visés au point a), les dispositions prévues par le chapitre V concernant le règlement des litiges et celles prévues par le chapitre VIII concernant les dispositions finales, abrogatoires et transitoires sont applicables. Pour les structures d’hébergement et logements visés aux points e), et g), les dispositions prévues par le chapitre V concernant le règlement des litiges sont applicables.
 
@@ -147,9 +147,9 @@ Lorsqu’au moins la moitié des colocataires signataires du bail ont donné leu
 
 Le colocataire sortant est délié pour le futur de ses obligations résultant du contrat de bail ou du pacte de colocation :
 
-- à la date de signature de l’avenant visé à l’article 2 quinquies , paragraphe 3 ;
+- à la date de signature de l’avenant visé à l’article 2quinquies, paragraphe 3 ;
 
-- à la date d’expiration du préavis de trois mois sous condition qu’il a démontré avoir effectué une recherche active et suffisante au sens de l’article 2 quinquies , paragraphe 2, alinéa 2 ;
+- à la date d’expiration du préavis de trois mois sous condition qu’il a démontré avoir effectué une recherche active et suffisante au sens de l’article 2quinquies, paragraphe 2, alinéa 2 ;
 
 - ou au plus tard à l’expiration d’un délai de trois mois après la date d’expiration du préavis.
 
@@ -646,21 +646,68 @@ La commune retient sur le produit de la vente les frais et autres dépenses ment
 
 Dans le livre III du Code civil, le chapitre II «Du louage des choses» du titre VIII est modifié comme suit:
 
-- L’article 1762-5, alinéa 2, du Code civil aura désormais la teneur suivante: «Ceux-ci sont choisis par les parties ou sinon désignés à la requête de la partie la plus diligente par le juge de paix de la situation de l’immeuble».
+- L’article 1762-5, alinéa 2, du Code civil aura désormais la teneur suivante:
 
-- Un nouvel article 1762-8 est inséré au Code civil, lequel aura la teneur suivante: «Art. 1762-8. (1) Le preneur commerçant, industriel, artisan ou fermier, dont le bail vient à cesser pourra demander deux sursis successifs, chacun de six mois au maximum. Ces demandes seront déposées au greffe de la justice de paix, à peine de déchéance, deux mois au plus tard avant l’expiration du bail ou du premier sursis. Si le délai-congé conventionnel est égal ou inférieur à deux mois, la demande en sursis peut encore être déposée dans les huit jours de la notification du congé. Si le premier sursis accordé par le juge est égal ou inférieur à deux mois, la demande en obtention d’un deuxième sursis devra être déposée au plus tard huit jours avant l’expiration du premier sursis. Les demandes en sursis sont dispensées du préliminaire de conciliation. Le juge de paix saisi aura compétence pour fixer le loyer pendant la durée des sursis. Le sursis sera refusé si le bailleur prouve qu’il a besoin de l’immeuble pour l’exploiter lui-même ou pour le faire exploiter par ses descendants ou pour d’autres causes graves et légitimes. (2) En cas de décès d’un preneur, titulaire d’un contrat de bail commercial, artisanal ou à ferme, le contrat de bail est maintenu dans le chef du repreneur à condition que le repreneur maintienne l’exploitation commerciale, artisanale ou agricole et qu’il ait un lien de famille jusqu’au cinquième degré inclusivement avec le preneur défunt, sinon qu’il soit le conjoint ou le concubin du preneur défunt. (3) Sont à considérer dans l’application du présent article comme locaux à usage commercial ou industriel les immeubles dont le bail prévoit expressément pareille affectation, ceux qui sont destinés par leur nature à l’exercice d’un commerce ou d’une industrie et ceux dans lesquels cette activité est exercé à titre principal.».
+«Ceux-ci sont choisis par les parties ou sinon désignés à la requête de la partie la plus diligente par le juge de paix de la situation de l’immeuble».
+
+- Un nouvel article 1762-8 est inséré au Code civil, lequel aura la teneur suivante:
+
+<a id="art-1762-8"></a>
+## «Art. 1762-8.
+
+(1)
+
+Le preneur commerçant, industriel, artisan ou fermier, dont le bail vient à cesser pourra demander deux sursis successifs, chacun de six mois au maximum. Ces demandes seront déposées au greffe de la justice de paix, à peine de déchéance, deux mois au plus tard avant l’expiration du bail ou du premier sursis.
+
+Si le délai-congé conventionnel est égal ou inférieur à deux mois, la demande en sursis peut encore être déposée dans les huit jours de la notification du congé.
+
+Si le premier sursis accordé par le juge est égal ou inférieur à deux mois, la demande en obtention d’un deuxième sursis devra être déposée au plus tard huit jours avant l’expiration du premier sursis.
+
+Les demandes en sursis sont dispensées du préliminaire de conciliation. Le juge de paix saisi aura compétence pour fixer le loyer pendant la durée des sursis. Le sursis sera refusé si le bailleur prouve qu’il a besoin de l’immeuble pour l’exploiter lui-même ou pour le faire exploiter par ses descendants ou pour d’autres causes graves et légitimes.
+
+(2)
+
+En cas de décès d’un preneur, titulaire d’un contrat de bail commercial, artisanal ou à ferme, le contrat de bail est maintenu dans le chef du repreneur à condition que le repreneur maintienne l’exploitation commerciale, artisanale ou agricole et qu’il ait un lien de famille jusqu’au cinquième degré inclusivement avec le preneur défunt, sinon qu’il soit le conjoint ou le concubin du preneur défunt.
+
+(3)
+
+Sont à considérer dans l’application du présent article comme locaux à usage commercial ou industriel les immeubles dont le bail prévoit expressément pareille affectation, ceux qui sont destinés par leur nature à l’exercice d’un commerce ou d’une industrie et ceux dans lesquels cette activité est exercé à titre principal.».
 
 - Il est inséré une section III libellé Section III. – Des règles particulières aux baux commerciaux. Elle comprendra les articles 1762-3 à 1762-8.
 
-- La section III Des règles particulières aux baux à ferme , comprenant les articles 1763 à 1778, deviendra la section IV du titre VIII.
+- La section III Des règles particulières aux baux à ferme, comprenant les articles 1763 à 1778, deviendra la section IV du titre VIII.
 
-- L’article 1736 du Code civil est modifié comme suit: «Art. 1736. Si le bail a été fait sans écrit ou si le contrat est stipulé à durée indéterminée, l’une des parties ne pourra donner congé à l’autre qu’en observant les délais fixés par l’usage des lieux. Le délai de résiliation d’un contrat de bail d’habitation est de trois mois, sauf clause contraire dans le contrat de bail écrit prévoyant un délai supérieur à trois mois. Le délai de résiliation pour un contrat de bail commercial ou un contrat de bail mixte est de six mois, sauf clause contraire prévue dans le contrat de bail écrit.».
+- L’article 1736 du Code civil est modifié comme suit:
 
-- L’article 1758 du Code civil aura désormais la teneur suivante: «Art. 1758. Le bail d’un logement est censé être fait à durée indéterminée s’il n’est pas spécifié dans le contrat de bail écrit pour quelle durée les parties ont voulu se lier.».
+<a id="art-1736"></a>
+## «Art. 1736.
 
-- L’article 1761 du Code civil est remplacé comme suit: «Art. 1761. Le bailleur ne peut résilier le contrat de bail à durée déterminée, encore qu’il déclare vouloir occuper par lui-même la maison louée, s’il n’y a eu convention contraire.».
+Si le bail a été fait sans écrit ou si le contrat est stipulé à durée indéterminée, l’une des parties ne pourra donner congé à l’autre qu’en observant les délais fixés par l’usage des lieux.
 
-- L’article 1762 du Code civil est modifié comme suit: «Art. 1762. S’il a été convenu dans le contrat de bail à durée déterminée ou à durée indéterminée que le bailleur pourrait venir occuper la maison, il est tenu de notifier d’avance un congé soit aux époques déterminées par le contrat de bail, soit moyennant congé notifié dans les délais prévus à l’article 1736.».
+Le délai de résiliation d’un contrat de bail d’habitation est de trois mois, sauf clause contraire dans le contrat de bail écrit prévoyant un délai supérieur à trois mois.
+
+Le délai de résiliation pour un contrat de bail commercial ou un contrat de bail mixte est de six mois, sauf clause contraire prévue dans le contrat de bail écrit.».
+
+- L’article 1758 du Code civil aura désormais la teneur suivante:
+
+<a id="art-1758"></a>
+## «Art. 1758.
+
+Le bail d’un logement est censé être fait à durée indéterminée s’il n’est pas spécifié dans le contrat de bail écrit pour quelle durée les parties ont voulu se lier.».
+
+- L’article 1761 du Code civil est remplacé comme suit:
+
+<a id="art-1761"></a>
+## «Art. 1761.
+
+Le bailleur ne peut résilier le contrat de bail à durée déterminée, encore qu’il déclare vouloir occuper par lui-même la maison louée, s’il n’y a eu convention contraire.».
+
+- L’article 1762 du Code civil est modifié comme suit:
+
+<a id="art-1762"></a>
+## «Art. 1762.
+
+S’il a été convenu dans le contrat de bail à durée déterminée ou à durée indéterminée que le bailleur pourrait venir occuper la maison, il est tenu de notifier d’avance un congé soit aux époques déterminées par le contrat de bail, soit moyennant congé notifié dans les délais prévus à l’article 1736.».
 
 <a id="art-32"></a>
 ## Art. 32.

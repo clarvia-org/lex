@@ -175,7 +175,7 @@ Dans l'exécution de leur mission de surveillance et de contrôle, les médecins
 
 - dans les exploitations agricoles,
 
-- dans les lieux où sont fabriqués, manipulés, entreposés et vendus des denrées alimentaires, des boissons, des médicaments, ainsi que les produits et organismes visés à l'article 6, paragraphe 1 er , point 1),
+- dans les lieux où sont fabriqués, manipulés, entreposés et vendus des denrées alimentaires, des boissons, des médicaments, ainsi que les produits et organismes visés à l'article 6, paragraphe 1er, point 1),
 
 - dans les immeubles en voie de construction,
 
@@ -428,13 +428,13 @@ Les modifications et additions suivantes sont apportées à la loi modifiée du 
 
     - grade 7 de computation de la bonification d'ancienneté,
 
-    - grade 10 de computation de la bonification d'ancienneté, est ajoutée la mention: orthoptist ,
+    - grade 10 de computation de la bonification d'ancienneté, est ajoutée la mention: orthoptist,
 
   - A la carrière supérieure de l'administration, au grade 12 est ajoutée la mention: expert en sciences hospitalières au grade 14 est ajoutée la mention: ingénieur nucléaire au grade 16 sont ajoutées les mentions: expert en radioprotection chef de division, ingénieur nucléaire chef de division, pharmacien-inspecteur chef de division, au grade 17 est ajoutée la mention: directeur adjoint de la santé.
 
     - grade 12 de computation de la bonification d'ancienneté,
 
-    - grade 14 de computation de la bonification d'ancienneté, au grade 14 est supprimée la mention: médecin-inspecteur adjoint , au grade 15 sont ajoutées les mentions: médecin chef de service de la santé et médecin-dentiste de la santé , au grade 16 est ajoutée la mention: médecin chef de division de la santé ,
+    - grade 14 de computation de la bonification d'ancienneté, au grade 14 est supprimée la mention: médecin-inspecteur adjoint, au grade 15 sont ajoutées les mentions: médecin chef de service de la santé et médecin-dentiste de la santé, au grade 16 est ajoutée la mention: médecin chef de division de la santé,
 
 Dispositions additionnelles
 
@@ -455,9 +455,9 @@ Dispositions transitoires
 
 Sont abrogés:
 
-- la loi du 31 décembre 1952 portant abrogation de la loi du 18 mai 1902 concernant l'institution des médecins-inspecteurs et l'exercice de leurs attributions et nouvelle organisation du service des médecins-inspecteurs, et les lois modificatives du 28 juillet 1971 et du 7 mars 1977 , à l'exception de l'article 6;
+- la loi du 31 décembre 1952 portant abrogation de la loi du 18 mai 1902 concernant l'institution des médecins-inspecteurs et l'exercice de leurs attributions et nouvelle organisation du service des médecins-inspecteurs, et les lois modificatives du 28 juillet 1971 et du 7 mars 1977, à l'exception de l'article 6;
 
-- l' arrêté grand-ducal du 13 juillet 1945 portant création du poste du médecin-directeur de la santé publique;
+- l'arrêté grand-ducal du 13 juillet 1945 portant création du poste du médecin-directeur de la santé publique;
 
 - la loi du 23 mai 1958 portant
 

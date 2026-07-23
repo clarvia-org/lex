@@ -97,7 +97,7 @@ Au sens du présent règlement, on entend par :
 
   - pour toutes les autres espèces de légumes : 100 g.
 
-- « Contrôle officiel » : le contrôle de la production en vue de la commercialisation et de la commercialisation des semences de légumes, effectué par un des organismes officiels de contrôle visés à l’article 5, paragraphe 1 er de la loi du 18 mars 2008 sur la commercialisation des semences et plants ainsi que sur la coexistence des cultures génétiquement modifiées, conventionnelles et biologiques.
+- « Contrôle officiel » : le contrôle de la production en vue de la commercialisation et de la commercialisation des semences de légumes, effectué par un des organismes officiels de contrôle visés à l’article 5, paragraphe 1er de la loi du 18 mars 2008 sur la commercialisation des semences et plants ainsi que sur la coexistence des cultures génétiquement modifiées, conventionnelles et biologiques.
 
 <a id="art-4"></a>
 ## Art. 4.
@@ -537,7 +537,7 @@ Lorsque, dans ces cas, les semences ont été produites directement à partir de
 
 Les semences de légumes qui ont été récoltées dans l’Union européenne et sont destinées à être certifiées conformément aux dispositions prévues au paragraphe 1er, sont :
 
-- emballées et étiquetées à l’aide d’une étiquette officielle remplissant les conditions fixées à l’annexe VI, parties A et B, conformément aux dispositions prévues à l’article 15, paragraphe 1 er ; et
+- emballées et étiquetées à l’aide d’une étiquette officielle remplissant les conditions fixées à l’annexe VI, parties A et B, conformément aux dispositions prévues à l’article 15, paragraphe 1er ; et
 
 - accompagnées d’un document officiel remplissant les conditions prévues à l’annexe VI, partie C.
 

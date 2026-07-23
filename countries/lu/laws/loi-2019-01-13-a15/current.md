@@ -43,9 +43,9 @@ Pour l’application de la présente loi on entend par :
 
 - « gestionnaire » : le groupement d’intérêt économique Luxembourg Business Registers ;
 
-- « bénéficiaire effectif » : le bénéficiaire effectif défini à l’article 1 er , paragraphe 7, de la loi modifiée du 12 novembre 2004 relative à la lutte contre le blanchiment et contre le financement du terrorisme ;
+- « bénéficiaire effectif » : le bénéficiaire effectif défini à l’article 1er, paragraphe 7, de la loi modifiée du 12 novembre 2004 relative à la lutte contre le blanchiment et contre le financement du terrorisme ;
 
-- « entité immatriculée » : les entités immatriculées au Registre de commerce et des sociétés visées à l’article 1 er , points 2° à 5° et 6° à 17 ° , de la loi modifiée du 19 décembre 2002 concernant le registre de commerce et des sociétés ainsi que la comptabilité et les comptes annuels des entreprises ;
+- « entité immatriculée » : les entités immatriculées au Registre de commerce et des sociétés visées à l’article 1er, points 2° à 5° et 6° à 17 ° , de la loi modifiée du 19 décembre 2002 concernant le registre de commerce et des sociétés ainsi que la comptabilité et les comptes annuels des entreprises ;
 
 - « autorité nationale » : les autorités, administrations et entités suivantes :
 
@@ -329,7 +329,7 @@ Les personnes ayant un intérêt légitime dans le cadre de la lutte contre le b
 
 - les personnes qui souhaitent connaître l’identité des bénéficiaires effectifs d’une société ou d’une entité donnée du fait qu’elles sont susceptibles de conclure des transactions avec celles-ci et veulent éviter tout lien entre de telles transactions et le blanchiment et le financement du terrorisme ;
 
-- les autorités et administrations nationales impliquées dans la lutte contre des infractions en matière de blanchiment ou de financement du terrorisme dans la mesure où elles n’ont pas déjà accès aux informations en question sur base du paragraphe 1 er , points 1°, 2° ou 5°.
+- les autorités et administrations nationales impliquées dans la lutte contre des infractions en matière de blanchiment ou de financement du terrorisme dans la mesure où elles n’ont pas déjà accès aux informations en question sur base du paragraphe 1er, points 1°, 2° ou 5°.
 
 <a id="art-12"></a>
 ## Art. 12.
@@ -344,9 +344,9 @@ Les autres personnes visées à l’article 11 ont un accès limité aux informa
 
 L’accès est ouvert pour chaque personne ou entité aux informations suivantes :
 
-- pour les personnes visées à l’article 11, paragraphe 1 er , point 1° à l’ensemble des informations visées à l’article 3 ;
+- pour les personnes visées à l’article 11, paragraphe 1er, point 1° à l’ensemble des informations visées à l’article 3 ;
 
-- pour les autres personnes, aux informations visées à l’article 3, paragraphe 1 er , points 1° à 8°, 12° et 13°.
+- pour les autres personnes, aux informations visées à l’article 3, paragraphe 1er, points 1° à 8°, 12° et 13°.
 
 <a id="art-13"></a>
 ## Art. 13.

@@ -534,7 +534,7 @@ L’option est ouverte au majeur ayant accompli les engagements résultant du co
 
 - d’avoir une connaissance de la langue luxembourgeoise, documentée par le certificat de réussite de l’examen d’évaluation de la langue luxembourgeoise ; les dispositions de l’article 15 sont applicables ; et
 
-- d’avoir participé au cours « Vivre ensemble au Grand-Duché de Luxembourg » ou réussi l’examen sanctionnant ce cours. Les dispositions de l’article 16 sont applicables. La participation à la formation d’instruction civique, organisée dans le cadre du contrat d’accueil et d’intégration,ou le module d’au moins six heures qui permet d’avoir un aperçu sur le Grand-Duché de Luxembourg, organisé dans le cadre du pacte citoyen du vivreensemble interculturel, équivaut à la participation au module sur l’histoire du Grand-Duché de Luxembourg et l’intégration européenne, visée à l’article 16, paragraphe 1 er , point 3°.
+- d’avoir participé au cours « Vivre ensemble au Grand-Duché de Luxembourg » ou réussi l’examen sanctionnant ce cours. Les dispositions de l’article 16 sont applicables. La participation à la formation d’instruction civique, organisée dans le cadre du contrat d’accueil et d’intégration,ou le module d’au moins six heures qui permet d’avoir un aperçu sur le Grand-Duché de Luxembourg, organisé dans le cadre du pacte citoyen du vivreensemble interculturel, équivaut à la participation au module sur l’histoire du Grand-Duché de Luxembourg et l’intégration européenne, visée à l’article 16, paragraphe 1er, point 3°.
 
 <a id="art-n10c3c"></a>
 ## Art. 30.
@@ -704,7 +704,7 @@ Le ministre annule la déclaration d’option :
 
 - lorsque l’officier de l’état civil a acté la déclaration en violation des conditions légales ; ou
 
-- lorsque la personne concernée a fait de fausses affirmations, dissimulé des faits importants ou agi par fraude dans le cadre de la procédure d’option .
+- lorsque la personne concernée a fait de fausses affirmations, dissimulé des faits importants ou agi par fraude dans le cadre de la procédure d’option.
 
 La déclaration d’option peut être annulée endéans les quatre mois à compter de la réception du dossier par le ministre.
 
@@ -784,7 +784,7 @@ Préalablement à la souscription de la déclaration de recouvrement, le candida
 
   - l’autorisation pour l’officier de l’état civil de demander le bulletin N°2 du casier judiciaire auprès du service compétent ; et
 
-  - es extraits des casiers judiciaires étrangers ou les documents similaires, délivrés par les autorités compétentes du ou des pays étranger(s) dont le candidat possède ou a possédé la nationalité et du ou des pays étranger(s) où il a résidé à partir de l’âge de dix-huit ans pendant les quinze années précédant immédiatement l’introduction de la procédure de recouvrement .
+  - es extraits des casiers judiciaires étrangers ou les documents similaires, délivrés par les autorités compétentes du ou des pays étranger(s) dont le candidat possède ou a possédé la nationalité et du ou des pays étranger(s) où il a résidé à partir de l’âge de dix-huit ans pendant les quinze années précédant immédiatement l’introduction de la procédure de recouvrement.
 
 (2)
 
@@ -841,7 +841,7 @@ Le ministre annule la déclaration de recouvrement :
 
 - lorsque l’officier de l’état civil a acté la déclaration en violation des conditions légales ; ou
 
-- lorsque la personne concernée a fait de fausses affirmations, dissimulé des faits importants ou agi par fraude dans le cadre de la procédure de recouvrement .
+- lorsque la personne concernée a fait de fausses affirmations, dissimulé des faits importants ou agi par fraude dans le cadre de la procédure de recouvrement.
 
 La déclaration de recouvrement peut être annulée endéans les quatre mois à compter de la réception du dossier par le ministre.
 
@@ -1012,7 +1012,7 @@ Le ministre annule la déclaration de renonciation :
 
 - lorsque l’officier de l’état civil a acté la déclaration en violation des conditions légales ; ou
 
-- lorsque la personne concernée a fait de fausses affirmations, dissimulé des faits importants ou agi par fraude dans le cadre de la procédure de renonciation .
+- lorsque la personne concernée a fait de fausses affirmations, dissimulé des faits importants ou agi par fraude dans le cadre de la procédure de renonciation.
 
 La déclaration de renonciation peut être annulée endéans les quatre mois à compter de la réception du dossier par le ministre.
 
@@ -1148,7 +1148,7 @@ Le ministre délivre un certificat de nationalité luxembourgeoise :
 
 - s’il est exigé dans le cadre d’une procédure d’acquisition ou de recouvrement de la nationalité luxembourgeoise ou de renonciation à cette nationalité ; ou
 
-- s’il est exigé par une autorité publique étrangère .
+- s’il est exigé par une autorité publique étrangère.
 
 (2)
 
@@ -1322,7 +1322,7 @@ Les dispositions de l’article 40, point 3° ne s’appliquent pas au recouvrem
 
 Le descendant en ligne directe paternelle ou maternelle d’un aïeul luxembourgeois à la date du 1er janvier 1900 et que celui-ci ou l’un de ses descendants a perdu la nationalité luxembourgeoise sur base des dispositions légales antérieures, peut recouvrer la nationalité luxembourgeoise, à condition :
 
-- de présenter la demande en certification de la qualité de descendant d’un aïeul luxembourgeois à la date du 1 er janvier 1900 au ministre jusqu’au 31 décembre 2018 ; et
+- de présenter la demande en certification de la qualité de descendant d’un aïeul luxembourgeois à la date du 1er janvier 1900 au ministre jusqu’au 31 décembre 2018 ; et
 
 - de souscrire la déclaration de recouvrement de la nationalité luxembourgeoise devant l’officier de l’état civil jusqu’au 31 décembre 2025 .
 
@@ -1367,7 +1367,7 @@ Le registre de la nationalité luxembourgeoise comprend les données suivantes :
 
 - le nom et le ou les prénom(s) ;
 
-- le numéro d'identification, tel que défini par l’article 1 er de la loi modifiée du 19 juin 2013 relative à l’identification des personnes physiques ;
+- le numéro d'identification, tel que défini par l’article 1er de la loi modifiée du 19 juin 2013 relative à l’identification des personnes physiques ;
 
 - la date de naissance ;
 

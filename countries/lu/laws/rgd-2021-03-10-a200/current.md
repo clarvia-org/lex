@@ -44,19 +44,174 @@ Les programmes détaillés de la formation spéciale pour les groupes de traitem
 
 - Groupe de traitement A1
 
-  - Chargé/e d’études Examens Formations Matières Forme Points Intitulé Heures Droit administratif écrite 60 Législation concernant l’Administration du cadastre et de la topographie et les géomètres officiels (Lois de l’administration, Notes de service) 4 Législation concernant le remembrement 2 Législation concernant l’aménagement communal et le développement urbain 2 Droit civil écrite 60 Successions et libéralités 4 Contrats de mariage 2 Droits réels immobiliers 8 Les biens et les modifications de la propriété 4 Protection des données et Marchés publics écrite 60 Protection des données 4 Marchés publics 4 Documentation cadastrale écrite 60 Législation concernant la copropriété bâtie 4 Cadastre vertical pratique 4 Initiation à la matière cadastrale 6 Mutations et publicité foncière 8 Documentation topographique – Géodonnées écrite 60 Banques de données de l’Administration du cadastre et de la topographie 6 Géoportail 5 Systèmes d’information géographiques (SIG) 3 Open Data/Directive Inspire/ Infrastructure luxembourgeoise de données géographiques (ILDG) 3 Réseaux géodésiques 3 Limites d’État 2 Travail de fin de stage écrite 60
+  - Chargé/e d’études
 
-  - Chargé/e d’études « Géomètre officiel » Examens Formations Matières Forme Points Intitulé Heures Droit administratif écrite 60 Législation concernant l’Administration du cadastre et de la topographie et les géomètres officiels (Lois de l’administration, Notes de service) 4 Législation concernant le remembrement 2 Législation concernant l’aménagement communal et le développement urbain 2 Droit civil écrite 60 Successions et libéralités 4 Contrats de mariage 2 Droits réels immobiliers 8 Les biens et les modifications de la propriété 4 Protection des données non examinée Protection des données 4 Documentation cadastrale écrite 60 Législation concernant la copropriété bâtie 4 Cadastre vertical pratique 4 Initiation à la matière cadastrale 6 Mutations et publicité foncière 8 Documentation topographique – Géodonnées écrite 60 Banques de données de l’Administration du cadastre et de la topographie 6 Géoportail 5 Systèmes d’information géographiques (SIG) 3 Open Data/Directive Inspire/ Infrastructure luxembourgeoise de données géographiques (ILDG) 3 Réseaux géodésiques 3 Limites d’État 2 Traitement d’un dossier de mensuration officielle – volet terrain Pratique 60 Traitement d’un dossier de mensuration officielle – volet bureau pratique 60 Cette fonction du groupe de traitement A1 vise l’obtention conjointe de la qualité de fonctionnaire et du titre de Géomètre officiel suivant la loi modifiée du 25 juillet 2002 portant création et réglementation des professions de géomètre et de géomètre officiel. Le fonctionnaire stagiaire, détenteur du titre de géomètre officiel lors de son admission au stage, est dispensé des matières d’examens suivantes : Droit administratif, Droit civil, Traitement d’un dossier de mensuration officielle – volet terrain, Traitement d’un dossier de mensuration officielle – volet bureau et de la fréquentation des cours de formation y relatifs.
+| Examens | Formations |  |  |  |
+| --- | --- | --- | --- | --- |
+| Matières | Forme | Points | Intitulé | Heures |
+| Droit administratif | écrite | 60 | Législation concernant l’Administration du cadastre et de la topographie et les géomètres officiels (Lois de l’administration, Notes de service) | 4 |
+| Législation concernant le remembrement | 2 |  |  |  |
+| Législation concernant l’aménagement communal et le développement urbain | 2 |  |  |  |
+| Droit civil | écrite | 60 | Successions et libéralités | 4 |
+| Contrats de mariage | 2 |  |  |  |
+| Droits réels immobiliers | 8 |  |  |  |
+| Les biens et les modifications de la propriété | 4 |  |  |  |
+| Protection des données et Marchés publics | écrite | 60 | Protection des données | 4 |
+| Marchés publics | 4 |  |  |  |
+| Documentation cadastrale | écrite | 60 | Législation concernant la copropriété bâtie | 4 |
+| Cadastre vertical pratique | 4 |  |  |  |
+| Initiation à la matière cadastrale | 6 |  |  |  |
+| Mutations et publicité foncière | 8 |  |  |  |
+| Documentation topographique – Géodonnées | écrite | 60 | Banques de données de l’Administration du cadastre et de la topographie | 6 |
+| Géoportail | 5 |  |  |  |
+| Systèmes d’information géographiques (SIG) | 3 |  |  |  |
+| Open Data/Directive Inspire/ Infrastructure luxembourgeoise de données géographiques (ILDG) | 3 |  |  |  |
+| Réseaux géodésiques | 3 |  |  |  |
+| Limites d’État | 2 |  |  |  |
+| Travail de fin de stage | écrite | 60 |  |  |
 
-  - Attaché/e Examens Formations Matières Forme Points Intitulé Heures Droit administratif écrite 60 Législation concernant l’Administration du cadastre et de la topographie et les géomètres officiels (Lois de l’administration, Notes de service) 4 Législation concernant le remembrement 2 Législation concernant l’aménagement communal et le développement urbain 2 Droit civil écrite 60 Successions et libéralités 4 Contrats de mariage 2 Droits réels immobiliers 8 Les biens et les modifications de la propriété 4 Protection des données et Marchés publics écrite 60 Protection des données 4 Marchés publics 4 Documentation cadastrale écrite 60 Législation concernant la copropriété bâtie 4 Cadastre vertical pratique 4 Initiation à la matière cadastrale 6 Mutations et publicité foncière 8 Documentation topographique – Géodonnées écrite 60 Banques de données de l’Administration du cadastre et de la topographie 6 Géoportail 5 Open Data/Directive Inspire/ Infrastructure luxembourgeoise de données géographiques (ILDG) 3 Limites d’État 2 Travail de fin de stage écrite 60
+  - Chargé/e d’études « Géomètre officiel » loi modifiée du 25 juillet 2002 portant création et réglementation des professions de géomètre et de géomètre officiel. Le fonctionnaire stagiaire, détenteur du titre de géomètre officiel lors de son admission au stage, est dispensé des matières d’examens suivantes : Droit administratif, Droit civil, Traitement d’un dossier de mensuration officielle – volet terrain, Traitement d’un dossier de mensuration officielle – volet bureau et de la fréquentation des cours de formation y relatifs.
 
-- Groupe de traitement A2 Examens Formations Matières Forme Points Intitulé Heures Droit administratif et Droit civil écrite 60 Législation concernant l’Administration du cadastre et de la topographie et les géomètres officiels (Lois de l’administration, Notes de service) 4 Législation concernant le remembrement 2 Législation concernant l’aménagement communal et le développement urbain 2 Successions et libéralités 4 Contrats de mariage 2 Droits réels immobiliers 8 Les biens et les modifications de la propriété 4 Protection des données non examinée Protection des données 4 Documentation cadastrale écrite 60 Législation concernant la copropriété bâtie 4 Cadastre vertical pratique 4 Initiation à la matière cadastrale 6 Mutations et publicité foncière 8 Documentation topographique – Géodonnées écrite 60 Banques de données de l’Administration du cadastre et de la topographie 6 Géoportail 5 Systèmes d’information géographiques (SIG) 3 Open Data/ Directive Inspire/ Infrastructure luxembourgeoise de données géographiques (ILDG) 3 Réseaux géodésiques 3 Limites d’État 2 Travail de fin de stage écrite ou pratique 60
+| Examens | Formations |  |  |  |
+| --- | --- | --- | --- | --- |
+| Matières | Forme | Points | Intitulé | Heures |
+| Droit administratif | écrite | 60 | Législation concernant l’Administration du cadastre et de la topographie et les géomètres officiels (Lois de l’administration, Notes de service) | 4 |
+| Législation concernant le remembrement | 2 |  |  |  |
+| Législation concernant l’aménagement communal et le développement urbain | 2 |  |  |  |
+| Droit civil | écrite | 60 | Successions et libéralités | 4 |
+| Contrats de mariage | 2 |  |  |  |
+| Droits réels immobiliers | 8 |  |  |  |
+| Les biens et les modifications de la propriété | 4 |  |  |  |
+| Protection des données |  | non examinée | Protection des données | 4 |
+| Documentation cadastrale | écrite | 60 | Législation concernant la copropriété bâtie | 4 |
+| Cadastre vertical pratique | 4 |  |  |  |
+| Initiation à la matière cadastrale | 6 |  |  |  |
+| Mutations et publicité foncière | 8 |  |  |  |
+| Documentation topographique – Géodonnées | écrite | 60 | Banques de données de l’Administration du cadastre et de la topographie | 6 |
+| Géoportail | 5 |  |  |  |
+| Systèmes d’information géographiques (SIG) | 3 |  |  |  |
+| Open Data/Directive Inspire/ Infrastructure luxembourgeoise de données géographiques (ILDG) | 3 |  |  |  |
+| Réseaux géodésiques | 3 |  |  |  |
+| Limites d’État | 2 |  |  |  |
+| Traitement d’un dossier de mensuration officielle – volet terrain | Pratique | 60 |  |  |
+| Traitement d’un dossier de mensuration officielle – volet bureau | pratique | 60 |  |  |
 
-- Groupe de traitement B1 Examens Formations Matières Forme Points Intitulé Heures Droit administratif et Droit civil écrite 60 Législation concernant l’Administration du cadastre et de la topographie et les géomètres officiels (Lois de l’administration, Notes de service) 4 Législation concernant le remembrement 2 Législation concernant l’aménagement communal et le développement urbain 2 Successions et libéralités 4 Contrats de mariage 2 Droits réels immobiliers 8 Protection des données non examinée Protection des données 4 Documentation cadastrale écrite 60 Législation concernant la copropriété bâtie 4 Cadastre vertical pratique 4 Initiation à la matière cadastrale 6 Documentation cadastrale et recherches cadastrales 6 Mutations et publicité foncière 8 Documentation topographique – Géodonnées écrite 60 Banques de données de l’Administration du cadastre et de la topographie 3 Géoportail 5 Open Data/ Directive Inspire/ Infrastructure luxembourgeoise de données géographiques (ILDG) 3 Limites d’État 2 Travail de fin de stage écrite ou pratique 60
+Cette fonction du groupe de traitement A1 vise l’obtention conjointe de la qualité de fonctionnaire et du titre de Géomètre officiel suivant la
 
-- Groupe de traitement C1 Examens Formations Matières Forme Points Intitulé Heures Droit administratif et Droit civil écrite 60 Législation concernant l’Administration du cadastre et de la topographie et les géomètres officiels (Lois de l’administration, Notes de service) 4 Législation concernant le remembrement 2 Législation concernant l’aménagement communal et le développement urbain 2 Successions et libéralités 4 Contrats de mariage 2 Droits réels immobiliers 4 Protection des données non examinée Protection des données 4 Cadastre vertical et copropriété non examinée Législation concernant la copropriété bâtie 4 Cadastre vertical pratique 4 Documentation cadastrale écrite 60 Initiation à la matière cadastrale 6 Documentation cadastrale et recherches cadastrales 6 Mutations et publicité foncière 8 Documentation topographique – Géodonnées non examinée Banques de données de l’Administration du cadastre et de la topographie 3 Géoportail 5 Limites d’État 2 Travail de fin de stage écrite ou pratique 60
+  - Attaché/e
 
-- Groupe de traitement D2 Examens Formations Matières Forme Points Intitulé Heures Droit administratif, Droit civil et Documentation cadastrale écrite 60 Législation concernant l’Administration du cadastre et de la topographie et les géomètres officiels (Lois de l’administration, Notes de service) 4 Législation concernant le remembrement 2 Législation concernant l’aménagement communal et le développement urbain 2 Droits réels immobiliers 4 Les biens et les modifications de la propriété 4 Initiation à la matière cadastrale 6 Documentation cadastrale et recherches cadastrales 6 Protection des données non examinée Protection des données 2 Cadastre vertical et copropriété non examinée Législation concernant la copropriété bâtie 2 Cadastre vertical pratique 3 Documentation topographique – Géodonnées non examinée Banques de données de l’Administration du cadastre et de la topographie 3 Géoportail 5 Réseaux géodésiques 3 Limites d’État 2 Travail de fin de stage Pratique 60 Initiation métier 12
+| Examens | Formations |  |  |  |
+| --- | --- | --- | --- | --- |
+| Matières | Forme | Points | Intitulé | Heures |
+| Droit administratif | écrite | 60 | Législation concernant l’Administration du cadastre et de la topographie et les géomètres officiels (Lois de l’administration, Notes de service) | 4 |
+| Législation concernant le remembrement | 2 |  |  |  |
+| Législation concernant l’aménagement communal et le développement urbain | 2 |  |  |  |
+| Droit civil | écrite | 60 | Successions et libéralités | 4 |
+| Contrats de mariage | 2 |  |  |  |
+| Droits réels immobiliers | 8 |  |  |  |
+| Les biens et les modifications de la propriété | 4 |  |  |  |
+| Protection des données et Marchés publics | écrite | 60 | Protection des données | 4 |
+| Marchés publics | 4 |  |  |  |
+| Documentation cadastrale | écrite | 60 | Législation concernant la copropriété bâtie | 4 |
+| Cadastre vertical pratique | 4 |  |  |  |
+| Initiation à la matière cadastrale | 6 |  |  |  |
+| Mutations et publicité foncière | 8 |  |  |  |
+| Documentation topographique – Géodonnées | écrite | 60 | Banques de données de l’Administration du cadastre et de la topographie | 6 |
+| Géoportail | 5 |  |  |  |
+| Open Data/Directive Inspire/ Infrastructure luxembourgeoise de données géographiques (ILDG) | 3 |  |  |  |
+| Limites d’État | 2 |  |  |  |
+| Travail de fin de stage | écrite | 60 |  |  |
+
+- Groupe de traitement A2
+
+| Examens | Formations |  |  |  |
+| --- | --- | --- | --- | --- |
+| Matières | Forme | Points | Intitulé | Heures |
+| Droit administratif et Droit civil | écrite | 60 | Législation concernant l’Administration du cadastre et de la topographie et les géomètres officiels (Lois de l’administration, Notes de service) | 4 |
+| Législation concernant le remembrement | 2 |  |  |  |
+| Législation concernant l’aménagement communal et le développement urbain | 2 |  |  |  |
+| Successions et libéralités | 4 |  |  |  |
+| Contrats de mariage | 2 |  |  |  |
+| Droits réels immobiliers | 8 |  |  |  |
+| Les biens et les modifications de la propriété | 4 |  |  |  |
+| Protection des données |  | non examinée | Protection des données | 4 |
+| Documentation cadastrale | écrite | 60 | Législation concernant la copropriété bâtie | 4 |
+| Cadastre vertical pratique | 4 |  |  |  |
+| Initiation à la matière cadastrale | 6 |  |  |  |
+| Mutations et publicité foncière | 8 |  |  |  |
+| Documentation topographique – Géodonnées | écrite | 60 | Banques de données de l’Administration du cadastre et de la topographie | 6 |
+| Géoportail | 5 |  |  |  |
+| Systèmes d’information géographiques (SIG) | 3 |  |  |  |
+| Open Data/ Directive Inspire/ Infrastructure luxembourgeoise de données géographiques (ILDG) | 3 |  |  |  |
+| Réseaux géodésiques | 3 |  |  |  |
+| Limites d’État | 2 |  |  |  |
+| Travail de fin de stage | écrite ou pratique | 60 |  |  |
+
+- Groupe de traitement B1
+
+| Examens | Formations |  |  |  |
+| --- | --- | --- | --- | --- |
+| Matières | Forme | Points | Intitulé | Heures |
+| Droit administratif et Droit civil | écrite | 60 | Législation concernant l’Administration du cadastre et de la topographie et les géomètres officiels (Lois de l’administration, Notes de service) | 4 |
+| Législation concernant le remembrement | 2 |  |  |  |
+| Législation concernant l’aménagement communal et le développement urbain | 2 |  |  |  |
+| Successions et libéralités | 4 |  |  |  |
+| Contrats de mariage | 2 |  |  |  |
+| Droits réels immobiliers | 8 |  |  |  |
+| Protection des données |  | non examinée | Protection des données | 4 |
+| Documentation cadastrale | écrite | 60 | Législation concernant la copropriété bâtie | 4 |
+| Cadastre vertical pratique | 4 |  |  |  |
+| Initiation à la matière cadastrale | 6 |  |  |  |
+| Documentation cadastrale et recherches cadastrales | 6 |  |  |  |
+| Mutations et publicité foncière | 8 |  |  |  |
+| Documentation topographique – Géodonnées | écrite | 60 | Banques de données de l’Administration du cadastre et de la topographie | 3 |
+| Géoportail | 5 |  |  |  |
+| Open Data/ Directive Inspire/ Infrastructure luxembourgeoise de données géographiques (ILDG) | 3 |  |  |  |
+| Limites d’État | 2 |  |  |  |
+| Travail de fin de stage | écrite ou pratique | 60 |  |  |
+
+- Groupe de traitement C1
+
+| Examens | Formations |  |  |  |
+| --- | --- | --- | --- | --- |
+| Matières | Forme | Points | Intitulé | Heures |
+| Droit administratif et Droit civil | écrite | 60 | Législation concernant l’Administration du cadastre et de la topographie et les géomètres officiels (Lois de l’administration, Notes de service) | 4 |
+| Législation concernant le remembrement | 2 |  |  |  |
+| Législation concernant l’aménagement communal et le développement urbain | 2 |  |  |  |
+| Successions et libéralités | 4 |  |  |  |
+| Contrats de mariage | 2 |  |  |  |
+| Droits réels immobiliers | 4 |  |  |  |
+| Protection des données |  | non examinée | Protection des données | 4 |
+| Cadastre vertical et copropriété |  | non examinée | Législation concernant la copropriété bâtie | 4 |
+| Cadastre vertical pratique | 4 |  |  |  |
+| Documentation cadastrale | écrite | 60 | Initiation à la matière cadastrale | 6 |
+| Documentation cadastrale et recherches cadastrales | 6 |  |  |  |
+| Mutations et publicité foncière | 8 |  |  |  |
+| Documentation topographique – Géodonnées |  | non examinée | Banques de données de l’Administration du cadastre et de la topographie | 3 |
+| Géoportail | 5 |  |  |  |
+| Limites d’État | 2 |  |  |  |
+| Travail de fin de stage | écrite ou pratique | 60 |  |  |
+
+- Groupe de traitement D2
+
+| Examens | Formations |  |  |  |
+| --- | --- | --- | --- | --- |
+| Matières | Forme | Points | Intitulé | Heures |
+| Droit administratif, Droit civil et Documentation cadastrale | écrite | 60 | Législation concernant l’Administration du cadastre et de la topographie et les géomètres officiels (Lois de l’administration, Notes de service) | 4 |
+| Législation concernant le remembrement | 2 |  |  |  |
+| Législation concernant l’aménagement communal et le développement urbain | 2 |  |  |  |
+| Droits réels immobiliers | 4 |  |  |  |
+| Les biens et les modifications de la propriété | 4 |  |  |  |
+| Initiation à la matière cadastrale | 6 |  |  |  |
+| Documentation cadastrale et recherches cadastrales | 6 |  |  |  |
+| Protection des données |  | non examinée | Protection des données | 2 |
+| Cadastre vertical et copropriété |  | non examinée | Législation concernant la copropriété bâtie | 2 |
+| Cadastre vertical pratique | 3 |  |  |  |
+| Documentation topographique – Géodonnées |  | non examinée | Banques de données de l’Administration du cadastre et de la topographie | 3 |
+| Géoportail | 5 |  |  |  |
+| Réseaux géodésiques | 3 |  |  |  |
+| Limites d’État | 2 |  |  |  |
+| Travail de fin de stage | Pratique | 60 | Initiation métier | 12 |
 
 #### Chapitre 3 Modalités et programmes de l’examen de fin de stage en formation spéciale
 

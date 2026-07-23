@@ -239,7 +239,7 @@ La fouille des véhicules spécialement aménagés à usage d’habitation et ef
 
 La Police peut procéder à la fouille de sécurité dans les cas suivants :
 
-- lorsqu’il existe un ou plusieurs indices qu’une personne, visée par une des mesures prévues à l’article 5, paragraphe 1 er , et l’article 13, porte des objets ou substances présentant un danger grave, concret ou imminent pour la sécurité publique ;
+- lorsqu’il existe un ou plusieurs indices qu’une personne, visée par une des mesures prévues à l’article 5, paragraphe 1er, et l’article 13, porte des objets ou substances présentant un danger grave, concret ou imminent pour la sécurité publique ;
 
 - lorsqu’il existe un ou plusieurs indices qu’une personne, visée par une des mesures prévues aux articles 5, paragraphe 4, et aux articles 7, 14 et 15, porte des objets dangereux pour elle-même ou pour autrui.
 
@@ -445,7 +445,7 @@ Ont la qualité d’officier de police judiciaire :
 
 - Les membres des groupes de traitement B1 et C1 du cadre policier nommés aux grades d’ancienneté de commissaire adjoint, commissaire, premier commissaire et commissaire en chef conformément à l’article 54.
 
-- Les fonctionnaires de la catégorie de traitement A, groupes de traitement A1 et A2, et du groupe de traitement B1 tels que prévus par la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État, ainsi que les employés de la catégorie d’indemnité A, groupe d’indemnité A1 et A2, et du groupe d’indemnité B1, tels que prévus par la loi modifiée du 25 mars 2015 déterminant le régime et les indemnités des employés de l’État, qui ne relèvent pas du cadre policier, affectés depuis deux années au sein de la Police et appelés à exercer des missions de police judiciaire, nominativement désignés par un arrêté du ministre ayant la Justice dans ses attributions , sur proposition du directeur général de la Police, après avoir suivi une formation professionnelle spécifique portant sur la recherche et la constatation des infractions ainsi que sur les dispositions pénales relatives à leur domaine de compétences spécifique. La formation est sanctionnée par une épreuve orale cotée sur un maximum de vingt points. Le candidat a réussi s’il a obtenu au moins la moitié des points. En cas d’échec, le candidat peut se présenter à une deuxième épreuve. Le programme et la durée de formation sont arrêtés par règlement grand-ducal.
+- Les fonctionnaires de la catégorie de traitement A, groupes de traitement A1 et A2, et du groupe de traitement B1 tels que prévus par la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État, ainsi que les employés de la catégorie d’indemnité A, groupe d’indemnité A1 et A2, et du groupe d’indemnité B1, tels que prévus par la loi modifiée du 25 mars 2015 déterminant le régime et les indemnités des employés de l’État, qui ne relèvent pas du cadre policier, affectés depuis deux années au sein de la Police et appelés à exercer des missions de police judiciaire, nominativement désignés par un arrêté du ministre ayant la Justice dans ses attributions, sur proposition du directeur général de la Police, après avoir suivi une formation professionnelle spécifique portant sur la recherche et la constatation des infractions ainsi que sur les dispositions pénales relatives à leur domaine de compétences spécifique. La formation est sanctionnée par une épreuve orale cotée sur un maximum de vingt points. Le candidat a réussi s’il a obtenu au moins la moitié des points. En cas d’échec, le candidat peut se présenter à une deuxième épreuve. Le programme et la durée de formation sont arrêtés par règlement grand-ducal.
 
 Avant d’acquérir la qualité d’officier de police judiciaire, les membres du cadre civil énumérés à l’alinéa précédent prêtent, entre les mains du directeur général ou de son délégué, le serment suivant :
 
@@ -747,7 +747,7 @@ Dans l’exercice de leurs missions de police judiciaire et de police administra
 
 - le registre général des personnes physiques créé par la loi modifiée du 19 juin 2013 relative à l’identification des personnes physiques et le répertoire général créé par la loi modifiée du 30 mars 1979 organisant l’identification numérique des personnes physiques et morales ;
 
-- le fichier relatif aux affiliations des salariés, des indépendants et des employeurs géré par le Centre commun de la sécurité sociale sur base de l’article 413 du Code de la sécurité sociale , à l’exclusion de toutes données relatives à la santé ;
+- le fichier relatif aux affiliations des salariés, des indépendants et des employeurs géré par le Centre commun de la sécurité sociale sur base de l’article 413 du Code de la sécurité sociale, à l’exclusion de toutes données relatives à la santé ;
 
 - le fichier des étrangers exploité pour le compte du Service des étrangers du ministre ayant l’Immigration dans ses attributions ;
 
@@ -785,7 +785,7 @@ Les données à caractère personnel des fichiers accessibles en vertu du paragr
 
 Le système informatique par lequel l’accès direct est opéré est aménagé de sorte que :
 
-- les membres de la Police visés aux paragraphes 1 er et 2 ne puissent consulter les fichiers auxquels ils ont accès qu’en indiquant leur identifiant numérique personnel ;
+- les membres de la Police visés aux paragraphes 1er et 2 ne puissent consulter les fichiers auxquels ils ont accès qu’en indiquant leur identifiant numérique personnel ;
 
 - les informations relatives aux membres de la Police ayant procédé à la consultation, ainsi que les informations consultées, la date et l’heure de la consultation sont enregistrées et conservées pendant un délai d’au moins cinq ans, afin que le motif de la consultation puisse être retracé. Les données à caractère personnel consultées doivent avoir un lien direct avec les faits ayant motivé la consultation.
 
@@ -911,7 +911,7 @@ Les enregistrements ont pour finalités :
 
 Les catégories de données à caractère personnel et informations enregistrées sont :
 
-- les images et les sons captés par les caméras dans les conditions prévues au paragraphe 1 er et pour les finalités énoncées au paragraphe 2 ;
+- les images et les sons captés par les caméras dans les conditions prévues au paragraphe 1er et pour les finalités énoncées au paragraphe 2 ;
 
 - le jour et les plages horaires d’enregistrement ;
 
@@ -1229,7 +1229,7 @@ L’accès aux informations et données à caractère personnel contenues dans l
 
 - la prise de connaissance des informations et données à caractère personnel dans le cadre d’une enquête en cours relative à un crime ou un délit ;
 
-- la prise de connaissance des informations et données à caractère personnel dans le cadre d’une demande en révision conformément aux articles 443 et suivants du Code de procédure pénale .
+- la prise de connaissance des informations et données à caractère personnel dans le cadre d’une demande en révision conformément aux articles 443 et suivants du Code de procédure pénale.
 
 La consultation des informations et données à caractère personnel contenues dans la partie passive du fichier central pour une de ces finalités n’est possible qu’avec l’accord du procureur général d’État ou des membres de son parquet désignés à cet effet ou, pour la finalité visée à l’alinéa 1er, point 1°, sur demande du procureur d’État territorialement compétent ou du juge d’instruction en charge de l’instruction préparatoire.
 
@@ -1372,7 +1372,7 @@ La direction centrale « ressources et compétences » comprend :
 
 - une direction formation avec une École de Police ;
 
-- une direction des finances .
+- une direction des finances.
 
 - une direction logistique ;
 
@@ -1532,7 +1532,7 @@ Le retrait du statut de fonctionnaire stagiaire du cadre policier est prononcé 
 
 - pour motifs graves tant dans le service qu’en dehors du service ;
 
-- lorsque l’une des appréciations des performances professionnelles donne lieu à une appréciation professionnelle insuffisante telle que prévue par l’article 4 bis de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’État.
+- lorsque l’une des appréciations des performances professionnelles donne lieu à une appréciation professionnelle insuffisante telle que prévue par l’article 4bis de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’État.
 
 Le retrait du statut de fonctionnaire stagiaire du cadre policier en application du présent article équivaut à une résiliation du stage au sens de l’article 2 de la loi précitée du 16 avril 1979.
 
@@ -1676,7 +1676,7 @@ Il est institué auprès du ministre une commission de contrôle de la carrière
 
 - émettre son avis sur le respect de la procédure de demande de changement de groupe de traitement introduite en vertu de l’article 75 ou des procédures de demande de changement de groupe temporaire introduites en vertu de l’article 94 ;
 
-- veiller à ce que les limites et conditions prévues par les articles 74 et 76 soient respectées pour toute demande introduite en vertu de l’article 75 et veiller à ce que les limites et conditions d’éligibilité fixées par l’article 94, paragraphes 2, 4, alinéas 2 à 4, et 5 , soient respectées pour toute demande introduite en vertu du paragraphe 5, alinéa 1 er ;
+- veiller à ce que les limites et conditions prévues par les articles 74 et 76 soient respectées pour toute demande introduite en vertu de l’article 75 et veiller à ce que les limites et conditions d’éligibilité fixées par l’article 94, paragraphes 2, 4, alinéas 2 à 4, et 5 , soient respectées pour toute demande introduite en vertu du paragraphe 5, alinéa 1er ;
 
 - évaluer les compétences du candidat par rapport aux missions et exigences du poste brigué ;
 
@@ -1784,9 +1784,17 @@ L’indemnité visée à l’article 81, paragraphe 1er, est allouée aux membre
 
 Le Code de procédure pénale est modifié comme suit :
 
-- L’article 10 est modifié comme suit : Art. 10. Ont la qualité d’officier de police judiciaire les membres de la Police grand-ducale tels que définis à l’article 17 de la loi du 18 juillet 2018 sur la Police grand-ducale.
+- L’article 10 est modifié comme suit :
 
-- L’article 13, paragraphe 1 er est modifié comme suit : (1) Sont agents de police judiciaire les membres de la Police grand-ducale tels que définis à l’article 17 de la loi du 18 juillet 2018 sur la Police grand-ducale.
+Art. 10.
+
+Ont la qualité d’officier de police judiciaire les membres de la Police grand-ducale tels que définis à l’article 17 de la loi du 18 juillet 2018 sur la Police grand-ducale.
+
+- L’article 13, paragraphe 1er est modifié comme suit :
+
+(1)
+
+Sont agents de police judiciaire les membres de la Police grand-ducale tels que définis à l’article 17 de la loi du 18 juillet 2018 sur la Police grand-ducale.
 
 - À l’article 45, paragraphe 5, le terme quatre est remplacé par le terme six .
 
@@ -1813,19 +1821,27 @@ La loi modifiée du 25 mars 2015 fixant le régime des traitements et les condit
 
 - L’article 4 est modifié comme suit :
 
-  - Au paragraphe 1 er , alinéa 4, les termes pour les fonctionnaires de la catégorie de traitement D, des rubriques « Armée, Police et Inspection générale de la Police » et « Douanes » sont remplacés par les termes pour les fonctionnaires de la catégorie de traitement C, groupe de traitement C1 de la rubrique « Armée, Police et Inspection générale de la Police » et les fonctionnaires de la catégorie de traitement D de la rubrique « Douanes » .
+  - Au paragraphe 1er, alinéa 4, les termes pour les fonctionnaires de la catégorie de traitement D, des rubriques « Armée, Police et Inspection générale de la Police » et « Douanes » sont remplacés par les termes pour les fonctionnaires de la catégorie de traitement C, groupe de traitement C1 de la rubrique « Armée, Police et Inspection générale de la Police » et les fonctionnaires de la catégorie de traitement D de la rubrique « Douanes » .
 
-  - Au paragraphe 1 er , il est ajouté un cinquième et un sixième alinéa libellés comme suit : Pour les fonctionnaires de la catégorie de traitement B, groupe de traitement B1 de la rubrique « Armée, Police et Inspection générale de la Police », le traitement du fonctionnaire nouvellement nommé est calculé à partir du troisième échelon de son grade de computation de la bonification d’ancienneté, sans préjudice de l’application des dispositions des articles 5 et 6 ci-après. Pour les fonctionnaires de la catégorie de traitement C, groupe de traitement C2, sous-groupe policier de la rubrique « Armée, Police et Inspection générale de la Police », le traitement du fonctionnaire nouvellement nommé est calculé à partir du septième échelon de son grade de computation de la bonification d’ancienneté, sans préjudice de l’application des dispositions des articles 5 et 6 ci-après.
+  - Au paragraphe 1er, il est ajouté un cinquième et un sixième alinéa libellés comme suit :
+
+Pour les fonctionnaires de la catégorie de traitement B, groupe de traitement B1 de la rubrique « Armée, Police et Inspection générale de la Police », le traitement du fonctionnaire nouvellement nommé est calculé à partir du troisième échelon de son grade de computation de la bonification d’ancienneté, sans préjudice de l’application des dispositions des articles 5 et 6 ci-après.
+
+Pour les fonctionnaires de la catégorie de traitement C, groupe de traitement C2, sous-groupe policier de la rubrique « Armée, Police et Inspection générale de la Police », le traitement du fonctionnaire nouvellement nommé est calculé à partir du septième échelon de son grade de computation de la bonification d’ancienneté, sans préjudice de l’application des dispositions des articles 5 et 6 ci-après.
 
   - Au paragraphe 3, sous la rubrique « Armée, Police et Inspection générale de la Police », au point a) le grade F8 est remplacé par le grade F11 et au point b) les termes catégorie D, groupe D1 sont remplacés par les termes catégorie C, groupe C1 .
 
-- L’article 14, paragraphe 1 er est modifié comme suit :
+- L’article 14, paragraphe 1er est modifié comme suit :
 
-  - À l’alinéa 1 er , le point b) est remplacé comme suit : un sous-groupe policier avec un niveau général et un niveau supérieur ;
+  - À l’alinéa 1er, le point b) est remplacé comme suit :
+
+- un sous-groupe policier avec un niveau général et un niveau supérieur ;
 
   - À l’alinéa 2, le grade F8 est remplacé par le grade F11 , le grade F9 est remplacé par le grade F12 et le grade F10 est remplacé par le grade F13 .
 
-  - L’alinéa 3 est remplacé comme suit : Pour le sous-groupe sous b), le niveau général comprend les grades F11, F12 et F13 et les avancements en traitement aux grades F12 et F13 se font après respectivement trois et six années de grade à compter de la première nomination.
+  - L’alinéa 3 est remplacé comme suit :
+
+Pour le sous-groupe sous b), le niveau général comprend les grades F11, F12 et F13 et les avancements en traitement aux grades F12 et F13 se font après respectivement trois et six années de grade à compter de la première nomination.
 
   - À l’alinéa 5, le grade F11 est remplacé par le grade F14 et le grade F12 est remplacé par le grade F15 .
 
@@ -1835,41 +1851,69 @@ La loi modifiée du 25 mars 2015 fixant le régime des traitements et les condit
 
     - Au point 1°, le grade F8 est remplacé par le grade F11 , le grade F9 est remplacé par le grade F12 et le grade F10 est remplacé par le grade F13 .
 
-    - Le point 2° est remplacé comme suit : Les fonctions de directeur général adjoint de la Police, d’inspecteur général adjoint de la Police, de directeur central de la Police, de lieutenant-colonel/chef d’état-major adjoint de l’Armée, de lieutenant-colonel/commandant du centre militaire et de médecin de l’Armée sont classées au grade F16. Pour les fonctions de directeur général adjoint de la Police, d’inspecteur général adjoint de la Police, de lieutenant-colonel/chef d’état-major adjoint de l’Armée, de lieutenant-colonel/commandant du centre militaire et de médecin de l’Armée, l’indice 616 du grade F16 est remplacé par l’indice 625.
+    - Le point 2° est remplacé comme suit :
+
+- Les fonctions de directeur général adjoint de la Police, d’inspecteur général adjoint de la Police, de directeur central de la Police, de lieutenant-colonel/chef d’état-major adjoint de l’Armée, de lieutenant-colonel/commandant du centre militaire et de médecin de l’Armée sont classées au grade F16. Pour les fonctions de directeur général adjoint de la Police, d’inspecteur général adjoint de la Police, de lieutenant-colonel/chef d’état-major adjoint de l’Armée, de lieutenant-colonel/commandant du centre militaire et de médecin de l’Armée, l’indice 616 du grade F16 est remplacé par l’indice 625.
 
     - Au point 3°, le grade F14 est remplacé par le grade F17 .
 
-- À l’article 14, il est inséré après le paragraphe 1 er un paragraphe 1 bis qui prend la teneur suivante : (1bis) Dans la catégorie de traitement A, groupe de traitement A2, il est créé un sous-groupe policier avec un niveau général et un niveau supérieur. Pour ce sous-groupe, le niveau général comprend les grades F9, F10 et F11 et les avancements en traitement aux grades F10 et F11 se font après respectivement trois et six années de grade à compter de la première nomination. Dans ce sous-groupe, l’accès au niveau supérieur se fait par promotion et est subordonné à l’accomplissement d’au moins douze années de grade passées au niveau général. Pour ce sous-groupe, le niveau supérieur comprend les grades F12 et F13 et les promotions aux grades F12 et F13 interviennent, sous réserve que toutes les conditions prévues par la loi soient remplies, après chaque fois trois années de grade à compter du dernier avancement en grade, sans que la promotion au dernier grade du sous-groupe ne puisse intervenir avant d’avoir accompli vingt années de grade à compter de la première nomination. La promotion au dernier grade est en outre liée à la condition d’avoir accompli au moins trente journées de formation continue attestées par des certificats de perfectionnement établis par l’Institut national d’administration publique ou d’en avoir été dispensé pour des raisons dûment motivées ou d’avoir suivi une autre formation reconnue équivalente par le ministre ayant la Fonction publique dans ses attributions.
+- À l’article 14, il est inséré après le paragraphe 1er un paragraphe 1bis qui prend la teneur suivante :
 
-- À l’article 14, il est inséré après le paragraphe 1 bis un nouveau paragraphe 1 ter qui prend la teneur suivante : (1ter) Dans la catégorie de traitement B, groupe de traitement B1, il est créé un sous-groupe policier avec un niveau général et un niveau supérieur. Pour ce sous-groupe, le niveau général comprend les grades F6, F7, F8 et F9 et les avancements en traitement aux grades F7, F8 et F9 se font après respectivement trois, six et neuf années de grade à compter de la première nomination. Pour bénéficier du second avancement en traitement et des avancements en grade ultérieurs de son sous-groupe, le fonctionnaire doit avoir passé avec succès un examen de promotion. Toutefois, la condition d’avoir passé avec succès un examen de promotion n’est pas requise pour bénéficier du second avancement en traitement lorsque le fonctionnaire est âgé de cinquante ans au moins. Dans ce sous-groupe, l’accès au niveau supérieur se fait par promotion et est subordonné à l’accomplissement d’au moins douze années de grade passées au niveau général et à la condition d’avoir suivi au moins douze jours de formation continue à l’Institut national d’administration publique ou d’en avoir été dispensé pour des raisons dûment motivées ou d’avoir suivi une autre formation reconnue équivalente par le ministre ayant la Fonction publique dans ses attributions. Pour ce sous-groupe, le niveau supérieur comprend les grades F10, F11 et F12 et les promotions aux grades F10, F11 et F12 interviennent, sous réserve que toutes les conditions prévues par la loi soient remplies, après chaque fois trois années de grade à compter du dernier avancement en grade, sans que la promotion au dernier grade du sous-groupe ne puisse intervenir avant d’avoir accompli vingt années de grade à compter de la première nomination. La promotion au dernier grade est en outre liée à la condition d’avoir accompli au moins trente journées de formation continue attestées par des certificats de perfectionnement établis par l’Institut national d’administration publique ou d’en avoir été dispensé pour des raisons dûment motivées ou d’avoir suivi une autre formation reconnue équivalente par le ministre ayant la Fonction publique dans ses attributions.
+(1bis)
+
+Dans la catégorie de traitement A, groupe de traitement A2, il est créé un sous-groupe policier avec un niveau général et un niveau supérieur.
+
+Pour ce sous-groupe, le niveau général comprend les grades F9, F10 et F11 et les avancements en traitement aux grades F10 et F11 se font après respectivement trois et six années de grade à compter de la première nomination.
+
+Dans ce sous-groupe, l’accès au niveau supérieur se fait par promotion et est subordonné à l’accomplissement d’au moins douze années de grade passées au niveau général.
+
+Pour ce sous-groupe, le niveau supérieur comprend les grades F12 et F13 et les promotions aux grades F12 et F13 interviennent, sous réserve que toutes les conditions prévues par la loi soient remplies, après chaque fois trois années de grade à compter du dernier avancement en grade, sans que la promotion au dernier grade du sous-groupe ne puisse intervenir avant d’avoir accompli vingt années de grade à compter de la première nomination.
+
+La promotion au dernier grade est en outre liée à la condition d’avoir accompli au moins trente journées de formation continue attestées par des certificats de perfectionnement établis par l’Institut national d’administration publique ou d’en avoir été dispensé pour des raisons dûment motivées ou d’avoir suivi une autre formation reconnue équivalente par le ministre ayant la Fonction publique dans ses attributions.
+
+- À l’article 14, il est inséré après le paragraphe 1bis un nouveau paragraphe 1ter qui prend la teneur suivante :
+
+(1ter)
+
+Dans la catégorie de traitement B, groupe de traitement B1, il est créé un sous-groupe policier avec un niveau général et un niveau supérieur.
+
+Pour ce sous-groupe, le niveau général comprend les grades F6, F7, F8 et F9 et les avancements en traitement aux grades F7, F8 et F9 se font après respectivement trois, six et neuf années de grade à compter de la première nomination.
+
+Pour bénéficier du second avancement en traitement et des avancements en grade ultérieurs de son sous-groupe, le fonctionnaire doit avoir passé avec succès un examen de promotion. Toutefois, la condition d’avoir passé avec succès un examen de promotion n’est pas requise pour bénéficier du second avancement en traitement lorsque le fonctionnaire est âgé de cinquante ans au moins.
+
+Dans ce sous-groupe, l’accès au niveau supérieur se fait par promotion et est subordonné à l’accomplissement d’au moins douze années de grade passées au niveau général et à la condition d’avoir suivi au moins douze jours de formation continue à l’Institut national d’administration publique ou d’en avoir été dispensé pour des raisons dûment motivées ou d’avoir suivi une autre formation reconnue équivalente par le ministre ayant la Fonction publique dans ses attributions.
+
+Pour ce sous-groupe, le niveau supérieur comprend les grades F10, F11 et F12 et les promotions aux grades F10, F11 et F12 interviennent, sous réserve que toutes les conditions prévues par la loi soient remplies, après chaque fois trois années de grade à compter du dernier avancement en grade, sans que la promotion au dernier grade du sous-groupe ne puisse intervenir avant d’avoir accompli vingt années de grade à compter de la première nomination.
+
+La promotion au dernier grade est en outre liée à la condition d’avoir accompli au moins trente journées de formation continue attestées par des certificats de perfectionnement établis par l’Institut national d’administration publique ou d’en avoir été dispensé pour des raisons dûment motivées ou d’avoir suivi une autre formation reconnue équivalente par le ministre ayant la Fonction publique dans ses attributions.
 
 - À l’article 14, le paragraphe 2 est modifié comme suit :
 
-  - L’alinéa 1 er est modifié comme suit :
+  - L’alinéa 1er est modifié comme suit :
 
     - Les termes catégorie de traitement D, groupe de traitement D1 sont remplacés par les termes catégorie de traitement C, groupe de traitement C1 .
 
     - Le point b) est remplacé comme suit : b) un sous-groupe policier avec un niveau général et un niveau supérieur ;
 
-  - À l’alinéa 3, les termes les grades F2 avec la fonction d’inspecteur adjoint, F3 avec la fonction d’inspecteur et F4 avec la fonction de premier inspecteur sont remplacés par les termes les grades F2, F3 et F4 .
+  - À l’alinéa 3, les termes les grades F2 avec la fonction d’inspecteur adjoint, F3 avec la fonction d’inspecteur et F4 avec la fonction de premier inspecteur sont remplacés par les termes les grades F2, F3 et F4.
 
-  - À l’alinéa 7, les termes les grades F5 avec la fonction d’inspecteur-chef, F6 avec la fonction de commissaire et F7 avec la fonction de commissaire en chef sont remplacés par les termes les grades F5, F6 et F7 .
+  - À l’alinéa 7, les termes les grades F5 avec la fonction d’inspecteur-chef, F6 avec la fonction de commissaire et F7 avec la fonction de commissaire en chef sont remplacés par les termes les grades F5, F6 et F7.
 
 - À l’article 14, le paragraphe 3 est modifié comme suit :
 
-  - L’alinéa 1 er est modifié comme suit :
+  - L’alinéa 1er est modifié comme suit :
 
-    - Les termes catégorie de traitement D, groupe de traitement D2 sont remplacés par les termes catégorie de traitement C, groupe de traitement C2 .
+    - Les termes catégorie de traitement D, groupe de traitement D2 sont remplacés par les termes catégorie de traitement C, groupe de traitement C2.
 
     - Le point b) est remplacé comme suit : b) un sous-groupe policier avec un niveau général et un niveau supérieur.
 
-  - À l’alinéa 3 , les termes les grades F1 avec la fonction de caporal et F2 avec la fonction de caporal de première classe sont remplacés par les termes les grades F1 et F2 .
+  - À l’alinéa 3 , les termes les grades F1 avec la fonction de caporal et F2 avec la fonction de caporal de première classe sont remplacés par les termes les grades F1 et F2.
 
-  - À l’alinéa 7, les termes les grades F3 avec la fonction de brigadier principal et F4 avec la fonction de brigadier-chef sont remplacés par les termes les grades F3 et F4 .
+  - À l’alinéa 7, les termes les grades F3 avec la fonction de brigadier principal et F4 avec la fonction de brigadier-chef sont remplacés par les termes les grades F3 et F4.
 
 - L’article 16, paragraphe 4 est modifié comme suit :
 
-  - À l’alinéa 1 er , point e), le terme C2, est ajouté derrière les termes groupes de traitement .
+  - À l’alinéa 1er, point e), le terme C2, est ajouté derrière les termes groupes de traitement.
 
   - À l’alinéa 2, les points b), c) et d) sont supprimés, le point e) devenant le nouveau point b).
 
@@ -1877,17 +1921,39 @@ La loi modifiée du 25 mars 2015 fixant le régime des traitements et les condit
 
 - L’article 22 est modifié comme suit :
 
-  - Au paragraphe 1 er , point c), les termes catégorie de traitement D sont remplacés par les termes catégorie de traitement C et les termes groupe de traitement D1 sont remplacés par les termes groupe de traitement C1 .
+  - Au paragraphe 1er, point c), les termes catégorie de traitement D sont remplacés par les termes catégorie de traitement C et les termes groupe de traitement D1 sont remplacés par les termes groupe de traitement C1 .
 
   - Le paragraphe 2 est modifié comme suit :
 
-    - Devant le point a) actuel, sont ajoutés deux nouveaux points a) et b) libellés comme suit, les points a) et b) actuels devenant les nouveaux points c) et d) : « a) aux agents de la catégorie de traitement A, groupes de traitement A1 et A2 du sous-groupe policier de la rubrique « Armée, Police et Inspection générale de la Police » ; b) aux agents de la catégorie de traitement B, groupe de traitement B1 du sous-groupe policier de la rubrique « Armée, Police et Inspection générale de la Police » ;
+    - Devant le point a) actuel, sont ajoutés deux nouveaux points a) et b) libellés comme suit, les points a) et b) actuels devenant les nouveaux points c) et d) :
+
+« a) aux agents de la catégorie de traitement A, groupes de traitement A1 et A2 du sous-groupe policier de la rubrique « Armée, Police et Inspection générale de la Police » ;
+
+b) aux agents de la catégorie de traitement B, groupe de traitement B1 du sous-groupe policier de la rubrique « Armée, Police et Inspection générale de la Police » ;
 
     - Au point b) actuel, devenant le nouveau point d), les termes catégorie de traitement D, groupe de traitement D1 sont remplacés par les termes catégorie de traitement C, groupe de traitement C1 .
 
-  - Il est ajouté un nouveau paragraphe 8 libellé comme suit : (8) Une prime d’astreinte d’une valeur de 12 points indiciaires peut être allouée au personnel du cadre civil de la Police grand-ducale soumis à une obligation de permanence ou de présence. Cette prime est attribuée par décision du ministre du ressort et sur proposition du directeur général de la Police grand-ducale.
+  - Il est ajouté un nouveau paragraphe 8 libellé comme suit :
 
-- L’article 23 est remplacé comme suit : Art. 23. (1) Une prime de régime militaire non pensionnable de 35 points indiciaires est allouée aux agents relevant de la catégorie de traitement C de la rubrique « Armée, Police et Inspection générale de la Police ». Une prime de régime militaire non pensionnable de 15 points indiciaires est allouée aux agents relevant des groupes de traitement A1, A2 et B1 de la rubrique « Armée, Police et Inspection générale de la Police ». Le présent paragraphe ne vise pas les fonctions du sous-groupe à attributions particulières de la musique militaire. (2) Une prime de formation non pensionnable de 20 points indiciaires est allouée aux fonctionnaires de la catégorie de traitement C, groupe de traitement C1, sous-groupe à attributions particulières de la rubrique « Armée, Police et Inspection générale de la Police », détenteurs du prix supérieur, du prix de capacité ou de perfectionnement d’un conservatoire de musique luxembourgeois ou d’un diplôme d’un conservatoire de musique étranger, reconnu équivalent par le ministre ayant l’Armée, la Police et l’Inspection générale de la Police dans ses attributions, sur avis d’une commission composée de trois hommes de l’art désignés par le même ministre.
+(8)
+
+Une prime d’astreinte d’une valeur de 12 points indiciaires peut être allouée au personnel du cadre civil de la Police grand-ducale soumis à une obligation de permanence ou de présence. Cette prime est attribuée par décision du ministre du ressort et sur proposition du directeur général de la Police grand-ducale.
+
+- L’article 23 est remplacé comme suit :
+
+Art. 23.
+
+(1)
+
+Une prime de régime militaire non pensionnable de 35 points indiciaires est allouée aux agents relevant de la catégorie de traitement C de la rubrique « Armée, Police et Inspection générale de la Police ».
+
+Une prime de régime militaire non pensionnable de 15 points indiciaires est allouée aux agents relevant des groupes de traitement A1, A2 et B1 de la rubrique « Armée, Police et Inspection générale de la Police ».
+
+Le présent paragraphe ne vise pas les fonctions du sous-groupe à attributions particulières de la musique militaire.
+
+(2)
+
+Une prime de formation non pensionnable de 20 points indiciaires est allouée aux fonctionnaires de la catégorie de traitement C, groupe de traitement C1, sous-groupe à attributions particulières de la rubrique « Armée, Police et Inspection générale de la Police », détenteurs du prix supérieur, du prix de capacité ou de perfectionnement d’un conservatoire de musique luxembourgeois ou d’un diplôme d’un conservatoire de musique étranger, reconnu équivalent par le ministre ayant l’Armée, la Police et l’Inspection générale de la Police dans ses attributions, sur avis d’une commission composée de trois hommes de l’art désignés par le même ministre.
 
 - L’article 37 est modifié comme suit :
 
@@ -1897,7 +1963,11 @@ La loi modifiée du 25 mars 2015 fixant le régime des traitements et les condit
 
   - Au paragraphe 4, dans la grille indiciaire, sous la catégorie de traitement C, il est ajouté un nouveau groupe de traitement C2 avec une réduction de 5 points indiciaires.
 
-  - Il est inséré après le paragraphe 9 un paragraphe 9bis qui prend la teneur suivante : (9bis) Lorsque la somme de l’indemnité et des primes du fonctionnaire stagiaire du cadre policier du groupe de traitement B1 est inférieure à la somme de l’indemnité et des primes du fonctionnaire stagiaire du cadre policier du groupe de traitement C1, le premier bénéficie d’un supplément personnel de traitement pensionnable correspondant à la différence entre ces deux sommes.
+  - Il est inséré après le paragraphe 9 un paragraphe 9bis qui prend la teneur suivante :
+
+(9bis)
+
+Lorsque la somme de l’indemnité et des primes du fonctionnaire stagiaire du cadre policier du groupe de traitement B1 est inférieure à la somme de l’indemnité et des primes du fonctionnaire stagiaire du cadre policier du groupe de traitement C1, le premier bénéficie d’un supplément personnel de traitement pensionnable correspondant à la différence entre ces deux sommes.
 
 - À l’annexe A, la rubrique « III. Armée, Police et Inspection générale de la Police » est remplacée par la rubrique figurant à l’annexe A de la présente loi.
 
@@ -1905,17 +1975,19 @@ La loi modifiée du 25 mars 2015 fixant le régime des traitements et les condit
 
 - L’annexe B, sous « B2) Allongements » est modifiée comme suit :
 
-  - Au point 3°, il est ajouté un deuxième alinéa libellé comme suit : Pour les fonctionnaires de la catégorie de traitement A, groupe de traitement A2 de la rubrique « Armée, Police et Inspection générale de la Police », le grade F13 est allongé d’un dixième échelon ayant l’indice 500.
+  - Au point 3°, il est ajouté un deuxième alinéa libellé comme suit :
+
+Pour les fonctionnaires de la catégorie de traitement A, groupe de traitement A2 de la rubrique « Armée, Police et Inspection générale de la Police », le grade F13 est allongé d’un dixième échelon ayant l’indice 500.
 
   - Au point 5°, les termes catégorie de traitement D, groupe de traitement D2 sont remplacés par les termes catégorie de traitement C, groupe de traitement C2 et il est complété par la phrase suivante : Pour les fonctionnaires de la catégorie de traitement C, groupe de traitement C2, sous-groupe policier de la même rubrique, le grade F4 est allongé d’un quinzième échelon ayant l’indice 272 .
 
 - L’annexe C est modifiée comme suit :
 
-  - Dans la colonne V, les grades F6-F10 sont remplacés par ceux de F6-F13 .
+  - Dans la colonne V, les grades F6-F10 sont remplacés par ceux de F6-F13.
 
-  - Dans la colonne VI, les grades F11 et F12 sont remplacés par ceux de F14 et F15 .
+  - Dans la colonne VI, les grades F11 et F12 sont remplacés par ceux de F14 et F15.
 
-  - Dans la colonne VII, les grades F13 et F14 sont remplacés par ceux de F16-F17 .
+  - Dans la colonne VII, les grades F13 et F14 sont remplacés par ceux de F16-F17.
 
 <a id="art-89"></a>
 ## Art. 89.

@@ -68,7 +68,7 @@ Mis à part pour les murs contre sol et les dalles inférieures contre sol, aucu
 
 Par « isolant thermique minéral, catégorie b. », on entend au titre du présent règlement les isolants qui remplissent simultanément les conditions suivantes :
 
-- ils présentent un indicateur écologique I eco12 dont la valeur est inférieure ou égale à 23,7 UI6/m²,
+- ils présentent un indicateur écologique Ieco12 dont la valeur est inférieure ou égale à 23,7 UI6/m²,
 
 - ils sont intégralement de nature minérale, y compris l’enduit,
 
@@ -76,7 +76,7 @@ Par « isolant thermique minéral, catégorie b. », on entend au titre du prés
 
 Par « isolant thermique écologique, catégorie c. », on entend au titre du présent règlement les isolants qui remplissent simultanément les conditions suivantes :
 
-- ils présentent un indicateur écologique I eco12 dont la valeur est inférieure ou égale à 23,7 UI6/m² ;
+- ils présentent un indicateur écologique Ieco12 dont la valeur est inférieure ou égale à 23,7 UI6/m² ;
 
 - ils sont constitués exclusivement de matériaux renouvelables ;
 
@@ -184,9 +184,9 @@ Sont visées les pompes à chaleur respectant les exigences et critères requis 
 
 Pour une pompe à chaleur géothermique ainsi qu’une pompe à chaleur combinée à un accumulateur de chaleur latente et un collecteur solaire thermique, le montant de l’aide financière s’élève à :
 
-- 8 000 euros pour les installations dont la puissance nominative ne dépasse pas 10 kW thermique dans le cas d’une maison unifamiliale ;
+- 8 000 euros pour les installations dont la puissance nominative ne dépasse pas 10 kWthermique dans le cas d’une maison unifamiliale ;
 
-- 800 euros par kW thermique pour les installations d’une puissance nominative de plus de 10 kW thermique dans le cas d’une maison unifamiliale, sans toutefois dépasser 12 000 euros ;
+- 800 euros par kWthermique pour les installations d’une puissance nominative de plus de 10 kWthermique dans le cas d’une maison unifamiliale, sans toutefois dépasser 12 000 euros ;
 
 - 7 500 euros par logement faisant partie d’un immeuble collectif. L’aide financière est plafonnée à 37 500 euros dans le cas d’un immeuble collectif ;
 
@@ -204,9 +204,9 @@ Pour une pompe à chaleur air-eau ou un appareil compact comprenant la ventilati
 
 Pour une pompe à chaleur air-eau ou un appareil compact comprenant la ventilation mécanique contrôlée et la pompe à chaleur air rejeté-eau dans un bâtiment utilisé à des fins d’habitation existant, le montant de l’aide financière s’élève à :
 
-- 5 000 euros pour les installations dont la puissance nominative ne dépasse pas 10 kW thermique ;
+- 5 000 euros pour les installations dont la puissance nominative ne dépasse pas 10 kWthermique ;
 
-- 500 euros par kW thermique pour les installations d’une puissance nominative de plus de 10 kW thermique , sans toutefois dépasser 12 000 euros.
+- 500 euros par kWthermique pour les installations d’une puissance nominative de plus de 10 kWthermique, sans toutefois dépasser 12 000 euros.
 
 (5)
 
@@ -235,11 +235,11 @@ Seuls les chaudières à bois et les filtres à particules qui sont installés d
 
 Pour une chaudière à granulés de bois et une chaudière à plaquettes de bois, le montant de l’aide financière s’élève à :
 
-- 750 euros par kW thermique dans le cas d’une maison unifamiliale, sans toutefois dépasser 7 500 euros ;
+- 750 euros par kWthermique dans le cas d’une maison unifamiliale, sans toutefois dépasser 7 500 euros ;
 
-- 750 euros par kW thermique dans le cas d’un immeuble collectif. L’aide financière est plafonnée à 30 000 euros dans le cas d’un immeuble collectif ;
+- 750 euros par kWthermique dans le cas d’un immeuble collectif. L’aide financière est plafonnée à 30 000 euros dans le cas d’un immeuble collectif ;
 
-- 750 euros par kW thermique par maison unifamiliale ou par logement faisant partie d’un immeuble collectif raccordés à un réseau de chaleur alimenté par une telle installation. Dans ce cas, l’aide financière est plafonnée à 30 000 euros.
+- 750 euros par kWthermique par maison unifamiliale ou par logement faisant partie d’un immeuble collectif raccordés à un réseau de chaleur alimenté par une telle installation. Dans ce cas, l’aide financière est plafonnée à 30 000 euros.
 
 (3)
 
@@ -411,13 +411,13 @@ Modalités d’éligibilité
 
 Sont éligibles les investissements et services pour lesquels la facture est établie entre :
 
-- le 1 er janvier 2022 et le 31 décembre 2029 inclus dans le cas d’un assainissement énergétique d’un bâtiment utilisé à des fins d’habitation après les travaux d’assainissement énergétique ou d’une partie d’un bâtiment utilisée à des fins d’habitation après les travaux d’assainissement énergétique, sous condition que :
+- le 1er janvier 2022 et le 31 décembre 2029 inclus dans le cas d’un assainissement énergétique d’un bâtiment utilisé à des fins d’habitation après les travaux d’assainissement énergétique ou d’une partie d’un bâtiment utilisée à des fins d’habitation après les travaux d’assainissement énergétique, sous condition que :
 
-  - la première demande en vue de l’obtention d’un accord de principe est introduite entre le 1 er janvier 2022 et le 31 décembre 2025 inclus ;
+  - la première demande en vue de l’obtention d’un accord de principe est introduite entre le 1er janvier 2022 et le 31 décembre 2025 inclus ;
 
   - l’investissement concerné, à savoir l’élément de construction de l’enveloppe thermique ou la ventilation mécanique contrôlée, ne bénéficie pas d’une aide financière sous le règlement grand-ducal modifié du 12 décembre 2012 instituant un régime d’aides pour la promotion de l’utilisation rationnelle de l’énergie et la mise en valeur des énergies renouvelables dans le domaine du logement ni sous le règlement grand-ducal modifié du 23 décembre 2016 fixant les mesures d’exécution de la loi du 23 décembre 2016 instituant un régime d’aides pour la promotion de la durabilité, de l’utilisation rationnelle de l’énergie et des énergies renouvelables dans le domaine du logement.
 
-- le 1 er janvier 2022 et le 31 décembre 2025 inclus dans le cas des installations techniques visées aux articles 3 à 6 ainsi que du conseil en énergie visé à l’article 7, sous condition que l’installation technique concernée ne bénéficie pas d’une aide financière sous le règlement grand-ducal modifié du 12 décembre 2012 instituant un régime d’aides pour la promotion de l’utilisation rationnelle de l’énergie et la mise en valeur des énergies renouvelables dans le domaine du logement ni sous le règlement grand-ducal modifié du 23 décembre 2016 fixant les mesures d’exécution de la loi du 23 décembre 2016 instituant un régime d’aides pour la promotion de la durabilité, de l’utilisation rationnelle de l’énergie et des énergies renouvelables dans le domaine du logement. Mis à part pour les installations photovoltaïques, ce délai est prolongé jusqu’au 31 décembre 2029 inclus sous condition que les investissements et services en question soient réalisés conjointement avec l’assainissement énergétique d’un bâtiment existant visé au point 2.
+- le 1er janvier 2022 et le 31 décembre 2025 inclus dans le cas des installations techniques visées aux articles 3 à 6 ainsi que du conseil en énergie visé à l’article 7, sous condition que l’installation technique concernée ne bénéficie pas d’une aide financière sous le règlement grand-ducal modifié du 12 décembre 2012 instituant un régime d’aides pour la promotion de l’utilisation rationnelle de l’énergie et la mise en valeur des énergies renouvelables dans le domaine du logement ni sous le règlement grand-ducal modifié du 23 décembre 2016 fixant les mesures d’exécution de la loi du 23 décembre 2016 instituant un régime d’aides pour la promotion de la durabilité, de l’utilisation rationnelle de l’énergie et des énergies renouvelables dans le domaine du logement. Mis à part pour les installations photovoltaïques, ce délai est prolongé jusqu’au 31 décembre 2029 inclus sous condition que les investissements et services en question soient réalisés conjointement avec l’assainissement énergétique d’un bâtiment existant visé au point 2.
 
 (2)
 

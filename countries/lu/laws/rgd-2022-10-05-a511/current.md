@@ -31,7 +31,11 @@ warning: 'Official consolidation: Version rectifiée applicable au 14/10/2022 : 
 
 Les dates d’ouverture et de clôture des deux prochaines périodes de vente en solde sont fixées comme suit :
 
-- Soldes de l’hiver 2022/2023 : début : lundi, le 2 janvier 2023, clôture : samedi, le 28 janvier 2023 inclus.
+- Soldes de l’hiver 2022/2023 :
+
+| début : | lundi, le 2 janvier 2023, |
+| --- | --- |
+| clôture : | samedi, le 28 janvier 2023 inclus. |
 
 - Soldes de l’été 2023 :
 

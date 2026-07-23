@@ -42,7 +42,7 @@ Toute personne, qui désire s'établir au Luxembourg et y exercer la profession 
 
 - une copie d’une pièce d’identité en cours de validité ; et le cas échéant un document attestant le bénéfice des dispositions de l’article 3, point q) de la loi du 28 octobre 2016 relative à la reconnaissance des qualifications professionnelles ;
 
-- une copie des diplômes, attestations, certificats ou autres titres de médecin, de médecin-dentiste ou de médecin-vétérinaire cités aux articles 1 er , 8 et 21 de la loi modifiée du 29 avril 1983 concernant l’exercice des professions de médecin, de médecin-dentiste et de médecin-vétérinaire, respectivement à l’article 1 er de la loi modifiée du 31 juillet 1991 déterminant les conditions d'autorisation d'exercer la profession de pharmacien ;
+- une copie des diplômes, attestations, certificats ou autres titres de médecin, de médecin-dentiste ou de médecin-vétérinaire cités aux articles 1er, 8 et 21 de la loi modifiée du 29 avril 1983 concernant l’exercice des professions de médecin, de médecin-dentiste et de médecin-vétérinaire, respectivement à l’article 1er de la loi modifiée du 31 juillet 1991 déterminant les conditions d'autorisation d'exercer la profession de pharmacien ;
 
 - l’attestation relative à la santé physique et psychique visée à l’article 3 du présent règlement ;
 

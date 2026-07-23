@@ -150,7 +150,7 @@ Aux fins de la présente loi, on entend par :
 
 - « informations relatives à la localisation de l’appelant » : dans un réseau mobile public, les données traitées qui proviennent de l’infrastructure de réseau ou de l’appareil mobile et qui indiquent la position géographique de l’équipement terminal mobile d’un utilisateur final et, dans un réseau fixe public, les données relatives à l’adresse physique du point de terminaison du réseau ;
 
-- « équipement terminal » : un équipement terminal au sens de l’article 1 er , point 1), de la directive 2008/63/CE de la Commission du 20 juin 2008 relative à la concurrence dans les marchés des équipements terminaux de télécommunications (ci-après « directive 2008/63/CE ») ;
+- « équipement terminal » : un équipement terminal au sens de l’article 1er, point 1), de la directive 2008/63/CE de la Commission du 20 juin 2008 relative à la concurrence dans les marchés des équipements terminaux de télécommunications (ci-après « directive 2008/63/CE ») ;
 
 - « incident de sécurité » : tout événement ayant un effet négatif sur la sécurité des réseaux ou des services de communications électroniques ;
 
@@ -595,7 +595,7 @@ Les entreprises qui fournissent un réseau de communications électroniques sont
 
 - la sécurité des réseaux publics face aux accès non autorisés conformément à la loi modifiée du 30 mai 2005 concernant la protection de la vie privée dans le secteur des communications électroniques ;
 
-- le respect des conditions d’utilisation du spectre radioélectrique, conformément à l’article 7 de la loi du 27 juin 2016 concernant la mise à disposition sur le marché d’équipements radioélectriques, lorsque cette utilisation n’est pas subordonnée à l’octroi de droits d’utilisation individuels, conformément à l’article 57, paragraphe 1 er , et à l’article 59 de la présente loi.
+- le respect des conditions d’utilisation du spectre radioélectrique, conformément à l’article 7 de la loi du 27 juin 2016 concernant la mise à disposition sur le marché d’équipements radioélectriques, lorsque cette utilisation n’est pas subordonnée à l’octroi de droits d’utilisation individuels, conformément à l’article 57, paragraphe 1er, et à l’article 59 de la présente loi.
 
 (3)
 
@@ -807,7 +807,7 @@ Informations demandées en ce qui concerne l’autorisation générale, les droi
 
 Sans préjudice de toute information demandée en vertu de l’article 24 et des obligations de fournir des informations et de présenter des rapports autres que celles relatives à l’autorisation générale, l’ILR et les autres autorités compétentes peuvent demander aux entreprises de fournir des informations en ce qui concerne l’autorisation générale, les droits d’utilisation ou les obligations spécifiques visées à l’article 16, paragraphe 2, qui sont proportionnées et objectivement justifiées, notamment, aux fins de :
 
-- vérifier, systématiquement ou au cas par cas, le respect des obligations énumérées à l’article 19, paragraphe 1 er , point 1°, à l’article 19, paragraphe 4, points 2° et 6°, et à l’article 19, paragraphe 5, points 2° et 7°, ainsi que le respect des obligations visées à l’article 16, paragraphe 2 ;
+- vérifier, systématiquement ou au cas par cas, le respect des obligations énumérées à l’article 19, paragraphe 1er, point 1°, à l’article 19, paragraphe 4, points 2° et 6°, et à l’article 19, paragraphe 5, points 2° et 7°, ainsi que le respect des obligations visées à l’article 16, paragraphe 2 ;
 
 - vérifier au cas par cas le respect des obligations visées à l’article 19 lorsqu’une plainte est reçue ou lorsque l’ILR et les autres autorités compétentes ont d’autres raisons de penser qu’une condition n’est pas respectée ou lorsqu’elles mènent une enquête de leur propre initiative ;
 
@@ -1037,7 +1037,7 @@ Les entreprises soumises à autorisation générale peuvent être frappées par 
 
 - article 16 ;
 
-- article 19, paragraphes 1 er à 3 et paragraphe 5 ;
+- article 19, paragraphes 1er à 3 et paragraphe 5 ;
 
 - article 20 ;
 
@@ -1045,17 +1045,17 @@ Les entreprises soumises à autorisation générale peuvent être frappées par 
 
 - article 23 ;
 
-- article 24, paragraphe 1 er ;
+- article 24, paragraphe 1er ;
 
-- article 25, paragraphes 1 er et 2 ;
+- article 25, paragraphes 1er et 2 ;
 
 - article 26, paragraphe 3 ;
 
 - article 34 ;
 
-- article 42, paragraphes 1 er à 4 ;
+- article 42, paragraphes 1er à 4 ;
 
-- article 71, paragraphe 1 er ;
+- article 71, paragraphe 1er ;
 
 - article 72 ;
 
@@ -1069,7 +1069,7 @@ Les entreprises soumises à autorisation générale peuvent être frappées par 
 
 - article 83 ;
 
-- article 84, paragraphes 1 er et 3 ;
+- article 84, paragraphes 1er et 3 ;
 
 - article 85 ;
 
@@ -1077,13 +1077,13 @@ Les entreprises soumises à autorisation générale peuvent être frappées par 
 
 - article 87, paragraphe 5 ;
 
-- article 88, paragraphe 1 er ;
+- article 88, paragraphe 1er ;
 
-- article 89, paragraphe 1 er ;
+- article 89, paragraphe 1er ;
 
 - article 90, paragraphe 4 ;
 
-- article 92, paragraphe 1 er ;
+- article 92, paragraphe 1er ;
 
 - article 94 ;
 
@@ -1113,15 +1113,15 @@ Les entreprises soumises à autorisation générale peuvent être frappées par 
 
 - article 123 ;
 
-- article 126, paragraphe 1 er ;
+- article 126, paragraphe 1er ;
 
 - article 127, paragraphe 2 ;
 
-- article 130, paragraphe 1 er ;
+- article 130, paragraphe 1er ;
 
-- les articles 3, paragraphes 1 er à 7, 4, paragraphes 1 er à 3, 5, paragraphes 1 er à 4, 6 bis , 6 ter , 6 quater , 6 quinquies , 6 sexies , 6 septies , 7, 9, 11, 12, 14 et 15 du règlement (UE) n° 531/2012 du Parlement européen et du Conseil du 13 juin 2012 concernant l’itinérance sur les réseaux publics de communications mobiles à l’intérieur de l’Union ;
+- les articles 3, paragraphes 1er à 7, 4, paragraphes 1er à 3, 5, paragraphes 1er à 4, 6bis, 6ter, 6quater, 6quinquies, 6sexies, 6septies, 7, 9, 11, 12, 14 et 15 du règlement (UE) n° 531/2012 du Parlement européen et du Conseil du 13 juin 2012 concernant l’itinérance sur les réseaux publics de communications mobiles à l’intérieur de l’Union ;
 
-- les articles 3, 4, 5.2 et 5 bis du règlement (UE) 2015/2120 du Parlement européen et du Conseil du 25 novembre 2015 établissant des mesures relatives à l’accès à un internet ouvert et modifiant la directive 2002/22/CE concernant le service universel et les droits des utilisateurs au regard des réseaux et services de communications électroniques et le règlement (UE) n° 531/2012 concernant l’itinérance sur les réseaux publics de communications mobiles à l’intérieur de l’Union ;
+- les articles 3, 4, 5.2 et 5bis du règlement (UE) 2015/2120 du Parlement européen et du Conseil du 25 novembre 2015 établissant des mesures relatives à l’accès à un internet ouvert et modifiant la directive 2002/22/CE concernant le service universel et les droits des utilisateurs au regard des réseaux et services de communications électroniques et le règlement (UE) n° 531/2012 concernant l’itinérance sur les réseaux publics de communications mobiles à l’intérieur de l’Union ;
 
 - les mesures décidées par le Gouvernement en conseil en vertu de l’article 6.
 
@@ -1277,7 +1277,7 @@ L’ILR, l’ORECE et la Commission européenne peuvent faire des observations s
 
 Le projet de mesure visé au paragraphe 3 n’est pas adopté pendant un délai supplémentaire de deux mois lorsque cette mesure vise à :
 
-- définir un marché pertinent qui diffère de ceux définis dans la recommandation visée à l’article 64, paragraphe 1 er de la directive (UE) 2018/1972 ; ou
+- définir un marché pertinent qui diffère de ceux définis dans la recommandation visée à l’article 64, paragraphe 1er de la directive (UE) 2018/1972 ; ou
 
 - décider de désigner ou non une entreprise comme étant, individuellement ou conjointement avec d’autres, puissante sur le marché, conformément à l’article 78, paragraphe 3 ou 4, et aurait des incidences sur les échanges entre les États membres et que la Commission européenne a indiqué à l’ILR qu’elle estime que le projet de mesure créerait une entrave au marché intérieur ou si elle a des doutes sérieux quant à sa compatibilité avec le droit de l’Union européenne et en particulier avec les objectifs visés à l’article 3. Ce délai de deux mois n’est pas prolongé. En pareil cas, la Commission européenne informe l’ORECE et l’ILR de ses réserves et les rend publiques simultanément.
 
@@ -1340,7 +1340,7 @@ Dans un délai de six semaines à compter du début de la période de trois mois
 
 Si, dans son avis, l’ORECE partage les doutes sérieux de la Commission européenne, il coopère étroitement avec l’ILR pour identifier la mesure la plus appropriée et la plus efficace. Avant la fin de la période de trois mois visée au paragraphe 1er, l’ILR peut :
 
-- soit modifier ou retirer son projet de mesure en tenant le plus grand compte de la notification de la Commission européenne visée au paragraphe 1 er ainsi que de l’avis de l’ORECE ;
+- soit modifier ou retirer son projet de mesure en tenant le plus grand compte de la notification de la Commission européenne visée au paragraphe 1er ainsi que de l’avis de l’ORECE ;
 
 - soit maintenir son projet de mesure.
 
@@ -1350,7 +1350,7 @@ La Commission européenne peut, dans un délai d’un mois après la fin de la p
 
 - émettre une recommandation demandant à l’ILR de modifier ou de retirer le projet de mesure, y compris en présentant des propositions spécifiques à cet effet et les raisons justifiant sa recommandation, en particulier lorsque l’ORECE ne partage pas les doutes sérieux de la Commission européenne ;
 
-- décider de lever ses réserves émises conformément au paragraphe 1 er ; ou
+- décider de lever ses réserves émises conformément au paragraphe 1er ; ou
 
 - pour les projets de mesures relevant de l’article 72, paragraphe 3, alinéa 2, ou de l’article 87, paragraphe 2, prendre une décision demandant à l’ILR de retirer le projet de mesure, lorsque l’ORECE partage les doutes sérieux de la Commission européenne, accompagnée d’une analyse détaillée et objective des raisons pour lesquelles la Commission européenne estime que le projet de mesure ne devrait pas être adopté, ainsi que de propositions précises relatives aux modifications à apporter au projet de mesure, sous réserve de la procédure prévue à l’article 35, paragraphe 7, qui s’applique mutatis mutandis.
 
@@ -2356,7 +2356,7 @@ En particulier, sans préjudice des mesures qui peuvent être prises à l’éga
 
 Les obligations visées à l’alinéa 1er, point 3°, sont uniquement imposées :
 
-- dans la mesure nécessaire pour assurer l’interopérabilité des services de communications interpersonnelles, et peuvent comprendre des obligations proportionnées, imposées aux fournisseurs de ces services, de publier des informations pertinentes et d’autoriser l’utilisation, la modification et la retransmission de ces informations par les autorités et autres fournisseurs, ou d’utiliser et de mettre en œuvre les normes ou spécifications énumérées à l’article 39, paragraphe 1 er , de la directive UE 2018/1972 , ou toute autre norme européenne ou internationale pertinente ;
+- dans la mesure nécessaire pour assurer l’interopérabilité des services de communications interpersonnelles, et peuvent comprendre des obligations proportionnées, imposées aux fournisseurs de ces services, de publier des informations pertinentes et d’autoriser l’utilisation, la modification et la retransmission de ces informations par les autorités et autres fournisseurs, ou d’utiliser et de mettre en œuvre les normes ou spécifications énumérées à l’article 39, paragraphe 1er, de la directive UE 2018/1972, ou toute autre norme européenne ou internationale pertinente ;
 
 - dans les cas où la Commission européenne, après consultation de l’ORECE et en tenant le plus grand compte de son avis, a constaté l’existence d’un risque majeur pour la connectivité de bout en bout entre utilisateurs finaux dans l’ensemble de l’Union européenne ou dans au moins trois États membres et a adopté des mesures d’exécution précisant la nature et la portée des obligations susceptibles d’être imposées.
 
@@ -2368,7 +2368,7 @@ Lorsque l’ILR conclut, eu égard, s’il y a lieu, aux obligations découlant 
 
 L’ILR n’impose pas d’obligations conformément à l’alinéa 2 à des fournisseurs de réseaux de communications électroniques lorsqu’il constate que :
 
-- le fournisseur présente les caractéristiques énumérées à l’article 91, paragraphe 1 er , et met à la disposition de toute entreprise, à des conditions équitables, non discriminatoires et raisonnables, un moyen alternatif viable et comparable d’atteindre des utilisateurs finaux en fournissant l’accès à un réseau à très haute capacité. L’ILR peut étendre cette exemption à d’autres fournisseurs offrant l’accès à un réseau à très haute capacité à des conditions équitables, non discriminatoires et raisonnables ; ou
+- le fournisseur présente les caractéristiques énumérées à l’article 91, paragraphe 1er, et met à la disposition de toute entreprise, à des conditions équitables, non discriminatoires et raisonnables, un moyen alternatif viable et comparable d’atteindre des utilisateurs finaux en fournissant l’accès à un réseau à très haute capacité. L’ILR peut étendre cette exemption à d’autres fournisseurs offrant l’accès à un réseau à très haute capacité à des conditions équitables, non discriminatoires et raisonnables ; ou
 
 - l’imposition d’obligations compromettrait la viabilité économique ou financière du déploiement d’un nouveau réseau, notamment dans le cadre de projets locaux de faible envergure.
 
@@ -2587,7 +2587,7 @@ L’ILR n’impose les obligations énoncées aux articles 80 à 85 et aux artic
 
 - des articles 72 et 73 ;
 
-- des articles 52 et 21, de l’article 19, paragraphe 4, point 7°, appliqué en vertu de l’article 16, paragraphe 1 er , des articles 109 et 121 et des dispositions pertinentes de la loi modifiée du 30 mai 2005 concernant la protection de la vie privée dans le secteur des communications électroniques ; ou
+- des articles 52 et 21, de l’article 19, paragraphe 4, point 7°, appliqué en vertu de l’article 16, paragraphe 1er, des articles 109 et 121 et des dispositions pertinentes de la loi modifiée du 30 mai 2005 concernant la protection de la vie privée dans le secteur des communications électroniques ; ou
 
 - de la nécessité de se conformer aux engagements internationaux.
 
@@ -2831,7 +2831,7 @@ Lorsque l’ILR évalue ces engagements, il détermine, en particulier, si l’o
 
   - l’attribution, par les co-investisseurs, de droits réciproques après le déploiement de l’infrastructure qui fait l’objet du co-investissement ;
 
-- elle est rendue publique par l’entreprise en temps utile et, si l’entreprise ne possède pas les caractéristiques énumérées à l’article 91, paragraphe 1 er , au moins six mois avant le lancement du déploiement du nouveau réseau ; ce délai peut être prolongé en fonction des circonstances nationales ;
+- elle est rendue publique par l’entreprise en temps utile et, si l’entreprise ne possède pas les caractéristiques énumérées à l’article 91, paragraphe 1er, au moins six mois avant le lancement du déploiement du nouveau réseau ; ce délai peut être prolongé en fonction des circonstances nationales ;
 
 - les demandeurs d’accès qui ne participent pas au co-investissement peuvent bénéficier dès le départ d’une qualité, d’une vitesse, de conditions et de possibilités d’atteindre les utilisateurs finaux identiques à celles qui existaient avant le déploiement, accompagnées d’un mécanisme d’adaptation au fil du temps confirmé par l’ILR, au regard des évolutions sur les marchés de détail connexes, qui maintient les incitations à participer au co-investissement. Ce mécanisme garantit que les demandeurs d’accès ont accès aux éléments à très haute capacité du réseau à un moment et sur la base de conditions transparentes et non discriminatoires qui reflètent de manière appropriée les degrés de risques encourus par les co-investisseurs respectifs à différents stades du déploiement et tiennent compte de la situation concurrentielle sur les marchés de détail ;
 
@@ -2896,7 +2896,7 @@ Cette entité économique fournit des produits et services d’accès à toutes 
 
 Lorsque l’ILR entend imposer une obligation de séparation fonctionnelle, il soumet à la Commission européenne une demande qui comporte :
 
-- des éléments de preuve justifiant les conclusions de l’ILR conformément au paragraphe 1 er ;
+- des éléments de preuve justifiant les conclusions de l’ILR conformément au paragraphe 1er ;
 
 - une appréciation motivée concluant qu’il n’y a pas ou guère de perspectives d’une concurrence effective et durable fondée sur les infrastructures dans un délai raisonnable ;
 
@@ -3539,7 +3539,7 @@ Les fournisseurs de services de communications électroniques accessibles au pub
 
 - la mesure dans laquelle les produits et services sont conçus pour les utilisateurs finaux handicapés ;
 
-- en ce qui concerne les services d’accès à l’internet, un résumé des informations exigées en vertu de l’article 4, paragraphe 1 er , lettres d) et e), du règlement (UE) 2015/2120 .
+- en ce qui concerne les services d’accès à l’internet, un résumé des informations exigées en vertu de l’article 4, paragraphe 1er, lettres d) et e), du règlement (UE) 2015/2120.
 
 Les fournisseurs soumis aux obligations prévues au paragraphe 1er complètent dûment ce modèle de récapitulatif contractuel avec les informations requises et communiquent le récapitulatif contractuel gratuitement aux consommateurs, avant la conclusion du contrat, y compris des contrats à distance. Lorsque, pour des raisons techniques objectives, il est impossible de communiquer le récapitulatif contractuel au moment prévu, il est communiqué sans retard indu par la suite, et le contrat prend effet lorsque le consommateur a confirmé par écrit ou sur tout autre support durable son accord après la réception du récapitulatif contractuel.
 
@@ -3609,7 +3609,7 @@ Outre les exigences énoncées au paragraphe 1er, les fournisseurs de services d
 
     - pour les services de communications interpersonnelles accessibles au public, lorsque ces fournisseurs contrôlent au moins certains éléments du réseau ou ont conclu un accord sur le niveau de service à cet effet avec les entreprises fournissant l’accès au réseau : au moins le délai nécessaire au raccordement initial, la probabilité d’échec et les retards de signalisation d’appel, conformément à l’annexe I ; et
 
-  - sans préjudice du droit des utilisateurs finaux d’utiliser les équipements terminaux de leur choix conformément à l’article 3, paragraphe 1 er , du règlement (UE) 2015/2120 , toute condition, y compris les redevances, imposée par le fournisseur relative à l’utilisation des équipements terminaux fournis.
+  - sans préjudice du droit des utilisateurs finaux d’utiliser les équipements terminaux de leur choix conformément à l’article 3, paragraphe 1er, du règlement (UE) 2015/2120, toute condition, y compris les redevances, imposée par le fournisseur relative à l’utilisation des équipements terminaux fournis.
 
 - Dans le cadre des informations sur les prix : dans les cas et dans la mesure applicables, les montants dus respectivement pour l’activation du service de communications électroniques et au titre de tout coût récurrent ou lié à la consommation :
 
@@ -3629,7 +3629,7 @@ Outre les exigences énoncées au paragraphe 1er, les fournisseurs de services d
 
 - Dans le cadre des informations sur la durée du contrat portant sur des services groupés et les conditions de renouvellement et de résiliation de celui-ci : s’il y a lieu, les conditions de résiliation de l’offre groupée ou d’éléments de celle-ci.
 
-- Sans préjudice de l’article 13 du règlement (UE) 2016/679 , les informations relatives aux données à caractère personnel nécessaires pour la prestation de service ou recueillies dans le cadre de la fourniture du service.
+- Sans préjudice de l’article 13 du règlement (UE) 2016/679, les informations relatives aux données à caractère personnel nécessaires pour la prestation de service ou recueillies dans le cadre de la fourniture du service.
 
 - Des précisions sur les produits et services conçus pour les utilisateurs finaux handicapés et sur les modalités d’obtention des mises à jour de ces informations.
 

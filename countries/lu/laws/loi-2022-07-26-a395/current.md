@@ -107,49 +107,49 @@ Pour l’application de la présente loi, on entend par :
 
 - 12ter° « infrastructure pour véhicules à carburants alternatifs » ou « infrastructure » : une infrastructure de charge ou une infrastructure de ravitaillement destinée aux véhicules à carburants alternatifs ;
 
-- « infrastructure accessible au public » : une infrastructure répondant aux critères de l’article 2, paragraphe 1 er , point 45), du règlement (UE) 2023/1804 ;
+- « infrastructure accessible au public » : une infrastructure répondant aux critères de l’article 2, paragraphe 1er, point 45), du règlement (UE) 2023/1804 ;
 
 - « infrastructure privée » : une infrastructure qui est utilisée par un cercle de personnes déterminé par l’entreprise bénéficiaire de l’aide dans le cadre de son activité économique, y inclus pour recharger ou pour ravitailler son parc automobile et les véhicules à carburants alternatifs de ses employés ;
 
 - « infrastructure de charge publique » : l’infrastructure de charge publique au sens de la loi modifiée du 1er août 2007 relative à l’organisation du marché de l’électricité ;
 
-- 15bis° « installation de raccordement » : l’installation de raccordement au sens de l’article 1 er , point (27), de la loi modifiée du 1er août 2007 relative à l’organisation du marché de l’électricité ;
+- 15bis° « installation de raccordement » : l’installation de raccordement au sens de l’article 1er, point (27), de la loi modifiée du 1er août 2007 relative à l’organisation du marché de l’électricité ;
 
 - « intensité de l’aide » : le montant brut de l’aide exprimé en pourcentage des coûts admissibles, avant impôts ou autres prélèvements ;
 
 - « mise en service » : première utilisation de l’infrastructure ayant bénéficié d’une aide par un utilisateur final aux fins de la charge ou du ravitaillement de son véhicule à carburant alternatif. En ce qui concerne les infrastructures accessibles au public, est visée la première utilisation commerciale ;
 
-- « moyenne entreprise » : toute entreprise qui occupe moins de 250 personnes et dont le chiffre d’affaires annuel n’excède pas 50 000 000 euros ou dont le total du bilan annuel n’excède pas 43 000 000 euros et répondant aux critères énoncés à l’annexe I du règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 déclarant certaines catégories d’aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité , tel que modifié ;
+- « moyenne entreprise » : toute entreprise qui occupe moins de 250 personnes et dont le chiffre d’affaires annuel n’excède pas 50 000 000 euros ou dont le total du bilan annuel n’excède pas 43 000 000 euros et répondant aux critères énoncés à l’annexe I du règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 déclarant certaines catégories d’aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité, tel que modifié ;
 
 - « petite entreprise » : toute entreprise qui occupe moins de 50 personnes et dont le chiffre d’affaires annuel ou le total du bilan annuel n’excède pas 10 000 000 euros et répondant aux critères énoncés à l’annexe I du règlement (UE) n° 651/2014 précité ;
 
 - « point d’accès national » : une interface numérique qui donne accès à certaines données statiques et dynamiques en vue de leur réutilisation par les utilisateurs des données, telle qu’implémentée en vertu de l’article 3 du règlement délégué (UE) n° 2015/962 de la Commission du 18 décembre 2014 complétant la directive (UE) n° 2010/40 du Parlement européen et du Conseil en ce qui concerne la mise à disposition, dans l’ensemble de l’Union, de services d’informations en temps réel sur la circulation ;
 
-- « point de charge » : un point de recharge au sens de l’article 2, paragraphe 1 er , point 48), du règlement (UE) 2023/1804 ;
+- « point de charge » : un point de recharge au sens de l’article 2, paragraphe 1er, point 48), du règlement (UE) 2023/1804 ;
 
-- « point de charge connecté » : un point de recharge connecté au sens de l’article 2, paragraphe 1 er , point 17), du règlement (UE) 2023/1804 ;
+- « point de charge connecté » : un point de recharge connecté au sens de l’article 2, paragraphe 1er, point 17), du règlement (UE) 2023/1804 ;
 
-- « point de fourniture » : un point de fourniture au sens de l’article 1 er , paragraphe 36, de la loi modifiée du 1er août 2007 relative à l’organisation du marché de l’électricité ;
+- « point de fourniture » : un point de fourniture au sens de l’article 1er, paragraphe 36, de la loi modifiée du 1er août 2007 relative à l’organisation du marché de l’électricité ;
 
 - 23bis° « point de ravitaillement » : une installation de ravitaillement permettant l’approvisionnement en hydrogène par l’intermédiaire d’une installation fixe ou mobile, qui n’est capable de ravitailler qu’un seul véhicule à hydrogène à la fois ;
 
 - « projet » : tout investissement visant à créer une ou plusieurs nouvelles infrastructures de charge ou à augmenter la capacité de charge d’une ou de plusieurs infrastructures de charge existantes ;
 
-- 24bis° « ravitaillement ad hoc » : le ravitaillement ad hoc au sens de l’article 2, paragraphe 1 er , point 55), du règlement (UE) 2023/1804 ;
+- 24bis° « ravitaillement ad hoc » : le ravitaillement ad hoc au sens de l’article 2, paragraphe 1er, point 55), du règlement (UE) 2023/1804 ;
 
-- « recharge avec paiement à l’acte » : la recharge à l’acte au sens de l’article 2, paragraphe 1 er , point 47), du règlement (UE) 2023/1804 ;
+- « recharge avec paiement à l’acte » : la recharge à l’acte au sens de l’article 2, paragraphe 1er, point 47), du règlement (UE) 2023/1804 ;
 
 - 25bis° « règlement (UE) 2023/1804 » : le règlement (UE) 2023/1804 du Parlement européen et du Conseil du 13 septembre 2023 sur le déploiement d’une infrastructure pour carburants alternatifs et abrogeant la directive 2014/94/UE ;
 
 - « taux d’indisponibilité » : le pourcentage de temps durant lequel le point ou l’infrastructure de charge ou le point ou l’infrastructure de ravitaillement est hors-service pendant les heures d’ouverture. Ne sont pas considérées pour le calcul du taux d’indisponibilité les périodes pendant lesquelles l’infrastructure de charge est hors-service pour des raisons étrangères à l’opérateur de l’infrastructure de charge dûment justifiées. Le taux d’indisponibilité est calculé pour chaque année calendaire ;
 
-- « valeur résiduelle » : la valeur de l’actif de l’infrastructure de charge publique au 31 décembre de l’année précédant l’entrée en vigueur de la présente loi. Si la mission d’opérateur de l’infrastructure de charge publique est assurée par les gestionnaires de réseau de distribution, cette valeur est déterminée par décision du régulateur au sens de l’article 1 er , paragraphe 42, de la loi modifiée du 1er août 2007 relative à l’organisation du marché de l’électricité. Dans tous les autres cas, la valeur résiduelle est à certifier par un réviseur d’entreprise agréé ;
+- « valeur résiduelle » : la valeur de l’actif de l’infrastructure de charge publique au 31 décembre de l’année précédant l’entrée en vigueur de la présente loi. Si la mission d’opérateur de l’infrastructure de charge publique est assurée par les gestionnaires de réseau de distribution, cette valeur est déterminée par décision du régulateur au sens de l’article 1er, paragraphe 42, de la loi modifiée du 1er août 2007 relative à l’organisation du marché de l’électricité. Dans tous les autres cas, la valeur résiduelle est à certifier par un réviseur d’entreprise agréé ;
 
 - 27bis° véhicule à carburant alternatif » : un véhicule à hydrogène ou un véhicule électrique ;
 
-- 27ter° « véhicule à hydrogène » : un véhicule fonctionnant à l’hydrogène au sens de l’article 3, alinéa 2, point 16), du règlement (UE) 2019/2144 du Parlement européen et du Conseil du 27 novembre 2019 relatif aux prescriptions applicables à la réception par type des véhicules à moteur et de leurs remorques, ainsi que des systèmes, composants et entités techniques distinctes destinés à ces véhicules, en ce qui concerne leur sécurité générale et la protection des occupants des véhicules et des usagers vulnérables de la route, modifiant le règlement (UE) 2018/858 du Parlement européen et du Conseil et abrogeant les règlements (CE) n° 78/2009 , (CE) n° 79/2009 et (CE) n° 661/2009 du Parlement européen et du Conseil et les règlements (CE) n° 631/2009 , (UE) n° 406/2010 , (UE) n° 672/2010 , (UE) n° 1003/2010 , (UE) n° 1005/2010 , (UE) n° 1008/2010 , (UE) n° 1009/2010 , (UE) n° 19/2011 , (UE) n° 109/2011 , (UE) n° 458/2011 , (UE) n° 65/2012 , (UE) n° 130/2012 , (UE) n° 347/2012 , (UE) n° 351/2012 , (UE) n° 1230/2012 et (UE) 2015/166 de la Commission ;
+- 27ter° « véhicule à hydrogène » : un véhicule fonctionnant à l’hydrogène au sens de l’article 3, alinéa 2, point 16), du règlement (UE) 2019/2144 du Parlement européen et du Conseil du 27 novembre 2019 relatif aux prescriptions applicables à la réception par type des véhicules à moteur et de leurs remorques, ainsi que des systèmes, composants et entités techniques distinctes destinés à ces véhicules, en ce qui concerne leur sécurité générale et la protection des occupants des véhicules et des usagers vulnérables de la route, modifiant le règlement (UE) 2018/858 du Parlement européen et du Conseil et abrogeant les règlements (CE) n° 78/2009, (CE) n° 79/2009 et (CE) n° 661/2009 du Parlement européen et du Conseil et les règlements (CE) n° 631/2009, (UE) n° 406/2010, (UE) n° 672/2010, (UE) n° 1003/2010, (UE) n° 1005/2010, (UE) n° 1008/2010, (UE) n° 1009/2010, (UE) n° 19/2011, (UE) n° 109/2011, (UE) n° 458/2011, (UE) n° 65/2012, (UE) n° 130/2012, (UE) n° 347/2012, (UE) n° 351/2012, (UE) n° 1230/2012 et (UE) 2015/166 de la Commission ;
 
-- « véhicule électrique » : un véhicule électrique au sens de l’article 2, paragraphe 1 er , point 22), du règlement (UE) 2023/1804 .
+- « véhicule électrique » : un véhicule électrique au sens de l’article 2, paragraphe 1er, point 22), du règlement (UE) 2023/1804.
 
 <a id="art-3"></a>
 ## Art. 3.
@@ -176,7 +176,7 @@ Les aides prévues aux articles 4 à 5bis peuvent être octroyées lorsque les c
 
   - ne sont pas destinées à la revente ou à la location, exception faite des crédits-bails qui prévoient que le crédit-preneur acquière l’infrastructure de charge à la fin du contrat sous les conditions du paragraphe 2 ;
 
-- s’il s’agit d’infrastructures de charge, celles-ci sont alimentées à 100 pour cent par de l’électricité renouvelable telle que définie à l’article 1 er , point (13 bis ), de la loi modifiée du 1er août 2007 relative à l’organisation du marché de l’électricité ;
+- s’il s’agit d’infrastructures de charge, celles-ci sont alimentées à 100 pour cent par de l’électricité renouvelable telle que définie à l’article 1er, point (13bis), de la loi modifiée du 1er août 2007 relative à l’organisation du marché de l’électricité ;
 
 - s’il s’agit d’infrastructures de ravitaillement, celles-ci fournissent exclusivement de l’hydrogène renouvelable au plus tard au 31 décembre 2035 ;
 
@@ -192,9 +192,9 @@ En cas d’augmentation de capacité d’une infrastructure, les conditions éno
 
 Lorsque les conditions suivantes sont réunies, les aides prévues aux articles 4 à 5bis peuvent être octroyées aux entreprises visées au paragraphe 1er, point 1°, par l’intermédiaire d’un crédit-bailleur :
 
-- Le crédit-preneur donne mandat au crédit-bailleur pour demander l’aide prévue à l’article 4, 5 ou 5 bis et en obtenir le paiement au nom et pour le compte du crédit-preneur ;
+- Le crédit-preneur donne mandat au crédit-bailleur pour demander l’aide prévue à l’article 4, 5 ou 5bis et en obtenir le paiement au nom et pour le compte du crédit-preneur ;
 
-- L’aide prévue à l’article 4, 5 ou 5 bis est entièrement transférée au crédit-preneur qui en est le seul bénéficiaire à travers une réduction du prix du crédit-bail. À cet effet, le contrat de crédit-bail indique clairement la base légale et le montant de l’aide octroyée au crédit-preneur ainsi que le montant des versements échelonnés dus par le crédit-preneur avec et sans l’aide ;
+- L’aide prévue à l’article 4, 5 ou 5bis est entièrement transférée au crédit-preneur qui en est le seul bénéficiaire à travers une réduction du prix du crédit-bail. À cet effet, le contrat de crédit-bail indique clairement la base légale et le montant de l’aide octroyée au crédit-preneur ainsi que le montant des versements échelonnés dus par le crédit-preneur avec et sans l’aide ;
 
 - Le crédit-preneur acquière la propriété de la ou des infrastructures de charge subventionnées à la fin du contrat de crédit-bail.
 
@@ -219,7 +219,7 @@ Sans préjudice de l’article 3, paragraphe 1er, les infrastructures de charge 
 
   - 1,5 pour cent au niveau de l’infrastructure de charge en ce qui concerne celles contenant quatre points de charge ou plus ;
 
-- partagent les données statiques et dynamiques concernant le point de charge à travers le point d’accès national selon les modalités prévues à l’article 20, paragraphes 2 à 4, du règlement (UE) 2023/1804 .
+- partagent les données statiques et dynamiques concernant le point de charge à travers le point d’accès national selon les modalités prévues à l’article 20, paragraphes 2 à 4, du règlement (UE) 2023/1804.
 
 (3)
 
@@ -249,7 +249,7 @@ Ces appels à projets peuvent être limités à des infrastructures de charge :
 
 - accessibles au public ou privées ;
 
-- dédiées à certaines catégories de véhicules au sens de l’article 4 du règlement (UE) 2018/858 du Parlement européen et du Conseil du 30 mai 2018 relatif à la réception et à la surveillance du marché des véhicules à moteur et de leurs remorques, ainsi que des systèmes, composants et entités techniques distinctes destinés à ces véhicules, modifiant les règlements (CE) n° 715/2007 et (CE) n° 595/2009 et abrogeant la directive 2007/46/CE , de l’article 4 du règlement (UE) 168/2013 du Parlement européen et du Conseil du 15 janvier 2013 relatif à la réception et à la surveillance du marché des véhicules à deux ou trois roues et des quadricycles, ou de l’article 4 du règlement (UE) 167/2013 du Parlement européen et du Conseil du 5 février 2013 relatif à la réception et à la surveillance du marché des véhicules agricoles et forestiers ;
+- dédiées à certaines catégories de véhicules au sens de l’article 4 du règlement (UE) 2018/858 du Parlement européen et du Conseil du 30 mai 2018 relatif à la réception et à la surveillance du marché des véhicules à moteur et de leurs remorques, ainsi que des systèmes, composants et entités techniques distinctes destinés à ces véhicules, modifiant les règlements (CE) n° 715/2007 et (CE) n° 595/2009 et abrogeant la directive 2007/46/CE, de l’article 4 du règlement (UE) 168/2013 du Parlement européen et du Conseil du 15 janvier 2013 relatif à la réception et à la surveillance du marché des véhicules à deux ou trois roues et des quadricycles, ou de l’article 4 du règlement (UE) 167/2013 du Parlement européen et du Conseil du 5 février 2013 relatif à la réception et à la surveillance du marché des véhicules agricoles et forestiers ;
 
 - dédiées à certaines catégories de capacité de charge.
 
@@ -387,7 +387,7 @@ Sans préjudice de l’article 3, paragraphe 1er, les stations de ravitaillement
 
 - ont un taux d’indisponibilité ne dépassant pas 5 pour cent au niveau de l’infrastructure de ravitaillement ;
 
-- partagent les données statiques et dynamiques concernant le point de ravitaillement à travers le point d’accès national selon les modalités prévues à l’article 20, paragraphes 2 à 4, du règlement (UE) 2023/1804 .
+- partagent les données statiques et dynamiques concernant le point de ravitaillement à travers le point d’accès national selon les modalités prévues à l’article 20, paragraphes 2 à 4, du règlement (UE) 2023/1804.
 
 (3)
 
@@ -411,9 +411,9 @@ Ces appels à projets peuvent être limités à des infrastructures de ravitaill
 
 - accessibles au public ou privées ;
 
-- dédiées à certaines catégories de véhicules au sens de l’article 4 du règlement (UE) 2018/858 du Parlement européen et du Conseil du 30 mai 2018 relatif à la réception et à la surveillance du marché des véhicules à moteur et de leurs remorques, ainsi que des systèmes, composants et entités techniques distinctes destinés à ces véhicules, modifiant les règlements (CE) n° 715/2007 et (CE) n° 595/2009 et abrogeant la directive 2007/46/CE , de l’article 4 du règlement (UE) n° 168/2013 du Parlement européen et du Conseil du 15 janvier 2013 relatif à la réception et à la surveillance du marché des véhicules à deux ou trois roues et des quadricycles, ou de l’article 4 du règlement (UE) n° 167/2013 du Parlement européen et du Conseil du 5 février 2013 relatif à la réception et à la surveillance du marché des véhicules agricoles et forestiers ;
+- dédiées à certaines catégories de véhicules au sens de l’article 4 du règlement (UE) 2018/858 du Parlement européen et du Conseil du 30 mai 2018 relatif à la réception et à la surveillance du marché des véhicules à moteur et de leurs remorques, ainsi que des systèmes, composants et entités techniques distinctes destinés à ces véhicules, modifiant les règlements (CE) n° 715/2007 et (CE) n° 595/2009 et abrogeant la directive 2007/46/CE, de l’article 4 du règlement (UE) n° 168/2013 du Parlement européen et du Conseil du 15 janvier 2013 relatif à la réception et à la surveillance du marché des véhicules à deux ou trois roues et des quadricycles, ou de l’article 4 du règlement (UE) n° 167/2013 du Parlement européen et du Conseil du 5 février 2013 relatif à la réception et à la surveillance du marché des véhicules agricoles et forestiers ;
 
-- ayant une certaine capacité de ravitaillement, sans préjudice du paragraphe 3, alinéa 1 er , point 2° ;
+- ayant une certaine capacité de ravitaillement, sans préjudice du paragraphe 3, alinéa 1er, point 2° ;
 
 - fournissant exclusivement de l’hydrogène renouvelable.
 

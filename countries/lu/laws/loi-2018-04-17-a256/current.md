@@ -61,11 +61,11 @@ Leurs pouvoirs incluent le droit :
 
 - de procéder à des inspections sur place ou des enquêtes auprès des personnes soumises à leur surveillance respective ;
 
-- d’enjoindre de cesser toute pratique contraire aux dispositions du règlement (UE) 1286/2014 , de la présente loi et des mesures prises pour leur exécution ;
+- d’enjoindre de cesser toute pratique contraire aux dispositions du règlement (UE) 1286/2014, de la présente loi et des mesures prises pour leur exécution ;
 
 - de prononcer l’interdiction temporaire d’activités professionnelles du secteur financier ou de l’assurance à l’encontre des personnes soumises à leur surveillance, ainsi que des membres de l’organe de direction, des salariés et des agents liés de ces personnes ;
 
-- d’adopter toute mesure nécessaire pour s’assurer que les personnes soumises à leur surveillance continuent de se conformer aux exigences du règlement (UE) 1286/2014 , de la présente loi et des mesures prises pour leur exécution ;
+- d’adopter toute mesure nécessaire pour s’assurer que les personnes soumises à leur surveillance continuent de se conformer aux exigences du règlement (UE) 1286/2014, de la présente loi et des mesures prises pour leur exécution ;
 
 - de transmettre des informations au procureur d’État en vue de poursuites pénales.
 

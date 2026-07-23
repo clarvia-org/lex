@@ -116,11 +116,11 @@ Aux fins du présent règlement, on entend par:
 
 - «extraction»: un traitement manuel, mécanique, chimique ou métallurgique à l'issue duquel les substances, mélanges et composants dangereux se trouvent rassemblés en un flux identifiable ou dans une partie identifiable d'un flux au cours du processus de traitement. Une substance, un mélange ou un composant est identifiable s'il est possible de le contrôler pour attester que son traitement est respectueux de l'environnement;
 
-- «dispositif médical»: un dispositif médical ou accessoire d'un dispositif médical au sens de l'article 1 er , paragraphe (3) , point a) ou b), respectivement, de la loi modifiée du 16 juin 1990 relative aux dispositifs médicaux, et qui est un EEE;
+- «dispositif médical»: un dispositif médical ou accessoire d'un dispositif médical au sens de l'article 1er, paragraphe (3) , point a) ou b), respectivement, de la loi modifiée du 16 juin 1990 relative aux dispositifs médicaux, et qui est un EEE;
 
-- «dispositif médical de diagnostic in vitro»: un dispositif médical de diagnostic in vitro ou accessoire d'un dispositif médical de diagnostic in vitro au sens de l'article 1 er , point b) ou c), respectivement, du règlement grand-ducal modifié du 24 juillet 2001 relatif aux dispositifs médicaux de diagnostic in vitro, et qui est un EEE;
+- «dispositif médical de diagnostic in vitro»: un dispositif médical de diagnostic in vitro ou accessoire d'un dispositif médical de diagnostic in vitro au sens de l'article 1er, point b) ou c), respectivement, du règlement grand-ducal modifié du 24 juillet 2001 relatif aux dispositifs médicaux de diagnostic in vitro, et qui est un EEE;
 
-- «dispositif médical implantable actif»: un dispositif médical implantable actif au sens de l'article 1 er , paragraphe 2, point c), du règlement grand-ducal modifié du 5 février 1993 relatif aux dispositifs médicaux implantables actifs et qui est un EEE;
+- «dispositif médical implantable actif»: un dispositif médical implantable actif au sens de l'article 1er, paragraphe 2, point c), du règlement grand-ducal modifié du 5 février 1993 relatif aux dispositifs médicaux implantables actifs et qui est un EEE;
 
 - «accord environnemental»: tout accord formel entre le ministre ayant l'environnement dans ses attributions, désigné ci-après par «le ministre», et les secteurs économiques concernés qui doit être ouvert à tous les opérateurs économiques souhaitant se conformer aux conditions fixées par l'accord afin de contribuer à la réalisation des objectifs du présent règlement.
 

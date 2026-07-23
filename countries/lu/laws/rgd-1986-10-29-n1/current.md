@@ -67,7 +67,7 @@ Pour les personnes âgées de moins de soixante ans, est à joindre à la demand
 
 - une attestation de l'administration de l'emploi certifiant que la personne est inscrite comme demandeur d'emploi;
 
-- une attestation du service certifiant que la personne est disposée à répondre aux conditions de l'article 11 de la loi .
+- une attestation du service certifiant que la personne est disposée à répondre aux conditions de l'article 11 de la loi.
 
 En ce qui concerne les requérants inaptes au travail et âgés de moins de soixante ans, l'organisme compétent peut demander un rapport du contrôlemédical de la sécurité sociale attestant que les conditions prévues à l'article 2(2)a) de la loi sont remplies. Il en est de même des bénéficiaires du revenu minimum garanti qui demandent la majoration du complément en vertu du paragraphe (4) de l'article 3 de la loi.
 

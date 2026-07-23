@@ -54,7 +54,7 @@ L’Office accomplit, sous l’autorité du ministre ayant le Commerce extérieu
 
 - il participe à la prévention de la prolifération ;
 
-- il répond aux notifications faites par les exportateurs sur base des articles 34 et 45 de la loi .
+- il répond aux notifications faites par les exportateurs sur base des articles 34 et 45 de la loi.
 
 (2)
 
@@ -139,11 +139,11 @@ Les demandes d’autorisation en rapport avec les produits liés à la défense 
 
 Elles sont accompagnées :
 
-- lorsqu’il s’agit d’une opération d’exportation vers des pays tiers, des documents indiqués à l’article 6, alinéa 1 er , point 1°, point 2°, lettre b), points 3° et 5° ;
+- lorsqu’il s’agit d’une opération d’exportation vers des pays tiers, des documents indiqués à l’article 6, alinéa 1er, point 1°, point 2°, lettre b), points 3° et 5° ;
 
-- lorsqu’il s’agit d’une opération d’importation en provenance de pays tiers, des documents indiquées à l’article 6, alinéa 1 er , point 1°, point 2°, lettre a), points 4° et 5° ;
+- lorsqu’il s’agit d’une opération d’importation en provenance de pays tiers, des documents indiquées à l’article 6, alinéa 1er, point 1°, point 2°, lettre a), points 4° et 5° ;
 
-- lorsqu’il s’agit d’une opération de transit en provenance de pays tiers, des documents indiqués à l’article 6, alinéa 1 er , points 4° et 5° ;
+- lorsqu’il s’agit d’une opération de transit en provenance de pays tiers, des documents indiqués à l’article 6, alinéa 1er, points 4° et 5° ;
 
 - lorsqu’il s’agit d’une opération de transfert à l’intérieur de l’Union européenne dans le cadre d’une demande de licence individuelle ou globale de transfert, des documents indiqués à l’article 6, alinéa 1er, points 1° et 5°.
 
@@ -176,15 +176,15 @@ Les demandes d’autorisation en rapport avec les biens visés à l’article 35
 
 Elles sont accompagnées :
 
-- lorsqu’il s’agit d’une opération d’exportation, vers des pays tiers, des documents indiqués à l’article 6, alinéa 1 er , point 2°, lettre b), points 3° et 5° ;
+- lorsqu’il s’agit d’une opération d’exportation, vers des pays tiers, des documents indiqués à l’article 6, alinéa 1er, point 2°, lettre b), points 3° et 5° ;
 
-- lorsqu’il s’agit d’une opération d’exportation, vers des États membres de l’Union européenne, des documents indiqués à l’article 6, alinéa 1 er , points 3° et 5° ;
+- lorsqu’il s’agit d’une opération d’exportation, vers des États membres de l’Union européenne, des documents indiqués à l’article 6, alinéa 1er, points 3° et 5° ;
 
-- lorsqu’il s’agit d’une opération d’importation en provenance de pays tiers, des documents indiqués à l’article 6, alinéa 1 er , point 2°, lettre a), points 4° et 5° ;
+- lorsqu’il s’agit d’une opération d’importation en provenance de pays tiers, des documents indiqués à l’article 6, alinéa 1er, point 2°, lettre a), points 4° et 5° ;
 
-- lorsqu’il s’agit d’une opération d’importation en provenance d’États membres de l’Union européenne, des documents indiqués à l’article 6, alinéa 1 er , points 4° et 5° ;
+- lorsqu’il s’agit d’une opération d’importation en provenance d’États membres de l’Union européenne, des documents indiqués à l’article 6, alinéa 1er, points 4° et 5° ;
 
-- lorsqu’il s’agit d’une opération de transit en provenance de pays tiers, des documents indiqués à l’article 6, alinéa 1 er , points 4° et 5°.
+- lorsqu’il s’agit d’une opération de transit en provenance de pays tiers, des documents indiqués à l’article 6, alinéa 1er, points 4° et 5°.
 
 Lorsqu’il s’agit d’une opération d’importation en provenance de pays tiers, les documents indiqués à l’article 6, alinéa 1er, point 2°, lettre a), ne sont à fournir que sur demande du pays tiers exportateur.
 
@@ -207,13 +207,13 @@ Les demandes d’autorisation en rapport avec les biens à double usage sont int
 
 Elles sont accompagnées :
 
-- lorsqu’il s’agit d’une opération d’exportation vers des pays tiers, des documents indiqués à l’article 6, alinéa 1 er , points 3° et 5° ;
+- lorsqu’il s’agit d’une opération d’exportation vers des pays tiers, des documents indiqués à l’article 6, alinéa 1er, points 3° et 5° ;
 
-- lorsqu’il s’agit d’une opération d’importation en provenance de pays tiers, des documents indiqués à l’article 6, alinéa 1 er , points 4° et 5° ;
+- lorsqu’il s’agit d’une opération d’importation en provenance de pays tiers, des documents indiqués à l’article 6, alinéa 1er, points 4° et 5° ;
 
-- lorsqu’il s’agit d’une opération de transit en provenance de pays tiers, des documents indiqués à l’article 6, alinéa 1 er , points 4° et 5° ;
+- lorsqu’il s’agit d’une opération de transit en provenance de pays tiers, des documents indiqués à l’article 6, alinéa 1er, points 4° et 5° ;
 
-- pour tout transfert intracommunautaire au départ du Grand-Duché de Luxembourg de biens à double usage visés à l’annexe I, catégorie 5, partie 2, et ne figurant pas sur la liste de l’annexe IV du règlement (CE) n° 428/2009 précité, et pour tout transfert intracommunautaire au départ du Grand-Duché de Luxembourg de biens à double usage figurant sur la liste de l’annexe IV du règlement (CE) n° 428/2009 précité, des documents indiqués à l’article 6, alinéa 1 er , points 3°et 5°.
+- pour tout transfert intracommunautaire au départ du Grand-Duché de Luxembourg de biens à double usage visés à l’annexe I, catégorie 5, partie 2, et ne figurant pas sur la liste de l’annexe IV du règlement (CE) n° 428/2009 précité, et pour tout transfert intracommunautaire au départ du Grand-Duché de Luxembourg de biens à double usage figurant sur la liste de l’annexe IV du règlement (CE) n° 428/2009 précité, des documents indiqués à l’article 6, alinéa 1er, points 3°et 5°.
 
 (2)
 
@@ -232,7 +232,7 @@ Les demandes d’autorisation en rapport avec des services de courtage ou d’as
 
 Les demandes portant sur un transfert intangible de technologie sont accompagnées :
 
-- des documents indiqués à l’article 6, alinéa 1 er , points 3° et 5°;
+- des documents indiqués à l’article 6, alinéa 1er, points 3° et 5°;
 
 - d’un descriptif des moyens mis en œuvre ou à mettre en œuvre pour assurer la sécurité des informations, tant au niveau du fournisseur du savoir-faire qu’à celui de la relation entre fournisseur et bénéficiaire du savoir-faire ;
 
@@ -409,33 +409,33 @@ Sur le verso figure le texte « La présente carte d’identification de service
 
 Le règlement grand-ducal du 2 avril 1993 relatif à l’exécution des actes émanant des institutions compétentes des Communautés européennes touchant la matière agricole est modifié comme suit :
 
-- L’article 1 er , paragraphe 1 er , est modifié comme suit : « L’Administration des douanes et accises du Ministère des Finances est chargée de percevoir pour compte de l’Union européenne, suivant les modalités prévues dans le présent règlement grand-ducal, les prélèvements, primes, montants supplémentaires ou compensatoires, montants ou éléments additionnels et autres droits, dénommés ci-après « montants et droits », établis ou à établir dans le cadre de la politique agricole commune et dus à l’importation et à l’exportation de certains produits. »
+- L’article 1er, paragraphe 1er, est modifié comme suit : « L’Administration des douanes et accises du Ministère des Finances est chargée de percevoir pour compte de l’Union européenne, suivant les modalités prévues dans le présent règlement grand-ducal, les prélèvements, primes, montants supplémentaires ou compensatoires, montants ou éléments additionnels et autres droits, dénommés ci-après « montants et droits », établis ou à établir dans le cadre de la politique agricole commune et dus à l’importation et à l’exportation de certains produits. »
 
-- L’article 2 est modifié comme suit : « L’Administration des douanes et accises est chargée de percevoir les intérêts de retard qui sont dus sur les montants et droits visés à l’article 1 er lorsqu’elle est chargée de la perception de ces montants et droits. Les intérêts de retard sont calculés conformément aux dispositions de l’article 311 de la loi générale sur les douanes et accises. »
+- L’article 2 est modifié comme suit : « L’Administration des douanes et accises est chargée de percevoir les intérêts de retard qui sont dus sur les montants et droits visés à l’article 1er lorsqu’elle est chargée de la perception de ces montants et droits. Les intérêts de retard sont calculés conformément aux dispositions de l’article 311 de la loi générale sur les douanes et accises. »
 
 - L’article 4 est abrogé.
 
-- L’article 5 est modifié comme suit : « Le report de paiement des montants et droits visés à l’article 1 er , par. 1 er , tel que prévu à l’article 110 du règlement (UE) n° 952/2013 du Parlement européen et du Conseil du 9 octobre 2013 établissant le code des douanes de l’Union doit être demandé par écrit par le redevable au moyen d’une mention ad hoc apposée sur la déclaration d’importation ou d’exportation. En vue de bénéficier d’une facilité de paiement autre que le report de paiement, la garantie visée à l’article 112 du règlement (UE) n° 952/2013 précité, est constituée au bureau des douanes où la déclaration d’importation ou d’exportation est déposée selon les modalités exposées ci-après. »
+- L’article 5 est modifié comme suit : « Le report de paiement des montants et droits visés à l’article 1er, par. 1er, tel que prévu à l’article 110 du règlement (UE) n° 952/2013 du Parlement européen et du Conseil du 9 octobre 2013 établissant le code des douanes de l’Union doit être demandé par écrit par le redevable au moyen d’une mention ad hoc apposée sur la déclaration d’importation ou d’exportation. En vue de bénéficier d’une facilité de paiement autre que le report de paiement, la garantie visée à l’article 112 du règlement (UE) n° 952/2013 précité, est constituée au bureau des douanes où la déclaration d’importation ou d’exportation est déposée selon les modalités exposées ci-après. »
 
-- L’article 6, paragraphe 1 er , est modifié comme suit : « La garantie visée à l’article 5 doit être constituée lors du dépôt de la déclaration d’importation ou d’exportation par laquelle la redevabilité des montants et droits visés à l’article 1 er , paragraphe 1 er , prend naissance, et dans tous les cas avant que les marchandises présentées à l’importation ou à l’exportation soient libérées. »
+- L’article 6, paragraphe 1er, est modifié comme suit : « La garantie visée à l’article 5 doit être constituée lors du dépôt de la déclaration d’importation ou d’exportation par laquelle la redevabilité des montants et droits visés à l’article 1er, paragraphe 1er, prend naissance, et dans tous les cas avant que les marchandises présentées à l’importation ou à l’exportation soient libérées. »
 
 - L’article 6, paragraphe 2, est modifié comme suit : « Cette formalité s’effectue conformément aux modalités prévues dans la loi générale sur les douanes et accises ou aux dispositions légales prises pour l’exécution de celle-ci. »
 
 - L’article 6, paragraphe 3, est abrogé.
 
-- L’article 7, paragraphe 1 er , est modifié comme suit : « Lorsqu’une garantie visée à l’article 5 est constituée, l’Administration des douanes et accises délivre l’attestation de garantie, à concurrence du montant constitué. »
+- L’article 7, paragraphe 1er, est modifié comme suit : « Lorsqu’une garantie visée à l’article 5 est constituée, l’Administration des douanes et accises délivre l’attestation de garantie, à concurrence du montant constitué. »
 
 - L’article 7, paragraphe 3, est modifié comme suit : « L’attestation de garantie est délivrée sur demande introduite par lettre ou télécommunication écrite auprès de l’Administration des douanes et accises. »
 
-- L’article 9, paragraphe 1 er , est modifié comme suit : « À l’expiration du délai de validité de l’attestation de garantie, le titulaire reproduit immédiatement cette attestation à l’Administration des douanes et accises, qui libère le solde disponible. »
+- L’article 9, paragraphe 1er, est modifié comme suit : « À l’expiration du délai de validité de l’attestation de garantie, le titulaire reproduit immédiatement cette attestation à l’Administration des douanes et accises, qui libère le solde disponible. »
 
 - L’article 9, paragraphe 2, est modifié comme suit : « Au cas où l’attestation de garantie expirée n’est pas reproduite à l’Administration des douanes et accises pour cause de perte ou de destruction ou pour toute autre raison, le solde disponible, calculé sur la base des données en possession du bureau des douanes, n’est libéré que sur production d’une déclaration sur l’honneur du titulaire par laquelle il communique l’usage qu’il a fait de l’attestation de garantie. »
 
 - L’article 11, paragraphe 2, est abrogé.
 
-- L’article 12 est modifié comme suit : « L’Administration des douanes et accises est chargée de la prise en compte, telle que prévue à l’article 105 du règlement (UE) n° 952/2013 précité, des montants et droits visés à l’article 1 er , paragraphe 1 er . »
+- L’article 12 est modifié comme suit : « L’Administration des douanes et accises est chargée de la prise en compte, telle que prévue à l’article 105 du règlement (UE) n° 952/2013 précité, des montants et droits visés à l’article 1er, paragraphe 1er. »
 
-- L’article 14 est modifié comme suit : Les recettes imputables réalisées à l’importation ou à l’exportation à partir du 1 er janvier 1971 au titre des montants et droits visés à l’article 1 er , paragraphe 1 er , sont versées par l’Administration des douanes et accises au compte ouvert auprès de la Trésorerie de l’État au nom de l’Union européenne. »
+- L’article 14 est modifié comme suit : Les recettes imputables réalisées à l’importation ou à l’exportation à partir du 1er janvier 1971 au titre des montants et droits visés à l’article 1er, paragraphe 1er, sont versées par l’Administration des douanes et accises au compte ouvert auprès de la Trésorerie de l’État au nom de l’Union européenne. »
 
 - L’article 20 est modifié comme suit : « L’Administration des douanes et accises est chargée d’octroyer les restitutions, les montants compensatoires et autres montants établis ou à établir dans le cadre de la politique agricole commune et qui sont prévus, à l’importation et à l’exportation de certains produits, par les actes des institutions compétentes de l’Union européenne. Ces restitutions et montants sont dénommés ci-après « montants à octroyer ». »
 
@@ -445,11 +445,11 @@ Le règlement grand-ducal du 2 avril 1993 relatif à l’exécution des actes é
 
 - L’article 23 est abrogé.
 
-- L’article 24 est modifié comme suit : « Sur les fonds avancés par l’Union européenne, la Trésorerie de l’État met à la disposition du ministre ayant l’Agriculture dans ses attributions et à charge du budget pour ordre, les moyens financiers nécessaires aux fins d’octroi des restitutions afférentes à des importations ou à des exportations réalisées à partir du 1 er janvier 1971. »
+- L’article 24 est modifié comme suit : « Sur les fonds avancés par l’Union européenne, la Trésorerie de l’État met à la disposition du ministre ayant l’Agriculture dans ses attributions et à charge du budget pour ordre, les moyens financiers nécessaires aux fins d’octroi des restitutions afférentes à des importations ou à des exportations réalisées à partir du 1er janvier 1971. »
 
-- L’article 26 est modifié comme suit : « Les perceptions et les octrois visés aux articles 1 er et 20, l’établissement des montants et droits, des intérêts compensatoires et des montants à octroyer, visés auxdits articles, s’effectuent en application des actes émanant des institutions compétentes de l’Union européenne. »
+- L’article 26 est modifié comme suit : « Les perceptions et les octrois visés aux articles 1er et 20, l’établissement des montants et droits, des intérêts compensatoires et des montants à octroyer, visés auxdits articles, s’effectuent en application des actes émanant des institutions compétentes de l’Union européenne. »
 
-- L’article 27 est modifié comme suit : « Pour l’établissement des montants et droits et des montants à octroyer visés aux articles 1 er et 20, l’Administration des douanes et accises est habilitée à prélever des échantillons. »
+- L’article 27 est modifié comme suit : « Pour l’établissement des montants et droits et des montants à octroyer visés aux articles 1er et 20, l’Administration des douanes et accises est habilitée à prélever des échantillons. »
 
 - L’intitulé du chapitre IV est remplacé par l’intitulé suivant : « Chapitre IV. Certificats UE ».
 
@@ -470,25 +470,25 @@ L’article 2 de l’arrêté grand-ducal du 9 octobre 1935, approuvant le Proto
 
 Sont abrogés:
 
-- l’ arrêté grand-ducal du 20 août 1938 relatif à l’importation, l’exportation et le transit de certaines catégories de poissons et crustacés ;
+- l’arrêté grand-ducal du 20 août 1938 relatif à l’importation, l’exportation et le transit de certaines catégories de poissons et crustacés ;
 
-- l’ arrêté grand-ducal du 31 août 1939 , concernant la règlementation de l’importation, de l’exportation et du transit de certaines marchandises ;
+- l’arrêté grand-ducal du 31 août 1939, concernant la règlementation de l’importation, de l’exportation et du transit de certaines marchandises ;
 
-- l’ arrêté grand-ducal du 25 septembre 1939 relatif à l’importation, à l’exportation et au transit de certaines marchandises ;
+- l’arrêté grand-ducal du 25 septembre 1939 relatif à l’importation, à l’exportation et au transit de certaines marchandises ;
 
-- l’ arrêté grand-ducal du 2 octobre 1939 relatif à l’importation, à l’exportation et au transit de certaines marchandises ;
+- l’arrêté grand-ducal du 2 octobre 1939 relatif à l’importation, à l’exportation et au transit de certaines marchandises ;
 
-- l’ arrêté grand-ducal du 18 novembre 1939 relatif à l’importation, à l’exportation et au transit de certaines marchandises ;
+- l’arrêté grand-ducal du 18 novembre 1939 relatif à l’importation, à l’exportation et au transit de certaines marchandises ;
 
-- l’ arrêté grand-ducal du 4 décembre 1939 , concernant la règlementation de l’importation, de l’exportation et du transit de certaines marchandises ;
+- l’arrêté grand-ducal du 4 décembre 1939, concernant la règlementation de l’importation, de l’exportation et du transit de certaines marchandises ;
 
-- l’ arrêté grand-ducal du 17 mai 1956 règlementant la fabrication, la distribution et la détention de la diacétylmorphine et de la 1-méthyl-4-métahydroxyphényl-4 propionylpipéridine (cétobémidone) ;
+- l’arrêté grand-ducal du 17 mai 1956 règlementant la fabrication, la distribution et la détention de la diacétylmorphine et de la 1-méthyl-4-métahydroxyphényl-4 propionylpipéridine (cétobémidone) ;
 
 - le règlement grand-ducal du 17 août 1963 soumettant à licence le transit de certaines marchandises ;
 
 - le règlement grand-ducal du 24 octobre 1967 concernant la Commission des licences et l´Office des licences ;
 
-- le règlement grand-ducal du 13 janvier 1987 modifiant le règlement grand-ducal du 31 juillet 1986 , soumettant à licence le transit de certaines marchandises ;
+- le règlement grand-ducal du 13 janvier 1987 modifiant le règlement grand-ducal du 31 juillet 1986, soumettant à licence le transit de certaines marchandises ;
 
 - le règlement grand-ducal modifié du 31 juillet 1989 sur les transferts de matières, d’équipements et de technologies nucléaires et sur leurs conditions de protection physique ;
 

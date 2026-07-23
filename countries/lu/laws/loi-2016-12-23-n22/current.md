@@ -82,7 +82,7 @@ Afin de lui permettre de contrôler si les conditions d’octroi des aides au lo
 
   - l’indication s’il s’agit d’une imposition individuelle ou collective ;
 
-  - le montant du revenu imposable tel que défini à l’article 7, alinéa 1 er , de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu, les montants des revenus nets par catégorie de revenus énumérées à l’article 10 de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu, les revenus exonérés incorporés par catégorie de revenus dans une base imposable fictive selon l’article 134 de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu ainsi que le montant total des dépenses spéciales telles que définies à l’article 109 de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu ;
+  - le montant du revenu imposable tel que défini à l’article 7, alinéa 1er, de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu, les montants des revenus nets par catégorie de revenus énumérées à l’article 10 de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu, les revenus exonérés incorporés par catégorie de revenus dans une base imposable fictive selon l’article 134 de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu ainsi que le montant total des dépenses spéciales telles que définies à l’article 109 de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu ;
 
 - à l’Administration du cadastre et de la topographie la transmission des données suivantes :
 

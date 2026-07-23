@@ -193,7 +193,7 @@ Les données à caractère personnel traitées par l’ONA dans le cadre des fin
 
 - les données relatives à la situation sociale et financière : ressources disponibles, conditions d’hébergement, affiliation à la Caisse nationale de santé, prestations ou aides perçues, pièces justificatives de dépenses ou de frais avancés ;
 
-- les données relatives à la santé et à la prise en charge financière : données issues des examens médicaux prévus à l’article 5 de la loi du 11 juin 2026 , données relatives à la santé physique et à la santé mentale visées aux articles 21 et 22 de la loi du 11 juin 2026 , ainsi que les données relatives aux frais qui sont pris en charge par l’ONA dans le cadre de l’octroi des conditions matérielles d’accueil ;
+- les données relatives à la santé et à la prise en charge financière : données issues des examens médicaux prévus à l’article 5 de la loi du 11 juin 2026, données relatives à la santé physique et à la santé mentale visées aux articles 21 et 22 de la loi du 11 juin 2026, ainsi que les données relatives aux frais qui sont pris en charge par l’ONA dans le cadre de l’octroi des conditions matérielles d’accueil ;
 
 - les données relatives à l’hébergement et au suivi de la personne au sein de la structure d’hébergement : décision d’affectation, structure d’affectation, dates d’entrée et de sortie, modalités d’accompagnement, participation aux activités ou aux formations, garde d’enfants ;
 
@@ -245,7 +245,7 @@ Les autorités administratives et organismes visés au paragraphe 1er sont les s
 
 - le ministre ayant l’Immigration dans ses attributions pour les procédures d’octroi et de retrait de la protection internationale ;
 
-- la Direction de la santé pour les finalités prévues aux articles 5, 20, 21 et 22 de la loi du 11 juin 2026 . Dans ce cadre, la Direction de la santé a également accès aux données suivantes du fichier des étrangers et du fichier des demandeurs et des bénéficiaires de la protection temporaire exploité pour le compte du ministre ayant l’Immigration dans ses attributions : nom, prénoms, état civil, sexe, numéro d’identification national, date de naissance, date d’introduction de la demande de la personne concernée, identifiant, nationalité, statut administratif, composition familiale, lien de parenté, langue parlée ;
+- la Direction de la santé pour les finalités prévues aux articles 5, 20, 21 et 22 de la loi du 11 juin 2026. Dans ce cadre, la Direction de la santé a également accès aux données suivantes du fichier des étrangers et du fichier des demandeurs et des bénéficiaires de la protection temporaire exploité pour le compte du ministre ayant l’Immigration dans ses attributions : nom, prénoms, état civil, sexe, numéro d’identification national, date de naissance, date d’introduction de la demande de la personne concernée, identifiant, nationalité, statut administratif, composition familiale, lien de parenté, langue parlée ;
 
 - le ministre ayant l’Éducation nationale, l’Enfance et la Jeunesse dans ses attributions pour les finalités prévues aux articles 6 et 8 de la loi du 11 juin 2026 ;
 
@@ -255,7 +255,7 @@ Les autorités administratives et organismes visés au paragraphe 1er sont les s
 
 - l’ONE pour les finalités prévues à l’article 25 de la loi du 11 juin 2026 ;
 
-- la Direction du contrôle financier dans le cadre des contrôles lui étant confiés par la loi modifiée du 8 juin 1999 sur le budget, la comptabilité et la trésorerie de l’État, tels que visés à l’article 4bis , paragraphe 5 ;
+- la Direction du contrôle financier dans le cadre des contrôles lui étant confiés par la loi modifiée du 8 juin 1999 sur le budget, la comptabilité et la trésorerie de l’État, tels que visés à l’article 4bis, paragraphe 5 ;
 
 - l’Agence pour le développement de l’emploi pour les finalités prévues aux articles 7 et 8 de la loi du 11 juin 2026 ;
 
@@ -269,7 +269,7 @@ Les autorités administratives et organismes visés au paragraphe 1er sont les s
 
 - le ministre ayant les Affaires consulaires dans ses attributions, dans le cadre des demandes de protection internationale introduites après l’obtention d’un visa de court séjour délivré conformément aux dispositions de la loi précitée du 29 août 2008 ;
 
-- les communes et les organismes visés à l’article 4, paragraphe 1 er , dans le cadre des conventions conclues avec l’ONA, prévues à l’article 4, paragraphe 3 ;
+- les communes et les organismes visés à l’article 4, paragraphe 1er, dans le cadre des conventions conclues avec l’ONA, prévues à l’article 4, paragraphe 3 ;
 
 - les Offices sociaux établis par la loi modifiée du 18 décembre 2009 organisant l’aide sociale, lorsque la personne concernée souhaite bénéficier d’une aide sociale.
 
@@ -353,25 +353,111 @@ L’article 1er, paragraphe 3, lettre e), de la loi modifiée du 21 septembre 20
 
 La loi modifiée du 16 décembre 2008 concernant l’accueil et l’intégration des étrangers au Grand-Duché de Luxembourg est modifiée comme suit :
 
-- L’intitulé est remplacé comme suit : « Loi du 16 décembre 2008 concernant l’intégration des étrangers au Grand-Duché de Luxembourg » ;
+- L’intitulé est remplacé comme suit :
 
-- L’intitulé du chapitre 1 er est modifié comme suit : « Chapitre 1. Dispositions générales » ;
+« Loi du 16 décembre 2008 concernant l’intégration des étrangers au Grand-Duché de Luxembourg » ;
 
-- L’article 1 er , alinéa 2 est remplacé comme suit : Ne sont pas visés par l’alinéa 1er les demandeurs de protection internationale tels que définis par la loi du 5 mai 2006 relative au droit d’asile et à des formes complémentaires de protection.
+- L’intitulé du chapitre 1er est modifié comme suit :
 
-- L’article 3 est remplacé par le texte suivant : « Art. 3. Le ministre ayant l’Intégration dans ses attributions, ci-après « ministre », a pour mission de faciliter le processus d’intégration des étrangers par la mise en œuvre et la coordination de la politique d’intégration, dont la lutte contre les discriminations constitue un élément essentiel, conjointement avec les communes et des acteurs de la société civile. Dans l’accomplissement de cette mission, le ministre collabore avec les instances communautaires et internationales. » ;
+#### « Chapitre 1. Dispositions générales » ;
+
+- L’article 1er, alinéa 2 est remplacé comme suit :
+
+Ne sont pas visés par l’alinéa 1er les demandeurs de protection internationale tels que définis par la loi du 5 mai 2006 relative au droit d’asile et à des formes complémentaires de protection.
+
+- L’article 3 est remplacé par le texte suivant :
+
+« Art. 3.
+
+Le ministre ayant l’Intégration dans ses attributions, ci-après « ministre », a pour mission de faciliter le processus d’intégration des étrangers par la mise en œuvre et la coordination de la politique d’intégration, dont la lutte contre les discriminations constitue un élément essentiel, conjointement avec les communes et des acteurs de la société civile.
+
+Dans l’accomplissement de cette mission, le ministre collabore avec les instances communautaires et internationales. » ;
 
 - Les articles 4 et 5 sont abrogés ;
 
-- À l’article 6, alinéa 1 er , les termes L’OLAI est chargé d’établir sont remplacés par les termes Le ministre établit ;
+- À l’article 6, alinéa 1er, les termes L’OLAI est chargé d’établir sont remplacés par les termes Le ministre établit ;
 
-- L’article 7 est remplacé par le texte suivant : « Art. 7. Tous les cinq ans, le ministre adresse un rapport national sur l’intégration des étrangers et la lutte contre les discriminations au Grand-Duché de Luxembourg à la Chambre des Députés. Dans l’exercice de ses missions, le ministre est habilité à faire appel aux administrations de l’État, aux administrations communales, aux établissements et organismes publics afin de lui prêter leur concours et de lui fournir toutes les données nécessaires à l’élaboration du rapport. » ;
+- L’article 7 est remplacé par le texte suivant :
 
-- L’article 11 est remplacé par le texte suivant : « Art. 11. Le ministre fait établir un contrat type d’accueil et d’intégration, assure sa gestion et prend les mesures nécessaires pour encourager les étrangers à conclure un tel contrat. » ;
+« Art. 7.
 
-- À l’article 12, le terme insertion est remplacé par le terme intégration , les termes l’OLAI procède sont remplacés par les termes le ministre fait procéder et les termes ministère de l’Éducation nationale et de la Formation professionnelle sont remplacés par les termes ministre ayant l’Éducation nationale dans ses attributions ;
+Tous les cinq ans, le ministre adresse un rapport national sur l’intégration des étrangers et la lutte contre les discriminations au Grand-Duché de Luxembourg à la Chambre des Députés.
 
-- L’article 14 est remplacé par le texte suivant : Art. 14. (1) Le Gouvernement peut accorder en fonction des moyens budgétaires disponibles un soutien financier aux communes et à des organismes pour la réalisation des missions définies à l’article 3, paragraphe 1er. Le soutien financier peut prendre la forme d’un subside ou d’une participation financière aux frais de fonctionnement. Si le bénéficiaire est une personne morale de droit privé, celle-ci doit être constituée soit en vertu d’une disposition légale particulière, soit selon les dispositions de la loi modifiée du 21 avril 1928 sur les associations et les fondations sans but lucratif, soit selon les dispositions de la loi modifiée du 10 août 1915 concernant les sociétés commerciales. (2) Lorsque le soutien financier prend la forme d’un subside, les conditions suivantes doivent être remplies : le montant maximal par subside ne peut pas dépasser 100 000 euros et 75 pour cent du coût total du projet ; la demande doit être adressée par écrit au ministre avant la réalisation du projet et elle doit comprendre une estimation du coût total ; le bénéficiaire du subside doit assurer le suivi et l’évaluation du projet. En outre, lorsque le bénéficiaire est un des organismes visés au paragraphe 1er, l’objet social du bénéficiaire doit présenter un lien avec les missions du ministre définies à l’article 3, paragraphe 1er. (3) Lorsque le soutien financier prend la forme d’une participation financière, le bénéficiaire doit signer avec l’État une convention qui détermine : les prestations à fournir par le bénéficiaire ; le type de la participation financière conformément aux modalités précisées au paragraphe 5 ; les modalités de coopération entre les parties contractantes sans pour autant affecter la gestion qui est de la responsabilité du bénéficiaire. (4) Dans le cadre du paragraphe 3 les dépenses suivantes sont considérées : les frais courants d’entretien et de gestion ; les dépenses de personnel ; les frais résultant de collaborateurs occasionnels ou bénévoles ; les frais en relation avec le louage, l’entretien et la réparation des bâtiments et l’équipement mobilier ; les frais résultant des prestations spécifiques fournies par le bénéficiaire. (5) La convention fixe le type de la participation financière qui peut consister selon les cas en une : participation financière par couverture du déficit : la participation financière de l’État versée en vertu du paragraphe 4 correspond au pourcentage du solde des frais de fonctionnement tel que fixé par la convention et accepté par l’État et des recettes faites par le bénéficiaire ; participation financière par unité de prestation : la participation de l’État versée en vertu du paragraphe 4 est établie en fonction du volume des prestations fournies et du prix unitaire par prestation fixé par la convention ; participation financière forfaitaire ou par projet : la participation financière de l’État versée en vertu du paragraphe 4 est constituée d’un montant invariable fixé sur base d’une négociation entre parties ; participation financière mixte : la participation financière de l’État versée en vertu du paragraphe 4 correspond à une combinaison des différents types de participation financière retenus pour les différentes prestations prévues à la convention. (6) Un règlement grand-ducal précise les modalités d’application des paragraphes 2, 3, 4 et 5.
+Dans l’exercice de ses missions, le ministre est habilité à faire appel aux administrations de l’État, aux administrations communales, aux établissements et organismes publics afin de lui prêter leur concours et de lui fournir toutes les données nécessaires à l’élaboration du rapport. » ;
+
+- L’article 11 est remplacé par le texte suivant :
+
+<a id="art-11"></a>
+## « Art. 11.
+
+Le ministre fait établir un contrat type d’accueil et d’intégration, assure sa gestion et prend les mesures nécessaires pour encourager les étrangers à conclure un tel contrat. » ;
+
+- À l’article 12, le terme insertion est remplacé par le terme intégration, les termes l’OLAI procède sont remplacés par les termes le ministre fait procéder et les termes ministère de l’Éducation nationale et de la Formation professionnelle sont remplacés par les termes ministre ayant l’Éducation nationale dans ses attributions ;
+
+- L’article 14 est remplacé par le texte suivant :
+
+<a id="art-14"></a>
+## Art. 14.
+
+(1)
+
+Le Gouvernement peut accorder en fonction des moyens budgétaires disponibles un soutien financier aux communes et à des organismes pour la réalisation des missions définies à l’article 3, paragraphe 1er.
+
+Le soutien financier peut prendre la forme d’un subside ou d’une participation financière aux frais de fonctionnement.
+
+Si le bénéficiaire est une personne morale de droit privé, celle-ci doit être constituée soit en vertu d’une disposition légale particulière, soit selon les dispositions de la loi modifiée du 21 avril 1928 sur les associations et les fondations sans but lucratif, soit selon les dispositions de la loi modifiée du 10 août 1915 concernant les sociétés commerciales.
+
+(2)
+
+Lorsque le soutien financier prend la forme d’un subside, les conditions suivantes doivent être remplies :
+
+- le montant maximal par subside ne peut pas dépasser 100 000 euros et 75 pour cent du coût total du projet ;
+
+- la demande doit être adressée par écrit au ministre avant la réalisation du projet et elle doit comprendre une estimation du coût total ;
+
+- le bénéficiaire du subside doit assurer le suivi et l’évaluation du projet.
+
+En outre, lorsque le bénéficiaire est un des organismes visés au paragraphe 1er, l’objet social du bénéficiaire doit présenter un lien avec les missions du ministre définies à l’article 3, paragraphe 1er.
+
+(3)
+
+Lorsque le soutien financier prend la forme d’une participation financière, le bénéficiaire doit signer avec l’État une convention qui détermine :
+
+- les prestations à fournir par le bénéficiaire ;
+
+- le type de la participation financière conformément aux modalités précisées au paragraphe 5 ;
+
+- les modalités de coopération entre les parties contractantes sans pour autant affecter la gestion qui est de la responsabilité du bénéficiaire.
+
+(4)
+
+Dans le cadre du paragraphe 3 les dépenses suivantes sont considérées :
+
+- les frais courants d’entretien et de gestion ;
+
+- les dépenses de personnel ;
+
+- les frais résultant de collaborateurs occasionnels ou bénévoles ;
+
+- les frais en relation avec le louage, l’entretien et la réparation des bâtiments et l’équipement mobilier ;
+
+- les frais résultant des prestations spécifiques fournies par le bénéficiaire.
+
+(5)
+
+La convention fixe le type de la participation financière qui peut consister selon les cas en une :
+
+- participation financière par couverture du déficit : la participation financière de l’État versée en vertu du paragraphe 4 correspond au pourcentage du solde des frais de fonctionnement tel que fixé par la convention et accepté par l’État et des recettes faites par le bénéficiaire ;
+
+- participation financière par unité de prestation : la participation de l’État versée en vertu du paragraphe 4 est établie en fonction du volume des prestations fournies et du prix unitaire par prestation fixé par la convention ;
+
+- participation financière forfaitaire ou par projet : la participation financière de l’État versée en vertu du paragraphe 4 est constituée d’un montant invariable fixé sur base d’une négociation entre parties ;
+
+- participation financière mixte : la participation financière de l’État versée en vertu du paragraphe 4 correspond à une combinaison des différents types de participation financière retenus pour les différentes prestations prévues à la convention.
+
+(6)
+
+Un règlement grand-ducal précise les modalités d’application des paragraphes 2, 3, 4 et 5.
 
 - L’article 16 est abrogé ;
 
@@ -407,7 +493,6 @@ Pendant la période transitoire prévue à l’article 41 de la loi modifiée du
 
 Les fonctionnaires disposant d’une majoration d’échelon pour postes à responsabilités particulières avant la reprise continuent à bénéficier de cette majoration d’échelon par dépassement du nombre limite fixé en vertu des dispositions de l’article 16 de la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État aussi longtemps qu’ils restent titulaires d’un poste à responsabilité particulière. Il en est de même des employés qui bénéficient d’une telle majoration sur la base de l’article 29 de la loi modifiée du 25 mars 2015 déterminant le régime et les indemnités des employés de l’État. Les fonctionnaires bénéficiant d’un grade de substitution accordé conformément aux anciennes dispositions de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’État continuent à bénéficier de ce grade sans que leur nombre ne soit pris en considération pour fixer le nombre limite fixé en vertu des dispositions de l’article 16 de la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État.
 
-<a id="art-11"></a>
-## Art. 11.
+Art. 11.
 
 La référence à la présente loi se fait sous la forme suivante : « loi du 4 décembre 2019 portant création de l’Office national de l’accueil ».

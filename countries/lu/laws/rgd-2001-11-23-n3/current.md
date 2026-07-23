@@ -134,7 +134,7 @@ En ce qui concerne les voies et espaces publics, les aires de jeux, les plans ve
 
 En ce qui concerne les espaces réservés au parking et au stationnement, ainsi que les garages collectifs, les exigences d'accessibilité sont les suivantes:
 
-- A proximité des entrées ou sorties des lieux visés à l'article 1 er , au moins 5 % des emplacements de stationnement ou de parking sont réservés aux personnes handicapées pour les cent premières places et un emplacement au moins pour toutes les tranches de 50 places supplémentaires.
+- A proximité des entrées ou sorties des lieux visés à l'article 1er, au moins 5 % des emplacements de stationnement ou de parking sont réservés aux personnes handicapées pour les cent premières places et un emplacement au moins pour toutes les tranches de 50 places supplémentaires.
 
 - Les emplacements de parking ou de stationnement pour personnes handicapées ont une largeur d'au moins 350 cm. Elles sont marquées au sol et par un panneau à pictogramme.
 
@@ -149,7 +149,7 @@ En ce qui concerne les espaces réservés au parking et au stationnement, ainsi 
 
 En ce qui concerne les entrées et parties communes des bâtiments, les exigences d'accessibilité sont les suivantes:
 
-- Tous les bâtiments, locaux ou enceintes visés à l'article 1 er disposent à partir de la voie publique et du parking d'au moins une voie d'accès la plus directe possible répondant aux critères des articles 3 et 4.
+- Tous les bâtiments, locaux ou enceintes visés à l'article 1er disposent à partir de la voie publique et du parking d'au moins une voie d'accès la plus directe possible répondant aux critères des articles 3 et 4.
 
 - Devant la porte ou le sas d'entrée, une aire de manoeuvre plane d'un diamètre minimal de 160 cm est aménagée.
 

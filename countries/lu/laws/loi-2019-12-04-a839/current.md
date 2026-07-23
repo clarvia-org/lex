@@ -185,7 +185,7 @@ L’ODL exerce pour compte de l’État :
 
 - les prestations mentionnées à l’article 8, paragraphes 2 et 3 ;
 
-- les prestations mentionnées à l’article 8, paragraphe 1 er , qui comportent des risques dont la gravité et la durée dépassent ses possibilités techniques, mais dont l’opportunité est constatée par le Gouvernement en conseil.
+- les prestations mentionnées à l’article 8, paragraphe 1er, qui comportent des risques dont la gravité et la durée dépassent ses possibilités techniques, mais dont l’opportunité est constatée par le Gouvernement en conseil.
 
 (2)
 
@@ -313,7 +313,7 @@ Le conseil d’administration exerce les attributions suivantes :
 
 - il propose le réviseur d’entreprises ;
 
-- il approuve les conventions à conclure pour la réalisation des missions de l’ODL prévu à l’article 5, paragraphe 1 er , autres que les contrats de prestation visés à l’article 7, paragraphe 1 er ;
+- il approuve les conventions à conclure pour la réalisation des missions de l’ODL prévu à l’article 5, paragraphe 1er, autres que les contrats de prestation visés à l’article 7, paragraphe 1er ;
 
 - il définit la politique de placement financier de l’ODL ;
 
@@ -435,7 +435,7 @@ Le Gouvernement en conseil approuve :
 
 - les décisions visées à l’article 15, point 14°, relatives à l’organigramme, la grille des emplois ainsi que les conditions et modalités de rémunération du personnel ;
 
-- toute décision ayant trait à l’exercice par l’ODL d’une activité exercée pour le compte de l’État en application des articles 5, paragraphe 2, ou 9, paragraphe 1 er , point 2°.
+- toute décision ayant trait à l’exercice par l’ODL d’une activité exercée pour le compte de l’État en application des articles 5, paragraphe 2, ou 9, paragraphe 1er, point 2°.
 
 ##### Section 2 COPEL
 

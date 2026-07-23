@@ -109,7 +109,7 @@ Comptent pour la détermination du droit à la pension au sens de l’article 7.
 
   - le temps d’absence de service au sens du paragraphe I. sous a), 1. à 3. qui précède, résultant de l’interruption ou de la réduction du temps de travail, non couvert par une computation conformément au point 4. y prévu,
 
-  - les périodes d’assurance prises en compte par le régime de pension général aux fins visées par l’article 172 du Code de la sécurité sociale ,
+  - les périodes d’assurance prises en compte par le régime de pension général aux fins visées par l’article 172 du Code de la sécurité sociale,
 
   - les périodes d’absence de service au sens du paragraphe I. du présent article, non couvertes par une mise en compte au titre des points 1. et 2. ci-avant, et à condition qu’elles ne soient pas déjà mises en compte pour un autre régime de pension légal étranger,
 
@@ -336,27 +336,27 @@ La formule de calcul est définie par rapport à un temps de service maximal cor
 
 Le taux de remplacement maximal individuel correspond à la somme des coefficients déterminés à raison de 1/480ème, respectivement de 1/483ème dans le contexte du point b) qui suit, de
 
-- 5/6 èmes par mois de service acquis à la date du 31 décembre 1998 et
+- 5/6èmes par mois de service acquis à la date du 31 décembre 1998 et
 
-- 72/100 èmes par mois de service manquant pour parfaire 480 mois, respectivement 483 mois dans le contexte du point b) qui suit.
+- 72/100èmes par mois de service manquant pour parfaire 480 mois, respectivement 483 mois dans le contexte du point b) qui suit.
 
   - Le taux de remplacement effectif correspond à la somme de la différence entre le taux de remplacement maximum individuel et celui déterminé ci-avant sous a), point 1. pour les mois se situant avant le 1er janvier 1999.
 
-    - du taux de remplacement réalisé à la date du 31 décembre 1998 qui correspond à 20/60 èmes augmentés de 1/720 ème par mois de service au-delà de 120 et
+    - du taux de remplacement réalisé à la date du 31 décembre 1998 qui correspond à 20/60èmes augmentés de 1/720ème par mois de service au-delà de 120 et
 
-    - du produit de la multiplication du nombre de mois de service réalisés depuis le 1 er janvier 1999, réduit le cas échéant du nombre de mois manquant pour parfaire 120 mois au 31 décembre 1998, par un coefficient correspondant
+    - du produit de la multiplication du nombre de mois de service réalisés depuis le 1er janvier 1999, réduit le cas échéant du nombre de mois manquant pour parfaire 120 mois au 31 décembre 1998, par un coefficient correspondant
 
-      - soit à 1/360 ème par mois, dans l’hypothèse d’un temps de service inférieur ou égal à 120 mois au 31 décembre 1998,
+      - soit à 1/360ème par mois, dans l’hypothèse d’un temps de service inférieur ou égal à 120 mois au 31 décembre 1998,
 
       - soit, dans l’hypothèse d’un temps de service supérieur à 120 mois au 31 décembre 1998, au quotient de la division par le nombre de mois manquants pour parfaire 480 mois
 
   - Le taux de remplacement effectif correspond à la somme de la différence entre le taux de remplacement maximum individuel et celui déterminé ci-avant sous b), point 1. pour les mois se situant avant le 1er janvier 1999.
 
-    - du taux de remplacement réalisé à la date du 31 décembre 1998 qui correspond à 33/100 èmes , majoré pour chaque année de service à partir de la onzième jusqu’à la vingtième de 2/100 èmes et de 1,5/100 èmes pour chaque année au-delà et
+    - du taux de remplacement réalisé à la date du 31 décembre 1998 qui correspond à 33/100èmes, majoré pour chaque année de service à partir de la onzième jusqu’à la vingtième de 2/100èmes et de 1,5/100èmes pour chaque année au-delà et
 
-    - du produit de la multiplication du nombre des mois de service réalisés depuis le 1 er janvier 1999, réduit le cas échéant du nombre d’années de service manquant pour parfaire 120 mois de service au 31 décembre 1998, par un coefficient correspondant
+    - du produit de la multiplication du nombre des mois de service réalisés depuis le 1er janvier 1999, réduit le cas échéant du nombre d’années de service manquant pour parfaire 120 mois de service au 31 décembre 1998, par un coefficient correspondant
 
-      - soit à 1/363 ème par mois, dans l’hypothèse d’un temps de service inférieur ou égal à 120 mois au 31 décembre 1998,
+      - soit à 1/363ème par mois, dans l’hypothèse d’un temps de service inférieur ou égal à 120 mois au 31 décembre 1998,
 
       - soit, dans l’hypothèse d’un temps de service supérieur à 120 mois au 31 décembre 1998, au quotient de la division par le nombre de mois manquants pour parfaire 483 mois,
 
@@ -370,9 +370,9 @@ La formule de calcul est déterminée par rapport à un temps de service maximal
 
 Le taux de remplacement maximum individuel correspond à la somme des coefficients déterminés à raison de 1/30ème de
 
-- 50/60 èmes par année de service acquise à la date du 31 décembre 1998 et
+- 50/60èmes par année de service acquise à la date du 31 décembre 1998 et
 
-- 68,5/100 èmes par année de service manquante pour parfaire 30 années,
+- 68,5/100èmes par année de service manquante pour parfaire 30 années,
 
 sans pouvoir être inférieur à 72/100èmes.
 
@@ -390,9 +390,9 @@ La formule de calcul est définie par rapport à la somme, qui ne peut dépasser
 
 Le taux de remplacement effectif correspond à la somme des coefficients déterminés à raison de respectivement 1/95ème de
 
-- 50/60 èmes par année de service et d’âge acquise à la date du 31 décembre 1998 et
+- 50/60èmes par année de service et d’âge acquise à la date du 31 décembre 1998 et
 
-- 68,5/100 èmes par année manquante pour parfaire 95 années,
+- 68,5/100èmes par année manquante pour parfaire 95 années,
 
 sans pouvoir être ni inférieur à 72/100èmes, ni supérieur à 50/60èmes.
 
@@ -914,11 +914,11 @@ L’indemnité est allouée par le ministre ayant la Fonction publique dans ses 
 
 Les organismes de pension compétents sont,
 
-- en ce qui concerne les intéressés relevant de l’article 1 er sous a), le Centre de gestion du personnel et de l’organisation de l’État sous l’autorité du ministre ayant la Fonction publique dans ses attributions;
+- en ce qui concerne les intéressés relevant de l’article 1er sous a), le Centre de gestion du personnel et de l’organisation de l’État sous l’autorité du ministre ayant la Fonction publique dans ses attributions;
 
-- en ce qui concerne les intéressés relevant de l’article 1 er sous b), la Caisse de Prévoyance des Fonctionnaires et Employés communaux;
+- en ce qui concerne les intéressés relevant de l’article 1er sous b), la Caisse de Prévoyance des Fonctionnaires et Employés communaux;
 
-- en ce qui concerne les intéressés relevant de l’article 1 er sous c), la Société nationale des Chemins de Fer luxembourgeois, Division du personnel retraité.
+- en ce qui concerne les intéressés relevant de l’article 1er sous c), la Société nationale des Chemins de Fer luxembourgeois, Division du personnel retraité.
 
 Par ministre compétent au sens des dispositions de la présente loi, il y a lieu d’entendre le membre du Gouvernement de la compétence duquel relèvent les organismes dont question ci-avant.
 
@@ -1526,7 +1526,7 @@ La caisse de prévoyance des fonctionnaires et employés communaux a pour objet 
 
 - les fonctionnaires et employés des caisses de prévoyance et de maladie des fonctionnaires et employés communaux;
 
-- les employés communaux dans les limites et sous les conditions fixées par l’article 1 er , paragraphe 5, de la loi modifiée du 24 décembre 1985 fixant le statut général des fonctionnaires communaux et par les règlements pris en exécution de cette disposition;
+- les employés communaux dans les limites et sous les conditions fixées par l’article 1er, paragraphe 5, de la loi modifiée du 24 décembre 1985 fixant le statut général des fonctionnaires communaux et par les règlements pris en exécution de cette disposition;
 
 - les bénéficiaires de pensions servies par la caisse de prévoyance.
 
@@ -1625,7 +1625,7 @@ Du calcul de la pension
 
   - Les années de service dépassant quatre cent quatre-vingt-trois mois, toutes bonifications comprises, et se situant avant l’âge de cinquante-cinq ans, sont mises en compte au titre d’années de service acquises à la date du 31 décembre 1998, déduction faite des années bonifiées à ce même titre en application du point 1. qui précède.
 
-  - Le taux de remplacement découlant de l’application des dispositions du présent article est majoré, jusqu’à concurrence du maximum de 5/6 èmes , de 2,31 pour cent par année de service supplémentaire prestée au-delà de cinquante- cinq années d’âge et à compter du moment où l’agent totalise au moins quatre cent quatre-vingt-trois mois de service, toutes bonifications comprises.
+  - Le taux de remplacement découlant de l’application des dispositions du présent article est majoré, jusqu’à concurrence du maximum de 5/6èmes, de 2,31 pour cent par année de service supplémentaire prestée au-delà de cinquante- cinq années d’âge et à compter du moment où l’agent totalise au moins quatre cent quatre-vingt-trois mois de service, toutes bonifications comprises.
 
 - Pour les fonctionnaires de la carrière de l’agent pompier la formule de calcul prévue à l’article 11.III. est définie par référence à la valeur 85 de la somme de l’âge et du service, l’âge de référence pour l’application de l’alinéa 5 est fixé à cinquante-cinq ans et l’âge de référence pour l’application de l’alinéa final est fixé à soixante ans.
 
@@ -1784,7 +1784,24 @@ En attendant la mise en vigueur des mesures indispensables à l’exécution des
 
 La loi modifiée du 24 décembre 1985 fixant le statut général des fonctionnaires communaux est modifiée comme suit:
 
-- A la suite de l’article 48 il est inséré un nouvel article 48bis, libellé comme suit: Art. 48bis. Lorsqu’au cours d’une période de douze mois un fonctionnaire a été absent pour cause de maladie pendant six mois consécutives ou non, le collège des bourgmestre et échevins est tenu de saisir le médecin de contrôle pour examiner le fonctionnaire et vérifier si, sur la base d’un rapport médical circonstancié à produire par le médecin traitant, le fonctionnaire est susceptible de présenter une incapacité pour exercer ses fonctions. Sont mis en compte pour une journée entière toutes les journées d’absences pour cause de maladie, même si ces absences ne couvrent pas des journées entières. Si le médecin estime que les conditions d’invalidité pour l’ouverture d’un droit à une pension d’invalidité paraissent remplies, le collège des bourgmestre et échevins devra traduire le fonctionnaire devant la Commission des pensions prévue respectivement à l’article 46 de la loi du 25 mars 2015 instituant un régime de pension spécial transitoire pour les fonctionnaires de l’Etat et des communes ainsi que pour les agents de la Société nationale des Chemins de Fer luxembourgeois et à l’article 68 de la loi modifiée du 3 août 1998 instituant un régime de pension spécial pour les fonctionnaires de l’Etat et des communes ainsi que pour les agents de la Société nationale des Chemins de Fer luxembourgeois. Dans la même hypothèse et en présence d’une demande expresse y relative du collège des bourgmestre et échevins au moment de la saisine du médecin, celui-ci transmettra le dossier directement à cette commission. Il en sera de même, si le fonctionnaire refuse de se laisser examiner par le médecin. Au cas où le médecin estime justifiées les absences de service à plein temps ou partiel pour cause de maladie ayant déclenché la présente procédure, la prolongation ultérieure de ces congés se fera sous le contrôle et l’autorité de ce médecin. Le fonctionnaire doit se soumettre aux examens périodiques prescrits. Les congés de maladie ainsi accordés ne peuvent pas, en général, dépasser la période de quarante-deux semaines à compter depuis la première intervention dudit médecin. A l’expiration de ces congés de maladie le fonctionnaire est tenu de reprendre son service normal. Si à la fin du dernier de ces congés ainsi accordés, et au plus tard à l’expiration de la période visée à l’alinéa 3 ci-avant, le médecin estime que le fonctionnaire n’est toujours pas rétabli, il transmettra le dossier à la prédite commission en vue de décision. Le présent paragraphe est également applicable aux employés communaux qui jouissent du régime de pension des fonctionnaires communaux. Il est de même applicable aux fonctionnaires et employés de la caisse de prévoyance des fonctionnaires et employés communaux. Dans ce dernier cas, les attributions du collège des bourgmestre et échevins sont exercées par le président de la caisse et celles du conseil communal par le conseil d’administration de ladite caisse. Faute par les organes visés aux alinéas précédents de faire les diligences et de prendre les décisions conformes à la loi dans les délais prévus, il y sera suppléé par décision du ministre de l’Intérieur.
+- A la suite de l’article 48 il est inséré un nouvel article 48bis, libellé comme suit:
+
+<a id="art-48bis"></a>
+## Art. 48bis.
+
+Lorsqu’au cours d’une période de douze mois un fonctionnaire a été absent pour cause de maladie pendant six mois consécutives ou non, le collège des bourgmestre et échevins est tenu de saisir le médecin de contrôle pour examiner le fonctionnaire et vérifier si, sur la base d’un rapport médical circonstancié à produire par le médecin traitant, le fonctionnaire est susceptible de présenter une incapacité pour exercer ses fonctions. Sont mis en compte pour une journée entière toutes les journées d’absences pour cause de maladie, même si ces absences ne couvrent pas des journées entières.
+
+Si le médecin estime que les conditions d’invalidité pour l’ouverture d’un droit à une pension d’invalidité paraissent remplies, le collège des bourgmestre et échevins devra traduire le fonctionnaire devant la Commission des pensions prévue respectivement à l’article 46 de la loi du 25 mars 2015 instituant un régime de pension spécial transitoire pour les fonctionnaires de l’Etat et des communes ainsi que pour les agents de la Société nationale des Chemins de Fer luxembourgeois et à l’article 68 de la loi modifiée du 3 août 1998 instituant un régime de pension spécial pour les fonctionnaires de l’Etat et des communes ainsi que pour les agents de la Société nationale des Chemins de Fer luxembourgeois. Dans la même hypothèse et en présence d’une demande expresse y relative du collège des bourgmestre et échevins au moment de la saisine du médecin, celui-ci transmettra le dossier directement à cette commission. Il en sera de même, si le fonctionnaire refuse de se laisser examiner par le médecin.
+
+Au cas où le médecin estime justifiées les absences de service à plein temps ou partiel pour cause de maladie ayant déclenché la présente procédure, la prolongation ultérieure de ces congés se fera sous le contrôle et l’autorité de ce médecin. Le fonctionnaire doit se soumettre aux examens périodiques prescrits. Les congés de maladie ainsi accordés ne peuvent pas, en général, dépasser la période de quarante-deux semaines à compter depuis la première intervention dudit médecin.
+
+A l’expiration de ces congés de maladie le fonctionnaire est tenu de reprendre son service normal.
+
+Si à la fin du dernier de ces congés ainsi accordés, et au plus tard à l’expiration de la période visée à l’alinéa 3 ci-avant, le médecin estime que le fonctionnaire n’est toujours pas rétabli, il transmettra le dossier à la prédite commission en vue de décision.
+
+Le présent paragraphe est également applicable aux employés communaux qui jouissent du régime de pension des fonctionnaires communaux. Il est de même applicable aux fonctionnaires et employés de la caisse de prévoyance des fonctionnaires et employés communaux. Dans ce dernier cas, les attributions du collège des bourgmestre et échevins sont exercées par le président de la caisse et celles du conseil communal par le conseil d’administration de ladite caisse.
+
+Faute par les organes visés aux alinéas précédents de faire les diligences et de prendre les décisions conformes à la loi dans les délais prévus, il y sera suppléé par décision du ministre de l’Intérieur.
 
 - Le paragraphe 3. de l’article 49 est supprimé.
 

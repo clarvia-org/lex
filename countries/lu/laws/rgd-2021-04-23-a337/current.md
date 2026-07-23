@@ -105,7 +105,7 @@ Lorsque le fonctionnaire en service provisoire est absent lors d’une ou de plu
 
 Les fonctionnaires en service provisoire suivent des formations au choix parmi les matières énumérées à l’annexe du présent règlement pour un nombre minimum de 30 heures de formation, déterminées par le collège des bourgmestre et échevins, le bureau du syndicat de communes ou le président de l’établissement public placé sous la surveillance de la commune. Sont concernés les fonctionnaires suivants :
 
-- les fonctionnaires en service provisoire de la catégorie de traitement A, groupe de traitement A1, sous-groupe administratif et sous-groupe à attributions particulières de la rubrique « Administration générale », à l’exception de ceux énumérés à l’article 12, paragraphe 1 er , alinéa 7, points 4° à 12° du règlement grand-ducal modifié du 28 juillet 2017 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires communaux et relevant de la rubrique « Administration générale » ;
+- les fonctionnaires en service provisoire de la catégorie de traitement A, groupe de traitement A1, sous-groupe administratif et sous-groupe à attributions particulières de la rubrique « Administration générale », à l’exception de ceux énumérés à l’article 12, paragraphe 1er, alinéa 7, points 4° à 12° du règlement grand-ducal modifié du 28 juillet 2017 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires communaux et relevant de la rubrique « Administration générale » ;
 
 - les fonctionnaires en service provisoire de la catégorie de traitement A, groupe de traitement A1, sous-groupe scientifique et technique et sous-groupe éducatif et psycho-social de la rubrique « Administration générale » ;
 

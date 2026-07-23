@@ -95,7 +95,7 @@ Les statuts d’une association doivent mentionner au minimum :
 
   - le cas échéant, le mode de nomination, les conditions de cessation de fonctions et de révocation des personnes habilitées à représenter l’association conformément à l’article 5, paragraphe 6, ainsi que l’étendue de leurs pouvoirs ;
 
-  - le cas échéant, le mode de nomination, les conditions de cessation de fonctions et de révocation des personnes déléguées à la gestion journalière de l’association conformément à l’article 7, paragraphe 1 er , ainsi que l’étendue de leurs pouvoirs ;
+  - le cas échéant, le mode de nomination, les conditions de cessation de fonctions et de révocation des personnes déléguées à la gestion journalière de l’association conformément à l’article 7, paragraphe 1er, ainsi que l’étendue de leurs pouvoirs ;
 
   - le cas échéant, le mode de nomination du réviseur d’entreprises agrée ;
 
@@ -940,9 +940,9 @@ La nullité de la fusion ne peut intervenir que dans les conditions suivantes :
 
 - lorsqu’il est possible de porter remède à l’irrégularité susceptible d’entraîner la nullité de la fusion, le tribunal compétent accorde aux associations intéressées un délai pour régulariser la situation ;
 
-- la décision prononçant la nullité de la fusion fait l’objet d’une publicité selon les modes prévus au titre I er , chapitre V bis de la loi modifiée du 19 décembre 2002 concernant le registre de commerce et des sociétés ainsi que la comptabilité et les comptes annuels des entreprises ;
+- la décision prononçant la nullité de la fusion fait l’objet d’une publicité selon les modes prévus au titre Ier, chapitre Vbis de la loi modifiée du 19 décembre 2002 concernant le registre de commerce et des sociétés ainsi que la comptabilité et les comptes annuels des entreprises ;
 
-- la tierce opposition contre la décision prononçant la nullité de la fusion n’est plus recevable après l’expiration d’un délai de six mois à compter de la publicité de la décision effectuée selon le titre I er , chapitre V bis de la loi précitée du 19 décembre 2002 ;
+- la tierce opposition contre la décision prononçant la nullité de la fusion n’est plus recevable après l’expiration d’un délai de six mois à compter de la publicité de la décision effectuée selon le titre Ier, chapitre Vbis de la loi précitée du 19 décembre 2002 ;
 
 - la décision prononçant la nullité de la fusion ne porte atteinte par elle-même à la validité des obligations nées à la charge ou au profit de l’association absorbante ou de la nouvelle association, selon le cas, antérieurement à la publicité de la décision et postérieurement à la date visée au paragraphe 7 ;
 
@@ -982,7 +982,7 @@ Cette demande doit être accompagnée :
 
 - d’une copie de la délibération de l’assemblée générale autorisant l’introduction d’une demande de reconnaissance du statut d’utilité publique ;
 
-- de la confirmation que la dernière version des statuts coordonnés ainsi que les documents visés à l’article 22, paragraphes 1 er et 2, point 1°, ont été déposés auprès du registre de commerce et des sociétés.
+- de la confirmation que la dernière version des statuts coordonnés ainsi que les documents visés à l’article 22, paragraphes 1er et 2, point 1°, ont été déposés auprès du registre de commerce et des sociétés.
 
 (3)
 
@@ -998,7 +998,7 @@ Le ministre ayant la Justice dans ses attributions prend connaissance des inscri
 
 L’arrêté grand-ducal de reconnaissance du statut d’utilité publique ne peut être pris que si :
 
-- le but statutaire est conforme à l’article 33, paragraphe 1 er , point 1° ;
+- le but statutaire est conforme à l’article 33, paragraphe 1er, point 1° ;
 
 - le rapport avec une description précise des projets concrets réalisés par l’association au cours des trois derniers exercices en vue d’atteindre son but statutaire, sur les projets en voie de réalisation ainsi que sur les projets qu’elle entend mettre en œuvre au cours des deux prochains exercices établit à suffisance que les activités concrètes rentrent dans le but statutaire de l’association ;
 
@@ -1201,7 +1201,7 @@ Les statuts d’une fondation doivent mentionner au minimum :
 
   - le cas échéant, le mode de nomination, de cessation de fonctions et de révocation des personnes habilitées à représenter la fondation conformément à l’article 45, paragraphe 4, ainsi que l’étendue de leurs pouvoirs ;
 
-  - le cas échéant, le mode de nomination, de cessation de fonctions et de révocation des personnes déléguées à la gestion journalière de la fondation conformément à l’article 48, paragraphe 1 er , ainsi que l’étendue de leurs pouvoirs ;
+  - le cas échéant, le mode de nomination, de cessation de fonctions et de révocation des personnes déléguées à la gestion journalière de la fondation conformément à l’article 48, paragraphe 1er, ainsi que l’étendue de leurs pouvoirs ;
 
   - le mode de nomination du réviseur d’entreprises agréé ;
 
@@ -1554,7 +1554,7 @@ Le tribunal d’arrondissement siégeant en matière civile du siège de la fond
 
 - affecte son patrimoine ou ses revenus à un but autre que celui en vue duquel elle a été constituée ;
 
-- est restée en défaut de ramener l’actif net à concurrence du montant nécessaire pour atteindre le montant minimum prévu à l’article 52, paragraphe 1 er , alinéa 3 ;
+- est restée en défaut de ramener l’actif net à concurrence du montant nécessaire pour atteindre le montant minimum prévu à l’article 52, paragraphe 1er, alinéa 3 ;
 
 - contrevient gravement à ses statuts, à la loi ou à l’ordre public ;
 
@@ -1829,9 +1829,9 @@ La nullité de la fusion ne peut intervenir que dans les conditions suivantes :
 
 - lorsqu’il est possible de porter remède à l’irrégularité susceptible d’entraîner la nullité de la fusion, le tribunal compétent accorde aux fondations intéressées un délai pour régulariser la situation ;
 
-- la décision prononçant la nullité de la fusion fait l’objet d’une publicité selon les modes prévus au titre I er , chapitre V bis de la loi modifiée du 19 décembre 2002 concernant le registre de commerce et des sociétés ainsi que la comptabilité et les comptes annuels des entreprises ;
+- la décision prononçant la nullité de la fusion fait l’objet d’une publicité selon les modes prévus au titre Ier, chapitre Vbis de la loi modifiée du 19 décembre 2002 concernant le registre de commerce et des sociétés ainsi que la comptabilité et les comptes annuels des entreprises ;
 
-- la tierce opposition contre la décision prononçant la nullité de la fusion n’est plus recevable après l’expiration d’un délai de six mois à compter de la publicité de la décision effectuée selon le titre I er , chapitre V bis de la loi précitée du 19 décembre 2002 ;
+- la tierce opposition contre la décision prononçant la nullité de la fusion n’est plus recevable après l’expiration d’un délai de six mois à compter de la publicité de la décision effectuée selon le titre Ier, chapitre Vbis de la loi précitée du 19 décembre 2002 ;
 
 - la décision prononçant la nullité de la fusion ne porte atteinte par elle-même à la validité des obligations nées à la charge ou au profit de la fondation absorbante ou de la nouvelle fondation, selon le cas, antérieurement à la publicité de la décision et postérieurement à la date visée au paragraphe 7 ;
 
@@ -1948,13 +1948,41 @@ Les dispositions entre vifs ou testamentaires au profit de l’État et des autr
 
 La loi modifiée du 19 décembre 2002 concernant le registre de commerce et des sociétés ainsi que la comptabilité et les comptes annuels des entreprises est modifiée comme suit :
 
-- L’article 9 est modifié comme suit : Art. 9. Toute association sans but lucratif, toute fondation, toute association agricole, toute association d’épargne-pension, toute mutuelle et tout établissement public est tenu de requérir son immatriculation. Celle-ci indique : la dénomination ; l’objet ; la durée pour laquelle l’association, la fondation, la mutuelle ou l’établissement public est constitué, lorsqu’elle n’est pas illimitée ; l’adresse précise du siège de l’association, de la fondation, de la mutuelle ou de l’établissement public ; l’identité, l’adresse privée ou professionnelle précise des personnes autorisées à gérer, administrer et signer pour l’association ou la fondation ou la mutuelle ou des personnes membres de l’organe de gestion pour les établissements publics avec indication de la nature et de l’étendue de leurs pouvoirs ainsi que la date de nomination et la date d’expiration du mandat ; s’il s’agit de personnes physiques, leurs nom, prénoms, date et lieu de naissance ou s’il s’agit de personnes morales non immatriculées auprès du registre de commerce et des sociétés de Luxembourg, leur dénomination ou leur raison sociale, leur forme juridique et le numéro d’immatriculation au registre de commerce et des sociétés, si la législation de l’État dont la personne morale relève prévoit un tel numéro ainsi que le nom du registre le cas échéant ou s’il s’agit de personnes morales immatriculées auprès du registre de commerce et des sociétés de Luxembourg, le seul numéro d’immatriculation ; Pour les associations sans but lucratif et les fondations, doivent également être indiqués les nom, prénoms, date et lieu de naissance et adresse professionnelle ou privée précise des représentants permanents, personnes physiques, désignées par celles-ci ; pour les associations sans but lucratif et les fondations, l’identité, l’adresse privée ou professionnelle précise du réviseur d’entreprises agréé, selon le cas, la date de nomination et la date d’expiration du mandat; s’il s’agit de personnes physiques, leurs nom, prénoms, date et lieu de naissance ou s’il s’agit de personnes morales non immatriculées auprès du registre de commerce et des sociétés de Luxembourg, leur dénomination sociale ou leur raison sociale, leur forme juridique, le numéro d’immatriculation au registre de commerce et des sociétés doit être indiqué, si la législation de l’État dont la personne relève prévoit un tel numéro ainsi que le nom du registre le cas échéant ou s’il s’agit de personnes morales immatriculées auprès du registre de commerce et des sociétés de Luxembourg, le seul numéro d’immatriculation ; le cas échéant, la date de début et de clôture de l’exercice social ; pour les fondations et les associations sans but lucratif reconnues d’utilité publique, la date de l’arrêté grand-ducal ; pour les associations d’épargne-pension, la date et le numéro de l’autorisation, ainsi que le nom de l’autorité l’ayant délivrée ; pour les mutuelles, la date de l’arrêté ministériel. pour les mutuelles résultant d’une fusion ou ayant participé à une fusion, le seul numéro d’immatriculation de toutes les mutuelles y ayant participé ainsi que la date de l’arrêté ministériel ; pour les associations sans but lucratif ou les fondations résultant d’une fusion ou y ayant participé, le seul numéro d’immatriculation de toutes les fondations ou associations y ayant participé ainsi que, le cas échéant, la date de l’arrêté grand-ducal.
+- L’article 9 est modifié comme suit :
+
+Art. 9.
+
+Toute association sans but lucratif, toute fondation, toute association agricole, toute association d’épargne-pension, toute mutuelle et tout établissement public est tenu de requérir son immatriculation.
+
+Celle-ci indique :
+
+- la dénomination ;
+
+- l’objet ;
+
+- la durée pour laquelle l’association, la fondation, la mutuelle ou l’établissement public est constitué, lorsqu’elle n’est pas illimitée ;
+
+- l’adresse précise du siège de l’association, de la fondation, de la mutuelle ou de l’établissement public ;
+
+- l’identité, l’adresse privée ou professionnelle précise des personnes autorisées à gérer, administrer et signer pour l’association ou la fondation ou la mutuelle ou des personnes membres de l’organe de gestion pour les établissements publics avec indication de la nature et de l’étendue de leurs pouvoirs ainsi que la date de nomination et la date d’expiration du mandat ; s’il s’agit de personnes physiques, leurs nom, prénoms, date et lieu de naissance ou s’il s’agit de personnes morales non immatriculées auprès du registre de commerce et des sociétés de Luxembourg, leur dénomination ou leur raison sociale, leur forme juridique et le numéro d’immatriculation au registre de commerce et des sociétés, si la législation de l’État dont la personne morale relève prévoit un tel numéro ainsi que le nom du registre le cas échéant ou s’il s’agit de personnes morales immatriculées auprès du registre de commerce et des sociétés de Luxembourg, le seul numéro d’immatriculation ; Pour les associations sans but lucratif et les fondations, doivent également être indiqués les nom, prénoms, date et lieu de naissance et adresse professionnelle ou privée précise des représentants permanents, personnes physiques, désignées par celles-ci ;
+
+- pour les associations sans but lucratif et les fondations, l’identité, l’adresse privée ou professionnelle précise du réviseur d’entreprises agréé, selon le cas, la date de nomination et la date d’expiration du mandat; s’il s’agit de personnes physiques, leurs nom, prénoms, date et lieu de naissance ou s’il s’agit de personnes morales non immatriculées auprès du registre de commerce et des sociétés de Luxembourg, leur dénomination sociale ou leur raison sociale, leur forme juridique, le numéro d’immatriculation au registre de commerce et des sociétés doit être indiqué, si la législation de l’État dont la personne relève prévoit un tel numéro ainsi que le nom du registre le cas échéant ou s’il s’agit de personnes morales immatriculées auprès du registre de commerce et des sociétés de Luxembourg, le seul numéro d’immatriculation ;
+
+- le cas échéant, la date de début et de clôture de l’exercice social ;
+
+- pour les fondations et les associations sans but lucratif reconnues d’utilité publique, la date de l’arrêté grand-ducal ; pour les associations d’épargne-pension, la date et le numéro de l’autorisation, ainsi que le nom de l’autorité l’ayant délivrée ; pour les mutuelles, la date de l’arrêté ministériel.
+
+- pour les mutuelles résultant d’une fusion ou ayant participé à une fusion, le seul numéro d’immatriculation de toutes les mutuelles y ayant participé ainsi que la date de l’arrêté ministériel ; pour les associations sans but lucratif ou les fondations résultant d’une fusion ou y ayant participé, le seul numéro d’immatriculation de toutes les fondations ou associations y ayant participé ainsi que, le cas échéant, la date de l’arrêté grand-ducal.
 
 - L’article 13 est modifié comme suit :
 
-  - Le point 8) prend la teneur suivante : les décisions judiciaires prononçant la dissolution, ordonnant la liquidation d’une société, d’un groupement d’intérêt économique, d’un groupement européen d’intérêt économique, d’une association sans but lucratif, d’une fondation et des autres personnes morales ou entités immatriculées et portant nomination d’un liquidateur
+  - Le point 8) prend la teneur suivante :
 
-  - Le point 17) prend la teneur suivante : la décision d’ouverture ou de clôture d’une procédure de dissolution administrative sans liquidation prise par le gestionnaire du registre du commerce et des sociétés en application de la loi du 28 octobre 2022 portant création de la procédure de dissolution administrative sans liquidation ou du titre V de la loi du 7 août 2023 sur les associations sans but lucratif et les fondations.
+- les décisions judiciaires prononçant la dissolution, ordonnant la liquidation d’une société, d’un groupement d’intérêt économique, d’un groupement européen d’intérêt économique, d’une association sans but lucratif, d’une fondation et des autres personnes morales ou entités immatriculées et portant nomination d’un liquidateur
+
+  - Le point 17) prend la teneur suivante :
+
+- la décision d’ouverture ou de clôture d’une procédure de dissolution administrative sans liquidation prise par le gestionnaire du registre du commerce et des sociétés en application de la loi du 28 octobre 2022 portant création de la procédure de dissolution administrative sans liquidation ou du titre V de la loi du 7 août 2023 sur les associations sans but lucratif et les fondations.
 
 ### TITRE X Dispositions abrogatoires et transitoires
 

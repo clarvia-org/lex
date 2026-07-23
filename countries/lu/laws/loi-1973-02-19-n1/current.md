@@ -301,7 +301,7 @@ Les revenus produits par les biens saisis et confisqués suivent le sort des bie
 
 Les infractions visées à l’article 8 seront punies d’un emprisonnement de cinq à dix ans et d’une amende de 1.250 à 1.250.000 euros.
 
-- si elles ont été commises à l’égard d’un mineur, à l’exception des infractions visées à l’article 8, alinéa 1 er , point 1, lettre c) ;
+- si elles ont été commises à l’égard d’un mineur, à l’exception des infractions visées à l’article 8, alinéa 1er, point 1, lettre c);
 
 - si l’usage des substances qui a été fait à la suite des infractions a causé, à autrui soit une maladie paraissant incurable, soit une incapacité permanente de travail personnel, soit la perte de l’usage absolue d’un organe, soit une mutilation grave.
 
@@ -532,9 +532,9 @@ Un règlement grand-ducal fixe la liste des maladies précitées et précise le 
 
 Seront exemptés des peines d’emprisonnement et d’amende :
 
-- ceux des coupables d’infractions aux articles 7, 7-1, 8, alinéa 1 er , point 1, lettres c) et h), qui auront révélé à l’autorité l’identité d’auteurs d’infractions aux articles 8, alinéa 1 er , point 1, lettres a), b), d), f), g), i), 9, 10 et 11, ou, si ces auteurs ne sont pas connus, l’existence de ces infractions ;
+- ceux des coupables d’infractions aux articles 7, 7-1, 8, alinéa 1er, point 1, lettres c) et h), qui auront révélé à l’autorité l’identité d’auteurs d’infractions aux articles 8, alinéa 1er, point 1, lettres a), b), d), f), g), i), 9, 10 et 11, ou, si ces auteurs ne sont pas connus, l’existence de ces infractions ;
 
-- ceux des coupables d’infractions aux articles 7, 7-1, 8, alinéa 1 er , point 1, lettres a), b), d) e), i) et 10, alinéa 1 er , qui, avant toute poursuite judiciaire auront révélé à l’autorité l’identité d’auteurs d’infractions aux articles 8, alinéa 1 er , point 1, lettres a), b), d), f), g), i), 9, 10 et 11 ou, si ces auteurs ne sont pas connus, l’existence de ces infractions ;
+- ceux des coupables d’infractions aux articles 7, 7-1, 8, alinéa 1er, point 1, lettres a), b), d) e), i) et 10, alinéa 1er, qui, avant toute poursuite judiciaire auront révélé à l’autorité l’identité d’auteurs d’infractions aux articles 8, alinéa 1er, point 1, lettres a), b), d), f), g), i), 9, 10 et 11 ou, si ces auteurs ne sont pas connus, l’existence de ces infractions ;
 
 - ceux des coupables de participation à l’association ou à l’entente prévue à l’article 11 qui, avant toutes poursuites judiciaires, auront révélé à l’autorité l’existence de cette bande et fourni des renseignements utiles relatifs au fonctionnement et à la hiérarchie de la bande.
 
@@ -542,9 +542,9 @@ Seront exemptés des peines d’emprisonnement et d’amende :
 
 Les peines de réclusion, d’emprisonnement et d’amende seront réduites dans la mesure déterminée par l’article 414 du Code pénal :
 
-- à l’égard des coupables d’infractions aux articles 7-1, 8, alinéa 1 er , point 1, lettres a), b), d) e), i) et 10, alinéa 1 er , ou des coupables de participation à l’association ou à l’entente prévue à l’article 11 qui, après le commencement des poursuites judiciaires, auront révélé à l’autorité l’identité d’auteurs restés inconnus d’infractions aux articles, 8, alinéa 1 er , point 1, lettres a), b), d), f), i), 9, 10 et 11 ;
+- à l’égard des coupables d’infractions aux articles 7-1, 8, alinéa 1er, point 1, lettres a), b), d) e), i) et 10, alinéa 1er, ou des coupables de participation à l’association ou à l’entente prévue à l’article 11 qui, après le commencement des poursuites judiciaires, auront révélé à l’autorité l’identité d’auteurs restés inconnus d’infractions aux articles, 8, alinéa 1er, point 1, lettres a), b), d), f), i), 9, 10 et 11 ;
 
-- à l’égard des coupables d’infractions aux articles 9 ou 10, alinéa 2, qui auront révélé à l’autorité l’identité d’auteurs restés inconnus d’infractions aux articles 8, alinéa 1 er , point 1, lettres a), b), d), f), g), i), 9, 10 et 11.
+- à l’égard des coupables d’infractions aux articles 9 ou 10, alinéa 2, qui auront révélé à l’autorité l’identité d’auteurs restés inconnus d’infractions aux articles 8, alinéa 1er, point 1, lettres a), b), d), f), g), i), 9, 10 et 11.
 
 <a id="art-32"></a>
 ## Art. 32.

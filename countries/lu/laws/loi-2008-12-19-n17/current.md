@@ -369,7 +369,7 @@ En outre, les conditions suivantes doivent être réunies:
 
 - les mesures à prendre dans de telles circonstances exceptionnelles sont indiquées dans les programmes de mesures prévus à l’article 28 et ne compromettent pas le rétablissement de la qualité de la masse d’eau une fois que les circonstances seront passées;
 
-- les effets des circonstances exceptionnelles ou qui n’ont raisonnablement pas pu être prévues sont revus chaque année et, sous réserve des raisons énoncées à l’article 8, paragraphe 1 er , point a), toutes les mesures faisables sont prises pour restaurer, dans les meilleurs délais raisonnablement possibles, la masse d’eau dans l’état qui était le sien avant les effets de ces circonstances, et
+- les effets des circonstances exceptionnelles ou qui n’ont raisonnablement pas pu être prévues sont revus chaque année et, sous réserve des raisons énoncées à l’article 8, paragraphe 1er, point a), toutes les mesures faisables sont prises pour restaurer, dans les meilleurs délais raisonnablement possibles, la masse d’eau dans l’état qui était le sien avant les effets de ces circonstances, et
 
 - un résumé des effets des circonstances et des mesures prises ou à prendre conformément aux points a) et d) est inclus dans la prochaine mise à jour du plan de gestion du district hydrographique concerné.
 
@@ -843,7 +843,7 @@ L’autorisation
 
 - tient compte des prescriptions des dispositions de l’article 27.
 
-- pour les établissements soumis à évaluation des incidences sur l’environnement au titre de la loi du 15 mai 2018 relative à l’évaluation des incidences sur l’environnement, contient la conclusion motivée y prévue et indique, après examen des préoccupations et des avis exprimés par le public, les raisons et considérations sur lesquelles la décision est fondée, y compris l’information concernant le processus de participation du public. Les autorisations prennent dûment en compte les résultats des consultations et les informations recueillies en vertu des articles 6 à 9 de la loi précitée . Ces informations comprennent également le résumé des résultats des consultations et des informations recueillies conformément aux articles 6 à 8 de la loi du 15 mai 2018 relative à l’évaluation des incidences sur l’environnement et de la façon dont ces résultats ont été repris ou pris en compte par ailleurs, en particulier les commentaires reçus de l’État membre affecté visés à l’article 9 de la loi du 15 mai 2018 relative à l’évaluation des incidences sur l’environnement. Toute décision d’autorisation reprend les mesures pour éviter, prévenir ou réduire et, si possible, compenser des incidences négatives notables sur l’environnement, ainsi que, le cas échéant des mesures de suivi. Les types de paramètres devant faire l’objet d’un suivi et la durée du suivi sont proportionnés à la nature, à la localisation et à la dimension du projet et à l’importance de ses incidences sur l’environnement. Le cas échéant, ces informations comprennent également les commentaires reçus des États membres affectés dont question à l’article 9 de la loi précitée en tenant compte des dispositions de l’article 4.
+- pour les établissements soumis à évaluation des incidences sur l’environnement au titre de la loi du 15 mai 2018 relative à l’évaluation des incidences sur l’environnement, contient la conclusion motivée y prévue et indique, après examen des préoccupations et des avis exprimés par le public, les raisons et considérations sur lesquelles la décision est fondée, y compris l’information concernant le processus de participation du public. Les autorisations prennent dûment en compte les résultats des consultations et les informations recueillies en vertu des articles 6 à 9 de la loi précitée. Ces informations comprennent également le résumé des résultats des consultations et des informations recueillies conformément aux articles 6 à 8 de la loi du 15 mai 2018 relative à l’évaluation des incidences sur l’environnement et de la façon dont ces résultats ont été repris ou pris en compte par ailleurs, en particulier les commentaires reçus de l’État membre affecté visés à l’article 9 de la loi du 15 mai 2018 relative à l’évaluation des incidences sur l’environnement. Toute décision d’autorisation reprend les mesures pour éviter, prévenir ou réduire et, si possible, compenser des incidences négatives notables sur l’environnement, ainsi que, le cas échéant des mesures de suivi. Les types de paramètres devant faire l’objet d’un suivi et la durée du suivi sont proportionnés à la nature, à la localisation et à la dimension du projet et à l’importance de ses incidences sur l’environnement. Le cas échéant, ces informations comprennent également les commentaires reçus des États membres affectés dont question à l’article 9 de la loi précitée en tenant compte des dispositions de l’article 4.
 
 (3)
 
@@ -1817,7 +1817,7 @@ Est puni d’une peine d’emprisonnement de huit jours à six mois et d’une a
 
 - quiconque, par infraction à l’article 22, altère les conditions physiques, chimiques ou biologiques des eaux de surface et souterraines ;
 
-- quiconque, par infraction à l’article 23, paragraphe 1 er , ne soumet pas à autorisation les installations, ouvrages, dépôts, activités et mesures y visés ;
+- quiconque, par infraction à l’article 23, paragraphe 1er, ne soumet pas à autorisation les installations, ouvrages, dépôts, activités et mesures y visés ;
 
 - quiconque, par infraction à l’article 23, paragraphe 3, continue à exploiter les installations et ouvrages ou mener les travaux ou activités alors que l’autorisation afférente est caduque ;
 
@@ -1829,9 +1829,9 @@ Est puni d’une peine d’emprisonnement de huit jours à six mois et d’une a
 
 - quiconque, par infraction à l’article 26, ne respecte pas les prescriptions générales y visées ;
 
-- quiconque, par infraction à l’article 35, paragraphe 1 er , ne prend pas les mesures préventives, correctives ou compensatoires y visées ;
+- quiconque, par infraction à l’article 35, paragraphe 1er, ne prend pas les mesures préventives, correctives ou compensatoires y visées ;
 
-- quiconque, par infraction à l’article 39, paragraphe 1 er , procède à des aménagements ou agrandissements interdits ;
+- quiconque, par infraction à l’article 39, paragraphe 1er, procède à des aménagements ou agrandissements interdits ;
 
 - quiconque, par infraction à l’article 42, paragraphe 4, ne veille pas à éviter la contamination du réseau public;
 
@@ -1847,7 +1847,7 @@ Est puni d’une peine d’emprisonnement de huit jours à six mois et d’une a
 
 - quiconque, par infraction à l’article 60, ne respecte pas les mesures d’urgence y prévues.
 
-- quiconque, par infraction à l’article 61 ter , entrave les contrôles y visés.
+- quiconque, par infraction à l’article 61ter, entrave les contrôles y visés.
 
 (2)
 
@@ -2027,7 +2027,7 @@ Le ministre est autorisé à imputer sur le fonds :
 
   - les dépenses relatives à l’entretien et la gestion de la pisciculture de l’État.
 
-- la prise en charge jusqu’à 100 pour cent des dépenses relatives aux projets ou mesures visant la promotion de la pêche dans les eaux frontalières, ainsi que le repeuplement des eaux frontalières, tels que régis par la loi modifiée du 21 novembre 1984 a) portant approbation de la Convention entre le Grand-Duché de Luxembourg, d’une part, et les Länder de Rhénanie-Palatinat et de la Sarre de la République Fédérale d’Allemagne, d’autre part, portant nouvelle réglementation de la pêche dans les eaux frontalières relevant de leur souveraineté commune, signée à Trèves, le 24 novembre 1975 ; b) complétant l’article 1 er B II de la loi du 26 février 1973 portant extension de la compétence des tribunaux de police en matière répressive ;
+- la prise en charge jusqu’à 100 pour cent des dépenses relatives aux projets ou mesures visant la promotion de la pêche dans les eaux frontalières, ainsi que le repeuplement des eaux frontalières, tels que régis par la loi modifiée du 21 novembre 1984 a) portant approbation de la Convention entre le Grand-Duché de Luxembourg, d’une part, et les Länder de Rhénanie-Palatinat et de la Sarre de la République Fédérale d’Allemagne, d’autre part, portant nouvelle réglementation de la pêche dans les eaux frontalières relevant de leur souveraineté commune, signée à Trèves, le 24 novembre 1975 ; b) complétant l’article 1er B II de la loi du 26 février 1973 portant extension de la compétence des tribunaux de police en matière répressive ;
 
 - la prise en charge des dépenses relatives à la collecte ou récupération des eaux de pluie par des personnes physiques et personnes morales, à concurrence d’un montant en euros correspondant à 50 pour cent du coût d’investissement, et ne dépassant pas un montant maximum de 4 000 euros, telle que régie par le règlement grand-ducal du 14 mai 2003 concernant l’allocation d’une aide budgétaire aux particuliers pour la mise en place d’une installation de collecte des eaux de pluie.
 
@@ -2333,15 +2333,15 @@ Dans les communes où la charge polluante de plus d’un tiers des équivalents 
 
 Pour les dossiers en relation avec l’assainissement des eaux usées et éligibles à une participation étatique conformément à l’article 65 paragraphe 1er, lettre d), les mesures transitoires suivantes sont d’application :
 
-- une prise en charge de 65 pour cent restera d’application pour les dossiers dont les projets détaillés ont été soumis avant le 1 er janvier de l’année qui suit celle de l’entrée en vigueur de la présente loi au secrétariat du Fonds pour la gestion de l’eau ;
+- une prise en charge de 65 pour cent restera d’application pour les dossiers dont les projets détaillés ont été soumis avant le 1er janvier de l’année qui suit celle de l’entrée en vigueur de la présente loi au secrétariat du Fonds pour la gestion de l’eau ;
 
-- une prise en charge de 75 pour cent restera d’application pour les dossiers dont les projets détaillés ont été soumis avant le 1 er juillet 2015 au secrétariat du Fonds pour la gestion de l’eau et dont l’étude préalable y relative avait été soumise avant le 20 octobre 2014 ;
+- une prise en charge de 75 pour cent restera d’application pour les dossiers dont les projets détaillés ont été soumis avant le 1er juillet 2015 au secrétariat du Fonds pour la gestion de l’eau et dont l’étude préalable y relative avait été soumise avant le 20 octobre 2014 ;
 
-- une prise en charge de 90 pour cent restera d’application pour les dossiers dont les projets détaillés ont été soumis avant le 1 er juillet 2015 au secrétariat du Fonds pour la gestion de l’eau et dont l’étude préalable y relative avait été soumise avant le 1 er octobre 2010 ;
+- une prise en charge de 90 pour cent restera d’application pour les dossiers dont les projets détaillés ont été soumis avant le 1er juillet 2015 au secrétariat du Fonds pour la gestion de l’eau et dont l’étude préalable y relative avait été soumise avant le 1er octobre 2010 ;
 
 - les dossiers soumis avant l’entrée en vigueur de la présente loi mais non encore engagés et qui ne tombent pas sous le champ d’application des lettres a), b) ou c) du présent paragraphe resteront éligibles au taux en vigueur au moment de leur soumission au secrétariat du Fonds pour la gestion de l’eau ;
 
-- pour les engagements pris avant l’entrée en vigueur de la présente loi, et bénéficiant d’un taux visé au paragraphe 5, lettres a), b) ou c), ce taux n’est applicable que pour autant que les travaux afférents aient été mis en adjudication endéans les vingt-quatre mois suivant l’entrée en vigueur. Passé ce délai, les dispositions de l’article 65, paragraphe 1 er , lettre d) sont applicables.
+- pour les engagements pris avant l’entrée en vigueur de la présente loi, et bénéficiant d’un taux visé au paragraphe 5, lettres a), b) ou c), ce taux n’est applicable que pour autant que les travaux afférents aient été mis en adjudication endéans les vingt-quatre mois suivant l’entrée en vigueur. Passé ce délai, les dispositions de l’article 65, paragraphe 1er, lettre d) sont applicables.
 
 (6)
 
@@ -2356,9 +2356,9 @@ Dispositions abrogatoires
 
 Sont abrogés:
 
-- les articles 7, 14 et 40 à 44 de l’ édit de Louis XIV du 13 août 1669 portant règlement général pour les eaux et les forêts;
+- les articles 7, 14 et 40 à 44 de l’édit de Louis XIV du 13 août 1669 portant règlement général pour les eaux et les forêts;
 
-- l’ arrêté du 9 mars 1798 (19 ventôse an VI) du Directoire exécutif, contenant des mesures pour assurer le libre cours des rivières et canaux navigables et flottables;
+- l’arrêté du 9 mars 1798 (19 ventôse an VI) du Directoire exécutif, contenant des mesures pour assurer le libre cours des rivières et canaux navigables et flottables;
 
 - la loi modifiée du 16 mai 1929 concernant le curage, l’entretien et l’amélioration des cours d’eau;
 

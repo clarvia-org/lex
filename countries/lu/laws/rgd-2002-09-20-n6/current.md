@@ -75,7 +75,9 @@ Pour toutes les questions non réglées par le présent règlement grand-ducal, 
 
 - La deuxième phrase de l’alinéa 3 de l’article 68 est supprimée.
 
-- L’alinéa 2 de l’article 120 est modifié comme suit: «Les détenus ne peuvent être fouillés que par des personnes de leur sexe».
+- L’alinéa 2 de l’article 120 est modifié comme suit:
+
+«Les détenus ne peuvent être fouillés que par des personnes de leur sexe».
 
 - L’alinéa 2 de l’article 137 est abrogé.
 

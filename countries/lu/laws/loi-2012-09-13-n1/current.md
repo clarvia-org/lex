@@ -49,31 +49,31 @@ En cas de certification de catégorie 1, l'Etat alloue annuellement à la commun
 
 - 15 euros par habitant à partir de l'octroi de la certification, lorsque la certification est octroyée avant le 31 décembre 2016. Cette subvention est plafonnée à 150.000 euros;
 
-- 10 euros par habitant à partir de l'octroi de la certification, lorsque la certification est octroyée entre le 1 er janvier 2017 et le 31 décembre 2018. Cette subvention est plafonnée à 100.000 euros;
+- 10 euros par habitant à partir de l'octroi de la certification, lorsque la certification est octroyée entre le 1er janvier 2017 et le 31 décembre 2018. Cette subvention est plafonnée à 100.000 euros;
 
-- 5 euros par habitant à partir de l'octroi de la certification, lorsque la certification est octroyée entre le 1 er janvier 2019 et le 31 décembre 2020. Cette subvention est plafonnée à 50.000 euros.
+- 5 euros par habitant à partir de l'octroi de la certification, lorsque la certification est octroyée entre le 1er janvier 2019 et le 31 décembre 2020. Cette subvention est plafonnée à 50.000 euros.
 
 En cas de certification de catégorie 2, l'Etat alloue annuellement à la commune une subvention variable fixée à:
 
 - 25 euros par habitant à partir de l'octroi de la certification, lorsque la certification est octroyée avant le 31 décembre 2016. Cette subvention est plafonnée à 250.000 euros;
 
-- 20 euros par habitant à partir de l'octroi de la certification, lorsque la certification est octroyée entre le 1 er janvier 2017 et le 31 décembre 2018. Cette subvention est plafonnée à 200.000 euros;
+- 20 euros par habitant à partir de l'octroi de la certification, lorsque la certification est octroyée entre le 1er janvier 2017 et le 31 décembre 2018. Cette subvention est plafonnée à 200.000 euros;
 
-- 15 euros par habitant à partir de l'octroi de la certification, lorsque la certification est octroyée entre le 1 er janvier 2019 et le 31 décembre 2020. Cette subvention est plafonnée à 150.000 euros.
+- 15 euros par habitant à partir de l'octroi de la certification, lorsque la certification est octroyée entre le 1er janvier 2019 et le 31 décembre 2020. Cette subvention est plafonnée à 150.000 euros.
 
 En cas de certification de catégorie 3, l'Etat alloue annuellement à la commune une subvention variable fixée à:
 
 - 35 euros par habitant à partir de l'octroi de la certification, lorsque la certification est octroyée avant le 31 décembre 2016. Cette subvention est plafonnée à 350.000 euros;
 
-- 30 euros par habitant à partir de l'octroi de la certification, lorsque la certification est octroyée entre le 1 er janvier 2017 et le 31 décembre 2018. Cette subvention est plafonnée à 300.000 euros;
+- 30 euros par habitant à partir de l'octroi de la certification, lorsque la certification est octroyée entre le 1er janvier 2017 et le 31 décembre 2018. Cette subvention est plafonnée à 300.000 euros;
 
-- 25 euros par habitant à partir de l'octroi de la certification, lorsque la certification est octroyée entre le 1 er janvier 2019 et le 31 décembre 2020. Cette subvention est plafonnée à 250.000 euros.
+- 25 euros par habitant à partir de l'octroi de la certification, lorsque la certification est octroyée entre le 1er janvier 2019 et le 31 décembre 2020. Cette subvention est plafonnée à 250.000 euros.
 
 Les subventions variables précitées ne peuvent pas être cumulées.
 
 Le nombre d’habitants est calculé sur base des dernières statistiques officielles publiées par le STATEC.
 
-- A partir de la 2 ème année qui suit la première certification du pacte climat, la subvention variable telle que prévue au point c) du présent paragraphe est liée à des mesures quantifiables de réduction des émissions de gaz à effet de serre réalisées par la commune au niveau de ses infrastructures d’une part et des ménages d’autre part. A partir de ce moment, le calcul de la subvention variable telle que prévue au point c) du présent paragraphe se fait comme suit:
+- A partir de la 2ème année qui suit la première certification du pacte climat, la subvention variable telle que prévue au point c) du présent paragraphe est liée à des mesures quantifiables de réduction des émissions de gaz à effet de serre réalisées par la commune au niveau de ses infrastructures d’une part et des ménages d’autre part. A partir de ce moment, le calcul de la subvention variable telle que prévue au point c) du présent paragraphe se fait comme suit:
 
 | Certification en fonction du point c) du paragraphe 1er de l’article 2: | 70% |
 | --- | --- |

@@ -578,7 +578,7 @@ Par dérogation à l’alinéa a) ci-dessus,le privilège prévu au profit des p
 <a id="art-1-4-1-2"></a>
 ## Art. 1.4.1-2.
 
-- Les créances se rapportant à un même voyage sont privilégiées dans l’ordre où elles sont rangées au paragraphe 1 er de l’article 1.4.1-1 ci-dessus. Les créances comprises dans chacun des numéros viennent en concurrence et au marc le franc en cas d’insuffisance du prix. Les créances visées aux nos c) et e) sous (1) de l’article 1.4.1-1 , dans chacune de ces catégories, sont remboursées par préférence dans l’ordre inverse des dates où elles sont nées. Les créances se rattachant à un même événement sont réputées nées en même temps.
+- Les créances se rapportant à un même voyage sont privilégiées dans l’ordre où elles sont rangées au paragraphe 1er de l’article 1.4.1-1 ci-dessus. Les créances comprises dans chacun des numéros viennent en concurrence et au marc le franc en cas d’insuffisance du prix. Les créances visées aux nos c) et e) sous (1) de l’article 1.4.1-1 , dans chacune de ces catégories, sont remboursées par préférence dans l’ordre inverse des dates où elles sont nées. Les créances se rattachant à un même événement sont réputées nées en même temps.
 
 - Les créances privilégiées du dernier voyage sont préférées à celles des voyages précédents. Toutefois,les créances résultant d’un contrat unique d’engagement portant sur plusieurs voyages viennent toutes au même rang avec les créances du dernier voyage.
 
@@ -1783,7 +1783,7 @@ Pour être acceptable, l’assistance fournie au titre de la garantie financièr
 
 Les frais de rapatriement en cas d’abandon couvrent :
 
-- le voyage jusqu’au domicile du marin par les moyens appropriés tels que définis à l’article 3.1.2-27, paragraphe 1 er ;
+- le voyage jusqu’au domicile du marin par les moyens appropriés tels que définis à l’article 3.1.2-27, paragraphe 1er ;
 
 - la fourniture de la nourriture et d’un logement au marin depuis son départ du navire jusqu’à l’arrivée à son domicile ;
 
@@ -3056,7 +3056,7 @@ Sans préjudice de l’article 3.3.2-5, l’armateur est responsable de la prote
 
 - les frais médicaux, y compris le traitement médical et la fourniture des médicaments et autres moyens thérapeutiques, ainsi que la nourriture et le logement du marin malade ou blessé tant qu’il se trouve hors de son domicile, jusqu’à sa guérison ou jusqu’à la constatation du caractère permanent de la maladie ou de l’incapacité ;
 
-- une couverture financière, telle que prévue par règlement grand-ducal, convention collective ou par le contrat d’engagement maritime, pour garantir une indemnisation des créances contractuelles, à savoir les préjudices subis par les gens de mer ou leurs ayants droit en cas de décès ou d’incapacité de longue durée de ces derniers résultant d’un accident du travail, d’une maladie professionnelle ou d’un risque professionnel, tels que prévus au Code de la sécurité sociale , déduction faite de l’indemnisation perçue auprès d’autres régimes d’assurance maladie ou régimes d’assurance accident légale obligatoire ;
+- une couverture financière, telle que prévue par règlement grand-ducal, convention collective ou par le contrat d’engagement maritime, pour garantir une indemnisation des créances contractuelles, à savoir les préjudices subis par les gens de mer ou leurs ayants droit en cas de décès ou d’incapacité de longue durée de ces derniers résultant d’un accident du travail, d’une maladie professionnelle ou d’un risque professionnel, tels que prévus au Code de la sécurité sociale, déduction faite de l’indemnisation perçue auprès d’autres régimes d’assurance maladie ou régimes d’assurance accident légale obligatoire ;
 
 - les frais d’inhumation, si le décès survient à bord ou s’il se produit à terre pendant la période de service.
 
@@ -3296,7 +3296,7 @@ Sans préjudice des autres dispositions du présent chapitre, l’armateur doit,
 
 - toute action, y compris la planification et l’introduction de nouvelles technologies, liées au choix des équipements, à l’aménagement des conditions de travail ou à l’impact des facteurs ambiants au travail, qui peut avoir des effets substantiels sur la sécurité et la santé des gens de mer ;
 
-- les informations portant sur les articles 3.3.3-6, 3.3.3-7, 3.3.3-13, paragraphe 1 er , 3.3.3-14 et 3.3.3-19 à 3.3.3-21 ;
+- les informations portant sur les articles 3.3.3-6, 3.3.3-7, 3.3.3-13, paragraphe 1er, 3.3.3-14 et 3.3.3-19 à 3.3.3-21 ;
 
 - la conception et l’organisation de la formation prévue aux articles 3.3.3-15 et 3.3.3-16.
 
@@ -3367,7 +3367,7 @@ L’armateur prend les mesures appropriées pour que les gens de mer désignés 
 
 - à l’évaluation des risques prévue à l’article 3.3.3-7 ;
 
-- à la liste et aux rapports prévus à l’article 3.3.3-6, paragraphe 1 er ;
+- à la liste et aux rapports prévus à l’article 3.3.3-6, paragraphe 1er ;
 
 - à l’information provenant tant des activités et mesures de protection et de prévention que des services d’inspection ou d’organismes compétents pour la sécurité et la santé.
 
@@ -4227,21 +4227,45 @@ Les conventions figurant à l’annexe 5 de la loi du 9 novembre 1990 portant ap
 
 Le Code de la sécurité sociale est modifié comme suit:
 
-- L’article 1 er sub 1) est complété par les termes «et les gens de mer luxembourgeois ou ressortissants d’un pays avec lequel le Luxembourg est lié par un instrument bi- ou multilatéral de sécurité sociale ou résidants au Luxembourg occupés sur un navire battant pavillon luxembourgeois».
+- L’article 1er sub 1) est complété par les termes «et les gens de mer luxembourgeois ou ressortissants d’un pays avec lequel le Luxembourg est lié par un instrument bi- ou multilatéral de sécurité sociale ou résidants au Luxembourg occupés sur un navire battant pavillon luxembourgeois».
 
-- Après l’alinéa 9 de l’article 8 il est inséré un alinéa 10 nouveau ayant la teneur suivante : «Le droit aux prestations en nature des gens de mer visés à l’article 1er est suspendu tant et pour autant que l’armateur est obligé d’en assumer la charge conformément à l’article 101 de la loi du 9 novembre 1990 ayant pour objet la création d’un registre public maritime luxembourgeois». Les alinéas 10 à 13 actuels deviennent les alinéas 11 à 14 nouveaux.
+- Après l’alinéa 9 de l’article 8 il est inséré un alinéa 10 nouveau ayant la teneur suivante : Les alinéas 10 à 13 actuels deviennent les alinéas 11 à 14 nouveaux.
 
-- L’alinéa 1 de l’article 93 prend la teneur suivante : Art.93.- Sont assurés contre les accidents professionnels sous condition d’être occupés dans une des entreprises ou d’exercer une des professions ou activités visées à l’article 85, les ouvriers, aides, compagnons, apprentis, domestiques, employés de bureau, employés d’exploitation, contre-maîtres, employés techniques et les gens de mer luxembourgeois ou ressortissants d’un pays avec lequel le Luxembourg est lié par un instrument bi- ou multilatéral de sécurité sociale ou résidants au Luxembourg occupés sur un navire battant pavillon luxembourgeois jusqu’à concurrence d’un montant égal au quadruple du salaire social minimum prévu pour un travailleur non qualifié,âgé de dix-huit ans au moins.
+«Le droit aux prestations en nature des gens de mer visés à l’article 1er est suspendu tant et pour autant que l’armateur est obligé d’en assumer la charge conformément à l’article 101 de la loi du 9 novembre 1990 ayant pour objet la création d’un registre public maritime luxembourgeois».
 
-- Après l’alinéa 4 de l’article 97 il est inséré un alinéa 5 nouveau ayant la teneur suivante : «Le droit aux prestations en nature des gens de mer visés à l’article 93 est suspendu tant et pour autant que l’armateur est obligé d’en assumer la charge conformément à l’article 101 de la loi du 9 novembre 1990 ayant pour objet la création d’un registre public maritime luxembourgeois». Les alinéas 5 à 11 actuels deviennent les alinéas 6 à 12 nouveaux.
+- L’alinéa 1 de l’article 93 prend la teneur suivante :
 
-- L’article 170 est complété par un alinéa 2 nouveau de la teneur suivante: «Est assimilée à une activité au Grand-Duché de Luxembourg, l’activité exercée en qualité de gens de mer sur un navire battant pavillon luxembourgeois par des ressortissants luxembourgeois ou d’un pays avec lequel le Luxembourgestlié par un instrument bi- ou multilatéral de sécurité sociale ou par des personnes résidant au Luxembourg».
+<a id="art-93"></a>
+## Art.93.-
 
-- L’alinéa 2 de l’article 335 est remplacé par le texte suivant : «Les personnes physiques et morales peuvent, au moment d’engager du personnel assujetti à la sécurité sociale, être tenues par le comité-directeur du centre soit au dépôt d’un cautionnement soit à la présentation d’une garantie bancaire servant à garantir l’exécution de leurs obligations légales et réglementaires. Le montant de la garantie à fournir correspond à la somme présumée de six mensualités de cotisations sans toutefois être inférieur à deux mille quatre cent soixante-dix-huit euros et quatre-vingt-quatorze cents.Ce montant peut être adapté tous les six mois.Le dépôt du cautionnement s’opère dans les conditions de la loi du 12 février 1872 et de l’arrêté grand-ducal du 9 juillet 1945 relatif aux consignations. La garantie bancaire exigible sur première demande du centre doit être fournie par une banque agréée au GrandDuché de Luxembourg. La libération soit des sommes consignées soit de la garantie bancaire s’effectue sur décision coulée en force à prendre par le comité-directeur du centre au moment de la cessation des activités de l’employeur et notamment en cas de liquidation de faillite ou de gestion contrôlée d’une entreprise. Le cautionnement y compris les intérêts est liquidé au profit du centre jusqu’à concurrence de ses créances.”
+Sont assurés contre les accidents professionnels sous condition d’être occupés dans une des entreprises ou d’exercer une des professions ou activités visées à l’article 85, les ouvriers, aides, compagnons, apprentis, domestiques, employés de bureau, employés d’exploitation, contre-maîtres, employés techniques et les gens de mer luxembourgeois ou ressortissants d’un pays avec lequel le Luxembourg est lié par un instrument bi- ou multilatéral de sécurité sociale ou résidants au Luxembourg occupés sur un navire battant pavillon luxembourgeois jusqu’à concurrence d’un montant égal au quadruple du salaire social minimum prévu pour un travailleur non qualifié,âgé de dix-huit ans au moins.
 
-- Il est ajouté un nouvel article libellé comme suit : «Article 340.- Un règlement grand-ducal peut prévoir des dispositions dérogatoires pour les gens de mer en ce qui concerne les modalités administratives relatives à l’affiliation, la perception des cotisations et le service des prestations.”
+- Après l’alinéa 4 de l’article 97 il est inséré un alinéa 5 nouveau ayant la teneur suivante : Les alinéas 5 à 11 actuels deviennent les alinéas 6 à 12 nouveaux.
 
-- Il est ajouté un alinéa 4 nouveau à l’article premier de la loi du 29 août 1951 concernant l’assurance-maladie des fonctionnaires et employés dont la teneur est la suivante : «Sont également considérés comme employés privés aux termes du point 9 de l’alinéa 1er du présent article, les gens de mer occupés sur un navire battant pavillon luxembourgeois et y exerçcant des fonctions de surveillance et de contrôle comportant la responsabilité au point de vue technique et économique, du travail d’autres personnes, sans participation prépondérante au travail manuel.”
+«Le droit aux prestations en nature des gens de mer visés à l’article 93 est suspendu tant et pour autant que l’armateur est obligé d’en assumer la charge conformément à l’article 101 de la loi du 9 novembre 1990 ayant pour objet la création d’un registre public maritime luxembourgeois».
+
+- L’article 170 est complété par un alinéa 2 nouveau de la teneur suivante:
+
+«Est assimilée à une activité au Grand-Duché de Luxembourg, l’activité exercée en qualité de gens de mer sur un navire battant pavillon luxembourgeois par des ressortissants luxembourgeois ou d’un pays avec lequel le Luxembourgestlié par un instrument bi- ou multilatéral de sécurité sociale ou par des personnes résidant au Luxembourg».
+
+- L’alinéa 2 de l’article 335 est remplacé par le texte suivant :
+
+«Les personnes physiques et morales peuvent, au moment d’engager du personnel assujetti à la sécurité sociale, être tenues par le comité-directeur du centre soit au dépôt d’un cautionnement soit à la présentation d’une garantie bancaire servant à garantir l’exécution de leurs obligations légales et réglementaires. Le montant de la garantie à fournir correspond à la somme présumée de six mensualités de cotisations sans toutefois être inférieur à deux mille quatre cent soixante-dix-huit euros et quatre-vingt-quatorze cents.Ce montant peut être adapté tous les six mois.Le dépôt du cautionnement s’opère dans les conditions de la loi du 12 février 1872 et de l’arrêté grand-ducal du 9 juillet 1945 relatif aux consignations.
+
+La garantie bancaire exigible sur première demande du centre doit être fournie par une banque agréée au GrandDuché de Luxembourg.
+
+La libération soit des sommes consignées soit de la garantie bancaire s’effectue sur décision coulée en force à prendre par le comité-directeur du centre au moment de la cessation des activités de l’employeur et notamment en cas de liquidation de faillite ou de gestion contrôlée d’une entreprise. Le cautionnement y compris les intérêts est liquidé au profit du centre jusqu’à concurrence de ses créances.”
+
+- Il est ajouté un nouvel article libellé comme suit :
+
+<a id="article-340"></a>
+## «Article 340.-
+
+Un règlement grand-ducal peut prévoir des dispositions dérogatoires pour les gens de mer en ce qui concerne les modalités administratives relatives à l’affiliation, la perception des cotisations et le service des prestations.”
+
+- Il est ajouté un alinéa 4 nouveau à l’article premier de la loi du 29 août 1951 concernant l’assurance-maladie des fonctionnaires et employés dont la teneur est la suivante :
+
+«Sont également considérés comme employés privés aux termes du point 9 de l’alinéa 1er du présent article, les gens de mer occupés sur un navire battant pavillon luxembourgeois et y exerçcant des fonctions de surveillance et de contrôle comportant la responsabilité au point de vue technique et économique, du travail d’autres personnes, sans participation prépondérante au travail manuel.”
 
 (2)
 
@@ -4542,11 +4566,11 @@ Agrément du dirigeant d’entreprise maritime
 
 - Pour être agréé comme dirigeant d’entreprise maritime, il faut être établi professionnellement au Luxembourg et justifier de garanties d’honorabilité et d’expérience professionnelle. L’honorabilité s’apprécie sur la base des antécédents judiciaires et de tous les éléments susceptibles d’établir que les personnes visées jouissent d’une bonne réputation et présentent toutes garanties d’une activité irréprochable. L’expérience professionnelle s’apprécie au regard du fait que ces personnes ont déjà exercé des activités analogues à un niveau élevé de responsabilité et d’autonomie.
 
-- Lorsque le dirigeant d’entreprise maritime est une personne morale, il sera exigé de ses organes dirigeants la preuve des qualités requises dans le chef des personnes physiques telles qu’énoncées sous le paragraphe 1) ci-dessus. En outre, la délivrance de l’agrément en faveur d’une personne morale désignée comme dirigeant d’entreprise maritime conformément à l’ article 8.0.0-2 paragraphe 3 de la présente loi est subordonnée à la condition qu’elle dispose au Luxembourg d’une organisation suffisante pour l’exercice correct de ses activités.
+- Lorsque le dirigeant d’entreprise maritime est une personne morale, il sera exigé de ses organes dirigeants la preuve des qualités requises dans le chef des personnes physiques telles qu’énoncées sous le paragraphe 1) ci-dessus. En outre, la délivrance de l’agrément en faveur d’une personne morale désignée comme dirigeant d’entreprise maritime conformément à l’article 8.0.0-2 paragraphe 3 de la présente loi est subordonnée à la condition qu’elle dispose au Luxembourg d’une organisation suffisante pour l’exercice correct de ses activités.
 
 - Un dirigeant d’entreprise maritime peut être désigné par plusieurs entreprises.
 
-- L’agrément du dirigeant maritime est octroyé pour cinq ans et est renouvelé si le dirigeant démontre qu’il remplit toujours les conditions visées au paragraphe 1 er .
+- L’agrément du dirigeant maritime est octroyé pour cinq ans et est renouvelé si le dirigeant démontre qu’il remplit toujours les conditions visées au paragraphe 1er.
 
 <a id="art-8-0-0-5"></a>
 ## Art. 8.0.0-5.

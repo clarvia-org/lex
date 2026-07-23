@@ -92,7 +92,7 @@ Peut prétendre au Revis sans avoir atteint l'âge de vingt-cinq ans :
 
 - la personne majeure qui, par suite de maladie ou de handicap n'est pas en état de gagner sa vie dans les limites prévues à l'article 5 ;
 
-- l'aidant au sens de l'article 350, paragraphe 7, du Code de la sécurité sociale .
+- l'aidant au sens de l'article 350, paragraphe 7, du Code de la sécurité sociale.
 
 (5)
 
@@ -537,13 +537,13 @@ S'il ressort de l'évaluation d'une mesure d'activation telle que définie à l'
 
 L’Office notifie un avertissement à la personne tombant sous l’application du présent chapitre pour laquelle il a constaté un des comportements suivants pendant la durée du plan d’activation :
 
-- non-respect des engagements visés à l’article 16, alinéa 1 er , lettre b) ;
+- non-respect des engagements visés à l’article 16, alinéa 1er, lettre b) ;
 
-- non-respect du calendrier des démarches visé à l’article 16, alinéa 1 er , lettre b) ;
+- non-respect du calendrier des démarches visé à l’article 16, alinéa 1er, lettre b) ;
 
-- refus de participer aux mesures d’activation visées à l’article 17, paragraphe 1 er ;
+- refus de participer aux mesures d’activation visées à l’article 17, paragraphe 1er ;
 
-- non-respect des modalités de la convention visée à l’article 17, paragraphe 1 er , lettre b) ;
+- non-respect des modalités de la convention visée à l’article 17, paragraphe 1er, lettre b) ;
 
 - absence non justifiée à un rendez-vous fixé par lettre recommandée de l’Office.
 
@@ -659,7 +659,7 @@ Le Fonds réclame la somme par lui versée au titre d'allocation d'inclusion :
 
 À l'égard de la succession du bénéficiaire de l'allocation d'inclusion, le Fonds réclame la restitution des sommes versées suivant les modalités ci-après :
 
-- lorsque la succession d'un bénéficiaire échoit en tout ou en partie au conjoint survivant ou à des successeurs en ligne directe, le Fonds ne peut faire valoir aucune demande en restitution pour une première tranche de l'actif de la succession fixée à vingt-neuf mille sept cent quarante-sept euros au nombre 100 de l'indice pondéré du coût de la vie au 1 er janvier 1948. Lorsque le conjoint survivant ou un autre successeur en ligne directe d'un bénéficiaire du Revis continue à habiter dans un immeuble ayant appartenu soit au bénéficiaire seul, soit conjointement au bénéficiaire du Revis et à son conjoint, le Fonds ne peut pas, tant que dure cette situation, faire valoir une demande en restitution sur cet immeuble et sur les meubles meublants le garnissant. Toutefois, pour garantir les droits à une restitution ultérieure, l'immeuble est grevé d'une hypothèque légale dont l'inscription est requise par le Fonds.
+- lorsque la succession d'un bénéficiaire échoit en tout ou en partie au conjoint survivant ou à des successeurs en ligne directe, le Fonds ne peut faire valoir aucune demande en restitution pour une première tranche de l'actif de la succession fixée à vingt-neuf mille sept cent quarante-sept euros au nombre 100 de l'indice pondéré du coût de la vie au 1er janvier 1948. Lorsque le conjoint survivant ou un autre successeur en ligne directe d'un bénéficiaire du Revis continue à habiter dans un immeuble ayant appartenu soit au bénéficiaire seul, soit conjointement au bénéficiaire du Revis et à son conjoint, le Fonds ne peut pas, tant que dure cette situation, faire valoir une demande en restitution sur cet immeuble et sur les meubles meublants le garnissant. Toutefois, pour garantir les droits à une restitution ultérieure, l'immeuble est grevé d'une hypothèque légale dont l'inscription est requise par le Fonds.
 
 - À défaut de successeurs en ligne directe et de conjoint survivant, le Fonds ne peut faire valoir aucune demande en restitution pour une tranche d'arrérages de mille sept cents euros, sans distinction du nombre de successeurs entrant en ligne de compte.
 
@@ -803,9 +803,15 @@ L’article 307, paragraphe 6, du Code de la sécurité sociale est abrogé.
 
 L’article 29 de la loi modifiée du 12 septembre 2003 relative aux personnes handicapées est modifié comme suit :
 
-- Le paragraphe 1 er prend la teneur suivante : (1) La révision de la décision d'attribution du revenu pour personnes gravement handicapées se fait selon les conditions et modalités prévues par les articles 28 et 29 de la loi du 28 juillet 2018 relative au revenu d'inclusion sociale.
+- Le paragraphe 1er prend la teneur suivante :
 
-- Au paragraphe 2, la dernière phrase est modifiée comme suit : Cette garantie est opérée selon les conditions et modalités prévues à l'article 32 de la loi du 28 juillet 2018 relative au revenu d'inclusion sociale.
+(1)
+
+La révision de la décision d'attribution du revenu pour personnes gravement handicapées se fait selon les conditions et modalités prévues par les articles 28 et 29 de la loi du 28 juillet 2018 relative au revenu d'inclusion sociale.
+
+- Au paragraphe 2, la dernière phrase est modifiée comme suit :
+
+Cette garantie est opérée selon les conditions et modalités prévues à l'article 32 de la loi du 28 juillet 2018 relative au revenu d'inclusion sociale.
 
 <a id="art-45"></a>
 ## Art. 45.
@@ -825,20 +831,33 @@ La loi modifiée du 30 avril 2004 autorisant le Fonds national de solidarité à
 
 - À l'article 7, alinéa 2, les termes législation portant sur le droit à un revenu minimum garanti sont remplacés par loi du 28 juillet 2018 relative au revenu d'inclusion sociale .
 
-- L'article 12, alinéa 1 er , prend la teneur suivante : Si l’un des époux d'un couple est admis dans un des établissements ou centres énumérés à l'article 2 précité, le Fonds national de solidarité évalue les ressources personnelles du bénéficiaire de l'accueil de sorte à ce que l'autre conjoint bénéficie au moins des mêmes avantages que le bénéficiaire de la loi du 28 juillet 2018 relative au revenu d'inclusion sociale.
+- L'article 12, alinéa 1er, prend la teneur suivante :
 
-- À l'article 20, le deuxième tiret est remplacé comme suit : les articles 28 à 31 et 33 de la loi du 28 juillet 2018 relative au revenu d'inclusion sociale ; »
+Si l’un des époux d'un couple est admis dans un des établissements ou centres énumérés à l'article 2 précité, le Fonds national de solidarité évalue les ressources personnelles du bénéficiaire de l'accueil de sorte à ce que l'autre conjoint bénéficie au moins des mêmes avantages que le bénéficiaire de la loi du 28 juillet 2018 relative au revenu d'inclusion sociale.
+
+- À l'article 20, le deuxième tiret est remplacé comme suit :
+
+- les articles 28 à 31 et 33 de la loi du 28 juillet 2018 relative au revenu d'inclusion sociale ; »
 
 <a id="art-47"></a>
 ## Art. 47.
 
 La loi modifiée du 18 décembre 2009 organisant l’aide sociale est modifiée comme suit :
 
-- À la suite de l’article 33, est inséré un article 33 bis qui prend la teneur suivante : Art. 33bis. Les offices sociaux, sur autorisation de leur autorité de tutelle, communiquent, par des procédés informatisés ou non, des données pseudonymisées contenues dans leurs fichiers de données collectées dans le cadre de leurs missions à l'Inspection générale de la sécurité sociale qui peut en disposer aux fins de l'exécution de ses missions telles que décrites à l'article 423, point 4 du Code de la sécurité sociale.
+- À la suite de l’article 33, est inséré un article 33bis qui prend la teneur suivante :
 
-- L’article 7 est complété par un alinéa 8 qui prend la teneur suivante : Les modalités de collaboration entre l’Office social et l’Office national d’inclusion sociale ainsi que le financement des obligations incombant à l’Office social dans la mise en œuvre du chapitre 3 de la loi du 28 juillet 2018 relative au revenu d’inclusion sociale sont réglées par convention à conclure entre l’Office social et le ministre ayant l’aide sociale dans ses attributions.
+<a id="art-33bis"></a>
+## Art. 33bis.
 
-- À l’article 23, paragraphe 1 er un nouvel alinéa 3 prend la teneur suivante : L'État prend entièrement en charge les frais de personnel et les frais de fonctionnement résultant des conventions conclues entre le Gouvernement et l’Office national d’inclusion sociale pour la mise en œuvre du chapitre 3 de la loi du 28 juillet 2018 relative au revenu d'inclusion sociale.
+Les offices sociaux, sur autorisation de leur autorité de tutelle, communiquent, par des procédés informatisés ou non, des données pseudonymisées contenues dans leurs fichiers de données collectées dans le cadre de leurs missions à l'Inspection générale de la sécurité sociale qui peut en disposer aux fins de l'exécution de ses missions telles que décrites à l'article 423, point 4 du Code de la sécurité sociale.
+
+- L’article 7 est complété par un alinéa 8 qui prend la teneur suivante :
+
+Les modalités de collaboration entre l’Office social et l’Office national d’inclusion sociale ainsi que le financement des obligations incombant à l’Office social dans la mise en œuvre du chapitre 3 de la loi du 28 juillet 2018 relative au revenu d’inclusion sociale sont réglées par convention à conclure entre l’Office social et le ministre ayant l’aide sociale dans ses attributions.
+
+- À l’article 23, paragraphe 1er un nouvel alinéa 3 prend la teneur suivante :
+
+L'État prend entièrement en charge les frais de personnel et les frais de fonctionnement résultant des conventions conclues entre le Gouvernement et l’Office national d’inclusion sociale pour la mise en œuvre du chapitre 3 de la loi du 28 juillet 2018 relative au revenu d'inclusion sociale.
 
 <a id="art-48"></a>
 ## Art. 48.

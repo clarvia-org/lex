@@ -530,7 +530,7 @@ Peuvent encore être assimilés à des coopérants aux fins de l’affiliation �
 
 - les personnes en services d’une société commerciale de droit luxembourgeois qui, pour le compte du Gouvernement luxembourgeois, exécutent des programmes ou projets de développement en faveur des populations en développement;
 
-- les membres d’organisations non gouvernementales agréées , non autrement couvertes par la présente loi, qui participent à des missions humanitaires dans des pays en développement dans l’intérêt de la population de ces pays.
+- les membres d’organisations non gouvernementales agréées, non autrement couvertes par la présente loi, qui participent à des missions humanitaires dans des pays en développement dans l’intérêt de la population de ces pays.
 
 Un règlement grand-ducal peut déterminer les conditions et les modalités suivant lesquelles d’autres droits et obligations prévues par la présente loi sont étendus aux personnes visées par le présent article.
 

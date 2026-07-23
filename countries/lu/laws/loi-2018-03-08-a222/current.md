@@ -74,7 +74,7 @@ Est considéré comme :
 
 - « établissement de cures thermales », tout établissement qui a pour mission de dispenser des cures thérapeutiques ;
 
-- « centre de diagnostic », tout établissement qui répond à des besoins spécifiques de certaines prises en charge diagnostiques de patients, y compris les analyses de biologie médicale conformément à l’article 1 er de la loi modifiée du 16 juillet 1984 relative aux laboratoires d’analyses médicales, à l’exclusion de tous les traitements et soins.
+- « centre de diagnostic », tout établissement qui répond à des besoins spécifiques de certaines prises en charge diagnostiques de patients, y compris les analyses de biologie médicale conformément à l’article 1er de la loi modifiée du 16 juillet 1984 relative aux laboratoires d’analyses médicales, à l’exclusion de tous les traitements et soins.
 
 (4)
 
@@ -636,7 +636,7 @@ Un règlement grand-ducal peut déterminer les conditions d’accès et d’util
 
 L’État participe à raison de 80 pour cent aux frais des investissements mobiliers et immobiliers des établissements hospitaliers autorisés par le ministre conformément à l’article 17, la Commission permanente pour le secteur hospitalier demandée en son avis et qui ont trait :
 
-- aux équipements et appareils dont question à l’article 14, paragraphe 1 er , et soumis à planification nationale ;
+- aux équipements et appareils dont question à l’article 14, paragraphe 1er , et soumis à planification nationale ;
 
 - aux projets visés aux points 1. à 3. de l’article 8 :
 
@@ -1242,7 +1242,7 @@ Le Conseil médical est appelé à donner son avis sur les questions suivantes :
 
 - les créations, transformations ou suppressions de services médicaux ou médico-techniques ;
 
-- l’acquisition des appareils et équipements visés à l’article 14 paragraphe 1 er ;
+- l’acquisition des appareils et équipements visés à l’article 14 paragraphe 1er ;
 
 - l’agrément ou la nomination des médecins, des chefs de laboratoire et des pharmaciens ;
 
@@ -1337,7 +1337,7 @@ Le contenu essentiel du contrat-type de collaboration entre un établissement ho
 
 - les modalités de résolution extra-judiciaire des conflits entre les établissements hospitaliers et les médecins ;
 
-- les modalités d’application pratiques des droits et obligations prévus aux paragraphes 1 er à 6 du présent article et les conséquences sur le contrat de collaboration en cas de non-respect par l’une des parties contractantes de ces prescriptions et ce dans le respect des procédures applicables à l’article 32.
+- les modalités d’application pratiques des droits et obligations prévus aux paragraphes 1er à 6 du présent article et les conséquences sur le contrat de collaboration en cas de non-respect par l’une des parties contractantes de ces prescriptions et ce dans le respect des procédures applicables à l’article 32.
 
 <a id="art-34"></a>
 ## Art. 34.
@@ -1623,9 +1623,13 @@ Les éléments de l’enveloppe sont établis sur base de l’évolution démogr
 
 La loi modifiée du 21 novembre 1980 portant organisation de la Direction de la santé est modifiée comme suit :
 
-- À l’article 1 er , deuxième alinéa, à la fin du point 9, il est rajouté un nouveau point 10, libellé comme suit : assurer une protection de la santé publique au niveau des denrées alimentaires.
+- À l’article 1er, deuxième alinéa, à la fin du point 9, il est rajouté un nouveau point 10, libellé comme suit :
 
-- L’article 2 est modifié comme suit : Au paragraphe 2, deuxième alinéa, la deuxième phrase prend la rédaction suivante : Si le directeur est empêché d’exercer ses fonctions, il est remplacé par un directeur adjoint.
+- assurer une protection de la santé publique au niveau des denrées alimentaires.
+
+- L’article 2 est modifié comme suit : Au paragraphe 2, deuxième alinéa, la deuxième phrase prend la rédaction suivante :
+
+Si le directeur est empêché d’exercer ses fonctions, il est remplacé par un directeur adjoint.
 
 - L’article 4, deuxième alinéa, est modifié comme suit :
 
@@ -1633,24 +1637,42 @@ La loi modifiée du 21 novembre 1980 portant organisation de la Direction de la 
 
   - au point 5, à la fin de la deuxième phrase, les termes organismes génétiquement modifiés sont remplacés par les termes dispositifs médicaux ;
 
-  - à la fin du point 9, est rajoutée la phrase suivante : Sa compétence s’étend également aux organismes génétiquement modifiés.
+  - à la fin du point 9, est rajoutée la phrase suivante :
 
-- À l’article 6, au paragraphe 1 er , point 1, les termes organismes génétiquement modifiés sont remplacés par les termes dispositifs médicaux .
+Sa compétence s’étend également aux organismes génétiquement modifiés.
+
+- À l’article 6, au paragraphe 1er, point 1, les termes organismes génétiquement modifiéssont remplacés par les termes dispositifs médicaux.
 
 - L’article 16 est modifié comme suit :
 
-  - au paragraphe 1 er , le deuxième alinéa est supprimé ;
+  - au paragraphe 1er, le deuxième alinéa est supprimé ;
 
-  - l’alinéa 1 er du paragraphe 2 est remplacé par la disposition suivante : Les candidats au poste de directeur, de directeur adjoint médical et technique ou à un poste de médecin ou de médecin-dentiste à la Direction de la santé doivent être autorisés à exercer la profession de médecin ou de médecin-dentiste au Luxembourg suivant les dispositions légales en vigueur au moment où il est pourvu à la vacance de poste.
+  - l’alinéa 1er du paragraphe 2 est remplacé par la disposition suivante :
+
+Les candidats au poste de directeur, de directeur adjoint médical et technique ou à un poste de médecin ou de médecin-dentiste à la Direction de la santé doivent être autorisés à exercer la profession de médecin ou de médecin-dentiste au Luxembourg suivant les dispositions légales en vigueur au moment où il est pourvu à la vacance de poste.
 
 <a id="art-50"></a>
 ## Art. 50.
 
 La loi modifiée du 16 juillet 1984 relative aux laboratoires d’analyses médicales est modifiée comme suit :
 
-- À l’article 1 er , le paragraphe 3 est complété in fine par la phrase suivante : Les examens relevant de l’anatomopathologie et de la génétique humaine sont effectués exclusivement dans le centre de diagnostic visé à l’article 2, paragraphe 4 de la loi du 7 août 2012 portant création de l’établissement public « Laboratoire national de santé.
+- À l’article 1er, le paragraphe 3 est complété in fine par la phrase suivante :
 
-- À l’article 2, le paragraphe 1 er est modifié comme suit : (1) Un laboratoire d’analyses de biologie médicale peut être exploité soit à titre personnel par une ou plusieurs personnes physiques, soit par une personne morale de droit privé ou public. Ne peuvent, directement ou indirectement, s’associer au sein d’une personne morale exploitant un laboratoire de biologie médicale ou en détenir de façon directe ou indirecte une fraction du capital social, mettre à disposition ou partager avec un laboratoire de biologie médicale des locaux : un médecin, médecin-dentiste, ainsi que tout autre professionnel de santé autorisé à prescrire des examens de biologie médicale, à l’exception du ou des responsable(s) de laboratoire dont question à l’article 4 ; un établissement hospitalier, sans préjudice de la faculté de s’associer dans une structure commune conformément à l’article 36 de la loi du 8 mars 2018 relative aux établissements hospitaliers et à la planification hospitalière ; les personnes associées au sein de l’organisme gestionnaire d’un établissement hospitalier, ainsi que toute autre personne qui détient directement ou indirectement une fraction du capital social de l’organisme gestionnaire d’un établissement hospitalier.
+Les examens relevant de l’anatomopathologie et de la génétique humaine sont effectués exclusivement dans le centre de diagnostic visé à l’article 2, paragraphe 4 de la loi du 7 août 2012 portant création de l’établissement public « Laboratoire national de santé.
+
+- À l’article 2, le paragraphe 1er est modifié comme suit :
+
+(1)
+
+Un laboratoire d’analyses de biologie médicale peut être exploité soit à titre personnel par une ou plusieurs personnes physiques, soit par une personne morale de droit privé ou public.
+
+Ne peuvent, directement ou indirectement, s’associer au sein d’une personne morale exploitant un laboratoire de biologie médicale ou en détenir de façon directe ou indirecte une fraction du capital social, mettre à disposition ou partager avec un laboratoire de biologie médicale des locaux :
+
+- un médecin, médecin-dentiste, ainsi que tout autre professionnel de santé autorisé à prescrire des examens de biologie médicale, à l’exception du ou des responsable(s) de laboratoire dont question à l’article 4 ;
+
+- un établissement hospitalier, sans préjudice de la faculté de s’associer dans une structure commune conformément à l’article 36 de la loi du 8 mars 2018 relative aux établissements hospitaliers et à la planification hospitalière ;
+
+- les personnes associées au sein de l’organisme gestionnaire d’un établissement hospitalier, ainsi que toute autre personne qui détient directement ou indirectement une fraction du capital social de l’organisme gestionnaire d’un établissement hospitalier.
 
 <a id="art-51"></a>
 ## Art. 51.
@@ -1692,7 +1714,7 @@ L’établissement gère le centre de diagnostic dans les domaines :
 
 La loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État est modifiée comme suit :
 
-- à l’article 12, paragraphe 1 er , alinéa 7, à la fin du point 10., les termes le commissaire du Gouvernement aux hôpitaux sont intercalés entre les termes de commissaire du Gouvernement chargé de l’instruction disciplinaire et ceux de classées au grade 17 ;
+- à l’article 12, paragraphe 1er, alinéa 7, à la fin du point 10., les termes le commissaire du Gouvernement aux hôpitaux sont intercalés entre les termes de commissaire du Gouvernement chargé de l’instruction disciplinaire et ceux de classées au grade 17 ;
 
 - à l’annexe A, au tableau « Classification des fonctions », dans la rubrique « Sous-groupe à attributions particulières » de la catégorie A, sous-groupe de traitement A1, la fonction de « commissaire du Gouvernement aux hôpitaux » est classée dans la colonne de droite correspondant au grade 17.
 

@@ -148,7 +148,7 @@ Les combustibles marins ne peuvent pas être utilisés dans les parties des eaux
 
 - 3,50 pour cent à compter de l’entrée en vigueur du présent règlement ;
 
-- 0,50 pour cent à compter du 1 er janvier 2020.
+- 0,50 pour cent à compter du 1er janvier 2020.
 
 Le présent paragraphe s’applique à tous les navires battant pavillon luxembourgeois, y compris les navires dont le voyage a débuté en dehors de l’Union européenne, sans préjudice des paragraphes 2 et 4 et de l’article 6.
 
@@ -158,7 +158,7 @@ Les combustibles marins ne peuvent pas être utilisés dans les parties des eaux
 
 - 1,00 pour cent à compter de l’entrée en vigueur du présent règlement ;
 
-- 0,10 pour cent à compter du 1 er janvier 2015.
+- 0,10 pour cent à compter du 1er janvier 2015.
 
 Le présent paragraphe s’applique à tous les navires battant pavillon luxembourgeois, y compris les navires dont le voyage a débuté en dehors de l’Union européenne.
 

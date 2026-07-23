@@ -164,7 +164,7 @@ Le tableau des avocats comprend sept listes:
 
 - la liste VI des autres personnes morales exerçant la profession d’avocat ;
 
-- la liste VII des avocats portant un titre professionnel d’origine tel que visé à l’article 193, lettre d), sous ii) de l’ Accord de commerce et de coopération entre l’Union européenne et la Communauté européenne de l’énergie atomique, d’une part, et le Royaume-Uni de Grande-Bretagne et d’Irlande du Nord, d’autre part , fait à Bruxelles et à Londres, le 30 décembre 2020, et en date du 24 décembre 2020 autorisés, en vertu de l’article 194 de l’ accord précité , à fournir les services juridiques visés à l’article 193, points a) et g) de l’ accord précité .
+- la liste VII des avocats portant un titre professionnel d’origine tel que visé à l’article 193, lettre d), sous ii) de l’Accord de commerce et de coopération entre l’Union européenne et la Communauté européenne de l’énergie atomique, d’une part, et le Royaume-Uni de Grande-Bretagne et d’Irlande du Nord, d’autre part, fait à Bruxelles et à Londres, le 30 décembre 2020, et en date du 24 décembre 2020 autorisés, en vertu de l’article 194 de l’accord précité, à fournir les services juridiques visés à l’article 193, points a) et g) de l’accord précité.
 
 (4)
 
@@ -1138,9 +1138,9 @@ Sont abrogés:
 
 - Les articles 30, 31, 40.5 et 91 à 95 de la loi du 7 mars 1980 sur l’organisation judiciaire,
 
-- L’article 592 du code de commerce ,
+- L’article 592 du code de commerce,
 
-- La loi du 10 avril 1911 sur l’exercice de la profession de fondé de pouvoir devant les tribunaux cantonaux et l’ arrêté grand-ducal du 14 août 1911 portant règlement d’exécution de cette loi ,
+- La loi du 10 avril 1911 sur l’exercice de la profession de fondé de pouvoir devant les tribunaux cantonaux et l’arrêté grand-ducal du 14 août 1911 portant règlement d’exécution de cette loi,
 
 - Le règlement grand-ducal du 27 mars 1964 portant création de l’honorariat de la profession d’avocat.
 

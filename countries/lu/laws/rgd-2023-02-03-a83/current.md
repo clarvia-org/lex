@@ -110,7 +110,7 @@ Aux fins du présent règlement grand-ducal, on entend par :
 
 L’énergie produite à partir des biocarburants, des bioliquides et des combustibles issus de la biomasse est prise en considération aux fins visées aux points 1° à 3° uniquement si ceux-ci répondent aux critères de durabilité et de réduction des émissions de gaz à effet de serre énoncés aux articles 3 et 5 à 10 :
 
-- contribuer aux parts des énergies renouvelables du Grand-Duché de Luxembourg et aux objectifs fixés aux articles 3, paragraphe 1 er , 15 bis , paragraphe 1 er , 22 bis , paragraphe 1 er , 23, paragraphe 1 er , 24, paragraphe 4, et 25, paragraphe 1 er , de la directive (UE) 2018/2001 du Parlement européen et du Conseil du 11 décembre 2018 relative à la promotion de l’utilisation de l’énergie produite à partir de sources renouvelables ;
+- contribuer aux parts des énergies renouvelables du Grand-Duché de Luxembourg et aux objectifs fixés aux articles 3, paragraphe 1er, 15bis, paragraphe 1er, 22bis, paragraphe 1er, 23, paragraphe 1er, 24, paragraphe 4, et 25, paragraphe 1er, de la directive (UE) 2018/2001 du Parlement européen et du Conseil du 11 décembre 2018 relative à la promotion de l’utilisation de l’énergie produite à partir de sources renouvelables ;
 
 - mesurer la conformité aux obligations d’utiliser de l’énergie produite à partir de sources renouvelables , notamment l’obligation établie à l’article 25 de la directive 2018/2001 du Parlement européen et du Conseil du 11 décembre 2018 relative à la promotion de l’utilisation de l’énergie produite à partir de sources renouvelables ;
 
@@ -136,7 +136,7 @@ Les combustibles ou carburants issus de la biomasse satisfont aux critères de d
 
 - dans des installations produisant des combustibles ou carburants gazeux issus de la biomasse dont le débit moyen de biométhane répond aux critères suivants :
 
-  - supérieur à 200 m 3 d’équivalent méthane par heure, mesuré dans des conditions normales de température et de pression, à savoir 0 °C et 1 bar de pression atmosphérique ;
+  - supérieur à 200 m3 d’équivalent méthane par heure, mesuré dans des conditions normales de température et de pression, à savoir 0 °C et 1 bar de pression atmosphérique ;
 
   - si le biogaz est composé d’un mélange de méthane et d’un autre gaz non combustible, avec un débit du méthane conforme au seuil fixé à la lettre a), recalculé proportionnellement à la part volumétrique de méthane dans le mélange.
 
@@ -157,17 +157,17 @@ La réduction des émissions de gaz à effet de serre résultant de l’utilisat
 
 - d’au minimum 60 pour cent pour les biocarburants, le biogaz consommé dans le secteur des transports et les bioliquides produits dans des installations mises en service du 6 octobre 2015 au 31 décembre 2020 ;
 
-- d’au minimum 65 pour cent pour les biocarburants, le biogaz consommé dans le secteur des transports et les bioliquides produits dans des installations mises en service à partir du 1 er janvier 2021 ;
+- d’au minimum 65 pour cent pour les biocarburants, le biogaz consommé dans le secteur des transports et les bioliquides produits dans des installations mises en service à partir du 1er janvier 2021 ;
 
 - pour la production d’électricité, de chaleur et de froid à partir de combustibles ou carburants issus de la biomasse utilisés dans des installations qui ont été mises en service après le 20 novembre 2023, d’au minimum 80 pour cent ;
 
-- pour la production d’électricité, de chaleur et de froid à partir de combustibles ou carburants issus de la biomasse utilisés dans des installations ayant une puissance thermique nominale totale égale ou supérieure à 10 MW qui ont été mises en service entre le 1 er janvier 2021 et le 20 novembre 2023, d’au minimum 70 pour cent jusqu’au 31 décembre 2029 et d’au minimum 80 pour cent à partir du 1 er janvier 2030 ;
+- pour la production d’électricité, de chaleur et de froid à partir de combustibles ou carburants issus de la biomasse utilisés dans des installations ayant une puissance thermique nominale totale égale ou supérieure à 10 MW qui ont été mises en service entre le 1er janvier 2021 et le 20 novembre 2023, d’au minimum 70 pour cent jusqu’au 31 décembre 2029 et d’au minimum 80 pour cent à partir du 1er janvier 2030 ;
 
-- pour la production d’électricité, de chaleur et de froid à partir de combustibles ou carburants gazeux issus de la biomasse utilisés dans des installations ayant une puissance thermique nominale totale égale ou inférieure à 10 MW qui ont été mises en service entre le 1 er janvier 2021 et le 20 novembre 2023, d’au minimum 70 pour cent avant d’avoir été en service pendant quinze ans et d’au minimum 80 pour cent après avoir été en service pendant quinze ans ;
+- pour la production d’électricité, de chaleur et de froid à partir de combustibles ou carburants gazeux issus de la biomasse utilisés dans des installations ayant une puissance thermique nominale totale égale ou inférieure à 10 MW qui ont été mises en service entre le 1er janvier 2021 et le 20 novembre 2023, d’au minimum 70 pour cent avant d’avoir été en service pendant quinze ans et d’au minimum 80 pour cent après avoir été en service pendant quinze ans ;
 
-- pour la production d’électricité, de chaleur et de froid à partir de combustibles ou carburants issus de la biomasse utilisés dans des installations ayant une puissance thermique nominale totale égale ou supérieure à 10 MW qui ont été mises en service avant le 1 er janvier 2021, d’au minimum 80 pour cent après avoir été en service pendant 15 ans, au plus tôt à partir du 1 er janvier 2026 et au plus tard à partir du 31 décembre 2029 ;
+- pour la production d’électricité, de chaleur et de froid à partir de combustibles ou carburants issus de la biomasse utilisés dans des installations ayant une puissance thermique nominale totale égale ou supérieure à 10 MW qui ont été mises en service avant le 1er janvier 2021, d’au minimum 80 pour cent après avoir été en service pendant 15 ans, au plus tôt à partir du 1er janvier 2026 et au plus tard à partir du 31 décembre 2029 ;
 
-- pour la production d’électricité, de chaleur et de froid à partir de combustibles ou carburants gazeux issus de la biomasse utilisés dans des installations ayant une puissance thermique nominale totale égale ou inférieure à 10 MW qui ont été mises en service avant le 1 er janvier 2021, d’au minimum 80 pour cent après avoir été en service pendant 15 ans et au plus tôt à partir du 1 er janvier 2026.
+- pour la production d’électricité, de chaleur et de froid à partir de combustibles ou carburants gazeux issus de la biomasse utilisés dans des installations ayant une puissance thermique nominale totale égale ou inférieure à 10 MW qui ont été mises en service avant le 1er janvier 2021, d’au minimum 80 pour cent après avoir été en service pendant 15 ans et au plus tôt à partir du 1er janvier 2026.
 
 (2)
 
@@ -193,7 +193,7 @@ L’énergie produite à partir de carburants à base de carbone recyclé ne peu
 
 Les biocarburants, les bioliquides et les combustibles ou carburants issus de la biomasse produits à partir de la biomasse agricole pris en considération aux fins visées à l’article 2 , paragraphe 1er, points 1° à 3°, ne sont pas produits à partir de matières premières provenant de terres de grande valeur en termes de diversité biologique, c’est-à-dire de terres qui possédaient l’un des statuts suivants en janvier 2008 ou postérieurement, qu’elles aient ou non conservé ce statut à ce jour :
 
-- forêts primaires et autres surfaces boisées primaires, c’est-à-dire les forêts et autres surfaces boisées d’essences indigènes, lorsqu’il n’y a pas d’indication clairement visible d’activité humaine et que les processus écologiques ne sont pas perturbés de manière importante , et forêts subnaturelles telles qu’elles sont définies dans le pays où se situe la forêt,
+- forêts primaires et autres surfaces boisées primaires, c’est-à-dire les forêts et autres surfaces boisées d’essences indigènes, lorsqu’il n’y a pas d’indication clairement visible d’activité humaine et que les processus écologiques ne sont pas perturbés de manière importante, et forêts subnaturelles telles qu’elles sont définies dans le pays où se situe la forêt,
 
 - forêts très riches en biodiversité et autres surfaces boisées riches en espèces et non dégradées ou identifiées comme présentant une grande valeur sur le plan de la biodiversité par l’autorité compétente concernée, sauf à produire des éléments attestant que la production de ces matières premières n’a pas compromis ces objectifs de protection de la nature ;
 
@@ -201,7 +201,7 @@ Les biocarburants, les bioliquides et les combustibles ou carburants issus de la
 
   - par la loi ou par l’autorité compétente concernée à la protection de la nature, sauf à produire des éléments attestant que la production de ces matières premières n’a pas compromis ces objectifs de protection de la nature ; ou
 
-  - à la protection d’écosystèmes ou d’espèces rares, menacés ou en voie de disparition, reconnues par des accords internationaux ou figurant sur les listes établies par des organisations intergouvernementales ou par l’Union internationale pour la conservation de la nature, sous réserve de leur reconnaissance conformément à l’article 30, paragraphe 4, alinéa 1 er , de la directive (UE) 2018/2001 précitée, sauf à produire des éléments attestant que la production de ces matières premières n’a pas compromis ces objectifs de protection de la nature ;
+  - à la protection d’écosystèmes ou d’espèces rares, menacés ou en voie de disparition, reconnues par des accords internationaux ou figurant sur les listes établies par des organisations intergouvernementales ou par l’Union internationale pour la conservation de la nature, sous réserve de leur reconnaissance conformément à l’article 30, paragraphe 4, alinéa 1er, de la directive (UE) 2018/2001 précitée, sauf à produire des éléments attestant que la production de ces matières premières n’a pas compromis ces objectifs de protection de la nature ;
 
 - prairies naturelles de plus d’un hectare présentant une grande valeur sur le plan de la biodiversité, c’est-à-dire :
 
@@ -263,11 +263,11 @@ Les biocarburants, les bioliquides et les combustibles issus de la biomasse prod
 
   - que l’exploitation maintient ou améliore la capacité de production à long terme de la forêt ;
 
-  - que les forêts dans lesquelles la biomasse forestière est récoltée ne proviennent pas de terres qui possèdent les statuts visés aux articles 5, points 1°, 2°, 4° et 5°, 7, paragraphe 1 er , point 1°, et 8, respectivement, dans les mêmes conditions de détermination du statut des terres visées aux articles précités ; et
+  - que les forêts dans lesquelles la biomasse forestière est récoltée ne proviennent pas de terres qui possèdent les statuts visés aux articles 5, points 1°, 2°, 4° et 5°, 7, paragraphe 1er, point 1°, et 8, respectivement, dans les mêmes conditions de détermination du statut des terres visées aux articles précités ; et
 
   - que les installations produisant des biocarburants, des bioliquides et des combustibles ou carburants issus de la biomasse produits à partir de la biomasse forestière délivrent une déclaration d’assurance s’appuyant sur des processus internes au niveau de l’entreprise, aux fins des contrôles réalisés conformément à l’article 14 garantissant que la biomasse forestière n’est pas issue des terres visées à la lettre f).
 
-- lorsque les preuves visées au point 1° ne sont pas disponibles, les biocarburants, les bioliquides et les combustibles issus de la biomasse produits à partir de la biomasse forestière sont pris en compte aux fins visées à l’article 2 , paragraphe 1 er , points 1° à 3°, si des systèmes de gestion sont mis en place au niveau de la zone d’approvisionnement forestière afin de garantir :
+- lorsque les preuves visées au point 1° ne sont pas disponibles, les biocarburants, les bioliquides et les combustibles issus de la biomasse produits à partir de la biomasse forestière sont pris en compte aux fins visées à l’article 2 , paragraphe 1er, points 1° à 3°, si des systèmes de gestion sont mis en place au niveau de la zone d’approvisionnement forestière afin de garantir :
 
   - la légalité des opérations de récolte ;
 
@@ -288,11 +288,11 @@ Les biocarburants, les bioliquides et les combustibles issus de la biomasse prod
 
   - est partie à l’accord de Paris du 22 avril 2016 ;
 
-  - a présenté une contribution prévue déterminée au niveau national (CDN) à la Convention-cadre des Nations unies sur les changements climatiques (CCNUCC), qui couvre les émissions et les absorptions de CO 2 de l’agriculture, de la sylviculture et de l’utilisation des sols et qui garantit que les modifications apportées au stock de carbone associé à la récolte de la biomasse sont prises en compte aux fins de l’engagement du pays de réduire ou de limiter les émissions de gaz à effet de serre conformément à la CDN ; ou
+  - a présenté une contribution prévue déterminée au niveau national (CDN) à la Convention-cadre des Nations unies sur les changements climatiques (CCNUCC), qui couvre les émissions et les absorptions de CO2 de l’agriculture, de la sylviculture et de l’utilisation des sols et qui garantit que les modifications apportées au stock de carbone associé à la récolte de la biomasse sont prises en compte aux fins de l’engagement du pays de réduire ou de limiter les émissions de gaz à effet de serre conformément à la CDN ; ou
 
   - dispose d’une législation en place au niveau national ou infranational, conformément à l’article 5 de l’accord de Paris, applicable à la zone d’exploitation, en vue de conserver et renforcer les stocks et les puits de carbone, et attestant que les émissions du secteur UTCATF déclarées ne dépassent pas les absorptions.
 
-- lorsque les preuves visées au point 1° ne sont pas disponibles, les biocarburants, les bioliquides et les combustibles issus de la biomasse produits à partir de la biomasse forestière sont pris en compte aux fins visées à l’article 2 , paragraphe 1 er , points 1° à 3°, si des systèmes de gestion sont mis en place au niveau de la zone d’approvisionnement forestière afin de garantir ou de renforcer sur le long terme la conservation des stocks et des puits de carbone.
+- lorsque les preuves visées au point 1° ne sont pas disponibles, les biocarburants, les bioliquides et les combustibles issus de la biomasse produits à partir de la biomasse forestière sont pris en compte aux fins visées à l’article 2 , paragraphe 1er, points 1° à 3°, si des systèmes de gestion sont mis en place au niveau de la zone d’approvisionnement forestière afin de garantir ou de renforcer sur le long terme la conservation des stocks et des puits de carbone.
 
 <a id="art-10bis"></a>
 ## Art. 10bis.
@@ -312,7 +312,7 @@ L’électricité produite à partir de combustibles issus de la biomasse n’es
 
 - pour les installations dont la puissance thermique nominale totale est supérieure à 100 MW, elle est produite au moyen d’une technologie de cogénération à haut rendement ou, pour les installations exclusivement électriques, en atteignant un rendement électrique net d’au moins 36 pour cent ;
 
-- elle est produite par captage et stockage du CO 2 issu de la biomasse.
+- elle est produite par captage et stockage du CO2 issu de la biomasse.
 
 (2)
 
@@ -439,9 +439,9 @@ Par dérogation à l’article 2, paragraphe 1er, le non-respect des critères d
 
 - l’opérateur économique concerné adresse une demande dûment motivée au ministre ayant l’Énergie dans ses attributions dans les délais suivants :
 
-  - pour la période du 1 er janvier 2023 au 31 décembre 2023 au plus tard un mois après la date de publication du présent règlement au Journal officiel du Grand-Duché de Luxembourg ;
+  - pour la période du 1er janvier 2023 au 31 décembre 2023 au plus tard un mois après la date de publication du présent règlement au Journal officiel du Grand-Duché de Luxembourg ;
 
-  - pour la période du 1 er janvier 2024 au 31 décembre 2024 au plus tard trois mois après la date de publication du présent règlement au Journal officiel du Grand-Duché de Luxembourg.
+  - pour la période du 1er janvier 2024 au 31 décembre 2024 au plus tard trois mois après la date de publication du présent règlement au Journal officiel du Grand-Duché de Luxembourg.
 
 - l’opérateur économique apporte les preuves démontrant qu’il a tout mis en œuvre pour respecter les obligations prévues aux articles 3 et 5 à 10 ainsi qu’aux articles 13 et 14 et les raisons pour lesquelles il n’a pas été raisonnablement possible de respecter celles-ci ;
 

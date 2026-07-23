@@ -88,7 +88,7 @@ Dans les mêmes conditions, les fonctionnaires de la Police grand-ducale et les 
 
 - à procéder ou à faire procéder à des essais de substances, de mélanges, d’articles, d’appareils, d’équipements et de technologies visés par la présente loi ;
 
-- à demander communication de tous livres, documentation professionnelle, registres et fichiers relatifs à une installation, activité, opération ou produit visés par le règlement (UE) 2019/1148 , en vue d’en vérifier la conformité, à les copier ou à établir des extraits ;
+- à demander communication de tous livres, documentation professionnelle, registres et fichiers relatifs à une installation, activité, opération ou produit visés par le règlement (UE) 2019/1148, en vue d’en vérifier la conformité, à les copier ou à établir des extraits ;
 
 - à prélever ou à faire prélever, aux fins d’examen ou d’analyse, des échantillons de produits, matières ou substances fabriqués, utilisés, manipulés, stockés, déposés ou extraits ;
 
@@ -105,15 +105,15 @@ Est puni d’une peine de réclusion de cinq à dix ans et d’une amende de 25 
 
 - le fait par un opérateur économique de mettre à disposition d’un membre du grand public des précurseurs d’explosifs soumis à restrictions, en infraction à l’article 5 du règlement (UE) 2019/1148 ;
 
-- le fait par un opérateur économique ou une place de marché en ligne de ne pas signaler une transaction suspecte ou une tentative de transaction suspecte, en infraction à l’article 9, paragraphes 1 er et 4, du règlement (UE) 2019/1148 ;
+- le fait par un opérateur économique ou une place de marché en ligne de ne pas signaler une transaction suspecte ou une tentative de transaction suspecte, en infraction à l’article 9, paragraphes 1er et 4, du règlement (UE) 2019/1148 ;
 
 - le fait par un opérateur économique ou une place de marché en ligne de ne pas mettre en place des procédures appropriées, raisonnables et proportionnées pour détecter des transactions suspectes, en infraction à l’article 9, paragraphe 2, du règlement (UE) 2019/1148 ;
 
 - le fait par un opérateur économique ou un utilisateur professionnel de ne pas signaler une disparition importante ou un vol important de précurseurs d’explosifs réglementés, en infraction à l’article 9, paragraphe 5, du règlement (UE) 2019/1148 ;
 
-- le fait par un opérateur économique mettant un précurseur d’explosif faisant l’objet de restrictions à la disposition d’un autre opérateur économique, de ne pas informer ce dernier que l’acquisition, l’introduction, la détention ou l’utilisation de ce précurseur d’explosif faisant l’objet de restrictions par des membres du grand public est soumise à restriction, en infraction à l’article 7, paragraphe 1 er , alinéa 1 er , du règlement (UE) 2019/1148 ;
+- le fait par un opérateur économique mettant un précurseur d’explosif faisant l’objet de restrictions à la disposition d’un autre opérateur économique, de ne pas informer ce dernier que l’acquisition, l’introduction, la détention ou l’utilisation de ce précurseur d’explosif faisant l’objet de restrictions par des membres du grand public est soumise à restriction, en infraction à l’article 7, paragraphe 1er, alinéa 1er, du règlement (UE) 2019/1148 ;
 
-- le fait par un opérateur économique mettant un précurseur d’explosif réglementé à la disposition d’un autre opérateur économique, de ne pas informer ce dernier que l’acquisition, l’introduction, la détention ou l’utilisation de ce précurseur d’explosif réglementé par des membres du grand public est soumise à des obligations de signalement, en infraction à l’article 7, paragraphe 1 er , alinéa 2, du règlement (UE) 2019/1148 ;
+- le fait par un opérateur économique mettant un précurseur d’explosif réglementé à la disposition d’un autre opérateur économique, de ne pas informer ce dernier que l’acquisition, l’introduction, la détention ou l’utilisation de ce précurseur d’explosif réglementé par des membres du grand public est soumise à des obligations de signalement, en infraction à l’article 7, paragraphe 1er, alinéa 2, du règlement (UE) 2019/1148 ;
 
 - le fait par un marché en ligne, lorsqu’il met à disposition des précurseurs d’explosifs réglementés au moyen de ses services, de ne pas prendre des mesures pour faire en sorte que ses utilisateurs soient informés des obligations qui leur incombent, en infraction à l’article 7, paragraphe 3, du règlement (UE) 2019/1148 ;
 

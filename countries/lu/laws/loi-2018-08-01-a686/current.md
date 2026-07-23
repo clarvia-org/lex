@@ -416,9 +416,9 @@ Dans le cadre d’une violation de l’article 10 du règlement (UE) 2016/679 pa
 
 La CNPD peut, par voie de décision, infliger au responsable de traitement ou sous-traitant, à l’exception de l’État et des communes, des astreintes jusqu’à concurrence de 5 pour cent du chiffre d’affaires journalier moyen réalisé au cours de l’exercice social précédent, ou au cours du dernier exercice social clos, par jour de retard à compter de la date qu’il fixe dans sa décision, pour le contraindre :
 
-- à communiquer toute information que la CNPD a demandée en application de l’article 58, paragraphe 1 er , lettre a) du règlement (UE) 2016/679 ;
+- à communiquer toute information que la CNPD a demandée en application de l’article 58, paragraphe 1er, lettre a) du règlement (UE) 2016/679 ;
 
-- à respecter une mesure correctrice que la CNPD a adoptée en vertu de l’article 58, paragraphe 2, lettres c), d), e), f), g), h) et j) du règlement (UE) 2016/679 .
+- à respecter une mesure correctrice que la CNPD a adoptée en vertu de l’article 58, paragraphe 2, lettres c), d), e), f), g), h) et j) du règlement (UE) 2016/679.
 
 Pour les besoins de l’application du présent paragraphe, les agents de l’Administration de l’enregistrement et des domaines sont tenus de communiquer à la CNPD tous renseignements qu’ils détiennent et qui sont nécessaires à la fixation des astreintes.
 
@@ -587,15 +587,15 @@ Le traitement mis en œuvre aux seules fins de journalisme ou d’expression uni
 
 - lorsque le traitement se rapporte à des données rendues manifestement publiques par la personne concernée ou à des données qui sont en rapport direct avec la vie publique de la personne concernée ou avec le fait dans lequel elle est impliquée de façon volontaire ;
 
-  - à la prohibition de traiter les catégories particulières de données telle que prévue à l’article 9, paragraphe 1 er , du règlement (UE) 2016/679 ;
+  - à la prohibition de traiter les catégories particulières de données telle que prévue à l’article 9, paragraphe 1er, du règlement (UE) 2016/679 ;
 
   - aux limitations concernant le traitement de données judiciaires prévues à l’article 10 du règlement (UE) 2016/679 ;
 
 - au chapitre V relatif aux transferts vers des pays tiers ou à des organisations internationales du règlement (UE) 2016/679 ;
 
-- à l’obligation d’information de l’article 13 du règlement (UE) 2016/679 , lorsque son application compromettrait la collecte des données auprès de la personne concernée ;
+- à l’obligation d’information de l’article 13 du règlement (UE) 2016/679, lorsque son application compromettrait la collecte des données auprès de la personne concernée ;
 
-- à l’obligation d’information de l’article 14 du règlement (UE) 2016/679 , lorsque son application compromettrait soit la collecte des données, soit une publication en projet, soit la mise à disposition du public, de quelque manière que ce soit de ces données ou fournirait des indications permettant d’identifier les sources d’information ;
+- à l’obligation d’information de l’article 14 du règlement (UE) 2016/679, lorsque son application compromettrait soit la collecte des données, soit une publication en projet, soit la mise à disposition du public, de quelque manière que ce soit de ces données ou fournirait des indications permettant d’identifier les sources d’information ;
 
 - au droit d’accès de la personne concernée qui est différé et limité en ce qu’il ne peut pas porter sur des informations relatives à l’origine des données et qui permettraient d’identifier une source. Sous cette réserve l’accès doit être exercé par l’intermédiaire de la CNPD en présence du président du Conseil de presse ou de son représentant, ou le président du Conseil de presse dûment appelé.
 
@@ -638,7 +638,7 @@ Compte tenu de la nature, de la portée, du contexte et des finalités du traite
 
 - l’établissement au préalable d’un plan de gestion des données ;
 
-- l’adoption de codes de conduite sectoriels tels que prévus à l’article 40 du règlement (UE) 2016/679 approuvés par la Commission européenne en vertu de l’article 40, paragraphe 9, du règlement (UE) 2016/679 .
+- l’adoption de codes de conduite sectoriels tels que prévus à l’article 40 du règlement (UE) 2016/679 approuvés par la Commission européenne en vertu de l’article 40, paragraphe 9, du règlement (UE) 2016/679.
 
 Le responsable de traitement doit documenter et justifier pour chaque projet à des fins de recherche scientifique ou historique ou à des fins statistiques l’exclusion, le cas échéant, d’une ou plusieurs des mesures énumérées à cet article.
 
@@ -686,13 +686,13 @@ La loi modifiée du 25 mars 2015 fixant le régime des traitements et les condit
 
 - L’article 12 est modifié comme suit :
 
-  - Au paragraphe 1 er , point 8° la mention de membre effectif de la Commission nationale pour la protection des données est supprimée et les termes de commissaire du Gouvernement adjoint à la protection des données auprès de l’État, sont ajoutés après les termes de commissaire du Gouvernement adjoint du commissariat chargé de l’instruction disciplinaire, ;
+  - Au paragraphe 1er, point 8° la mention de membre effectif de la Commission nationale pour la protection des données est supprimée et les termes de commissaire du Gouvernement adjoint à la protection des données auprès de l’État, sont ajoutés après les termes de commissaire du Gouvernement adjoint du commissariat chargé de l’instruction disciplinaire, ;
 
-  - Au paragraphe 1 er , point 9° la mention de et de commissaire du Gouvernement à la protection des données auprès de l’État est ajoutée après celle de commissaire du Gouvernement chargé de l’instruction disciplinaire ;
+  - Au paragraphe 1er, point 9° la mention de et de commissaire du Gouvernement à la protection des données auprès de l’État est ajoutée après celle de commissaire du Gouvernement chargé de l’instruction disciplinaire ;
 
-  - Au paragraphe 1 er , point 16° la mention président de la Commission nationale pour la protection des données est remplacée par commissaire à la protection des données ;
+  - Au paragraphe 1er, point 16° la mention président de la Commission nationale pour la protection des données est remplacée par commissaire à la protection des données ;
 
-  - Au paragraphe 1 er , point 23° la mention , de président de la Commission nationale pour la protection des données est ajoutée après de président de l’association d’assurance contre les accidents .
+  - Au paragraphe 1er, point 23° la mention , de président de la Commission nationale pour la protection des données est ajoutée après de président de l’association d’assurance contre les accidents .
 
 - L’article 16, paragraphe 3, lettre g), est supprimé.
 
@@ -706,9 +706,9 @@ La loi modifiée du 25 mars 2015 fixant le régime des traitements et les condit
 
 - L’Annexe B - B2) Allongements - est modifiée comme suit :
 
-  - au paragraphe 1 er , les termes de membre effectif de la Commission nationale pour la protection des données sont supprimés ;
+  - au paragraphe 1er, les termes de membre effectif de la Commission nationale pour la protection des données sont supprimés ;
 
-  - au paragraphe 1 er , les termes de commissaire du Gouvernement adjoint à la protection des données auprès de l’État, sont ajoutés après de commissaire du Gouvernement adjoint du commissariat du Gouvernement chargé de l’instruction disciplinaire, et les termes , de membre effectif de la Commission nationale pour la protection des données sont supprimés.
+  - au paragraphe 1er, les termes de commissaire du Gouvernement adjoint à la protection des données auprès de l’État, sont ajoutés après de commissaire du Gouvernement adjoint du commissariat du Gouvernement chargé de l’instruction disciplinaire, et les termes , de membre effectif de la Commission nationale pour la protection des données sont supprimés.
 
 <a id="art-70"></a>
 ## Art. 70.

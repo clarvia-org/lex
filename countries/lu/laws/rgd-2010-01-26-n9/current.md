@@ -67,9 +67,9 @@ En outre, pour les besoins du présent règlement, on entend par:
 
 - troupeau: un animal ou l’ensemble des animaux gardés dans une exploitation comme une unité épidémiologique; si plusieurs troupeaux sont présents dans une même exploitation, ils doivent former une unité distincte ayant le même statut sanitaire;
 
-- animal de boucherie: l’animal de l’espèce bovine (y compris les espèces Bison bison et Bubalus bubalus ) ou l’animal de l’espèce porcine destiné à être conduit à l’abattoir ou dans un centre de rassemblement dont il ne peut sortir que pour aller à l’abattage;
+- animal de boucherie: l’animal de l’espèce bovine (y compris les espèces Bison bison et Bubalus bubalus) ou l’animal de l’espèce porcine destiné à être conduit à l’abattoir ou dans un centre de rassemblement dont il ne peut sortir que pour aller à l’abattage;
 
-- animaux d’élevage ou de rente: les animaux des espèces bovine (y compris les espèces Bison bison et Bubalus bubalus ) et porcine autres que ceux mentionnés au point b), notamment ceux destinés à l’élevage, à la production de lait ou de viande, ou au travail, aux concours ou aux expositions, à l’exception des animaux participant à des manifestations culturelles et sportives;
+- animaux d’élevage ou de rente: les animaux des espèces bovine (y compris les espèces Bison bison et Bubalus bubalus) et porcine autres que ceux mentionnés au point b), notamment ceux destinés à l’élevage, à la production de lait ou de viande, ou au travail, aux concours ou aux expositions, à l’exception des animaux participant à des manifestations culturelles et sportives;
 
 - troupeau bovin officiellement indemne de tuberculose: le troupeau bovin qui satisfait aux conditions fixées à l’annexe A, section I, points 1 et 2;
 
@@ -95,7 +95,40 @@ En outre, pour les besoins du présent règlement, on entend par:
 
 - centre de rassemblement: tout emplacement, y compris les exploitations, les centres de collecte et les marchés, où sont rassemblés des animaux de l’espèce bovine ou porcine issus de différentes exploitations d’origine en vue de la constitution de lots d’animaux destinés aux échanges. Ces centres de rassemblement doivent être agréés à des fins commerciales et satisfaire aux exigences prévues à l’article 11;
 
-- région: partie du territoire d’un Etat membre dont la superficie est d’au moins 2 000 km 2 et qui est soumise au contrôle des autorités compétentes et inclut au moins l’une des régions administratives suivantes: Belgique: province/provincie Allemagne: Regierungsbezirk Danemark: amt ou île France: département Italie: provincia Luxembourg: – Pays-Bas: rvv-kring Royaume-Uni: Angleterre, pays de Galles et Irlande du Nord: county Ecosse: district ou island area Irlande: county Grèce: voμóϛ Espagne: provincia Portugal: continent: distrito; autres parties du territoire portugais: região autónoma Autriche: Bezirk Suède: län Finlande: lääni/län République tchèque: kraj Estonie: maakond Chypre: εттαρχία(district) Lettonie: rajons Lituanie: apskritis Hongrie: megye Malte: – Pologne: powiat Slovénie: območje Slovaquie: kraj Bulgarie: област Roumanie: județ; Croatie: zupanija
+- région: partie du territoire d’un Etat membre dont la superficie est d’au moins 2 000 km2 et qui est soumise au contrôle des autorités compétentes et inclut au moins l’une des régions administratives suivantes:
+
+| Belgique: | province/provincie |
+| --- | --- |
+| Allemagne: | Regierungsbezirk |
+| Danemark: | amt ou île |
+| France: | département |
+| Italie: | provincia |
+| Luxembourg: | – |
+| Pays-Bas: | rvv-kring |
+| Royaume-Uni: | Angleterre, pays de Galles et Irlande du Nord: |
+|  | county |
+|  | Ecosse: district ou island area |
+| Irlande: | county |
+| Grèce: | voμóϛ |
+| Espagne: | provincia |
+| Portugal: | continent: distrito; autres parties du territoire portugais: |
+|  | região autónoma |
+| Autriche: | Bezirk |
+| Suède: | län |
+| Finlande: | lääni/län |
+| République tchèque: | kraj |
+| Estonie: | maakond |
+| Chypre: | εттαρχία(district) |
+| Lettonie: | rajons |
+| Lituanie: | apskritis |
+| Hongrie: | megye |
+| Malte: | – |
+| Pologne: | powiat |
+| Slovénie: | območje |
+| Slovaquie: | kraj |
+| Bulgarie: | област |
+| Roumanie: | județ; |
+| Croatie: | zupanija |
 
 - négociant: toute personne physique ou morale qui achète et vend directement ou indirectement des animaux à des fins commerciales, qui procède à une rotation régulière de ces animaux, qui, dans un intervalle maximal de 30 jours après l’achat d’animaux, les revend ou les déplace des premières installations à d’autres installations ne lui appartenant pas et qui est enregistré et satisfait aux conditions prévues à l’article 13;
 
@@ -120,7 +153,7 @@ Les animaux des espèces bovine et porcine visés par le présent règlement doi
 
 - ne pas avoir été acquis dans une exploitation ni dans une zone faisant l’objet, pour des motifs de police sanitaire, d’une interdiction ou d’une restriction concernant l’espèce en cause, conformément à la législation communautaire et/ou nationale;
 
-- pour les animaux de l’espèce bovine être identifiés conformément aux dispositions du règlement grand-ducal du 22 avril 1999 précité et pour les animaux de l’espèce porcine être identifiés conformément aux dispositions du règlement grand-ducal du 30 avril 2004 ;
+- pour les animaux de l’espèce bovine être identifiés conformément aux dispositions du règlement grand-ducal du 22 avril 1999 précité et pour les animaux de l’espèce porcine être identifiés conformément aux dispositions du règlement grand-ducal du 30 avril 2004;
 
 - être conformes aux dispositions des articles 4 et 5.
 
@@ -504,7 +537,7 @@ Les obligations visées au paragraphe 2 sont les suivantes:
 
   - Pour chaque animal:
 
-    - le ou les codes d'identification uniques, dans les cas énoncés à l'article 4, paragraphe 1 er , à l'article 4ter, à l'article 4quater, paragraphe 1 er , et à l'article 4quinquies du règlement (CE) n° 1760/2000 du Parlement européen et du Conseil du 17 juillet 2000 établissant un système d'identification et d'enregistrement des bovins et concernant l'étiquetage de la viande bovine et des produits à base de viande bovine, et abrogeant le règlement (CE) n° 820/97 du Conseil;
+    - le ou les codes d'identification uniques, dans les cas énoncés à l'article 4, paragraphe 1er, à l'article 4ter, à l'article 4quater, paragraphe 1er, et à l'article 4quinquies du règlement (CE) n° 1760/2000 du Parlement européen et du Conseil du 17 juillet 2000 établissant un système d'identification et d'enregistrement des bovins et concernant l'étiquetage de la viande bovine et des produits à base de viande bovine, et abrogeant le règlement (CE) n° 820/97 du Conseil;
 
     - la date de naissance;
 

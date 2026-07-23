@@ -38,7 +38,7 @@ Les concessions pour les services radiodiffusés luxembourgeois à rayonnement i
 
 Les concessions visées à l’article 1er sont accordées, pour les services visés à l’article 2, alinéa (2), lettre a) de la loi, après publication d’un appel de candidatures. Peuvent toutefois être accordées sans appel public de candidatures:
 
-- les nouvelles concessions remplaçant une concession existante au sens de l’article 5, alinéa (1) de la loi ,
+- les nouvelles concessions remplaçant une concession existante au sens de l’article 5, alinéa (1) de la loi,
 
 - les concessions additionnelles accordées au bénéficiaire d’une concession pour un ou des services radiodiffusés luxembourgeois à rayonnement international et l’extension d’une telle concession à des services additionnels.
 

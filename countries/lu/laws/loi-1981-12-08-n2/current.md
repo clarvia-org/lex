@@ -76,7 +76,7 @@ Toute prestation en matière de réquisition donne droit à indemnisation.
 <a id="art-8"></a>
 ## Art. 8.
 
-- Dans les cas prévus à l’article 1 er , toute personne physique ou morale, luxembourgeois ou étrangère, résidant ou établie au Grand-Duché, peut être requise en vue de l’exécution de tâches d’intérêt public. Peut encore être requise toute entreprise exerçant une activité au Grand-Duché de Luxembourg.
+- Dans les cas prévus à l’article 1er, toute personne physique ou morale, luxembourgeois ou étrangère, résidant ou établie au Grand-Duché, peut être requise en vue de l’exécution de tâches d’intérêt public. Peut encore être requise toute entreprise exerçant une activité au Grand-Duché de Luxembourg.
 
 - Sont exemptés:
 

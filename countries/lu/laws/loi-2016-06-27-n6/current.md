@@ -84,7 +84,7 @@ Aux fins de la présente loi, on entend par:
 
 - mise sur le marché: la première mise à disposition d’équipements radioélectriques sur le marché de l’Union européenne;
 
-- norme harmonisée: une norme harmonisée au sens de l’article 2, point 1) c), du règlement (UE) n° 1025/2012 du Parlement européen et du Conseil du 25 octobre 2012 relatif à la normalisation européenne modifiant les directives 89/686/CEE et 93/15/CEE du Conseil ainsi que les directives 94/9/CE , 94/25/CE , 95/16/CE , 97/23/CE , 98/34/CE , 2004/22/CE , 2007/23/CE , 2009/23/CE et 2009/105/CE du Parlement européen et du Conseil et abrogeant la décision 87/95/CEE du Conseil et la décision n° 1673/2006/CE du Parlement européen et du Conseil;
+- norme harmonisée: une norme harmonisée au sens de l’article 2, point 1) c), du règlement (UE) n° 1025/2012 du Parlement européen et du Conseil du 25 octobre 2012 relatif à la normalisation européenne modifiant les directives 89/686/CEE et 93/15/CEE du Conseil ainsi que les directives 94/9/CE, 94/25/CE, 95/16/CE, 97/23/CE, 98/34/CE, 2004/22/CE, 2007/23/CE, 2009/23/CE et 2009/105/CE du Parlement européen et du Conseil et abrogeant la décision 87/95/CEE du Conseil et la décision n° 1673/2006/CE du Parlement européen et du Conseil;
 
 - ondes radioélectriques: les ondes électromagnétiques dont les fréquences sont inférieures à 3000 gigahertz et qui se propagent dans l’espace sans guide artificiel;
 
@@ -92,7 +92,7 @@ Aux fins de la présente loi, on entend par:
 
 - organisme d’évaluation de la conformité: un organisme qui effectue des activités d’évaluation de la conformité;
 
-- perturbation électromagnétique: une perturbation électromagnétique au sens de l’article 3, paragraphe 1 er , point 22, de la loi du 27 juin 2016 concernant la compatibilité électromagnétique;
+- perturbation électromagnétique: une perturbation électromagnétique au sens de l’article 3, paragraphe 1er, point 22, de la loi du 27 juin 2016 concernant la compatibilité électromagnétique;
 
 - radiocommunication: la communication au moyen d’ondes radioélectriques;
 
@@ -125,7 +125,7 @@ Les équipements radioélectriques sont construits de telle sorte qu’ils utili
 
 Les équipements radioélectriques de certaines catégories ou classes sont construits de telle sorte qu’ils respectent les exigences essentielles suivantes:
 
-- les équipements radioélectriques interagissent avec des accessoires autres que les dispositifs de charge pour les catégories et classes précisées à l’annexe I bis , partie I, de la directive 2014/53/UE du Parlement européen et du Conseil du 16 avril 2014 relative à l’harmonisation des législations des États membres concernant la mise à disposition sur le marché d’équipements radioélectriques et abrogeant la directive 1999/5/CE , telle que modifiée par les actes de la Commission européenne pris en conformité avec l’article 3, paragraphe 4, de cette directive, qui sont expressément visés au paragraphe 4 du présent article ;
+- les équipements radioélectriques interagissent avec des accessoires autres que les dispositifs de charge pour les catégories et classes précisées à l’annexe Ibis, partie I, de la directive 2014/53/UE du Parlement européen et du Conseil du 16 avril 2014 relative à l’harmonisation des législations des États membres concernant la mise à disposition sur le marché d’équipements radioélectriques et abrogeant la directive 1999/5/CE, telle que modifiée par les actes de la Commission européenne pris en conformité avec l’article 3, paragraphe 4, de cette directive, qui sont expressément visés au paragraphe 4 du présent article ;
 
 - les équipements radioélectriques interagissent à travers les réseaux avec les autres équipements radioélectriques;
 
@@ -888,11 +888,11 @@ Sans préjudice de l’article 34, lorsque le département de la surveillance du
 
 - la documentation technique n’est pas disponible ou n’est pas complète;
 
-- fbis) le pictogramme visé à l’article 3 bis , paragraphe 2, ou l’étiquette visée à l’article 10, paragraphe 8, n’a pas été réalisé correctement ;
+- fbis) le pictogramme visé à l’article 3bis, paragraphe 2, ou l’étiquette visée à l’article 10, paragraphe 8, n’a pas été réalisé correctement ;
 
 - fter) l’étiquette visée à l’article 10, paragraphe 8, n’accompagne pas l’équipement radioélectrique concerné ;
 
-- fquater) le pictogramme ou l’étiquette n’est pas apposé ou affiché conformément à l’article 3 bis , paragraphe 2, ou à l’article 10, paragraphe 8, respectivement;
+- fquater) le pictogramme ou l’étiquette n’est pas apposé ou affiché conformément à l’article 3bis, paragraphe 2, ou à l’article 10, paragraphe 8, respectivement;
 
 - les informations visées à l’article 10, paragraphe 6 ou 7, ou à l’article 12, paragraphe 3, sont absentes, fausses ou incomplètes;
 
@@ -900,7 +900,7 @@ Sans préjudice de l’article 34, lorsque le département de la surveillance du
 
 - les exigences de l’article 15 en matière d’identification des opérateurs économiques ne sont pas remplies;
 
-- l’article 3 bis , paragraphe 1 er , ou l’article 5 n’est pas respecté.
+- l’article 3bis, paragraphe 1er, ou l’article 5 n’est pas respecté.
 
 (2)
 

@@ -78,7 +78,7 @@ Sont exclus du champ d'application de la présente loi, dans la mesure où ils s
 
 - les déchets résultant de la prospection, de l'extraction, du traitement et du stockage de ressources minérales, ainsi que de l'exploitation des carrières, couverts par la loi du 26 novembre 2008 concernant la gestion des déchets de l'industrie extractive.
 
-- les substances qui sont destinées à être utilisées comme matières premières pour aliments des animaux au sens de l’article 3, paragraphe 2, lettre g), du règlement (CE) n° 767/2009 du Parlement européen et du Conseil du 13 juillet 2009 concernant la mise sur le marché et l’utilisation des aliments pour animaux, modifiant le règlement (CE) n° 1831/2003 du Parlement européen et du Conseil et abrogeant la directive 79/373/CEE du Conseil, la directive 80/511/CEE de la Commission, les directives 82/471/CEE , 83/228/CEE , 93/74/CEE , 93/113/CE et 96/25/CE du Conseil, ainsi que la décision 2004/217/CE de la Commission et qui ne sont pas constituées de sous-produits animaux ou ne contiennent pas de sous-produits animaux.
+- les substances qui sont destinées à être utilisées comme matières premières pour aliments des animaux au sens de l’article 3, paragraphe 2, lettre g), du règlement (CE) n° 767/2009 du Parlement européen et du Conseil du 13 juillet 2009 concernant la mise sur le marché et l’utilisation des aliments pour animaux, modifiant le règlement (CE) n° 1831/2003 du Parlement européen et du Conseil et abrogeant la directive 79/373/CEE du Conseil, la directive 80/511/CEE de la Commission, les directives 82/471/CEE, 83/228/CEE, 93/74/CEE, 93/113/CE et 96/25/CE du Conseil, ainsi que la décision 2004/217/CE de la Commission et qui ne sont pas constituées de sous-produits animaux ou ne contiennent pas de sous-produits animaux.
 
 - les sols in situ pollués.
 
@@ -190,9 +190,9 @@ Aux fins de la présente loi, on entend par :
 
 - « producteur de produits » : toute personne physique ou morale :
 
-  - établie au Grand-Duché de Luxembourg qui, à titre professionnel, fabrique, remplit ou vend directement au Grand-Duché de Luxembourg, quelle que soit la technique de vente utilisée, y compris par le biais de contrats à distance tels que définis à l’article L 222-1 du Code de la consommation , et met sur le marché luxembourgeois des produits ; ou
+  - établie au Grand-Duché de Luxembourg qui, à titre professionnel, fabrique, remplit ou vend directement au Grand-Duché de Luxembourg, quelle que soit la technique de vente utilisée, y compris par le biais de contrats à distance tels que définis à l’article L 222-1 du Code de la consommation, et met sur le marché luxembourgeois des produits ; ou
 
-  - qui est le premier acteur à réceptionner, à titre professionnel, des produits importés au Grand-Duché de Luxembourg par toute personne physique ou morale établie ou non au Grand-Duché de Luxembourg, quelle que soit la technique de vente utilisée, y compris par le biais de contrats à distance tels que définis à l’article L 222-1 du Code de la consommation , et met sur le marché luxembourgeois des produits ; ou
+  - qui est le premier acteur à réceptionner, à titre professionnel, des produits importés au Grand-Duché de Luxembourg par toute personne physique ou morale établie ou non au Grand-Duché de Luxembourg, quelle que soit la technique de vente utilisée, y compris par le biais de contrats à distance tels que définis à l’article L 222-1 du Code de la consommation, et met sur le marché luxembourgeois des produits ; ou
 
   - établie en-dehors du Grand-Duché de Luxembourg qui, à titre professionnel, vend des produits au Grand-Duché de Luxembourg directement à des ménages ou à des utilisateurs autres que des ménages, quelle que soit la technique de vente utilisée, y compris par le biais de contrats à distance tels que définis à l’article L 222-1 du Code de la consommation ;
 
@@ -446,15 +446,15 @@ En vue de prévenir l’abandon de déchets :
 
 Afin de lutter contre la dispersion de microplastiques :
 
-- À compter du 1 er janvier 2025, les lave-linges neufs sont dotés d’un filtre à microfibres plastiques. Un règlement grand-ducal précise les modalités d’application du présent article.
+- À compter du 1er janvier 2025, les lave-linges neufs sont dotés d’un filtre à microfibres plastiques. Un règlement grand-ducal précise les modalités d’application du présent article.
 
 - La mise sur le marché de toute substance à l’état de microplastique, telle quelle ou en mélange, présente de manière intentionnelle en concentration égale ou supérieure à 0,01 % pour cent, considérée comme le rapport entre la masse de microplastique et la masse totale de l’échantillon de matière considéré contenant ce microplastique est interdite. Les microplastiques naturels qui n’ont pas été modifiés chimiquement ou biodégradables ne sont pas concernés. Cette interdiction s’applique : Cette interdiction ne s’applique pas aux substances et mélanges :
 
   - Aux produits cosmétiques rincés à usage d’exfoliation ou de nettoyage comportant des particules plastiques solides, à l’exception des particules d’origine naturelle non susceptibles de subsister dans les milieux, d’y propager des principes actifs chimiques ou biologiques ou d’affecter les chaînes trophiques animales ;
 
-  - Aux dispositifs médicaux et aux dispositifs médicaux de diagnostic in vitro , à compter du 1 er janvier 2024 ;
+  - Aux dispositifs médicaux et aux dispositifs médicaux de diagnostic in vitro, à compter du 1er janvier 2024 ;
 
-  - Aux produits cosmétiques rincés autres que ceux mentionnés au point 1° er à compter du 1 er janvier 2026 ;
+  - Aux produits cosmétiques rincés autres que ceux mentionnés au point 1°er à compter du 1er janvier 2026 ;
 
   - Lorsqu’ils sont utilisés sur un site industriel ;
 
@@ -553,9 +553,9 @@ Sans préjudice de la responsabilité élargie des producteurs visée à l’art
 
 L’administration compétente peut interdire la réalisation de la campagne de collecte si :
 
-- la campagne ne permet pas de respecter la hiérarchie des déchets selon l’article 9, paragraphe 1 er ;
+- la campagne ne permet pas de respecter la hiérarchie des déchets selon l’article 9, paragraphe 1er ;
 
-- les informations dont il est question à l’alinéa 1 er ne sont pas fournies dans le délai y indiqué.
+- les informations dont il est question à l’alinéa 1er ne sont pas fournies dans le délai y indiqué.
 
 (9)
 
@@ -691,7 +691,7 @@ Principes d'autosuffisance et de proximité
 
 - L'élimination et la valorisation des déchets municipaux en mélange collectées auprès des ménages privés, y compris lorsque cette collecte concerne également de tels déchets provenant d'autres producteurs, se fait moyennant un réseau intégré et adéquat d'installations tenant compte des meilleures techniques disponibles. Lorsque cela s'avère nécessaire ou opportun le réseau peut être établi en coopération avec d'autres Etats membres. Ce réseau doit être dûment approuvé par le ministre. Les transferts de déchets municipaux en mélange vers des opérations de valorisation ou d'élimination situées hors du Luxembourg sont interdits sauf dans les cas de force majeure dûment constatés par le ministre, ou lorsque l'installation située dans un autre Etat membre fait partie intégrante du réseau mentionné à l'alinéa précédent.
 
-- Par dérogation au règlement (CE) n° 1013/2006 , l'administration compétente peut, en vue de protéger le réseau national, limiter les importations de déchets destinés aux incinérateurs et relevant de la valorisation, lorsqu'il a été établi que de telles importations auraient pour conséquence de devoir éliminer des déchets nationaux ou que ces déchets devraient être traités d'une manière qui n'est pas conforme au plan général de gestion des déchets. L'administration compétente notifie toute décision de ce type à la Commission européenne.
+- Par dérogation au règlement (CE) n° 1013/2006, l'administration compétente peut, en vue de protéger le réseau national, limiter les importations de déchets destinés aux incinérateurs et relevant de la valorisation, lorsqu'il a été établi que de telles importations auraient pour conséquence de devoir éliminer des déchets nationaux ou que ces déchets devraient être traités d'une manière qui n'est pas conforme au plan général de gestion des déchets. L'administration compétente notifie toute décision de ce type à la Commission européenne.
 
 - Les transferts de déchets inertes vers des opérations d'élimination situées hors du Luxembourg sont interdits sauf dans les cas de force majeure dûment constatés par le ministre.
 
@@ -818,13 +818,13 @@ L’agrément mentionné au paragraphe 5 ne peut être accordé qu’à des pers
 
 - avoir comme objet principal la prise en charge pour le compte de leurs membres des obligations, selon les cas, de reprise et de collecte séparée, de traitement, de recyclage, de réemploi, de la préparation à la réutilisation, de financement et d’information découlant des dispositions légales et réglementaires spécifiques aux divers flux de produits et de déchets ;
 
-- avoir comme membres les personnes visées au paragraphe 1 er qu’elles représentent ;
+- avoir comme membres les personnes visées au paragraphe 1er qu’elles représentent ;
 
 - être constituées sous une forme qui ne poursuit pas un but lucratif ;
 
 - ne compter parmi leurs administrateurs ou parmi les personnes pouvant engager l’association que des personnes jouissant de leurs droits civils et politiques ;
 
-- disposer des moyens financiers et organisationnels suffisants, y compris assurances et garanties financières pour les cas visés au dernier alinéa , pour accomplir les obligations en question et disposer d’une couverture géographique nationale ;
+- disposer des moyens financiers et organisationnels suffisants, y compris assurances et garanties financières pour les cas visés au dernier alinéa, pour accomplir les obligations en question et disposer d’une couverture géographique nationale ;
 
 - représenter une quantité minimale de 30 pour cent en poids du total des produits mis annuellement sur le marché national pour lesquels l’organisme a introduit une demande d’agrément. Pour le cas où ces produits sont subdivisés en diverses catégories, le taux de 30 pour cent est déterminé par l’addition du poids des produits mis annuellement sur le marché dans chacune des catégories pour lesquelles l’organisme a introduit une demande d’agrément. Dans ce cas, l’organisme doit en outre représenter un minimum de 5 pour cent en poids du total des produits mis annuellement sur le marché national dans l’ensemble des catégories respectives.
 
@@ -868,7 +868,7 @@ L’organisme agréé est tenu :
 
 - d’introduire une modulation des contributions demandées à ses membres, conformément aux dispositions du paragraphe 11, alinéa 4 ;
 
-- de mettre en place un mécanisme d’autocontrôle approprié, reposant, le cas échéant, sur des audits indépendants réguliers, afin d’évaluer sa gestion financière, y compris le respect des exigences énoncées au paragraphe 46, alinéa 1 er et la qualité des données recueillies et communiquées conformément au présent article et aux exigences du règlement (CE) n°1013/2006 du Parlement européen et du Conseil du 14 juin 2006 concernant les transferts de déchets ;
+- de mettre en place un mécanisme d’autocontrôle approprié, reposant, le cas échéant, sur des audits indépendants réguliers, afin d’évaluer sa gestion financière, y compris le respect des exigences énoncées au paragraphe 46, alinéa 1er et la qualité des données recueillies et communiquées conformément au présent article et aux exigences du règlement (CE) n°1013/2006 du Parlement européen et du Conseil du 14 juin 2006 concernant les transferts de déchets ;
 
 - de réaliser des mesures de sensibilisation et d’information en rapport avec le régime de responsabilité élargie du producteur.
 
@@ -914,7 +914,7 @@ Les producteurs de produits publient les informations sur la réalisation des ob
 
 Les contributions financières versées par les personnes visées au paragraphe 1er pour se conformer aux obligations de responsabilité élargie doivent couvrir les coûts suivants pour les produits mis sur le marché :
 
-- les coûts de collecte séparée des déchets et de leur transport et traitement ultérieurs, y compris le traitement nécessaire pour atteindre les objectifs de gestion des déchets, ainsi que les coûts nécessaires pour atteindre les objectifs déterminés par les législations spécifiques en la matière, compte tenu des recettes tirées de la préparation à la réutilisation, des ventes des matières premières secondaires issues de ses produits, les recettes mentionnées au paragraphe 8, alinéa 1 er et, le cas échéant, des droits de consigne non réclamés ;
+- les coûts de collecte séparée des déchets et de leur transport et traitement ultérieurs, y compris le traitement nécessaire pour atteindre les objectifs de gestion des déchets, ainsi que les coûts nécessaires pour atteindre les objectifs déterminés par les législations spécifiques en la matière, compte tenu des recettes tirées de la préparation à la réutilisation, des ventes des matières premières secondaires issues de ses produits, les recettes mentionnées au paragraphe 8, alinéa 1er et, le cas échéant, des droits de consigne non réclamés ;
 
 - les coûts mentionnés au paragraphe 8, alinéas 2 et 3 ;
 
@@ -1005,7 +1005,7 @@ Des règlements communaux déterminent:
 
 - les taxes et tarifs applicables à la gestion des déchets.
 
-- les modalités de gestion des déchets que les communes peuvent accepter conformément au paragraphe 1 er , alinéa 2.
+- les modalités de gestion des déchets que les communes peuvent accepter conformément au paragraphe 1er, alinéa 2.
 
 Sauf les cas d’urgence, les règlements sont pris sur avis préalable de l’administration compétente. En cas d’absence d’avis dans un délai de deux mois, le conseil communal peut procéder à l’adoption du règlement. Les règlements sont publiés par les autorités communales sur un site internet accessible au public.
 
@@ -1441,7 +1441,7 @@ Par dérogation aux dispositions de l’article 30, sont soumis à l’enregistr
 
 - les centres de ressources ;
 
-- les points de collecte de déchets municipaux non dangereux repris au chapitre 20 01 de la liste des déchets visée à l’article 8, paragraphe 1 er en vue de leur préparation à la réutilisation ainsi que les établissements procédant à la préparation à la réutilisation de ces déchets.
+- les points de collecte de déchets municipaux non dangereux repris au chapitre 20 01 de la liste des déchets visée à l’article 8, paragraphe 1er en vue de leur préparation à la réutilisation ainsi que les établissements procédant à la préparation à la réutilisation de ces déchets.
 
 (2)
 
@@ -1821,13 +1821,13 @@ Sont punies d’une peine d’emprisonnement de huit jours à trois ans et d’u
 
 - l’article 13 paragraphe 9 ;
 
-- l’article 15, paragraphes 1 er et 2 ;
+- l’article 15, paragraphes 1er et 2 ;
 
 - l’article 18, paragraphes 1 et 3 ;
 
-- l’article 23, paragraphes 1 er , 3 et 4 ;
+- l’article 23, paragraphes 1er, 3 et 4 ;
 
-- l’article 24, paragraphes 1 er et 2 ;
+- l’article 24, paragraphes 1er et 2 ;
 
 - l’article 26, paragraphe 9, alinéa 3 ;
 
@@ -1847,11 +1847,11 @@ Il en est de même des infractions commises à l’encontre des prescriptions pr
 
 Sont punies d’une peine d’emprisonnement de huit jours à six mois et d’une amende de 251 euros à 150 000 euros ou d’une de ces peines seulement, les infractions à :
 
-- l’article 13, paragraphes 1 er et 10 ;
+- l’article 13, paragraphes 1er et 10 ;
 
 - l’article 14, paragraphe 2 ;
 
-- l’article 16, paragraphe 1 er , lettre a) alinéa 2 et lettre c), et paragraphe 4 ;
+- l’article 16, paragraphe 1er, lettre a) alinéa 2 et lettre c), et paragraphe 4 ;
 
 - l’article 19, paragraphes 9 et 13 ;
 
@@ -1859,7 +1859,7 @@ Sont punies d’une peine d’emprisonnement de huit jours à six mois et d’un
 
 - l’article 25, paragraphe 4 ;
 
-- l’article 30, paragraphe 1 er alinéa 1 er .
+- l’article 30, paragraphe 1er alinéa 1er.
 
 (2bis)
 
@@ -1869,11 +1869,11 @@ Sont punies d’une amende de 24 euros à 10 000 euros, les contraventions suiva
 
 - l’article 23, paragraphe 5, pour autant que l’infraction s’est faite sur une voie publique ;
 
-- l’article 25, paragraphe 1 er ;
+- l’article 25, paragraphe 1er ;
 
 - l’article 30, paragraphes 9 et 10 ;
 
-- l’article 32, paragraphe 1 er points 1 er à 5 et paragraphe 4 ;
+- l’article 32, paragraphe 1er points 1er à 5 et paragraphe 4 ;
 
 - l’article 42, pour autant qu’il s’agit de déchets non dangereux ;
 
@@ -1885,13 +1885,13 @@ Il en est de même des infractions commises aux prescriptions qui suivent du rè
 
 - toute personne qui n’a pas conclu une garantie financière ou une assurance équivalente conformément à l’article 6 ;
 
-- toute personne qui n’a pas procédé aux opérations de valorisation ou d’élimination dans les délais fixés par l’article 9, paragraphe 7 , deuxième phrase ;
+- toute personne qui n’a pas procédé aux opérations de valorisation ou d’élimination dans les délais fixés par l’article 9, paragraphe 7, deuxième phrase ;
 
 - tout exploitant d’une opération de valorisation ou d’élimination intermédiaire qui n’a pas certifié dans les délais fixés par l’article 15 la réception des déchets ou le fait que l’opération de valorisation ou d’élimination intermédiaire a été menée à son terme ;
 
 - toute personne qui, après consentement à un transfert, ne respecte pas les exigences en matière de documents de mouvements mentionnés à l’article 16 ;
 
-- toute personne qui effectue le transfert de déchets visés à l’article 3, paragraphes 2 et 4, sans que les déchets soient accompagnés des informations visées à l’article 18, paragraphe 1 er , lettre a).
+- toute personne qui effectue le transfert de déchets visés à l’article 3, paragraphes 2 et 4, sans que les déchets soient accompagnés des informations visées à l’article 18, paragraphe 1er, lettre a).
 
 (3)
 
@@ -1978,9 +1978,9 @@ Amendes administratives
 
 Le ministre peut infliger une amende administrative de 250 euros à 10 000 euros en cas de violation de :
 
-- l’article 12, paragraphes 3, deuxième phrase et 4, point 1° er , paragraphe 5, alinéa 2 et paragraphes 8 et 9 ;
+- l’article 12, paragraphes 3, deuxième phrase et 4, point 1°er, paragraphe 5, alinéa 2 et paragraphes 8 et 9 ;
 
-- l’article 13, paragraphe 2, alinéa 1 er et paragraphes 4, 5 et 8 ;
+- l’article 13, paragraphe 2, alinéa 1er et paragraphes 4, 5 et 8 ;
 
 - l’article 17, paragraphe 3 ;
 
@@ -1988,17 +1988,17 @@ Le ministre peut infliger une amende administrative de 250 euros à 10 000 euros
 
 - l’article 23, paragraphe 2 et paragraphe 5, hormis les cas visés à l’article 47, paragraphe 3 ;
 
-- l’article 26, paragraphes 1 er , 2 et 3 ;
+- l’article 26, paragraphes 1er, 2 et 3 ;
 
 - l’article 27, paragraphe 2, lettre b) et d) ;
 
-- l’article 32, paragraphe 1 er , points 6° à 8 ;
+- l’article 32, paragraphe 1er, points 6° à 8 ;
 
 - l’article 33, paragraphes 2 et 3 ;
 
-- l’article 34, paragraphe 1 er , alinéas 1 er et 2 et paragraphe 2 ;
+- l’article 34, paragraphe 1er, alinéas 1er et 2 et paragraphe 2 ;
 
-- l’article 35, paragraphes 1 er et 2 ;
+- l’article 35, paragraphes 1er et 2 ;
 
 Les amendes sont payables dans les deux mois de la notification de la décision écrite.
 
@@ -2044,15 +2044,31 @@ La loi du 19 décembre 2008 a) relative aux piles et accumulateurs ainsi qu'aux 
 
 - l'article 2. 11) est remplacé comme suit: «11. appareil: tout équipement électrique et électronique, tel que défini par la directive 2002/96/CE du Parlement européen et du Conseil du 27 janvier 2003 relative aux déchets d'équipements électriques et électroniques, qui est entièrement alimenté par des piles ou accumulateurs ou peut l'être;»;
 
-- l'article 7. est complété par un paragraphe (4) formulé comme suit: «(4) Les points de collecte qui permettent à l’utilisateur final de se défaire des déchets de piles ou d’accumulateurs portables dans un point de collecte accessible proche de celui-ci compte tenu de la densité de population ne sont pas soumis à l’exigence d’autorisation ou d’enregistrement au titre de la législation relative aux déchets.»
+- l'article 7. est complété par un paragraphe (4) formulé comme suit:
+
+«(4)
+
+Les points de collecte qui permettent à l’utilisateur final de se défaire des déchets de piles ou d’accumulateurs portables dans un point de collecte accessible proche de celui-ci compte tenu de la densité de population ne sont pas soumis à l’exigence d’autorisation ou d’enregistrement au titre de la législation relative aux déchets.»
 
 - l’article 15 est abrogé;
 
-- l’article 16 est remplacé comme suit: «Art. 16. L’enregistrement des producteurs et l’agrément des organismes de systèmes collectifs se font conformément aux dispositions de l’article 19 de la loi du 21 mars 2012 relative aux déchets.»;
+- l’article 16 est remplacé comme suit:
 
-- l’article 19, paragraphe (1), est remplacé comme suit: «(1) Les rapports annuels à fournir à l’Administration de l’environnement par les producteurs, distributeurs, les tiers agissant pour leur compte ou l’organisme agréé sont ceux mentionnés à l’article 35, paragraphe (2) de la loi du 21 mars 2012 relative aux déchets.»;
+«Art. 16.
 
-- l’article 21 est remplacé comme suit: «Art. 21. La Commission de suivi pluripartite instituée en application de l’article 19, paragraphe (9), de la loi du 21 mars 2012 relative aux déchets assume le rôle de Commission de suivi pluripartite pour les besoins de la présente loi.»
+L’enregistrement des producteurs et l’agrément des organismes de systèmes collectifs se font conformément aux dispositions de l’article 19 de la loi du 21 mars 2012 relative aux déchets.»;
+
+- l’article 19, paragraphe (1), est remplacé comme suit:
+
+«(1)
+
+Les rapports annuels à fournir à l’Administration de l’environnement par les producteurs, distributeurs, les tiers agissant pour leur compte ou l’organisme agréé sont ceux mentionnés à l’article 35, paragraphe (2) de la loi du 21 mars 2012 relative aux déchets.»;
+
+- l’article 21 est remplacé comme suit:
+
+«Art. 21.
+
+La Commission de suivi pluripartite instituée en application de l’article 19, paragraphe (9), de la loi du 21 mars 2012 relative aux déchets assume le rôle de Commission de suivi pluripartite pour les besoins de la présente loi.»
 
 L’article 11, paragraphe (8), point b) 1) de la loi du 24 mai 2011 relative aux services dans le marché intérieur est remplacé comme suit:
 

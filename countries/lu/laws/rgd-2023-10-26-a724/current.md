@@ -43,7 +43,7 @@ Les métiers et les professions organisés sous forme de formation professionnel
 
 Pour être admissible à l’une des formations professionnelles visées à l’article précédent, les conditions suivantes doivent être remplies :
 
-- être âgé de 18 ans au moins au 1 er septembre de l’année de l’inscription ;
+- être âgé de 18 ans au moins au 1er septembre de l’année de l’inscription ;
 
 - disposer d’un contrat de travail dans le secteur du métier concerné d’au moins 16 heures par semaine ;
 

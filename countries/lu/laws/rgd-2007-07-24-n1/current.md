@@ -240,25 +240,83 @@ Les cœfficients
 
 Les leçons assurées par les professeurs, instituteurs, formateurs d’adultes, maîtres de cours spéciaux et maîtres d’enseignement technique sont affectées des coefficients suivants:
 
-- pour les cours d’éducation artistique dans les classes de 7 e , 6 e , 8 e , 5 e et 9 e , les cours d’éducation sportive dans toutes les classes, ainsi que les cours à option donnés dans le cadre du cycle inférieur de l’enseignement secondaire technique et du régime préparatoire, exceptés les cours donnés en atelier, le coefficient est fixé à 1;
+- pour les cours d’éducation artistique dans les classes de 7e , 6e , 8e , 5e et 9e , les cours d’éducation sportive dans toutes les classes, ainsi que les cours à option donnés dans le cadre du cycle inférieur de l’enseignement secondaire technique et du régime préparatoire, exceptés les cours donnés en atelier, le coefficient est fixé à 1;
 
 - pour les cours donnés en atelier ainsi que les leçons d’accompagnement théorique:
 
   - au cycle inférieur et au régime préparatoire, le coefficient est fixé à 1;
 
-  - au régime professionnel, régime de la formation de technicien et régime technique Coefficients Nombre d’élèves Classes 1-11 > 11 1 1,08
+  - au régime professionnel, régime de la formation de technicien et régime technique
 
-- pour les cours de pratique professionnelle et d’enseignement clinique donnés dans les classes des sections des formations des professions de santé et sociales: Classes Coefficient facteur 1 facteur 2 facteur 3 10e AS 1,30 * 0,034 * n semaines de stage grille * n élèves 11e AS 1,30 * 0,023 * n semaines de stage grille * n élèves 12e AS 1,30 * 0,020 * n semaines de stage grille * n élèves 00ASE 1,30 * 0,0054 * n semaines de stage en formation pratique * n élèves 01ASE 1,30 * 0,0054 * n semaines de stage en formation pratique * n élèves 02ASE 1,30 * 0,0054 * n semaines de stage en formation pratique * n élèves 12e SI 1,30 * 0,046 * n leçons grille * n élèves 13e SI 1,30 * 0,046 * n leçons grille * n élèves BTS SI (1er et 2e semestre) 1,30 * 0,044 * n leçons grille * n élèves BTS SI (3e et 4e semestre) 1,30 * 0,043 * n leçons grille * n élèves BTS spécialisé 1,30 * 0,035 * n leçons grille * n élèves 12e ED 1,30 * 0,021 * n leçons grille * n élèves 13e ED 1,30 * 0,026 * n leçons grille * n élèves 14e ED 1,30 * 0,018 * n leçons grille * n élèves
+| Coefficients | Nombre d’élèves |  |
+| --- | --- | --- |
+| Classes | 1-11 | > 11 |
+|  | 1 | 1,08 |
 
-- pour l’encadrement du travail d’envergure en 13 e SH, du travail personnel en 12 e SO et en 12 e AR et du mémoire dans les classes de 3 e et 2 e au lycée-pilote: Classes Coefficient facteur 1 facteur 2 facteur 3 13e SH 1,30 *0,0256 *5 leçons grille *n élèves 12e SO 1,30 *0,0416 * 2 leçons grille *n élèves 12e AR 1,30 *0,0416 * 2 leçons grille *n élèves 3e LEM 1 *0,0361 * 2 leçons grille *n élèves 2e LEM 1 *0,0416 *4 leçons grille *n élèves
+- pour les cours de pratique professionnelle et d’enseignement clinique donnés dans les classes des sections des formations des professions de santé et sociales:
 
-- pour les autres cours dans les classes de l’enseignement secondaire et de l’enseignement secondaire technique: Coefficients Nombre d’élèves Classes <9 9 - 10 11 - 15 16 - 17 18 - 25 26 - 27 > 27 7e , 6e , 5e ES 7e , 8e , 9e EST 1,00 1,00 1,00 1,03 1,10 1,17 1,25 4e , 3e ES 10e , 11e EST 1,00 1,00 1,05 1,13 1,20 1,27 1,35 2e ES 12e EST 13e EST (prof. santé/sociales) 1,00 1,08 1,15 1,23 1,30 1,37 1,45 1re ES 13e EST (fin d’études) 14e EST (prof. santé/sociales) 1,10 1,10 1,15 1,23 1,30 1,37 1,45 14e BTS, 15e BTS 1,10 1,18 1,25 1,33 1,40 1,47 1,55
+| Classes | Coefficient | facteur 1 | facteur 2 | facteur 3 |
+| --- | --- | --- | --- | --- |
+| 10e AS | 1,30 | * 0,034 | * n semaines de stage grille | * n élèves |
+| 11e AS | 1,30 | * 0,023 | * n semaines de stage grille | * n élèves |
+| 12e AS | 1,30 | * 0,020 | * n semaines de stage grille | * n élèves |
+| 00ASE | 1,30 | * 0,0054 | * n semaines de stage en formation pratique | * n élèves |
+| 01ASE | 1,30 | * 0,0054 | * n semaines de stage en formation pratique | * n élèves |
+| 02ASE | 1,30 | * 0,0054 | * n semaines de stage en formation pratique | * n élèves |
+| 12e SI | 1,30 | * 0,046 | * n leçons grille | * n élèves |
+| 13e SI | 1,30 | * 0,046 | * n leçons grille | * n élèves |
+| BTS SI (1er et 2e semestre) | 1,30 | * 0,044 | * n leçons grille | * n élèves |
+| BTS SI (3e et 4e semestre) | 1,30 | * 0,043 | * n leçons grille | * n élèves |
+| BTS spécialisé | 1,30 | * 0,035 | * n leçons grille | * n élèves |
+| 12e ED | 1,30 | * 0,021 | * n leçons grille | * n élèves |
+| 13e ED | 1,30 | * 0,026 | * n leçons grille | * n élèves |
+| 14e ED | 1,30 | * 0,018 | * n leçons grille | * n élèves |
 
-- pour les autres cours dans les classes de 7 e ADAPT, de 8 e et de 9 e polyvalente: Coefficients Nombre d’élèves Classes < 14 14 - 15 16 - 21 22 - 23 > 23 1,00 1,03 1,10 1,17 1,25
+- pour l’encadrement du travail d’envergure en 13e SH, du travail personnel en 12e SO et en 12e AR et du mémoire dans les classes de 3e et 2e au lycée-pilote:
 
-- pour les autres cours dans les classes du régime préparatoire, dans les classes d’accueil et dans les classes de 9 e pratique: Coefficients Nombre d’élèves Classes < 8 8 - 9 10 - 17 18 - 19 > 19 1,00 1,03 1,10 1,17 1,25
+| Classes | Coefficient | facteur 1 | facteur 2 | facteur 3 |
+| --- | --- | --- | --- | --- |
+| 13e SH | 1,30 | *0,0256 | *5 leçons grille | *n élèves |
+| 12e SO | 1,30 | *0,0416 | * 2 leçons grille | *n élèves |
+| 12e AR | 1,30 | *0,0416 | * 2 leçons grille | *n élèves |
+| 3e LEM | 1 | *0,0361 | * 2 leçons grille | *n élèves |
+| 2e LEM | 1 | *0,0416 | *4 leçons grille | *n élèves |
 
-- pour les formations spécifiques proposées à l’ENAD : Coefficients Nombre d’élèves Classes <9 9 - 10 11 - 15 16 - 17 18 - 25 26 - 27 > 27 DAES classe préparatoire DAES classe terminale 1,00 1,08 1,15 1,23 1,30 1,37 1,45 2GEA 1,00 1,08 1,15 1,23 1,30 1,37 1,45 1GEA 1SGEA 1,10 1,10 1,15 1,23 1,30 1,37 1,45 .
+- pour les autres cours dans les classes de l’enseignement secondaire et de l’enseignement secondaire technique:
+
+| Coefficients | Nombre d’élèves |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Classes | <9 | 9 - 10 | 11 - 15 | 16 - 17 | 18 - 25 | 26 - 27 | > 27 |
+| 7e , 6e , 5e ES 7e , 8e , 9e EST | 1,00 | 1,00 | 1,00 | 1,03 | 1,10 | 1,17 | 1,25 |
+| 4e , 3e ES 10e , 11e EST | 1,00 | 1,00 | 1,05 | 1,13 | 1,20 | 1,27 | 1,35 |
+| 2e ES 12e EST 13e EST (prof. santé/sociales) | 1,00 | 1,08 | 1,15 | 1,23 | 1,30 | 1,37 | 1,45 |
+| 1re ES 13e EST (fin d’études) 14e EST (prof. santé/sociales) | 1,10 | 1,10 | 1,15 | 1,23 | 1,30 | 1,37 | 1,45 |
+| 14e BTS, 15e BTS | 1,10 | 1,18 | 1,25 | 1,33 | 1,40 | 1,47 | 1,55 |
+
+- pour les autres cours dans les classes de 7e ADAPT, de 8e et de 9e polyvalente:
+
+| Coefficients | Nombre d’élèves |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Classes | < 14 | 14 - 15 | 16 - 21 | 22 - 23 | > 23 |
+|  | 1,00 | 1,03 | 1,10 | 1,17 | 1,25 |
+
+- pour les autres cours dans les classes du régime préparatoire, dans les classes d’accueil et dans les classes de 9e pratique:
+
+| Coefficients | Nombre d’élèves |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Classes | < 8 | 8 - 9 | 10 - 17 | 18 - 19 | > 19 |
+|  | 1,00 | 1,03 | 1,10 | 1,17 | 1,25 |
+
+- pour les formations spécifiques proposées à l’ENAD :
+
+| Coefficients | Nombre d’élèves |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Classes | <9 | 9 - 10 | 11 - 15 | 16 - 17 | 18 - 25 | 26 - 27 | > 27 |
+| DAES classe préparatoire DAES classe terminale | 1,00 | 1,08 | 1,15 | 1,23 | 1,30 | 1,37 | 1,45 |
+| 2GEA | 1,00 | 1,08 | 1,15 | 1,23 | 1,30 | 1,37 | 1,45 |
+| 1GEA 1SGEA | 1,10 | 1,10 | 1,15 | 1,23 | 1,30 | 1,37 | 1,45 |
+
+.
 
 <a id="art-10"></a>
 ## Art. 10.
@@ -366,9 +424,19 @@ Les leçons assurées par les chargés de cours sont affectées du coefficient 1
 
 - pour les cours donnés en atelier au cycle inférieur et au régime préparatoire les dispositions du paragraphe 2 points a et b de l’article 9 ci-dessus sont applicables
 
-- pour les cours donnés en atelier au régime professionnel, régime de technicien et régime technique Coefficients Nombre d’élèves Classes < 5 5-9 8 ou > 8 0,90 0,95 1
+- pour les cours donnés en atelier au régime professionnel, régime de technicien et régime technique
 
-- Pour les autres cours dans les autres classes: Nombre d’élèves Classes 10 ou < 10 11-17 > 17 tous niveaux 0,90 0,95 1
+| Coefficients | Nombre d’élèves |  |  |
+| --- | --- | --- | --- |
+| Classes | < 5 | 5-9 | 8 ou > 8 |
+|  | 0,90 | 0,95 | 1 |
+
+- Pour les autres cours dans les autres classes:
+
+|  | Nombre d’élèves |  |  |
+| --- | --- | --- | --- |
+| Classes | 10 ou < 10 | 11-17 | > 17 |
+| tous niveaux | 0,90 | 0,95 | 1 |
 
 (3)
 
@@ -434,7 +502,7 @@ Les dispositions de l’article 12, alinéas 3 et 4 et de l’article 13 sont ap
 
 Sont abrogés:
 
-- l’article 67 de l’ arrêté royal grand-ducal du 7 juin 1861 portant approbation d’un nouveau règlement pour les établissements d’enseignement supérieur et moyen de l’Etat, tel que modifié par la suite;
+- l’article 67 de l’arrêté royal grand-ducal du 7 juin 1861 portant approbation d’un nouveau règlement pour les établissements d’enseignement supérieur et moyen de l’Etat, tel que modifié par la suite;
 
 - l’article 2 du règlement grand-ducal du 14 décembre 2000 fixant les conditions de travail et les indemnités des chargés de cours à durée indéterminée de l’Institut d’Etudes éducatives et sociales.
 

@@ -46,7 +46,7 @@ Aux fins de la présente loi, on entend par :
 
 - « CSSF » : la Commission de Surveillance du Secteur Financier ;
 
-- 4bis. « dépositaire central de titres » ou « DCT » : un dépositaire central de titres au sens de l’article 2, paragraphe 1 er , point 1), du règlement (UE) n° 909/2014 du Parlement européen et du Conseil du 23 juillet 2014 concernant l’amélioration du règlement de titres dans l’Union européenne et les dépositaires centraux de titres, et modifiant les directives 98/26/CE et 2014/65/UE ainsi que le règlement (UE) n° 236/2012 , ci-après « règlement (UE) n° 909/2014 » ;
+- 4bis. « dépositaire central de titres » ou « DCT » : un dépositaire central de titres au sens de l’article 2, paragraphe 1er, point 1), du règlement (UE) n° 909/2014 du Parlement européen et du Conseil du 23 juillet 2014 concernant l’amélioration du règlement de titres dans l’Union européenne et les dépositaires centraux de titres, et modifiant les directives 98/26/CE et 2014/65/UE ainsi que le règlement (UE) n° 236/2012, ci-après « règlement (UE) n° 909/2014 » ;
 
 - « directive 78/660/CEE » : la directive 78/660/CEE du Conseil du 25 juillet 1978 fondée sur l'article 54 paragraphe 3 sous g) du traité et concernant les comptes annuels de certaines formes de sociétés, telle que modifiée ;
 
@@ -2734,7 +2734,7 @@ Par dérogation au paragraphe 2, des sociétés de gestion peuvent en outre four
 
   - toute autre fonction ou activité déjà exercée par une société de gestion en ce qui concerne un OPCVM qu’elle gère conformément au présent article, ou en ce qui concerne les services qu’elle fournit conformément au présent paragraphe, à condition que tout conflit d’intérêts éventuel créé par l’exercice de cette fonction ou activité au service d’autres parties soit géré de manière appropriée ;
 
-- administration d’indices de référence conformément au règlement (UE) 2016/1011 du Parlement européen et du Conseil du 8 juin 2016 concernant les indices utilisés comme indices de référence dans le cadre d’instruments et de contrats financiers ou pour mesurer la performance de fonds d’investissement et modifiant les directives 2008/48/CE et 2014/17/UE et le règlement (UE) n° 596/2014 .
+- administration d’indices de référence conformément au règlement (UE) 2016/1011 du Parlement européen et du Conseil du 8 juin 2016 concernant les indices utilisés comme indices de référence dans le cadre d’instruments et de contrats financiers ou pour mesurer la performance de fonds d’investissement et modifiant les directives 2008/48/CE et 2014/17/UE et le règlement (UE) n° 596/2014.
 
 Les sociétés de gestion ne peuvent en aucun cas être autorisées en vertu du présent chapitre à fournir exclusivement les services mentionnés dans le présent paragraphe ou à fournir des services auxiliaires sans être agréées pour les services visés au point a) . Les sociétés de gestion ne sont pas autorisées à fournir le service visé à l’alinéa 1er, lettre c), en ce qui concerne des indices de référence qui sont utilisés dans l’OPCVM qu’elles gèrent.
 
@@ -2818,7 +2818,7 @@ La CSSF n'accorde l'agrément à la société de gestion qu'aux conditions suiva
 
   - une vue d’ensemble du temps que chacune de ces personnes consacre à chacune de ces responsabilités ;
 
-  - des informations sur la manière dont la société de gestion entend se conformer aux obligations qui lui incombent en vertu de la présente loi et aux obligations qui lui incombent en vertu de l’article 3, paragraphe 1 er , de l’article 6, paragraphe 1 er , lettre a), et de l’article 13, paragraphe 1 er , du règlement (UE) 2019/2088 du Parlement européen et du Conseil du 27 novembre 2019 sur la publication d’informations en matière de durabilité dans le secteur des services financiers, ainsi qu’une description détaillée des ressources humaines et techniques appropriées qui seront utilisées par la société de gestion à cet effet ;
+  - des informations sur la manière dont la société de gestion entend se conformer aux obligations qui lui incombent en vertu de la présente loi et aux obligations qui lui incombent en vertu de l’article 3, paragraphe 1er, de l’article 6, paragraphe 1er, lettre a), et de l’article 13, paragraphe 1er, du règlement (UE) 2019/2088 du Parlement européen et du Conseil du 27 novembre 2019 sur la publication d’informations en matière de durabilité dans le secteur des services financiers, ainsi qu’une description détaillée des ressources humaines et techniques appropriées qui seront utilisées par la société de gestion à cet effet ;
 
 - son administration centrale et son siège statutaire sont situés au Luxembourg ;
 

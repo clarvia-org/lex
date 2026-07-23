@@ -30,13 +30,13 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 Au sens du présent règlement on entend
 
-- par retenue ou impôt retenu, la retenue d’impôt sur les traitements et salaires instituée par le titre 1, chapitre VIII, section II de la loi et étendue à certaines pensions par l’article 144 de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu (en abrégé: la loi ), avant la bonification des crédits d’impôt;
+- par retenue ou impôt retenu, la retenue d’impôt sur les traitements et salaires instituée par le titre 1, chapitre VIII, section II de la loi et étendue à certaines pensions par l’article 144 de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu (en abrégé: la loi), avant la bonification des crédits d’impôt;
 
 - par salaires ou pensions ou par rémunérations:
 
-  - les salaires qui, aux termes de l’article 136, alinéa 1 de la loi , sont passibles de la retenue à la source au titre de l’impôt sur le revenu,
+  - les salaires qui, aux termes de l’article 136, alinéa 1 de la loi, sont passibles de la retenue à la source au titre de l’impôt sur le revenu,
 
-  - les pensions passibles de cette retenue en vertu de l’article 144 de la loi ;
+  - les pensions passibles de cette retenue en vertu de l’article 144 de la loi;
 
 - par salariés ou pensionnés, les contribuables bénéficiant respectivement d’un salaire ou d’une pension visés au numéro 2 ;
 
@@ -44,13 +44,13 @@ Au sens du présent règlement on entend
 
 - par prestations pécuniaires de maladie, les indemnités suivantes: pour autant que ces indemnités sont considérées comme salaires et ne bénéficient pas de l’exemption prononcée par l’article 115, numéro 7 de la loi;
 
-  - l’indemnité pécuniaire de maladie visée à l’article 11 du Code de la sécurité sociale ;
+  - l’indemnité pécuniaire de maladie visée à l’article 11 du Code de la sécurité sociale;
 
-  - l’indemnité pécuniaire de maternité visée à l’article 25 du Code de la sécurité sociale ;
+  - l’indemnité pécuniaire de maternité visée à l’article 25 du Code de la sécurité sociale;
 
-  - l’indemnité pécuniaire versée suite à un accident professionnel ou à une maladie professionnelle et prévue par l’article 101 du Code de la sécurité sociale ;
+  - l’indemnité pécuniaire versée suite à un accident professionnel ou à une maladie professionnelle et prévue par l’article 101 du Code de la sécurité sociale;
 
-  - l’indemnité pécuniaire visée à l’article 12 du Code de la sécurité sociale , l’indemnité pécuniaire tirée de l’affiliation volontaire prévue à l’article 52, alinéa 2 du même code , l’indemnité visée à l’article 100, alinéa 2 du prédit code , ainsi que les indemnités visées sous b) et c) ci-dessus, allouées à des salariés associés de sociétés de capitaux ou d’autres organismes à caractère collectif au sens des dispositions régissant l’impôt sur le revenu des collectivités;
+  - l’indemnité pécuniaire visée à l’article 12 du Code de la sécurité sociale, l’indemnité pécuniaire tirée de l’affiliation volontaire prévue à l’article 52, alinéa 2 du même code, l’indemnité visée à l’article 100, alinéa 2 du prédit code, ainsi que les indemnités visées sous b) et c) ci-dessus, allouées à des salariés associés de sociétés de capitaux ou d’autres organismes à caractère collectif au sens des dispositions régissant l’impôt sur le revenu des collectivités;
 
 - par administration, l’organe de l’administration compétent au stade considéré de la procédure.
 
@@ -82,13 +82,13 @@ Ont droit au décompte annuel
 
 - les salariés qui ont été occupés au Grand-Duché pendant une partie de l’année d’imposition et qui ne remplissent pas les conditions des lettres a) et b), pourvu que leur salaire brut indigène ait été au moins égal à 75% du total de leur salaire brut annuel et des prestations et autres avantages semblables en tenant lieu;
 
-- les salariés ou pensionnés visés aux lettres a), b) et c), qui ont droit à une modération d’impôt pour enfant en vertu de l’article 122, alinéa 3 de la loi et dans le chef desquels l’allocation familiale, l’aide financière de l’État pour études supérieures ou l’aide aux volontaires n’a pas été attribuée pour le même enfant, ou qui ont droit à une bonification d’impôt pour enfant visée à l’article 123 bis de la loi ;
+- les salariés ou pensionnés visés aux lettres a), b) et c), qui ont droit à une modération d’impôt pour enfant en vertu de l’article 122, alinéa 3 de la loi et dans le chef desquels l’allocation familiale, l’aide financière de l’État pour études supérieures ou l’aide aux volontaires n’a pas été attribuée pour le même enfant, ou qui ont droit à une bonification d’impôt pour enfant visée à l’article 123bis de la loi;
 
-- les salariés ou pensionnés résidents qui demandent l’imputation du crédit d’impôt monoparental dans les conditions de l’article 154 ter de la loi . L’imputation du crédit d’impôt monoparental a uniquement lieu dans la mesure où le crédit d’impôt monoparental n’a pas été accordé au cours de l’année d’imposition par l’employeur ou la caisse de pension ;
+- les salariés ou pensionnés résidents qui demandent l’imputation du crédit d’impôt monoparental dans les conditions de l’article 154ter de la loi. L’imputation du crédit d’impôt monoparental a uniquement lieu dans la mesure où le crédit d’impôt monoparental n’a pas été accordé au cours de l’année d’imposition par l’employeur ou la caisse de pension;
 
-- les salariés qui demandent l’imputation du crédit d’impôt heures supplémentaires d’après les dispositions de l’article 154 terdecies , alinéa 5 de la loi ;
+- les salariés qui demandent l’imputation du crédit d’impôt heures supplémentaires d’après les dispositions de l’article 154terdecies, alinéa 5 de la loi ;
 
-- les contribuables qui demandent un abattement de maintien dans la vie professionnelle d’après les dispositions de l’article 129g de la loi . La demande de l’abattement est uniquement prise en compte dans la mesure où l’abattement n’a pas été accordé au cours de l’année par l’employeur.
+- les contribuables qui demandent un abattement de maintien dans la vie professionnelle d’après les dispositions de l’article 129g de la loi. La demande de l’abattement est uniquement prise en compte dans la mesure où l’abattement n’a pas été accordé au cours de l’année par l’employeur.
 
 (2)
 
@@ -140,7 +140,7 @@ Les déductions suivantes entrent en ligne de compte, dans la mesure où elles s
 
 - les cotisations personnelles sur les rémunérations des salariés versées en raison de l’existence d’un régime complémentaire de pension, instauré conformément à la loi du 8 juin 1999 relative aux régimes complémentaires de pension, ou d’un régime étranger équivalent. Toutefois, ces cotisations personnelles ne sont déductibles que jusqu’à concurrence d’un montant annuel de 1.200 euros,
 
-- les rémunérations ou parties de rémunérations exemptées d’impôt selon les dispositions de l’article 115 de la loi ,
+- les rémunérations ou parties de rémunérations exemptées d’impôt selon les dispositions de l’article 115 de la loi,
 
 - la déduction annuelle inscrite sur la fiche de retenue, pour autant qu’elle représente:
 
@@ -160,9 +160,9 @@ Les déductions suivantes entrent en ligne de compte, dans la mesure où elles s
 
 - les minima forfaitaires pour frais d’obtention prévus par l’article 107 de la loi à l’endroit des revenus englobés dans le décompte,
 
-- le minimum forfaitaire pour dépenses spéciales prévu par l’article 113 de la loi ,
+- le minimum forfaitaire pour dépenses spéciales prévu par l’article 113 de la loi,
 
-- l’abattement extra-professionnel prévu par l’article 129b de la loi .
+- l’abattement extra-professionnel prévu par l’article 129b de la loi.
 
 (3)
 
@@ -182,7 +182,7 @@ L’impôt annuel est égal au terme a) ou b) ci-dessous, augmenté du terme sub
 
 - l’impôt qui, dans les cas visés à l’article 3, alinéas 1 et 3, correspond selon les dispositions de l’article 10 ou de l’article 11, à la partie ordinaire du revenu annuel,
 
-- l’impôt qui, dans les cas visés à l’article 3, alinéa 2, correspond selon les dispositions de l’article 11 bis à la partie ordinaire du revenu annuel,
+- l’impôt qui, dans les cas visés à l’article 3, alinéa 2, correspond selon les dispositions de l’article 11bis à la partie ordinaire du revenu annuel,
 
 - l’impôt relatif à la partie extraordinaire du revenu annuel et déterminé selon les prescriptions de l’article 12.
 
@@ -196,9 +196,9 @@ L’expression « impôt annuel » au sens du présent règlement ne comprend ni
 
 - dans la limite de l’impôt dû, des modérations et bonifications d’impôt pour enfants de l’article 13 ;
 
-- le crédit d’impôt monoparental restituable de l’article 14. Les crédits d’impôt pour salariés et pour pensionnés, visés respectivement aux articles 154 quater et 154 quinquies de la loi , n’interviennent pas dans le décompte annuel ;
+- le crédit d’impôt monoparental restituable de l’article 14. Les crédits d’impôt pour salariés et pour pensionnés, visés respectivement aux articles 154quater et 154quinquies de la loi, n’interviennent pas dans le décompte annuel ;
 
-- le crédit d’impôt heures supplémentaires restituable de l’article 14 bis .
+- le crédit d’impôt heures supplémentaires restituable de l’article 14bis.
 
 <a id="art-10"></a>
 ## Art. 10.
@@ -238,9 +238,9 @@ En vue de l’application du présent article, le contribuable est tenu de justi
 
 Lorsque le revenu annuel comprend des revenus extraordinaires d’un montant total supérieur à 250 euros, l’impôt relatif à la partie extraordinaire du revenu annuel est déterminé par application des règles ci-après:
 
-- lorsque les revenus extraordinaires rentrent dans les prévisions de l’alinéa 1 de l’article 132 de la loi , l’impôt est égal à quatre fois l’excédent entre d’une part l’impôt correspondant, d’après le barème de l’impôt annuel à la somme de la partie ordinaire du revenu annuel et du quart des revenus extraordinaires prévisés et, d’autre part, l’impôt correspondant d’après le même barème à la partie ordinaire du revenu annuel. L’impôt ainsi déterminé ne peut cependant pas être supérieur à 24 pour cent du montant des revenus extraordinaires prévisés;
+- lorsque les revenus extraordinaires rentrent dans les prévisions de l’alinéa 1 de l’article 132 de la loi, l’impôt est égal à quatre fois l’excédent entre d’une part l’impôt correspondant, d’après le barème de l’impôt annuel à la somme de la partie ordinaire du revenu annuel et du quart des revenus extraordinaires prévisés et, d’autre part, l’impôt correspondant d’après le même barème à la partie ordinaire du revenu annuel. L’impôt ainsi déterminé ne peut cependant pas être supérieur à 24 pour cent du montant des revenus extraordinaires prévisés;
 
-- lorsque les revenus extraordinaires rentrent dans les prévisions de l’alinéa 2 de l’article 132 de la loi , l’impôt est égal à la moitié du taux global correspondant d’après le barème de l’impôt annuel au revenu annuel.
+- lorsque les revenus extraordinaires rentrent dans les prévisions de l’alinéa 2 de l’article 132 de la loi, l’impôt est égal à la moitié du taux global correspondant d’après le barème de l’impôt annuel au revenu annuel.
 
 (2)
 
@@ -326,9 +326,9 @@ Un décompte annuel spécial pouvant donner lieu au recouvrement d’un supplém
 
 -
 
-  - qui, en tant que résidents ou non-résidents visés à l’article 157 bis , alinéa 3 de la loi ont bénéficié, conformément à l’article 15 du règlement grand-ducal relatif à la détermination de la retenue sur les salaires et les pensions, d’un taux réduit pour l’ensemble ou partie des rémunérations supplémentaires,
+  - qui, en tant que résidents ou non-résidents visés à l’article 157bis, alinéa 3 de la loi ont bénéficié, conformément à l’article 15 du règlement grand-ducal relatif à la détermination de la retenue sur les salaires et les pensions, d’un taux réduit pour l’ensemble ou partie des rémunérations supplémentaires,
 
-  - qui, en tant que non-résidents autres que ceux visés à l’article 157 bis , alinéa 3 de la loi , ont touché des rémunérations supplémentaires,
+  - qui, en tant que non-résidents autres que ceux visés à l’article 157bis, alinéa 3 de la loi, ont touché des rémunérations supplémentaires,
 
 - qui devraient faire l’objet d’une procédure de fixation de l’impôt par l’administration dans les conditions prévues par l’article 21 du règlement grand-ducal de procédure de la retenue d’impôt sur les salaires et les pensions,
 

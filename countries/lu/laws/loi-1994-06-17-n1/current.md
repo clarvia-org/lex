@@ -198,7 +198,7 @@ La charge des cotisations incombe:
 
 - à l’Etat pour les personnes exerçcant à titre principal une activité professionnelle ressortissant de la Chambre d’Agriculture;
 
-- à toute personne affiliée obligatoirement au titre d’une activité non-salariée aux termes de l’article 171 alinéa 2 du code des assurances sociales , à moins qu’elle n’exerce une activité ressortissant de la Chambre d’Agriculture ou qu’elle n’exerce une profession salariée à titre principal ou qu’elle ne bénéficie d’une pension de vieillesse, d’invalidité ou d’orphelin ou qu’elle n’ait atteint l’âge de soixante-cinq ans.
+- à toute personne affiliée obligatoirement au titre d’une activité non-salariée aux termes de l’article 171 alinéa 2 du code des assurances sociales, à moins qu’elle n’exerce une activité ressortissant de la Chambre d’Agriculture ou qu’elle n’exerce une profession salariée à titre principal ou qu’elle ne bénéficie d’une pension de vieillesse, d’invalidité ou d’orphelin ou qu’elle n’ait atteint l’âge de soixante-cinq ans.
 
 2. L’article 17, alinéa 1er, est modifié comme suit:
 
@@ -251,13 +251,13 @@ La loi modifiée du 30 juin 1976 portant
 
 2. Pour l’exercice 1994, les taux prévus à l’article 7 sont fixés comme suit:
 
-- le taux prévu au paragraphe 1 er de l’article 7 est porté de 101% à 102,5%;
+- le taux prévu au paragraphe 1er de l’article 7 est porté de 101% à 102,5%;
 
 - le taux prévu au paragraphe 2 de l’article 7 est porté de 1% à 2,5%.
 
 3. A partir du 1er janvier 1995, les taux prévus à l’article 7 sont fixés comme suit:
 
-- le taux prévu au paragraphe 1 er de l’article 7 est porté de 102,5% à 104%
+- le taux prévu au paragraphe 1er de l’article 7 est porté de 102,5% à 104%
 
 - le taux prévu au paragraphe 2 de l’article 7 est porté de 2,5% à 4%.
 

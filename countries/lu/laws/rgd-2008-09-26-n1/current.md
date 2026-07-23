@@ -107,9 +107,17 @@ Les membres de l’escorte bénéficient d’une formation spécifique adaptée 
 
 Le règlement grand-ducal du 21 décembre 2006 portant transposition de la directive 2003/110/CE du Conseil du 25 novembre 2003 concernant l’assistance au transit dans le cadre de mesures d’éloignement par voie aérienne est modifié comme suit:
 
-- A l’article 1 er est ajouté un paragraphe 3 libellé de la façon suivante: (3) Le présent règlement définit les mesures d’assistance dont bénéficie l’étranger maintenu en zone d’attente.
+- A l’article 1er est ajouté un paragraphe 3 libellé de la façon suivante:
 
-- A l’article 5 est ajouté un nouveau paragraphe 8 de la teneur suivante: (8) Les mesures prévues au paragraphe 3 qui précède sont applicables aux étrangers maintenus en zone d’attente.
+(3)
+
+Le présent règlement définit les mesures d’assistance dont bénéficie l’étranger maintenu en zone d’attente.
+
+- A l’article 5 est ajouté un nouveau paragraphe 8 de la teneur suivante:
+
+(8)
+
+Les mesures prévues au paragraphe 3 qui précède sont applicables aux étrangers maintenus en zone d’attente.
 
 <a id="art-11"></a>
 ## Art. 11.

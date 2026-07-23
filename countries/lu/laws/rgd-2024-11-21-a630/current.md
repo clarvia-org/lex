@@ -248,11 +248,11 @@ Les conditions suivantes ayant trait à la protection de la biodiversité doiven
 
 - Le sursemis sur des surfaces de biotopes C dans les zones Natura 2000 est interdit sauf autorisation préalable. La demande d’autorisation est à adresser au Service d’économie rurale qui consulte l’Administration de la nature et des forêts.
 
-- Les travaux d’entretien des prairies tel que l’étaupinage, l’ébousage ou l’hersage pouvant perturber les oiseaux nicheurs au sol sont interdits entre le 15 avril et le 1 er juillet dans les zones Natura 2000.
+- Les travaux d’entretien des prairies tel que l’étaupinage, l’ébousage ou l’hersage pouvant perturber les oiseaux nicheurs au sol sont interdits entre le 15 avril et le 1er juillet dans les zones Natura 2000.
 
 - 5 pour cent au moins de la surface en prairies permanentes doit être constitué de surfaces d’intérêt écologique « entretien du paysage ». Lorsque les 5 pour cent ne sont pas atteints, peuvent être comptabilisées les surfaces en prairies permanentes suivantes :
 
-  - les prairies et pâturages non-productifs retenus dans les deux variantes dans le cadre du régime d’aide prévu au chapitre 8, section 1 re , du règlement grand-ducal du 22 décembre 2023 portant application de règles relatives aux paiements directs prévus par la loi du 2 août 2023 concernant le soutien au développement durable des zones rurales ;
+  - les prairies et pâturages non-productifs retenus dans les deux variantes dans le cadre du régime d’aide prévu au chapitre 8, section 1re, du règlement grand-ducal du 22 décembre 2023 portant application de règles relatives aux paiements directs prévus par la loi du 2 août 2023 concernant le soutien au développement durable des zones rurales ;
 
   - les bandes non productives sur prairies de fauche et pâturages retenus dans le cadre du régime d’aide prévus au chapitre 8, section 2, du règlement grand-ducal du 22 décembre 2023 portant application de règles relatives aux paiements directs prévus par la loi du 2 août 2023 concernant le soutien au développement durable des zones rurales ;
 
@@ -486,7 +486,7 @@ Pour les productions auxquelles ces règlements ne sont pas applicables, le cahi
 
 L’allocation de l’aide est subordonnée au respect des conditions d’allocation suivantes :
 
-- Le labour des prairies permanentes dans les zones sensibles est soumis aux conditions prévues à l’article 11, paragraphe 1 er , alinéa 1 er , point 1°.
+- Le labour des prairies permanentes dans les zones sensibles est soumis aux conditions prévues à l’article 11, paragraphe 1er, alinéa 1er, point 1°.
 
 - En viticulture la lutte biologique contre le ver de la grappe au moyen de diffuseurs de phéromones synthétiques est obligatoire.
 
@@ -531,7 +531,7 @@ Pour la mesure concernant l’épandeur à sabots (code 544-1), l’allocation d
 
 - Le lisier, le purin et le digestat liquide épandus à l’aide de l’épandeur à sabots doivent être incorporés dans un délai de quatre heures si la parcelle n’est pas ensemencée au moment de l’épandage.
 
-- L’agriculteur qui ne dispose pas d’un épandeur à sabots doit fournir les factures attestant l’exécution de l’opération avant le 1 er janvier de l’année culturale suivante.
+- L’agriculteur qui ne dispose pas d’un épandeur à sabots doit fournir les factures attestant l’exécution de l’opération avant le 1er janvier de l’année culturale suivante.
 
 <a id="art-27"></a>
 ## Art. 27.
@@ -544,7 +544,7 @@ Pour la mesure concernant l’injection dans le sol, y inclus injecteur Strip-Ti
 
 - La quantité de lisier, de purin et de digestat liquide restante qui n’est pas épandue par un injecteur, doit être épandue avec un épandeur à sabots selon les conditions décrites à l’article 26.
 
-- L’agriculteur qui ne dispose pas du matériel requis doit fournir les factures attestant l’exécution de l’opération avant le 1 er janvier de l’année culturale suivante.
+- L’agriculteur qui ne dispose pas du matériel requis doit fournir les factures attestant l’exécution de l’opération avant le 1er janvier de l’année culturale suivante.
 
 <a id="art-28"></a>
 ## Art. 28.
@@ -553,7 +553,7 @@ Pour la mesure concernant l’injection dans le sol, y inclus injecteurs Strip-T
 
 - Un mélange composé de lisier et d’engrais liquide minéral doit être épandu selon la méthode CULTAN.
 
-- L’agriculteur qui ne dispose pas du matériel requis doit fournir les factures et le carnet parcellaire attestant l’exécution de l’opération avant le 1 er janvier de l’année culturale suivante. L’agriculteur disposant lui-même du matériel requis doit fournir le carnet parcellaire.
+- L’agriculteur qui ne dispose pas du matériel requis doit fournir les factures et le carnet parcellaire attestant l’exécution de l’opération avant le 1er janvier de l’année culturale suivante. L’agriculteur disposant lui-même du matériel requis doit fournir le carnet parcellaire.
 
 <a id="art-29"></a>
 ## Art. 29.
@@ -562,7 +562,7 @@ Pour la mesure concernant les injecteurs minéraux par roue selon le principe CU
 
 - Les fertilisants minéraux liquides doivent être épandus au moyen d’un injecteur à roues aiguilles selon la méthode CULTAN.
 
-- L’agriculteur qui ne dispose pas du matériel requis doit fournir les factures et le carnet parcellaire attestant l’exécution de l’opération avant le 1 er janvier de l’année culturale suivante. L’agriculteur disposant lui-même du matériel requis doit fournir le carnet parcellaire.
+- L’agriculteur qui ne dispose pas du matériel requis doit fournir les factures et le carnet parcellaire attestant l’exécution de l’opération avant le 1er janvier de l’année culturale suivante. L’agriculteur disposant lui-même du matériel requis doit fournir le carnet parcellaire.
 
 <a id="art-30"></a>
 ## Art. 30.
@@ -571,7 +571,7 @@ Pour la mesure concernant le compostage du fumier (code 544--5), l’allocation 
 
 - Du fumier solide doit être composté à l’aide d’un retourneur d’andains.
 
-- L’agriculteur qui ne dispose pas d’un retourneur d’andains autopropulsé doit fournir les pièces attestant l’exécution de l’opération avant le 1 er janvier de l’année culturale.
+- L’agriculteur qui ne dispose pas d’un retourneur d’andains autopropulsé doit fournir les pièces attestant l’exécution de l’opération avant le 1er janvier de l’année culturale.
 
 <a id="art-31"></a>
 ## Art. 31.
@@ -725,7 +725,7 @@ L’allocation de l’aide est subordonnée au respect des conditions d’admiss
 
 L’allocation de l’aide est subordonnée au respect des conditions d’allocation suivantes :
 
-- La condition prévue au paragraphe 1 er , point 3°, doit être respectée pendant toute la durée de l’engagement.
+- La condition prévue au paragraphe 1er, point 3°, doit être respectée pendant toute la durée de l’engagement.
 
 - Pour chaque parcelle déclarée, la période de pâturage doit être au moins de trois mois et se situer entre le 15 mars et le 15 novembre. La période de pâturage est flexible au sein de la période susmentionnée, compte tenu des conditions climatiques et de la disponibilité de l’herbe. Les parcelles sur lesquelles porte l’obligation sont déclarées chaque année par l’agriculteur dans la déclaration de surface. Seules les parcelles situées au Luxembourg peuvent être déclarées.
 
@@ -754,7 +754,13 @@ Aux fins du calcul de l’aide :
 
 - s’y ajoute une progéniture limitée au nombre de vaches éligibles, ce nombre de bovins étant constitué en premier lieu des bovins supérieurs à deux ans et ensuite des bovins de un à deux ans ;
 
-- le nombre d’animaux éligibles en application des points 1° et 2° est converti en unités de gros bétail selon le tableau de conversion suivant et les catégories d’animaux converties sont additionnées : vaches laitières 1,00 UGB/tête vaches allaitantes 1,00 UGB/tête bovins supérieurs à deux ans 0,50 UGB/tête bovins de un à 2 ans 0,30 UGB/tête ;
+- le nombre d’animaux éligibles en application des points 1° et 2° est converti en unités de gros bétail selon le tableau de conversion suivant et les catégories d’animaux converties sont additionnées :
+
+| vaches laitières | 1,00 UGB/tête |
+| --- | --- |
+| vaches allaitantes | 1,00 UGB/tête |
+| bovins supérieurs à deux ans | 0,50 UGB/tête |
+| bovins de un à 2 ans | 0,30 UGB/tête ; |
 
 - le résultat en unités de gros bétail calculé en application du point 3° est converti en surface pâturée, une unité de gros bétail correspondant à un hectare ;
 
@@ -910,7 +916,7 @@ L’allocation de l’aide est subordonnée au respect des conditions d’admiss
 
 - Le régime d’aide visant à encourager l’élevage des races menacées s’applique aux races suivantes : cheval de trait ardennais, Pie-rouge de l’Oesling et mouton ardennais.
 
-- L’éleveur d’animaux doit participer à un programme de sélection approuvé en vertu du règlement (UE) 2016/1012 du Parlement européen et du Conseil du 8 juin 2016 relatif aux conditions zootechniques et généalogiques applicables à l’élevage, aux échanges et à l’entrée dans l’Union de reproducteurs de race pure, de reproducteurs porcins hybrides et de leurs produits germinaux et modifiant le règlement (UE) n° 652/2014 et les directives du Conseil 89/608/CEE et 90/425/CEE , et abrogeant certains actes dans le domaine de l’élevage d’animaux (« règlement relatif à l’élevage d’animaux »).
+- L’éleveur d’animaux doit participer à un programme de sélection approuvé en vertu du règlement (UE) 2016/1012 du Parlement européen et du Conseil du 8 juin 2016 relatif aux conditions zootechniques et généalogiques applicables à l’élevage, aux échanges et à l’entrée dans l’Union de reproducteurs de race pure, de reproducteurs porcins hybrides et de leurs produits germinaux et modifiant le règlement (UE) n° 652/2014 et les directives du Conseil 89/608/CEE et 90/425/CEE, et abrogeant certains actes dans le domaine de l’élevage d’animaux (« règlement relatif à l’élevage d’animaux »).
 
 - L’âge minimal des animaux est de vingt-quatre mois pour les équins et les bovins et de six mois pour les ovins.
 
@@ -1028,7 +1034,7 @@ L’allocation de l’aide en faveur de la mise en place est subordonnée au res
 
 L’allocation de l’aide en faveur de l’entretien est subordonnée au respect des conditions d’allocation suivantes :
 
-- L’entretien comprend le broyage des bandes séparant les plantations des cultures, le remplacement de plantes dépérissantes, l’arrosage en cas de nécessité et la taille des arbres. Les travaux d’entretien sont à effectuer pendant la période du 1 er octobre au 1 er mars.
+- L’entretien comprend le broyage des bandes séparant les plantations des cultures, le remplacement de plantes dépérissantes, l’arrosage en cas de nécessité et la taille des arbres. Les travaux d’entretien sont à effectuer pendant la période du 1er octobre au 1er mars.
 
 - La taille des arbres doit être garantie au moins une fois pendant la durée de l’engagement par une personne qualifiée.
 
@@ -1090,7 +1096,7 @@ La demande d’adhésion concernant les aides visées au chapitre 2 est refusée
 
 - le cheptel bovin, ovin, caprin et équin dépasse 1,8 unité de gros bétail par hectare de la surface agricole totale de l’exploitation ;
 
-- l’agriculteur ne respecte pas la condition prévue à l’annexe VII, point 1°, alinéa 1 er , du règlement grand-ducal du 22 décembre 2023 portant introduction de règles communes à certaines interventions financières prévues par la loi du 2 août 2023 concernant le soutien au développement durable des zones rurales ;
+- l’agriculteur ne respecte pas la condition prévue à l’annexe VII, point 1°, alinéa 1er, du règlement grand-ducal du 22 décembre 2023 portant introduction de règles communes à certaines interventions financières prévues par la loi du 2 août 2023 concernant le soutien au développement durable des zones rurales ;
 
 - l’agriculteur ne respecte pas les normes de fertilisation pour la fumure au phosphore telles que définies à l’annexe I, point 1° ;
 
@@ -1223,7 +1229,7 @@ Sans préjudice des dispositions de l’alinéa 2, il continue cependant de s’
 
 Aux fins de l’article 13, point 2°, du règlement grand-ducal précité du 24 août 2016, et dans le cas où les engagements souscrits sous le régime du dudit règlement continuent à produire leurs effets suivant les conditions convenues jusqu’à leur expiration, peuvent être comptabilisées les surfaces en prairies permanentes suivantes :
 
-- les prairies et pâturages non productifs retenus dans les deux variantes dans le cadre du régime d’aide prévus au chapitre 8, section 1 re , du règlement grand-ducal du 22 décembre 2023 portant application de règles relatives aux paiements directs prévus par la loi du 2 août 2023 concernant le soutien au développement durable des zones rurales ;
+- les prairies et pâturages non productifs retenus dans les deux variantes dans le cadre du régime d’aide prévus au chapitre 8, section 1re, du règlement grand-ducal du 22 décembre 2023 portant application de règles relatives aux paiements directs prévus par la loi du 2 août 2023 concernant le soutien au développement durable des zones rurales ;
 
 - les bandes non productives sur prairies de fauche et pâturages retenus dans le cadre du régime d’aide prévus au chapitre 8, section 2, du règlement grand-ducal du 22 décembre 2023 portant application de règles relatives aux paiements directs prévus par la loi du 2 août 2023 concernant le soutien au développement durable des zones rurales ;
 

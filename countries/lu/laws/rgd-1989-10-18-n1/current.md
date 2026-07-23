@@ -63,9 +63,9 @@ Participent au référendum comme votants les personnes qui possèdent la qualit
 
 De la formation des collèges électoraux
 
-- Les électeurs votent au chef-lieu de la commune ou dans les localités de vote déterminées conformément à la loi électorale .
+- Les électeurs votent au chef-lieu de la commune ou dans les localités de vote déterminées conformément à la loi électorale.
 
-- Les collèges électoraux sont formés conformément à la loi électorale .
+- Les collèges électoraux sont formés conformément à la loi électorale.
 
 <a id="art-5"></a>
 ## Art. 5.
@@ -109,7 +109,7 @@ De la convocation des électeurs
 
 De l´installation des bureaux
 
-- Le bureau et les compartiments dans lesquels les électeurs expriment leur vote sont établis conformément au dessin-modèle annexé à la loi électorale . Toutefois les dimensions et le dispositif peuvent être modifiés selon que l´exige l´état des locaux.
+- Le bureau et les compartiments dans lesquels les électeurs expriment leur vote sont établis conformément au dessin-modèle annexé à la loi électorale. Toutefois les dimensions et le dispositif peuvent être modifiés selon que l´exige l´état des locaux.
 
 - II y a un compartiment ou pupitre isolé pour deux cents électeurs.
 
@@ -202,7 +202,12 @@ Du dépouillement du scrutin et de la proclamation du résultat du référendum
 
 - Le bureau principal, après avoir recueilli les procès-verbaux des bureaux sectionnaires de la commune et procédé au recensement général des votes, proclame le ou les résultats du référendum.
 
-- Le procès-verbal du référendum, dressé par le bureau principal et signé par le président, les assesseurs et le secrétaire, est immédiatement envoyé, sous pli recommandé, avec les procès-verbaux des bureaux sectionnaires et toutes autres pièces à l´appui, à l´exclusion des bulletins de vote, au commissaire de district qui transmet le tout au Gouvernement avec ses observations éventuelles. Un double du procès-verbal du référendum signé comme l´original est déposé au secrétariat de la commune où chacun peut en prendre connaissance. Toutes les enveloppes renfermant les bulletins de vote sont réunies séance tenante et à l´exclusion de toutes autres pièces en un ou plusieurs paquets qui porteront pour suscription, outre l´adresse du destinataire: «Commune de Référendum du Bulletins de vote.» Les bulletins ainsi réunis, sont expédiés directement, par envoi recommandé, au Ministre du service par les soins du président du bureau principal. Les bulletins sont détruits lorsqu´il a été définitivement statué sur le référendum.
+- Le procès-verbal du référendum, dressé par le bureau principal et signé par le président, les assesseurs et le secrétaire, est immédiatement envoyé, sous pli recommandé, avec les procès-verbaux des bureaux sectionnaires et toutes autres pièces à l´appui, à l´exclusion des bulletins de vote, au commissaire de district qui transmet le tout au Gouvernement avec ses observations éventuelles. Un double du procès-verbal du référendum signé comme l´original est déposé au secrétariat de la commune où chacun peut en prendre connaissance. Toutes les enveloppes renfermant les bulletins de vote sont réunies séance tenante et à l´exclusion de toutes autres pièces en un ou plusieurs paquets qui porteront pour suscription, outre l´adresse du destinataire: Les bulletins ainsi réunis, sont expédiés directement, par envoi recommandé, au Ministre du service par les soins du président du bureau principal. Les bulletins sont détruits lorsqu´il a été définitivement statué sur le référendum.
+
+| «Commune de |
+| --- |
+| Référendum du |
+| Bulletins de vote.» |
 
 - La liste originale des électeurs déposée au bureau principal est renvoyée par le président de ce bureau au commissaire de district sous pli recommandé à la poste.
 

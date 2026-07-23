@@ -36,7 +36,7 @@ On entend dans le présent règlement:
 
 - par «enfants», les jeunes enfants et les enfants scolarisés;
 
-- par «service d'éducation et d'accueil pour enfants» ci-après appelé «service», un ensemble d'activités d'accueil de jour pour enfants au sens de la loi modifiée du 8 septembre 1998 réglant les relations entre l'Etat et les organismes oeuvrant dans les domaines social, familial et thérapeuthique. Par la suite, le texte réglementaire se référera à la loi en utilisant la forme abrégée « loi précitée du 8 septembre 1998 »;
+- par «service d'éducation et d'accueil pour enfants» ci-après appelé «service», un ensemble d'activités d'accueil de jour pour enfants au sens de la loi modifiée du 8 septembre 1998 réglant les relations entre l'Etat et les organismes oeuvrant dans les domaines social, familial et thérapeuthique. Par la suite, le texte réglementaire se référera à la loi en utilisant la forme abrégée «loi précitée du 8 septembre 1998»;
 
 - par «gestionnaire», toute personne physique ou morale chargée de la mise en oeuvre et de la gestion d'un service;
 
@@ -278,7 +278,7 @@ La commission se réunit sur convocation du président et elle accomplit les mis
 
 - proposer au ministre une liste des professions de santé qui sont éligibles en tant que personnel dirigeant au sens de l’alinéa 2 de l’article 8 ;
 
-- donner son avis au ministre pour lui permettre de déterminer la qualification professionnelle suite à la demande du requérant par rapport aux paragraphes 1 er et 2 de l’article 7 au cas où la qualification professionnelle du requérant ne figure pas sur les listes visées aux points a) et b).
+- donner son avis au ministre pour lui permettre de déterminer la qualification professionnelle suite à la demande du requérant par rapport aux paragraphes 1er et 2 de l’article 7 au cas où la qualification professionnelle du requérant ne figure pas sur les listes visées aux points a) et b).
 
 La commission se dote d’un règlement d’ordre interne et arrête les procédures et critères relatifs à l’accomplissement de ses missions.
 
@@ -347,9 +347,9 @@ La surface totale nette des locaux de séjour disponibles représente la surface
 
 La capacité d'accueil maximale du service est calculée en divisant la surface totale nette des locaux de séjour disponibles pour l'exécution des prestations d'un service telles que définies à l'article 2 par le nombre de mètres carrés (m2) attribué par enfant selon les dispositions suivantes:
 
-- Pour les jeunes enfants la superficie totale nette des locaux de séjour et de repos disponibles attribués pour l'exécution de l'activité d'un service accueillant des jeunes enfants est de 4 m 2 par enfant. Les dortoirs destinés aux enfants âgés de moins de 2 ans ne sont pas considérés pour le calcul de la capacité d'accueil maximale. Les locaux servant à l'exécution des prestations visées à l'article 2 ne peuvent comprendre plus de douze enfants âgés de moins de deux ans ou plus de seize enfants âgés entre deux et quatre ans. Les locaux servant à l'exécution des prestations visées à l'article 2 peuvent toutefois regrouper des enfants appartenant à différentes classes d'âge sans dépasser un nombre maximal de douze enfants.
+- Pour les jeunes enfants la superficie totale nette des locaux de séjour et de repos disponibles attribués pour l'exécution de l'activité d'un service accueillant des jeunes enfants est de 4 m2 par enfant. Les dortoirs destinés aux enfants âgés de moins de 2 ans ne sont pas considérés pour le calcul de la capacité d'accueil maximale. Les locaux servant à l'exécution des prestations visées à l'article 2 ne peuvent comprendre plus de douze enfants âgés de moins de deux ans ou plus de seize enfants âgés entre deux et quatre ans. Les locaux servant à l'exécution des prestations visées à l'article 2 peuvent toutefois regrouper des enfants appartenant à différentes classes d'âge sans dépasser un nombre maximal de douze enfants.
 
-- Pour les enfants scolarisés la superficie totale nette des locaux de séjour et de détente disponibles attribués pour l'exécution de l'activité d'un service accueillant des enfants scolarisés doit comprendre au moins 3 m 2 par enfant. Pour le calcul de la capacité d'accueil maximale ne sont pas considérés les halls sportifs et les centres culturels. Lorsque le gestionnaire peut recourir pour l'exercice de l'activité du service à un hall sportif ou à un centre culturel et sous réserve que ces locaux ne soient pas détournés de leur attribution initiale, la capacité d'accueil maximale peut être augmentée de trente pour cent.
+- Pour les enfants scolarisés la superficie totale nette des locaux de séjour et de détente disponibles attribués pour l'exécution de l'activité d'un service accueillant des enfants scolarisés doit comprendre au moins 3 m2 par enfant. Pour le calcul de la capacité d'accueil maximale ne sont pas considérés les halls sportifs et les centres culturels. Lorsque le gestionnaire peut recourir pour l'exercice de l'activité du service à un hall sportif ou à un centre culturel et sous réserve que ces locaux ne soient pas détournés de leur attribution initiale, la capacité d'accueil maximale peut être augmentée de trente pour cent.
 
 - La capacité d'accueil maximale d'enfants ainsi que les normes d'encadrement légales en vigueur d'encadrement doivent être affichés visiblement dans le hall d'entrée du service.
 
@@ -443,11 +443,11 @@ A titre d'exception et pour des raisons dûment motivées, le ministre ayant la 
 
 À l’expiration de la période transitoire prévue par l’article 23, la personne physique ou morale ayant obtenu un agrément en application 1) des prescriptions du règlement grand-ducal modifié du 20 décembre 2001 portant exécution des articles 1er et 2 de la loi précitée du 8 septembre 1998 pour ce qui concerne l’agrément gouvernemental à accorder aux gestionnaires de structures d’accueil sans hébergement pour enfants ou 2) des prescriptions du règlement grand-ducal modifié du 20 juillet 2005 concernant l’agrément à accorder aux gestionnaires de maison relais peut bénéficier d’une dérogation par rapport aux dispositions suivantes du présent règlement grand-ducal :
 
-- la superficie totale nette des locaux de séjour pour jeunes enfants suivant le point a) du paragraphe 2 de l’article 13 (4 m 2 jeunes enfants)
+- la superficie totale nette des locaux de séjour pour jeunes enfants suivant le point a) du paragraphe 2 de l’article 13 (4 m2 jeunes enfants)
 
 - conditions relatives à l’aire de jeu extérieure telle que définie par le paragraphe 3 de l’article 13
 
-- la surface du dortoir visée par l’alinéa 1 er de l’article 16 (pour jeunes enfants âgés de moins de deux ans)
+- la surface du dortoir visée par l’alinéa 1er de l’article 16 (pour jeunes enfants âgés de moins de deux ans)
 
 - l’espace à prévoir pour landaus et poussettes visé par l’alinéa 3 de l’article 19.
 

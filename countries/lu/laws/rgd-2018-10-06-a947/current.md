@@ -93,7 +93,7 @@ L’application au personnel de la Caisse pour l’avenir des enfants des dispos
 
 - les termes « salariés de l’État » sont à remplacer par les termes « salariés assimilés aux salariés de l’État » ;
 
-- sans préjudice des dispositions de l’article 1 er point a) et des dispositions du présent article, les compétences dévolues au Grand-Duc, au Gouvernement, au Conseil de Gouvernement, au ministre du ressort et à l’autorité investie du pouvoir de nomination sont exercées par le conseil d’administration de la Caisse pour l’avenir des enfants ;
+- sans préjudice des dispositions de l’article 1er point a) et des dispositions du présent article, les compétences dévolues au Grand-Duc, au Gouvernement, au Conseil de Gouvernement, au ministre du ressort et à l’autorité investie du pouvoir de nomination sont exercées par le conseil d’administration de la Caisse pour l’avenir des enfants ;
 
 - les compétences dévolues au ministre ayant dans ses attributions la Fonction publique par la loi modifiée du 25 mars 2015 déterminant le régime et les indemnités des employés de l’État, excepté celles concernant la commission d’appréciation des performances professionnelles, sont exercées par le conseil d’administration de la Caisse pour l’avenir des enfants, l’avis du ministre du ressort n’étant pas requis ;
 
@@ -139,7 +139,7 @@ L’examen de fin de stage sanctionnant la formation spéciale des fonctionnaire
 
 - Connaissances générales en matière de sécurité sociale et connaissances détaillées sur la législation et la réglementation nationale et internationale de même que sur l’organisation, les missions, les attributions et la gestion de la Caisse pour l’avenir des enfants (60 points) ;
 
-- Rédaction d’un mémoire sur un sujet fixé par la commission d’examen ( 60 points ).
+- Rédaction d’un mémoire sur un sujet fixé par la commission d’examen (60 points ).
 
 (2)
 
@@ -147,7 +147,7 @@ L’examen de fin de stage sanctionnant la formation spéciale des fonctionnaire
 
 - Connaissances générales en matière de sécurité sociale et connaissances détaillées sur la législation et la réglementation nationale et internationale de même que sur l’organisation, les missions, les attributions et la gestion de la Caisse pour l’avenir des enfants (60 points) ;
 
-- Rédaction d’un mémoire sur un sujet fixé par la commission d’examen ( 60 points ).
+- Rédaction d’un mémoire sur un sujet fixé par la commission d’examen (60 points ).
 
 <a id="art-8"></a>
 ## Art. 8.
@@ -156,9 +156,9 @@ L’examen de fin de stage sanctionnant la formation spéciale des fonctionnaire
 
 L’examen de fin de stage sanctionnant la formation spéciale des fonctionnaires assimilés aux fonctionnaires de l’État relevant de la catégorie de traitement B, groupe de traitement B1, porte sur les matières suivantes :
 
-- Connaissances générales sur la législation et la réglementation nationale et internationale applicables à la Caisse pour l’avenir des enfants ( 60 points ) ;
+- Connaissances générales sur la législation et la réglementation nationale et internationale applicables à la Caisse pour l’avenir des enfants (60 points ) ;
 
-- Connaissances détaillées en relation avec les missions du candidat (60 points) .
+- Connaissances détaillées en relation avec les missions du candidat (60 points).
 
 - Rédaction de textes administratifs (60 points).
 
@@ -166,7 +166,7 @@ L’examen de fin de stage sanctionnant la formation spéciale des fonctionnaire
 
 L’examen de promotion des fonctionnaires assimilés aux fonctionnaires de l’État relevant de la catégorie de traitement B, groupe de traitement B1, porte sur la matière suivante :
 
-- Rédaction d’une note administrative ( 60 points ) .
+- Rédaction d’une note administrative (60 points ) .
 
 <a id="art-9"></a>
 ## Art. 9.
@@ -175,7 +175,7 @@ L’examen de promotion des fonctionnaires assimilés aux fonctionnaires de l’
 
 L’examen de fin de stage sanctionnant la formation spéciale des fonctionnaires assimilés aux fonctionnaires de l’État relevant de la catégorie de traitement C, groupe de traitement C1, porte sur les matières suivantes :
 
-- Connaissances générales sur la législation et la réglementation nationale applicables à la Caisse pour l’avenir des enfants ( 60 points ) ;
+- Connaissances générales sur la législation et la réglementation nationale applicables à la Caisse pour l’avenir des enfants (60 points ) ;
 
 - Connaissances détaillées en relation avec les missions du candidat (60 points).
 
@@ -183,7 +183,7 @@ L’examen de fin de stage sanctionnant la formation spéciale des fonctionnaire
 
 L’examen de promotion des fonctionnaires assimilés aux fonctionnaires de l’État relevant de la catégorie de traitement C, groupe de traitement C1, porte sur la matière suivante :
 
-- Rédaction de textes administratifs ( 60 points ).
+- Rédaction de textes administratifs (60 points ).
 
 <a id="art-10"></a>
 ## Art. 10.
@@ -194,7 +194,7 @@ L’examen de fin de stage sanctionnant la formation spéciale des fonctionnaire
 
 - Notions générales en matière de sécurité sociale (60 points) ;
 
-- Pratique professionnelle ( 60 points ).
+- Pratique professionnelle (60 points ).
 
 (2)
 
@@ -202,16 +202,16 @@ L’examen de promotion des fonctionnaires assimilés aux fonctionnaires de l’
 
 - Rapports en relation avec les missions du candidat (60 points) ;
 
-- Pratique professionnelle ( 60 points ).
+- Pratique professionnelle (60 points ).
 
 <a id="art-11"></a>
 ## Art. 11.
 
 L’examen de carrière des employés de l’État assimilés aux employés de l’État relevant de la catégorie d’indemnité B, groupe d’indemnité B1, porte sur les matières suivantes :
 
-- Connaissances générales sur la législation et la réglementation nationale et internationale applicables à la Caisse pour l’avenir des enfants ( 60 points ) ;
+- Connaissances générales sur la législation et la réglementation nationale et internationale applicables à la Caisse pour l’avenir des enfants (60 points ) ;
 
-- Connaissances détaillées en relation avec les missions du candidat (60 points) .
+- Connaissances détaillées en relation avec les missions du candidat (60 points).
 
 - Rédaction de textes administratifs (60 points).
 
@@ -220,7 +220,7 @@ L’examen de carrière des employés de l’État assimilés aux employés de l
 
 L’examen de carrière des employés assimilés aux employés de l’État relevant de la catégorie d’indemnité C, groupe d’indemnité C1, porte sur les matières suivantes :
 
-- Connaissances générales sur la législation et la réglementation nationale applicables à la Caisse pour l’avenir des enfants ( 60 points ) ;
+- Connaissances générales sur la législation et la réglementation nationale applicables à la Caisse pour l’avenir des enfants (60 points ) ;
 
 - Connaissances détaillées en relation avec les missions du candidat (60 points).
 
@@ -231,7 +231,7 @@ L’examen de carrière des employés assimilés aux employés de l’État rele
 
 - Notions générales en matière de sécurité sociale (60 points) ;
 
-- Pratique professionnelle ( 60 points ).
+- Pratique professionnelle (60 points ).
 
 #### Chapitre 6 Modalités des examens
 

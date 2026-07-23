@@ -143,7 +143,7 @@ Pendant une période transitoire qui s'étendra sur la période correspondant à
 
 Pendant la période transitoire visée au paragraphe (1), l'élection du conseil communal de la commune de Clervaux sera organisée suivant le système de la majorité relative conformément aux dispositions de la loi électorale modifiée du 18 février 2003, sous réserve des règles qui suivent.
 
-- Pour les besoins de la cause les termes «transfert du domicile d'un membre du conseil communal hors du territoire de la commune» qui figurent au 1 er alinéa de l'article 189 sont remplacés par les termes «transfert du domicile d'un membre du conseil communal hors du territoire de la section de commune».
+- Pour les besoins de la cause les termes «transfert du domicile d'un membre du conseil communal hors du territoire de la commune» qui figurent au 1er alinéa de l'article 189 sont remplacés par les termes «transfert du domicile d'un membre du conseil communal hors du territoire de la section de commune».
 
 - La condition de résidence de six mois fixée par l'article 192 pour être éligible est remplie en l'occurrence par les personnes qui ont leur résidence habituelle depuis six mois respectivement dans les sections de Clervaux, de Heinerscheid ou de Munshausen, telles que ces sections sont définies au point (1) ci-dessus.
 

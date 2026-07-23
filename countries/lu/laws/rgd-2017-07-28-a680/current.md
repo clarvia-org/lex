@@ -107,7 +107,7 @@ L’employé communal qui bénéficie d’un contrat de travail à durée indét
 
 - Le conseil communal prononce la résiliation du contrat, à titre de mesure disciplinaire, après décision conforme du conseil de discipline institué pour les fonctionnaires communaux. Le conseil de discipline procède conformément aux dispositions légales qui déterminent son organisation et son fonctionnement.
 
-- Sans préjudice des paragraphes 1 et 2, le conseil communal est en droit de résilier le contrat en cas d’absence prolongée ou d’absences répétées pour raison de santé de l’employé communal qui ne bénéficie pas encore du régime de pension des fonctionnaires communaux. Le collège des bourgmestre et échevins déclenche la procédure de résiliation lorsque, au cours d’une période de douze mois, l’employé communal a été absent pour raison de santé pendant six mois consécutifs ou non. À cet effet, et avant de prendre sa décision, il saisit la Caisse nationale d’Assurance Pension pour qu’elle se prononce sur l’invalidité professionnelle de l’employé communal au sens des dispositions du Code de la sécurité sociale . Sont mises en compte pour une journée entière toutes les journées d’absences pour cause de maladie, même si ces absences ne couvrent pas des journées entières. Au moins deux mois avant l’écoulement du délai de six mois d’absences pour raisons de santé et du déclenchement prévu de ladite procédure prévus à l’alinéa 1er, le collège des bourgmestre et échevins informe l’employé concerné de l’approche de ce délai de six mois. L’employé peut demander, sur base d’un rapport médical circonstancié de son médecin traitant, une prolongation du délai précité d’une durée de trois mois supplémentaires. Sur base de ce rapport médical, le collège des bourgmestre et échevins décide du moment de déclencher la procédure de résiliation.
+- Sans préjudice des paragraphes 1 et 2, le conseil communal est en droit de résilier le contrat en cas d’absence prolongée ou d’absences répétées pour raison de santé de l’employé communal qui ne bénéficie pas encore du régime de pension des fonctionnaires communaux. Le collège des bourgmestre et échevins déclenche la procédure de résiliation lorsque, au cours d’une période de douze mois, l’employé communal a été absent pour raison de santé pendant six mois consécutifs ou non. À cet effet, et avant de prendre sa décision, il saisit la Caisse nationale d’Assurance Pension pour qu’elle se prononce sur l’invalidité professionnelle de l’employé communal au sens des dispositions du Code de la sécurité sociale. Sont mises en compte pour une journée entière toutes les journées d’absences pour cause de maladie, même si ces absences ne couvrent pas des journées entières. Au moins deux mois avant l’écoulement du délai de six mois d’absences pour raisons de santé et du déclenchement prévu de ladite procédure prévus à l’alinéa 1er, le collège des bourgmestre et échevins informe l’employé concerné de l’approche de ce délai de six mois. L’employé peut demander, sur base d’un rapport médical circonstancié de son médecin traitant, une prolongation du délai précité d’une durée de trois mois supplémentaires. Sur base de ce rapport médical, le collège des bourgmestre et échevins décide du moment de déclencher la procédure de résiliation.
 
 <a id="art-8"></a>
 ## Art. 8.
@@ -151,7 +151,7 @@ Les communes transmettent à la caisse de prévoyance des fonctionnaires et empl
 
 Les périodes visées aux points a), c) et d) sont mises en compte à condition qu’elles se succèdent sans interruption et qu’elles rejoignent sans interruption la période prestée en qualité d’employé communal sous contrat à durée indéterminée. L’interruption de cette dernière période ne nuit pas à la prise en compte des périodes antérieures passées au service d’une commune ou de l’État, lorsqu’il y a reprise de service ultérieure.
 
-- Si, par application des articles 31.1 et 32.1 de la loi modifiée du 24 décembre 1985 fixant le statut général des fonctionnaires communaux, l’employé communal, qui ne remplit pas encore les conditions prévues à l’article 8.1 du présent règlement, bénéficie d’un congé sans traitement ou d’un congé pour travail à mi-temps, la commune prend à charge, pendant les deux années consécutives au congé de maternité ou au congé d’accueil, les cotisations correspondant à l’indemnité intégrale qui aurait été due pendant ces périodes, en vue de la continuation de l’assurance conformément à l’article 173 du Code de la sécurité sociale .
+- Si, par application des articles 31.1 et 32.1 de la loi modifiée du 24 décembre 1985 fixant le statut général des fonctionnaires communaux, l’employé communal, qui ne remplit pas encore les conditions prévues à l’article 8.1 du présent règlement, bénéficie d’un congé sans traitement ou d’un congé pour travail à mi-temps, la commune prend à charge, pendant les deux années consécutives au congé de maternité ou au congé d’accueil, les cotisations correspondant à l’indemnité intégrale qui aurait été due pendant ces périodes, en vue de la continuation de l’assurance conformément à l’article 173 du Code de la sécurité sociale.
 
 <a id="art-10"></a>
 ## Art. 10.
@@ -255,7 +255,7 @@ Une réduction de la période prévue au paragraphe 1er et de la période d’in
 <a id="art-21"></a>
 ## Art. 21.
 
-- Dès la fin de la période prévue à l’article 20, paragraphe 1 er , l’employé bénéficie d’office d’une bonification d’ancienneté de service conformément aux dispositions prévues par l’article 5 du règlement grand-ducal du 28 juillet 2017 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires communaux, sous réserve de l’application des alinéas ci-après.
+- Dès la fin de la période prévue à l’article 20, paragraphe 1er , l’employé bénéficie d’office d’une bonification d’ancienneté de service conformément aux dispositions prévues par l’article 5 du règlement grand-ducal du 28 juillet 2017 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires communaux, sous réserve de l’application des alinéas ci-après.
 
 Pour les employés communaux, l’expression « début de carrière» se substitue à l’expression «nomination définitive».
 
@@ -274,7 +274,7 @@ Toutefois, les employés bénéficient d’un supplément d’indemnité équiva
 
 - Sans préjudice de l’application des dispositions de l’article 19 ci-dessus, il est renvoyé, pour la détermination des catégories, groupes et sous-groupes d’indemnité, aux dispositions prévues dans la section 2 du présent chapitre.
 
-- Sans préjudice des restrictions légales ou réglementaires, l’employé bénéficie des avancements en grade conformément aux dispositions des articles 42 à 49 , dans le respect d’un délai minimal d’une année entre deux avancements en grade .
+- Sans préjudice des restrictions légales ou réglementaires, l’employé bénéficie des avancements en grade conformément aux dispositions des articles 42 à 49, dans le respect d’un délai minimal d’une année entre deux avancements en grade .
 
 - Par avancement en grade au sens du présent règlement, il y a lieu d’entendre l’accès de l’employé à un grade hiérarchiquement supérieur de son sous-groupe d’indemnité après un nombre déterminé d’années de bons et loyaux services à compter du début de carrière.
 
@@ -290,7 +290,7 @@ En cas d’avancement en grade, le temps que l’employé est resté dans l’é
 <a id="art-24"></a>
 ## Art. 24.
 
-- Sans préjudice de l’application des dispositions des articles qui précèdent, et à moins que le mode de calcul par voie d’avancement en grade tel que prévu à l’article 23 ne soit plus favorable, l’employé qui est classé dans un groupe d’indemnité supérieur considéré comme groupe d’indemnité correspondant à ses études ou sa formation professionnelle, bénéficie d’une reconstitution de sa carrière conformément aux principes inscrits à l’article 5 du règlement grand-ducal du 28 juillet 2017 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires communaux. En application de cette disposition, le début de carrière dans le nouveau groupe d’indemnité est considéré comme premier début de carrière, même si l’employé était antérieurement classé à un autre groupe d’indemnité. Au cas où l’employé se trouve dans la période prévue à l’article 20, paragraphe 1 er , au moment du changement de groupe d’indemnité, il bénéficie de l’indemnité telle que fixée dans son nouveau groupe d’indemnité pour une nouvelle période de service provisoire en application des dispositions du paragraphe précité . Le temps que l’employé a passé dans un groupe d’indemnité inférieur au groupe d’indemnité dont il n’a pas rempli les conditions d’admission est, dès l’admission à ce dernier groupe d’indemnité, bonifié dans sa totalité comme ancienneté de service.
+- Sans préjudice de l’application des dispositions des articles qui précèdent, et à moins que le mode de calcul par voie d’avancement en grade tel que prévu à l’article 23 ne soit plus favorable, l’employé qui est classé dans un groupe d’indemnité supérieur considéré comme groupe d’indemnité correspondant à ses études ou sa formation professionnelle, bénéficie d’une reconstitution de sa carrière conformément aux principes inscrits à l’article 5 du règlement grand-ducal du 28 juillet 2017 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires communaux. En application de cette disposition, le début de carrière dans le nouveau groupe d’indemnité est considéré comme premier début de carrière, même si l’employé était antérieurement classé à un autre groupe d’indemnité. Au cas où l’employé se trouve dans la période prévue à l’article 20, paragraphe 1er, au moment du changement de groupe d’indemnité, il bénéficie de l’indemnité telle que fixée dans son nouveau groupe d’indemnité pour une nouvelle période de service provisoire en application des dispositions du paragraphe précité . Le temps que l’employé a passé dans un groupe d’indemnité inférieur au groupe d’indemnité dont il n’a pas rempli les conditions d’admission est, dès l’admission à ce dernier groupe d’indemnité, bonifié dans sa totalité comme ancienneté de service.
 
 - Dans le cas d’un changement de groupe d’indemnité par voie d’avancement en grade, l’employé avance au grade immédiatement supérieur prévu dans le nouveau groupe d’indemnité et accessible suivant les conditions d’âge, d’examen et d’années de service à compter depuis son début de carrière initial telles que prévues pour ce groupe d’indemnité. Toutefois, les délais d’attente relatifs aux avancements en grade ultérieurs dans ce groupe d’indemnité ne peuvent être inférieurs à respectivement quatre, sept et dix ans à partir de la date du changement de groupe d’indemnité.
 
@@ -320,7 +320,7 @@ L’employé communal qui est engagé au service communal sur la base d’un nou
 
 - L’employé dont l’indemnité allouée au début de carrière est inférieure à cent cinquante points indiciaires bénéficie à partir de cette date d’un supplément d’indemnité de sept points indiciaires. Toutefois, ce supplément est réduit d’autant de points indiciaires que le total de l’indemnité et du supplément dépasse la somme de cent cinquante points indiciaires.
 
-- Pour le fonctionnaire communal ou le fonctionnaire stagiaire ou fonctionnaire de l’État ou l’employé de l’État qui est engagé en qualité d’employé communal, les temps de service occupés en qualité de fonctionnaire communal, de fonctionnaire stagiaire ou fonctionnaire de l’État ou d’employé de l’État ainsi que l’examen de promotion réussi dans l’une de ces qualités sont mis en compte pour le calcul de la nouvelle indemnité ainsi que pour le calcul des avancements en échelon et en grade , sous réserve qu’ils restent classés dans le même groupe de traitement ou d’indemnité . Si l’indemnité prévue à l’article 16 est inférieure à son ancien traitement, à son indemnité de stage ou à son indemnité d’employé, l’employé bénéficie d’un supplément personnel d’indemnité égal à la différence entre l’indemnité prévue à l’article 16 et respectivement son traitement, son indemnité de stage ou son indemnité d’employé antérieurement perçu , sous réserve qu’il est classé dans le même groupe de traitement ou d’indemnité ou à un groupe de traitement ou d’indemnité supérieur . Le supplément d’indemnité personnel diminue en fonction de la réduction de cette différence sous l’effet de l’augmentation de l’indemnité prévue à l’article 16 par accomplissement des conditions d’années de service, d’âge et d’examen.
+- Pour le fonctionnaire communal ou le fonctionnaire stagiaire ou fonctionnaire de l’État ou l’employé de l’État qui est engagé en qualité d’employé communal, les temps de service occupés en qualité de fonctionnaire communal, de fonctionnaire stagiaire ou fonctionnaire de l’État ou d’employé de l’État ainsi que l’examen de promotion réussi dans l’une de ces qualités sont mis en compte pour le calcul de la nouvelle indemnité ainsi que pour le calcul des avancements en échelon et en grade, sous réserve qu’ils restent classés dans le même groupe de traitement ou d’indemnité . Si l’indemnité prévue à l’article 16 est inférieure à son ancien traitement, à son indemnité de stage ou à son indemnité d’employé, l’employé bénéficie d’un supplément personnel d’indemnité égal à la différence entre l’indemnité prévue à l’article 16 et respectivement son traitement, son indemnité de stage ou son indemnité d’employé antérieurement perçu, sous réserve qu’il est classé dans le même groupe de traitement ou d’indemnité ou à un groupe de traitement ou d’indemnité supérieur . Le supplément d’indemnité personnel diminue en fonction de la réduction de cette différence sous l’effet de l’augmentation de l’indemnité prévue à l’article 16 par accomplissement des conditions d’années de service, d’âge et d’examen.
 
 <a id="art-29"></a>
 ## Art. 29.
@@ -473,11 +473,11 @@ Par années de grade aux sens de la présente disposition, il y a lieu d’enten
 
   - un sous-groupe éducatif et psycho-social;
 
-  - un sous-groupe à attributions particulières .
+  - un sous-groupe à attributions particulières.
 
   - un sous-groupe de l’enseignement.
 
-- Pour être classé à un emploi d’un des sous-groupes visés aux points a), b), c) ou d) du paragraphe 1 er , l’employé doit soit être titulaire d’un grade ou diplôme délivré par un établissement d’enseignement supérieur reconnu par l’État du siège de l’établissement et sanctionnant l’accomplissement avec succès d’un master ou de son équivalent, soit remplir les conditions d’admission à l’examen d’admissibilité pour une fonction du groupe de traitement correspondant du régime de traitement des fonctionnaires communaux ou pour l’admission au service provisoire de cette fonction.
+- Pour être classé à un emploi d’un des sous-groupes visés aux points a), b), c) ou d) du paragraphe 1er, l’employé doit soit être titulaire d’un grade ou diplôme délivré par un établissement d’enseignement supérieur reconnu par l’État du siège de l’établissement et sanctionnant l’accomplissement avec succès d’un master ou de son équivalent, soit remplir les conditions d’admission à l’examen d’admissibilité pour une fonction du groupe de traitement correspondant du régime de traitement des fonctionnaires communaux ou pour l’admission au service provisoire de cette fonction.
 
 Pour ces sous-groupes, le niveau général comprend les grades 12, 13 et 14, et les avancements aux grades 13 et 14 se font après respectivement 4 et 7 années de grade depuis le début de carrière.
 
@@ -508,11 +508,11 @@ Pour les employés visés par le présent paragraphe, le grade 12 est allongé d
 
   - un sous-groupe scientifique et technique ;
 
-  - un sous-groupe éducatif et psycho-social .
+  - un sous-groupe éducatif et psycho-social.
 
   - un sous-groupe de l’enseignement.
 
-- Pour être classé à un emploi d’un des sous-groupes visés au paragraphe 1 er sous les points a), b) ou c), l’employé doit soit être titulaire d’un grade ou diplôme délivré par un établissement d’enseignement supérieur reconnu par l’État du siège de l’établissement et sanctionnant l’accomplissement avec succès d’un bachelor ou de son équivalent, soit remplir les conditions d’admission à l’examen d’admissibilité pour une fonction du groupe de traitement correspondant du régime de traitement des fonctionnaires communaux ou pour l’admission au service provisoire de cette fonction.
+- Pour être classé à un emploi d’un des sous-groupes visés au paragraphe 1er sous les points a), b) ou c), l’employé doit soit être titulaire d’un grade ou diplôme délivré par un établissement d’enseignement supérieur reconnu par l’État du siège de l’établissement et sanctionnant l’accomplissement avec succès d’un bachelor ou de son équivalent, soit remplir les conditions d’admission à l’examen d’admissibilité pour une fonction du groupe de traitement correspondant du régime de traitement des fonctionnaires communaux ou pour l’admission au service provisoire de cette fonction.
 
 Pour ces sous-groupes, le niveau général comprend les grades 10, 11 et 12, et les avancements aux grades 11 et 12 se font après respectivement 4 et 7 années de grade depuis le début de carrière.
 
@@ -535,11 +535,11 @@ Pour les employés de ce sous-groupe, le grade 11 est allongé d’un douzième 
 
   - un sous-groupe scientifique et technique ;
 
-  - un sous-groupe éducatif et psycho-social .
+  - un sous-groupe éducatif et psycho-social.
 
   - un sous-groupe de l’enseignement.
 
-- Pour être classé à un emploi de l’un des sous-groupes visés aux points a), b) ou c) du paragraphe 1 er , l’employé doit être détenteur soit du diplôme luxembourgeois de fin d’études secondaires, soit du diplôme luxembourgeois de fin d’études secondaires techniques, soit d’un brevet de maîtrise, soit présenter un certificat sanctionnant des études reconnues équivalentes.
+- Pour être classé à un emploi de l’un des sous-groupes visés aux points a), b) ou c) du paragraphe 1er, l’employé doit être détenteur soit du diplôme luxembourgeois de fin d’études secondaires, soit du diplôme luxembourgeois de fin d’études secondaires techniques, soit d’un brevet de maîtrise, soit présenter un certificat sanctionnant des études reconnues équivalentes.
 
 Pour ces sous-groupes, le niveau général comprend les grades 7, 8, 9 et 10, et les avancements aux grades 8, 9 et 10 se font après respectivement 4, 7 et 11 années de grade depuis le début de carrière.
 
@@ -564,11 +564,11 @@ Le niveau supérieur comprend le grade 10, et l’avancement à ce grade intervi
 
 - un sous-groupe scientifique et technique ;
 
-- un sous-groupe éducatif et psycho-social .
+- un sous-groupe éducatif et psycho-social.
 
 - un sous-groupe de l’enseignement.
 
-- Pour être classé à un emploi de l’un des sous-groupes visés sous les lettres a), b) et c) du paragraphe 1 er , l’employé doit être détenteur d’un diplôme ou certificat de réussite classé au moins au niveau 3 du cadre luxembourgeois des qualifications, conformément à l’article 69 de la loi modifiée du 28 octobre 2016 relative à la reconnaissance des qualifications professionnelles.
+- Pour être classé à un emploi de l’un des sous-groupes visés sous les lettres a), b) et c) du paragraphe 1er, l’employé doit être détenteur d’un diplôme ou certificat de réussite classé au moins au niveau 3 du cadre luxembourgeois des qualifications, conformément à l’article 69 de la loi modifiée du 28 octobre 2016 relative à la reconnaissance des qualifications professionnelles.
 
 Pour ces sous-groupes, le niveau général comprend les grades 4, 5 et 6, et les avancements aux grades 5 et 6 se font après respectivement 4 et 7 années de grade depuis le début de carrière.
 
@@ -667,17 +667,17 @@ Les standardistes bénéficient d’un supplément de rémunération de dix poin
 <a id="art-53"></a>
 ## Art. 53.
 
-- Les employés communaux mis à la retraite entre le premier février 1972 et le 30 juin 1975, ainsi que les survivants des employés communaux décédés entre les dates précitées bénéficient d’un supplément de pension s’ils se trouvaient au moment de la mise à la retraite ou du décès dans les conditions ouvrant droit au régime de pension des fonctionnaires communaux conformément à l’article 8, paragraphe 1 er du présent règlement.
+- Les employés communaux mis à la retraite entre le premier février 1972 et le 30 juin 1975, ainsi que les survivants des employés communaux décédés entre les dates précitées bénéficient d’un supplément de pension s’ils se trouvaient au moment de la mise à la retraite ou du décès dans les conditions ouvrant droit au régime de pension des fonctionnaires communaux conformément à l’article 8, paragraphe 1er du présent règlement.
 
 Sans préjudice du paragraphe 4 du présent article, ce supplément est fixé à la différence entre les pensions payées par les régimes contributifs et le montant de la pension à laquelle ils auraient eu droit en cas d’application de la législation sur les pensions des fonctionnaires communaux.
 
-- Les employés communaux mis à la retraite avant le premier février 1972 ainsi que les survivants des employés communaux décédés avant cette date bénéficient d’un supplément de pension s’ils se trouvaient, au moment de la mise à la retraite ou du décès, dans les conditions ouvrant droit au régime de pension des fonctionnaires communaux conformément à l’article 8, paragraphe 1 er du présent règlement.
+- Les employés communaux mis à la retraite avant le premier février 1972 ainsi que les survivants des employés communaux décédés avant cette date bénéficient d’un supplément de pension s’ils se trouvaient, au moment de la mise à la retraite ou du décès, dans les conditions ouvrant droit au régime de pension des fonctionnaires communaux conformément à l’article 8, paragraphe 1er du présent règlement.
 
 Sans préjudice des dispositions du paragraphe 4 du présent article, ce supplément est fixé à la différence entre les pensions servies par les régimes contributifs et le montant correspondant à quatre-vingt-treize pour cent de la pension à laquelle ils auraient eu droit en cas d’application de la législation sur les pensions des fonctionnaires communaux.
 
-- Sans préjudice des dispositions des paragraphes 1 et 2 du présent article, les employés communaux mis à la retraite sans avoir rempli les conditions prévues à l’article 8, paragraphe 1 er du présent règlement, ainsi que les survivants des employés communaux décédés sans avoir rempli les conditions de l’article 8, paragraphe 1 er susvisé, ont également droit à un supplément de pension, pourvu qu’ils aient rempli les conditions de l’article 9 de la loi modifiée du 7 août 1912 concernant la création d’une caisse de prévoyance pour les fonctionnaires et employés des communes et établissements publics placés sous la surveillance des communes. Sans préjudice des dispositions du paragraphe 4 du présent article, ce supplément est fixé à la différence entre les pensions payées par les régimes contributifs et le montant correspondant à quatre-vingt-dix pour cent de la pension à laquelle ils auraient eu droit conformément à la législation sur les pensions des fonctionnaires communaux.
+- Sans préjudice des dispositions des paragraphes 1 et 2 du présent article, les employés communaux mis à la retraite sans avoir rempli les conditions prévues à l’article 8, paragraphe 1er du présent règlement, ainsi que les survivants des employés communaux décédés sans avoir rempli les conditions de l’article 8, paragraphe 1er susvisé, ont également droit à un supplément de pension, pourvu qu’ils aient rempli les conditions de l’article 9 de la loi modifiée du 7 août 1912 concernant la création d’une caisse de prévoyance pour les fonctionnaires et employés des communes et établissements publics placés sous la surveillance des communes. Sans préjudice des dispositions du paragraphe 4 du présent article, ce supplément est fixé à la différence entre les pensions payées par les régimes contributifs et le montant correspondant à quatre-vingt-dix pour cent de la pension à laquelle ils auraient eu droit conformément à la législation sur les pensions des fonctionnaires communaux.
 
-- Les suppléments fixés aux paragraphes 1 er , 2, et 3 du présent article sont réversibles aux survivants, aux conditions et suivant les taux de réversion prévus par la législation sur les pensions des fonctionnaires communaux.
+- Les suppléments fixés aux paragraphes 1er, 2, et 3 du présent article sont réversibles aux survivants, aux conditions et suivant les taux de réversion prévus par la législation sur les pensions des fonctionnaires communaux.
 
 - Les suppléments sont calculés par la caisse de prévoyance des fonctionnaires et employés communaux. Leur paiement aura lieu, à charge de ladite caisse de prévoyance, par la caisse nationale d’assurance pension ensemble avec la pension du régime contributif correspondant aux mois pour lesquels les suppléments sont dûs.
 

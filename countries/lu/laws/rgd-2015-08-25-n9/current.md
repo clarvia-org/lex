@@ -32,7 +32,7 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 Au sens du présent règlement on entend par:
 
-- Denrée alimentaire non préemballée : une denrée alimentaire
+- Denrée alimentaire non préemballée: une denrée alimentaire
 
   - vendue en vrac ou
 
@@ -40,13 +40,13 @@ Au sens du présent règlement on entend par:
 
   - préemballée en vue de sa vente immédiate.
 
-- Vente immédiate : la vente d’une denrée alimentaire qui est destinée à être vendue au plus tard le jour suivant sa fabrication et qui n’est pas vendue en libre-service.
+- Vente immédiate: la vente d’une denrée alimentaire qui est destinée à être vendue au plus tard le jour suivant sa fabrication et qui n’est pas vendue en libre-service.
 
-- Structures encadrées : les établissements servant une clientèle identifiée et connue à l’avance tels que les hôpitaux, maisons de soins pour personnes âgées, personnes malades, personnes handicapées, foyers de jour, crèches, maisons relais, cantines scolaires.
+- Structures encadrées: les établissements servant une clientèle identifiée et connue à l’avance tels que les hôpitaux, maisons de soins pour personnes âgées, personnes malades, personnes handicapées, foyers de jour, crèches, maisons relais, cantines scolaires.
 
-- Lot : un ensemble d’unités de vente d’une denrée alimentaire produite, fabriquée ou conditionnée dans des circonstances pratiquement identiques.
+- Lot: un ensemble d’unités de vente d’une denrée alimentaire produite, fabriquée ou conditionnée dans des circonstances pratiquement identiques.
 
-- Libre-service : une mise en vente où le consommateur se sert lui-même.
+- Libre-service: une mise en vente où le consommateur se sert lui-même.
 
 <a id="art-2"></a>
 ## Art. 2.

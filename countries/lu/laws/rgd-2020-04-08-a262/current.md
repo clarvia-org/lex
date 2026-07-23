@@ -49,9 +49,9 @@ Pour les marchés dont la publication des documents de marché ou la notificatio
 
 En application des règles relatives à la computation des délais contenues dans le Nouveau Code de procédure civile en combinaison, le cas échéant, avec les règles de la Convention européenne sur la computation des délais signée à Bâle, le 16 mai 1972, la date du 27 avril est à considérer comme suit :
 
-- pour les délais calculés en jours, la date du 27 avril est à considérer comme la date du jour de l’évènement qui fait courir le délai, conformément à l’article 1256 du Nouveau Code de procédure civile , de sorte que le premier jour à comptabiliser sera le 28 avril ;
+- pour les délais calculés en jours, la date du 27 avril est à considérer comme la date du jour de l’évènement qui fait courir le délai, conformément à l’article 1256 du Nouveau Code de procédure civile, de sorte que le premier jour à comptabiliser sera le 28 avril ;
 
-- pour les délais calculés en mois, la date du 27 avril est à considérer comme jour de référence à prendre en considération à titre de quantième, au sens de l’article 1258 du Nouveau Code de procédure civile .
+- pour les délais calculés en mois, la date du 27 avril est à considérer comme jour de référence à prendre en considération à titre de quantième, au sens de l’article 1258 du Nouveau Code de procédure civile.
 
 <a id="art-2"></a>
 ## Art. 2.
@@ -64,7 +64,7 @@ Pendant la durée de l’état de crise, telle que fixée par la loi du 24 mars 
 
 - les délais prévus aux articles 102 et 117 du règlement grand-ducal du 3 août 2009 portant exécution de la loi du 25 juin 2009 sur les marchés publics et portant modification du seuil prévu à l’article 106 point 10° de la loi communale modifiée du 13 décembre 1988 ; et
 
-- les délais prévus aux articles 102 et 117 du règlement grand-ducal du 7 juillet 2003 portant exécution de la loi du 30 juin 2003 sur les marchés publics et portant modification du seuil prévu à l’article 106 point 10° de la loi communale du 13 décembre 1988 .
+- les délais prévus aux articles 102 et 117 du règlement grand-ducal du 7 juillet 2003 portant exécution de la loi du 30 juin 2003 sur les marchés publics et portant modification du seuil prévu à l’article 106 point 10° de la loi communale du 13 décembre 1988.
 
 (2)
 

@@ -58,7 +58,7 @@ Aux fins du présent règlement, on entend par :
 
 - « procédures d’évaluation de la conformité » : les procédures fixées dans les annexes V à VIII, fondées sur la décision 93/465/CEE ;
 
-- « marquage » : l’apposition, de manière visible, lisible et indélébile, du marquage « CE », définie dans la décision 93/465/CEE , et accompagnée de l’indication du niveau de puissance acoustique garanti ;
+- « marquage » : l’apposition, de manière visible, lisible et indélébile, du marquage « CE », définie dans la décision 93/465/CEE, et accompagnée de l’indication du niveau de puissance acoustique garanti ;
 
 - « niveau de puissance acoustique LWA » : le niveau de puissance acoustique affecté d’un coefficient de pondération A et mesuré en dB par rapport à 1 pW, tel que défini dans les normes EN ISO 3744 : 1995 et EN ISO 3746 : 1995 ;
 
@@ -325,7 +325,7 @@ Le niveau de puissance acoustique garanti des matériels énumérés ci-après e
 
 - engins de damage de piste Définition : annexe I, point 44. Mesure : annexe III, partie B, point 44
 
-- groupes électrogènes ( > 400 kW) Définition : annexe I, point 45. Mesure : annexe III, partie B, point 45
+- groupes électrogènes (> 400 kW) Définition : annexe I, point 45. Mesure : annexe III, partie B, point 45
 
 - balayeuses Définition : annexe I, point 46. Mesure : annexe III, partie B, point 46
 

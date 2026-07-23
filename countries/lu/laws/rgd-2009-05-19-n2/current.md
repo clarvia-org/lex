@@ -68,9 +68,9 @@ La correction d’une épreuve écrite dont la durée est supérieure à trois h
 
 La correction d’une épreuve uniquement orale est rémunérée de la façon suivante:
 
-- L’examinateur a droit à l’indemnité (tarif de base) prévue à l’article 1 er pour la rédaction d’un questionnaire.
+- L’examinateur a droit à l’indemnité (tarif de base) prévue à l’article 1er pour la rédaction d’un questionnaire.
 
-- Pour chaque candidat, l’examinateur a droit à l’indemnité prévue à l’article 1 er pour la correction d’une épreuve de trois heures.
+- Pour chaque candidat, l’examinateur a droit à l’indemnité prévue à l’article 1er pour la correction d’une épreuve de trois heures.
 
 Par décision ministérielle, la correction d’une épreuve pratique est assimilée soit à celle d’une épreuve écrite, soit à celle d’une épreuve orale. Pour le cas où une épreuve pratique se compose de plusieurs parties autorisées préalablement par le commissaire du Gouvernement, chaque partie est indemnisée individuellement en termes d’élaboration du questionnaire, de correction et de production de pièces préfabriquées.
 

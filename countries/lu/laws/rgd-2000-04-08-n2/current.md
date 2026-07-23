@@ -38,7 +38,7 @@ Au formulaire dûment rempli sont à joindre les documents justificatifs suivant
 
 - une copie d’une pièce d’identité en cours de validité ; et le cas échéant un document attestant le bénéfice des dispositions de l’article 3, point q) de la loi du 28 octobre 2016 relative à la reconnaissance des qualifications professionnelles ;
 
-- une copie du titre de formation luxembourgeois ou de la décision de reconnaissance visés au point b) du paragraphe 1 er de l’article 2 de la loi modifiée du 26 mars 1992 sur l’exercice et la revalorisation de certaines professions de santé ;
+- une copie du titre de formation luxembourgeois ou de la décision de reconnaissance visés au point b) du paragraphe 1er de l’article 2 de la loi modifiée du 26 mars 1992 sur l’exercice et la revalorisation de certaines professions de santé ;
 
 - l’attestation relative à la santé physique et psychique visée à l’article 2 du présent règlement ;
 

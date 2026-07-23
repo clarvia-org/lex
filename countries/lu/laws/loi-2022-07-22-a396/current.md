@@ -46,7 +46,7 @@ Pour l’application de la présente loi, on entend par :
 
   - l’enfant pour lequel le demandeur perçoit des allocations familiales, qui habite avec le demandeur dans le logement et qui y est déclaré ; ou
 
-  - l’enfant jusqu’à l’âge de vingt-sept ans, qui bénéficie de la protection liée à l’affiliation à l’assurance-maladie du demandeur soit au titre de l’article 7 du Code de la sécurité sociale , soit au titre de la législation d’un État avec lequel le Luxembourg est lié par un instrument bi- ou multilatéral de sécurité sociale, soit au titre d’un régime d’assurance-maladie en raison d’une activité au service d’un organisme international, qui habite avec le demandeur dans le logement et qui y est déclaré ;
+  - l’enfant jusqu’à l’âge de vingt-sept ans, qui bénéficie de la protection liée à l’affiliation à l’assurance-maladie du demandeur soit au titre de l’article 7 du Code de la sécurité sociale, soit au titre de la législation d’un État avec lequel le Luxembourg est lié par un instrument bi- ou multilatéral de sécurité sociale, soit au titre d’un régime d’assurance-maladie en raison d’une activité au service d’un organisme international, qui habite avec le demandeur dans le logement et qui y est déclaré ;
 
 - « communauté domestique » : le demandeur et toutes les autres personnes physiques qui vivent dans le cadre d’un foyer commun dans le logement, dont il faut admettre qu’ils disposent d’un budget commun et qui ne peuvent fournir les preuves matérielles qu’ils résident ailleurs ; ces preuves matérielles sont, selon le cas : les pièces énumérées ci-avant portent sur une durée de six mois au moins à compter de la date où la demande en obtention de l’aide a été introduite auprès du ministre.
 
@@ -75,11 +75,11 @@ Pour les personnes à faible revenu qui louent un logement sur le marché locati
 
 - les membres de la communauté domestique n’ont aucun autre logement au Grand-Duché de Luxembourg ou à l’étranger ;
 
-- le demandeur dispose d’un des revenus tels que prévus à l’article 3, paragraphe 1 er , points 1° à 4°;
+- le demandeur dispose d’un des revenus tels que prévus à l’article 3, paragraphe 1er, points 1° à 4°;
 
 - le revenu de la communauté domestique fixé conformément à l’article 3 ne dépasse pas le plafond de revenu prévu à l’annexe ;
 
-- le taux d’effort consacré au paiement du loyer, lequel doit avoir été fixé conformément aux articles 3 à 5 de la loi modifiée du 21 septembre 2006 sur le bail à usage d’habitation et modifiant certaines dispositions du Code civil , est supérieur à 25 pour cent du revenu de la communauté domestique ;
+- le taux d’effort consacré au paiement du loyer, lequel doit avoir été fixé conformément aux articles 3 à 5 de la loi modifiée du 21 septembre 2006 sur le bail à usage d’habitation et modifiant certaines dispositions du Code civil, est supérieur à 25 pour cent du revenu de la communauté domestique ;
 
 - le logement n’est pas loué au demandeur par un de ses ascendants ou descendants.
 

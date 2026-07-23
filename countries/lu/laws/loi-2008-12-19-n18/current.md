@@ -155,7 +155,7 @@ Le transfert des déchets de piles et d'accumulateurs collectés doit se faire d
 
 - Les producteurs de piles et d'accumulateurs automobiles, individuellement ou collectivement, ou des tiers agissant pour leur compte,
 
-  - recourent aux infrastructures dont question au paragraphe 1 er ) a) et/ou
+  - recourent aux infrastructures dont question au paragraphe 1er) a) et/ou
 
   - mettent en place ou assurent la disponibilité de systèmes de collecte des déchets de piles et d'accumulateurs automobiles auprès de l'utilisateur final ou dans des points de collecte accessibles et proches de celui-ci, lorsque la collecte n'est pas effectuée dans le cadre des systèmes de reprise visés par la réglementation relative aux véhicules hors d'usage et à condition que ces systèmes garantissent des résultats équivalents à ceux mentionnés au premier tiret.
 
@@ -256,7 +256,7 @@ Financement
 
 Les producteurs, individuellement ou collectivement, ou les tiers agissant pour leur compte, assurent le financement de tous les coûts nets induits par:
 
-- les opérations de collecte, de traitement et de recyclage de tous les déchets de piles et d'accumulateurs portables collectés conformément à l'article 7, paragraphe 1 er ); et
+- les opérations de collecte, de traitement et de recyclage de tous les déchets de piles et d'accumulateurs portables collectés conformément à l'article 7, paragraphe 1er); et
 
 - les opérations de collecte, de traitement et de recyclage de tous les déchets de piles et d'accumulateurs industriels et automobiles collectés conformément à l'article 7, paragraphes 2) et 3).
 
@@ -422,4 +422,4 @@ La loi modifiée du 17 juin 1994 relative à la prévention et à la gestion des
 
 - L'article 35 alinéa 1 de la loi est complété par la phrase suivante: Il en est de même des infractions commises aux prescriptions des articles 3, 4, 5, 6, 9, 13, 15, 16, 17, 18, 19, 20, 22, 23, 24, 25, 34, 35, 36, 38, 39, 40, 41, 42, 43, 45, 46, 47, 48 et 49 du règlement (CE) n° 1013/2006 du Parlement européen et du Conseil du 14 juin 2006 concernant les transferts de déchets».
 
-- L'article 36 bis de la loi est remplacé comme suit: Art. 36bis. Mesures administratives 1. En cas de non-respect des dispositions des articles 7, 8, 9, 10 et 11 de la présente loi, le Ministre peut, impartir à l'exploitant d'un établissement ou à un producteur ou un détenteur, importateur ou distributeur un délai dans lequel ce dernier doit se conformer à ces dispositions, délai qui ne peut être supérieur à deux ans; et, en cas de non-respect du délai de mise en conformité, faire suspendre, après une mise en demeure, en tout ou en partie l'exploitation de l'établissement ou les travaux de chantier par mesure provisoire ou faire fermer l'établissement ou le chantier en tout ou en partie et apposer des scellés. 2. Tout intéressé peut demander l'application des mesures visées au paragraphe 1er. 3. Les mesures prises par le ministre en vertu du paragraphe 1er sont susceptibles d'un recours devant le tribunal administratif qui statue comme juge du fond. Ce recours doit être introduit sous peine de déchéance dans les quarante jours de la notification de la décision. Les mesures énumérées au paragraphe 1er sont levées lorsque l'exploitant d'un établissement, le producteur ou le détenteur, l'importateur ou le distributeur se sera conformé.
+- L'article 36bis de la loi est remplacé comme suit: Art. 36bis. Mesures administratives 1. En cas de non-respect des dispositions des articles 7, 8, 9, 10 et 11 de la présente loi, le Ministre peut, impartir à l'exploitant d'un établissement ou à un producteur ou un détenteur, importateur ou distributeur un délai dans lequel ce dernier doit se conformer à ces dispositions, délai qui ne peut être supérieur à deux ans; et, en cas de non-respect du délai de mise en conformité, faire suspendre, après une mise en demeure, en tout ou en partie l'exploitation de l'établissement ou les travaux de chantier par mesure provisoire ou faire fermer l'établissement ou le chantier en tout ou en partie et apposer des scellés. 2. Tout intéressé peut demander l'application des mesures visées au paragraphe 1er. 3. Les mesures prises par le ministre en vertu du paragraphe 1er sont susceptibles d'un recours devant le tribunal administratif qui statue comme juge du fond. Ce recours doit être introduit sous peine de déchéance dans les quarante jours de la notification de la décision. Les mesures énumérées au paragraphe 1er sont levées lorsque l'exploitant d'un établissement, le producteur ou le détenteur, l'importateur ou le distributeur se sera conformé.

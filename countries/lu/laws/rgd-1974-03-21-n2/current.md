@@ -117,7 +117,7 @@ L’intérêt du litige, à défaut d’éléments d’appréciation résultant 
 
 - Pour les demandes en constitution de rente viagère ou en résiliation de contrat: par le capital exprimé au titre ou par la valeur égale à dix fois la rente annuelle demandée ou déjà existante, ou au montant cumulé des annuités, si la durée de la rente est inférieure à dix années;
 
-- Pour les demandes relatives aux rentes ou pensions dérivant de l’obligation alimentaire en vertu des articles 203, 205 et suivants, 212, 301 et 303 du Code Civil : par une valeur égale à quatre fois la rente annuelle demandée jusqu’à 49,58 euros et au delà par une valeur égale à cinq fois le chiffre résultant de la condamnation. En cas de demande de révision, le montant de la rente ou de la pension servant de base à la détermination de l’intérêt du litige est celui de l’augmentation de la diminution demandée ou accordée, selon la distinction établie à l’alinéa précédent;
+- Pour les demandes relatives aux rentes ou pensions dérivant de l’obligation alimentaire en vertu des articles 203, 205 et suivants, 212, 301 et 303 du Code Civil: par une valeur égale à quatre fois la rente annuelle demandée jusqu’à 49,58 euros et au delà par une valeur égale à cinq fois le chiffre résultant de la condamnation. En cas de demande de révision, le montant de la rente ou de la pension servant de base à la détermination de l’intérêt du litige est celui de l’augmentation de la diminution demandée ou accordée, selon la distinction établie à l’alinéa précédent;
 
 - Pour les demandes relatives aux contrats d’assurances de toute nature: par une valeur égale au montant cumulé soit des primes échues, soit des arrérages restant à courir, sans toutefois que cette valeur globale excède dix années;
 
@@ -161,7 +161,7 @@ Sous réserve des dispositions de l’article 7, lorsqu’une même cause compor
 
   - Il est d’abord procédé à l’évaluation de l’intérêt du litige auquel correspondrait, en vertu du barème visé à l’article 4, un droit proportionnel égal au montant du droit variable alloué pour les chefs indéterminés;
 
-  - Le montant de droit proportionnel afférent aux chefs déterminés est ensuite calculé en appliquant au total de ces chefs les taux prévus audit barème pour les sommes supérieures au montant de l’évaluation visée au paragraphe a) .
+  - Le montant de droit proportionnel afférent aux chefs déterminés est ensuite calculé en appliquant au total de ces chefs les taux prévus audit barème pour les sommes supérieures au montant de l’évaluation visée au paragraphe a).
 
 <a id="art-14"></a>
 ## Art. 14.
@@ -306,7 +306,7 @@ Un droit proportionnel, calculé sur le prix de l’immeuble ou sur la totalité
 
 - Jusqu’à 991,57 euros , de 0,8%;
 
-- Sur l’excédent, jusqu’à 24.789,35 euro s , 0,2%;
+- Sur l’excédent, jusqu’à 24.789,35 euros , 0,2%;
 
 - Sur l’excédent, au-dessus de 24.789,35 euros , indéfiniment, 0,1%.
 
@@ -378,7 +378,7 @@ Pour tous les actes de procédure en Chambre du Conseil, il est alloué:
 
 - Pour toute requête tendant à la nomination d’un curateur, administrateur, séquestre ou mandataire de justice, à l’avoué demandeur, la moitié du droit fixe;
 
-- Pour toute requête tendant à adoption, ou à la rectification de jugements déclaratifs ou supplétifs d’actes de l’état civil, le droit fixe et un droit variable déterminé comme il est dit aux articles 13 et 14. Toutefois, sauf pour les requêtes tendant à adoption, le multiple du droit fixe visé à l’alinéa 1 er de l’article 14 ne peut varier qu’entre 1 et 5;
+- Pour toute requête tendant à adoption, ou à la rectification de jugements déclaratifs ou supplétifs d’actes de l’état civil, le droit fixe et un droit variable déterminé comme il est dit aux articles 13 et 14. Toutefois, sauf pour les requêtes tendant à adoption, le multiple du droit fixe visé à l’alinéa 1er de l’article 14 ne peut varier qu’entre 1 et 5;
 
 - Pour toute autre demande, si la décision relève de la juridiction gracieuse, à chacun des avoués le droit fixe. Si la décision, contradictoire ou par défaut, intervient en matière contentieuse, le droit fixe et le quart du droit proportionnel ou du droit variable calculé comme il est dit aux articles 4, 13 et 14. Toutefois les droits proportionnel ou variable ne sont pas dus si l’instance a pour objet d’habiliter un incapable ou son représentant à ester en justice, sur une demande à former ou déjà formée;
 
@@ -544,7 +544,7 @@ Cette majoration n’est pas due lorsqu’il s’agira d’un pourvoi en cassati
 
 - Dans les demandes principales en dommages-intérêts dont le chiffre ne résulte pas de la clause d’une convention, lorsque les conclusions portent sur des sommes supérieures à 743,68 -euros , l’intérêt du litige est déterminé par la plus forte des deux condamnations prononcées soit en première instance, soit en appel;
 
-- Pour les demandes relatives aux rentes ou pensions dérivant de la législation sociale ou de l’obligation alimentaire en vertu des articles 205 et suivants du code civil , l’intérêt du litige est déterminé comme il est indiqué à l’article 9 - 3°.
+- Pour les demandes relatives aux rentes ou pensions dérivant de la législation sociale ou de l’obligation alimentaire en vertu des articles 205 et suivants du code civil, l’intérêt du litige est déterminé comme il est indiqué à l’article 9 - 3°.
 
 <a id="art-55"></a>
 ## Art. 55.

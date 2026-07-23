@@ -68,15 +68,15 @@ Le taux de cotisation fixé conformément à l’article 149 du Code de la sécu
 
 Sont prises en compte pour la détermination du facteur bonus-malus, les prestations de l’assurance accident obligatoire suivantes imputées aux accidents du travail survenus à partir du 1er janvier 2011 et payées pendant la période d’observation allant du 1er avril de l’avant dernière année au 31 mars de l’année précédant l’exercice de son application:
 
-- les prestations en nature, les indemnités pécuniaires ainsi que les rentes complètes dues avant la consolidation ou jusqu’à la date limite de prise en charge du traitement conformément à l’article 126 du Code de la sécurité sociale ;
+- les prestations en nature, les indemnités pécuniaires ainsi que les rentes complètes dues avant la consolidation ou jusqu’à la date limite de prise en charge du traitement conformément à l’article 126 du Code de la sécurité sociale;
 
-- la première des rentes dues après la consolidation, à savoir la rente complète, la rente professionnelle d’attente ou la rente partielle, à capitaliser jusqu’à l’âge de soixante-cinq ans à partir du 1 er du mois suivant la consolidation;
+- la première des rentes dues après la consolidation, à savoir la rente complète, la rente professionnelle d’attente ou la rente partielle, à capitaliser jusqu’à l’âge de soixante-cinq ans à partir du 1er du mois suivant la consolidation;
 
-- les indemnités pour préjudice physiologique et d’agrément, à capitaliser à vie à partir du 1 er du mois suivant la consolidation;
+- les indemnités pour préjudice physiologique et d’agrément, à capitaliser à vie à partir du 1er du mois suivant la consolidation;
 
 - les indemnités pour douleurs physiques et les indemnités pour préjudice esthétique;
 
-- en cas d’accidents du travail mortels, les rentes de survie du conjoint survivant, à capitaliser à vie à partir du 1 er du mois du décès et les indemnités pour dommage moral versées aux survivants.
+- en cas d’accidents du travail mortels, les rentes de survie du conjoint survivant, à capitaliser à vie à partir du 1er du mois du décès et les indemnités pour dommage moral versées aux survivants.
 
 <a id="art-5"></a>
 ## Art. 5.

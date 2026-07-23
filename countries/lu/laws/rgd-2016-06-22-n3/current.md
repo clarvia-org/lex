@@ -37,9 +37,9 @@ Le présent règlement précise les modalités du contrôle d'étanchéité des 
 
 - les équipements fixes de climatisation, de réfrigération et les pompes à chaleur fixes ayant une charge en fluide réfrigérant HCFC ou CFC supérieure à 3 kg, à l'exception des équipements comportant des systèmes hermétiquement scellés étiquetés comme tels et contenant moins de 6 kg de fluide;
 
-- les équipements fixes de climatisation, de réfrigération, les pompes à chaleur fixes et les cycles organiques de Rankine ayant une charge en fluide réfrigérant HFC supérieure ou égale à 5 tonnes équivalent CO 2 , à l'exception des équipements comportant des systèmes hermétiquement scellés étiquetés comme tels et contenant des fluides réfrigérants de moins de 10 tonnes équivalents CO 2 ;
+- les équipements fixes de climatisation, de réfrigération, les pompes à chaleur fixes et les cycles organiques de Rankine ayant une charge en fluide réfrigérant HFC supérieure ou égale à 5 tonnes équivalent CO2, à l'exception des équipements comportant des systèmes hermétiquement scellés étiquetés comme tels et contenant des fluides réfrigérants de moins de 10 tonnes équivalents CO2;
 
-- les unités de réfrigération des camions et remorques frigorifiques ayant une charge en fluide réfrigérant HFC supérieure ou égale à 5 tonnes équivalent CO 2 , à l'exception des équipements comportant des systèmes hermétiquement scellés étiquetés comme tels et contenant des fluides réfrigérants de moins de 10 tonnes équivalents CO 2 .
+- les unités de réfrigération des camions et remorques frigorifiques ayant une charge en fluide réfrigérant HFC supérieure ou égale à 5 tonnes équivalent CO2, à l'exception des équipements comportant des systèmes hermétiquement scellés étiquetés comme tels et contenant des fluides réfrigérants de moins de 10 tonnes équivalents CO2.
 
 (2)
 
@@ -66,7 +66,7 @@ Au sens du présent règlement, on entend par:
 
 - puissance nominale utile: la puissance calorifique maximale, exprimée en kW, fixée et garantie par le constructeur comme pouvant être fournie en marche continue tout en respectant les rendements utiles annoncées par le constructeur;
 
-- exploitant: le propriétaire ou le locataire d'un bâtiment dans lequel sont utilisés les équipements de climatisation dont question à l'article 1 er ;
+- exploitant: le propriétaire ou le locataire d'un bâtiment dans lequel sont utilisés les équipements de climatisation dont question à l'article 1er;
 
 - pompe à chaleur: une machine, un dispositif ou une installation qui transfère de la chaleur du milieu naturel environnant, comme l'air, l'eau ou le sol, vers des bâtiments ou des applications industrielles en renversant le flux naturel de chaleur de façon qu'il aille d'une température plus basse vers une température plus élevée. Dans le cas de pompes à chaleur réversibles, le transfert de la chaleur peut aussi se faire du bâtiment vers le milieu naturel ;
 

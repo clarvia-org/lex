@@ -69,11 +69,11 @@ Les données à caractère personnel auxquelles le ministre peut accéder sont l
 
   - l'adresse légale;
 
-  - pour l'application de l'article 36 de la loi précitée du 2 septembre 2011 , les ascendants et descendants tels que prévus à l'article 5, paragraphe 2, et de la loi précitée du 19 juin 2013 ;
+  - pour l'application de l'article 36 de la loi précitée du 2 septembre 2011, les ascendants et descendants tels que prévus à l'article 5, paragraphe 2, et de la loi précitée du 19 juin 2013;
 
-- pour le fichier du registre de commerce et des sociétés exploité en vertu de loi modifiée du 19 décembre 2002 concernant le registre de commerce et des sociétés ainsi que la comptabilité et les comptes annuels des entreprises, toutes les informations prévues aux articles 3 à 14 de la loi précitée du 19 décembre 2002 ;
+- pour le fichier du registre de commerce et des sociétés exploité en vertu de loi modifiée du 19 décembre 2002 concernant le registre de commerce et des sociétés ainsi que la comptabilité et les comptes annuels des entreprises, toutes les informations prévues aux articles 3 à 14 de la loi précitée du 19 décembre 2002;
 
-- pour le fichier relatif aux recouvrements et le fichier relatif aux affiliations des salariés, des indépendants et des employeurs gérés par le Centre commun de la sécurité sociale sur la base de l'article 413 du Code de la sécurité sociale :
+- pour le fichier relatif aux recouvrements et le fichier relatif aux affiliations des salariés, des indépendants et des employeurs gérés par le Centre commun de la sécurité sociale sur la base de l'article 413 du Code de la sécurité sociale:
 
   - la date et la durée de l'affiliation;
 
@@ -99,7 +99,7 @@ Les données à caractère personnel auxquelles le ministre peut accéder sont l
 
 - pour le système d'information sur le marché intérieur, tel qu'il est prévu au règlement (UE) n° 1024/2012 du 25 octobre 2012 concernant la coopération administrative par l'intermédiaire du système d'information du marché intérieur («règlement IMI»), toutes les informations susceptibles d'être transmises par les autorités compétentes connectées au système d'information sur le marché intérieur.
 
-- pour le fichier du registre des bénéficiaires effectifs exploité en vertu de la loi modifiée du 13 janvier 2019 instituant un Registre des bénéficiaires effectifs, toutes les informations prévues à l’article 3 de la loi précitée du 13 janvier 2019 .
+- pour le fichier du registre des bénéficiaires effectifs exploité en vertu de la loi modifiée du 13 janvier 2019 instituant un Registre des bénéficiaires effectifs, toutes les informations prévues à l’article 3 de la loi précitée du 13 janvier 2019.
 
 <a id="art-3"></a>
 ## Art. 3.

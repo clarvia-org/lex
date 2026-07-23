@@ -40,9 +40,9 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 Aux fins de la présente loi, on entend par:
 
-- «compte-titres»: compte tenu par un organisme de liquidation, un teneur de compte central ou un teneur de comptes sur lequel des titres peuvent être crédités ou duquel des titres peuvent être débités. Le compte d’émission tenu par un organisme de liquidation , un teneur de compte central ou un agent de contrôle ne constitue pas un compte-titres;
+- «compte-titres»: compte tenu par un organisme de liquidation, un teneur de compte central ou un teneur de comptes sur lequel des titres peuvent être crédités ou duquel des titres peuvent être débités. Le compte d’émission tenu par un organisme de liquidation, un teneur de compte central ou un agent de contrôle ne constitue pas un compte-titres;
 
-- 1bis) « compte d’émission » : compte tenu auprès d’un organisme de liquidation , d’un teneur de compte central ou d’un agent de contrôle dans lequel les titres dématérialisés d’un émetteur doivent exclusivement être inscrits. Ce compte peut être tenu et les inscriptions de titres peuvent y être effectuées au sein ou par le biais de dispositifs d’enregistrement électroniques sécurisés, y compris de registres ou bases de données électroniques distribués ;
+- 1bis) « compte d’émission » : compte tenu auprès d’un organisme de liquidation, d’un teneur de compte central ou d’un agent de contrôle dans lequel les titres dématérialisés d’un émetteur doivent exclusivement être inscrits. Ce compte peut être tenu et les inscriptions de titres peuvent y être effectuées au sein ou par le biais de dispositifs d’enregistrement électroniques sécurisés, y compris de registres ou bases de données électroniques distribués ;
 
 - «CSSF»: la Commission de surveillance du secteur financier;
 
@@ -56,7 +56,7 @@ Aux fins de la présente loi, on entend par:
 
   - il s’agit de titres autres que de capital, ils sont libellés dans la même monnaie, ont la même valeur nominale et sont considérés comme faisant partie de la même émission;
 
-- «organisme de liquidation»: un système de règlement des opérations sur titres au sens de la loi relative aux services de paiement , désigné comme tel par la Banque centrale du Luxembourg et notifié à la Commission européenne par le Ministre ayant dans ses attributions la place financière et dont l’opérateur du système est établi au Luxembourg;
+- «organisme de liquidation»: un système de règlement des opérations sur titres au sens de la loi relative aux services de paiement, désigné comme tel par la Banque centrale du Luxembourg et notifié à la Commission européenne par le Ministre ayant dans ses attributions la place financière et dont l’opérateur du système est établi au Luxembourg;
 
 - «procédure de liquidation»: une procédure collective comprenant la réalisation des actifs et la répartition du produit de cette réalisation entre les créanciers, les actionnaires, les associés ou les membres selon les cas, et comportant l’intervention d’une autorité administrative ou judiciaire, y compris lorsque cette procédure est clôturée par un concordat ou une autre mesure analogue, qu’elle soit ou non fondée sur une insolvabilité et indépendamment de son caractère volontaire ou obligatoire;
 
@@ -90,7 +90,7 @@ Aux fins de la présente loi, on entend par:
 
 - «titres cotés»: les titres dématérialisés admis à la négociation sur un marché réglementé ou sur un système multilatéral de négociation;
 
-- «titres dématérialisés»: titres d’un émetteur émis ou convertis exclusivement par voie d’inscription dans un compte d’émission tenu auprès d’un organisme de liquidation , d’un teneur de compte central ou d’un agent de contrôle ;
+- «titres dématérialisés»: titres d’un émetteur émis ou convertis exclusivement par voie d’inscription dans un compte d’émission tenu auprès d’un organisme de liquidation, d’un teneur de compte central ou d’un agent de contrôle ;
 
 - «titulaire de compte»: une personne, un fonds commun de placement ou un fonds de titrisation au nom duquel un organisme de liquidation, un teneur de compte central ou un teneur de comptes tient un compte-titres, que cette personne agisse pour son propre compte ou celui de tiers.
 
@@ -131,9 +131,9 @@ Tout émetteur qui souhaite émettre des titres de capital sous forme dématéri
 
 - adapter ses statuts ou son règlement de gestion afin d’y prévoir l’émission de titres sous la forme dématérialisée et les règles y applicables;
 
-- prendre les mesures nécessaires pour l’enregistrement de la totalité de l’émission de titres dématérialisés de même genre auprès d’un seul organisme de liquidation , d’un seul teneur de compte central ou d’un seul agent de contrôle ; et
+- prendre les mesures nécessaires pour l’enregistrement de la totalité de l’émission de titres dématérialisés de même genre auprès d’un seul organisme de liquidation, d’un seul teneur de compte central ou d’un seul agent de contrôle ; et
 
-- publier dans un journal à diffusion nationale et sur son site Internet, s’il dispose d’un tel site, la dénomination et l’adresse de l’organisme de liquidation , du teneur de compte central ou de l’agent de contrôle choisi.
+- publier dans un journal à diffusion nationale et sur son site Internet, s’il dispose d’un tel site, la dénomination et l’adresse de l’organisme de liquidation, du teneur de compte central ou de l’agent de contrôle choisi.
 
 Tout émetteur immatriculé au registre de commerce et des sociétés du Grand-Duché de Luxembourg doit déposer audit registre dans les conditions prévues à l’article 9 de la loi modifiée du 10 août 1915 concernant les sociétés commerciales, un extrait aux fins de publication au Mémorial, Recueil des Sociétés et Associations indiquant la dénomination et l’adresse de l’organisme de liquidation ou du teneur de compte central choisi.
 
@@ -384,7 +384,78 @@ Lorsque la notification ne contient pas les informations nécessaires pour perme
 
 La loi modifiée du 5 avril 1993 relative au secteur financier est modifiée comme suit:
 
-- Il est ajouté à la Partie I, chapitre 2, section 2 une nouvelle sous-section 2 bis de la teneur suivante: « Sous-section 2bis: Dispositions particulières aux teneurs de compte central Art. 28-11. Les teneurs de compte central (1) Sont teneurs de compte central les personnes dont l’activité consiste dans la tenue de comptes d’émission de titres dématérialisés. (2) A l’exception des organismes de liquidation au sens de la loi relative aux titres dématérialisés, aucune personne ne peut exercer l’activité de teneur de compte central sans être en possession d’un agrément écrit du Ministre ayant dans ses attributions la CSSF. Art. 28-12. Les conditions de l’agrément (1) Peuvent seuls obtenir l’agrément en tant que teneur de compte central: les établissements de crédit et les entreprises d’investissement de droit luxembourgeois; les succursales luxembourgeoises d’établissements de crédit agréés dans un autre Etat membre; les succursales luxembourgeoises d’entreprises d’investissement de personnes morales agréées dans un autre Etat membre. (2) En vue de l’obtention de l’agrément, le demandeur doit justifier: qu’au moins une des personnes chargées de la gestion de l’établissement dispose d’une expérience professionnelle adéquate par le fait d’avoir déjà exercé des activités analogues à un niveau élevé de responsabilité et d’autonomie; qu’il dispose d’un solide dispositif de gouvernance interne, comprenant notamment une structure organisationnelle claire avec un partage des responsabilités qui soit bien défini, transparent et cohérent, des processus efficaces de détection, de gestion, de contrôle et de déclaration des risques auxquels il est ou pourrait être exposé, des mécanismes adéquats de contrôle interne, y compris des procédures administratives et comptables saines ainsi que des mécanismes de contrôle et de sécurité de ses systèmes informatiques adaptés pour la tenue de comptes centraux. La tenue de comptes centraux comprend en particulier: l’enregistrement dans un compte d’émission de l’intégralité des titres composant chaque émission admise à ses opérations; les mécanismes assurant la circulation des titres par virement de compte à compte; les procédures permettant de vérifier que le montant total de chaque émission admise à ses opérations et enregistrée dans un compte d’émission est égal à la somme des titres enregistrés aux comptes-titres de ses titulaires de compte; la prise des dispositions nécessaires pour permettre l’exercice des droits attachés aux titres inscrits en compte-titres. (3) L’agrément pour l’activité de teneur de compte central est subordonné à la justification d’un capital social d’une valeur de 730.000 euros au moins. Art. 28-13. La procédure d’agrément (1) L’agrément est accordé sur demande écrite et après instruction par la CSSF portant sur les conditions exigées par la présente loi. (2) La durée de l’agrément est illimitée. Lorsque l’agrément est accordé, le teneur de compte central peut immédiatement commencer son activité. (3) La demande d’agrément doit être accompagnée de tous les renseignements nécessaires à son appréciation ainsi que d’un programme d’activités indiquant le genre et le volume des opérations envisagées, la structure comptable et administrative de l’établissement et l’infrastructure technique et humaine pour le traitement des opérations sur titres dématérialisés et, le cas échéant, les opérations sur espèces correspondantes. (4) La décision prise sur une demande d’agrément doit être motivée et notifiée au demandeur dans les six mois de la réception de la demande ou, si celle-ci est incomplète, dans les six mois de la réception des renseignements nécessaires à la décision. Il est en tout cas statué dans les douze mois de la réception de la demande, faute de quoi l’absence de décision équivaut à la notification d’une décision de refus. La décision peut être déférée, dans le délai d’un mois sous peine de forclusion, au tribunal administratif, qui statue comme juge du fond.
+- Il est ajouté à la Partie I, chapitre 2, section 2 une nouvelle sous-section 2bis de la teneur suivante:
+
+##### « Sous-section 2bis: Dispositions particulières aux teneurs de compte central
+
+<a id="art-28-11"></a>
+## Art. 28-11.
+
+Les teneurs de compte central
+
+(1)
+
+Sont teneurs de compte central les personnes dont l’activité consiste dans la tenue de comptes d’émission de titres dématérialisés.
+
+(2)
+
+A l’exception des organismes de liquidation au sens de la loi relative aux titres dématérialisés, aucune personne ne peut exercer l’activité de teneur de compte central sans être en possession d’un agrément écrit du Ministre ayant dans ses attributions la CSSF.
+
+<a id="art-28-12"></a>
+## Art. 28-12.
+
+Les conditions de l’agrément
+
+(1)
+
+Peuvent seuls obtenir l’agrément en tant que teneur de compte central:
+
+- les établissements de crédit et les entreprises d’investissement de droit luxembourgeois;
+
+- les succursales luxembourgeoises d’établissements de crédit agréés dans un autre Etat membre;
+
+- les succursales luxembourgeoises d’entreprises d’investissement de personnes morales agréées dans un autre Etat membre.
+
+(2)
+
+En vue de l’obtention de l’agrément, le demandeur doit justifier:
+
+- qu’au moins une des personnes chargées de la gestion de l’établissement dispose d’une expérience professionnelle adéquate par le fait d’avoir déjà exercé des activités analogues à un niveau élevé de responsabilité et d’autonomie;
+
+- qu’il dispose d’un solide dispositif de gouvernance interne, comprenant notamment une structure organisationnelle claire avec un partage des responsabilités qui soit bien défini, transparent et cohérent, des processus efficaces de détection, de gestion, de contrôle et de déclaration des risques auxquels il est ou pourrait être exposé, des mécanismes adéquats de contrôle interne, y compris des procédures administratives et comptables saines ainsi que des mécanismes de contrôle et de sécurité de ses systèmes informatiques adaptés pour la tenue de comptes centraux. La tenue de comptes centraux comprend en particulier:
+
+  - l’enregistrement dans un compte d’émission de l’intégralité des titres composant chaque émission admise à ses opérations;
+
+  - les mécanismes assurant la circulation des titres par virement de compte à compte;
+
+  - les procédures permettant de vérifier que le montant total de chaque émission admise à ses opérations et enregistrée dans un compte d’émission est égal à la somme des titres enregistrés aux comptes-titres de ses titulaires de compte;
+
+  - la prise des dispositions nécessaires pour permettre l’exercice des droits attachés aux titres inscrits en compte-titres.
+
+(3)
+
+L’agrément pour l’activité de teneur de compte central est subordonné à la justification d’un capital social d’une valeur de 730.000 euros au moins.
+
+<a id="art-28-13"></a>
+## Art. 28-13.
+
+La procédure d’agrément
+
+(1)
+
+L’agrément est accordé sur demande écrite et après instruction par la CSSF portant sur les conditions exigées par la présente loi.
+
+(2)
+
+La durée de l’agrément est illimitée. Lorsque l’agrément est accordé, le teneur de compte central peut immédiatement commencer son activité.
+
+(3)
+
+La demande d’agrément doit être accompagnée de tous les renseignements nécessaires à son appréciation ainsi que d’un programme d’activités indiquant le genre et le volume des opérations envisagées, la structure comptable et administrative de l’établissement et l’infrastructure technique et humaine pour le traitement des opérations sur titres dématérialisés et, le cas échéant, les opérations sur espèces correspondantes.
+
+(4)
+
+La décision prise sur une demande d’agrément doit être motivée et notifiée au demandeur dans les six mois de la réception de la demande ou, si celle-ci est incomplète, dans les six mois de la réception des renseignements nécessaires à la décision. Il est en tout cas statué dans les douze mois de la réception de la demande, faute de quoi l’absence de décision équivaut à la notification d’une décision de refus. La décision peut être déférée, dans le délai d’un mois sous peine de forclusion, au tribunal administratif, qui statue comme juge du fond.
 
 - Il est ajouté au paragraphe (1) de l’article 64 une référence à l’article «28-11».
 
@@ -393,51 +464,340 @@ La loi modifiée du 5 avril 1993 relative au secteur financier est modifiée com
 
 La loi modifiée du 10 août 1915 concernant les sociétés commerciales est modifiée comme suit:
 
-- Le point 8) de l’article 27 est modifié comme suit: «8) la forme nominative, au porteur ou dématérialisée des actions ainsi que de toute disposition complémentaire ou dérogatoire à la loi;».
+- Le point 8) de l’article 27 est modifié comme suit:
 
-- Le quatrième alinéa de l’article 37 est modifié comme suit: Les actions et parts sont nominatives, au porteur ou dématérialisées.
+«8) la forme nominative, au porteur ou dématérialisée des actions ainsi que de toute disposition complémentaire ou dérogatoire à la loi;».
 
-- Le dernier alinéa de l’article 37 est modifié comme suit: Les actions et les coupures portent un numéro d’ordre, sauf si elles sont dématérialisées.
+- Le quatrième alinéa de l’article 37 est modifié comme suit:
 
-- Le dernier tiret de l’article 39 est modifié comme suit: les transferts avec leur date ou la conversion des actions en titres au porteur ou en titres dématérialisés, si les statuts l’autorisent.
+Les actions et parts sont nominatives, au porteur ou dématérialisées.
 
-- Le deuxième alinéa de l’article 40 est remplacé par le texte suivant: La société doit satisfaire à la demande d’une personne inscrite sur le registre d’émettre un certificat relatif aux titres inscrits au nom de cette personne.
+- Le dernier alinéa de l’article 37 est modifié comme suit:
 
-- Il est ajouté un nouvel alinéa à la fin de l’article 41 qui se lit comme suit: L’alinéa précédent n’est pas applicable aux titres d’action collectifs prenant la forme de certificats globaux au porteur déposés auprès d’un système de règlement des opérations sur titres. Le nombre de titres représentés par ces certificats doit être déterminé ou déterminable.
+Les actions et les coupures portent un numéro d’ordre, sauf si elles sont dématérialisées.
 
-- Il est inséré entre l’article 42 et l’article 43 un nouvel article 42 bis : Art. 42 bis. L’action dématérialisée est matérialisée par une inscription en compte-titres au nom du titulaire de compte auprès d’un organisme de liquidation, d’un teneur de compte central, d’un teneur de comptes ou d’un teneur de comptes étranger. La cession s’opère par virement de compte à compte.
+- Le dernier tiret de l’article 39 est modifié comme suit:
 
-- Les deux derniers alinéas de l’article 43 sont remplacés par le texte suivant: Les propriétaires d’actions ou de titres au porteur peuvent, à toute époque, en demander la conversion, à leurs frais, en actions ou titres nominatifs ou, si les statuts le prévoient, en actions ou titres dématérialisés. Dans ce dernier cas, les frais sont à la charge de la personne prévue par la loi relative aux titres dématérialisés. A moins d’une défense formelle exprimée dans les statuts, les propriétaires d’actions ou de titres nominatifs peuvent, à toute époque, en demander la conversion en actions ou en titres au porteur. Si les statuts le prévoient, les propriétaires d’actions ou titres nominatifs peuvent en demander la conversion en actions ou titres dématérialisés. Les frais sont à charge de la personne prévue par la loi relative aux titres dématérialisés. Les porteurs d’actions ou de titres dématérialisés peuvent, à toute époque, en demander la conversion, à leurs frais, en actions ou titres nominatifs sauf si les statuts prévoient la dématérialisation obligatoire des actions ou titres.
+- les transferts avec leur date ou la conversion des actions en titres au porteur ou en titres dématérialisés, si les statuts l’autorisent.
 
-- Il est ajouté à la loi un nouvel article 71 qui se lit comme suit: Art. 71. Les porteurs d’actions ou titres dématérialisés peuvent accéder à l’assemblée générale et exercer leurs droits uniquement s’ils détiennent lesdits actions ou titres dématérialisés au plus tard le quatorzième jour précédant l’assemblée à 24 heures, heure de Luxembourg.
+- Le deuxième alinéa de l’article 40 est remplacé par le texte suivant:
 
-- Les deux derniers alinéas de l’article 84 sont remplacés par les alinéas suivants: Les titres d’obligation collectifs prenant la forme de certificats globaux au porteur déposés auprès d’un système de règlement des opérations sur titres peuvent être signés par une ou plusieurs personnes autorisées par la société émettrice. Le nombre de titres représentés par ces certificats doit être déterminé ou déterminable. Les dispositions des articles 40, 42, 42bis et 43 al. 3, 4 et 5 sont applicables aux obligations.
+La société doit satisfaire à la demande d’une personne inscrite sur le registre d’émettre un certificat relatif aux titres inscrits au nom de cette personne.
 
-- Le troisième alinéa de l’article 137-4 (6) est modifié comme suit: A l’article 37, alinéa 2, les titres ou parts bénéficiaires mentionnés peuvent être nominatifs, au porteur ou dématérialisés pour la société coopérative organisée comme une société anonyme.
+- Il est ajouté un nouvel alinéa à la fin de l’article 41 qui se lit comme suit:
+
+L’alinéa précédent n’est pas applicable aux titres d’action collectifs prenant la forme de certificats globaux au porteur déposés auprès d’un système de règlement des opérations sur titres. Le nombre de titres représentés par ces certificats doit être déterminé ou déterminable.
+
+- Il est inséré entre l’article 42 et l’article 43 un nouvel article 42bis:
+
+<a id="art-42-bis"></a>
+## Art. 42 bis.
+
+L’action dématérialisée est matérialisée par une inscription en compte-titres au nom du titulaire de compte auprès d’un organisme de liquidation, d’un teneur de compte central, d’un teneur de comptes ou d’un teneur de comptes étranger. La cession s’opère par virement de compte à compte.
+
+- Les deux derniers alinéas de l’article 43 sont remplacés par le texte suivant:
+
+Les propriétaires d’actions ou de titres au porteur peuvent, à toute époque, en demander la conversion, à leurs frais, en actions ou titres nominatifs ou, si les statuts le prévoient, en actions ou titres dématérialisés. Dans ce dernier cas, les frais sont à la charge de la personne prévue par la loi relative aux titres dématérialisés.
+
+A moins d’une défense formelle exprimée dans les statuts, les propriétaires d’actions ou de titres nominatifs peuvent, à toute époque, en demander la conversion en actions ou en titres au porteur.
+
+Si les statuts le prévoient, les propriétaires d’actions ou titres nominatifs peuvent en demander la conversion en actions ou titres dématérialisés. Les frais sont à charge de la personne prévue par la loi relative aux titres dématérialisés.
+
+Les porteurs d’actions ou de titres dématérialisés peuvent, à toute époque, en demander la conversion, à leurs frais, en actions ou titres nominatifs sauf si les statuts prévoient la dématérialisation obligatoire des actions ou titres.
+
+- Il est ajouté à la loi un nouvel article 71 qui se lit comme suit:
+
+<a id="art-71"></a>
+## Art. 71.
+
+Les porteurs d’actions ou titres dématérialisés peuvent accéder à l’assemblée générale et exercer leurs droits uniquement s’ils détiennent lesdits actions ou titres dématérialisés au plus tard le quatorzième jour précédant l’assemblée à 24 heures, heure de Luxembourg.
+
+- Les deux derniers alinéas de l’article 84 sont remplacés par les alinéas suivants:
+
+Les titres d’obligation collectifs prenant la forme de certificats globaux au porteur déposés auprès d’un système de règlement des opérations sur titres peuvent être signés par une ou plusieurs personnes autorisées par la société émettrice. Le nombre de titres représentés par ces certificats doit être déterminé ou déterminable. Les dispositions des articles 40, 42, 42bis et 43 al. 3, 4 et 5 sont applicables aux obligations.
+
+- Le troisième alinéa de l’article 137-4 (6) est modifié comme suit:
+
+A l’article 37, alinéa 2, les titres ou parts bénéficiaires mentionnés peuvent être nominatifs, au porteur ou dématérialisés pour la société coopérative organisée comme une société anonyme.
 
 <a id="art-24"></a>
 ## Art. 24.
 
 La loi modifiée du 3 septembre 1996 concernant la dépossession involontaire de titres au porteur est modifiée comme suit:
 
-- Les points a), b) et c) de l’article 4 (2) sont modifiés comme suit: Toute publication d’opposition postérieure à l’inscription d’un titre dans un compte-titres; ou à la vente du titre par l’émetteur ou l’annulation du titre conformément à la loi relative aux titres dématérialisés est sans effet. L’organisme de liquidation, le teneur de compte central ou le teneur de comptes ou, selon le cas, l’émetteur peuvent demander à l’organisme de centralisation de procéder à la levée d’une pareille opposition en lui attestant par écrit la date de la survenance de l’un des événements repris au point a) ci-dessus. La levée d’office est portée à la connaissance de l’opposant et publiée par l’organisme de centralisation de la même façon qu’une mainlevée, conformément au paragraphe (3) de l’article 6. L’organisme de centralisation ne peut plus par la suite accepter d’opposition sur ce même titre qui serait motivée par des faits antérieurs à l’un des événements repris au point a) ci-dessus.
+- Les points a), b) et c) de l’article 4 (2) sont modifiés comme suit:
 
-- L’article 8 (1) est modifié comme suit: (1) La déchéance du titre entraîne au profit de l’opposant le droit d’exercer les droits attachés au titre dès l’émission d’un nouveau titre en sa faveur ou l’inscription du titre dans son compte-titres et de toucher les arrérages et le capital échus.
+- Toute publication d’opposition postérieure est sans effet.
 
-- La première phrase de l’article 9 (3) est modifiée comme suit: Nonobstant le paragraphe (2) ci-dessus et l’article 8 et même avant la déchéance du titre frappé d’opposition, l’émetteur peut, sous sa responsabilité, délivrer un titre de même genre, sous forme physique ou, selon le cas, dématérialisée, que le titre frappé d’opposition ou payer à l’opposant tout intérêt, dividende, capital ou autre distribution du titre frappé d’opposition.
+  - à l’inscription d’un titre dans un compte-titres; ou
 
-- Il est ajouté un second alinéa à l’article 10: La délivrance d’un nouveau titre ne peut se faire que sous forme d’inscription d’un titre dématérialisé dans un compte-titres du propriétaire du titre si, lors de la délivrance, le titre en cause peut circuler sous forme dématérialisée.
+  - à la vente du titre par l’émetteur ou l’annulation du titre conformément à la loi relative aux titres dématérialisés
+
+- L’organisme de liquidation, le teneur de compte central ou le teneur de comptes ou, selon le cas, l’émetteur peuvent demander à l’organisme de centralisation de procéder à la levée d’une pareille opposition en lui attestant par écrit la date de la survenance de l’un des événements repris au point a) ci-dessus. La levée d’office est portée à la connaissance de l’opposant et publiée par l’organisme de centralisation de la même façon qu’une mainlevée, conformément au paragraphe (3) de l’article 6.
+
+- L’organisme de centralisation ne peut plus par la suite accepter d’opposition sur ce même titre qui serait motivée par des faits antérieurs à l’un des événements repris au point a) ci-dessus.
+
+- L’article 8 (1) est modifié comme suit:
+
+(1)
+
+La déchéance du titre entraîne au profit de l’opposant le droit d’exercer les droits attachés au titre dès l’émission d’un nouveau titre en sa faveur ou l’inscription du titre dans son compte-titres et de toucher les arrérages et le capital échus.
+
+- La première phrase de l’article 9 (3) est modifiée comme suit:
+
+Nonobstant le paragraphe (2) ci-dessus et l’article 8 et même avant la déchéance du titre frappé d’opposition, l’émetteur peut, sous sa responsabilité, délivrer un titre de même genre, sous forme physique ou, selon le cas, dématérialisée, que le titre frappé d’opposition ou payer à l’opposant tout intérêt, dividende, capital ou autre distribution du titre frappé d’opposition.
+
+- Il est ajouté un second alinéa à l’article 10:
+
+La délivrance d’un nouveau titre ne peut se faire que sous forme d’inscription d’un titre dématérialisé dans un compte-titres du propriétaire du titre si, lors de la délivrance, le titre en cause peut circuler sous forme dématérialisée.
 
 <a id="art-25"></a>
 ## Art. 25.
 
 La loi modifiée du 1er août 2001 concernant la circulation de titres et d’autres instruments fongibles est modifiée comme suit:
 
-- L’intitulé de la loi est modifié comme suit: Loi du 1er août 2001 concernant la circulation de titres .
+- L’intitulé de la loi est modifié comme suit: Loi du 1er août 2001 concernant la circulation de titres.
 
-- Les sections 1 à 5 de la loi sont abrogées et remplacées par les dispositions qui suivent: Section 1 Champ d’application Art. 1. (1) La présente loi s’applique aux titres au sens le plus large qui sont reçus en dépôt ou tenus en compte-titres par un teneur de comptes et qui sont ou sont déclarés fongibles, qu’ils soient matérialisés ou dématérialisés, au porteur, à ordre ou nominatifs, luxembourgeois ou étrangers et quelle que soit la forme sous laquelle ils ont été émis selon le droit qui les régit. (2) La loi s’applique uniquement aux titres inscrits en compte-titres et qui circulent par virement de compte à compte. (3) Sont réputés fongibles les titres reçus en dépôt ou tenus en compte-titres auprès d’un teneur de comptes sans indication de numéros ou d’autres éléments d’identification individuels. Section 2 Définitions Art. 2. Aux fins de la présente loi, on entend par: «acquéreur»: (i) un titulaire de compte dont le compte-titres a été crédité, ou (ii) une personne, autre que le titulaire de compte, à qui un droit réel a été conféré sur les titres; «compte-titres»: un compte tenu par le teneur de comptes sur lequel des titres peuvent être crédités et duquel des titres peuvent être débités. Le compte d’émission tenu par un organisme de liquidation ou un teneur de compte central ne constitue pas un compte-titres; «écriture défectueuse»: un crédit de titres ou la création d’un droit sur titres rendu opposable aux tiers qui n’est pas valable ou qui est susceptible d’être contre-passé, y compris un crédit ou un droit conditionnel qui est frappé d’invalidité ou susceptible d’être contre-passé par l’effet de la réalisation ou de la non-réalisation de la condition; «investisseur»: le titulaire de compte qui n’agit pas comme teneur de comptes pour une autre personne; des titres sont de «même genre» que d’autres titres s’ils sont émis par le même émetteur et si: ils font partie de la même catégorie de titres de capital ou; il s’agit de titres autres que de capital, ils sont libellés dans la même monnaie, ont la même valeur nominale et sont considérés comme faisant partie de la même émission; «procédure de liquidation»: une procédure collective comprenant la réalisation des actifs et la répartition du produit de cette réalisation entre les créanciers, les actionnaires, les associés ou les membres selon les cas, et comportant l’intervention d’une autorité administrative ou judiciaire, y compris lorsque cette procédure est clôturée par un concordat ou une autre mesure analogue, qu’elle soit ou non fondée sur une insolvabilité et indépendamment de son caractère volontaire ou obligatoire; «teneur de comptes»: toute personne autorisée en vertu de la loi luxembourgeoise à tenir des comptes-titres y compris les organismes nationaux ou internationaux à caractère public établis au Luxembourg et opérant dans le secteur financier; «teneur de comptes étranger»: toute personne, autre que celle visée au point 7) du présent article, dont l’activité de tenue de comptes-titres est soumise à une loi étrangère; «teneur de comptes pertinent»: désigne, s’agissant d’un compte-titres, le teneur de comptes ou, le cas échéant, le teneur de comptes étranger qui tient le compte-titres pour le titulaire de compte; «titulaire de compte»: une personne au nom de laquelle un teneur de comptes tient un compte-titres, que cette personne agisse pour son propre compte ou pour le compte de tiers. Section 3 Des titulaires de compte Art. 3. (1) Le titulaire de compte bénéficie, à concurrence du nombre de titres inscrits en son compte-titres, d’un droit réel de nature incorporelle sur l’ensemble des titres de même genre tenus en compte par le teneur de comptes pertinent, des droits attachés aux titres et des droits prévus par la présente loi. Sous réserve de dispositions légales contraires, il ne peut faire valoir ses droits qu’à l’égard du teneur de comptes pertinent. (2) Les titres inscrits en compte sont susceptibles de démembrement au même titre que les droits de propriété. Art. 4. (1) L’acquisition par le titulaire de compte de titres résulte de l’inscription de ces titres au crédit de son compte-titres. (2) En cas de procédure de liquidation de son teneur de comptes, le titulaire du compte-titres acquiert les droits sur les titres dès que les titres sont crédités sur le compte-titres de son teneur de comptes auprès du teneur de comptes de ce dernier ou inscrits sur le registre au nom ou pour le compte de son teneur de comptes et avant inscription au crédit de son propre compte-titres. Art. 5. (1) Le titulaire de compte peut, à tout moment, demander, à ses frais, au teneur de comptes pertinent, la restitution des titres inscrits dans son compte-titres et dont il a la libre disposition. (2) Pour les titres au porteur, le teneur de comptes remet ou fait remettre, si possible, physiquement au titulaire de compte les titres de même genre que ceux inscrits au crédit de son compte-titres. Pour les titres nominatifs, le teneur de compte inscrit ou fait inscrire, si possible, le titulaire de compte dans le registre de titres tenus par ou pour l’émetteur. Si les titres sont dématérialisés, sont stipulés non livrables sous forme de titres physiques individuels ou si ceci n’est pas conforme aux usages dans le marché du pays où est situé le teneur de comptes-titres tenant la globalité des titres de même genre alors le teneur de comptes peut satisfaire à son obligation de restitution en virant les titres sur un compte-titres désigné par le titulaire de compte. (3) Le don manuel de titres peut se faire par virement de compte à compte. Art. 6. Le titulaire de compte peut demander à tout moment au teneur de comptes qu’il établisse un certificat relatif aux titres inscrits à son compte-titres. Ce certificat n’est pas un titre. Art. 7. (1) Le teneur de comptes pertinent est tenu d’exécuter les instructions du titulaire de compte conformément à l’accord qui les lie ou des tiers disposant de droits sur les titres. (2) Sans préjudice des dispositions du Titre V de la loi relative aux services de paiement une instruction peut être révoquée par le donneur d’ordre pendant les heures d’ouverture du teneur de comptes jusqu’au moment convenu entre le teneur de comptes et le titulaire de compte ou fixé dans les règles établies par un système de règlement des opérations sur titres, un organisme de liquidation ou un teneur de compte central. Art. 8. (1) L’investisseur peut exercer ou faire exercer les droits associatifs attachés aux titres et les droits d’action liés à la détention des titres moyennant production d’un certificat établi par le teneur de comptes pertinent certifiant le nombre de titres inscrits en son compte-titres. (2) En vue de la participation à leurs assemblées générales, les sociétés luxembourgeoises ne peuvent exiger la production des titres au porteur, l’inscription dans le registre des actions nominatives ou un transfert particulier des titres dématérialisés lorsque ces titres sont inscrits en compte-titres. La preuve des droits sur les titres résulte dans ce cas à suffisance d’une attestation établie par le teneur de comptes pertinent confirmant le nombre de titres tenus en compte-titres et, le cas échéant, leur indisponibilité jusqu’à une certaine date. La société peut, dans ses règles relatives à la tenue d’assemblées, prévoir que l’investisseur devra, sur demande, produire des pièces justificatives de l’inscription des titres à travers la chaîne de détention des titres. (3) Si un teneur de comptes, le cas échéant étranger, ou un tiers désigné par un tel teneur de comptes est inscrit sur le registre des actions nominatives de l’émetteur, ce teneur de comptes ou tiers désigné peut exercer, sur base des instructions qu’il reçoit, les droits de vote attachés aux titres pour lesquels il est inscrit dans le registre. (4) Si un tiers, autre que l’investisseur, entend participer à un vote, l’émetteur peut, si ses statuts, les conditions d’émission ou de convocation de l’assemblée le prévoient, exiger l’identification du ou des investisseurs ayant donné les instructions de vote. Au cas où il n’est pas satisfait à l’exigence de l’émetteur, le bureau de l’assemblée peut priver la personne en cause de l’exercice du droit de vote. L’émetteur n’est pas tenu de vérifier l’existence ou la teneur des instructions données au tiers qui exprime un vote. Art. 9. En cas de procédure de liquidation ou de procédure d’assainissement d’un titulaire de compte, les créanciers de celui-ci peuvent faire valoir leurs droits sur le solde disponible des titres inscrits en compte-titres au nom et pour le compte de leur débiteur, après déduction ou addition des titres qui, en vertu d’engagements conditionnels, d’engagements dont le montant est incertain ou d’engagements à terme, sont inscrits, le cas échéant, dans une partie distincte de ce compte au jour de l’ouverture de l’une des procédures précitées et dont l’inclusion dans le solde disponible est différée jusqu’à la réalisation de la condition, la détermination du montant ou l’échéance du terme. Les engagements conditionnels ou dont le montant est incertain, ou les engagements à terme, visés à l’alinéa précédent, sont limités aux engagements découlant d’une relation juridique entre le titulaire de compte concerné et le teneur de comptes pertinent. Art. 10. (1) En cas de procédure de liquidation du teneur de comptes, la revendication du nombre de titres dont le teneur de comptes est redevable s’exerce auprès du liquidateur collectivement sur l’universalité des titres de même genre que le teneur de comptes conserve, fait conserver, a inscrit à son nom ou celui d’un tiers désigné sous quelque forme que ce soit ou inscrit au nom du teneur de comptes pertinent auprès d’un autre teneur de comptes. (2) Si cette universalité est insuffisante pour assurer la restitution intégrale des titres inscrits en compte, elle sera répartie entre les titulaires de compte en proportion de leurs droits. Dans ce cas, et hors les hypothèses visées à l’article 18, si le teneur de comptes dispose dans son patrimoine propre d’un nombre de titres de même genre, ces titres sont ajoutés à l’universalité des titres de même genre à répartir entre les titulaires de compte et il ne demeurera au teneur de comptes que le nombre de titres qui subsiste après que le nombre total de titres de même genre détenus par lui pour compte de ses titulaires de compte ou à titre fiduciaire pour des tiers aura pu être restitué. Si le titulaire de compte a autorisé le teneur de comptes à disposer de ses titres, et pour autant qu’une telle disposition ait eu lieu dans les limites de cette autorisation et que les titres n’ont pas encore été restitués au titulaire de compte au moment de l’ouverture de la procédure de liquidation et ne sont pas restitués par la suite, il ne sera attribué au titulaire de compte que les titres qui subsistent après que la totalité des titres du même genre revenant aux autres titulaires de compte leur aura été restituée. Toutefois lorsque, dans le cadre de la disposition des titres, le teneur de comptes a obtenu des sûretés de tiers afin de garantir la restitution de ces titres, le produit de réalisation de ces sûretés reviendra, à due proportion, au titulaire de compte comme s’il avait été lui-même le bénéficiaire direct de ces sûretés. (3) Le titulaire de compte qui n’aura pu obtenir la restitution de l’intégralité des titres inscrits au crédit de son compte-titres à la date d’ouverture d’une procédure de liquidation devra déclarer sa créance comme créancier chirographaire pour un montant égal à la valeur des titres non restitués à la date d’ouverture de la procédure. (4) Les dispositions du présent article sont également applicables en faveur des titulaires de compte qui tiennent un compte-titres auprès d’une personne au Luxembourg qui ne dispose pas de l’agrément nécessaire pour agir comme teneur de comptes. Section 4 De l’intégrité du système Art. 11. (1) Aucune saisie de titres d’un titulaire de compte ne peut être effectuée à l’encontre de, ou de manière à affecter: un compte-titres de toute autre personne que le titulaire de compte; l’émetteur de tout titre crédité sur un compte-titres du titulaire de compte; ou une autre personne que le titulaire de compte ou le teneur de comptes pertinent. (2) Toute saisie faite en violation du paragraphe (1) est nulle. (3) Dans le présent article, «saisie de titres d’un titulaire de compte» signifie tout acte ou procédure judiciaire, administratif ou autre consistant à bloquer, séquestrer, restreindre ou confisquer des titres du titulaire de compte afin de mettre en œuvre ou d’exécuter un jugement, une sentence ou une autre décision judiciaire, arbitrale, administrative ou autre, ou destiné à garantir la disponibilité de ces titres pour mettre en œuvre ou exécuter un jugement, une sentence ou une décision à intervenir dans le futur. Art. 12. (1) Sauf si un acquéreur a effectivement connaissance, au moment où il acquiert les titres, qu’un tiers est titulaire d’un droit sur des titres et qu’un crédit au compte-titres de l’acquéreur ou la création d’un droit réel sur les titres opposable aux tiers conféré à l’acquéreur constitue une violation du droit d’un tiers: le droit de l’acquéreur n’est pas grevé par le droit du tiers; l’acquéreur n’encourt aucune responsabilité envers le tiers; et le crédit ou le droit conféré à l’acquéreur n’est pas frappé d’invalidité, inopposable aux tiers ou susceptible d’être contre-passé au motif que ce crédit ou ce droit affecte les droits du tiers. (2) Sauf si un acquéreur a effectivement connaissance, au moment où il acquiert les titres ou son droit sur les titres, d’une écriture défectueuse antérieure: le crédit ou le droit conféré à l’acquéreur n’est pas frappé d’invalidité, inopposable aux tiers ou susceptible d’être contre-passé en conséquence de cette écriture défectueuse; et l’acquéreur n’encourt aucune responsabilité envers toute personne qui bénéficierait de cette invalidité ou de cette contre-passation. (3) Les paragraphes (1) et (2) ne s’appliquent pas à une acquisition de titres, autre qu’une garantie ou sûreté, lorsque cette acquisition est faite par voie de donation ou de toute autre manière à titre gratuit. (4) Les paragraphes (1) et (2) sont sans préjudice de l’article 7 de la loi du 5 août 2005 sur les contrats de garantie financière. (5) Sans préjudice d’autres chefs de responsabilité et des droits de tiers, si l’acquéreur n’est pas protégé dans son acquisition, il est tenu de restituer des titres en même nombre et de même genre. Si l’acquéreur tenu à la restitution fait l’objet d’une procédure de liquidation, l’ayant droit peut revendiquer des titres en même nombre et de même genre, dans la mesure où de tels titres se trouvent dans la masse. Section 5 Du teneur de comptes Art. 13. Sous réserves des dérogations résultant de la loi ou de la nature des titres détenus auprès d’un teneur de comptes, les dispositions du Code civil relatives au dépôt s’appliquent dans la relation entre le teneur de comptes et le titulaire de compte. Art. 14. Le teneur de comptes doit veiller à détenir, auprès de lui-même, d’un autre teneur de comptes ou auprès d’un teneur de comptes étranger, des titres en nombre et en genre identique au nombre et au genre des titres inscrits au crédit des comptes-titres de ses titulaires de compte. En cas de découvert qui ne peut être comblé, le teneur de comptes doit, soit augmenter le nombre de titres qu’il détient, soit réduire le nombre de titres inscrits dans les comptes-titres de ses titulaires de compte, dans le délai et aux frais indiqués dans la convention entre le teneur de comptes et le titulaire de compte ou dans les règles applicables dans les systèmes des opérations sur titres, les organismes de liquidation ou les teneurs de compte central. Art. 15. Sans préjudice des dispositions du Titre V de la loi relative aux services de paiement, en cas de livraison de titres contre règlement d’espèces, le défaut de livraison ou de règlement constaté à la date et dans les conditions applicables dans le marché pertinent ou fixé par une convention entre les parties ou les règles d’un système de règlement des opérations sur titres délie de plein droit les parties de leurs obligations de livraison ou de paiement, sans préjudice de la responsabilité de la partie défaillante. Les règles des systèmes de règlement des opérations sur titres priment les conventions des parties. Art. 16. Lorsque le teneur de comptes pertinent procède à la livraison des titres ou au paiement du prix en se substituant au titulaire de compte défaillant, il acquiert la propriété à titre de garantie des titres ou des espèces reçues en contrepartie. Ce transfert de propriété à titre de garantie est régi par les dispositions de la loi du 5 août 2005 sur les contrats de garantie financière. Art. 17. Le teneur de comptes peut donner en dépôt auprès d’autres teneurs de comptes ou teneurs de comptes étrangers, par versement en compte ou autrement, les titres versés ou virés sur les comptes-titres qu’il tient ou se faire inscrire directement ou indirectement sur le registre des titres en cause par rapport à ces titres. Il doit tenir ces titres séparés de ses propres titres auprès de ces autres teneurs de comptes ou dépositaires. Ni l’application de la présente loi, ni la situation des titres qui continue d’être chez le teneur de comptes pertinent, ni la validité ou l’opposabilité de sûretés ou garanties constituées conformément à la loi du 5 août 2005 sur les contrats de garantie financière ne sont affectées par ce dépôt. Art. 18. En cas de perte ou de destruction totale par cas de force majeure d’un ensemble de titres de même genre, le teneur de comptes doit former les oppositions nécessaires et pourvoir à la reconstitution des titres perdus ou détruits. Si la perte ou la destruction par cas de force majeure n’a été que partielle et si la reconstitution des titres perdus ou détruits n’a pu être obtenue, l’ensemble des titres de même genre sera réparti entre les titulaires de compte lésés dans la proportion de leurs droits. Si la perte ou la destruction a été la conséquence de faits engageant la responsabilité du teneur de comptes et si la reconstitution des titres perdus ou détruits n’a pas pu être obtenue, la revendication des titulaires de compte lésés sur les titres restants s’exercera conformément à l’alinéa précédent. Pour la partie de leurs droits qui n’aura pas été couverte, les titulaires de compte lésés sont créanciers chirographaires du teneur de comptes.
+- Les sections 1 à 5 de la loi sont abrogées et remplacées par les dispositions qui suivent:
 
-- Le titre de la section 6 est modifié comme suit: Section 6 - Des règles spéciales applicables aux teneurs de comptes opérant à titre principal un système de règlement des opérations sur titres. .
+##### Section 1 Champ d’application
+
+<a id="art-1"></a>
+## Art. 1.
+
+(1)
+
+La présente loi s’applique aux titres au sens le plus large qui sont reçus en dépôt ou tenus en compte-titres par un teneur de comptes et qui sont ou sont déclarés fongibles, qu’ils soient matérialisés ou dématérialisés, au porteur, à ordre ou nominatifs, luxembourgeois ou étrangers et quelle que soit la forme sous laquelle ils ont été émis selon le droit qui les régit.
+
+(2)
+
+La loi s’applique uniquement aux titres inscrits en compte-titres et qui circulent par virement de compte à compte.
+
+(3)
+
+Sont réputés fongibles les titres reçus en dépôt ou tenus en compte-titres auprès d’un teneur de comptes sans indication de numéros ou d’autres éléments d’identification individuels.
+
+##### Section 2 Définitions
+
+Art. 2.
+
+Aux fins de la présente loi, on entend par:
+
+- «acquéreur»: (i) un titulaire de compte dont le compte-titres a été crédité, ou (ii) une personne, autre que le titulaire de compte, à qui un droit réel a été conféré sur les titres;
+
+- «compte-titres»: un compte tenu par le teneur de comptes sur lequel des titres peuvent être crédités et duquel des titres peuvent être débités. Le compte d’émission tenu par un organisme de liquidation ou un teneur de compte central ne constitue pas un compte-titres;
+
+- «écriture défectueuse»: un crédit de titres ou la création d’un droit sur titres rendu opposable aux tiers qui n’est pas valable ou qui est susceptible d’être contre-passé, y compris un crédit ou un droit conditionnel qui est frappé d’invalidité ou susceptible d’être contre-passé par l’effet de la réalisation ou de la non-réalisation de la condition;
+
+- «investisseur»: le titulaire de compte qui n’agit pas comme teneur de comptes pour une autre personne;
+
+- des titres sont de «même genre» que d’autres titres s’ils sont émis par le même émetteur et si:
+
+  - ils font partie de la même catégorie de titres de capital ou;
+
+  - il s’agit de titres autres que de capital, ils sont libellés dans la même monnaie, ont la même valeur nominale et sont considérés comme faisant partie de la même émission;
+
+- «procédure de liquidation»: une procédure collective comprenant la réalisation des actifs et la répartition du produit de cette réalisation entre les créanciers, les actionnaires, les associés ou les membres selon les cas, et comportant l’intervention d’une autorité administrative ou judiciaire, y compris lorsque cette procédure est clôturée par un concordat ou une autre mesure analogue, qu’elle soit ou non fondée sur une insolvabilité et indépendamment de son caractère volontaire ou obligatoire;
+
+- «teneur de comptes»: toute personne autorisée en vertu de la loi luxembourgeoise à tenir des comptes-titres y compris les organismes nationaux ou internationaux à caractère public établis au Luxembourg et opérant dans le secteur financier;
+
+- «teneur de comptes étranger»: toute personne, autre que celle visée au point 7) du présent article, dont l’activité de tenue de comptes-titres est soumise à une loi étrangère;
+
+- «teneur de comptes pertinent»: désigne, s’agissant d’un compte-titres, le teneur de comptes ou, le cas échéant, le teneur de comptes étranger qui tient le compte-titres pour le titulaire de compte;
+
+- «titulaire de compte»: une personne au nom de laquelle un teneur de comptes tient un compte-titres, que cette personne agisse pour son propre compte ou pour le compte de tiers.
+
+##### Section 3 Des titulaires de compte
+
+Art. 3.
+
+(1)
+
+Le titulaire de compte bénéficie, à concurrence du nombre de titres inscrits en son compte-titres, d’un droit réel de nature incorporelle sur l’ensemble des titres de même genre tenus en compte par le teneur de comptes pertinent, des droits attachés aux titres et des droits prévus par la présente loi. Sous réserve de dispositions légales contraires, il ne peut faire valoir ses droits qu’à l’égard du teneur de comptes pertinent.
+
+(2)
+
+Les titres inscrits en compte sont susceptibles de démembrement au même titre que les droits de propriété.
+
+Art. 4.
+
+(1)
+
+L’acquisition par le titulaire de compte de titres résulte de l’inscription de ces titres au crédit de son compte-titres.
+
+(2)
+
+En cas de procédure de liquidation de son teneur de comptes, le titulaire du compte-titres acquiert les droits sur les titres dès que les titres sont crédités sur le compte-titres de son teneur de comptes auprès du teneur de comptes de ce dernier ou inscrits sur le registre au nom ou pour le compte de son teneur de comptes et avant inscription au crédit de son propre compte-titres.
+
+Art. 5.
+
+(1)
+
+Le titulaire de compte peut, à tout moment, demander, à ses frais, au teneur de comptes pertinent, la restitution des titres inscrits dans son compte-titres et dont il a la libre disposition.
+
+(2)
+
+Pour les titres au porteur, le teneur de comptes remet ou fait remettre, si possible, physiquement au titulaire de compte les titres de même genre que ceux inscrits au crédit de son compte-titres.
+
+Pour les titres nominatifs, le teneur de compte inscrit ou fait inscrire, si possible, le titulaire de compte dans le registre de titres tenus par ou pour l’émetteur.
+
+Si les titres sont dématérialisés, sont stipulés non livrables sous forme de titres physiques individuels ou si ceci n’est pas conforme aux usages dans le marché du pays où est situé le teneur de comptes-titres tenant la globalité des titres de même genre alors le teneur de comptes peut satisfaire à son obligation de restitution en virant les titres sur un compte-titres désigné par le titulaire de compte.
+
+(3)
+
+Le don manuel de titres peut se faire par virement de compte à compte.
+
+Art. 6.
+
+Le titulaire de compte peut demander à tout moment au teneur de comptes qu’il établisse un certificat relatif aux titres inscrits à son compte-titres. Ce certificat n’est pas un titre.
+
+Art. 7.
+
+(1)
+
+Le teneur de comptes pertinent est tenu d’exécuter les instructions du titulaire de compte conformément à l’accord qui les lie ou des tiers disposant de droits sur les titres.
+
+(2)
+
+Sans préjudice des dispositions du Titre V de la loi relative aux services de paiement une instruction peut être révoquée par le donneur d’ordre pendant les heures d’ouverture du teneur de comptes jusqu’au moment convenu entre le teneur de comptes et le titulaire de compte ou fixé dans les règles établies par un système de règlement des opérations sur titres, un organisme de liquidation ou un teneur de compte central.
+
+Art. 8.
+
+(1)
+
+L’investisseur peut exercer ou faire exercer les droits associatifs attachés aux titres et les droits d’action liés à la détention des titres moyennant production d’un certificat établi par le teneur de comptes pertinent certifiant le nombre de titres inscrits en son compte-titres.
+
+(2)
+
+En vue de la participation à leurs assemblées générales, les sociétés luxembourgeoises ne peuvent exiger la production des titres au porteur, l’inscription dans le registre des actions nominatives ou un transfert particulier des titres dématérialisés lorsque ces titres sont inscrits en compte-titres. La preuve des droits sur les titres résulte dans ce cas à suffisance d’une attestation établie par le teneur de comptes pertinent confirmant le nombre de titres tenus en compte-titres et, le cas échéant, leur indisponibilité jusqu’à une certaine date. La société peut, dans ses règles relatives à la tenue d’assemblées, prévoir que l’investisseur devra, sur demande, produire des pièces justificatives de l’inscription des titres à travers la chaîne de détention des titres.
+
+(3)
+
+Si un teneur de comptes, le cas échéant étranger, ou un tiers désigné par un tel teneur de comptes est inscrit sur le registre des actions nominatives de l’émetteur, ce teneur de comptes ou tiers désigné peut exercer, sur base des instructions qu’il reçoit, les droits de vote attachés aux titres pour lesquels il est inscrit dans le registre.
+
+(4)
+
+Si un tiers, autre que l’investisseur, entend participer à un vote, l’émetteur peut, si ses statuts, les conditions d’émission ou de convocation de l’assemblée le prévoient, exiger l’identification du ou des investisseurs ayant donné les instructions de vote. Au cas où il n’est pas satisfait à l’exigence de l’émetteur, le bureau de l’assemblée peut priver la personne en cause de l’exercice du droit de vote.
+
+L’émetteur n’est pas tenu de vérifier l’existence ou la teneur des instructions données au tiers qui exprime un vote.
+
+Art. 9.
+
+En cas de procédure de liquidation ou de procédure d’assainissement d’un titulaire de compte, les créanciers de celui-ci peuvent faire valoir leurs droits sur le solde disponible des titres inscrits en compte-titres au nom et pour le compte de leur débiteur, après déduction ou addition des titres qui, en vertu d’engagements conditionnels, d’engagements dont le montant est incertain ou d’engagements à terme, sont inscrits, le cas échéant, dans une partie distincte de ce compte au jour de l’ouverture de l’une des procédures précitées et dont l’inclusion dans le solde disponible est différée jusqu’à la réalisation de la condition, la détermination du montant ou l’échéance du terme.
+
+Les engagements conditionnels ou dont le montant est incertain, ou les engagements à terme, visés à l’alinéa précédent, sont limités aux engagements découlant d’une relation juridique entre le titulaire de compte concerné et le teneur de comptes pertinent.
+
+Art. 10.
+
+(1)
+
+En cas de procédure de liquidation du teneur de comptes, la revendication du nombre de titres dont le teneur de comptes est redevable s’exerce auprès du liquidateur collectivement sur l’universalité des titres de même genre que le teneur de comptes conserve, fait conserver, a inscrit à son nom ou celui d’un tiers désigné sous quelque forme que ce soit ou inscrit au nom du teneur de comptes pertinent auprès d’un autre teneur de comptes.
+
+(2)
+
+Si cette universalité est insuffisante pour assurer la restitution intégrale des titres inscrits en compte, elle sera répartie entre les titulaires de compte en proportion de leurs droits. Dans ce cas, et hors les hypothèses visées à l’article 18, si le teneur de comptes dispose dans son patrimoine propre d’un nombre de titres de même genre, ces titres sont ajoutés à l’universalité des titres de même genre à répartir entre les titulaires de compte et il ne demeurera au teneur de comptes que le nombre de titres qui subsiste après que le nombre total de titres de même genre détenus par lui pour compte de ses titulaires de compte ou à titre fiduciaire pour des tiers aura pu être restitué.
+
+Si le titulaire de compte a autorisé le teneur de comptes à disposer de ses titres, et pour autant qu’une telle disposition ait eu lieu dans les limites de cette autorisation et que les titres n’ont pas encore été restitués au titulaire de compte au moment de l’ouverture de la procédure de liquidation et ne sont pas restitués par la suite, il ne sera attribué au titulaire de compte que les titres qui subsistent après que la totalité des titres du même genre revenant aux autres titulaires de compte leur aura été restituée. Toutefois lorsque, dans le cadre de la disposition des titres, le teneur de comptes a obtenu des sûretés de tiers afin de garantir la restitution de ces titres, le produit de réalisation de ces sûretés reviendra, à due proportion, au titulaire de compte comme s’il avait été lui-même le bénéficiaire direct de ces sûretés.
+
+(3)
+
+Le titulaire de compte qui n’aura pu obtenir la restitution de l’intégralité des titres inscrits au crédit de son compte-titres à la date d’ouverture d’une procédure de liquidation devra déclarer sa créance comme créancier chirographaire pour un montant égal à la valeur des titres non restitués à la date d’ouverture de la procédure.
+
+(4)
+
+Les dispositions du présent article sont également applicables en faveur des titulaires de compte qui tiennent un compte-titres auprès d’une personne au Luxembourg qui ne dispose pas de l’agrément nécessaire pour agir comme teneur de comptes.
+
+##### Section 4 De l’intégrité du système
+
+Art. 11.
+
+(1)
+
+Aucune saisie de titres d’un titulaire de compte ne peut être effectuée à l’encontre de, ou de manière à affecter:
+
+- un compte-titres de toute autre personne que le titulaire de compte;
+
+- l’émetteur de tout titre crédité sur un compte-titres du titulaire de compte; ou
+
+- une autre personne que le titulaire de compte ou le teneur de comptes pertinent.
+
+(2)
+
+Toute saisie faite en violation du paragraphe (1) est nulle.
+
+(3)
+
+Dans le présent article, «saisie de titres d’un titulaire de compte» signifie tout acte ou procédure judiciaire, administratif ou autre consistant à bloquer, séquestrer, restreindre ou confisquer des titres du titulaire de compte afin de mettre en œuvre ou d’exécuter un jugement, une sentence ou une autre décision judiciaire, arbitrale, administrative ou autre, ou destiné à garantir la disponibilité de ces titres pour mettre en œuvre ou exécuter un jugement, une sentence ou une décision à intervenir dans le futur.
+
+Art. 12.
+
+(1)
+
+Sauf si un acquéreur a effectivement connaissance, au moment où il acquiert les titres, qu’un tiers est titulaire d’un droit sur des titres et qu’un crédit au compte-titres de l’acquéreur ou la création d’un droit réel sur les titres opposable aux tiers conféré à l’acquéreur constitue une violation du droit d’un tiers:
+
+- le droit de l’acquéreur n’est pas grevé par le droit du tiers;
+
+- l’acquéreur n’encourt aucune responsabilité envers le tiers; et
+
+- le crédit ou le droit conféré à l’acquéreur n’est pas frappé d’invalidité, inopposable aux tiers ou susceptible d’être contre-passé au motif que ce crédit ou ce droit affecte les droits du tiers.
+
+(2)
+
+Sauf si un acquéreur a effectivement connaissance, au moment où il acquiert les titres ou son droit sur les titres, d’une écriture défectueuse antérieure:
+
+- le crédit ou le droit conféré à l’acquéreur n’est pas frappé d’invalidité, inopposable aux tiers ou susceptible d’être contre-passé en conséquence de cette écriture défectueuse; et
+
+- l’acquéreur n’encourt aucune responsabilité envers toute personne qui bénéficierait de cette invalidité ou de cette contre-passation.
+
+(3)
+
+Les paragraphes (1) et (2) ne s’appliquent pas à une acquisition de titres, autre qu’une garantie ou sûreté, lorsque cette acquisition est faite par voie de donation ou de toute autre manière à titre gratuit.
+
+(4)
+
+Les paragraphes (1) et (2) sont sans préjudice de l’article 7 de la loi du 5 août 2005 sur les contrats de garantie financière.
+
+(5)
+
+Sans préjudice d’autres chefs de responsabilité et des droits de tiers, si l’acquéreur n’est pas protégé dans son acquisition, il est tenu de restituer des titres en même nombre et de même genre.
+
+Si l’acquéreur tenu à la restitution fait l’objet d’une procédure de liquidation, l’ayant droit peut revendiquer des titres en même nombre et de même genre, dans la mesure où de tels titres se trouvent dans la masse.
+
+##### Section 5 Du teneur de comptes
+
+Art. 13.
+
+Sous réserves des dérogations résultant de la loi ou de la nature des titres détenus auprès d’un teneur de comptes, les dispositions du Code civil relatives au dépôt s’appliquent dans la relation entre le teneur de comptes et le titulaire de compte.
+
+Art. 14.
+
+Le teneur de comptes doit veiller à détenir, auprès de lui-même, d’un autre teneur de comptes ou auprès d’un teneur de comptes étranger, des titres en nombre et en genre identique au nombre et au genre des titres inscrits au crédit des comptes-titres de ses titulaires de compte.
+
+En cas de découvert qui ne peut être comblé, le teneur de comptes doit, soit augmenter le nombre de titres qu’il détient, soit réduire le nombre de titres inscrits dans les comptes-titres de ses titulaires de compte, dans le délai et aux frais indiqués dans la convention entre le teneur de comptes et le titulaire de compte ou dans les règles applicables dans les systèmes des opérations sur titres, les organismes de liquidation ou les teneurs de compte central.
+
+Art. 15.
+
+Sans préjudice des dispositions du Titre V de la loi relative aux services de paiement, en cas de livraison de titres contre règlement d’espèces, le défaut de livraison ou de règlement constaté à la date et dans les conditions applicables dans le marché pertinent ou fixé par une convention entre les parties ou les règles d’un système de règlement des opérations sur titres délie de plein droit les parties de leurs obligations de livraison ou de paiement, sans préjudice de la responsabilité de la partie défaillante.
+
+Les règles des systèmes de règlement des opérations sur titres priment les conventions des parties.
+
+Art. 16.
+
+Lorsque le teneur de comptes pertinent procède à la livraison des titres ou au paiement du prix en se substituant au titulaire de compte défaillant, il acquiert la propriété à titre de garantie des titres ou des espèces reçues en contrepartie. Ce transfert de propriété à titre de garantie est régi par les dispositions de la loi du 5 août 2005 sur les contrats de garantie financière.
+
+Art. 17.
+
+Le teneur de comptes peut donner en dépôt auprès d’autres teneurs de comptes ou teneurs de comptes étrangers, par versement en compte ou autrement, les titres versés ou virés sur les comptes-titres qu’il tient ou se faire inscrire directement ou indirectement sur le registre des titres en cause par rapport à ces titres. Il doit tenir ces titres séparés de ses propres titres auprès de ces autres teneurs de comptes ou dépositaires. Ni l’application de la présente loi, ni la situation des titres qui continue d’être chez le teneur de comptes pertinent, ni la validité ou l’opposabilité de sûretés ou garanties constituées conformément à la loi du 5 août 2005 sur les contrats de garantie financière ne sont affectées par ce dépôt.
+
+Art. 18.
+
+En cas de perte ou de destruction totale par cas de force majeure d’un ensemble de titres de même genre, le teneur de comptes doit former les oppositions nécessaires et pourvoir à la reconstitution des titres perdus ou détruits.
+
+Si la perte ou la destruction par cas de force majeure n’a été que partielle et si la reconstitution des titres perdus ou détruits n’a pu être obtenue, l’ensemble des titres de même genre sera réparti entre les titulaires de compte lésés dans la proportion de leurs droits.
+
+Si la perte ou la destruction a été la conséquence de faits engageant la responsabilité du teneur de comptes et si la reconstitution des titres perdus ou détruits n’a pas pu être obtenue, la revendication des titulaires de compte lésés sur les titres restants s’exercera conformément à l’alinéa précédent. Pour la partie de leurs droits qui n’aura pas été couverte, les titulaires de compte lésés sont créanciers chirographaires du teneur de comptes.
+
+- Le titre de la section 6 est modifié comme suit: Section 6 - Des règles spéciales applicables aux teneurs de comptes opérant à titre principal un système de règlement des opérations sur titres..
 
 - Les actuels articles 14 à 18 sont renumérotés en articles 19 à 23 et sont repris sous la section 6.
 
@@ -454,43 +814,99 @@ La loi modifiée du 1er août 2001 concernant la circulation de titres et d’au
 
 La loi modifiée du 20 décembre 2002 concernant les organismes de placement collectif est modifiée comme suit:
 
-- Le premier alinéa de l’article 8 (1) est modifié comme suit: La société de gestion émet des titres nominatifs, au porteur ou dématérialisés, représentatifs d’une ou de plusieurs quote-parts du fonds commun de placement qu’elle gère. La société de gestion peut émettre, dans les conditions prévues au règlement de gestion, des certificats écrits d’inscription des parts ou de fractions de parts sans limitation de fractionnement.
+- Le premier alinéa de l’article 8 (1) est modifié comme suit:
 
-- La seconde phrase du deuxième alinéa de l’article 8 (1) est modifiée comme suit: Les titres au porteur sont signés par la société de gestion et par le dépositaire visé à l’article 17.
+La société de gestion émet des titres nominatifs, au porteur ou dématérialisés, représentatifs d’une ou de plusieurs quote-parts du fonds commun de placement qu’elle gère. La société de gestion peut émettre, dans les conditions prévues au règlement de gestion, des certificats écrits d’inscription des parts ou de fractions de parts sans limitation de fractionnement.
 
-- L’article 8 (2) est modifié comme suit: (2) La propriété des parts sous forme de titres nominatifs ou au porteur s’établit et leur transmission s’opère suivant les règles prévues aux articles 40 et 42 de la loi du 10 août 1915 concernant les sociétés commerciales, telle que modifiée. Les droits sur des parts inscrites en compte-titres s’établissent et leur transmission s’opère suivant les règles prévues dans la loi relative aux titres dématérialisés et la loi du 1er août 2001 concernant la circulation de titres.
+- La seconde phrase du deuxième alinéa de l’article 8 (1) est modifiée comme suit:
 
-- Il est ajouté à l’article 8 un nouveau paragraphe (3) de la teneur suivante: (3) Les titulaires de titres au porteur peuvent, à toute époque, en demander la conversion, à leurs frais, en titres nominatifs ou, si les statuts le prévoient, en titres dématérialisés. Dans ce dernier cas, les frais sont à la charge de la personne prévue par la loi relative aux titres dématérialisés. A moins d’une défense formelle exprimée dans les statuts, les titulaires de titres nominatifs peuvent, à toute époque, en demander la conversion en titres au porteur. Si les statuts le prévoient, les propriétaires de titres nominatifs peuvent en demander la conversion en titres dématérialisés. Les frais sont à charge de la personne prévue par la loi relative aux titres dématérialisés. Les porteurs de titres dématérialisés peuvent, à toute époque, en demander la conversion, à leurs frais, en titres nominatifs, sauf si le règlement de gestion prévoit la dématérialisation obligatoire des titres.
+Les titres au porteur sont signés par la société de gestion et par le dépositaire visé à l’article 17.
 
-- La deuxième phrase de l’article 13 (1) est modifiée comme suit: Ce règlement de gestion doit être déposé au registre de commerce et des sociétés et sa publication au Mémorial est faite par une mention de dépôt au registre de commerce et des sociétés de ce document, conformément aux dispositions de la loi du 10 août 1915 concernant les sociétés commerciales, telle que modifiée.
+- L’article 8 (2) est modifié comme suit:
+
+(2)
+
+La propriété des parts sous forme de titres nominatifs ou au porteur s’établit et leur transmission s’opère suivant les règles prévues aux articles 40 et 42 de la loi du 10 août 1915 concernant les sociétés commerciales, telle que modifiée. Les droits sur des parts inscrites en compte-titres s’établissent et leur transmission s’opère suivant les règles prévues dans la loi relative aux titres dématérialisés et la loi du 1er août 2001 concernant la circulation de titres.
+
+- Il est ajouté à l’article 8 un nouveau paragraphe (3) de la teneur suivante:
+
+(3)
+
+Les titulaires de titres au porteur peuvent, à toute époque, en demander la conversion, à leurs frais, en titres nominatifs ou, si les statuts le prévoient, en titres dématérialisés. Dans ce dernier cas, les frais sont à la charge de la personne prévue par la loi relative aux titres dématérialisés.
+
+A moins d’une défense formelle exprimée dans les statuts, les titulaires de titres nominatifs peuvent, à toute époque, en demander la conversion en titres au porteur.
+
+Si les statuts le prévoient, les propriétaires de titres nominatifs peuvent en demander la conversion en titres dématérialisés. Les frais sont à charge de la personne prévue par la loi relative aux titres dématérialisés.
+
+Les porteurs de titres dématérialisés peuvent, à toute époque, en demander la conversion, à leurs frais, en titres nominatifs, sauf si le règlement de gestion prévoit la dématérialisation obligatoire des titres.
+
+- La deuxième phrase de l’article 13 (1) est modifiée comme suit:
+
+Ce règlement de gestion doit être déposé au registre de commerce et des sociétés et sa publication au Mémorial est faite par une mention de dépôt au registre de commerce et des sociétés de ce document, conformément aux dispositions de la loi du 10 août 1915 concernant les sociétés commerciales, telle que modifiée.
 
 <a id="art-27"></a>
 ## Art. 27.
 
 La loi modifiée du 17 décembre 2010 concernant les organismes de placement collectif est modifiée comme suit:
 
-- Le premier alinéa de l’article 8 (1) est modifié comme suit: La société de gestion émet des titres nominatifs, au porteur ou dématérialisés, représentatifs d’une ou de plusieurs quote-parts du fonds commun de placement qu’elle gère. La société de gestion peut émettre, dans les conditions prévues au règlement de gestion, des certificats écrits d’inscription des parts ou de fractions de parts sans limitation de fractionnement.
+- Le premier alinéa de l’article 8 (1) est modifié comme suit:
 
-- La seconde phrase du deuxième alinéa de l’article 8 (1) est modifiée comme suit: Les titres au porteur sont signés par la société de gestion et par le dépositaire visé à l’article 17.
+La société de gestion émet des titres nominatifs, au porteur ou dématérialisés, représentatifs d’une ou de plusieurs quote-parts du fonds commun de placement qu’elle gère. La société de gestion peut émettre, dans les conditions prévues au règlement de gestion, des certificats écrits d’inscription des parts ou de fractions de parts sans limitation de fractionnement.
 
-- L’article 8 (2) est modifié comme suit: (2) La propriété des parts sous forme de titres nominatifs ou au porteur s’établit et leur transmission s’opère suivant les règles prévues aux articles 40 et 42 de la loi du 10 août 1915 concernant les sociétés commerciales, telle que modifiée. Les droits sur des parts inscrites en compte-titres s’établissent et leur transmission s’opère suivant les règles prévues dans la loi relative aux titres dématérialisés et la loi du 1er août 2001 concernant la circulation de titres.
+- La seconde phrase du deuxième alinéa de l’article 8 (1) est modifiée comme suit:
 
-- Il est ajouté à l’article 8 un nouveau paragraphe (3) de la teneur suivante: (3) Les titulaires de titres au porteur peuvent, à toute époque, en demander la conversion, à leurs frais, en titres nominatifs ou, si les statuts le prévoient, en titres dématérialisés. Dans ce dernier cas, les frais sont à la charge de la personne prévue par la loi relative aux titres dématérialisés. A moins d’une défense formelle exprimée dans les statuts, les titulaires de titres nominatifs peuvent, à toute époque, en demander la conversion en titres au porteur. Si les statuts le prévoient, les propriétaires de titres nominatifs peuvent en demander la conversion en titres dématérialisés. Les frais sont à charge de la personne prévue par la loi relative aux titres dématérialisés. Les porteurs de titres dématérialisés peuvent, à toute époque, en demander la conversion, à leurs frais, en titres nominatifs, sauf si le règlement de gestion prévoit la dématérialisation obligatoire des titres.
+Les titres au porteur sont signés par la société de gestion et par le dépositaire visé à l’article 17.
 
-- La deuxième phrase de l’article 13 (1) est modifiée comme suit: Ce règlement de gestion doit être déposé au registre de commerce et des sociétés et sa publication au Mémorial est faite par une mention de dépôt au registre de commerce et des sociétés de ce document, conformément aux dispositions de la loi du 10 août 1915 concernant les sociétés commerciales, telle que modifiée.
+- L’article 8 (2) est modifié comme suit:
+
+(2)
+
+La propriété des parts sous forme de titres nominatifs ou au porteur s’établit et leur transmission s’opère suivant les règles prévues aux articles 40 et 42 de la loi du 10 août 1915 concernant les sociétés commerciales, telle que modifiée. Les droits sur des parts inscrites en compte-titres s’établissent et leur transmission s’opère suivant les règles prévues dans la loi relative aux titres dématérialisés et la loi du 1er août 2001 concernant la circulation de titres.
+
+- Il est ajouté à l’article 8 un nouveau paragraphe (3) de la teneur suivante:
+
+(3)
+
+Les titulaires de titres au porteur peuvent, à toute époque, en demander la conversion, à leurs frais, en titres nominatifs ou, si les statuts le prévoient, en titres dématérialisés. Dans ce dernier cas, les frais sont à la charge de la personne prévue par la loi relative aux titres dématérialisés.
+
+A moins d’une défense formelle exprimée dans les statuts, les titulaires de titres nominatifs peuvent, à toute époque, en demander la conversion en titres au porteur.
+
+Si les statuts le prévoient, les propriétaires de titres nominatifs peuvent en demander la conversion en titres dématérialisés. Les frais sont à charge de la personne prévue par la loi relative aux titres dématérialisés.
+
+Les porteurs de titres dématérialisés peuvent, à toute époque, en demander la conversion, à leurs frais, en titres nominatifs, sauf si le règlement de gestion prévoit la dématérialisation obligatoire des titres.
+
+- La deuxième phrase de l’article 13 (1) est modifiée comme suit:
+
+Ce règlement de gestion doit être déposé au registre de commerce et des sociétés et sa publication au Mémorial est faite par une mention de dépôt au registre de commerce et des sociétés de ce document, conformément aux dispositions de la loi du 10 août 1915 concernant les sociétés commerciales, telle que modifiée.
 
 <a id="art-28"></a>
 ## Art. 28.
 
 La loi modifiée du 13 février 2007 relative aux fonds d’investissement spécialisés est modifiée comme suit:
 
-- Le premier alinéa de l’article 7 (1) est modifié comme suit: La société de gestion émet des titres nominatifs, au porteur ou dématérialisés, représentatifs d’une ou de plusieurs quote-parts du fonds commun de placement qu’elle gère. La société de gestion peut émettre, dans les conditions prévues au règlement de gestion, des certificats écrits d’inscription des parts ou de fractions de parts sans limitation de fractionnement.
+- Le premier alinéa de l’article 7 (1) est modifié comme suit:
+
+La société de gestion émet des titres nominatifs, au porteur ou dématérialisés, représentatifs d’une ou de plusieurs quote-parts du fonds commun de placement qu’elle gère. La société de gestion peut émettre, dans les conditions prévues au règlement de gestion, des certificats écrits d’inscription des parts ou de fractions de parts sans limitation de fractionnement.
 
 - La seconde phrase du deuxième alinéa de l’article 7 (1) est modifiée comme suit: Les titres au porteur sont signés par la société de gestion et par le dépositaire visé à l’article 17.
 
-- L’article 7 (2) est modifié comme suit: (2) La propriété des parts sous forme de titres nominatifs ou au porteur s’établit et leur transmission s’opère suivant les règles prévues aux articles 40 et 42 de la loi du 10 août 1915 concernant les sociétés commerciales, telle que modifiée. Les droits sur les parts inscrites en compte-titres s’établissent et leur transmission s’opère suivant les règles prévues dans la loi relative aux titres dématérialisés et la loi du 1er août 2001 concernant la circulation de titres.
+- L’article 7 (2) est modifié comme suit:
 
-- Il est ajouté à l’article 7 un nouveau paragraphe (3) de la teneur suivante: (3) Les titulaires de titres au porteur peuvent, à toute époque, en demander la conversion, à leurs frais, en titres nominatifs ou, si les statuts le prévoient, en titres dématérialisés. Dans ce dernier cas, les frais sont à la charge de la personne prévue par la loi relative aux titres dématérialisés. A moins d’une défense formelle exprimée dans les statuts, les titulaires de titres nominatifs peuvent, à toute époque, en demander la conversion en titres au porteur. Si les statuts le prévoient, les propriétaires de titres nominatifs peuvent en demander la conversion en titres dématérialisés. Les frais sont à charge de la personne prévue par la loi relative aux titres dématérialisés. Les porteurs de titres dématérialisés peuvent, à toute époque, en demander la conversion, à leurs frais, en titres nominatifs, sauf si le règlement de gestion prévoit la dématérialisation obligatoire des titres.
+(2)
+
+La propriété des parts sous forme de titres nominatifs ou au porteur s’établit et leur transmission s’opère suivant les règles prévues aux articles 40 et 42 de la loi du 10 août 1915 concernant les sociétés commerciales, telle que modifiée. Les droits sur les parts inscrites en compte-titres s’établissent et leur transmission s’opère suivant les règles prévues dans la loi relative aux titres dématérialisés et la loi du 1er août 2001 concernant la circulation de titres.
+
+- Il est ajouté à l’article 7 un nouveau paragraphe (3) de la teneur suivante:
+
+(3)
+
+Les titulaires de titres au porteur peuvent, à toute époque, en demander la conversion, à leurs frais, en titres nominatifs ou, si les statuts le prévoient, en titres dématérialisés. Dans ce dernier cas, les frais sont à la charge de la personne prévue par la loi relative aux titres dématérialisés.
+
+A moins d’une défense formelle exprimée dans les statuts, les titulaires de titres nominatifs peuvent, à toute époque, en demander la conversion en titres au porteur.
+
+Si les statuts le prévoient, les propriétaires de titres nominatifs peuvent en demander la conversion en titres dématérialisés. Les frais sont à charge de la personne prévue par la loi relative aux titres dématérialisés.
+
+Les porteurs de titres dématérialisés peuvent, à toute époque, en demander la conversion, à leurs frais, en titres nominatifs, sauf si le règlement de gestion prévoit la dématérialisation obligatoire des titres.
 
 <a id="art-29"></a>
 ## Art. 29.

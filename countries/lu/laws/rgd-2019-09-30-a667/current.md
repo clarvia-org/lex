@@ -51,7 +51,7 @@ Le ministre accorde aux gestionnaires de fonds, aux propriétaires ou aux exploi
 
 En zone verte, au sens de l’article 3 de la loi précitée du 18 juillet 2018, le ministre accorde aux gestionnaires de fonds, aux propriétaires ou aux exploitants d’activités conformes à l’article 6 de la loi précitée du 18 juillet 2018 les aides financières précisées ci-après :
 
-- 2 euros par plant planté pour la création de haies, de bosquets, de brise-vents , de lisières forestières et de galeries alluviales ; un supplément de 2 euros est alloué par plant certifié issu de semences collectées au Luxembourg dans des populations naturelles autochtones ;
+- 2 euros par plant planté pour la création de haies, de bosquets, de brise-vents, de lisières forestières et de galeries alluviales ; un supplément de 2 euros est alloué par plant certifié issu de semences collectées au Luxembourg dans des populations naturelles autochtones ;
 
 - 40 euros par arbre, figurant parmi les espèces ligneuses du tableau 1 de l’annexe 2, ou par arbre fruitier à haute tige, figurant au tableau 2 de l’annexe 2, qui est planté, tuteur y compris ;
 

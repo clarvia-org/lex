@@ -52,9 +52,9 @@ Définitions
 
 Aux fins du présent règlement, on entend par:
 
-- «AOT40»: la somme des différences entre des concentrations horaires d’ozone au sol supérieures à 80 μg/m 3 (= 40 ppb) et 80 μg/m 3 accumulées de jour de mai à juillet chaque année;
+- «AOT40»: la somme des différences entre des concentrations horaires d’ozone au sol supérieures à 80 μg/m3 (= 40 ppb) et 80 μg/m3 accumulées de jour de mai à juillet chaque année;
 
-- «AOT60»: la somme des différences entre des concentrations horaires d’ozone au sol supérieures à 120 μg/m 3 (= 60 ppb) et 120 μg/m 3 accumulées tout au long de l’année;
+- «AOT60»: la somme des différences entre des concentrations horaires d’ozone au sol supérieures à 120 μg/m3 (= 60 ppb) et 120 μg/m3 accumulées tout au long de l’année;
 
 - «charge critique»: l’estimation quantitative d’une exposition à un ou plusieurs polluants en dessous de laquelle il n’existe aucun effet nuisible notable, dans l’état actuel des connaissances, sur des éléments déterminés et sensibles de l’environnement;
 

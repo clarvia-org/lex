@@ -56,9 +56,9 @@ Aux fins de la présente loi, on entend par :
 
   - les entreprises commerciales, artisanales ou industrielles disposant d’une autorisation d’établissement délivrée en application de la loi modifiée du 2 septembre 2011 réglementant l’accès aux professions d’artisan, de commerçant, d’industriel ainsi qu’à certaines professions libérales ;
 
-  - les personnes physiques ou morales établies au Grand-Duché de Luxembourg qui exercent à titre principal et d’une façon indépendante une des activités visées à l’article 91, alinéa 1 er , numéro 1, de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu ;
+  - les personnes physiques ou morales établies au Grand-Duché de Luxembourg qui exercent à titre principal et d’une façon indépendante une des activités visées à l’article 91, alinéa 1er, numéro 1, de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu ;
 
-- « établissement de crédit » : tout établissement de crédit de droit luxembourgeois au sens de l’article 1 er , point 12), de la loi modifiée du 5 avril 1993 relative au secteur financier ;
+- « établissement de crédit » : tout établissement de crédit de droit luxembourgeois au sens de l’article 1er, point 12), de la loi modifiée du 5 avril 1993 relative au secteur financier ;
 
 - « grande entreprise » : toute entreprise ne remplissant pas les critères énoncés à l’annexe I du règlement (UE) n° 651/2014 du 17 juin 2014 déclarant certaines catégories d’aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité ;
 
@@ -87,7 +87,7 @@ Le montant maximal des prêts éligibles à la garantie de l’État s’élève
 
 - 15 pour cent du chiffre d’affaires annuel total moyen réalisé par l’entreprise au cours des trois derniers exercices clôturés ; ou
 
-- 50 pour cent des coûts de l’énergie de l’entreprise au cours des douze mois précédant le mois pendant lequel la notification est effectuée à la Trésorerie de l’État en application de l’article 4, paragraphe 1 er .
+- 50 pour cent des coûts de l’énergie de l’entreprise au cours des douze mois précédant le mois pendant lequel la notification est effectuée à la Trésorerie de l’État en application de l’article 4, paragraphe 1er.
 
 Lorsque la requérante est, respectivement, en existence depuis moins de trois ans ou douze mois, les seuils figurant à l’alinéa 1er sont calculés sur la base de sa durée d’existence au moment de la notification à la Trésorerie de l’État en application de l’article 4, paragraphe 1er.
 

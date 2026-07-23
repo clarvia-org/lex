@@ -144,7 +144,7 @@ Les candidats aux fonctions d'ingénieur doivent être détenteurs:
 
 - du diplôme de fin d'études secondaires luxembourgeois ou du diplôme d'ingénieur technicien délivré par l'école technique de Luxembourg ou d'un certificat d'études équivalent dûment homologué par le ministre de l'éducation nationale et
 
-- d'un diplôme d'ingénieur ou de docteur en sciences agronomiques ou chimiques ou d'un diplôme équivalent portant sur la spécialité du service auquel le candidat se destine. Ces diplômes doivent être délivrés par une université ou une école d'enseignement supérieur à caractère universitaire, après un cycle d'études sur place d'au moins quatre années, et être inscrits au registre des diplômes prévu à l'article 1 er de la loi du 17 juin 1963 ayant pour objet de protéger les titres d'enseignement supérieur.
+- d'un diplôme d'ingénieur ou de docteur en sciences agronomiques ou chimiques ou d'un diplôme équivalent portant sur la spécialité du service auquel le candidat se destine. Ces diplômes doivent être délivrés par une université ou une école d'enseignement supérieur à caractère universitaire, après un cycle d'études sur place d'au moins quatre années, et être inscrits au registre des diplômes prévu à l'article 1er de la loi du 17 juin 1963 ayant pour objet de protéger les titres d'enseignement supérieur.
 
 (2)
 

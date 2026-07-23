@@ -50,15 +50,15 @@ Pour les prestations identiques le traitement du fonctionnaire de sexe féminin 
 
 Les éléments pensionnables des traitements des fonctionnaires font l’objet d’une retenue pour pension dont le taux est fixé comme suit:
 
-- à partir du 1 er janvier 1995 à 4 pour cent;
+- à partir du 1er janvier 1995 à 4 pour cent;
 
-- à partir du 1 er janvier 1996 à 5 pour cent;
+- à partir du 1er janvier 1996 à 5 pour cent;
 
-- à partir du 1 er janvier 1997 à 6 pour cent;
+- à partir du 1er janvier 1997 à 6 pour cent;
 
-- à partir du 1 er janvier 1998 à 7 pour cent;
+- à partir du 1er janvier 1998 à 7 pour cent;
 
-- à partir du 1 er janvier 1999 à 8 pour cent.
+- à partir du 1er janvier 1999 à 8 pour cent.
 
 L’adaptation du taux de retenu de 8 pour-cent atteint à la date du 1er janvier 1999 se fait parallèlement à celle de la partie des cotisations à charge des assurés au titre des articles 239 et 240 du Code des Assurances sociales.
 
@@ -464,7 +464,11 @@ Si le fonctionnaire décède au cours du mois de l’entrée en fonctions ou de 
 
 -
 
-  - l’ancienne nomenclature est remplacée comme suit: Ancienne nomenclature Nouvelle nomenclature surveillant principal des travaux surveillant sous-chef de brigade chaîneur principal surveillant chef de brigade chaîneur chef de brigade surveillant principal sous-chef de brigade sous-chef de brigade chef de brigade chef de brigade
+  - l’ancienne nomenclature est remplacée comme suit:
+
+| Ancienne nomenclature | Nouvelle nomenclature |
+| --- | --- |
+| surveillant principal des travaux surveillant sous-chef de brigade chaîneur principal surveillant chef de brigade chaîneur chef de brigade | surveillant principal sous-chef de brigade sous-chef de brigade chef de brigade chef de brigade |
 
 <a id="art-14"></a>
 ## Art. 14.
@@ -578,7 +582,7 @@ Un règlement grand-ducal détermine les conditions et les modalités de la mise
 
     - premier commis technique principal.
 
-  - Les conditions et la forme des nominations aux emplois des carrières visées aux paragraphes 1 er , 2 et 3 ci-dessus, ainsi que les modalités des examens auxquels sera subordonnée la promotion aux fonctions supérieures à celles de commis adjoint, de commis-informaticien adjoint et de commis technique adjoint, seront déterminées par règlement grand-ducal, sans préjudice de l’application des règles générales relatives au statut des fonctionnaires.
+  - Les conditions et la forme des nominations aux emplois des carrières visées aux paragraphes 1er, 2 et 3 ci-dessus, ainsi que les modalités des examens auxquels sera subordonnée la promotion aux fonctions supérieures à celles de commis adjoint, de commis-informaticien adjoint et de commis technique adjoint, seront déterminées par règlement grand-ducal, sans préjudice de l’application des règles générales relatives au statut des fonctionnaires.
 
   - Les fonctionnaires de la carrière de l’expéditionnaire, de celle de l’expéditionnaire-informaticien et de celle de l’expéditionnaire technique, détachés de leur administration d’origine à un autre service de l’Etat pourront être nommés hors cadre; il avanceront alors par dépassement des pourcentages fixés à l’article 5 de la loi du 28 mars 1986 portant harmonisation des conditions et modalités d’avancement dans les différentes carrières des administrations et services de l’Etat, parallèlement à leurs collègues de l’administration d’origine de rang égal ou immédiatement inférieur, au moment où ces derniers bénéficient d’une promotion.
 
@@ -1150,7 +1154,13 @@ VII.
 
 - Les substitutions prévues à la présente section sont obtenues en remplaçant l’indice du grade actuel du tableau indiciaire en cause de l’annexe C par l’indice du nouveau grade correspondant au même numéro d’échelon. Les substitutions se font dans les conditions et suivant les modalités à fixer par règlement grand-ducal sans que pour autant le nombre de bénéficiaires puisse dépasser 10% de l’effectif de chaque carrière. L’alinéa qui précède ne s’applique pas aux fonctionnaires visés aux trois derniers alinéas du paragraphe a) de la présente section. Tout fonctionnaire de la carrière supérieure de l’enseignement qui, à l’âge de 55 ans, n’a pas accédé au grade de substitution bien qu’y étant admissible, pourra y accéder par dépassement du contingent des 10% de l’effectif total. Le fonctionnaire de la carrière supérieure de l’enseignement ayant accédé au grade de substitution par application de cette disposition sera compris dans le cadre des 10% au fur et à mesure des vacances qui s’y produiront. Si par application de la disposition de l’alinéa 2 du présent paragraphe, des titulaires d’emplois à attributions particulières de caractère technique ou des fonctionnaires placés hors cadre sur la base d’une disposition légale rentrent dans le contingent des 10%, celui-ci est augmenté en conséquence, sans que pour autant le nombre de ces agents puisse dépasser 5% de l’effectif total.
 
-- Pour les fonctionnaires bénéficiant conjointement de l’application des dispositions de l’article 22 section IV ou VI et de celles de la présente section, les indices prévus à l’article 22 section IV ou VI sont augmentés dans les grades de substitution des valeurs suivantes: 10 p.i. pour les artisans, cantonniers, huissiers et préposés du service d’urgence; 15 p.i. pour les préposés forestiers, expéditionnaires, expéditionnaires techniques, expéditionnaires informaticiens, infirmiers, infirmiers anesthésistes, infirmiers psychiatriques, infirmiers chargés des services d’ergothérapie ou d’éducation physique, agents sanitaires, assistants techniques médicaux, masseurs, puériculteurs,agents pénitentiaires et techniciens; 20 p.i. pour les rédacteurs, techniciens diplômés, ingénieurs-techniciens, informaticiens diplômés, conducteurs, agents de probation, assistants sociaux, assistants d’hygiène sociale, infirmiers gradués, laborantins, masseurs kinésithérapeutes, orthophonistes, chimistes, ergothérapeutes, orthoptistes de la santé, pédagogues curatifs, diététiciens, psychorééducateurs et assistants techniques viticoles; 25 p.i. pour les fonctionnaires de la carrière supérieure.
+- Pour les fonctionnaires bénéficiant conjointement de l’application des dispositions de l’article 22 section IV ou VI et de celles de la présente section, les indices prévus à l’article 22 section IV ou VI sont augmentés dans les grades de substitution des valeurs suivantes:
+
+| 10 p.i. | pour les artisans, cantonniers, huissiers et préposés du service d’urgence; |
+| --- | --- |
+| 15 p.i. | pour les préposés forestiers, expéditionnaires, expéditionnaires techniques, expéditionnaires informaticiens, infirmiers, infirmiers anesthésistes, infirmiers psychiatriques, infirmiers chargés des services d’ergothérapie ou d’éducation physique, agents sanitaires, assistants techniques médicaux, masseurs, puériculteurs,agents pénitentiaires et techniciens; |
+| 20 p.i. | pour les rédacteurs, techniciens diplômés, ingénieurs-techniciens, informaticiens diplômés, conducteurs, agents de probation, assistants sociaux, assistants d’hygiène sociale, infirmiers gradués, laborantins, masseurs kinésithérapeutes, orthophonistes, chimistes, ergothérapeutes, orthoptistes de la santé, pédagogues curatifs, diététiciens, psychorééducateurs et assistants techniques viticoles; |
+| 25 p.i. | pour les fonctionnaires de la carrière supérieure. |
 
 VIII.
 
@@ -1417,15 +1427,15 @@ Le fonctionnaire en activité de service bénéficie d’une allocation de fin d
 
 Le montant de cette allocation est égal:
 
-- à partir du 1 er janvier 1995 à soixante pour cent,
+- à partir du 1er janvier 1995 à soixante pour cent,
 
-- à partir du 1 er janvier 1996 à soixante-dix pour cent,
+- à partir du 1er janvier 1996 à soixante-dix pour cent,
 
-- à partir du 1 er janvier 1997 à quatre-vingts pour cent,
+- à partir du 1er janvier 1997 à quatre-vingts pour cent,
 
-- à partir du 1 er janvier 1998 à quatre-vingt-dix pour cent,
+- à partir du 1er janvier 1998 à quatre-vingt-dix pour cent,
 
-- à partir du 1 er janvier 1999 à cent pour cent du traitement de base dû pour le mois de décembre.
+- à partir du 1er janvier 1999 à cent pour cent du traitement de base dû pour le mois de décembre.
 
 Par traitement de base au sens du présent article, il y a lieu d’entendre le traitement tel qu’il résulte de l’application des tableaux indiciaires de l’annexe C et des articles 4, 6bis, 9, 22, sections IV, V, VI, VII et VIII et 25ter de la présente loi et de l’article 16bis de la loi modifiée du 28 mars 1986 portant harmonisation des conditions et modalités d’avancement dans les différentes carrières des administrations et services de l’Etat.
 
@@ -1612,9 +1622,9 @@ Les dispositions du présent article ne se laissent cumuler ni avec l’article 
 
     - professeur aux centres d’enseignement professionnel, en activité de service ou pensionnés le jour de la promulgation de la présente loi, sont classés au grade E3 avec le titre d’instituteur d’enseignement professionnel.
 
-  - Les fonctionnaires en activité de service, visés par le paragraphe 1 er ci-dessus, peuvent, dans les trois mois qui suivent la promulgation de la présente loi, obtenir une nomination de professeur d’enseignement professionnel, grade E4, s’ils remplissent les conditions d’études et d’examen prescrites pour la fonction de professeur à l’école des arts et métiers. Pour les professeurs qui remplissaient ces conditions lors de leur nomination antérieure de professeur, la reconstitution de leur carrière en tiendra compte et le payement rétroactif pourra être accordé, le cas échéant, à partir de l’entrée en vigueur de la présente loi. Les professeurs dont le titre a été changé par la présente loi en celui d’instituteur d’enseignement professionnel, pourront porter, à titre personnel, le titre de professeur.
+  - Les fonctionnaires en activité de service, visés par le paragraphe 1er ci-dessus, peuvent, dans les trois mois qui suivent la promulgation de la présente loi, obtenir une nomination de professeur d’enseignement professionnel, grade E4, s’ils remplissent les conditions d’études et d’examen prescrites pour la fonction de professeur à l’école des arts et métiers. Pour les professeurs qui remplissaient ces conditions lors de leur nomination antérieure de professeur, la reconstitution de leur carrière en tiendra compte et le payement rétroactif pourra être accordé, le cas échéant, à partir de l’entrée en vigueur de la présente loi. Les professeurs dont le titre a été changé par la présente loi en celui d’instituteur d’enseignement professionnel, pourront porter, à titre personnel, le titre de professeur.
 
-  - Les fonctionnaires pensionnés, anciens titulaires des fonctions énumérées au paragraphe 1 er ci-dessus, pourront également être classés au grade E4 s’ils remplissent les conditions d’études prescrites pour la fonction de professeur à l’école des arts et métiers.
+  - Les fonctionnaires pensionnés, anciens titulaires des fonctions énumérées au paragraphe 1er ci-dessus, pourront également être classés au grade E4 s’ils remplissent les conditions d’études prescrites pour la fonction de professeur à l’école des arts et métiers.
 
   - Les décisions à intervenir pour l’application des dispositions des paragraphes 2 et 3 ci-dessus, sont prises par le ministre du ressort, sur avis conforme du ministre de la Fonction Publique et de la Réforme administrative.
 

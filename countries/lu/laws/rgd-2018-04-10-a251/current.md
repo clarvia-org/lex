@@ -143,8 +143,6 @@ La formation spéciale des fonctionnaires stagiaires relevant de la catégorie d
 
 ### Partie I Matières certifiées par une attestation de présence :
 
-Matières certifiées par une attestation de présence :
-
 | Matière | Durée de formation |
 | --- | --- |
 | Logiciel GED : utilisation et procédures | 8 heures |
@@ -152,8 +150,6 @@ Matières certifiées par une attestation de présence :
 | L’organisation et le fonctionnement des différents services et divisions de la Direction de la santé | 20 heures |
 
 ### Partie II Matières sanctionnées par un examen en fin de formation :
-
-Matières sanctionnées par un examen en fin de formation :
 
 | Matière | Durée de formation | Points |
 | --- | --- | --- |
@@ -170,8 +166,6 @@ La formation spéciale des fonctionnaires stagiaires relevant de la catégorie d
 
 ### Partie I Matières certifiées par une attestation de présence :
 
-Matières certifiées par une attestation de présence :
-
 | Matière | Durée de formation |
 | --- | --- |
 | Logiciel GED : utilisation et procédures | 8 heures |
@@ -179,8 +173,6 @@ Matières certifiées par une attestation de présence :
 | L’organisation et le fonctionnement des différents services et divisions de la Direction de la santé | 20 heures |
 
 ### Partie II Matières sanctionnées par un examen en fin de formation :
-
-Matières sanctionnées par un examen en fin de formation :
 
 | Matière | Durée de formation | Points |
 | --- | --- | --- |

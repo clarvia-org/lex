@@ -427,7 +427,7 @@ Sans préjudice de la réglementation sur la protection des consommateurs, les f
 
   - les moyens par lesquels des informations actualisées sur l’ensemble des prix et tarifs applicables et des redevances d’entretien peuvent être obtenues,
 
-  - l a durée du contrat, les conditions de renouvellement et d’interruption des services et du contrat, l’existence d’une clause de résiliation sans frais du contrat,
+  - la durée du contrat, les conditions de renouvellement et d’interruption des services et du contrat, l’existence d’une clause de résiliation sans frais du contrat,
 
   - les compensations et les formules de remboursement éventuellement applicables au cas où les niveaux de qualité des services prévus dans le contrat ne seraient pas atteints, y compris une facturation inexacte et retardée,
 
@@ -824,7 +824,7 @@ Dans les limites économiquement justifiables, les gestionnaires de réseau, les
 
 Chaque gestionnaire de réseau de transport et chaque gestionnaire d’un réseau industriel est tenu, le cas échéant de concert avec les gestionnaires de réseau limitrophes, de:
 
-- garantir la capacité à long terme du réseau afin de répondre à des demandes raisonnables de capacités de transport d’électricité , d’exploiter, d’entretenir et, pour ce qui concerne les gestionnaires de réseau de transport, de développer, dans des conditions économiquement acceptables, des réseaux sûrs, fiables et efficaces, en accordant toute l’attention requise au respect de l’environnement tout en tenant compte de réserves suffisantes pour garantir un fonctionnement stable;
+- garantir la capacité à long terme du réseau afin de répondre à des demandes raisonnables de capacités de transport d’électricité, d’exploiter, d’entretenir et, pour ce qui concerne les gestionnaires de réseau de transport, de développer, dans des conditions économiquement acceptables, des réseaux sûrs, fiables et efficaces, en accordant toute l’attention requise au respect de l’environnement tout en tenant compte de réserves suffisantes pour garantir un fonctionnement stable;
 
 - contribuer à la sécurité d’approvisionnement grâce à une capacité de transport, une fiabilité du réseau et une sécurité d’exploitation du réseau adéquates;
 
@@ -1005,7 +1005,7 @@ Cette autorisation est délivrée en tenant compte des critères suivants:
 
 - contribution de la capacité de production à la réduction des émissions;
 
-- contribution de la capacité de production à la réalisation de l’objectif général de l’Union européenne consistant à atteindre une part d’au moins 20% d’énergie produite à partir de sources d’énergie renouvelables dans la consommation finale brute d’énergie de l’Union européenne en 2020, telle que visée par la directive 2009/28/CE du Parlement européen et du Conseil du 23 avril 2009 relative à la promotion de l’utilisation de l’énergie produite à partir de sources renouvelables et modifiant puis abrogeant les directives 2001/77/CE et 2003/30/CE .
+- contribution de la capacité de production à la réalisation de l’objectif général de l’Union européenne consistant à atteindre une part d’au moins 20% d’énergie produite à partir de sources d’énergie renouvelables dans la consommation finale brute d’énergie de l’Union européenne en 2020, telle que visée par la directive 2009/28/CE du Parlement européen et du Conseil du 23 avril 2009 relative à la promotion de l’utilisation de l’énergie produite à partir de sources renouvelables et modifiant puis abrogeant les directives 2001/77/CE et 2003/30/CE.
 
 (3)
 
@@ -1959,7 +1959,7 @@ Le concessionnaire est en droit:
 
 - de couper les branches d’arbres qui, se trouvant à proximité des ouvrages électriques, pourraient par leur mouvement ou leur chute occasionner des courts-circuits ou des avaries;
 
-- sans préjudice de dispositions législatives spéciales et de toutes les autorisations légalement requises, et après information et tentative de conciliation en vertu du paragraphe (2) avec le propriétaire concerné, de couper un arbre ou de procéder au raccourcissement de racines qui, se trouvant à proximité d’ouvrages électriques, respectivement soit menacent de tomber sur ces ouvrages, soit constituent un obstacle incontournable pour l’établissement, la maintenance ou le fonctionnement des ouvrages électriques, tous frais éventuels d’abattement d’arbre ou de raccourcissement de racines étant à charge du concessionnaire. Les dispositions qui précèdent ne dispensent pas le propriétaire de sa responsabilité, notamment en qualité de gardien au sens de l’article 1384 du code civil .
+- sans préjudice de dispositions législatives spéciales et de toutes les autorisations légalement requises, et après information et tentative de conciliation en vertu du paragraphe (2) avec le propriétaire concerné, de couper un arbre ou de procéder au raccourcissement de racines qui, se trouvant à proximité d’ouvrages électriques, respectivement soit menacent de tomber sur ces ouvrages, soit constituent un obstacle incontournable pour l’établissement, la maintenance ou le fonctionnement des ouvrages électriques, tous frais éventuels d’abattement d’arbre ou de raccourcissement de racines étant à charge du concessionnaire. Les dispositions qui précèdent ne dispensent pas le propriétaire de sa responsabilité, notamment en qualité de gardien au sens de l’article 1384 du code civil.
 
 (2)
 
@@ -2377,7 +2377,7 @@ Les fournisseurs d’électricité spécifient, pour ce qui concerne les informa
 
 - la contribution de chaque source d’énergie à la totalité des sources d’énergie utilisées par le fournisseur au cours de l’année écoulée et le cas échéant une différenciation selon différents produits offerts;
 
-- des informations concernant l’incidence sur l’environnement, au moins en termes d’émissions de CO 2 et de déchets radioactifs résultant de la production d’électricité à partir de la totalité des sources d’énergie utilisées par le fournisseur au cours de l’année écoulée.
+- des informations concernant l’incidence sur l’environnement, au moins en termes d’émissions de CO2 et de déchets radioactifs résultant de la production d’électricité à partir de la totalité des sources d’énergie utilisées par le fournisseur au cours de l’année écoulée.
 
 - des informations concernant leurs droits en matière de voies de règlement des litiges à leur disposition en cas de litige.
 
@@ -2530,11 +2530,11 @@ Sans préjudice de l’article 23 du code d’instruction criminelle, le Commiss
 
 La loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l´Etat est modifiée comme suit:
 
-- A l’Annexe A, Classification des fonctions, au grade 17, la mention Concessionnaire de la distribution d’énergie électrique – commissaire du Gouvernement est remplacée par Energie – Commissaire du Gouvernement à l’Energie .
+- A l’Annexe A, Classification des fonctions, au grade 17, la mention Concessionnaire de la distribution d’énergie électrique – commissaire du Gouvernement est remplacée par Energie – Commissaire du Gouvernement à l’Energie.
 
-- Au point 9 de l’article 22(IV), la phrase les Commissaires du Gouvernement auprès de la Banque Internationale et de la Cegedel est remplacée par le Commissaire du Gouvernement à l’Energie .
+- Au point 9 de l’article 22(IV), la phrase les Commissaires du Gouvernement auprès de la Banque Internationale et de la Cegedel est remplacée par le Commissaire du Gouvernement à l’Energie.
 
-- A l’Annexe D, Détermination, au grade 17, le texte de la Cegedel est remplacé par le texte à l’Energie .
+- A l’Annexe D, Détermination, au grade 17, le texte de la Cegedel est remplacé par le texte à l’Energie.
 
 ##### Section III. Régulateur
 
@@ -2584,7 +2584,7 @@ Le régulateur est investi des missions suivantes:
 
 - faire en sorte qu’il n’y ait pas de subventions croisées entre les activités de transport, de distribution et de fourniture;
 
-- surveiller les plans d’investissement des gestionnaires de réseau de transport et fournir, dans son rapport annuel, une analyse des plans d’investissement des gestionnaires de réseau de transport du point de vue de leur cohérence avec le plan décennal de développement du réseau dans l’ensemble de l’Union européenne visé à l’article 8, paragraphe 3, point b), du règlement (CE) n° 714/2009 . Cette analyse peut comprendre des recommandations en vue de modifier ces plans d’investissement;
+- surveiller les plans d’investissement des gestionnaires de réseau de transport et fournir, dans son rapport annuel, une analyse des plans d’investissement des gestionnaires de réseau de transport du point de vue de leur cohérence avec le plan décennal de développement du réseau dans l’ensemble de l’Union européenne visé à l’article 8, paragraphe 3, point b), du règlement (CE) n° 714/2009. Cette analyse peut comprendre des recommandations en vue de modifier ces plans d’investissement;
 
 - contribuer, en collaboration avec le ministre, à veiller au respect des règles régissant la sécurité et la fiabilité du réseau et évaluer leurs performances passées, et définir ou approuver des normes et exigences en matière de qualité de service et de fourniture, ou y contribuer en collaboration avec d’autres autorités compétentes;
 
@@ -2598,9 +2598,9 @@ Le régulateur est investi des missions suivantes:
 
 - surveiller le temps pris par les gestionnaires de réseau pour effectuer les raccordements et les réparations;
 
-- garantir l’accès aux données de consommation des clients, la mise à disposition, en vue d’une utilisation facultative, d’une méthode facilement compréhensible de présentation harmonisée au niveau national des données de consommation et l’accès rapide de tous les consommateurs à ces données conformément à l’article 2, paragraphe (5), point g) et à l’article 27, paragraphe (3 bis ) de la présente loi. Il précise la méthode de présentation de ces données et la procédure d’accès aux données pour les fournisseurs et les clients. Ce service ne donne lieu à aucun surcoût pour le consommateur;
+- garantir l’accès aux données de consommation des clients, la mise à disposition, en vue d’une utilisation facultative, d’une méthode facilement compréhensible de présentation harmonisée au niveau national des données de consommation et l’accès rapide de tous les consommateurs à ces données conformément à l’article 2, paragraphe (5), point g) et à l’article 27, paragraphe (3bis) de la présente loi. Il précise la méthode de présentation de ces données et la procédure d’accès aux données pour les fournisseurs et les clients. Ce service ne donne lieu à aucun surcoût pour le consommateur;
 
-- surveiller la mise en œuvre des règles relatives aux fonctions et responsabilités des gestionnaires de réseau, des fournisseurs, des clients et autres acteurs du marché conformément au règlement (CE) n° 714/2009 ;
+- surveiller la mise en œuvre des règles relatives aux fonctions et responsabilités des gestionnaires de réseau, des fournisseurs, des clients et autres acteurs du marché conformément au règlement (CE) n° 714/2009;
 
 - surveiller la coopération technique entre les gestionnaires de réseau de transport de l’Union européenne et des pays tiers;
 
@@ -2998,11 +2998,11 @@ Les contrats de fourniture conclus par des clients finals qui, au moment de la c
 
 - depuis le 24 août 2000, les clients finals qui consommaient plus que 100 GWh par an et site de consommation, autoproduction comprise;
 
-- depuis le 1 er janvier 2001, les clients finals qui consommaient plus que 20 GWh par an et site de consommation, autoproduction comprise;
+- depuis le 1er janvier 2001, les clients finals qui consommaient plus que 20 GWh par an et site de consommation, autoproduction comprise;
 
-- depuis le 1 er janvier 2003, les clients finals qui consommaient plus que 9 GWh par an et site de consommation, autoproduction comprise;
+- depuis le 1er janvier 2003, les clients finals qui consommaient plus que 9 GWh par an et site de consommation, autoproduction comprise;
 
-- depuis le 1 er juillet 2004 tous les clients non résidentiels.
+- depuis le 1er juillet 2004 tous les clients non résidentiels.
 
 <a id="art-69"></a>
 ## Art. 69.
@@ -3068,7 +3068,7 @@ Jusqu’à la mise en vigueur du règlement grand-ducal visé au paragraphe (1) 
 
 - A cette fin, le régulateur peut requérir de chaque gestionnaire de réseau et de chaque producteur d’électricité basée sur les sources d’énergie renouvelables de lui fournir tous documents ou informations nécessaires. Après notification à l’exploitant, le régulateur peut procéder à des contrôles sur le site des installations de production en question.
 
-- Sauf en cas de fraude constatée, une garantie d’origine délivrée par un organisme compétent d’un autre Etat membre de la Communauté européenne, conformément à la directive 2001/77/CE , est d’office reconnue par le régulateur.
+- Sauf en cas de fraude constatée, une garantie d’origine délivrée par un organisme compétent d’un autre Etat membre de la Communauté européenne, conformément à la directive 2001/77/CE, est d’office reconnue par le régulateur.
 
 <a id="art-77"></a>
 ## Art. 77.

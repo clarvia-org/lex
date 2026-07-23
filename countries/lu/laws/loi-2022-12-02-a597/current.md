@@ -34,9 +34,9 @@ Définitions
 
 Pour l’application de la présente loi, on entend par :
 
-- « client final » : client final tel que défini à l’article 1 er , paragraphe 4, de la loi modifiée du 1er août 2007 relative à l’organisation du marché du gaz naturel ;
+- « client final » : client final tel que défini à l’article 1er, paragraphe 4, de la loi modifiée du 1er août 2007 relative à l’organisation du marché du gaz naturel ;
 
-- « fournisseur » : fournisseur tel que défini à l’article 1 er , paragraphe 14, de la loi modifiée du 1er août 2007 relative à l’organisation du marché du gaz naturel ;
+- « fournisseur » : fournisseur tel que défini à l’article 1er, paragraphe 14, de la loi modifiée du 1er août 2007 relative à l’organisation du marché du gaz naturel ;
 
 - « ministre » : le membre du Gouvernement ayant l’Énergie dans ses attributions ;
 
@@ -48,7 +48,7 @@ Pour l’application de la présente loi, on entend par :
 
 - « prix plafonné » : prix plafonné à 0,8325 euro par mètre cube de gaz naturel consommé, hors frais d’utilisation du réseau et tous impôts et taxes en vigueur au jour de la facturation ;
 
-- « régulateur » : régulateur tel que défini à l’article 1 er , paragraphe 1 ter , de la loi modifiée du 1er août 2007 relative à l’organisation du marché du gaz naturel ;
+- « régulateur » : régulateur tel que défini à l’article 1er, paragraphe 1ter, de la loi modifiée du 1er août 2007 relative à l’organisation du marché du gaz naturel ;
 
 - « unité privative » : unité séparée qui est réservée à l’usage d’un occupant ou groupe d’occupants.
 
@@ -185,13 +185,13 @@ Dispositions modificatives
 
 L’article 1er de la loi du 17 mai 2022 portant prise en charge par l’État des frais engendrés par l’utilisation des réseaux de distribution de gaz naturel est modifié comme suit :
 
-- le paragraphe 1 er est modifié comme suit :
+- le paragraphe 1er est modifié comme suit :
 
   - les termes 31 décembre 2022 sont remplacés par les termes 31 décembre 2023 ;
 
   - les termes 35 000 000 euros sont remplacés par les termes 115 000 000 euros ;
 
-- le paragraphe 2 est complété par les termes pour l’année civile 2022 et au plus tard le 30 juin 2024 pour l’année civile 2023 .
+- le paragraphe 2 est complété par les termes pour l’année civile 2022 et au plus tard le 30 juin 2024 pour l’année civile 2023.
 
 <a id="art-9"></a>
 ## Art. 9.

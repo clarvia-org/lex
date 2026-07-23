@@ -41,7 +41,7 @@ Les attributions de la commission médico-psycho-pédagogique nationale sont les
 
   - recommander des mesures préventives et des mesures d'appui pédagogique dans l'intérêt d'enfants susceptibles d'éprouver ou éprouvant des difficultés d'ordre scolaire et à surveiller l'exécution de ces mesures.
 
-- Attributions dans l'orientation et le suivi scolaires des enfants visés à l'article 1 er de la loi modifiée du 14 mars 1973:
+- Attributions dans l'orientation et le suivi scolaires des enfants visés à l'article 1er de la loi modifiée du 14 mars 1973:
 
   - organiser le dépistage de ces enfants;
 

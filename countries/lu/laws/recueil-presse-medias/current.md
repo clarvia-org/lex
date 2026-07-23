@@ -291,7 +291,7 @@ Est interdite la communication au public par la voie d’un média d’informati
 
 - d’un mineur ayant quitté ses parents, son tuteur, la personne ou l’institution qui était chargée de sa garde ou à laquelle il était confié;
 
-- d’un mineur délaissé dans les conditions mentionnées aux articles 354 et suivants du code pénal ;
+- d’un mineur délaissé dans les conditions mentionnées aux articles 354 et suivants du code pénal;
 
 - d’un mineur qui s’est suicidé;
 
@@ -1401,7 +1401,7 @@ Au cas où l´intéressé aurait été condamné à l´étranger à une peine en
 
 Le Conseil de Presse comprend:
 
-- les éditeurs des publications, agences et émissions luxembourgeoises visées par l´article 1 er , alinéa a de la présente loi;
+- les éditeurs des publications, agences et émissions luxembourgeoises visées par l´article 1er, alinéa a de la présente loi;
 
 - un nombre égal de journalistes.
 
@@ -1539,19 +1539,69 @@ Notre Ministre du Développement durable et des Infrastructures et Notre Ministr
 
 Le Code pénal est modifié comme suit :
 
-- À l’article 271, le chiffre deux est remplacé par le chiffre trois et les termes six mois sont remplacés par ceux de deux ans .
+- À l’article 271, le chiffre deux est remplacé par le chiffre trois et les termes six mois sont remplacés par ceux de deux ans.
 
-- À l’article 272, alinéa 2, le chiffre deux est remplacé par le chiffre trois .
+- À l’article 272, alinéa 2, le chiffre deux est remplacé par le chiffre trois.
 
-- À l’article 274, alinéa 1 er , le chiffre 2.000 est remplacé par le chiffre 5.000 .
+- À l’article 274, alinéa 1er, le chiffre 2.000 est remplacé par le chiffre 5.000.
 
-- À l’article 275, alinéa 1 er , et à l’article 276, les termes , ou par l’envoi d’objets quelconques ou la diffusion de substances quelconques sont insérés après les termes écrits ou dessins .
+- À l’article 275, alinéa 1er, et à l’article 276, les termes , ou par l’envoi d’objets quelconques ou la diffusion de substances quelconques sont insérés après les termes écrits ou dessins.
 
-- L’article 328 est rétabli dans la teneur suivante : Art. 328. Quiconque aura diffusé ou répandu, de quelque manière que ce soit, des substances qui, ne présentant en soi aucun danger, donnent l’impression d’être dangereuses, ou des substances potentiellement dangereuses, et dont il sait ou doit savoir qu’elles peuvent inspirer de vives craintes d’attentat contre les personnes ou les propriétés, sera puni d’un emprisonnement de trois mois à deux ans et d’une amende de 251 euros à 3.000 euros. Lorsque les faits sont commis à l’égard d’un député, d’un membre du Gouvernement ou d’un magistrat de l’ordre administratif ou judiciaire ou d’un officier ministériel ; d’un agent dépositaire de l’autorité ou de la force publique, ou de toute personne ayant un caractère public ; d’un journaliste professionnel, au sens de l’article 3, point 6, de la loi modifiée du 8 juin 2004 sur la liberté d’expression dans les médias ; la peine sera de six mois à trois ans d’emprisonnement et d’une amende de 500 euros à 5.000 euros.
+- L’article 328 est rétabli dans la teneur suivante :
 
-- À l’article 458, il est ajouté un alinéa 2 qui prend la teneur suivante : Seront punies des mêmes peines les employés ou agents du mont-de-piété qui auront révélé à d’autres qu’aux officiers de police ou à l’autorité judiciaire le nom des personnes qui ont déposé ou fait déposer des objets à l’établissement.
+<a id="art-n12572"></a>
+## Art. 328.
 
-- L’article 459 est modifié comme suit : Art. 459. (1) Quiconque aura révélé, diffusé ou transmis, par quelque moyen que ce soit, des informations relatives à la vie privée, familiale ou professionnelle d’une personne permettant de l’identifier ou de la localiser aux fins de l’exposer ou d’exposer les membres de sa famille à un risque direct d’atteinte à la personne ou aux biens que l’auteur ne pouvait ignorer, sera puni d’une peine d’emprisonnement de huit jours à six mois et d’une amende de 251 euros à 5.000 euros, ou de l’une de ces peines seulement. (2) Lorsque les faits sont commis à l’égard d’un député, d’un membre du Gouvernement ou d’un magistrat de l’ordre administratif ou judiciaire ou d’un officier ministériel ; d’un agent dépositaire de l’autorité ou de la force publique, ou de toute personne ayant un caractère public ; d’un journaliste professionnel, au sens de l’article 3, point 6, de la loi modifiée du 8 juin 2004 sur la liberté d’expression dans les médias ; d’un conjoint ou conjoint divorcé, d’une personne avec laquelle l’auteur vit ou a vécu habituellement ; d’un ascendant légitime ou naturel ou un des parents adoptifs de l’auteur ; d’un descendant légitime, naturel ou adoptif de quatorze ans ou plus de l’auteur ; d’un frère ou d’une sœur de l’auteur ; d’un ascendant légitime ou naturel, d’un des parents adoptifs, d’un descendant de quatorze ans accomplis, d’un frère ou d’une sœur d’une personne visée au 1° ; d’une personne dont la particulière vulnérabilité, due à son âge, à une maladie, à une infirmité, à une déficience physique ou psychique ou à un état de grossesse, est apparente ou connue de leur auteur ; d’une personne qui est tenue à son égard par des liens de subordination ; la peine sera de trois mois à deux ans d’emprisonnement et de 500 euros à 10.000 euros d’amende.
+Quiconque aura diffusé ou répandu, de quelque manière que ce soit, des substances qui, ne présentant en soi aucun danger, donnent l’impression d’être dangereuses, ou des substances potentiellement dangereuses, et dont il sait ou doit savoir qu’elles peuvent inspirer de vives craintes d’attentat contre les personnes ou les propriétés, sera puni d’un emprisonnement de trois mois à deux ans et d’une amende de 251 euros à 3.000 euros.
+
+Lorsque les faits sont commis à l’égard
+
+- d’un député, d’un membre du Gouvernement ou d’un magistrat de l’ordre administratif ou judiciaire ou d’un officier ministériel ;
+
+- d’un agent dépositaire de l’autorité ou de la force publique, ou de toute personne ayant un caractère public ;
+
+- d’un journaliste professionnel, au sens de l’article 3, point 6, de la loi modifiée du 8 juin 2004 sur la liberté d’expression dans les médias ;
+
+la peine sera de six mois à trois ans d’emprisonnement et d’une amende de 500 euros à 5.000 euros.
+
+- À l’article 458, il est ajouté un alinéa 2 qui prend la teneur suivante :
+
+Seront punies des mêmes peines les employés ou agents du mont-de-piété qui auront révélé à d’autres qu’aux officiers de police ou à l’autorité judiciaire le nom des personnes qui ont déposé ou fait déposer des objets à l’établissement.
+
+- L’article 459 est modifié comme suit :
+
+<a id="art-n125c0"></a>
+## Art. 459.
+
+(1)
+
+Quiconque aura révélé, diffusé ou transmis, par quelque moyen que ce soit, des informations relatives à la vie privée, familiale ou professionnelle d’une personne permettant de l’identifier ou de la localiser aux fins de l’exposer ou d’exposer les membres de sa famille à un risque direct d’atteinte à la personne ou aux biens que l’auteur ne pouvait ignorer, sera puni d’une peine d’emprisonnement de huit jours à six mois et d’une amende de 251 euros à 5.000 euros, ou de l’une de ces peines seulement.
+
+(2)
+
+Lorsque les faits sont commis à l’égard
+
+- d’un député, d’un membre du Gouvernement ou d’un magistrat de l’ordre administratif ou judiciaire ou d’un officier ministériel ;
+
+- d’un agent dépositaire de l’autorité ou de la force publique, ou de toute personne ayant un caractère public ;
+
+- d’un journaliste professionnel, au sens de l’article 3, point 6, de la loi modifiée du 8 juin 2004 sur la liberté d’expression dans les médias ;
+
+- d’un conjoint ou conjoint divorcé, d’une personne avec laquelle l’auteur vit ou a vécu habituellement ;
+
+- d’un ascendant légitime ou naturel ou un des parents adoptifs de l’auteur ;
+
+- d’un descendant légitime, naturel ou adoptif de quatorze ans ou plus de l’auteur ;
+
+- d’un frère ou d’une sœur de l’auteur ;
+
+- d’un ascendant légitime ou naturel, d’un des parents adoptifs, d’un descendant de quatorze ans accomplis, d’un frère ou d’une sœur d’une personne visée au 1° ;
+
+- d’une personne dont la particulière vulnérabilité, due à son âge, à une maladie, à une infirmité, à une déficience physique ou psychique ou à un état de grossesse, est apparente ou connue de leur auteur ;
+
+- d’une personne qui est tenue à son égard par des liens de subordination ;
+
+la peine sera de trois mois à deux ans d’emprisonnement et de 500 euros à 10.000 euros d’amende.
 
 <a id="art-n1261c"></a>
 ## Art. 2.
@@ -2581,7 +2631,7 @@ The Board of Directors shall ensure that the establishment’s tasks are carried
 
 - approve the mechanism for dealing with any feedback by the public on its programming and content, as provided for in Article 7 ;
 
-- maintain relations with the Luxembourg Independent Authority for Audiovisual Media, hereinafter referred to as ‘ALIA’, on any matter relating to surveillance, as well as define the action to be taken in response to any notifications or penalties addressed to the establishment pursuant to Article 35 sexies of the amended Law of 27 July 1991 on electronic media.
+- maintain relations with the Luxembourg Independent Authority for Audiovisual Media, hereinafter referred to as ‘ALIA’, on any matter relating to surveillance, as well as define the action to be taken in response to any notifications or penalties addressed to the establishment pursuant to Article 35sexies of the amended Law of 27 July 1991 on electronic media.
 
 (3)
 
@@ -2977,7 +3027,7 @@ Aux fins de la présente loi, on entend par:
 
 - « décision éditoriale », une décision prise régulièrement dans le but d’exercer la responsabilité éditoriale et liée au fonctionnement du service de médias audiovisuels au quotidien ;
 
-- «Etat membre de l’Espace économique européen», tout Etat ayant adhéré à l’Accord sur l’Espace économique européen ou tout autre Etat ayant conclu avec l’Union européenne un accord de réciprocité en matière d’application de la directive Services de médias audiovisuels ;
+- «Etat membre de l’Espace économique européen», tout Etat ayant adhéré à l’Accord sur l’Espace économique européen ou tout autre Etat ayant conclu avec l’Union européenne un accord de réciprocité en matière d’application de la directive Services de médias audiovisuels;
 
 - « fournisseur de plateformes de partage de vidéos », la personne physique ou morale qui fournit un service de plateformes de partage de vidéos ;
 
@@ -2985,9 +3035,9 @@ Aux fins de la présente loi, on entend par:
 
 - «fournisseur de services de médias audiovisuels luxembourgeois», un fournisseur de services de médias audiovisuels qui relève de la compétence du Grand-Duché de Luxembourg, parce que
 
-  - soit il répond à l’un des critères établis à cet effet par l’article 2bis, paragraphe 1 er ci-après,
+  - soit il répond à l’un des critères établis à cet effet par l’article 2bis, paragraphe 1er ci-après,
 
-  - soit il tombe sous le champ d’application de l’article 2, paragraphe 5 de la directive 2010/13/UE du Parlement européen et du Conseil du 10 mars 2010 visant à la coordination de certaines dispositions législatives, réglementaires et administratives des Etats membres relatives à la fourniture de services de médias audiovisuels appelée ci-après « directive Services de médias audiovisuels »;
+  - soit il tombe sous le champ d’application de l’article 2, paragraphe 5 de la directive 2010/13/UE du Parlement européen et du Conseil du 10 mars 2010 visant à la coordination de certaines dispositions législatives, réglementaires et administratives des Etats membres relatives à la fourniture de services de médias audiovisuels appelée ci-après «directive Services de médias audiovisuels»;
 
 - «fournisseur de services de radio luxembourgeois», la personne physique ou morale qui est établie au Grand-Duché de Luxembourg, et qui produit ou fait produire un service de radio sonore dont elle assume la responsabilité et qu’elle transmet ou fait transmettre par une tierce personne;
 
@@ -3019,7 +3069,7 @@ Aux fins de la présente loi, on entend par:
 
 - «service de médias audiovisuels ou sonores non luxembourgeois», tout service de médias audiovisuels ou sonores d’un fournisseur de services de médias audiovisuels ou sonores autre qu’un fournisseur de services de médias audiovisuels luxembourgeois ou un fournisseur de services de radio luxembourgeois;
 
-- « service de plateformes de partage de vidéos », un service tel que défini aux articles 56 et 57 du traité sur le fonctionnement de l’Union européenne , pour lequel l’objet principal du service proprement dit ou d’une partie dissociable de ce service ou une fonctionnalité essentielle du service est la fourniture au grand public de programmes, de vidéos créées par l’utilisateur, ou des deux, qui ne relèvent pas de la responsabilité éditoriale du fournisseur de la plateforme de partage de vidéos, dans le but d’informer, de divertir ou d’éduquer, par le biais de réseaux de communications électroniques et dont l’organisation est déterminée par le fournisseur de la plateforme de partage de vidéos, à l’aide notamment de moyens automatiques ou d’algorithmes, en particulier l’affichage, le balisage et le séquencement ;
+- « service de plateformes de partage de vidéos », un service tel que défini aux articles 56 et 57 du traité sur le fonctionnement de l’Union européenne, pour lequel l’objet principal du service proprement dit ou d’une partie dissociable de ce service ou une fonctionnalité essentielle du service est la fourniture au grand public de programmes, de vidéos créées par l’utilisateur, ou des deux, qui ne relèvent pas de la responsabilité éditoriale du fournisseur de la plateforme de partage de vidéos, dans le but d’informer, de divertir ou d’éduquer, par le biais de réseaux de communications électroniques et dont l’organisation est déterminée par le fournisseur de la plateforme de partage de vidéos, à l’aide notamment de moyens automatiques ou d’algorithmes, en particulier l’affichage, le balisage et le séquencement ;
 
 - «service de radio», tout service qui relève de la responsabilité éditoriale d’un fournisseur de services de médias et dont l’objet principal est la fourniture, par la voie de réseaux de communications électroniques, dans le but d’informer, de divertir ou d’éduquer le public, de services sonores pour l’écoute simultanée sur la base d’une grille de programme;
 
@@ -3671,7 +3721,7 @@ Conformément à l’article 3, paragraphe 4, les permissions visées aux paragr
 
 - si les obligations inscrites dans le cahier des charges ne sont pas respectées ; ou
 
-- si elles ne font pas l’objet d’une exploitation régulière, conformément aux modalités fixées. Les modalités du retrait sont régies par les dispositions de l’article 35 sexies .
+- si elles ne font pas l’objet d’une exploitation régulière, conformément aux modalités fixées. Les modalités du retrait sont régies par les dispositions de l’article 35sexies.
 
 <a id="art-n14643"></a>
 ## Art. 19bis.
@@ -4046,7 +4096,7 @@ Sans préjudice de l’obligation de respecter et de protéger la dignité humai
 
 - aucune incitation à la violence ou à la haine visant un groupe de personnes ou un membre d’un groupe fondée sur l’un des motifs visés à l’article 21 de la Charte des droits fondamentaux de l’Union européenne ;
 
-- aucune provocation publique à commettre une infraction terroriste telle que visée à l’article 135-11, paragraphes 1 et 2, du Code pénal .
+- aucune provocation publique à commettre une infraction terroriste telle que visée à l’article 135-11, paragraphes 1 et 2, du Code pénal.
 
 B. – REGLES APPLICABLES AUX SERVICES DE MEDIAS AUDIOVISUELS
 
@@ -4301,11 +4351,11 @@ Mesures appropriées à prendre par les fournisseurs de plateformes de partage d
 
 Sans préjudice des articles 60 à 63 de la loi modifiée du 14 août 2000 relative au commerce électronique, les fournisseurs de plateformes de partage de vidéos relevant de la compétence du Grand-Duché de Luxembourg prennent les mesures appropriées pour protéger :
 
-- les mineurs des programmes, vidéos créées par l’utilisateur et communications commerciales audiovisuelles susceptibles de nuire à leur épanouissement physique, mental ou moral, conformément à l’article 27ter, paragraphes 1 er et 2 ;
+- les mineurs des programmes, vidéos créées par l’utilisateur et communications commerciales audiovisuelles susceptibles de nuire à leur épanouissement physique, mental ou moral, conformément à l’article 27ter, paragraphes 1er et 2 ;
 
 - le grand public des programmes, vidéos créées par l’utilisateur et communications commerciales audiovisuelles comportant une incitation à la violence ou à la haine visant un groupe de personnes ou un membre d’un groupe, fondée sur l’un des motifs visés à l’article 21 de la Charte des droits fondamentaux de l’Union européenne ;
 
-- le grand public des programmes, vidéos créées par l’utilisateur et communications commerciales audiovisuelles comportant des contenus dont la diffusion constitue une infraction pénale, à savoir la provocation publique à commettre une infraction terroriste telle qu’énoncée à l’article 135-11, paragraphes 1 er et 2, du Code pénal , les infractions liées à la pédopornographie telles qu’énoncées à l’article 379, point 2°, du Code pénal et les infractions relevant du racisme et de la xénophobie telles qu’énoncées aux articles 457-1 et 457-3 du Code pénal .
+- le grand public des programmes, vidéos créées par l’utilisateur et communications commerciales audiovisuelles comportant des contenus dont la diffusion constitue une infraction pénale, à savoir la provocation publique à commettre une infraction terroriste telle qu’énoncée à l’article 135-11, paragraphes 1er et 2, du Code pénal, les infractions liées à la pédopornographie telles qu’énoncées à l’article 379, point 2°, du Code pénal et les infractions relevant du racisme et de la xénophobie telles qu’énoncées aux articles 457-1 et 457-3 du Code pénal.
 
 (2)
 
@@ -4323,9 +4373,9 @@ Tous les fournisseurs de plateformes de partage de vidéos relevant de la compé
 
 Ces mesures consistent, selon ce qui est approprié, à :
 
-- inclure et appliquer, dans les conditions des services de plateformes de partage de vidéos, les exigences visées au paragraphe 1 er ;
+- inclure et appliquer, dans les conditions des services de plateformes de partage de vidéos, les exigences visées au paragraphe 1er ;
 
-- inclure et appliquer, dans les conditions des services de plateformes de partage de vidéos, les exigences énoncées à l’article 27bis, paragraphes 1 er à 5, pour les communications commerciales audiovisuelles qui ne font pas l’objet d’actions de promotion, ne sont pas vendues et ne sont pas organisées par les fournisseurs de plateformes de partage de vidéos ;
+- inclure et appliquer, dans les conditions des services de plateformes de partage de vidéos, les exigences énoncées à l’article 27bis, paragraphes 1er à 5, pour les communications commerciales audiovisuelles qui ne font pas l’objet d’actions de promotion, ne sont pas vendues et ne sont pas organisées par les fournisseurs de plateformes de partage de vidéos ;
 
 - disposer d’une fonctionnalité permettant aux utilisateurs qui mettent en ligne des vidéos créées par l’utilisateur de déclarer si ces vidéos contiennent, à leur connaissance ou dans la mesure où l’on peut raisonnablement attendre d’eux qu’ils le sachent, des communications commerciales audiovisuelles ;
 
@@ -4335,7 +4385,7 @@ Ces mesures consistent, selon ce qui est approprié, à :
 
 - mettre en place et utiliser des systèmes permettant de vérifier l’âge des utilisateurs des plateformes de partage de vidéos en ce qui concerne les contenus susceptibles de nuire à l’épanouissement physique, mental ou moral des mineurs ;
 
-- mettre en place et utiliser des systèmes faciles à utiliser permettant aux utilisateurs de plateformes de partage de vidéos de classifier les contenus visés au paragraphe 1 er ;
+- mettre en place et utiliser des systèmes faciles à utiliser permettant aux utilisateurs de plateformes de partage de vidéos de classifier les contenus visés au paragraphe 1er ;
 
 - prévoir des systèmes de contrôle parental dont les utilisateurs finaux ont le contrôle en ce qui concerne les contenus susceptibles de nuire à l’épanouissement physique, mental ou moral des mineurs ;
 
@@ -4525,7 +4575,7 @@ L’Autorité a pour mission:
 
 - de surveiller, de contrôler et d’assurer le respect des dispositions légales et réglementaires et des dispositions des cahiers des charges des services de médias audiovisuels ou sonores qui relèvent de la compétence des autorités luxembourgeoises en application de la présente loi, soit parce qu’ils sont bénéficiaires d’une concession ou permission accordée en vertu de la présente loi, soit parce qu’ils ont notifié leurs services conformément à l’article 23bis, 23ter ou 23quater (2) de la présente loi.
 
-- d’exercer les attributions lui confiées par les articles 2 et 4 de la loi du 14 décembre 2015 relative aux sondages d’opinion politique et portant modification 1. de la loi électorale modifiée du 18 février 2003 ; 2. de la loi modifiée du 27 juillet 1991 sur les médias électroniques; 3. de la loi modifiée du 4 février 2005 relative au référendum au niveau national.
+- d’exercer les attributions lui confiées par les articles 2 et 4 de la loi du 14 décembre 2015 relative aux sondages d’opinion politique et portant modification 1. de la loi électorale modifiée du 18 février 2003; 2. de la loi modifiée du 27 juillet 1991 sur les médias électroniques; 3. de la loi modifiée du 4 février 2005 relative au référendum au niveau national.
 
 - d’encourager l’utilisation de la corégulation et la promotion de l’autorégulation au moyen de codes de conduite rédigés par des fournisseurs de services de médias audiovisuels, des fournisseurs de services de plateformes de partage de vidéos ou des organisations qui les représentent, en coopération, le cas échéant, avec d’autres secteurs tels que les associations ou organisations industrielles, commerciales, professionnelles ou de consommateurs. Ces codes sont conçus de manière à être largement acceptés par les principaux acteurs ; définissent leurs objectifs clairement et sans ambiguïté ; prévoient que la réalisation de ces objectifs est suivie et évaluée de manière régulière, transparente et indépendante ; et assurent une mise en œuvre effective, notamment au moyen de sanctions efficaces et proportionnées.
 
@@ -4888,7 +4938,7 @@ Les concessions pour les services radiodiffusés luxembourgeois à rayonnement i
 
 Les concessions visées à l’article 1er sont accordées, pour les services visés à l’article 2, alinéa (2), lettre a) de la loi, après publication d’un appel de candidatures. Peuvent toutefois être accordées sans appel public de candidatures:
 
-- les nouvelles concessions remplaçant une concession existante au sens de l’article 5, alinéa (1) de la loi ,
+- les nouvelles concessions remplaçant une concession existante au sens de l’article 5, alinéa (1) de la loi,
 
 - les concessions additionnelles accordées au bénéficiaire d’une concession pour un ou des services radiodiffusés luxembourgeois à rayonnement international et l’extension d’une telle concession à des services additionnels.
 
@@ -5024,9 +5074,16 @@ La liste des fréquences de radiodiffusion luxembourgeoises prévue à l’artic
 
   - les fréquences pour services radiodiffusés luxembourgeois à rayonnement international:
 
-    - selon l’Accord de Genève 1975 (GE75) de l’UIT: dans les ondes longues: 234 kHz à Junglinster 279 kHz à Junglinster dans les ondes moyennes: 1440 kHz à Marnach 567 kHz à Clervaux 783 kHz à Clervaux 1098 kHz à Clervaux
+    - selon l’Accord de Genève 1975 (GE75) de l’UIT:
 
-    - selon l’Accord de Genève 1984 (GE84) de l’UIT: en modulation de fréquence: 93,3 MHz à Dudelange 97,0 MHz à Hosingen
+| dans les ondes longues: | 234 kHz à Junglinster 279 kHz à Junglinster |
+| --- | --- |
+| dans les ondes moyennes: | 1440 kHz à Marnach 567 kHz à Clervaux 783 kHz à Clervaux 1098 kHz à Clervaux |
+
+    - selon l’Accord de Genève 1984 (GE84) de l’UIT:
+
+| en modulation de fréquence: | 93,3 MHz à Dudelange 97,0 MHz à Hosingen |
+| --- | --- |
 
   - les fréquences pour services de radio sonore à émetteur de haute puissance en modulation de fréquence selon l’Accord de Genève 1984 (GE84) de l’UIT:
 
@@ -5044,9 +5101,34 @@ La liste des fréquences de radiodiffusion luxembourgeoises prévue à l’artic
 
   - les fréquences pour services de radio sonore à émetteur(s) de faible puissance en modulation de fréquence selon l’Accord de Genève 1984 (GE84) de l’UIT:
 
-    - les fréquences destinées aux radios locales à attribuer selon l’article 16, paragraphe 1 er de la Loi : N Fréquence Identification Coordonnées géographiques de l’emplacement de référence 1 102,2 MHz RLO 029/22 5E50 49N33 7 102,2 MHz RLO 105/22 6E08 49N53 8 102,2 MHz RLO 110/22 5E54 49N56 11 103,9 MHz RLO 027/39 6E09 49N33 15 103,9 MHz RLO 097/39 6E18 49N51 22 106,1 MHz RLO 011/61 6E01 49N30 24 106,1 MHz RLO 132/61 6E02 50N05 26 106,5 MHz RLO 025/65 6E01 49N33 30 106,5 MHz RLO 087/65 6E21 49N48 31 106,5 MHz RLO 095/65 6E10 49N51 33 107,0 MHz RLO 010/70 6E03 49N32 40 107,0 MHz RLO 131/70 5E58 50N05 41 100,2 MHz RLO 150/02 5E59 49N30 42 101,7 MHz RLO 151/17 5E59 49N30 43 105,7 MHz RLO 152/57 5E59 49N30 44 103,6 MHz RLO 156/36 6E05 49N28 45 88,1 MHz RLO 178/881 6E06’ 02“ 49N45’ 37 46 105,8 MHz RLO 181/1058 6E00’ 38“ 50N07’ 48“ 47 106,0 MHz RLO 157/60 5E59‘ 10“ 49N30‘ 00“ 48 94,7 MHz RLO 176/947 6E11’ 27’’ 49N49’ 15’’ 49 90,3 MHz RLO 167/0903 6E07‘ 26“ 49N35‘ 16“ 50 98,3 MHz RLO 166/0983 6E06‘ 41“ 49N36‘ 34“
+    - les fréquences destinées aux radios locales à attribuer selon l’article 16, paragraphe 1er de la Loi:
 
-    - les fréquences destinées aux radios locales à attribuer le cas échéant selon l’article 16, paragraphe 7 de la Loi :
+| N | Fréquence | Identification | Coordonnées géographiques de l’emplacement de référence |
+| --- | --- | --- | --- |
+| 1 | 102,2 MHz | RLO 029/22 | 5E50 49N33 |
+| 7 | 102,2 MHz | RLO 105/22 | 6E08 49N53 |
+| 8 | 102,2 MHz | RLO 110/22 | 5E54 49N56 |
+| 11 | 103,9 MHz | RLO 027/39 | 6E09 49N33 |
+| 15 | 103,9 MHz | RLO 097/39 | 6E18 49N51 |
+| 22 | 106,1 MHz | RLO 011/61 | 6E01 49N30 |
+| 24 | 106,1 MHz | RLO 132/61 | 6E02 50N05 |
+| 26 | 106,5 MHz | RLO 025/65 | 6E01 49N33 |
+| 30 | 106,5 MHz | RLO 087/65 | 6E21 49N48 |
+| 31 | 106,5 MHz | RLO 095/65 | 6E10 49N51 |
+| 33 | 107,0 MHz | RLO 010/70 | 6E03 49N32 |
+| 40 | 107,0 MHz | RLO 131/70 | 5E58 50N05 |
+| 41 | 100,2 MHz | RLO 150/02 | 5E59 49N30 |
+| 42 | 101,7 MHz | RLO 151/17 | 5E59 49N30 |
+| 43 | 105,7 MHz | RLO 152/57 | 5E59 49N30 |
+| 44 | 103,6 MHz | RLO 156/36 | 6E05 49N28 |
+| 45 | 88,1 MHz | RLO 178/881 | 6E06’ 02“ 49N45’ 37 |
+| 46 | 105,8 MHz | RLO 181/1058 | 6E00’ 38“ 50N07’ 48“ |
+| 47 | 106,0 MHz | RLO 157/60 | 5E59‘ 10“ 49N30‘ 00“ |
+| 48 | 94,7 MHz | RLO 176/947 | 6E11’ 27’’ 49N49’ 15’’ |
+| 49 | 90,3 MHz | RLO 167/0903 | 6E07‘ 26“ 49N35‘ 16“ |
+| 50 | 98,3 MHz | RLO 166/0983 | 6E06‘ 41“ 49N36‘ 34“ |
+
+    - les fréquences destinées aux radios locales à attribuer le cas échéant selon l’article 16, paragraphe 7 de la Loi:
 
       - 96,6 MHz RLO 175/966 à Esch/Alzette
 
@@ -5167,7 +5249,7 @@ Notre Premier Ministre, Ministre d'Etat, est chargé de l'exécution du présent
 
 Personnalité, dénomination, siège, tutelle.
 
-- L'établissement public créé par l'article 14, alinéa (2) de la loi du 27 juillet 1991 sur les médias électroniques, appelée ci-après «la loi », jouit de la personnalité juridique et de l'autonomie financière et administrative.
+- L'établissement public créé par l'article 14, alinéa (2) de la loi du 27 juillet 1991 sur les médias électroniques, appelée ci-après «la loi», jouit de la personnalité juridique et de l'autonomie financière et administrative.
 
 - L'établissement est dénommé «établissement de radiodiffusion socioculturelle». Il est autorisé à faire usage à l'égard du public d'autres appellations de son choix ne prêtant pas à confusion avec celles d'autres institutions publiques ou privées.
 
@@ -5186,7 +5268,7 @@ Objet.
 
   - d'organiser des programmes à finalité socioculturelle, dont il assume la responsabilité.
 
-- A cette fin l'établissement se verra attribuer par le Gouvernement une permission de radiodiffusion, conformément à l'article 13 de la loi , et une autorisation d'émettre, conformément à l'article 4 de la loi .
+- A cette fin l'établissement se verra attribuer par le Gouvernement une permission de radiodiffusion, conformément à l'article 13 de la loi, et une autorisation d'émettre, conformément à l'article 4 de la loi.
 
 - L'établissement peut faire en outre toutes autres prestations se rattachant directement ou indirectement à son objet ou tendant à favoriser la réalisation de celui-ci.
 
@@ -5247,7 +5329,7 @@ Conseil d'administration.
 
 - Le président représente l'établissement en justice et dans les actes privés et publics.
 
-- Le conseil d'administration est l'organe responsable au sens des articles 14, alinéa (5) et 30, alinéa (1) c) de la loi . Dans ce contexte, la définition des suites à réserver à d'éventuelles notifications adressées à l'établissement en vertu de l'article 35 de la loi et à d'éventuelles sentences arbitrales prononcées par la Commission indépendante de la radiodiffusion tombe dans les attributions du conseil d'administration.
+- Le conseil d'administration est l'organe responsable au sens des articles 14, alinéa (5) et 30, alinéa (1) c) de la loi. Dans ce contexte, la définition des suites à réserver à d'éventuelles notifications adressées à l'établissement en vertu de l'article 35 de la loi et à d'éventuelles sentences arbitrales prononcées par la Commission indépendante de la radiodiffusion tombe dans les attributions du conseil d'administration.
 
 <a id="art-n16ae4"></a>
 ## Art. 4.
@@ -5278,7 +5360,7 @@ Surveillance du contenu des programmes.
 
 - La surveillance du contenu des programmes est assurée par le Ministre ayant dans ses attributions les médias, avec le concours du Conseil national des programmes.
 
-- L'établissement est tenu au respect des sentences arbitrales prononcées par la Commission indépendante de la radiodiffusion en vertu de l'article 14, alinéa (5) de la loi , sous peine de l'application des dispositions de l'article 35 de la loi .
+- L'établissement est tenu au respect des sentences arbitrales prononcées par la Commission indépendante de la radiodiffusion en vertu de l'article 14, alinéa (5) de la loi, sous peine de l'application des dispositions de l'article 35 de la loi.
 
 <a id="art-n16bae"></a>
 ## Art. 7.
@@ -5381,7 +5463,7 @@ Le Ministre accorde les concessions, assorties des cahiers des charges, au nom d
 <a id="art-n16ef4"></a>
 ## Art. 5.
 
-- Les cahiers des charges assortis aux concessions seront conformes à l'article 21 de la loi .
+- Les cahiers des charges assortis aux concessions seront conformes à l'article 21 de la loi.
 
 - Si la concession porte sur plusieurs services , le cahier des charges pourra comprendre des dispositions communes concernant tous les services et des dispositions particulières concernant chacun des services visés par la concession.
 
@@ -5619,7 +5701,7 @@ Dans l’ensemble des dispositions de la loi modifiée du 27 juillet 1991 sur le
 
 L’article 2 de la même loi est complété par un point 1) nouveau qui a la teneur suivante:
 
-- Autorité , l’Autorité luxembourgeoise indépendante de l’audiovisuel; Le texte actuel de l’article 2 est maintenu tel quel, mais les définitions figurant sous les numéros de 1 à 28 figureront désormais sous les numéros de 2 à 29.
+- Autorité, l’Autorité luxembourgeoise indépendante de l’audiovisuel; Le texte actuel de l’article 2 est maintenu tel quel, mais les définitions figurant sous les numéros de 1 à 28 figureront désormais sous les numéros de 2 à 29.
 
 <a id="art-n176c5"></a>
 ## Art. 3.
@@ -5643,7 +5725,7 @@ A l’article 9 aux paragraphes (2) et (3) de la même loi, les deux mentions de
 
 A l’article 14 paragraphe (5) de la même loi sont apportées les modifications suivantes:
 
-- Le mot habilité figurant dans la première phrase est mis au féminin. Dans la deuxième phrase, le mot Il est remplacé par Elle et le terme chargé est complété par la rajoute d’un e .
+- Le mot habilité figurant dans la première phrase est mis au féminin. Dans la deuxième phrase, le mot Il est remplacé par Elle et le terme chargé est complété par la rajoute d’un e.
 
 - La dernière phrase est supprimée.
 
@@ -5672,18 +5754,18 @@ A l’article 23ter de la même loi, dernière phrase, les mots au ministre ayan
 
 A l’article 23quater de la même loi sont apportées les modifications suivantes:
 
-- Au paragraphe (2), dernière phrase, les mots au ministre ayant dans ses attributions les médias et à sont biffés et remplacés par le mot à et le mot leur employé avant le mot fournir et avant le mot permettre est à chaque fois remplacé par le mot lui .
+- Au paragraphe (2), dernière phrase, les mots au ministre ayant dans ses attributions les médias et à sont biffés et remplacés par le mot à et le mot leur employé avant le mot fournir et avant le mot permettre est à chaque fois remplacé par le mot lui.
 
-- Au paragraphe (3) du même article, la phrase suivante est ajoutée: La notification prévue au présent paragraphe peut également être effectuée par la personne à laquelle incombe l’obligation visée au paragraphe (2) .
+- Au paragraphe (3) du même article, la phrase suivante est ajoutée: La notification prévue au présent paragraphe peut également être effectuée par la personne à laquelle incombe l’obligation visée au paragraphe (2).
 
-- Au paragraphe (4) première phrase du même article sont insérés après les mots au chapitre V les mots suivants ainsi qu’à l’article 34bis de la présente loi .
+- Au paragraphe (4) première phrase du même article sont insérés après les mots au chapitre V les mots suivants ainsi qu’à l’article 34bis de la présente loi.
 
 <a id="art-n177f9"></a>
 ## Art. 12.
 
 L’article 25 de la même loi est modifié comme suit:
 
-- Au paragraphe (1) les deux mentions de l’article 35 sont remplacées par celles de l’article 35sexies .
+- Au paragraphe (1) les deux mentions de l’article 35 sont remplacées par celles de l’article 35sexies.
 
 - Au paragraphe (4), le mot entendu est mis au féminin.
 
@@ -5692,9 +5774,9 @@ L’article 25 de la même loi est modifié comme suit:
 
 L’article 28ter de la même loi est modifié comme suit:
 
-- Au paragraphe (2) de cet article, après les mots si le fournisseur du service de télévision sont intercalés les mots demandant l’accès .
+- Au paragraphe (2) de cet article, après les mots si le fournisseur du service de télévision sont intercalés les mots demandant l’accès.
 
-- Au paragraphe (4) de cet article les mots la même émission est offerte sont remplacés par les mots le même programme est offert .
+- Au paragraphe (4) de cet article les mots la même émission est offerte sont remplacés par les mots le même programme est offert.
 
 <a id="art-n17852"></a>
 ## Art. 14.
@@ -5730,8 +5812,6 @@ L’article 35 de la même loi est modifié et a désormais la teneur suivante:
 
 ##### Chapitre VII «De la surveillance de l’application de la loi»
 
-«De la surveillance de l’application de la loi»
-
 <a id="art-n178e8"></a>
 ## Art. 35.
 
@@ -5763,7 +5843,7 @@ L’Autorité a pour mission:
 
 - d’exercer les attributions lui confiées par l’article 6 de la loi du 20 avril 2009 relative à l’accès aux représentations cinématographiques publiques,
 
-- de surveiller, de contrôler et d’assurer le respect des dispositions légales et réglementaires et des dispositions des cahiers des charges des services de médias audiovisuels ou sonores qui relèvent de la compétence des autorités luxembourgeoises en application de la présente loi, soit parce qu’ils sont bénéficiaires d’une concession ou permission accordée en vertu de la présente loi, soit parce qu’ils ont notifié leurs services conformément à l’article 23 bis , 23 ter ou 23 quater (2) de la présente loi.
+- de surveiller, de contrôler et d’assurer le respect des dispositions légales et réglementaires et des dispositions des cahiers des charges des services de médias audiovisuels ou sonores qui relèvent de la compétence des autorités luxembourgeoises en application de la présente loi, soit parce qu’ils sont bénéficiaires d’une concession ou permission accordée en vertu de la présente loi, soit parce qu’ils ont notifié leurs services conformément à l’article 23bis, 23ter ou 23quater (2) de la présente loi.
 
 (3)
 
@@ -5787,7 +5867,7 @@ A. Le Conseil d’administration
 
 1. Les compétences du Conseil d’administration
 
-- Il se prononce sur la recevabilité d’une plainte et l’ouverture d’une instruction, constate les violations à la présente loi et aux règlements pris en exécution de celle-ci, ainsi que les manquements aux obligations découlant des concessions, permissions et des charges assortis et prononce le cas échéant une des sanctions prévues à l’article 35 sexies de la présente loi, le directeur entendu en son avis.
+- Il se prononce sur la recevabilité d’une plainte et l’ouverture d’une instruction, constate les violations à la présente loi et aux règlements pris en exécution de celle-ci, ainsi que les manquements aux obligations découlant des concessions, permissions et des charges assortis et prononce le cas échéant une des sanctions prévues à l’article 35sexies de la présente loi, le directeur entendu en son avis.
 
 - Lorsque le Conseil d’administration arrive à la conclusion que les faits relevés par le dossier d’instruction ne constituent pas un manquement aux dispositions de la présente loi et qu’aucune disposition de la présente loi n’ait été enfreinte, il décide de classer l’affaire.
 
@@ -5953,7 +6033,7 @@ Elle établit son règlement d’ordre intérieur qui règle les modalités de f
 
 Elle a les missions suivantes:
 
-- elle doit être consultée dans le cadre d’une instruction concernant les articles 26 bis , 27 ter , 28 quater et 28 quinquies de la présente loi;
+- elle doit être consultée dans le cadre d’une instruction concernant les articles 26bis, 27ter, 28quater et 28quinquies de la présente loi;
 
 - elle doit être consultée en cas de saisine de l’Autorité conformément à l’article 6 alinéa 2 de la loi du 20 avril 2009 relative à l’accès aux représentations cinématographiques;
 
@@ -6109,9 +6189,9 @@ Dans tous les cas visés au présent article, il est statué après une procédu
 
 Si un fournisseur de services de medias ne se met pas en conformité avec une disposition visée au paragraphe (3) après la prononciation d’une amende d’ordre prononcée sur base du paragraphe (3), ou en cas de récidive pour violation de la même disposition dans un délai de six mois suivant la prononciation de l’amende, soit le maximum de l’amende d’ordre prévue au paragraphe (3) c) peut être doublé, soit l’Autorité peut,
 
-- lorsqu’il s’agit d’un service de médias audiovisuels visé aux articles 9, 10 bis , 12, 13, 14, 19, 21 et 23 de la présente loi, faire rapport au Ministre ayant l’Autorité dans ses attributions et proposer la suspension temporaire ou le retrait de la permission ou de la concession;
+- lorsqu’il s’agit d’un service de médias audiovisuels visé aux articles 9, 10bis, 12, 13, 14, 19, 21 et 23 de la présente loi, faire rapport au Ministre ayant l’Autorité dans ses attributions et proposer la suspension temporaire ou le retrait de la permission ou de la concession;
 
-- lorsqu’il s’agit d’un service de médias audiovisuels visé aux articles 23 bis , 23 ter ou 23 quater faire rapport au Ministre ayant l’Autorité dans ses attributions et proposer la suspension temporaire ou l’interdiction définitive. Dans le cas d’un service visé à l’article 23 quater , l’interdiction du service entraîne l’interdiction de l’usage de la liaison montante ou de la capacité de satellite luxembourgeois;
+- lorsqu’il s’agit d’un service de médias audiovisuels visé aux articles 23bis, 23ter ou 23quater faire rapport au Ministre ayant l’Autorité dans ses attributions et proposer la suspension temporaire ou l’interdiction définitive. Dans le cas d’un service visé à l’article 23quater, l’interdiction du service entraîne l’interdiction de l’usage de la liaison montante ou de la capacité de satellite luxembourgeois;
 
 - lorsqu’il s’agit d’un service de médias sonore visé aux articles 15 à 18 de la présente loi prononcer la suspension temporaire ou le retrait de la permission.
 
@@ -6139,18 +6219,27 @@ L’article 38 de la même loi est abrogé.
 
 La loi du 20 avril 2009 relative à l’accès aux représentations cinématographiques publiques est modifiée comme suit:
 
-- A l’article 4, alinéa 2, les termes ceci à partir de la limite d’âge de 12 ans sont remplacés par ceci à partir de l’âge de 6 ans .
+- A l’article 4, alinéa 2, les termes ceci à partir de la limite d’âge de 12 ans sont remplacés par ceci à partir de l’âge de 6 ans.
 
-- L’article 6 est remplacé par le texte suivant: Art. 6. L’Autorité luxembourgeoise indépendante de l’Audiovisuel, ci-après dénommée «l’Autorité» est appelée à contrôler le classement des films, le respect et la publication obligatoire de ce classement prévue à l’article 3. Outre l’autosaisine, l’Autorité peut être saisie par les Ministres ayant en charge respectivement la Famille, la Justice, la Culture, l’Education nationale ainsi que par le Comité luxembourgeois des droits de l’enfant, appelé «Ombuds-Comité fir d’Rechter vum Kand». En cas de divergence de classification par différents organisateurs, l’Autorité est saisie de plein droit. L’Autorité peut, par décision motivée, reclasser des films. Le classement opéré par l’Autorité se substitue à tout classement antérieur et vaut à l’égard des organisateurs et du public à partir du jour de la décision.
+- L’article 6 est remplacé par le texte suivant:
+
+<a id="art-n17f36"></a>
+## Art. 6.
+
+L’Autorité luxembourgeoise indépendante de l’Audiovisuel, ci-après dénommée «l’Autorité» est appelée à contrôler le classement des films, le respect et la publication obligatoire de ce classement prévue à l’article 3.
+
+Outre l’autosaisine, l’Autorité peut être saisie par les Ministres ayant en charge respectivement la Famille, la Justice, la Culture, l’Education nationale ainsi que par le Comité luxembourgeois des droits de l’enfant, appelé «Ombuds-Comité fir d’Rechter vum Kand». En cas de divergence de classification par différents organisateurs, l’Autorité est saisie de plein droit.
+
+L’Autorité peut, par décision motivée, reclasser des films. Le classement opéré par l’Autorité se substitue à tout classement antérieur et vaut à l’égard des organisateurs et du public à partir du jour de la décision.
 
 <a id="art-n17f54"></a>
 ## Art. 27.
 
 La loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’Etat est modifiée comme suit:
 
-- A l’article 22. Section IV, sous 9° est ajoutée la mention le directeur de l’Autorité luxembourgeoise indépendante de l’Audiovisuel .
+- A l’article 22. Section IV, sous 9° est ajoutée la mention le directeur de l’Autorité luxembourgeoise indépendante de l’Audiovisuel.
 
-- A l’annexe A – classification des fonctions – à la rubrique I (Administration générale) est ajoutée au grade 17 la mention Autorité luxembourgeoise indépendante de l’Audiovisuel – directeur .
+- A l’annexe A – classification des fonctions – à la rubrique I (Administration générale) est ajoutée au grade 17 la mention Autorité luxembourgeoise indépendante de l’Audiovisuel – directeur.
 
 - A l’annexe D – Détermination des carrières inférieures, moyennes et supérieures –, sous la rubrique I (Administration générale), dans la carrière supérieure de l’Administration et au grade 12 de la computation de la bonification d’ancienneté sont ajoutés sous le grade 17 les termes directeur de l’Autorité luxembourgeoise indépendante de l’Audiovisuel.
 
@@ -6604,11 +6693,11 @@ Sont toutefois exclus du droit d’accès, les documents relatifs :
 
 - à un secret ou une confidentialité protégés par la loi ;
 
-- aux missions de contrôle, d’inspection et de régulation des organismes visés au paragraphe 1 er ;
+- aux missions de contrôle, d’inspection et de régulation des organismes visés au paragraphe 1er ;
 
-- au caractère confidentiel des informations commerciales et industrielles communiquées aux organismes visés au paragraphe 1 er ;
+- au caractère confidentiel des informations commerciales et industrielles communiquées aux organismes visés au paragraphe 1er ;
 
-- à la capacité des organismes visés au paragraphe 1 er de mener leur politique économique, financière, fiscale et commerciale si la publication des documents est de nature à entraver les processus de décision y relatifs ;
+- à la capacité des organismes visés au paragraphe 1er de mener leur politique économique, financière, fiscale et commerciale si la publication des documents est de nature à entraver les processus de décision y relatifs ;
 
 - à la confidentialité des délibérations du Gouvernement.
 
@@ -6646,7 +6735,7 @@ Le document demandé est mis à la disposition du demandeur dans les meilleurs d
 
 - par la délivrance de copies en un seul exemplaire ; Sans préjudice des pouvoirs conférés par la loi communale modifiée du 13 décembre 1988 aux autorités communales, un règlement grand-ducal peut fixer une redevance à payer par le demandeur en cas de délivrance de copies d’un document. Cette redevance ne peut excéder le coût réel de reproduction.
 
-- par la transmission par voie électronique lorsque le document est disponible sous forme électronique et si le demandeur a communiqué une adresse électronique aux organismes visés à l’article 1 er , paragraphe 1 er ;
+- par la transmission par voie électronique lorsque le document est disponible sous forme électronique et si le demandeur a communiqué une adresse électronique aux organismes visés à l’article 1er, paragraphe 1er ;
 
 - par la consultation sur place lorsque la reproduction nuit à la conservation du document ou n’est pas possible en raison de la nature du document demandé.
 

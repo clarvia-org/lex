@@ -278,7 +278,7 @@ La promotion aux fonctions supérieures à celle de rédacteur principal est sub
 
 Lorsqu’un emploi d’une fonction de promotion n’est pas occupé, le nombre des emplois d’une fonction inférieure au grade de la même carrière pourra être temporairement augmenté en conséquence.
 
-- Dans la carrière inférieure de l’administration, grade de computation de la bonification d’ancienneté: grade 4: carrière de l’expéditionnaire administratif :
+- Dans la carrière inférieure de l’administration, grade de computation de la bonification d’ancienneté: grade 4: carrière de l’expéditionnaire administratif:
 
   - un premier commis technique principal ou commis technique principal;
 
@@ -455,9 +455,9 @@ La loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionn
 
 L'article 22 est modifié comme suit:
 
-- à la section VI sub 21° la mention le conseiller de direction à l'Institut Luxembourgeois de Régulation est remplacée par le conseiller de direction première classe à l'Institut Luxembourgeois de Régulation ;
+- à la section VI sub 21° la mention le conseiller de direction à l'Institut Luxembourgeois de Régulation est remplacée par le conseiller de direction première classe à l'Institut Luxembourgeois de Régulation;
 
-- à la section VI sub 22° et à la section VII a) alinéa 11 la mention conseiller de direction à l'Institut Luxembourgeois de Régulation est remplacée par premier conseiller de direction à l'Institut Luxembourgeois de Régulation .
+- à la section VI sub 22° et à la section VII a) alinéa 11 la mention conseiller de direction à l'Institut Luxembourgeois de Régulation est remplacée par premier conseiller de direction à l'Institut Luxembourgeois de Régulation.
 
 (2)
 

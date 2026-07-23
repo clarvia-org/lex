@@ -180,7 +180,7 @@ Lorsque l'œuvre, autre qu’une base de données, a été licitement rendue acc
 
 - les enregistrements éphémères effectués par un organisme de radiodiffusion par ses propres moyens et pour ses émissions. Les enregistrements visés à l'alinéa précédent peuvent être conservés dans des archives officielles s'ils possèdent un caractère exceptionnel de documentation. Les modalités de cette conservation seront fixées par un règlement grand-ducal.
 
-- la reproduction d'une œuvre licitement accessible au public, réalisée par une bibliothèque accessible au public, un établissement d’enseignement, un musée , une archive ou une institution dépositaire du patrimoine cinématographique ou sonore qui ne recherchent aucun avantage commercial ou économique direct ou indirect dans le seul but de préserver le patrimoine et d'effectuer tous travaux raisonnablement utiles à la sauvegarde de cette œuvre, à condition de ne pas porter atteinte à l'exploitation normale desdites œuvres et de ne pas causer de préjudice aux intérêts légitimes des auteurs, ainsi que la communication publique des œuvres audiovisuelles par ces institutions dans le but de faire connaître le patrimoine culturel, à condition que cette communication soit analogique et se fasse dans l'enceinte de l'institution.
+- la reproduction d'une œuvre licitement accessible au public, réalisée par une bibliothèque accessible au public, un établissement d’enseignement, un musée, une archive ou une institution dépositaire du patrimoine cinématographique ou sonore qui ne recherchent aucun avantage commercial ou économique direct ou indirect dans le seul but de préserver le patrimoine et d'effectuer tous travaux raisonnablement utiles à la sauvegarde de cette œuvre, à condition de ne pas porter atteinte à l'exploitation normale desdites œuvres et de ne pas causer de préjudice aux intérêts légitimes des auteurs, ainsi que la communication publique des œuvres audiovisuelles par ces institutions dans le but de faire connaître le patrimoine culturel, à condition que cette communication soit analogique et se fasse dans l'enceinte de l'institution.
 
 - la reproduction et la communication au public d’œuvres au bénéfice de personnes affectées d'un handicap, qui sont directement liées au handicap en question et sont de nature non commerciale, dans la mesure requise par ledit handicap.
 
@@ -305,7 +305,7 @@ Toute entité qui fournit au commissaire aux droits d’auteur et droits voisins
 
 Sauf dans le cas prévu au paragraphe 2, un auteur ne peut interdire la mise à disposition par une bibliothèque accessible au public, un musée, des archives ou une institution dépositaire d’un patrimoine cinématographique ou sonore, à des fins non commerciales, des œuvres indisponibles dans le commerce au sens de l’article 38bis, paragraphe 3, de la loi du 25 avril 2018 relative à la gestion collective des droits d’auteur et des droits voisins et l’octroi de licences multiterritoriales de droits sur des œuvres musicales en vue de leur utilisation en ligne dans le marché intérieur, qui se trouvent à titre permanent dans leurs collections, à condition :
 
-- qu’il n’existe pas d’organisme de gestion collective suffisamment représentatif au sens de l’article 38 bis paragraphe 1 er , lettre a), de la loi précitée du 25 avril 2018 ;
+- qu’il n’existe pas d’organisme de gestion collective suffisamment représentatif au sens de l’article 38bis paragraphe 1er, lettre a), de la loi précitée du 25 avril 2018 ;
 
 - que le nom de l’auteur ou de tout autre titulaire de droits identifiable soit indiqué, à moins que cela ne s’avère impossible ;
 
@@ -698,7 +698,7 @@ Aux fins de la présente loi, on entend par:
 
 - «radiodiffusion»: la transmission sans fil de sons ou d'images et de sons, ou des représentations de ceux-ci, aux fins de réception par le public; ce terme désigne aussi une transmission de cette nature effectuée par satellite; la transmission de signaux cryptés est assimilée à la „radiodiffusion«lorsque les moyens de décryptage sont fournis au public par l'organisme de radiodiffusion ou avec son consentement;
 
-- «producteur de première fixation de films»: la personne physique ou morale qui prend l'initiative et assume la responsabilité de la première fixation d'une œuvre audiovisuelle au sens de l'article 20 ou une autre succession de séquences animées d'images, accompagnées ou non de sons ;
+- «producteur de première fixation de films»: la personne physique ou morale qui prend l'initiative et assume la responsabilité de la première fixation d'une œuvre audiovisuelle au sens de l'article 20 ou une autre succession de séquences animées d'images, accompagnées ou non de sons;
 
 - « publication de presse » : une collection composée principalement d’œuvres littéraires de nature journalistique, mais qui peut également comprendre d’autres œuvres ou objets protégés, et qui : Les périodiques qui sont publiés à des fins scientifiques ou universitaires, tels que les revues scientifiques, ne sont pas des publications de presse aux fins de la présente section ;
 
@@ -1403,7 +1403,7 @@ Tout intéressé, y compris un organisme autorisé en vertu de la présente loi 
 
 Nonobstant la protection juridique des mesures techniques, les titulaires de droits doivent prendre les mesures nécessaires, notamment par la voie contractuelle, afin de garantir aux bénéficiaires, qui ont un accès licite à l’œuvre ou la prestation protégée, un exercice sans entrave, et selon les conditions y prévues, des exceptions suivantes:
 
-- illustration de l’enseignement dont question aux articles 10, 2° , 10, 2 bis °, et 46, 9°,
+- illustration de l’enseignement dont question aux articles 10, 2°, 10, 2bis°, et 46, 9°,
 
 - reproductions privées dont question aux articles 10, 4° et 46, 4°,
 
@@ -1415,13 +1415,13 @@ Nonobstant la protection juridique des mesures techniques, les titulaires de dro
 
 - sécurité publique et bon déroulement des procédures dont question à l’article 10, 12°,
 
-- utilisations de bases de données dont question aux articles 10bis et 68 ,
+- utilisations de bases de données dont question aux articles 10bis et 68,
 
 - reproductions et extractions aux fins de la fouille de textes et de données dont question aux articles 10, 15° et 10, 16°,
 
 - utilisations des programmes d’ordinateur dont question à l’article 35, alinéa 2,
 
-- utilisation d’objets protégés par des droits voisins dont question aux articles 46, 55 et 56 bis , paragraphe 3.
+- utilisation d’objets protégés par des droits voisins dont question aux articles 46, 55 et 56bis, paragraphe 3.
 
 Dans la mesure où les titulaires des droits restent en défaut de prendre les mesures prévues au premier alinéa, les bénéficiaires des prédites exceptions, un groupement professionnel ou une association représentant leurs intérêts sont en droit d’intenter une action en cessation conformément à l’article 81 de la présente loi afin de faire cesser l’application des mesures techniques qui entravent l’exercice desdites exceptions.
 

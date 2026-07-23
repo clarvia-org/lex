@@ -1561,7 +1561,7 @@ Composition du Conseil
 
 Le Conseil consultatif de l’accessibilité, ci-après « Conseil », se compose des membres suivants :
 
-- un représentant du ministre ayant la Politique pour personnes handicapées dans ses attributions, ci - après « ministre » ;
+- un représentant du ministre ayant la Politique pour personnes handicapées dans ses attributions, ci-après « ministre » ;
 
 - un représentant du ministre ayant les Travaux publics dans ses attributions ;
 
@@ -2880,7 +2880,7 @@ Les gués sont signalés avec une bande de direction. Pour différencier les pas
 
 En présence d’une traversée pour cyclistes juxtaposée à une traversée pour piétons, la traversée pour cyclistes répond aux caractéristiques suivantes :
 
-- elle se situe du côté abaissé de la bordure lorsque les passages et gués pour piétons disposent d’une bordure de hauteur différenciée conformément au paragraphe 1 er , point 1° ;
+- elle se situe du côté abaissé de la bordure lorsque les passages et gués pour piétons disposent d’une bordure de hauteur différenciée conformément au paragraphe 1er, point 1° ;
 
 - en présence d’une bordure de hauteur inférieure ou égale à 3 cm, une bande de barrage est installée sur toute sa largeur. Cette bande a une profondeur de 60 cm et est composée de stries parallèles à la bordure.
 

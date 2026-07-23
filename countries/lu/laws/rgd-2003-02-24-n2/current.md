@@ -157,7 +157,7 @@ Ne sont pas admis dans une décharge :
 
 - tout autre type de déchets ne répondant pas aux critères d’admission définis à l’annexe II ;
 
-- les déchets qui ont été collectés séparément pour la préparation en vue de la réutilisation et le recyclage conformément aux articles 14, paragraphe 1 er , et 25 de la loi modifiée du 21 mars 2012 relative aux déchets, à l’exception des déchets issus d’opérations de traitement ultérieures de déchets collectés séparément pour lesquels la mise en décharge produitle meilleur résultat sur le plan de l’environnement conformément à l’article 9 de la loi précitée du 21 mars 2012 .
+- les déchets qui ont été collectés séparément pour la préparation en vue de la réutilisation et le recyclage conformément aux articles 14, paragraphe 1er, et 25 de la loi modifiée du 21 mars 2012 relative aux déchets, à l’exception des déchets issus d’opérations de traitement ultérieures de déchets collectés séparément pour lesquels la mise en décharge produitle meilleur résultat sur le plan de l’environnement conformément à l’article 9 de la loi précitée du 21 mars 2012.
 
 (5)
 
@@ -193,7 +193,7 @@ Dans le cas où les déchets municipaux sont expédiés dans un autre État memb
 
 Déchets admis dans les différentes catégories de décharges
 
-- Seuls les déchets déjà traités sont mis en décharge. Cette disposition ne peut s’appliquer aux déchets inertes pour lesquels un traitement n’est pas réalisable techniquement ou à tous autres déchets pour lesquels un tel traitement ne contribue pas à la réalisation des objectifs du présent règlement, fixés à l’article 1 er , par une réduction des quantités de déchets ou des risques pour la santé humaine ou l’environnement. Les mesures prises conformément au présent point ne doivent pas compromettre la réalisation des objectifs de la législation relative aux déchets, notamment ceux concernant la hiérarchie des déchets et l’augmentation de la préparation en vue de la réutilisation et du recyclage.
+- Seuls les déchets déjà traités sont mis en décharge. Cette disposition ne peut s’appliquer aux déchets inertes pour lesquels un traitement n’est pas réalisable techniquement ou à tous autres déchets pour lesquels un tel traitement ne contribue pas à la réalisation des objectifs du présent règlement, fixés à l’article 1er, par une réduction des quantités de déchets ou des risques pour la santé humaine ou l’environnement. Les mesures prises conformément au présent point ne doivent pas compromettre la réalisation des objectifs de la législation relative aux déchets, notamment ceux concernant la hiérarchie des déchets et l’augmentation de la préparation en vue de la réutilisation et du recyclage.
 
 - Seuls les déchets dangereux répondant aux critères arrêtés à l'annexe II du présent règlement sont dirigés vers une décharge pour déchets dangereux.
 
@@ -294,7 +294,7 @@ Procédure d'admission des déchets
 
 - L'exploitant de la décharge doit procéder:
 
-  - à la vérification des documents relatifs aux déchets, notamment des documents requis, selon les cas, par le règlement (CEE) modifié N° 259/93 du Conseil du 1 er février 1993 concernant la surveillance et le contrôle des transferts de déchets à l'intérieur, à l'entrée et à la sortie de la Communauté européenne, tel qu'exécuté par le règlement grand-ducal modifié du 16 décembre 1996 , ou par le règlement grand-ducal modifié du 16 décembre 1996 concernant le transfert national de déchets;
+  - à la vérification des documents relatifs aux déchets, notamment des documents requis, selon les cas, par le règlement (CEE) modifié N° 259/93 du Conseil du 1er février 1993 concernant la surveillance et le contrôle des transferts de déchets à l'intérieur, à l'entrée et à la sortie de la Communauté européenne, tel qu'exécuté par le règlement grand-ducal modifié du 16 décembre 1996, ou par le règlement grand-ducal modifié du 16 décembre 1996 concernant le transfert national de déchets;
 
   - à l'inspection visuelle des déchets à l'entrée et au point de dépôt et, le cas échéant, la vérification de leur conformité à la description fournie dans les documents transmis par le détenteur. Si des échantillons représentatifs doivent être prélevés au titre de l'annexe II, point 3, niveau 3, le prélèvement est effectué conformément à l'annexe II, point 5. Ces échantillons sont conservés pendant un an au moins. Les résultats des analyses sont conservés.
 

@@ -184,7 +184,7 @@ L’autorité compétente peut infliger une amende administrative d’ordre de 1
 
 - ne se conforme pas aux mesures correctives prévues à l’article 7 de la présente loi ;
 
-- ne publie pas sur internet son rapport sur les politiques et pratiques en matière de devoir de diligence à l’égard de la chaîne d’approvisionnement, conformément à l’article 7, paragraphe 3, du règlement (UE) 2017/821 .
+- ne publie pas sur internet son rapport sur les politiques et pratiques en matière de devoir de diligence à l’égard de la chaîne d’approvisionnement, conformément à l’article 7, paragraphe 3, du règlement (UE) 2017/821.
 
 (2)
 

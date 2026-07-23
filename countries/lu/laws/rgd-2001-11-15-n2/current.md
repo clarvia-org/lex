@@ -63,7 +63,7 @@ Sont applicables aux employés communaux les dispositions suivantes du règlemen
 <a id="art-5"></a>
 ## Art. 5.
 
-- La rémunération revenant à un employé communal en début de carrière est calculée conformément aux dispositions de l’article 3, alinéa 1er et de l’article 7, paragraphes 2, 3, 4, 5 et 6 du règlement du 4 avril 1964 , sans préjudice du paragraphe 2.du présent article.
+- La rémunération revenant à un employé communal en début de carrière est calculée conformément aux dispositions de l’article 3, alinéa 1er et de l’article 7, paragraphes 2, 3, 4, 5 et 6 du règlement du 4 avril 1964, sans préjudice du paragraphe 2.du présent article.
 
 - Toutefois pour l’employé communal de la carrière E, le grade 7 constitue le grade de computation d’ancienneté de service.
 

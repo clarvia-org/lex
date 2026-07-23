@@ -299,7 +299,7 @@ Des titres de voyage peuvent être remis par le Ministre ayant l’Immigration d
 
 - aux apatrides et aux personnes de nationalité indéterminée résidant régulièrement au Grand-Duché de Luxembourg et bénéficiant des dispositions de la Convention sur le statut des apatrides signée à New York le 28 septembre 1954 et
 
-- aux personnes qui ont été reconnues par le Gouvernement luxembourgeois comme réfugiés politiques et ceci au sens de la Convention de Genève du 28 juillet 1951 .
+- aux personnes qui ont été reconnues par le Gouvernement luxembourgeois comme réfugiés politiques et ceci au sens de la Convention de Genève du 28 juillet 1951.
 
 <a id="art-21"></a>
 ## Art. 20.

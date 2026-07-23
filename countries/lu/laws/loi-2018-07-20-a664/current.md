@@ -34,7 +34,7 @@ Au sens de la présente loi, on entend par :
 
 - « commission d’inclusion » : la commission d’inclusion de l’enseignement fondamental et la commission d’inclusion scolaire de l’enseignement secondaire ;
 
-- 1°bis « aménagements raisonnables » : ensemble de mesures qui peuvent porter sur l’enseignement en classe, les tâches imposées à l’élève pendant les cours ou en dehors des cours, les épreuves d’évaluation en classe, les épreuves des examens de fin d’études secondaires ou de fin d’apprentissage et les projets intégrés, ayant pour objectif de faire valoir à l’élève les compétences acquises et qui consistent en les mesures mentionnées à l’article 14 ter paragraphe 1 er , points 6° et 7°, de la loi modifiée du 25 juin 2004 portant organisation des lycées et à l’article 55-3.
+- 1°bis « aménagements raisonnables » : ensemble de mesures qui peuvent porter sur l’enseignement en classe, les tâches imposées à l’élève pendant les cours ou en dehors des cours, les épreuves d’évaluation en classe, les épreuves des examens de fin d’études secondaires ou de fin d’apprentissage et les projets intégrés, ayant pour objectif de faire valoir à l’élève les compétences acquises et qui consistent en les mesures mentionnées à l’article 14ter paragraphe 1er, points 6° et 7°, de la loi modifiée du 25 juin 2004 portant organisation des lycées et à l’article 55-3.
 
 - « élève » : un enfant ou un jeune à besoins éducatifs spécifiques bénéficiant d’une intervention spécialisée ambulatoire ou fréquentant une classe d’un Centre de compétences en psycho-pédagogie spécialisée ;
 
@@ -633,7 +633,7 @@ Il est créé la CNI qui comprend :
 
 - en cas de délibération concernant un élève de l’enseignement secondaire classique ou secondaire général, le président de la commission d’inclusion de l’enseignement secondaire concernée et des enseignants et des membres des différents services du lycée intervenant auprès de l’élève, tels que définis au chapitre 8 de la loi du 25 juin 2004 portant organisation des lycées, s’il y a lieu ;
 
-- le directeur et un membre du personnel de l’unité de diagnostic , de conseil et de suivi des Centres concernés.
+- le directeur et un membre du personnel de l’unité de diagnostic, de conseil et de suivi des Centres concernés.
 
 Peuvent être invitées les personnes suivantes :
 
@@ -1067,9 +1067,27 @@ Le SNEI peut faire appel à des professionnels externes par voie de contrat à c
 
 À l’article 29 de la loi modifiée du 6 février 2009 portant organisation de l’enseignement fondamental sont apportées les modifications suivantes :
 
-- L’alinéa 4 est remplacé par l’alinéa suivant : Le plan peut consister en : l’adaptation de l’enseignement en classe assuré par le titulaire de classe en collaboration avec l’équipe pédagogique ; l’assistance en classe par un ou des membres de l’ESEB rattachée pour la période d’intervention à l’équipe pédagogique ; le séjour temporaire pour l’apprentissage de certaines matières dans une classe autre que la classe d’attache ; l’intervention spécialisée ambulatoire par un Centre de compétences en psycho-pédagogie spécialisée ; l’organisation d’ateliers d’apprentissage spécifiques ou d’ateliers d’apprentissage complétant l’offre scolaire régulière ; la scolarisation spécialisée dans une classe d’un Centre ; l’inscription dans une institution scolaire au Grand-Duché ou à l’étranger.
+- L’alinéa 4 est remplacé par l’alinéa suivant :
 
-- L’alinéa 6 est remplacé par l’alinéa suivant : Dans les cas visés aux points 4° à 7°, le dossier est transmis pour approbation à la Commission d’inclusion nationale.
+Le plan peut consister en :
+
+- l’adaptation de l’enseignement en classe assuré par le titulaire de classe en collaboration avec l’équipe pédagogique ;
+
+- l’assistance en classe par un ou des membres de l’ESEB rattachée pour la période d’intervention à l’équipe pédagogique ;
+
+- le séjour temporaire pour l’apprentissage de certaines matières dans une classe autre que la classe d’attache ;
+
+- l’intervention spécialisée ambulatoire par un Centre de compétences en psycho-pédagogie spécialisée ;
+
+- l’organisation d’ateliers d’apprentissage spécifiques ou d’ateliers d’apprentissage complétant l’offre scolaire régulière ;
+
+- la scolarisation spécialisée dans une classe d’un Centre ;
+
+- l’inscription dans une institution scolaire au Grand-Duché ou à l’étranger.
+
+- L’alinéa 6 est remplacé par l’alinéa suivant :
+
+Dans les cas visés aux points 4° à 7°, le dossier est transmis pour approbation à la Commission d’inclusion nationale.
 
 <a id="art-57"></a>
 ## Art. 57.

@@ -269,7 +269,7 @@ Plans d’eau du Helmeschhaff à Bissen et plan d’eau Roudemer à Steinfort:
 
 - toute circulation est interdite sur les plans d’eau gelés; cette interdiction s’applique également au patinage et aux piétons;
 
-- conformément aux articles 28 et 29 de la loi communale du 13 décembre 1988 , il est loisible au conseil communal d’ordonner toutes mesures de police nécessaires dans l’intérêt de la sécurité sur le plan d’eau.
+- conformément aux articles 28 et 29 de la loi communale du 13 décembre 1988, il est loisible au conseil communal d’ordonner toutes mesures de police nécessaires dans l’intérêt de la sécurité sur le plan d’eau.
 
 <a id="art-21"></a>
 ## Art. 21.
@@ -286,7 +286,7 @@ Plan d’eau d’Echternach situé dans la vallée Loeschen:
 
 - la plongée subaquatique est interdite;
 
-- conformément aux articles 28 et 29 de la loi communale du 13 décembre 1988 , il est loisible au conseil communal d’ordonner toutes mesures de police nécessaires dans l’intérêt de la sécurité sur le plan d’eau.
+- conformément aux articles 28 et 29 de la loi communale du 13 décembre 1988, il est loisible au conseil communal d’ordonner toutes mesures de police nécessaires dans l’intérêt de la sécurité sur le plan d’eau.
 
 <a id="art-22"></a>
 ## Art. 22.
@@ -308,7 +308,7 @@ Plan d’eau du Parc de Mertert:
 
 - tout stationnement et toute circulation de bâtiments à moteur sont interdits; ces interdictions ne s’appliquent pas aux bâtiments destinés au secours, au contrôle, à la surveillance et à l’entretien;
 
-- conformément aux articles 28 et 29 de la loi communale du 13 décembre 1988 , il est loisible au conseil communal d’ordonner toutes mesures de police nécessaires dans l’intérêt de la sécurité sur le plan d’eau.
+- conformément aux articles 28 et 29 de la loi communale du 13 décembre 1988, il est loisible au conseil communal d’ordonner toutes mesures de police nécessaires dans l’intérêt de la sécurité sur le plan d’eau.
 
 <a id="art-24"></a>
 ## Art. 24.
@@ -323,16 +323,16 @@ Plan d’eau «Haff Remich» situé sur le territoire de la commune de Remersche
 
 - toute circulation est interdite sur les plans d’eau gelés; cette interdiction s’applique également au patinage et aux piétons;
 
-- conformément aux articles 28 et 29 de la loi communale du 13 décembre 1988 , il est loisible au conseil communal d’ordonner toutes mesures de police nécessaires dans l’intérêt de la sécurité sur les plans d’eau.
+- conformément aux articles 28 et 29 de la loi communale du 13 décembre 1988, il est loisible au conseil communal d’ordonner toutes mesures de police nécessaires dans l’intérêt de la sécurité sur les plans d’eau.
 
 <a id="art-25"></a>
 ## Art. 25.
 
 Plan d’eau du barrage de Rosport-Ralingen:
 
-- la circulation au moyen de bâtiments à moteur est interdite du 1 er novembre au 30 avril de chaque année. Cette interdiction ne s’applique pas aux bâtiments destinés au secours, au contrôle, à la surveillance et à l’entretien;
+- la circulation au moyen de bâtiments à moteur est interdite du 1er novembre au 30 avril de chaque année. Cette interdiction ne s’applique pas aux bâtiments destinés au secours, au contrôle, à la surveillance et à l’entretien;
 
-- pendant la période du 1 er mai au 30 octobre de chaque année, la circulation de bâtiments à moteur est uniquement autorisée pour la pratique du ski nautique. Ladite pratique ne pourra se faire qu’à partir d’un point situé à cent cinquante mètres en amont du pont frontalier jusqu’à cinquante mètres en amont du barrage;
+- pendant la période du 1er mai au 30 octobre de chaque année, la circulation de bâtiments à moteur est uniquement autorisée pour la pratique du ski nautique. Ladite pratique ne pourra se faire qu’à partir d’un point situé à cent cinquante mètres en amont du pont frontalier jusqu’à cinquante mètres en amont du barrage;
 
 - pendant la période du 15 juin au 31 août de chaque année, la pratique du ski nautique est limitée aux heures suivantes: Sur le tronçon décrit ci-dessus et pendant la période et les heures prémentionnées, la natation, la baignade et tout autre sport nautique sont interdits;
 
@@ -353,9 +353,9 @@ Plan d’eau du barrage de Rosport-Ralingen:
 
 «( Règlement grand-ducal du 22 octobre 2008 ) Plan d’eau du barrage de compensation IV en aval du barrage principal près d’Esch-sur-Sûre:
 
-- la circulation au moyen de bâtiments à moteur est interdite du 1 er novembre au 30 avril de chaque année;
+- la circulation au moyen de bâtiments à moteur est interdite du 1er novembre au 30 avril de chaque année;
 
-- pendant la période du 1 er mai au 31 octobre de chaque année, la circulation de bâtiments à moteur est uniquement autorisée pour la pratique du ski nautique à partir d’un point situé à 570 m en aval du barrage secondaire III (tunnel) jusqu’à 30 m en amont du barrage de compensation;
+- pendant la période du 1er mai au 31 octobre de chaque année, la circulation de bâtiments à moteur est uniquement autorisée pour la pratique du ski nautique à partir d’un point situé à 570 m en aval du barrage secondaire III (tunnel) jusqu’à 30 m en amont du barrage de compensation;
 
 - pendant la période du 15 juin au 31 août de chaque année, la pratique du ski nautique n’est autorisée qu’entre neuf et dix-huit heures. Sur le tronçon décrit ci-dessus et pendant la période et les heures prémentionnées, la natation, la baignade et tout autre sport nautique sont interdits;
 
@@ -365,7 +365,7 @@ Plan d’eau du barrage de Rosport-Ralingen:
 
 - la mise à l’eau ainsi que la sortie des bâtiments ne pourra avoir lieu qu’à des embarcadères dûment approuvés par le Ministre des Travaux Publics;
 
-- conformément aux articles 28 et 29 de la loi communale modifiée du 13 décembre 1988 , il est loisible au conseil communal d’ordonner toutes mesures de police nécessaires dans l’intérêt de la sécurité sur le plan d’eau;
+- conformément aux articles 28 et 29 de la loi communale modifiée du 13 décembre 1988, il est loisible au conseil communal d’ordonner toutes mesures de police nécessaires dans l’intérêt de la sécurité sur le plan d’eau;
 
 - le public est informé de ces mesures notamment par une signalisation installée sur place;
 
@@ -382,7 +382,7 @@ Plans d’eau de Weiswampach situés au lieu-dit «in Ehlerich»:
 
 - toute circulation est interdite sur les plans d’eau gelés;
 
-- conformément aux articles 28 et 29 de la loi communale du 13 décembre 1988 , il est loisible au conseil communal d’ordonner toutes mesures de police nécessaires dans l’intérêt de la sécurité sur les plans d’eau.
+- conformément aux articles 28 et 29 de la loi communale du 13 décembre 1988, il est loisible au conseil communal d’ordonner toutes mesures de police nécessaires dans l’intérêt de la sécurité sur les plans d’eau.
 
 <a id="art-27"></a>
 ## Art. 27.
@@ -390,8 +390,6 @@ Plans d’eau de Weiswampach situés au lieu-dit «in Ehlerich»:
 Plans d’eau formés par le bassin supérieur au Mont St. Nicolas près de Vianden et par le bassin inférieur (barrage de l’Our) dans l’intérêt de l’exploitation de la Centrale de Vianden par la Société Electrique de l’Our (S.E.O.):
 
 #### A) Plan d’eau du bassin supérieur:
-
-Plan d’eau du bassin supérieur:
 
 - tout stationnement et toute circulation de bâtiments sont interdits; ces interdictions ne s’appliquent pas aux bâtiments destinés au secours, à l’inspection, à la surveillance, à l’entretien et aux activités propres de la Société;
 
@@ -401,11 +399,7 @@ Plan d’eau du bassin supérieur:
 
 #### B) Plan d’eau du bassin inférieur:
 
-Plan d’eau du bassin inférieur:
-
 ###### I) Partie allant du barrage de Lohmühle jusqu’au barrage mobile de Stolzembourg-Keppeshausen:
-
-Partie allant du barrage de Lohmühle jusqu’au barrage mobile de Stolzembourg-Keppeshausen:
 
 - tout stationnement et toute circulation de bâtiments sont interdits; ces interdictions ne s’appliquent pas aux bâtiments destinés aux secours, à l’inspection, à la surveillance, à l’entretien et aux activités propres de la Société;
 
@@ -414,8 +408,6 @@ Partie allant du barrage de Lohmühle jusqu’au barrage mobile de Stolzembourg-
 - tout stationnement et toute circulation sont interdits sur le plan d’eau gelé; ces interdictions ne s’appliquent pas aux opérations dans l’intérêt des mesures visées au point a) ci-dessus.
 
 ###### Il) Partie du plan d’eau en amont du barrage mobile de Stolzembourg-Keppeshausendéfini par la cote +227,50 mètres:
-
-Partie du plan d’eau en amont du barrage mobile de Stolzembourg-Keppeshausen défini par la cote +227,50 mètres:
 
 - la circulation au moyen de bâtiments à moteur et la pratique du ski nautique sont interdites; cette interdiction ne s’applique pas aux bâtiments destinés au secours, à l’inspection, à la surveillance, à l’entretien et aux activités propres de la Société;
 

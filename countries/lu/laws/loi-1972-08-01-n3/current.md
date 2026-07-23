@@ -58,7 +58,7 @@ Cette délibération contenant l'évaluation de la dépense envisagée et indiqu
 
 - l'avis de l'ingénieur-géologue de l'Etat;
 
-- une information de commodo et incommodo selon les formes et prescriptions des articles 4 et 5 de l' arrêté royal grand-ducal du 17 juin 1872 concernant le régime de certains établissements réputés dangereux, insalubres ou incommodes.
+- une information de commodo et incommodo selon les formes et prescriptions des articles 4 et 5 de l'arrêté royal grand-ducal du 17 juin 1872 concernant le régime de certains établissements réputés dangereux, insalubres ou incommodes.
 
 Un règlement grand-ducal pourra modifier ou compléter les dispositions de l'alinéa qui précède.
 

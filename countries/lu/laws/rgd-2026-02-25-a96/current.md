@@ -35,7 +35,7 @@ L’article 7 du règlement grand-ducal modifié du 21 décembre 1998 arrêtant 
 
 - À l’alinéa 11, première phrase, les mots , allergologie sont insérés entre le mot gériatrie et les mots ainsi que ;
 
-- À l’alinéa 17, première phrase, les mots et en dermatologie, sont remplacés par les mots , dermatologie, allergologie .
+- À l’alinéa 17, première phrase, les mots et en dermatologie, sont remplacés par les mots , dermatologie, allergologie.
 
 <a id="art-2"></a>
 ## Art. 2.
@@ -51,9 +51,25 @@ L’article 10, alinéa 1er, point 7), du même règlement est modifié comme su
 
 Au tableau des actes et services, à la première partie « Actes généraux », du même règlement, le chapitre 1er « Consultations » est modifié comme suit :
 
-- À la section 1 re « Consultations normales », le libellé de l’acte de la position suivante est modifié comme suit : « Position Libellé Code Coeff. 2) Consultation du médecin spécialiste en médecine interne oncologie hématologie immunologie maladies contagieuses néphrologie allergologie C2 10,97 » ;
+- À la section 1re « Consultations normales », le libellé de l’acte de la position suivante est modifié comme suit :
 
-- À la section 2 « Consultations majorées », le libellé de l’acte de la position suivante est modifié comme suit : « Position Libellé Code Coeff. 1) Consultation majorée du médecin spécialiste en médecine interne oncologie endocrinologie hématologie immunologie maladies contagieuses néphrologie allergologie C30 16,59 ».
+«
+
+| Position | Libellé | Code | Coeff. |
+| --- | --- | --- | --- |
+| 2) | Consultation du médecin spécialiste en médecine interne oncologie hématologie immunologie maladies contagieuses néphrologie allergologie | C2 | 10,97 |
+
+» ;
+
+- À la section 2 « Consultations majorées », le libellé de l’acte de la position suivante est modifié comme suit :
+
+«
+
+| Position | Libellé | Code | Coeff. |
+| --- | --- | --- | --- |
+| 1) | Consultation majorée du médecin spécialiste en médecine interne oncologie endocrinologie hématologie immunologie maladies contagieuses néphrologie allergologie | C30 | 16,59 |
+
+».
 
 <a id="art-4"></a>
 ## Art. 4.

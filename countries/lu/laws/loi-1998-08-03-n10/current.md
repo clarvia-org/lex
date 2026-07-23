@@ -36,9 +36,9 @@ Il est créé un régime de pension spécial applicable:
 
 - aux personnes visées à l'article 2, entrées en service ou en fonction après le 31 décembre 1998;
 
-- en ce qui concerne les dispositions du chapitre III – «Voies et moyens», aux personnes énumérées à l’article 2 entrées en service ou en fonction avant le 1 er janvier 1999 ainsi qu’aux titulaires d’une pension au titre de la loi modifiée du 26 mai 1954 réglant les pensions des fonctionnaires de l’Etat ou de celle du 25 mars 2015 instituant un régime de pension spécial transitoire sous Titre I et II sous Chapitre 1;
+- en ce qui concerne les dispositions du chapitre III – «Voies et moyens», aux personnes énumérées à l’article 2 entrées en service ou en fonction avant le 1er janvier 1999 ainsi qu’aux titulaires d’une pension au titre de la loi modifiée du 26 mai 1954 réglant les pensions des fonctionnaires de l’Etat ou de celle du 25 mars 2015 instituant un régime de pension spécial transitoire sous Titre I et II sous Chapitre 1;
 
-- en ce qui concerne les dispositions du chapitre II – «Objet de l’assurance», aux personnes entrées en service ou en fonction avant le 1 er janvier 1999 et relevant de l’article 16.5. de la loi précitée du 26 mai 1954 ou de l’article 13 de la loi du 25 mars 2015 instituant un régime de pension spécial transitoire.
+- en ce qui concerne les dispositions du chapitre II – «Objet de l’assurance», aux personnes entrées en service ou en fonction avant le 1er janvier 1999 et relevant de l’article 16.5. de la loi précitée du 26 mai 1954 ou de l’article 13 de la loi du 25 mars 2015 instituant un régime de pension spécial transitoire.
 
 <a id="art-2"></a>
 ## Art. 2.
@@ -79,11 +79,11 @@ Sont prises en compte en outre comme périodes, mais uniquement aux fins de parf
 
 - les périodes pendant lesquelles l'un des parents a élevé au Luxembourg un ou plusieurs enfants âgés de moins de six ans accomplis; ces périodes ne peuvent être inférieures à huit ans pour la naissance de deux enfants, ni être inférieures à dix ans pour la naissance de trois enfants; l'âge prévisé est porté à dix-huit ans si l'enfant est atteint d'une infirmité physique ou mentale, sauf si l'éducation et l'entretien de l'enfant ont été confiés à une institution spécialisée. «Le Centre de gestion du personnel et de l’organisation de l’État» peut dispenser de la condition que l’enfant soit élevé au Luxembourg;
 
-- les périodes d'activité professionnelle soumises à assurance au titre de la législation du pays d'origine dans le chef des personnes ayant bénéficié avant l'acquisition de la nationalité luxembourgeoise du statut de réfugié politique au sens de l'article 1 er de la convention signée à Genève le 28 juillet 1951 et pour autant qu'elles soient exclues du bénéfice de prestations par tout régime international ou étranger;
+- les périodes d'activité professionnelle soumises à assurance au titre de la législation du pays d'origine dans le chef des personnes ayant bénéficié avant l'acquisition de la nationalité luxembourgeoise du statut de réfugié politique au sens de l'article 1er de la convention signée à Genève le 28 juillet 1951 et pour autant qu'elles soient exclues du bénéfice de prestations par tout régime international ou étranger;
 
-- les périodes à partir du 1 er janvier 1990 pendant lesquelles une personne a assuré des soins au bénéficiaire d’une allocation de soins prévue par la loi du 22 mai 1989 portant création d´une allocation de soins et organisant le placement dans une maison de soins, d’une allocation spéciale pour personnes gravement handicapées au titre de la loi modifiée du 16 avril 1979 portant création d´une allocation spéciale pour personnes gravement handicapées, d’une majoration de rente d’accident pour impotence attribuée avant l’introduction de l’assurance dépendance ou d’une majoration de complément du revenu minimum garanti attribuée avant la mise en vigueur de la loi modifiée du 29 avril 1999 portant création d’un droit à un revenu minimum garanti;
+- les périodes à partir du 1er janvier 1990 pendant lesquelles une personne a assuré des soins au bénéficiaire d’une allocation de soins prévue par la loi du 22 mai 1989 portant création d´une allocation de soins et organisant le placement dans une maison de soins, d’une allocation spéciale pour personnes gravement handicapées au titre de la loi modifiée du 16 avril 1979 portant création d´une allocation spéciale pour personnes gravement handicapées, d’une majoration de rente d’accident pour impotence attribuée avant l’introduction de l’assurance dépendance ou d’une majoration de complément du revenu minimum garanti attribuée avant la mise en vigueur de la loi modifiée du 29 avril 1999 portant création d’un droit à un revenu minimum garanti;
 
-- les périodes précédant celles au titre de l'article 171, alinéa 1, sous 17 du Code des Assurances sociales , pendant lesquelles le travailleur handicapé au sens de l'article 1 er de la loi du 12 septembre 2003 relative aux personnes handicapées n'a pas pu être occupé, pour des raisons indépendantes de sa volonté, dans un atelier protégé ainsi que les périodes se situant avant l'entrée en vigueur de cette loi au cours desquelles l'intéressé était, après l'âge de 18 ans par suite d'infirmités physiques ou intellectuelles, hors d'état de gagner sa vie.
+- les périodes précédant celles au titre de l'article 171, alinéa 1, sous 17 du Code des Assurances sociales, pendant lesquelles le travailleur handicapé au sens de l'article 1er de la loi du 12 septembre 2003 relative aux personnes handicapées n'a pas pu être occupé, pour des raisons indépendantes de sa volonté, dans un atelier protégé ainsi que les périodes se situant avant l'entrée en vigueur de cette loi au cours desquelles l'intéressé était, après l'âge de 18 ans par suite d'infirmités physiques ou intellectuelles, hors d'état de gagner sa vie.
 
 Les conditions et modalités relatives à la mise en compte des périodes prévues au présent article peuvent être précisées par règlement grand-ducal.
 
@@ -751,7 +751,7 @@ Sont à considérer pour le calcul de la retenue pour pension les éléments de 
 
 - l'allocation de famille;
 
-- l'allocation de fin d'année, sous réserve en ce qui concerne le cercle de bénéficiaires visés à l’article 1 er , d’être entrés en service après le 31 décembre 1998;
+- l'allocation de fin d'année, sous réserve en ce qui concerne le cercle de bénéficiaires visés à l’article 1er, d’être entrés en service après le 31 décembre 1998;
 
 - la prime de brevet de maîtrise en ce qui concerne les agents exerçant la fonction d’artisan ou d’artisan dirigeant;
 
@@ -763,7 +763,7 @@ Sont à considérer pour le calcul de la retenue pour pension les éléments de 
 
 - la prime prévue à l’article 9 de la loi modifiée du 21 décembre 2007 portant création de l’Administration de la navigation aérienne;
 
-- l’indemnité compensatoire prévue à l’article 34 de la prédite loi sur les traitements ;
+- l’indemnité compensatoire prévue à l’article 34 de la prédite loi sur les traitements;
 
 - la prime prévue à l'article 6, III de la loi modifiée du 26 juillet 1975 portant création de l'Aéroport;
 
@@ -872,9 +872,9 @@ La mise à la retraite est prononcée sans autre forme de procédure par l'autor
 
 - si le fonctionnaire est atteint par la limite d’âge fixée au lendemain du jour où il atteint l’âge de soixante-cinq ans, sauf pour les personnes visées à l’article 2.3., les envoyés extraordinaires et les ministres plénipotentiaires du corps diplomatique dont les fonctions ont été prorogées, les magistrats dont la limite d’âge est fixée par la loi du 7 mars 1980 sur l’organisation judiciaire ainsi que pour les ministres des cultes. Dans l’intérêt du service, la limite d’âge peut être reportée de trois années moyennant un maintien en service. A cet effet, le fonctionnaire présente sa demande écrite et dûment motivée à son chef d’administration ou, si la demande émane du chef d’administration, au membre du Gouvernement compétent, en précisant le degré d’occupation sollicité. Le chef d’administration transmet la demande au membre du Gouvernement compétent en indiquant si le maintien est compatible avec l’intérêt du service. Sur proposition du membre du Gouvernement compétent, le Gouvernement en conseil décide du maintien en service en fixant la durée du maintien, sans que celle-ci puisse dépasser une année, et le degré d’occupation. Le maintien en service peut être renouvelé d’année en année selon les modalités prévues au présent paragraphe.
 
-- si le fonctionnaire, âgé de soixante ans et comptant quarante années au sens des articles 3 à 6, en fait la demande dans les conditions et délais prévus à l’article 39 de la loi précitée du 16 avril 1979 ;
+- si le fonctionnaire, âgé de soixante ans et comptant quarante années au sens des articles 3 à 6, en fait la demande dans les conditions et délais prévus à l’article 39 de la loi précitée du 16 avril 1979;
 
-- si le fonctionnaire, âgé de cinquante-sept ans et comptant quarante années au sens de l’article 3, en fait la demande dans les conditions et délais prévus à l’article 39 de la loi précitée du 16 avril 1979 .
+- si le fonctionnaire, âgé de cinquante-sept ans et comptant quarante années au sens de l’article 3, en fait la demande dans les conditions et délais prévus à l’article 39 de la loi précitée du 16 avril 1979.
 
 La prorogation des fonctions des envoyés extraordinaires et des ministres plénipotentiaires du corps diplomatique se fait d’année en année par arrêté grand-ducal pris sur proposition du ministre des affaires étrangères.
 
@@ -1069,13 +1069,17 @@ Le Centre de gestion du personnel et de l’organisation de l’État détermine
 
 Le Code des Assurances sociales est modifié comme suit:
 
-- L’article 38 est complété par un alinéa 4 ayant la teneur suivante: Pour les personnes bénéficiant d’un régime de pension spécial pour les fonctionnaires ou pour les personnes leur assimilées, l’assiette de cotisation est constituée par les éléments de rémunération fixés à l’article 60 de la législation instituant un régime de pension spécial pour les fonctionnaires de l’Etat.
+- L’article 38 est complété par un alinéa 4 ayant la teneur suivante:
+
+Pour les personnes bénéficiant d’un régime de pension spécial pour les fonctionnaires ou pour les personnes leur assimilées, l’assiette de cotisation est constituée par les éléments de rémunération fixés à l’article 60 de la législation instituant un régime de pension spécial pour les fonctionnaires de l’Etat.
 
 - L’article 321, alinéa 1 est modifié et complété comme suit:
 
   - sous le point 1) les termes et du contrôle médical de la sécurité sociale sont remplacés par les termes , «du contrôle médical de la sécurité sociale et du Centre de gestion du personnel et de l’organisation de l’État»;
 
-  - Il est ajouté un numéro 6) ayant la teneur suivante: la collaboration avec le Centre de gestion du personnel et de l’organisation de l’État et les autres administrations compétentes pour l’application des régimes spéciaux de pensions.
+  - Il est ajouté un numéro 6) ayant la teneur suivante:
+
+- la collaboration avec le Centre de gestion du personnel et de l’organisation de l’État et les autres administrations compétentes pour l’application des régimes spéciaux de pensions.
 
 (...)
 

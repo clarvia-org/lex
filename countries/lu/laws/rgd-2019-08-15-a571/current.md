@@ -383,9 +383,9 @@ Le directeur ou le responsable du centre de formation public décide pour chaque
 
 L’évaluation du rattrapage d’un module « non réussi » se fait selon les dispositions suivantes :
 
-- le rattrapage « complet » est évalué suivant les dispositions de l’article 1 er . Le résultat obtenu lors de ce type de rattrapage remplace celui obtenu lors de l’inscription initiale ;
+- le rattrapage « complet » est évalué suivant les dispositions de l’article 1er. Le résultat obtenu lors de ce type de rattrapage remplace celui obtenu lors de l’inscription initiale ;
 
-- le rattrapage « partiel » porte sur les compétences déclarées non acquises lors de l’évaluation initiale. Par analogie au paragraphe 9 de l’article 1 er , la note attribuée en cas de réussite du rattrapage partiel correspond à 30 points.
+- le rattrapage « partiel » porte sur les compétences déclarées non acquises lors de l’évaluation initiale. Par analogie au paragraphe 9 de l’article 1er, la note attribuée en cas de réussite du rattrapage partiel correspond à 30 points.
 
 <a id="art-10"></a>
 ## Art. 10.

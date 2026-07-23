@@ -57,7 +57,7 @@ A cette demande doivent être jointes les renseignements et les documents suivan
 
 - Description des méthodes de contrôle utilisées par le fabricant.
 
-- Une confirmation écrite attestant que le fabricant du médicament a vérifié que le fabricant de la substance active a respecté les principes et lignes directrices de bonnes pratiques de fabrication en effectuant des audits, conformément à l’article 11, paragraphe 1 er , alinéa 2 du règlement grand-ducal modifié du 19 novembre 2004 concernant la fabrication de médicaments, les bonnes pratiques de fabrication de médicaments et les bonnes pratiques de fabrication de médicaments expérimentaux à usage humain. Cette confirmation écrite mentionne la date de l’audit et inclut une déclaration attestant que les résultats obtenus permettent d’affirmer que la fabrication est conforme aux principes et lignes directrices de bonnes pratiques de fabrication.
+- Une confirmation écrite attestant que le fabricant du médicament a vérifié que le fabricant de la substance active a respecté les principes et lignes directrices de bonnes pratiques de fabrication en effectuant des audits, conformément à l’article 11, paragraphe 1er, alinéa 2 du règlement grand-ducal modifié du 19 novembre 2004 concernant la fabrication de médicaments, les bonnes pratiques de fabrication de médicaments et les bonnes pratiques de fabrication de médicaments expérimentaux à usage humain. Cette confirmation écrite mentionne la date de l’audit et inclut une déclaration attestant que les résultats obtenus permettent d’affirmer que la fabrication est conforme aux principes et lignes directrices de bonnes pratiques de fabrication.
 
 - Résultat des essais: Les documents et renseignements relatifs aux études des essais pharmaceutiques, précliniques et cliniques doivent être accompagnés de résumés détaillés. Le demandeur veille à ce que les résumés détaillés soient établis et signés par des personnes possédant les qualifications techniques ou professionnelles nécessaires, mentionnées dans un bref curriculum vitae.
 
@@ -81,7 +81,7 @@ A cette demande doivent être jointes les renseignements et les documents suivan
 
 - Le plan de gestion des risques décrivant le système de gestion des risques que le demandeur mettra en place pour le médicament concerné, accompagné de son résumé;
 
-- Une déclaration attestant que les essais cliniques effectués en dehors de l’Union européenne répondent aux exigences de la directive 2001/20/CE .
+- Une déclaration attestant que les essais cliniques effectués en dehors de l’Union européenne répondent aux exigences de la directive 2001/20/CE.
 
 - Un résumé des caractéristiques du produit, conforme à l’article 2 ci-après, une maquette de l’emballage extérieur comportant les mentions prévues à l’article 10 et du conditionnement primaire du médicament comportant les mentions prévues à l’article 11 ainsi que la notice conformément à l’article 14.
 
@@ -93,11 +93,11 @@ A cette demande doivent être jointes les renseignements et les documents suivan
 
   - le résumé des caractéristiques du produit proposé par le demandeur en vertu de l’article 2 qui suit ou approuvé par l’autorité compétente de l’Etat membre en vertu de l’article 3.
 
-  - la notice proposée conformément à l’article 14 ou approuvée par l’autorité compétente de l’Etat membre conformément à l’article 61 de la directive 2001/83/CE .,
+  - la notice proposée conformément à l’article 14 ou approuvée par l’autorité compétente de l’Etat membre conformément à l’article 61 de la directive 2001/83/CE.,
 
   - les détails de toute décision de refus d’autorisation, que ce soit dans l’Union ou dans un pays tiers, et les motifs de cette décision;
 
-- Une copie de toute désignation du médicament en tant que médicament orphelin au sens du règlement communautaire (CE) no 141/2000 , accompagné d’une copie de l’avis correspondant de l’Agence européenne des médicaments instituée par le règlement communautaire 726/2004/CE , ci-après dénommée «Agence».
+- Une copie de toute désignation du médicament en tant que médicament orphelin au sens du règlement communautaire (CE) no 141/2000, accompagné d’une copie de l’avis correspondant de l’Agence européenne des médicaments instituée par le règlement communautaire 726/2004/CE, ci-après dénommée «Agence».
 
 Après la délivrance de l’autorisation de mise sur le marché, le titulaire de cette autorisation peut consentir à ce qu’il soit fait recours à la documentation pharmaceutique, préclinique et clinique figurant au dossier du médicament en vue de l’examen d’une demande subséquente relative à d’autres médicaments ayant la même composition qualitative et quantitative en substances actives et la même forme pharmaceutique.
 
@@ -418,7 +418,7 @@ Le ministre de la Santé peut assortir l’autorisation de mise sur le marché d
 
 - l’existence d’un système de pharmacovigilance adéquat;
 
-- la réalisation d’études d’efficacité postautorisation lorsque certains aspects de l’efficacité du médicament soulèvent des questions qui ne peuvent recevoir de réponse qu’après la mise sur le marché du médicament. L’obligation d’effectuer de telles études se base sur les actes délégués pris conformément à l’article 22ter de la directive 2001/83/CE , compte tenu des lignes directrices scientifiques publiées le cas échéant par la Commission.
+- la réalisation d’études d’efficacité postautorisation lorsque certains aspects de l’efficacité du médicament soulèvent des questions qui ne peuvent recevoir de réponse qu’après la mise sur le marché du médicament. L’obligation d’effectuer de telles études se base sur les actes délégués pris conformément à l’article 22ter de la directive 2001/83/CE, compte tenu des lignes directrices scientifiques publiées le cas échéant par la Commission.
 
 L’autorisation de mise sur le marché précise, le cas échéant, dans quels délais ces conditions doivent être remplies.
 
@@ -441,7 +441,7 @@ Après avoir délivré l’autorisation de mise sur le marché, le ministre de l
 
 - d’effectuer une étude de sécurité postautorisation s’il existe des craintes quant aux risques de sécurité posés par un médicament autorisé. Lorsque le même souci de sécurité concerne plusieurs médicaments, le ministre de la Santé, après consultation du comité pour l’évaluation des risques en matière de pharmacovigilance, encourage les titulaires d’autorisations de mise sur le marché concernés à effectuer une étude de sécurité postautorisation conjointe;
 
-- d’effectuer une étude d’efficacité postautorisation lorsque la compréhension de la maladie ou la méthodologie clinique indique que les évaluations d’efficacité antérieures pourraient devoir être revues de manière significative. L’obligation de réaliser cette étude d’efficacité postautorisation est basée sur les actes délégués pris conformément à l’article 22ter de la directive 2001/83/CE , compte tenu des lignes directrices scientifiques visées à l’article 108bis de la directive 2001/83/CE .
+- d’effectuer une étude d’efficacité postautorisation lorsque la compréhension de la maladie ou la méthodologie clinique indique que les évaluations d’efficacité antérieures pourraient devoir être revues de manière significative. L’obligation de réaliser cette étude d’efficacité postautorisation est basée sur les actes délégués pris conformément à l’article 22ter de la directive 2001/83/CE, compte tenu des lignes directrices scientifiques visées à l’article 108bis de la directive 2001/83/CE.
 
 L’imposition de pareille obligation est dûment justifiée, notifiée par écrit, et elle spécifie les objectifs et les délais pour la réalisation et la soumission de l’étude.
 
@@ -616,7 +616,7 @@ Les dispositifs de sécurité visés à l’article 10, paragraphe 1er, lettre o
 
 - le titulaire de l’autorisation de fabrication vérifie, avant de retirer ou de recouvrir partiellement ou totalement ces dispositifs de sécurité que le médicament concerné est authentique et qu’il n’a pas subi de manipulation illicite ;
 
-- le titulaire de l’autorisation de fabrication respecte l’article 10, paragraphe 1 er , lettre o), en remplaçant ces dispositifs de sécurité par des dispositifs de sécurité équivalents pour ce qui est de la possibilité de vérifier l’authenticité, d’identifier et d’apporter la preuve de manipulation illicite du médicament. Ce remplacement est effectué sans ouvrir le conditionnement primaire ;
+- le titulaire de l’autorisation de fabrication respecte l’article 10, paragraphe 1er, lettre o), en remplaçant ces dispositifs de sécurité par des dispositifs de sécurité équivalents pour ce qui est de la possibilité de vérifier l’authenticité, d’identifier et d’apporter la preuve de manipulation illicite du médicament. Ce remplacement est effectué sans ouvrir le conditionnement primaire ;
 
 - le remplacement des dispositifs de sécurité est effectué conformément aux bonnes pratiques de fabrication applicables aux médicaments ;
 
@@ -1146,7 +1146,7 @@ Communications.
 
   - «produit allergène», tout produit destiné à identifier ou provoquer une modification spécifique et acquise de la réponse immunologique à un agent allergisant;
 
-  - «vaccins, toxines et sérums», les vaccins, toxines et sérums tels que définis à l’annexe de la directive 75/319/CEE .
+  - «vaccins, toxines et sérums», les vaccins, toxines et sérums tels que définis à l’annexe de la directive 75/319/CEE.
 
 <a id="art-36"></a>
 ## Art. 36.
@@ -1246,7 +1246,7 @@ Une notice d’instructions détaillées doit être jointe au conditionnement de
 
 - La description quantitative d’un médicament dérivé du sang ou du plasma humains doit être exprimée en masse, en unités internationales ou en unités d’activité biologique, et ce en fonction du produit concerné.
 
-- Pour l’application du chapitre 1 er l’expression «description qualitative et quantitative des composants» désigne la description relative à l’activité biologique, et l’expression «la composition qualitative et quantitative» désigne la composition du produit exprimé en termes d’activité biologique.
+- Pour l’application du chapitre 1er l’expression «description qualitative et quantitative des composants» désigne la description relative à l’activité biologique, et l’expression «la composition qualitative et quantitative» désigne la composition du produit exprimé en termes d’activité biologique.
 
 - Dans tout document établi aux fins du présent règlement où figure la dénomination d’un médicament dérivé du sang ou du plasma humains, la dénomination commune ou scientifique des composants actifs doit être indiquée au moins une fois; elle peut être abrégée dans les autres mentions.
 
@@ -1279,9 +1279,9 @@ Est mis en place un portail web national sur les médicaments, en liaison avec l
 
 - des synthèses des plans de gestion des risques relatifs à des médicaments autorisés conformément à la présente directive;
 
-- la liste des médicaments visée à l’article 23 du règlement (CE) n° 726/2004 ;
+- la liste des médicaments visée à l’article 23 du règlement (CE) n° 726/2004;
 
-- des informations relatives aux différents modes de notification des effets indésirables suspectés des médicaments aux autorités nationales compétentes par les professionnels de la santé et les patients, dont les formulaires structurés mis en ligne visés à l’article 25 du règlement (CE) n° 726/2004 ;
+- des informations relatives aux différents modes de notification des effets indésirables suspectés des médicaments aux autorités nationales compétentes par les professionnels de la santé et les patients, dont les formulaires structurés mis en ligne visés à l’article 25 du règlement (CE) n° 726/2004;
 
 - les informations importantes relatives aux questions de pharmacovigilance liées à l’utilisation d’un médicament.
 
@@ -1407,7 +1407,7 @@ Par dérogation aux dispositions du paragraphe 7 du présent article, le titulai
 
 - cette obligation est une condition dont l’autorisation de mise sur le marché est assortie conformément à l’article 8.-2; ou
 
-- à la demande d’une autorité compétente sur la base de préoccupations relatives aux données de pharmacovigilance ou à défaut de rapports périodiques actualisés de sécurité sur une substance active après l’octroi de l’autorisation de mise sur le marché. Les rapports d’évaluation des rapports périodiques actualisés de sécurité sont communiqués au comité pour l’évaluation des risques en matière de pharmacovigilance, qui estime si un rapport d’évaluation unique pour toutes les autorisations de mise sur le marché pour les médicaments contenant la même substance active est nécessaire et informe en conséquence le groupe de coordination ou le comité des médicaments à usage humain afin d’appliquer les procédures visées à l’article 45.-3, paragraphe 9 point iv), et à l’article 107sexies de la directive 2001/83/CE .
+- à la demande d’une autorité compétente sur la base de préoccupations relatives aux données de pharmacovigilance ou à défaut de rapports périodiques actualisés de sécurité sur une substance active après l’octroi de l’autorisation de mise sur le marché. Les rapports d’évaluation des rapports périodiques actualisés de sécurité sont communiqués au comité pour l’évaluation des risques en matière de pharmacovigilance, qui estime si un rapport d’évaluation unique pour toutes les autorisations de mise sur le marché pour les médicaments contenant la même substance active est nécessaire et informe en conséquence le groupe de coordination ou le comité des médicaments à usage humain afin d’appliquer les procédures visées à l’article 45.-3, paragraphe 9 point iv), et à l’article 107sexies de la directive 2001/83/CE.
 
   - La fréquence de transmission des rapports périodiques actualisés de sécurité est précisée dans l’autorisation de mise sur le marché. Les dates de transmission conformes à ladite fréquence sont calculées à partir de la date de délivrance de l’autorisation.
 
@@ -1421,7 +1421,7 @@ Par dérogation aux dispositions du paragraphe 7 du présent article, le titulai
 
   - Lorsque des médicaments qui font l’objet d’autorisations de mise sur le marché différentes contiennent la même substance active ou la même combinaison de substances actives, la fréquence et les dates de soumission des rapports périodiques actualisés de sécurité, définies conformément aux points i) et ii), peuvent être modifiées et harmonisées en vue de permettre une évaluation unique dans le cadre d’une procédure de partage des tâches pour le rapport périodique actualisé de sécurité, et de fournir une date de référence pour l’Union à partir de laquelle les dates de soumission sont calculées. La fréquence harmonisée de soumission des rapports et la date de référence pour l’Union peuvent être fixées, après consultation du comité pour l’évaluation des risques en matière de pharmacovigilance, par l’un des organismes suivants:
 
-    - le comité des médicaments à usage humain, lorsqu’au moins une des autorisations de mise sur le marché relatives aux médicaments contenant la substance active concernée a été octroyée selon la procédure centralisée prévue au titre II, chapitre 1 er , du règlement (CE) n° 726/2004 ;
+    - le comité des médicaments à usage humain, lorsqu’au moins une des autorisations de mise sur le marché relatives aux médicaments contenant la substance active concernée a été octroyée selon la procédure centralisée prévue au titre II, chapitre 1er, du règlement (CE) n° 726/2004;
 
     - le groupe de coordination, dans tous les autres cas que celui visé au tiret qui précède. La fréquence harmonisée pour la soumission des rapports déterminée conformément aux alinéas 1 et 2 est rendue publique par l’Agence. Les titulaires d’une autorisation de mise sur le marché transmettent en conséquence une demande de modification de l’autorisation de mise sur le marché.
 
@@ -1531,7 +1531,7 @@ Dans les soixante jours à compter de la soumission du projet de protocole, le m
 
   - que la manière dont l’étude est conçue ne respecte pas les objectifs qu’elle poursuit;
 
-- une lettre indiquant au titulaire de l’autorisation de mise sur le marché que l’étude constitue un essai clinique relevant de la directive 2001/20/CE .
+- une lettre indiquant au titulaire de l’autorisation de mise sur le marché que l’étude constitue un essai clinique relevant de la directive 2001/20/CE.
 
 11.
 
@@ -1593,7 +1593,7 @@ Le ministre de la Santé peut décider de suspendre, retirer ou modifier l’aut
 
 - lorsqu’il est considéré que le médicament est nocif dans les conditions normales d’emploi ou que l’effet thérapeutique fait défaut ou que le rapport bénéfice/risque n’est pas favorable dans les conditions normales d’emploi ou enfin que le médicament n’a pas la composition qualitative et quantitative déclarée. L’effet thérapeutique fait défaut lorsqu’il est considéré que le médicament ne permet pas d’obtenir de résultats thérapeutiques;
 
-- lorsque les renseignements figurant dans le dossier en vertu de l’article 1 er et des articles 1.-1, 1.-2, 1.-3, 10quater et 2 sont erronés ou n’ont pas été modifiés conformément à l’article 12, ou lorsque les contrôles visés à l’article 6 n’ont pas été effectués.
+- lorsque les renseignements figurant dans le dossier en vertu de l’article 1er et des articles 1.-1, 1.-2, 1.-3, 10quater et 2 sont erronés ou n’ont pas été modifiés conformément à l’article 12, ou lorsque les contrôles visés à l’article 6 n’ont pas été effectués.
 
 2.
 
@@ -1706,7 +1706,7 @@ Par dérogation aux dispositions du chapitre 1er du présent règlement les méd
 
 - absence d’indication thérapeutique particulière sur l’étiquette ou dans toute information relative au médicament;
 
-- degré de dilution garantissant l’innocuité du médicament; en particulier, le médicament ne peut contenir ni plus d’une partie par 10.000 de la teinture-mère, ni plus d’1/100 ème de la plus petite dose utilisée éventuellement en allopathie pour les principes actifs dont la présence dans un médicament allopathique entraîne l’obligation de présenter une prescription médicale.
+- degré de dilution garantissant l’innocuité du médicament; en particulier, le médicament ne peut contenir ni plus d’une partie par 10.000 de la teinture-mère, ni plus d’1/100ème de la plus petite dose utilisée éventuellement en allopathie pour les principes actifs dont la présence dans un médicament allopathique entraîne l’obligation de présenter une prescription médicale.
 
 2.
 
@@ -1844,7 +1844,7 @@ A la demande sont joints:
 
 - toute autorisation ou tout enregistrement déjà délivré(e) au demandeur dans un autre État membre ou dans un pays tiers en vue de la mise sur le marché du médicament et les données relatives aux décisions de refus d’autorisation ou d’enregistrement rendues dans la Communauté ou dans un pays tiers, et les motifs de ces décisions;
 
-- les éléments bibliographiques ou rapports d’expert établissant que le médicament ou un produit équivalent est d’un usage médical au moins trentenaire avant la date de la demande, dont au moins quinze ans dans la Communauté. Le ministre peut saisir le comité communautaire des médicaments à base de plantes institué par la directive 2001/83/CE , telle que modifiée. Le comité émet un avis sur la validité des preuves attestant l’ancienneté de l’usage du produit ou du produit équivalent, sur base des pièces pertinentes lui soumises à l’appui du dossier.
+- les éléments bibliographiques ou rapports d’expert établissant que le médicament ou un produit équivalent est d’un usage médical au moins trentenaire avant la date de la demande, dont au moins quinze ans dans la Communauté. Le ministre peut saisir le comité communautaire des médicaments à base de plantes institué par la directive 2001/83/CE, telle que modifiée. Le comité émet un avis sur la validité des preuves attestant l’ancienneté de l’usage du produit ou du produit équivalent, sur base des pièces pertinentes lui soumises à l’appui du dossier.
 
 - une étude bibliographique des données de sécurité accompagnée d’un rapport d’expert ainsi que, en cas de demande complémentaire de l’autorité compétente, les données nécessaires à l’évaluation de la sécurité du médicament.
 

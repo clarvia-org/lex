@@ -35,11 +35,11 @@ Le présent règlement s’applique au pompier volontaire du Corps grand-ducal d
 
 Le pompier volontaire est éligible à un remboursement annuel unique jusqu’à hauteur de cinquante pour cent du montant versé dans le cadre :
 
-- d’un contrat individuel de prévoyance-vieillesse visé par l’article 111 bis de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu, ou de cotisations personnelles sur les rémunérations des salariés en raison de l’existence d’un contrat sous un régime complémentaire de pension, instaurées conformément à la loi du 8 juin 1999 relative aux régimes complémentaires de pension, visées par l’article 110, alinéa 3, de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu ;
+- d’un contrat individuel de prévoyance-vieillesse visé par l’article 111bis de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu, ou de cotisations personnelles sur les rémunérations des salariés en raison de l’existence d’un contrat sous un régime complémentaire de pension, instaurées conformément à la loi du 8 juin 1999 relative aux régimes complémentaires de pension, visées par l’article 110, alinéa 3, de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu ;
 
-- d’un contrat d’assurance maladie privé complémentaire, visé par l’article 111, alinéa 1 er , lettre a) , de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu ;
+- d’un contrat d’assurance maladie privé complémentaire, visé par l’article 111, alinéa 1er, lettre a), de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu ;
 
-- d’un contrat d’assurance auprès des sociétés de secours mutuels reconnues, visées par l’article 111, alinéa 1 er , lettre b), de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu.
+- d’un contrat d’assurance auprès des sociétés de secours mutuels reconnues, visées par l’article 111, alinéa 1er, lettre b), de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu.
 
 Les trois régimes d’assurance seront appelés par la suite « contrat d'assurance ».
 

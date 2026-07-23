@@ -492,7 +492,7 @@ Sont punis d'un emprisonnement de 8 jours à 6 mois et d'une amende de 2.501.- �
 
 - tout employeur dont le service n'est pas conforme aux exigences prévues à l'article 3 de la présente loi, et notamment tout employeur qui, bien qu'étant dans les conditions prévues à l'article 3, n'organise pas un service;
 
-- t out employeur, membre d'une association d'entreprises, dont le service n'est pas conforme aux exigences prévues à l'article 3 de la présente loi;
+- tout employeur, membre d'une association d'entreprises, dont le service n'est pas conforme aux exigences prévues à l'article 3 de la présente loi;
 
 - tout employeur qui refuse ou fait refuser au médecin du travail l'exécution des mesures inscrites à l'article 13;
 

@@ -182,9 +182,9 @@ Le ministre peut, sur avis de la Commission des produits phytopharmaceutiques, a
 
 - empêcher des risques avérés pour l’environnement, notamment dans le cadre du règlement (UE) n° 1143/2014 du Parlement européen et du Conseil du 22 octobre 2014 relatif à la prévention et à la gestion de l’introduction et de la propagation des espèces exotiques envahissantes ; ou
 
-- empêcher des risques avérés pour la santé des végétaux dans le cadre du règlement (UE) 2016/2031 du Parlement européen et du Conseil du 26 octobre 2016 relatif aux mesures de protection contre les organismes nuisibles aux végétaux, modifiant les règlements du Parlement européen et du Conseil (UE) n° 228/2013 , (UE) n° 652/2014 et (UE) n° 1143/2014 et abrogeant les directives du Conseil 69/464/CEE , 74/647/CEE , 93/85/CEE , 98/57/CE , 2000/29/CE , 2006/91/CE et 2007/33/CE ; ou
+- empêcher des risques avérés pour la santé des végétaux dans le cadre du règlement (UE) 2016/2031 du Parlement européen et du Conseil du 26 octobre 2016 relatif aux mesures de protection contre les organismes nuisibles aux végétaux, modifiant les règlements du Parlement européen et du Conseil (UE) n° 228/2013, (UE) n° 652/2014 et (UE) n° 1143/2014 et abrogeant les directives du Conseil 69/464/CEE, 74/647/CEE, 93/85/CEE, 98/57/CE, 2000/29/CE, 2006/91/CE et 2007/33/CE ; ou
 
-- des exploitations qui, afin de pouvoir respecter l’interdiction visée au paragraphe 1 er , doivent adapter leur infrastructure existante de manière substantielle et disproportionnée.
+- des exploitations qui, afin de pouvoir respecter l’interdiction visée au paragraphe 1er, doivent adapter leur infrastructure existante de manière substantielle et disproportionnée.
 
 #### Chapitre 2 Stockage des produits phytopharmaceutiques autorisés pour un usage professionnel
 
@@ -199,7 +199,7 @@ Les produits phytopharmaceutiques autorisés pour un usage professionnel sont à
 
 - L’aménagement du dépôt inclut un dispositif de rétention étanche, résistant à la corrosion, dont la capacité est au moins égale au volume du plus grand récipient stocké dépourvu d’un trop-plein ou d’une conduite d’écoulement et résistant mécaniquement et chimiquement. Le sol est réalisé de manière à assurer la stabilité des récipients de stockage et des conditionnements.
 
-- Le dépôt ne doit pas être aménagé dans une pièce servant à l’habitation des personnes. Des aliments, aliments pour animaux, médicaments ou carburants ne doivent pas y être placés.
+- Le dépôt ne doit pas être aménagé dans une pièce servant à l’habitation des personnes.Des aliments, aliments pour animaux, médicaments ou carburants ne doivent pas y être placés.
 
 - Un accès effectif du service d’incendie à partir de la voie publique doit être garanti.
 
@@ -207,7 +207,7 @@ Les produits phytopharmaceutiques autorisés pour un usage professionnel sont à
 
 - Le local ou l’armoire doivent être clairement identifiés par l’apposition sur la porte d’accès :
 
-  - de la mention accès interdit aux personnes non autorisées , ou d’une mention similaire ;
+  - de la mention accès interdit aux personnes non autorisées, ou d’une mention similaire ;
 
   - d’un symbole de danger approprié ;
 

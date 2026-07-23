@@ -179,9 +179,9 @@ Le Forum orientation se compose :
 
 - d’un représentant du ministre ayant la Famille dans ses attributions ;
 
-- d’un représentant du Collège des directeurs de l’ enseignement secondaire classique ;
+- d’un représentant du Collège des directeurs de l’enseignement secondaire classique ;
 
-- d’un représentant du Collège des directeurs de l’ enseignement secondaire général ;
+- d’un représentant du Collège des directeurs de l’enseignement secondaire général ;
 
 - d’un représentant du Collège des inspecteurs de l’enseignement fondamental ;
 
@@ -206,11 +206,103 @@ Le président convoque le Forum orientation en indiquant l’ordre du jour. Le F
 
 La loi modifiée du 13 juillet 2006 portant réorganisation du Centre de psychologie et d’orientation scolaires est modifiée comme suit :
 
-- L’intitulé de la loi est remplacé par l’intitulé suivant : loi du 13 juillet 2006 portant organisation du Centre psycho-social et d’accompagnement scolaires .
+- L’intitulé de la loi est remplacé par l’intitulé suivant : loi du 13 juillet 2006 portant organisation du Centre psycho-social et d’accompagnement scolaires.
 
-- L’article 1 er est remplacé comme suit : Art. 1er . Le Centre psycho-social et d’accompagnement scolaires, désigné ci-après par « le Centre », relève de l’autorité du ministre ayant l’Education nationale dans ses attributions, désigné ci-après par « le ministre ». Le Centre a pour mission d’être le centre de ressources psycho-sociales pour les lycées, de com­pléter l’offre d’accompagnement psycho-social des lycées et de faire office de médiateur scolaire. Dans le cadre de cette mission, le Centre assure les tâches suivantes : il élabore un cadre de référence pour l’offre d’accompagnement psycho-social des élèves par les lycées à valider par le ministre ; il organise des réunions de concertation avec les services chargés au sein des lycées de l’accompagnement psycho-social des élèves afin de permettre un échange des bonnes pratiques et rédige un rapport annuel d’évaluation de l’offre d’accompagnement psycho-social des élèves par les établissements scolaires ; il réunit un savoir et savoir-faire dans des matières relevant de la prise en charge des troubles psychologiques et d’apprentissage des élèves et développe des stratégies de prévention et de prise en charge de ces troubles en assurant la diffusion de celles-ci à travers des formations, des publications et des conférences ; il met à disposition des services chargés de l’accompagnement psycho-social des élèves un centre de docu­mentation et des outils spécialisés ; à la demande des services chargés de l’accompagnement psycho-social des élèves, il prend en charge des élèves qui nécessitent un accompagnement et un soutien psycho-social spécialisés ; il contribue à l’offre de formation continue organisée par l’Institut de formation de l’Education nationale ; il contribue à l’élaboration de recommandations et à la réalisation des actions d’information et d’orientation scolaires et professionnelles ; à la demande des directeurs des lycées, il les assiste lors du recrutement des personnels des carrières éducatives et psycho-sociales ; il assure une assistance en cas de crise aiguë à la demande des directeurs ; il évalue individuellement les demandes de subvention lui adressées en application de l’article 2 de la présente loi ; il complète l’offre d’accompagnement psycho-social des élèves ou étudiants pour lesquels un tel service n’est pas assuré. Il complète l’offre de conseil aux parents d’élèves au sujet de problèmes psycho-sociaux concernant leurs enfants ; il offre un conseil professionnel et psychologique aux membres du personnel des écoles fonda­mentales et des lycées qui en font la demande au directeur du Centre ; dans sa fonction de médiateur scolaire il reçoit les réclamations des élèves, des parents d’élèves ou des enseignants, formulées à l’occasion d’une affaire qui les concerne. La saisine du Centre doit avoir été précédée de démarches auprès de l’inspecteur de l’enseignement fondamental, de la commission scolaire, du régent de classe et du directeur du lycée. Lorsque les réclamations lui paraissent fondées, le Centre émet des recommandations aux concernés qui l’informent des suites qu’ils leur ont données.
+- L’article 1er est remplacé comme suit :
 
-- L’article 2 est remplacé comme suit : Art. 2. (1) Une subvention est accordée par le ministre aux ménages à faible revenu qui ont un ou plusieurs enfants inscrits dans un établissement de l’enseignement secondaire ou secondaire technique public luxembourgeois, ainsi que les établissements d’enseignement privé sous régime contractuel suivant les programmes de l’enseignement public luxembourgeois. La subvention pour ménages à faible revenu est destinée à l’acquisition de matériel scolaire et à la participation aux frais d’activités périscolaires et parascolaires. La subvention pour ménages à faible revenu est calculée en fonction de la composition du ménage, du nombre d’enfants à charge et du revenu mensuel net disponible. La composition du ménage à prendre en considération pour la détermination de l’aide est celle existant à la date de la demande de subvention. Le revenu mensuel net disponible à prendre en considération pour le calcul de la subvention est la moyenne arithmétique du revenu net disponible des trois derniers mois qui précèdent la date de la demande, le mois d’août n’étant pas considéré. Pour les indépendants, le revenu est calculé sur base du certificat le plus récent du bureau d’imposition. Le montant maximum de la subvention est limité à 1.500 euros par année scolaire et par élève. Le montant peut être versé en deux tranches. La demande de subvention est à introduire auprès du service psycho-social et d’accompagnement scolaires du lycée dans lequel est inscrit l’élève ou à défaut auprès du Centre. (2) Une subvention de maintien scolaire est accordée par le ministre aux élèves ayant atteint la majorité : inscrits à plein temps ou en formation concomitante dans un établissement de l’enseignement secondaire ou secondaire technique public luxembourgeois, ainsi que les établissements d’enseignement privé sous régime contractuel suivant les programmes de l’enseignement public luxembourgeois ; âgés de moins de 30 ans à la date de la demande ; vivant seuls ; en situation de détresse psycho-sociale ; suivis par un service psycho-social et d’accompagnement scolaires ou le Centre ; et ayant un loyer à payer. La subvention de maintien scolaire a comme objectif de permettre à l’élève de poursuivre la scolarité jusqu’à l’obtention d’un diplôme de fin d’études secondaires, d’un diplôme de fin d’études secondaires techniques, d’un diplôme de technicien, d’un diplôme d’aptitude professionnelle ou d’un certificat de capacité professionnelle. La situation de détresse psycho-sociale est constatée par le service psycho-social et d’accompagnement scolaires du lycée dans lequel est inscrit l’élève ou par le Centre. L’appréciation est individuelle et discrétionnaire basée sur une enquête sociale. La subvention de maintien scolaire est calculée en fonction des frais de vie, frais de loyer, des charges locatives et des revenus de l’élève. Les revenus à prendre en considération sont : allocations familiales, pension alimentaire, rente d’orphelin, indemnités d’apprentissage, salaires autres qu’un salaire étudiant payé dans le cadre d’un emploi étudiant, tout revenu de remplacement ou indemnité non-occasionnelle, allocation de chômage, revenu minimum garanti et allocation de loyer, intérêts et produits en capitaux, subvention de loyer et l’aide ou l’indemnité à la formation payée par le Service de la formation professionnelle. Le montant maximum de la subvention est limité à 1.500 euros par mois. La subvention de maintien scolaire n’est pas cumulable avec la subvention pour ménages à faible revenu décrite au paragraphe 1er du présent article. (3) Un règlement grand-ducal fixe les modalités d’octroi et de calcul de la subvention pour ménages à faible revenu et de la subvention de maintien scolaire décrites aux paragraphes 1er et 2 du présent article. (4) Le Centre est chargé de la gestion des dossiers.
+Art. 1er .
+
+Le Centre psycho-social et d’accompagnement scolaires, désigné ci-après par « le Centre », relève de l’autorité du ministre ayant l’Education nationale dans ses attributions, désigné ci-après par « le ministre ».
+
+Le Centre a pour mission d’être le centre de ressources psycho-sociales pour les lycées, de com­pléter l’offre d’accompagnement psycho-social des lycées et de faire office de médiateur scolaire.
+
+Dans le cadre de cette mission, le Centre assure les tâches suivantes :
+
+- il élabore un cadre de référence pour l’offre d’accompagnement psycho-social des élèves par les lycées à valider par le ministre ;
+
+- il organise des réunions de concertation avec les services chargés au sein des lycées de l’accompagnement psycho-social des élèves afin de permettre un échange des bonnes pratiques et rédige un rapport annuel d’évaluation de l’offre d’accompagnement psycho-social des élèves par les établissements scolaires ;
+
+- il réunit un savoir et savoir-faire dans des matières relevant de la prise en charge des troubles psychologiques et d’apprentissage des élèves et développe des stratégies de prévention et de prise en charge de ces troubles en assurant la diffusion de celles-ci à travers des formations, des publications et des conférences ;
+
+- il met à disposition des services chargés de l’accompagnement psycho-social des élèves un centre de docu­mentation et des outils spécialisés ;
+
+- à la demande des services chargés de l’accompagnement psycho-social des élèves, il prend en charge des élèves qui nécessitent un accompagnement et un soutien psycho-social spécialisés ;
+
+- il contribue à l’offre de formation continue organisée par l’Institut de formation de l’Education nationale ;
+
+- il contribue à l’élaboration de recommandations et à la réalisation des actions d’information et d’orientation scolaires et professionnelles ;
+
+- à la demande des directeurs des lycées, il les assiste lors du recrutement des personnels des carrières éducatives et psycho-sociales ;
+
+- il assure une assistance en cas de crise aiguë à la demande des directeurs ;
+
+- il évalue individuellement les demandes de subvention lui adressées en application de l’article 2 de la présente loi ;
+
+- il complète l’offre d’accompagnement psycho-social des élèves ou étudiants pour lesquels un tel service n’est pas assuré. Il complète l’offre de conseil aux parents d’élèves au sujet de problèmes psycho-sociaux concernant leurs enfants ;
+
+- il offre un conseil professionnel et psychologique aux membres du personnel des écoles fonda­mentales et des lycées qui en font la demande au directeur du Centre ;
+
+- dans sa fonction de médiateur scolaire il reçoit les réclamations des élèves, des parents d’élèves ou des enseignants, formulées à l’occasion d’une affaire qui les concerne. La saisine du Centre doit avoir été précédée de démarches auprès de l’inspecteur de l’enseignement fondamental, de la commission scolaire, du régent de classe et du directeur du lycée. Lorsque les réclamations lui paraissent fondées, le Centre émet des recommandations aux concernés qui l’informent des suites qu’ils leur ont données.
+
+- L’article 2 est remplacé comme suit :
+
+Art. 2.
+
+(1)
+
+Une subvention est accordée par le ministre aux ménages à faible revenu qui ont un ou plusieurs enfants inscrits dans un établissement de l’enseignement secondaire ou secondaire technique public luxembourgeois, ainsi que les établissements d’enseignement privé sous régime contractuel suivant les programmes de l’enseignement public luxembourgeois.
+
+La subvention pour ménages à faible revenu est destinée à l’acquisition de matériel scolaire et à la participation aux frais d’activités périscolaires et parascolaires.
+
+La subvention pour ménages à faible revenu est calculée en fonction de la composition du ménage, du nombre d’enfants à charge et du revenu mensuel net disponible.
+
+La composition du ménage à prendre en considération pour la détermination de l’aide est celle existant à la date de la demande de subvention.
+
+Le revenu mensuel net disponible à prendre en considération pour le calcul de la subvention est la moyenne arithmétique du revenu net disponible des trois derniers mois qui précèdent la date de la demande, le mois d’août n’étant pas considéré.
+
+Pour les indépendants, le revenu est calculé sur base du certificat le plus récent du bureau d’imposition.
+
+Le montant maximum de la subvention est limité à 1.500 euros par année scolaire et par élève.
+
+Le montant peut être versé en deux tranches.
+
+La demande de subvention est à introduire auprès du service psycho-social et d’accompagnement scolaires du lycée dans lequel est inscrit l’élève ou à défaut auprès du Centre.
+
+(2)
+
+Une subvention de maintien scolaire est accordée par le ministre aux élèves ayant atteint la majorité :
+
+- inscrits à plein temps ou en formation concomitante dans un établissement de l’enseignement secondaire ou secondaire technique public luxembourgeois, ainsi que les établissements d’enseignement privé sous régime contractuel suivant les programmes de l’enseignement public luxembourgeois ;
+
+- âgés de moins de 30 ans à la date de la demande ;
+
+- vivant seuls ;
+
+- en situation de détresse psycho-sociale ;
+
+- suivis par un service psycho-social et d’accompagnement scolaires ou le Centre ;
+
+- et ayant un loyer à payer.
+
+La subvention de maintien scolaire a comme objectif de permettre à l’élève de poursuivre la scolarité jusqu’à l’obtention d’un diplôme de fin d’études secondaires, d’un diplôme de fin d’études secondaires techniques, d’un diplôme de technicien, d’un diplôme d’aptitude professionnelle ou d’un certificat de capacité professionnelle.
+
+La situation de détresse psycho-sociale est constatée par le service psycho-social et d’accompagnement scolaires du lycée dans lequel est inscrit l’élève ou par le Centre. L’appréciation est individuelle et discrétionnaire basée sur une enquête sociale.
+
+La subvention de maintien scolaire est calculée en fonction des frais de vie, frais de loyer, des charges locatives et des revenus de l’élève.
+
+Les revenus à prendre en considération sont : allocations familiales, pension alimentaire, rente d’orphelin, indemnités d’apprentissage, salaires autres qu’un salaire étudiant payé dans le cadre d’un emploi étudiant, tout revenu de remplacement ou indemnité non-occasionnelle, allocation de chômage, revenu minimum garanti et allocation de loyer, intérêts et produits en capitaux, subvention de loyer et l’aide ou l’indemnité à la formation payée par le Service de la formation professionnelle.
+
+Le montant maximum de la subvention est limité à 1.500 euros par mois.
+
+La subvention de maintien scolaire n’est pas cumulable avec la subvention pour ménages à faible revenu décrite au paragraphe 1er du présent article.
+
+(3)
+
+Un règlement grand-ducal fixe les modalités d’octroi et de calcul de la subvention pour ménages à faible revenu et de la subvention de maintien scolaire décrites aux paragraphes 1er et 2 du présent article.
+
+(4)
+
+Le Centre est chargé de la gestion des dossiers.
 
   - L’article 3 est abrogé.
 
@@ -267,17 +359,21 @@ Le cadre de référence pour l’orientation scolaire et professionnelle est él
 
 - A l’article 13, les mots service de psychologie et d’orientation scolaires sont remplacés par ceux de service psycho-social et d’accompagnement scolaires.
 
-- A l’article 20, alinéa 2, les mots service de psychologie et d’orientation scolaires sont remplacés par ceux de service psycho-social et d’accompagnement scolaires
+- A l’article 20, alinéa 2, les mots service de psychologie et d’orientation scolaires sont remplacés par ceux deservice psycho-social et d’accompagnement scolaires
 
-- A l’article 21, alinéa 3, les mots service de psychologie et d’orientation scolaires sont remplacés par ceux de service psycho-social et d’accompagnement scolaires
+- A l’article 21, alinéa 3, les motsservice de psychologie et d’orientation scolaires sont remplacés par ceux de service psycho-social et d’accompagnement scolaires
 
-- Dans l’intitulé de l’article 28, les mots service de psychologie et d’orientation scolaires sont remplacés par ceux de service psycho-social et d’accompagnement scolaires
+- Dans l’intitulé de l’article 28, les mots service de psychologie et d’orientation scolaires sont remplacés par ceux deservice psycho-social et d’accompagnement scolaires
 
-- Les alinéas 1 er et 2 de l’article 28 sont remplacés par les alinéas suivants : Il est créé dans chaque lycée un service psycho-social et d’accompagnement scolaires placé sous l’autorité du directeur du lycée. Le cadre de référence, élaboré par le Centre psycho-social et d’accompagnement scolaires et arrêté par le ministre, décrit les orientations d’action générales et les programmes d’activités des services. La mise en œuvre des programmes est évaluée par le Centre psycho-social et d’accompagnement scolaires.
+- Les alinéas 1er et 2 de l’article 28 sont remplacés par les alinéas suivants :
+
+Il est créé dans chaque lycée un service psycho-social et d’accompagnement scolaires placé sous l’autorité du directeur du lycée.
+
+Le cadre de référence, élaboré par le Centre psycho-social et d’accompagnement scolaires et arrêté par le ministre, décrit les orientations d’action générales et les programmes d’activités des services. La mise en œuvre des programmes est évaluée par le Centre psycho-social et d’accompagnement scolaires.
 
 - Aux alinéas 3 et 5 de l’article 28, les mots service de psychologie et d’orientation scolaires sont remplacés par ceux de service psycho-social et d’accompagnement scolaires
 
-- A l’alinéa 4 de l’article 28, le 9 e tiret est supprimé.
+- A l’alinéa 4 de l’article 28, le 9e tiret est supprimé.
 
 <a id="art-13"></a>
 ## Art. 13.
@@ -299,9 +395,9 @@ A l’article 4, point 2, de la loi modifiée du 2 décembre 1987 portant régle
 
 La loi modifiée du 4 septembre 1990 portant réforme de l’enseignement secondaire technique et de la formation professionnelle continue est modifiée comme suit :
 
-- A l’article 6, paragraphe 5, les termes service de psychologie et d’orientation scolaires (SPOS) sont remplacés par ceux de service psycho-social et d’accompagnement scolaires
+- A l’article 6, paragraphe 5, les termes service de psychologie et d’orientation scolaires (SPOS) sont remplacés par ceux deservice psycho-social et d’accompagnement scolaires
 
-- A l’article 38, alinéa 2, les mots Centre de psychologie et d’orientation scolaires sont remplacés par ceux de Centre psycho-social et d’accompagnement scolaires .
+- A l’article 38, alinéa 2, les mots Centre de psychologie et d’orientation scolaires sont remplacés par ceux deCentre psycho-social et d’accompagnement scolaires .
 
 <a id="art-17"></a>
 ## Art. 17.
@@ -318,20 +414,20 @@ A l’article 5, alinéa 1er, de la loi modifiée du 19 décembre 2008 portant r
 
 La loi modifiée du 6 février 2009 portant organisation de l’enseignement fondamental est modifiée comme suit :
 
-- A l’article 26, paragraphe 4, alinéa 4, point 5, les termes Centre de psychologie et d’orientation scolaires sont remplacés par ceux de Centre psycho-social et d’accompagnement scolaires
+- A l’article 26, paragraphe 4, alinéa 4, point 5, les termes Centre de psychologie et d’orientation scolairessont remplacés par ceux de Centre psycho-social et d’accompagnement scolaires
 
 - A l’article 26, paragraphe 4, alinéa 6, les termes Centre de psychologie et d’orientation scolaires sont remplacés par ceux de Centre psycho-social et d’accompagnement scolaires
 
-- A l’article 32, les termes Service de psychologie et d’orientation scolaires sont remplacés par ceux de service psycho-social et d’accompagnement scolaires .
+- A l’article 32, les termes Service de psychologie et d’orientation scolaires sont remplacés par ceux deservice psycho-social et d’accompagnement scolaires .
 
 <a id="art-20"></a>
 ## Art. 20.
 
 La loi modifiée du 15 juillet 2011 visant l’accès aux qualifications scolaires et professionnelles des élèves à besoins éducatifs particuliers est modifiée comme suit :
 
-- A l’article 7, alinéa 1 er , les mots Centre de psychologie et d’orientation scolaires sont remplacés par ceux de Centre psycho-social et d’accompagnement scolaires et les mots Service de psychologie et d’orientation scolaires sont remplacés par ceux de service psycho-social et d’accompagnement scolaires ;
+- A l’article 7, alinéa 1er, les mots Centre de psychologie et d’orientation scolaires sont remplacés par ceux de Centre psycho-social et d’accompagnement scolaireset les mots Service de psychologie et d’orientation scolaires sont remplacés par ceux de service psycho-social et d’accompagnement scolaires;
 
-- Aux articles 8, 9 et 10, les mots Service de psychologie et d’orientation scolaires sont remplacés par ceux de service psycho-social et d’accompagnement scolaires .
+- Aux articles 8, 9 et 10, les motsService de psychologie et d’orientation scolaires sont remplacés par ceux deservice psycho-social et d’accompagnement scolaires .
 
 <a id="art-21"></a>
 ## Art. 21.

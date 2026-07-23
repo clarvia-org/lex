@@ -50,15 +50,15 @@ Pour les indemnités des employés communaux ne bénéficiant pas encore du rég
 
 Les éléments pensionnables des traitements des fonctionnaires et des indemnités des employés communaux qui bénéficient du régime de pension des fonctionnaires communaux font l’objet d’une retenue pour pension dont le taux est fixé comme suit:
 
-- à partir du 1 er janvier 1995 à quatre pour cent;
+- à partir du 1er janvier 1995 à quatre pour cent;
 
-- à partir du 1 er janvier 1996 à cinq pour cent;
+- à partir du 1er janvier 1996 à cinq pour cent;
 
-- à partir du 1 er janvier 1997 à six pour cent;
+- à partir du 1er janvier 1997 à six pour cent;
 
-- à partir du 1 er janvier 1998 à sept pour cent;
+- à partir du 1er janvier 1998 à sept pour cent;
 
-- à partir du 1 er janvier 1999 à huit pour cent.
+- à partir du 1er janvier 1999 à huit pour cent.
 
 Les retenues opérées sur les éléments pensionnables des traitements et indemnités visés au premier alinéa du présent paragraphe sont versées à la caisse de prévoyance des fonctionnaires et employés communaux.
 
@@ -1591,15 +1591,15 @@ Le fonctionnaire en service, nommé provisoirement ou définitivement, bénéfic
 
 L’allocation est fixée
 
-- à partir du 1 er janvier 1995 à soixante pour cent,
+- à partir du 1er janvier 1995 à soixante pour cent,
 
-- à partir du 1 er janvier 1996 à soixante-dix pour cent,
+- à partir du 1er janvier 1996 à soixante-dix pour cent,
 
-- à partir du 1 er janvier 1997 à quatre-vingts pour cent,
+- à partir du 1er janvier 1997 à quatre-vingts pour cent,
 
-- à partir du 1 er janvier 1998 à quatre-vingt-dix pour cent,
+- à partir du 1er janvier 1998 à quatre-vingt-dix pour cent,
 
-- à partir du 1 er janvier 1999 à cent pour cent du traitement de base dû pour le mois de décembre.
+- à partir du 1er janvier 1999 à cent pour cent du traitement de base dû pour le mois de décembre.
 
 Par traitement de base au sens du présent article il y a lieu d’entendre le traitement tel qu’il résulte de l’application des tableaux indiciaires de l’annexe B du présent règlement, ainsi que de l’application des articles 4, 6bis, 6ter, 16quater, 17-III, 17-V (à l’exception de la prime prévue au n° 3, dernier alinéa) 17-VII, 17-VIII, 17-IX, 17-X, 17-XI, 17-XII et 19ter du présent règlement, augmenté de l’allocation de famille éventuellement due.
 
@@ -1723,11 +1723,11 @@ Lorsque le présent règlement a repris des dispositions de l’ancienne législ
 
 Sous réserve des dispositions de l’article 23 ci-avant:
 
-- Les articles 2, 4, 5, 6 alinéas 2 et 3, 8, 9, 10, 11 alinéa 1 er , 13, 14, 15, 16, 17, 18, 24, 25, 31. III, 33 alinéas 1 er et 3, 36, 37, 38, 39, 40, 41, 42, 43, 44 et 45 de la loi du 28 juillet 1954 portant révision générale des traitements et pensions des fonctionnaires et employés des communes, syndicats de communes et établissements publics placés sous la surveillance des communes et syndicats de communes, sont remplacés par les dispositions du présent règlement.
+- Les articles 2, 4, 5, 6 alinéas 2 et 3, 8, 9, 10, 11 alinéa 1er, 13, 14, 15, 16, 17, 18, 24, 25, 31. III, 33 alinéas 1er et 3, 36, 37, 38, 39, 40, 41, 42, 43, 44 et 45 de la loi du 28 juillet 1954 portant révision générale des traitements et pensions des fonctionnaires et employés des communes, syndicats de communes et établissements publics placés sous la surveillance des communes et syndicats de communes, sont remplacés par les dispositions du présent règlement.
 
-- L’ arrêté grand-ducal du 3 mai 1955 portant adaptation des émoluments des fonctionnaires et employés des communes, syndicats de communes et établissements publics placés sous la surveillance des communes et syndicats de communes à ceux des fonctionnaires de l’Etat, tels qu’ils sont fixés par la loi du 24 avril 1954 portant révision des lois des 21 mai 1948 et 16 janvier 1951 , sur les traitements des fonctionnaires et employés de l’Etat, est abrogé.
+- L’arrêté grand-ducal du 3 mai 1955 portant adaptation des émoluments des fonctionnaires et employés des communes, syndicats de communes et établissements publics placés sous la surveillance des communes et syndicats de communes à ceux des fonctionnaires de l’Etat, tels qu’ils sont fixés par la loi du 24 avril 1954 portant révision des lois des 21 mai 1948 et 16 janvier 1951, sur les traitements des fonctionnaires et employés de l’Etat, est abrogé.
 
-- L’ arrêté grand-ducal du 9 juin 1958 modifiant celui du 3 mai 1955 portant adaptation des émoluments des fonctionnaires et employés des communes, syndicats de communes et établissements publics placés sous la surveillance des communes et syndicats de communes à ceux des fonctionnaires de l’Etat tels qu’ils sont fixés par la loi du 24 avril 1954 portant révision des lois des 21 mai 1948 et 16 janvier 1951 sur les traitements des fonctionnaires et employés de l’Etat, est abrogé.
+- L’arrêté grand-ducal du 9 juin 1958 modifiant celui du 3 mai 1955 portant adaptation des émoluments des fonctionnaires et employés des communes, syndicats de communes et établissements publics placés sous la surveillance des communes et syndicats de communes à ceux des fonctionnaires de l’Etat tels qu’ils sont fixés par la loi du 24 avril 1954 portant révision des lois des 21 mai 1948 et 16 janvier 1951 sur les traitements des fonctionnaires et employés de l’Etat, est abrogé.
 
 Entrée en vigueur
 

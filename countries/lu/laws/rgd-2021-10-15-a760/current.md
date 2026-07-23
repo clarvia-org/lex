@@ -175,7 +175,7 @@ En ce qui concerne l’identification des points critiques du processus de produ
 
     - expédiés à des tiers
 
-  - tout traitement chimique appliqué aux plantes, et conserve les pièces et documents y afférents pendant au moins un an ;
+  - tout traitement chimique appliqué aux plantes,et conserve les pièces et documents y afférents pendant au moins un an ;
 
 - se tient personnellement à la disposition dudit organisme officiel responsable ou lui désigne une autre personne possédant une expérience technique adéquate de la production végétale et des questions sanitaires y afférentes ;
 
@@ -323,7 +323,7 @@ Sont dispensés :
 
 - de l’application de l’article 12, les petits producteurs dont la totalité de la production et de la vente de matériels de multiplication et de plants de légumes est destinée, pour un usage final, à des personnes sur le marché local qui ne sont pas engagées professionnellement dans la production de végétaux (circulation locale) ;
 
-- des contrôles prévus à l’article 4, paragraphe 1 er et de l’inspection officielle visée à l’article 11, paragraphe 3 et à l’article 16, la circulation locale de matériels de multiplication et de plants de légumes produits par des personnes ainsi exemptées.
+- des contrôles prévus à l’article 4, paragraphe 1er et de l’inspection officielle visée à l’article 11, paragraphe 3 et à l’article 16, la circulation locale de matériels de multiplication et de plants de légumes produits par des personnes ainsi exemptées.
 
 <a id="art-15"></a>
 ## Art. 15.

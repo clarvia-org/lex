@@ -34,9 +34,13 @@ warning: 'Official consolidation: Version rectifiée applicable au 16/11/2024 : 
 
 L’article 3 du règlement grand-ducal modifié du 17 septembre 2004 fixant les conditions et modalités de l’octroi d’avances temporaires de fonds pour le paiement de dépenses de l’État est modifié comme suit :
 
-- Au paragraphe 1 er , à la fin de la lettre f), le point final est remplacé par un point-virgule, et il est ajouté à la suite de la lettre f) une lettre g) nouvelle, libellée comme suit : en relation avec les indemnités de chômage complet couvertes par le Fonds pour l’emploi. ».
+- Au paragraphe 1er, à la fin de la lettre f), le point final est remplacé par un point-virgule, et il est ajouté à la suite de la lettre f) une lettre g) nouvelle, libellée comme suit :
 
-- Au paragraphe 3, à la fin du sixième tiret, le point final est remplacé par un point-virgule, et il est ajouté à la suite du sixième tiret un septième tiret nouveau, libellé comme suit : mensuellement pour les avances sous g). ».
+- en relation avec les indemnités de chômage complet couvertes par le Fonds pour l’emploi. ».
+
+- Au paragraphe 3, à la fin du sixième tiret, le point final est remplacé par un point-virgule, et il est ajouté à la suite du sixième tiret un septième tiret nouveau, libellé comme suit :
+
+- mensuellement pour les avances sous g). ».
 
 <a id="art-2"></a>
 ## Art. 2.

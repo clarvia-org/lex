@@ -53,7 +53,7 @@ Au cas où l´intéressé aurait été condamné à l´étranger à une peine en
 
 Le Conseil de Presse comprend:
 
-- les éditeurs des publications, agences et émissions luxembourgeoises visées par l´article 1 er , alinéa a de la présente loi;
+- les éditeurs des publications, agences et émissions luxembourgeoises visées par l´article 1er, alinéa a de la présente loi;
 
 - un nombre égal de journalistes.
 

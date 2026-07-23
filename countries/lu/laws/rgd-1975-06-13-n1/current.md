@@ -68,11 +68,11 @@ Sont notifiés au plus tard en même temps que l’ordre du jour:
 
 - Le budget prévisionnel accompagné des documents prévus au 1° ci-dessus, lorsque l’assemblée est appelée à voter les crédits du prochain exercice;
 
-- Le projet de règlement de copropriété, de l’état descriptif de division, de l’état de répartition des charges ou le projet de modification desdits actes, lorsque l’assemblée est appelée, suivant le cas, à établir ou à modifier ces actes, notamment s’il est fait application des articles 8 (alinéas 1er et 2), 17b et 26 (alinéa 3) de la loi du 16 mai 1975 ;
+- Le projet de règlement de copropriété, de l’état descriptif de division, de l’état de répartition des charges ou le projet de modification desdits actes, lorsque l’assemblée est appelée, suivant le cas, à établir ou à modifier ces actes, notamment s’il est fait application des articles 8 (alinéas 1er et 2), 17b et 26 (alinéa 3) de la loi du 16 mai 1975;
 
 - Les conditions essentielles du contract proposé, lorsque l’assemblée est appelée à approuver ou à autoriser une transaction, un devis ou un marché pour la réalisation de travaux ou l’un des contrats visés à l’article 17a de la loi du 16 mai 1975 et aux articles 19 et 29 du présent règlement;
 
-- Le projet de résolution lorsque l’assemblée est appelée à statuer sur l’une des questions visées aux articles 16a et b, 17c et 30 de la loi du 16 mai 1975 , ou à autoriser, ou à autoriser, s’il y a lieu, le syndic à introduire une demande en justice ;
+- Le projet de résolution lorsque l’assemblée est appelée à statuer sur l’une des questions visées aux articles 16a et b, 17c et 30 de la loi du 16 mai 1975, ou à autoriser, ou à autoriser, s’il y a lieu, le syndic à introduire une demande en justice ;
 
 - La note d’information visée à l’article 11, paragraphe 3, de la loi du 28 novembre 2024 concernant le comptage divisionnaire et la répartition des coûts de chaleur, de froid et d’eau chaude sanitaire.
 
@@ -234,9 +234,9 @@ Le syndic peut exiger le versement:
 
 - En cours d’exercice, soit d’une somme correspondant au remboursement des dépenses régulièrement engagées et effectivement acquittées, soit de provisions trimestrielles qui ne peuvent chacune excéder le quart du budget prévisionnel pour l’exercice considéré;
 
-- De provisions spéciales destinées à permettre l’exécution de décisions de l’assemblée générale, comme celles de procéder à la réalisation des travaux prévus aux articles 26 à 32 de la loi du 16 mai 1975 , dans les conditions fixées par décisions de ladite assemblée.
+- De provisions spéciales destinées à permettre l’exécution de décisions de l’assemblée générale, comme celles de procéder à la réalisation des travaux prévus aux articles 26 à 32 de la loi du 16 mai 1975, dans les conditions fixées par décisions de ladite assemblée.
 
-- Les cotisations au fonds de travaux prévu à l’article 11 bis de la loi du 16 mai 1975 .
+- Les cotisations au fonds de travaux prévu à l’article 11bis de la loi du 16 mai 1975.
 
 L’assemblée générale décide, s’ il y a lieu, du mode de placement des fonds ainsi recueillis.
 

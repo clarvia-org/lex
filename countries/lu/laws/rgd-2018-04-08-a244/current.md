@@ -382,7 +382,7 @@ Sont à considérer comme cas dûment justifiés au sens de l’alinéa qui pré
 
 - les cas visés à l’article 105, paragraphe 4,
 
-- les cas énumérés à l’article 44, paragraphe 1 er , points b) et c) de la loi,
+- les cas énumérés à l’article 44, paragraphe 1er, points b) et c) de la loi,
 
 - l’exclusion de la participation aux marchés publics,
 
@@ -946,7 +946,7 @@ Lorsque les informations ou les documents qui doivent être soumis par les opér
 
 - qu’elles ne conduisent pas indûment à favoriser ou défavoriser le ou les candidats ou soumissionnaires auxquels lesdites demandes ont été adressées et
 
-- qu’elles n’aboutissent pas à permettre qu’il soit dérogé aux articles 63, 80, paragraphe 1 er , et 83, paragraphe 1 er , de sorte à aboutir à la présentation, par les soumissionnaires concernés, d’une offre nouvelle.
+- qu’elles n’aboutissent pas à permettre qu’il soit dérogé aux articles 63, 80, paragraphe 1er, et 83, paragraphe 1er, de sorte à aboutir à la présentation, par les soumissionnaires concernés, d’une offre nouvelle.
 
 Le pouvoir adjudicateur peut prévoir que les renseignements sont à fournir par le soumissionnaire, sous peine de l’exclusion de son offre, dans un délai de quinze jours à courir à partir de la réception de la demande y relative.
 
@@ -1738,7 +1738,7 @@ Dans le cas de procédures restreintes et de procédures concurrentielles avec n
 
 - il contient, outre les informations mentionnées à l’annexe II, partie B, section I, celles mentionnées à l’annexe II, partie B, section II ;
 
-- il a été envoyé pour publication entre trente-cinq jours et douze mois avant la date d’envoi de l’invitation visée à l’article 192, paragraphe 1 er .
+- il a été envoyé pour publication entre trente-cinq jours et douze mois avant la date d’envoi de l’invitation visée à l’article 192, paragraphe 1er.
 
 De tels avis ne sont pas publiés sur un profil d’acheteur. Toutefois, l’éventuelle publication supplémentaire au niveau national conformément à l’article 161 peut être réalisée sur un profil d’acheteur.
 
@@ -1804,7 +1804,7 @@ Les avis visés aux articles 156 à 158 sont publiés intégralement dans la ou 
 
 L’Office des publications de l’Union européenne veille à ce que le texte intégral et le résumé des avis de préinformation visés à l’article 156, paragraphe 2, et des avis d’appel à la concurrence instaurant un système d’acquisition dynamique visés à l’article 203, paragraphe 4, point a), continuent à être publiés :
 
-- dans le cas des avis de préinformation, pendant douze mois ou jusqu’à réception d’un avis d’attribution de marché, comme prévu à l’article 158, avec la mention qu’aucun autre marché ne sera attribué au cours de la période de douze mois couverte par l’avis d’appel à la concurrence. Toutefois, dans le cas de marchés publics pour des services sociaux et d’autres services spécifiques, l’avis de préinformation visé à l’article 189, paragraphe 1 er , point b), continue d’être publié jusqu’à la fin de sa période de validité indiquée initialement ou jusqu’à réception d’un avis d’attribution de marché, comme prévu à l’article 158, avec la mention qu’aucun autre marché ne sera pas attribué au cours de la période couverte par l’appel à la concurrence ;
+- dans le cas des avis de préinformation, pendant douze mois ou jusqu’à réception d’un avis d’attribution de marché, comme prévu à l’article 158, avec la mention qu’aucun autre marché ne sera attribué au cours de la période de douze mois couverte par l’avis d’appel à la concurrence. Toutefois, dans le cas de marchés publics pour des services sociaux et d’autres services spécifiques, l’avis de préinformation visé à l’article 189, paragraphe 1er, point b), continue d’être publié jusqu’à la fin de sa période de validité indiquée initialement ou jusqu’à réception d’un avis d’attribution de marché, comme prévu à l’article 158, avec la mention qu’aucun autre marché ne sera pas attribué au cours de la période couverte par l’appel à la concurrence ;
 
 - dans le cas des avis d’appel à la concurrence instaurant un système d’acquisition dynamique, pour la période de validité de ce système.
 
@@ -2221,7 +2221,7 @@ Les pouvoirs adjudicateurs informent dans les meilleurs délais chaque candidat 
 
 - à tout candidat écarté, les motifs du rejet de sa demande de participation ;
 
-- à tout soumissionnaire écarté, les motifs du rejet de son offre, y compris, dans les cas visés à l’article 36, paragraphe 1 er , alinéas 2 et 3, de la loi, les raisons pour lesquelles ils ont conclu à la non-équivalence ou décidé les travaux, fournitures, ou services ne répondent pas aux performances ou aux exigences fonctionnelles ;
+- à tout soumissionnaire écarté, les motifs du rejet de son offre, y compris, dans les cas visés à l’article 36, paragraphe 1er, alinéas 2 et 3, de la loi, les raisons pour lesquelles ils ont conclu à la non-équivalence ou décidé les travaux, fournitures, ou services ne répondent pas aux performances ou aux exigences fonctionnelles ;
 
 - à tout soumissionnaire ayant fait une offre recevable, les caractéristiques et avantages relatifs de l’offre retenue ainsi que le nom du titulaire ou des parties à l’accord-cadre ;
 
@@ -2382,7 +2382,7 @@ Outre les exigences visées à l’alinéa 1er, le règlement ministériel fixan
 
   - les pouvoirs adjudicateurs établissent le format de signature avancé requis en se fondant sur les formats prévus par la décision 2011/130/UE de la Commission européenne du 25 février 2011 établissant des exigences minimales pour le traitement transfrontalier des documents signés électroniquement par les autorités compétentes, et mettent en place les mesures nécessaires pour le traitement technique de ces formats; dans le cas où un format de signature électronique différent est utilisé, la signature électronique ou le support électronique du document comporte des informations concernant les possibilités de validation existantes. Les possibilités de validation permettent au pouvoir adjudicateur de valider en ligne, gratuitement et d’une manière qui soit compréhensible pour les allophones, la signature électronique reçue comme une signature électronique avancée accompagnée d’un certificat qualifié. Le ministre compétent pour l’accréditation des prestataires de services de validation notifie les informations concernant le prestataire de services de validation à la Commission européenne, qui les met à la disposition du public sur l’internet ;
 
-  - lorsque l’offre est signée en recourant à un certificat qualifié au sens du règlement n° 910/2014 du Parlement européen et du Conseil du 23 juillet 2014 sur l’identification électronique et les services de confiance pour les transactions électroniques au sein du marché intérieur et abrogeant la directive 1999/93/CE , les pouvoirs adjudicateurs n’appliquent pas d’exigences supplémentaires susceptibles de faire obstacle à l’utilisation de ces signatures par les soumissionnaires.
+  - lorsque l’offre est signée en recourant à un certificat qualifié au sens du règlement n° 910/2014 du Parlement européen et du Conseil du 23 juillet 2014 sur l’identification électronique et les services de confiance pour les transactions électroniques au sein du marché intérieur et abrogeant la directive 1999/93/CE, les pouvoirs adjudicateurs n’appliquent pas d’exigences supplémentaires susceptibles de faire obstacle à l’utilisation de ces signatures par les soumissionnaires.
 
 En ce qui concerne les documents utilisés dans le cadre d’une procédure de passation de marchés qui sont signés par une autorité compétente d’un État membre ou une autre entité d’émission compétente, l’autorité ou l’entité d’émission compétente peut établir le format de signature avancé requis conformément aux exigences énoncées à l’article 1er, paragraphe 2, de la décision 2011/130/UE de la Commission européenne du 25 février 2011 établissant des exigences minimales pour le traitement transfrontalier des documents signés électroniquement par les autorités compétentes. Les pouvoirs adjudicateurs mettent en place les mesures nécessaires pour le traitement technique de ces formats en faisant figurer dans le document concerné les informations requises aux fins du traitement de la signature. Ces documents comportent, dans la signature électronique ou le support électronique du document, des informations concernant les possibilités de validation existantes qui permettent de valider la signature électronique reçue en ligne, gratuitement et d’une manière qui soit compréhensible pour les allophones.
 
@@ -2740,7 +2740,7 @@ Lorsque l’appel à la concurrence est effectué au moyen d’un avis périodiq
 
 - il mentionne que ce marché sera passé selon une procédure restreinte ou négociée sans publication ultérieure d’un avis d’appel à la concurrence et invite les opérateurs économiques intéressés à manifester leur intérêt ;
 
-- il contient, outre les informations mentionnées à l’annexe VIII, partie A, section I ère , celles mentionnées à l’annexe VIII, partie A, section II ;
+- il contient, outre les informations mentionnées à l’annexe VIII, partie A, section Ière, celles mentionnées à l’annexe VIII, partie A, section II ;
 
 - il a été envoyé pour publication entre trente-cinq jours et douze mois avant la date d’envoi de l’invitation à confirmer l’intérêt.
 
@@ -2833,7 +2833,7 @@ Les avis visés aux articles 214 à 217 sont publiés intégralement dans la ou 
 
 L’Office des publications de l’Union européenne veille à ce que le texte intégral et le résumé des avis périodiques indicatifs visés à l’article 214, paragraphe 2, des avis d’appel à la concurrence instaurant un système d’acquisition dynamique visés à l’article 251, paragraphe 4, point a), et des avis sur l’existence d’un système de qualification utilisés comme moyen de mise en concurrence conformément à l’article 213, alinéa 1er, point b), continuent à être publiés :
 
-- dans le cas des avis périodiques indicatifs, pendant douze mois ou jusqu’à réception d’un avis d’attribution de marché comme prévu à l’article 217, paragraphe 2, avec la mention qu’aucun autre marché ne sera attribué au cours de la période de douze mois couverte par l’avis d’appel à la concurrence. Toutefois, dans le cas des marchés pour des services sociaux et d’autres services spécifiques, l’avis périodique indicatif visé à l’article 238, paragraphe 1 er , point b), continue d’être publié jusqu’à la fin de sa période de validité indiquée initialement ou jusqu’à réception d’un avis d’attribution de marché, comme prévu à l’article 217, avec la mention qu’aucun autre marché ne sera attribué au cours de la période couverte par l’appel à la concurrence ;
+- dans le cas des avis périodiques indicatifs, pendant douze mois ou jusqu’à réception d’un avis d’attribution de marché comme prévu à l’article 217, paragraphe 2, avec la mention qu’aucun autre marché ne sera attribué au cours de la période de douze mois couverte par l’avis d’appel à la concurrence. Toutefois, dans le cas des marchés pour des services sociaux et d’autres services spécifiques, l’avis périodique indicatif visé à l’article 238, paragraphe 1er, point b), continue d’être publié jusqu’à la fin de sa période de validité indiquée initialement ou jusqu’à réception d’un avis d’attribution de marché, comme prévu à l’article 217, avec la mention qu’aucun autre marché ne sera attribué au cours de la période couverte par l’appel à la concurrence ;
 
 - dans le cas des avis d’appel à la concurrence instaurant un système d’acquisition dynamique, pour la durée de validité de ce système ;
 
@@ -3231,11 +3231,11 @@ Outre les exigences visées à l’alinéa 1er, le règlement ministériel fixan
 
 - le niveau de sécurité exigé pour le recours aux moyens électroniques de communication pour chacune des phases de la procédure de passation de marché, proportionné aux risques ;
 
-- lorsque le niveau de risque, estimé en vertu de la point b), est tel que l’usage de signatures électroniques avancées, au sens du règlement n° 910/2014 du Parlement européen et du Conseil du 23 juillet 2014 sur l’identification électronique et les services de confiance pour les transactions électroniques au sein du marché intérieur et abrogeant la directive 1999/93/CE , est requis, les entités adjudicatrices acceptent les signatures électroniques qui sont accompagnées d’un certificat qualifié, en tenant compte du fait de savoir si ces certificats sont fournis par un fournisseur de services de certificat, qui figure sur une liste de confiance prévue par la décision 2009/767/CE de la Commission européenne du 16 octobre 2009 établissant des mesures, destinées à faciliter l’exécution de procédures par voie électronique par l’intermédiaire des guichets uniques, créés avec ou sans dispositif sécurisé de création de signature, pour autant que les conditions suivantes soient remplies :
+- lorsque le niveau de risque, estimé en vertu de la point b), est tel que l’usage de signatures électroniques avancées, au sens du règlement n° 910/2014 du Parlement européen et du Conseil du 23 juillet 2014 sur l’identification électronique et les services de confiance pour les transactions électroniques au sein du marché intérieur et abrogeant la directive 1999/93/CE, est requis, les entités adjudicatrices acceptent les signatures électroniques qui sont accompagnées d’un certificat qualifié, en tenant compte du fait de savoir si ces certificats sont fournis par un fournisseur de services de certificat, qui figure sur une liste de confiance prévue par la décision 2009/767/CE de la Commission européenne du 16 octobre 2009 établissant des mesures, destinées à faciliter l’exécution de procédures par voie électronique par l’intermédiaire des guichets uniques, créés avec ou sans dispositif sécurisé de création de signature, pour autant que les conditions suivantes soient remplies :
 
   - l’entité adjudicatrice établit le format de signature avancé requis en se fondant sur les formats prévus par la décision 2011/130/UE de la Commission européenne du 25 février 2011 établissant des exigences minimales pour le traitement transfrontalier des documents signés électroniquement par les autorités compétentes, et met en place les mesures nécessaires pour le traitement technique de ces formats; dans le cas où un format de signature électronique différent est utilisé, la signature électronique ou le support électronique du document comporte des informations concernant les possibilités de validation existantes. Les possibilités de validation permettent à l’entité adjudicatrice de valider en ligne, gratuitement et d’une manière qui soit compréhensible pour les allophones, la signature électronique reçue comme une signature électronique avancée accompagnée d’un certificat qualifié. Le ministre compétent pour l’accréditation des prestataires de services de validation notifie les informations concernant le prestataire de services de validation à la Commission européenne, qui les met à la disposition du public sur l’internet ;
 
-  - lorsque l’offre est signée en recourant à un certificat qualifié au sens du règlement n° 910/2014 du Parlement européen et du Conseil du 23 juillet 2014 sur l’identification électronique et les services de confiance pour les transactions électroniques au sein du marché intérieur et abrogeant la directive 1999/93/CE , l’entité adjudicatrice n’applique pas d’exigences supplémentaires susceptibles de faire obstacle à l’utilisation de ces signatures par les soumissionnaires.
+  - lorsque l’offre est signée en recourant à un certificat qualifié au sens du règlement n° 910/2014 du Parlement européen et du Conseil du 23 juillet 2014 sur l’identification électronique et les services de confiance pour les transactions électroniques au sein du marché intérieur et abrogeant la directive 1999/93/CE, l’entité adjudicatrice n’applique pas d’exigences supplémentaires susceptibles de faire obstacle à l’utilisation de ces signatures par les soumissionnaires.
 
 En ce qui concerne les documents utilisés dans le cadre d’une procédure de passation de marchés qui sont signés par une autorité compétente d’un État ou une autre entité d’émission compétente, l’autorité ou l’entité d’émission compétente peut établir le format de signature avancé requis conformément aux exigences énoncées à l’article 1er, paragraphe 2, de la décision 2011/130/UE du 25 février 2011 établissant les exigences minimales pour le traitement transfrontalier des documents signés électroniquement par les autorités compétentes. Les pouvoirs adjudicateurs mettent en place les mesures nécessaires pour le traitement technique de ces formats en faisant figurer dans le document concerné les informations requises aux fins du traitement de la signature. Ces documents comportent, dans la signature électronique ou le support électronique du document, des informations concernant les possibilités de validation existantes qui permettent de valider la signature électronique reçue en ligne, gratuitement et d’une manière qui soit compréhensible pour les allophones.
 
@@ -3271,7 +3271,7 @@ Les entités adjudicatrices informent dans les meilleurs délais chaque candidat
 
 - à tout candidat écarté, les motifs du rejet de sa demande de participation ;
 
-- à tout soumissionnaire écarté, les motifs du rejet de son offre, y compris, dans les cas visés à l’article 144, paragraphe 1 er , alinéas 2 à 4, de la loi, les raisons pour lesquelles elles ont conclu à la non-équivalence ou décidé que les travaux, fournitures, ou services ne répondent pas aux performances ou aux exigences fonctionnelles ;
+- à tout soumissionnaire écarté, les motifs du rejet de son offre, y compris, dans les cas visés à l’article 144, paragraphe 1er, alinéas 2 à 4, de la loi, les raisons pour lesquelles elles ont conclu à la non-équivalence ou décidé que les travaux, fournitures, ou services ne répondent pas aux performances ou aux exigences fonctionnelles ;
 
 - à tout soumissionnaire ayant fait une offre recevable, les caractéristiques et avantages relatifs de l’offre retenue ainsi que le nom du titulaire ou des parties à l’accord-cadre ;
 
@@ -3537,7 +3537,7 @@ Les entités adjudicatrices conservent les informations appropriées concernant 
 
 - l’utilisation de procédures négociées sans appel à la concurrence conformément à l’article 124 de la loi ;
 
-- la non-application des dispositions relatives aux techniques et instruments pour les marchés électroniques et agrégés, au déroulement de la procédure et à l’exécution des marchés, en vertu des dérogations prévues aux chapitres II et III du titre I er du Livre III de la loi ;
+- la non-application des dispositions relatives aux techniques et instruments pour les marchés électroniques et agrégés, au déroulement de la procédure et à l’exécution des marchés, en vertu des dérogations prévues aux chapitres II et III du titre Ier du Livre III de la loi ;
 
 - le cas échéant, les raisons pour lesquelles des moyens de communication autres que les moyens électroniques ont été utilisés pour la soumission électronique.
 
@@ -3616,7 +3616,7 @@ Lorsqu’elle reçoit une demande soumise conformément au paragraphe 1er, la Co
 
 Les marchés destinés à permettre l’exercice de l’activité donnée et les concours organisés pour la poursuite d’une telle activité cessent d’être soumis au Livre III dans chacun des cas suivants :
 
-- la Commission européenne a adopté l’acte d’exécution établissant l’applicabilité de l’article 115, paragraphe 1 er , de la loi, dans les délais prévus à l’annexe VII ;
+- la Commission européenne a adopté l’acte d’exécution établissant l’applicabilité de l’article 115, paragraphe 1er, de la loi, dans les délais prévus à l’annexe VII ;
 
 - la Commission européenne n’a pas adopté l’acte d’exécution dans les délais prévus à l’annexe VII.
 
@@ -3661,7 +3661,7 @@ Afin de permettre au ministre ayant les Travaux publics dans ses attributions, d
 
 Le rapport de contrôle visé à l’alinéa qui précède intègrera :
 
-- le résultat des opérations de contrôle visées au paragraphe 1 er ;
+- le résultat des opérations de contrôle visées au paragraphe 1er ;
 
 - le cas échéant, des informations sur les causes les plus fréquentes de mauvaise application des règles ou d’insécurité juridique, y compris d’éventuels problèmes structurels ou récurrents dans l’application des règles, sur le niveau de participation des PME aux procédures de passation des marchés publics ainsi que sur la prévention, la détection et le signalement adéquat des cas de fraude, de corruption, de conflit d’intérêts et d’autres irrégularités graves dans le cadre de la passation de marchés ; Aux fins du tiret qui précède, on entend par « PME » l’entreprise qui est définie dans la recommandation 2003/361/CE de la Commission européenne du 6 mars 2003 concernant la définition des micro, petites et moyennes entreprises.
 

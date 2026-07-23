@@ -55,9 +55,9 @@ Pour les appareils et l’éclairement :
 
 - « appareils de bronzage UV » : appareils de traitement de la peau par rayonnement équipés d’émetteurs ultraviolets ;
 
-- « éclairement effectif Eery » : Somme sur toutes les longueurs d’onde UV concernées des produits entre éclairement énergétique à la longueur d’onde donnée (en W/m 2 ) et l’efficacité spectrale à la même longueur d’onde pour induire un érythème ; Eery = Σ E(L) * S(L) (sommation sur toutes les longueurs d’onde L) avec S(L) = 1 pour toute longueur d’onde L < 298 nm et S(L) = 100,094 * (298-L) pour toute longueur d’onde L ≥ 298 nm et L ≤ 328 nm et S(L) = 100,015 * (140-L) pour toute longueur d’onde L > 328 nm et L ≤ 400 nm ;
+- « éclairement effectif Eery » : Somme sur toutes les longueurs d’onde UV concernées des produits entre éclairement énergétique à la longueur d’onde donnée (en W/m2) et l’efficacité spectrale à la même longueur d’onde pour induire un érythème ; Eery = Σ E(L) * S(L) (sommation sur toutes les longueurs d’onde L) avec S(L) = 1 pour toute longueur d’onde L < 298 nm et S(L) = 100,094 * (298-L) pour toute longueur d’onde L ≥ 298 nm et L ≤ 328 nm et S(L) = 100,015 * (140-L) pour toute longueur d’onde L > 328 nm et L ≤ 400 nm ;
 
-- « appareil de type UV 3 » : appareil comportant un émetteur UV tel que l’effet biologique est causé par des rayonnements de longueurs d’ondes inférieures et supérieures à 320 nm et caractérisé par un éclairement limité sur toute la bande de rayonnement UV, et dont l’éclairement effectif est inférieur à 0,15 W/m 2 pour les longueurs d’ondes de 250 à 320 nm, et inférieur à 0,15 W/m 2 pour les longueurs d’ondes de 320 à 400 nm.
+- « appareil de type UV 3 » : appareil comportant un émetteur UV tel que l’effet biologique est causé par des rayonnements de longueurs d’ondes inférieures et supérieures à 320 nm et caractérisé par un éclairement limité sur toute la bande de rayonnement UV, et dont l’éclairement effectif est inférieur à 0,15 W/m2 pour les longueurs d’ondes de 250 à 320 nm, et inférieur à 0,15 W/m2 pour les longueurs d’ondes de 320 à 400 nm.
 
 <a id="art-3"></a>
 ## Art. 3.
@@ -73,9 +73,9 @@ La mise en œuvre des techniques visées à l’article 2, paragraphe 1er, s’e
 
 - le matériel, ainsi que ses supports directs, pénétrant ou entrant en contact avec l’épiderme, les muqueuses, les tissus sous-jacents ou les cartilages sont soit à usage unique et stérile, soit stérilisés adéquatement avant chaque opération ;
 
-- les locaux dans lesquels sont exercés de telles activités doivent comprendre une salle exclusivement réservée à la réalisation des techniques visées à l’article 2, paragraphe 1 er ;
+- les locaux dans lesquels sont exercés de telles activités doivent comprendre une salle exclusivement réservée à la réalisation des techniques visées à l’article 2, paragraphe 1er ;
 
-- à l’intérieur des locaux une mise en garde contre les risques liés aux techniques visées à l’article 2, paragraphe 1 er , comprenant les informations visées à la fiche prévue à l’article 7 de la présente loi est affichée ;
+- à l’intérieur des locaux une mise en garde contre les risques liés aux techniques visées à l’article 2, paragraphe 1er, comprenant les informations visées à la fiche prévue à l’article 7 de la présente loi est affichée ;
 
 - le stockage et l’élimination des déchets issus de cette activité doivent être assurés de manière à respecter les dispositions de la loi modifiée du 17 juin 1994 relative à la prévention et à la gestion des déchets relatives aux déchets hospitaliers et assimilés ;
 
@@ -91,7 +91,7 @@ Les personnes qui mettent en œuvre la technique du perçage du lobule de l’or
 
 - la peau du client est isolée des éléments permanents du pistolet perce-oreille par un élément jetable et à usage unique servant de support au bijou de pose ;
 
-- le bijou de pose et son support sont fournis stériles dans un emballage hermétique qui en garantit la stérilité jusqu’à son utilisation. Un règlement grand-ducal précise les caractéristiques et l’équipement des locaux visés à l’alinéa 1 er , la procédure d’hygiène des mains, les différents éléments du protocole relatif à la préparation de la zone à traiter, les mesures relatives à la sécurité et les modalités de nettoyage du matériel utilisé, les règles spécifiques d’hygiène à respecter lors de la réalisation de l’acte, le protocole de stérilisation des matériels ainsi que les règles spécifiques dans ces domaines lors de la mise en œuvre de la technique du perçage du lobule de l’oreille moyennant un pistolet perce-oreille.
+- le bijou de pose et son support sont fournis stériles dans un emballage hermétique qui en garantit la stérilité jusqu’à son utilisation. Un règlement grand-ducal précise les caractéristiques et l’équipement des locaux visés à l’alinéa 1er, la procédure d’hygiène des mains, les différents éléments du protocole relatif à la préparation de la zone à traiter, les mesures relatives à la sécurité et les modalités de nettoyage du matériel utilisé, les règles spécifiques d’hygiène à respecter lors de la réalisation de l’acte, le protocole de stérilisation des matériels ainsi que les règles spécifiques dans ces domaines lors de la mise en œuvre de la technique du perçage du lobule de l’oreille moyennant un pistolet perce-oreille.
 
 (2)
 
@@ -192,11 +192,11 @@ Est puni d’une amende de deux cent cinquante et un à cinq mille euros le fait
 
 La vente et la mise à disposition au public des appareils de bronzage UV est soumise aux conditions ci-après :
 
-- Les appareils à éclairement effectif supérieur à 0,3 W/m 2 ainsi que les appareils à éclairement effectif supérieur à 0,15 W/m 2 pour les longueurs d’ondes de 250 à 320 nm sont réservés à un usage thérapeutique et ne peuvent être utilisés que sur prescription médicale et sous la responsabilité d’un médecin. Leur détention et mise à disposition est limitée aux médecins et établissements hospitaliers.
+- Les appareils à éclairement effectif supérieur à 0,3 W/m2 ainsi que les appareils à éclairement effectif supérieur à 0,15 W/m2 pour les longueurs d’ondes de 250 à 320 nm sont réservés à un usage thérapeutique et ne peuvent être utilisés que sur prescription médicale et sous la responsabilité d’un médecin. Leur détention et mise à disposition est limitée aux médecins et établissements hospitaliers.
 
-- L’utilisation d’appareils à éclairement effectif supérieur à 0,003 W/m 2 pour les longueurs d’ondes de 200 à 280 nm est interdite.
+- L’utilisation d’appareils à éclairement effectif supérieur à 0,003 W/m2 pour les longueurs d’ondes de 200 à 280 nm est interdite.
 
-- Les appareils à éclairement effectif inférieur ou égal à 0,3 W/m 2 et à éclairement effectif supérieur à 0,15 W/m 2 pour les longueurs d’ondes de 320 à 400 nm sont réservés à un usage professionnel dans le domaine de l’esthétique ou du loisir conformément au présent chapitre. Leur vente au public est interdite.
+- Les appareils à éclairement effectif inférieur ou égal à 0,3 W/m2 et à éclairement effectif supérieur à 0,15 W/m2 pour les longueurs d’ondes de 320 à 400 nm sont réservés à un usage professionnel dans le domaine de l’esthétique ou du loisir conformément au présent chapitre. Leur vente au public est interdite.
 
 - Les appareils de type UV 3 peuvent être mis librement en vente ou à la disposition du public sous réserve des dispositions et limitations du présent chapitre. Il est interdit de mettre un appareil de bronzage UV à disposition d’une personne mineure. Il est interdit de vendre un appareil de bronzage UV à une personne mineure. Les appareils de bronzage UV ne peuvent être mis à la disposition du public que sous la surveillance directe d’un personnel qualifié. Les appareils de bronzage UV mis à la disposition du public, à titre gratuit ou onéreux, et leurs conditions d’utilisation doivent être conformes aux règles de l’art prévalant en matière de sécurité.
 
@@ -257,7 +257,7 @@ Est interdite toute publicité affirmant que l’exposition aux UV des appareils
 
 Est puni d’une amende de deux cent cinquante et un à cinq mille euros le fait de pratiquer les activités visées à l’article 9 :
 
-- Sans respecter les restrictions de vente et de mise à disposition prévues aux paragraphes 1 er et 2 de l’article 9 ;
+- Sans respecter les restrictions de vente et de mise à disposition prévues aux paragraphes 1er et 2 de l’article 9 ;
 
 - sans respecter les conditions d’hygiène prévues à l’article 9 (3) ;
 

@@ -102,9 +102,9 @@ Par traitement initial, il y a lieu d’entendre l’échelon atteint par le fon
 
 La valeur mensuelle d’un point indiciaire est fixée à partir du 1er janvier 2026 comme suit:
 
-- à 2,5263295 euros, valeur au nombre cent de l’indice pondéré du coût de la vie au 1 er janvier 1948, pour les fonctionnaires, les fonctionnaires stagiaires et les employés de l’État bénéficiant de l’application du régime de pension des fonctionnaires de l’État ;
+- à 2,5263295 euros, valeur au nombre cent de l’indice pondéré du coût de la vie au 1er janvier 1948, pour les fonctionnaires, les fonctionnaires stagiaires et les employés de l’État bénéficiant de l’application du régime de pension des fonctionnaires de l’État ;
 
-- à 2,3921924 euros, valeur au nombre cent de l’indice pondéré du coût de la vie au 1 er janvier 1948, pour les autres agents au service de l’État non visés par le point 1°.
+- à 2,3921924 euros, valeur au nombre cent de l’indice pondéré du coût de la vie au 1er janvier 1948, pour les autres agents au service de l’État non visés par le point 1°.
 
 La valeur fixée au point 2° est applicable aux éléments de rémunération non pensionnables et à l’allocation de fin d’année allouée aux agents entrés en service après le 31 décembre 1998.
 
@@ -1467,15 +1467,43 @@ Pour le calcul de la subvention, le ou les prêts sont pris en considération ju
 
 La subvention est attribuée et calculée annuellement par la prise en considération des facteurs suivants:
 
-- du solde du prêt au 1 er janvier de l’année de référence
+- du solde du prêt au 1er janvier de l’année de référence
 
-- du taux annuel effectif accordé au demandeur au 1 er janvier de l’année de référence
+- du taux annuel effectif accordé au demandeur au 1er janvier de l’année de référence
 
 - du taux de référence
 
 - des pourcentages fixés pour les bénéficiaires n’ayant aucun enfant à charge à 0,50% calculée sur le solde du prêt multiplié par le taux renseigné au plan d’amortissement, majoré de 0,50% pour chaque enfant à charge
 
-- du plan d’amortissement défini comme suit: Année de la demande Solde du prêt au 1er janvier à multiplier par 1e 1,00 2e 0,96 3e 0,92 4e 0,88 5e 0,84 6e 0,80 7e 0,76 8e 0,72 9e 0,68 10e 0,64 11e 0,60 12e 0,56 13e 0,52 14e 0,48 15e 0,44 16e 0,40 17e 0,36 18e 0,32 19e 0,28 20e 0,24 21e 0,20 22e 0,16 23e 0,12 24e 0,08 25e 0,04
+- du plan d’amortissement défini comme suit:
+
+| Année de la demande | Solde du prêt au 1er janvier à multiplier par |
+| --- | --- |
+| 1e | 1,00 |
+| 2e | 0,96 |
+| 3e | 0,92 |
+| 4e | 0,88 |
+| 5e | 0,84 |
+| 6e | 0,80 |
+| 7e | 0,76 |
+| 8e | 0,72 |
+| 9e | 0,68 |
+| 10e | 0,64 |
+| 11e | 0,60 |
+| 12e | 0,56 |
+| 13e | 0,52 |
+| 14e | 0,48 |
+| 15e | 0,44 |
+| 16e | 0,40 |
+| 17e | 0,36 |
+| 18e | 0,32 |
+| 19e | 0,28 |
+| 20e | 0,24 |
+| 21e | 0,20 |
+| 22e | 0,16 |
+| 23e | 0,12 |
+| 24e | 0,08 |
+| 25e | 0,04 |
 
 Aucune subvention n’est allouée si le montant total calculé est inférieur à 25 euros.
 
@@ -1786,11 +1814,7 @@ En application du présent article et dans tous les textes, les anciennes dénom
 
 ###### I. Rubrique «Administration générale»
 
-Rubrique «Administration générale»
-
 ###### A. Catégorie de traitement A
-
-Catégorie de traitement A
 
 - Groupe de traitement A1
 
@@ -1898,8 +1922,6 @@ Catégorie de traitement A
 
 ###### B. Catégorie de traitement B
 
-Catégorie de traitement B
-
 - Groupe de traitement B1
 
   - Le sous-groupe administratif regroupe les anciennes carrières de rédacteur, de rédacteur de l’administration de l’emploi, de rédacteur de l’enregistrement, de rédacteur de l’entreprise des postes et télécommunications, de rédacteur des contributions et de rédacteur du commissariat aux assurances.
@@ -1912,8 +1934,6 @@ Catégorie de traitement B
 
 ###### C. Catégorie de traitement C
 
-Catégorie de traitement C
-
 - Groupe de traitement C1
 
   - Le sous-groupe administratif comprend l’ancienne carrière d’expéditionnaire.
@@ -1921,8 +1941,6 @@ Catégorie de traitement C
   - Le sous-groupe technique regroupe les anciennes carrières d’expéditionnaire technique non détenteur d’un diplôme luxembourgeois de technicien ou d’un certificat d’études étranger reconnu équivalent par le ministre ayant la Fonction publique dans ses attributions, d’expéditionnaire-informaticien, de moniteur et de préposé du service d’urgence.
 
 ###### D. Catégorie de traitement D
-
-Catégorie de traitement D
 
 - Le groupe de traitement D1
 
@@ -1942,11 +1960,7 @@ Catégorie de traitement D
 
 ###### II. Rubrique «Enseignement»
 
-Rubrique «Enseignement»
-
 ###### A. Catégorie de traitement A
-
-Catégorie de traitement A
 
 - Groupe de traitement A1
 
@@ -1978,8 +1992,6 @@ Catégorie de traitement A
 
 ###### B. Catégorie de traitement B
 
-Catégorie de traitement B
-
 - Groupe de traitement B1
 
   - Le sous-groupe enseignement secondaire regroupe les anciennes carrières de contremaître-instructeur, de maître de cours pratiques et de maître d’enseignement technique.
@@ -1992,11 +2004,7 @@ Catégorie de traitement B
 
 ###### III. Rubrique «Armée, Police et Inspection générale de la Police»
 
-Rubrique «Armée, Police et Inspection générale de la Police»
-
 ###### A. Catégorie de traitement A
-
-Catégorie de traitement A
 
 - Groupe de traitement A1
 
@@ -2018,8 +2026,6 @@ Catégorie de traitement A
 
 ###### B. Catégorie de traitement D
 
-Catégorie de traitement D
-
 - Groupe de traitement D1
 
   - Le sous-groupe militaire comprend l’ancienne carrière de sous-officier de l’armée avec les fonctions de sergent, de premier sergent, de sergent-chef, d’adjudant, d’adjudant-chef et d’adjudant-major.
@@ -2036,11 +2042,7 @@ Catégorie de traitement D
 
 ###### IV. Rubrique «Douanes»
 
-Rubrique «Douanes»
-
 ###### A. Catégorie de traitement A
-
-Catégorie de traitement A
 
 - Groupe de traitement A1
 
@@ -2058,15 +2060,11 @@ Catégorie de traitement A
 
 ###### B. Catégorie de traitement B
 
-Catégorie de traitement B
-
 - Groupe de traitement B1
 
   - Le sous-groupe des douanes comprend les anciennes carrières de rédacteur des douanes et d’informaticien diplômé de l’administration des douanes et accises.
 
 ###### C. Catégorie de traitement D
-
-Catégorie de traitement D
 
 - Groupe de traitement D1
 
@@ -2336,13 +2334,17 @@ La loi modifiée du 23 juillet 1952 concernant l’organisation militaire est mo
 
 - L’article 9 est modifié comme suit:
 
-  - Au paragraphe 1er, le point a) est remplacé comme suit: Le cadre du personnel comprend un colonel/chef d’état-major de l’armée autorisé à porter le titre de général, un lieutenant-colonel/chef d’état-major adjoint de l’armée autorisé à porter le titre de colonel, un lieutenant-colonel/commandant du centre militaire autorisé à porter le titre de colonel, un lieutenant ou lieutenant en premier ou capitaine, chef de la musique militaire, un adjudant-major/adjudant de corps de l’armée, un adjudant-major/adjudant de corps du centre militaire, un adjudant-major/chef de musique adjoint et des fonctionnaires des différentes catégories de traitement tels que prévus par la loi du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’Etat. Le corps des officiers de carrière comprend un maximum de quatre-vingts officiers dans l’armée proprement dite. Le corps des sous-officiers de l’armée comprend un maximum de deux cent six sous-officiers dans l’armée proprement dite, de soixante-quinze sous-officiers musiciens, de 6 fonctionnaires du groupe de traitement B1, sous-groupe éducatif et psycho-social, exerçant la profession d’infirmier et pouvant être autorisés à porter le titre des grades de sergent à adjudant-major et de quatre-vingt-dix caporaux.
+  - Au paragraphe 1er, le point a) est remplacé comme suit:
+
+- Le cadre du personnel comprend un colonel/chef d’état-major de l’armée autorisé à porter le titre de général, un lieutenant-colonel/chef d’état-major adjoint de l’armée autorisé à porter le titre de colonel, un lieutenant-colonel/commandant du centre militaire autorisé à porter le titre de colonel, un lieutenant ou lieutenant en premier ou capitaine, chef de la musique militaire, un adjudant-major/adjudant de corps de l’armée, un adjudant-major/adjudant de corps du centre militaire, un adjudant-major/chef de musique adjoint et des fonctionnaires des différentes catégories de traitement tels que prévus par la loi du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’Etat. Le corps des officiers de carrière comprend un maximum de quatre-vingts officiers dans l’armée proprement dite. Le corps des sous-officiers de l’armée comprend un maximum de deux cent six sous-officiers dans l’armée proprement dite, de soixante-quinze sous-officiers musiciens, de 6 fonctionnaires du groupe de traitement B1, sous-groupe éducatif et psycho-social, exerçant la profession d’infirmier et pouvant être autorisés à porter le titre des grades de sergent à adjudant-major et de quatre-vingt-dix caporaux.
 
   - Au paragraphe 2, les points a), b) et c) sont supprimés.
 
   - Le paragraphe 3 est supprimé.
 
-- A l’article 14, les points a), b), c), d), e), f), g) et h) sont remplacés par un nouveau point a) libellé comme suit, les anciens points i) et j) devenant les nouveaux points b) et c): des fonctionnaires des différentes catégories de traitement telles que prévues par la loi du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’Etat;
+- A l’article 14, les points a), b), c), d), e), f), g) et h) sont remplacés par un nouveau point a) libellé comme suit, les anciens points i) et j) devenant les nouveaux points b) et c):
+
+- des fonctionnaires des différentes catégories de traitement telles que prévues par la loi du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’Etat;
 
 - A l’article 16, les termes et promus sont supprimés.
 
@@ -2350,7 +2352,11 @@ La loi modifiée du 23 juillet 1952 concernant l’organisation militaire est mo
 
 La loi modifiée du 31 mars 1958 portant organisation des cadres de l’administration gouvernementale est modifiée comme suit:
 
-- A l’article 1er, le paragraphe 1er est remplacé comme suit: 1. Le cadre du personnel comprend des fonctionnaires nommés sur base de l’article 76 de la Constitution et des fonctionnaires des différentes catégories de traitement telles que prévues par la loi du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’Etat.
+- A l’article 1er, le paragraphe 1er est remplacé comme suit:
+
+1.
+
+Le cadre du personnel comprend des fonctionnaires nommés sur base de l’article 76 de la Constitution et des fonctionnaires des différentes catégories de traitement telles que prévues par la loi du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’Etat.
 
 - L’article 3 est supprimé, à l’exception de son dernier alinéa.
 
@@ -2400,7 +2406,13 @@ Le cadre des secrétariats des commissariats de district comprend des fonctionna
 
 La loi modifiée du 20 mars 1970 portant réorganisation de l’Administration de l’enregistrement et des domaines est modifiée comme suit:
 
-- A l’article 3, le paragraphe 1er est remplacé comme suit: (1) Le cadre du personnel comprend un directeur, deux directeurs adjoints et des fonctionnaires des différentes catégories de traitement telles que prévues par la loi du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’Etat. Les nominations aux fonctions de directeur et de directeur adjoint sont faites par le Grand-Duc sur proposition du Gouvernement en conseil.
+- A l’article 3, le paragraphe 1er est remplacé comme suit:
+
+(1)
+
+Le cadre du personnel comprend un directeur, deux directeurs adjoints et des fonctionnaires des différentes catégories de traitement telles que prévues par la loi du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’Etat.
+
+Les nominations aux fonctions de directeur et de directeur adjoint sont faites par le Grand-Duc sur proposition du Gouvernement en conseil.
 
 - L’article 4 est supprimé.
 
@@ -2478,9 +2490,18 @@ Le cadre du personnel comprend des fonctionnaires des différentes catégories d
 
 La loi du 29 novembre 1988 portant organisation de la structure administrative de l’éducation physique et des sports est modifiée comme suit:
 
-- A l’article 9, le paragraphe Ier est remplacé comme suit: I. Le cadre du personnel comprend des fonctionnaires des différentes catégories de traitement telles que prévues par la loi du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’Etat.
+- A l’article 9, le paragraphe Ier est remplacé comme suit:
 
-- L’article 12 est remplacé comme suit: Art. 12. Le cadre du personnel comprend un directeur et des fonctionnaires des différentes catégories de traitement telles que prévues par la loi du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’Etat.
+I.
+
+Le cadre du personnel comprend des fonctionnaires des différentes catégories de traitement telles que prévues par la loi du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’Etat.
+
+- L’article 12 est remplacé comme suit:
+
+<a id="art-12"></a>
+## Art. 12.
+
+Le cadre du personnel comprend un directeur et des fonctionnaires des différentes catégories de traitement telles que prévues par la loi du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’Etat.
 
 (20)
 
@@ -2502,19 +2523,43 @@ Outre le personnel et les collaborateurs mentionnés aux articles 15, 17 et 18, 
 
 La loi modifiée du 15 décembre 1993 déterminant le cadre du personnel des administrations, des services et juridictions de la sécurité sociale est modifiée comme suit:
 
-- A l’article 1er, les paragraphes 1er et 2 sont remplacés comme suit: 1. La direction de l’inspection générale de la sécurité sociale, désignée ci-après par «inspection générale», est confiée à un directeur qui en est le chef et qui a sous ses ordres le personnel visé au présent article ainsi qu’aux articles 2 et 3 suivants. Le cadre spécial de l’inspection générale comprend au sein de l’administration gouvernementale un directeur, des premiers inspecteurs de la sécurité sociale et des fonctionnaires des différentes catégories de traitement telles que prévues par la loi du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’Etat. 2. Le cadre scientifique de l’inspection générale comprend pour les besoins de la cellule d’évaluation et d’orientation un médecin-directeur de l’inspection générale de la sécurité sociale-cellule d’évaluation et d’orientation, des médecins, des médecins dirigeants et des fonctionnaires des différentes catégories de traitement telles que prévues par la loi du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’Etat.
+- A l’article 1er, les paragraphes 1er et 2 sont remplacés comme suit:
 
-- A l’article 5, paragraphe 1er, l’alinéa 2 est remplacé comme suit: Le cadre du personnel du contrôle médical comprend un médecin-directeur, un médecin-directeur adjoint, des médecins, des médecins dirigeants, des pharmaciens-inspecteurs, des pharmaciens-inspecteurs dirigeants et des fonctionnaires des différentes catégories de traitement telles que prévues par la loi du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’Etat.
+1.
 
-- A l’article 8, paragraphe 1er, l’alinéa 2 est remplacé comme suit: Le cadre du personnel comprend au sein de l’administration gouvernementale un directeur de l’Office national d’inclusion sociale et des fonctionnaires des différentes catégories de traitement telles que prévues par la loi du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’Etat.
+La direction de l’inspection générale de la sécurité sociale, désignée ci-après par «inspection générale», est confiée à un directeur qui en est le chef et qui a sous ses ordres le personnel visé au présent article ainsi qu’aux articles 2 et 3 suivants.
+
+Le cadre spécial de l’inspection générale comprend au sein de l’administration gouvernementale un directeur, des premiers inspecteurs de la sécurité sociale et des fonctionnaires des différentes catégories de traitement telles que prévues par la loi du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’Etat.
+
+2.
+
+Le cadre scientifique de l’inspection générale comprend pour les besoins de la cellule d’évaluation et d’orientation un médecin-directeur de l’inspection générale de la sécurité sociale-cellule d’évaluation et d’orientation, des médecins, des médecins dirigeants et des fonctionnaires des différentes catégories de traitement telles que prévues par la loi du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’Etat.
+
+- A l’article 5, paragraphe 1er, l’alinéa 2 est remplacé comme suit:
+
+Le cadre du personnel du contrôle médical comprend un médecin-directeur, un médecin-directeur adjoint, des médecins, des médecins dirigeants, des pharmaciens-inspecteurs, des pharmaciens-inspecteurs dirigeants et des fonctionnaires des différentes catégories de traitement telles que prévues par la loi du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’Etat.
+
+- A l’article 8, paragraphe 1er, l’alinéa 2 est remplacé comme suit:
+
+Le cadre du personnel comprend au sein de l’administration gouvernementale un directeur de l’Office national d’inclusion sociale et des fonctionnaires des différentes catégories de traitement telles que prévues par la loi du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’Etat.
 
 - L’article 10 est modifié comme suit:
 
-  - Au paragraphe 3, l’alinéa 1er est remplacé comme suit: Le cadre scientifique du conseil arbitral des assurances sociales comprend des médecins, des médecins dirigeants et des fonctionnaires des différentes catégories de traitement telles que prévues par la loi du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’Etat.
+  - Au paragraphe 3, l’alinéa 1er est remplacé comme suit:
 
-  - Le paragraphe 4 est remplacé comme suit: 4. Le cadre du personnel administratif du conseil arbitral des assurances sociales comprend des fonctionnaires des différentes catégories de traitement telles que prévues par la loi du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’Etat.
+Le cadre scientifique du conseil arbitral des assurances sociales comprend des médecins, des médecins dirigeants et des fonctionnaires des différentes catégories de traitement telles que prévues par la loi du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’Etat.
 
-  - Le paragraphe 5 est remplacé comme suit: 5. Le cadre du personnel administratif du conseil supérieur des assurances sociales comprend des fonctionnaires des différentes catégories de traitement telles que prévues par la loi du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’Etat.
+  - Le paragraphe 4 est remplacé comme suit:
+
+4.
+
+Le cadre du personnel administratif du conseil arbitral des assurances sociales comprend des fonctionnaires des différentes catégories de traitement telles que prévues par la loi du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’Etat.
+
+  - Le paragraphe 5 est remplacé comme suit:
+
+5.
+
+Le cadre du personnel administratif du conseil supérieur des assurances sociales comprend des fonctionnaires des différentes catégories de traitement telles que prévues par la loi du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’Etat.
 
 (23)
 
@@ -2546,9 +2591,17 @@ a) Le cadre du personnel comprend un directeur et des fonctionnaires des différ
 
 La loi modifiée du 31 mai 1999 portant création d’un corps de police grand-ducale et d’une inspection générale de la police est modifiée comme suit:
 
-- Les articles 19, 20, 21, 22 et 23 sont remplacés par un nouvel article 19 libellé comme suit: Art. 19. Le cadre du personnel comprend un directeur général, deux directeurs généraux adjoints et des fonctionnaires des différentes catégories de traitement telles que prévues par la loi du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’Etat. Le cadre comprend un maximum de soixante-dix fonctionnaires du cadre supérieur, de mille quatre cent quatre-vingts inspecteurs et de deux cent quatre-vingt-quinze brigadiers.
+- Les articles 19, 20, 21, 22 et 23 sont remplacés par un nouvel article 19 libellé comme suit:
 
-- Les articles 29 et 30 sont remplacés par un nouvel article 29 libellé comme suit: Art. 29. Le cadre administratif et technique comprend des fonctionnaires des différentes catégories de traitement telles que prévues par la loi du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’Etat.
+Art. 19.
+
+Le cadre du personnel comprend un directeur général, deux directeurs généraux adjoints et des fonctionnaires des différentes catégories de traitement telles que prévues par la loi du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’Etat. Le cadre comprend un maximum de soixante-dix fonctionnaires du cadre supérieur, de mille quatre cent quatre-vingts inspecteurs et de deux cent quatre-vingt-quinze brigadiers.
+
+- Les articles 29 et 30 sont remplacés par un nouvel article 29 libellé comme suit:
+
+Art. 29.
+
+Le cadre administratif et technique comprend des fonctionnaires des différentes catégories de traitement telles que prévues par la loi du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’Etat.
 
 (28)
 
@@ -2624,7 +2677,9 @@ Le cadre du personnel comprend des fonctionnaires des différentes catégories d
 
 La loi modifiée du 25 juin 2004 portant réorganisation des instituts culturels de l’Etat est modifiée comme suit:
 
-- A l’article 25, l’alinéa 1er est remplacé comme suit: Le cadre du personnel de chaque institut culturel de l’Etat comprend un directeur et des fonctionnaires des différentes catégories de traitement telles que prévues par la loi du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’Etat.
+- A l’article 25, l’alinéa 1er est remplacé comme suit:
+
+Le cadre du personnel de chaque institut culturel de l’Etat comprend un directeur et des fonctionnaires des différentes catégories de traitement telles que prévues par la loi du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’Etat.
 
 - L’article 26, l’article 28, paragraphe 1er et l’article 30, paragraphe 8, point b) sont supprimés.
 
@@ -2739,7 +2794,7 @@ Le cadre du personnel comprend un directeur, deux directeurs-adjoints et des fon
 
 (52)
 
-A l’article 30 de la loi modifiée du 12 mai 2009 portant création d’une Ecole de la 2eChance, le paragraphe 2 est remplacé comme suit:
+A l’article 30 de la loi modifiée du 12 mai 2009 portant création d’une Ecole de la 2 e Chance, le paragraphe 2 est remplacé comme suit:
 
 2.
 

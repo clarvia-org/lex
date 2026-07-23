@@ -146,11 +146,11 @@ vitesse nominale: la vitesse de fonctionnement normale déterminée par la conce
 
 - Les fabricants indiquent sur le jouet leur nom, leur raison sociale ou leur marque déposée et l’adresse à laquelle ils peuvent être contactés ou, lorsque cela n’est pas possible, sur son emballage ou dans un document accompagnant le jouet. L’adresse indique un seul endroit où le fabricant peut être contacté.
 
-- Les fabricants veillent à ce que le jouet soit accompagné d’instructions et d’informations de sécurité rédigées dans au moins une des trois langues administratives désignées dans la loi du 24 février 1984 .
+- Les fabricants veillent à ce que le jouet soit accompagné d’instructions et d’informations de sécurité rédigées dans au moins une des trois langues administratives désignées dans la loi du 24 février 1984.
 
 - Les fabricants qui considèrent, ou ont des raisons de croire, qu’un jouet qu’ils ont mis sur le marché n’est pas conforme à la législation communautaire d’harmonisation applicable, prennent immédiatement les mesures correctives nécessaires pour le mettre en conformité, le retirer ou le rappeler, si nécessaire. En outre, si le jouet présente un risque, les fabricants en informent immédiatement l’Institut et les autorités nationales compétentes des Etats membres dans lesquels ils ont mis le jouet à disposition, en fournissant des précisions, notamment, sur la non-conformité et toute mesure corrective adoptée.
 
-- A la demande motivée de l’Institut, les fabricants lui communiquent toutes les informations et tous les documents nécessaires pour démontrer la conformité du jouet, en anglais ou dans une des trois langues administratives désignées dans la loi du 24 février 1984 . Ils coopèrent, à la demande de l’Institut, à toute mesure prise pour éliminer les risques présentés par des jouets qu’ils ont mis sur le marché.
+- A la demande motivée de l’Institut, les fabricants lui communiquent toutes les informations et tous les documents nécessaires pour démontrer la conformité du jouet, en anglais ou dans une des trois langues administratives désignées dans la loi du 24 février 1984. Ils coopèrent, à la demande de l’Institut, à toute mesure prise pour éliminer les risques présentés par des jouets qu’ils ont mis sur le marché.
 
 <a id="art-5"></a>
 ## Art. 5.
@@ -159,7 +159,7 @@ vitesse nominale: la vitesse de fonctionnement normale déterminée par la conce
 
 - Un fabricant peut désigner, par mandat écrit, un mandataire.
 
-- Les obligations prévues à l’article 4, paragraphe 1 er , et l’établissement de la documentation technique ne peuvent être confiés au mandataire.
+- Les obligations prévues à l’article 4, paragraphe 1er, et l’établissement de la documentation technique ne peuvent être confiés au mandataire.
 
 - Le mandataire exécute les tâches spécifiées dans le mandat reçu du fabricant. Le mandat autorise le mandataire, au minimum:
 
@@ -180,7 +180,7 @@ vitesse nominale: la vitesse de fonctionnement normale déterminée par la conce
 
 - Les importateurs indiquent leur nom, leur raison sociale ou leur marque déposée et l’adresse à laquelle ils peuvent être contactés sur le jouet ou, lorsque cela n’est pas possible, sur son emballage ou dans un document accompagnant le jouet.
 
-- Les importateurs veillent à ce que le jouet soit accompagné d’instructions et d’informations de sécurité dans au moins une des trois langues administratives désignées dans la loi du 24 février 1984 .
+- Les importateurs veillent à ce que le jouet soit accompagné d’instructions et d’informations de sécurité dans au moins une des trois langues administratives désignées dans la loi du 24 février 1984.
 
 - Tant qu’un jouet est sous leur responsabilité, les importateurs s’assurent que les conditions de stockage ou de transport ne compromettent pas sa conformité avec les exigences visées à l’article 10 et à l’annexe II de la directive 2009/48/CE du Parlement européen et du Conseil relative à la sécurité des jouets telle que modifiée par la suite.
 
@@ -190,7 +190,7 @@ vitesse nominale: la vitesse de fonctionnement normale déterminée par la conce
 
 - Pendant une durée de dix ans à partir de la mise du jouet sur le marché, les importateurs tiennent une copie de la déclaration «CE» de conformité à la disposition de l’Institut et s’assurent que la documentation technique peut être fournie à l’Institut, sur demande.
 
-- A la demande motivée de l’Institut, les importateurs lui communiquent toutes les informations et tous les documents nécessaires pour démontrer la conformité du jouet, en anglais ou dans une des trois langues administratives désignées dans la loi du 24 février 1984 . Ils coopèrent, à la demande de l’Institut, à toute mesure adoptée en vue d’éliminer les risques présentés par des jouets qu’ils ont mis sur le marché.
+- A la demande motivée de l’Institut, les importateurs lui communiquent toutes les informations et tous les documents nécessaires pour démontrer la conformité du jouet, en anglais ou dans une des trois langues administratives désignées dans la loi du 24 février 1984. Ils coopèrent, à la demande de l’Institut, à toute mesure adoptée en vue d’éliminer les risques présentés par des jouets qu’ils ont mis sur le marché.
 
 <a id="art-7"></a>
 ## Art. 7.
@@ -199,13 +199,13 @@ vitesse nominale: la vitesse de fonctionnement normale déterminée par la conce
 
 - Lorsqu’ils mettent un jouet à disposition sur le marché, les distributeurs agissent avec la diligence requise en ce qui concerne les exigences applicables.
 
-- Avant de mettre un jouet à disposition sur le marché, les distributeurs vérifient qu’il porte le marquage ou les marquages de conformité requis, qu’il est accompagné des documents requis et d’instructions et d’informations de sécurité dans au moins une des trois langues administratives désignées dans la loi du 24 février 1984 , et que le fabricant et l’importateur ont respecté les exigences visées respectivement à l’article 4, paragraphes 5 et 6, et à l’article 6, paragraphe 3. Lorsqu’un distributeur considère, ou a des raisons de croire, qu’un jouet n’est pas conforme aux exigences essentielles de sécurité visées à l’article 10 et à l’annexe II de la directive 2009/48/CE du Parlement européen et du Conseil relative à la sécurité des jouets telle que modifiée par la suite, il ne met le jouet à disposition sur le marché qu’après que ce jouet a été mis en conformité avec ces exigences. En outre, si le produit présente un risque, le distributeur en informe le fabricant ou l’importateur ainsi que l’Institut.
+- Avant de mettre un jouet à disposition sur le marché, les distributeurs vérifient qu’il porte le marquage ou les marquages de conformité requis, qu’il est accompagné des documents requis et d’instructions et d’informations de sécurité dans au moins une des trois langues administratives désignées dans la loi du 24 février 1984, et que le fabricant et l’importateur ont respecté les exigences visées respectivement à l’article 4, paragraphes 5 et 6, et à l’article 6, paragraphe 3. Lorsqu’un distributeur considère, ou a des raisons de croire, qu’un jouet n’est pas conforme aux exigences essentielles de sécurité visées à l’article 10 et à l’annexe II de la directive 2009/48/CE du Parlement européen et du Conseil relative à la sécurité des jouets telle que modifiée par la suite, il ne met le jouet à disposition sur le marché qu’après que ce jouet a été mis en conformité avec ces exigences. En outre, si le produit présente un risque, le distributeur en informe le fabricant ou l’importateur ainsi que l’Institut.
 
 - Tant qu’un jouet est sous leur responsabilité, les distributeurs s’assurent que les conditions de stockage ou de transport ne compromettent pas sa conformité aux exigences visées à l’article 10 et à l’annexe II de la directive 2009/48/CE du Parlement européen et du Conseil relative à la sécurité des jouets telle que modifiée par la suite.
 
 - Les distributeurs qui considèrent, ou ont des raisons de croire, qu’un jouet qu’ils ont mis à disposition sur le marché n’est pas conforme à la législation communautaire d’harmonisation applicable, veillent à ce que les mesures correctives nécessaires pour le mettre en conformité, le retirer ou le rappeler, si nécessaire, soient prises. En outre, si le jouet présente un risque, les distributeurs en informent immédiatement l’Institut et les autres autorités nationales compétentes des Etats membres dans lesquels ils ont mis le jouet à disposition, en fournissant des précisions, notamment, sur la non-conformité et sur toute mesure corrective adoptée.
 
-- A la demande motivée de l’Institut, les distributeurs lui communiquent toutes les informations et tous les documents nécessaires pour démontrer la conformité du jouet, en anglais ou dans une des trois langues administratives désignées dans la loi du 24 février 1984 . Ils coopèrent, à la demande de l’Institut, à toute mesure adoptée en vue d’éliminer les risques présentés par des jouets qu’ils ont mis sur le marché.
+- A la demande motivée de l’Institut, les distributeurs lui communiquent toutes les informations et tous les documents nécessaires pour démontrer la conformité du jouet, en anglais ou dans une des trois langues administratives désignées dans la loi du 24 février 1984. Ils coopèrent, à la demande de l’Institut, à toute mesure adoptée en vue d’éliminer les risques présentés par des jouets qu’ils ont mis sur le marché.
 
 <a id="art-8"></a>
 ## Art. 8.
@@ -249,7 +249,7 @@ Les opérateurs économiques doivent être en mesure de fournir les informations
 
 - Le fabricant indique les avertissements de manière clairement visible et facilement lisible, aisément compréhensible et précise sur le jouet, sur une étiquette apposée ou sur l’emballage et, le cas échéant, dans les instructions d’utilisation qui accompagnent le jouet. Les petits jouets vendus sans emballage portent directement le marquage des avertissements appropriés. Les avertissements sont précédés du mot «attention». Les avertissements qui déterminent la décision d’achat du jouet, par exemple ceux spécifiant l’âge minimum et l’âge maximum des utilisateurs, et les autres avertissements applicables visés à l’annexe V de la directive 2009/48/CE du Parlement européen et du Conseil relative à la sécurité des jouets telle que modifiée par les actes de la Commission européenne pris en conformité de l’article 46 de cette directive figurent sur l’emballage de vente ou figurent de manière clairement visible pour le consommateur avant l’achat, y compris lorsque l’achat est effectué en ligne.
 
-- Conformément à l’article 4, paragraphe 7 les avertissements et consignes de sécurité sont libellés dans aux moins une des trois langues administratives désignées dans la loi du 24 février 1984 .
+- Conformément à l’article 4, paragraphe 7 les avertissements et consignes de sécurité sont libellés dans aux moins une des trois langues administratives désignées dans la loi du 24 février 1984.
 
 <a id="art-12"></a>
 ## Art. 12.
@@ -272,7 +272,7 @@ Les jouets conformes à des normes harmonisées ou à des parties de normes harm
 
 - La déclaration «CE» de conformité atteste que le respect des exigences visées à l’article 10 et à l’annexe II de la directive 2009/48/CE du Parlement européen et du Conseil relative à la sécurité des jouets telle que modifiée par la suite a été démontré.
 
-- La déclaration «CE» de conformité contient au minimum les éléments précisés à l’annexe III et dans les modules pertinents de l’annexe II de la décision n° 768/2008/CE et est mise à jour en permanence. Elle est établie selon le modèle figurant à l’annexe III de la présente loi. Elle est traduite en anglais ou dans une des trois langues administratives désignées dans la loi du 24 février 1984 .
+- La déclaration «CE» de conformité contient au minimum les éléments précisés à l’annexe III et dans les modules pertinents de l’annexe II de la décision n° 768/2008/CE et est mise à jour en permanence. Elle est établie selon le modèle figurant à l’annexe III de la présente loi. Elle est traduite en anglais ou dans une des trois langues administratives désignées dans la loi du 24 février 1984.
 
 - En établissant la déclaration «CE» de conformité, le fabricant assume la responsabilité de la conformité du jouet.
 
@@ -283,7 +283,7 @@ Les jouets conformes à des normes harmonisées ou à des parties de normes harm
 
 - Les jouets mis à disposition sur le marché portent le marquage «CE».
 
-- Le marquage «CE» obéit aux principes généraux énoncés à l’article 30 du règlement (CE) n° 765/2008 .
+- Le marquage «CE» obéit aux principes généraux énoncés à l’article 30 du règlement (CE) n° 765/2008.
 
 - Les jouets portant le marquage «CE» sont présumés conformes à la présente loi.
 
@@ -314,11 +314,11 @@ Avant de mettre un jouet sur le marché, les fabricants procèdent à une analys
 
 - Avant de mettre un jouet sur le marché, les fabricants appliquent les procédures d’évaluation de la conformité visées aux paragraphes 2 et 3, afin de démontrer que le jouet satisfait aux exigences visées à l’article 10 et à l’annexe II de la directive 2009/48/CE du Parlement européen et du Conseil relative à la sécurité des jouets telle que modifiée par la suite.
 
-- Si le fabricant a appliqué les normes harmonisées, dont le numéro de référence a été publié au Journal officiel de l’Union européenne , couvrant toutes les exigences de sécurité pertinentes pour le jouet, il utilise la procédure de contrôle de production interne figurant dans le module A de l’annexe II de la décision n° 768/2008/CE .
+- Si le fabricant a appliqué les normes harmonisées, dont le numéro de référence a été publié au Journal officiel de l’Union européenne, couvrant toutes les exigences de sécurité pertinentes pour le jouet, il utilise la procédure de contrôle de production interne figurant dans le module A de l’annexe II de la décision n° 768/2008/CE.
 
-- Le jouet est soumis à un examen CE de type visé à l’article 19, combiné à la procédure «Conformité au type» présentée dans le module C de l’annexe II de la décision n° 768/2008/CE , dans les cas suivants:
+- Le jouet est soumis à un examen CE de type visé à l’article 19, combiné à la procédure «Conformité au type» présentée dans le module C de l’annexe II de la décision n° 768/2008/CE, dans les cas suivants:
 
-  - lorsque les normes harmonisées, dont le numéro de référence a été publié au Journal officiel de l’Union européenne , couvrant toutes les exigences de sécurité requises pour le jouet, n’existent pas;
+  - lorsque les normes harmonisées, dont le numéro de référence a été publié au Journal officiel de l’Union européenne, couvrant toutes les exigences de sécurité requises pour le jouet, n’existent pas;
 
   - lorsque les normes harmonisées visées au point a) existent, mais que le fabricant ne les a pas appliquées ou seulement en partie;
 
@@ -331,7 +331,7 @@ Avant de mettre un jouet sur le marché, les fabricants procèdent à une analys
 
 - Examen CE de type
 
-- Une demande d’examen CE de type, la réalisation de cet examen et l’émission d’une attestation d’examen CE de type sont effectuées conformément aux procédures figurant dans le module B, à l’annexe II de la décision n° 768/2008/CE . L’examen CE de type est effectué de la manière décrite au paragraphe 2, second tiret, de ce module. Outre ces dispositions, les exigences visées aux paragraphes 2 à 5 du présent article s’appliquent.
+- Une demande d’examen CE de type, la réalisation de cet examen et l’émission d’une attestation d’examen CE de type sont effectuées conformément aux procédures figurant dans le module B, à l’annexe II de la décision n° 768/2008/CE. L’examen CE de type est effectué de la manière décrite au paragraphe 2, second tiret, de ce module. Outre ces dispositions, les exigences visées aux paragraphes 2 à 5 du présent article s’appliquent.
 
 - La demande d’examen CE de type comprend une description du jouet et une indication du lieu de fabrication, y compris l’adresse.
 
@@ -350,9 +350,9 @@ Avant de mettre un jouet sur le marché, les fabricants procèdent à une analys
 
 - La documentation technique est rédigée dans une des langues officielles de l’Union européenne, sous réserve de l’exigence énoncée à l’article 19, paragraphe 5.
 
-- Sur demande motivée de l’Institut, le fabricant fournit une traduction des parties pertinentes de la documentation technique en anglais ou dans une des trois langues administratives désignées dans la loi du 24 février 1984 . Lorsque l’Institut demande à un fabricant la documentation technique ou une traduction de certaines de ses parties, il peut lui fixer un délai de 30 jours, sauf si un délai plus court est justifié en raison d’un risque sérieux et immédiat.
+- Sur demande motivée de l’Institut, le fabricant fournit une traduction des parties pertinentes de la documentation technique en anglais ou dans une des trois langues administratives désignées dans la loi du 24 février 1984. Lorsque l’Institut demande à un fabricant la documentation technique ou une traduction de certaines de ses parties, il peut lui fixer un délai de 30 jours, sauf si un délai plus court est justifié en raison d’un risque sérieux et immédiat.
 
-- Si le fabricant ne respecte pas les obligations prévues aux paragraphes 1 er , 2 et 3, l’Institut peut exiger de ce fabricant qu’un test soit effectué par un organisme notifié, aux frais de ce fabricant, dans un délai précis afin de vérifier le respect des normes harmonisées et des exigences essentielles de sécurité.
+- Si le fabricant ne respecte pas les obligations prévues aux paragraphes 1er, 2 et 3, l’Institut peut exiger de ce fabricant qu’un test soit effectué par un organisme notifié, aux frais de ce fabricant, dans un délai précis afin de vérifier le respect des normes harmonisées et des exigences essentielles de sécurité.
 
 #### Chapitre 5. Notification des organismes d’évaluation de la conformité
 
@@ -445,7 +445,7 @@ Lorsqu’un organisme d’évaluation de la conformité démontre sa conformité
 
 - Un organisme d’évaluation de la conformité soumet une demande de notification au titre de la présente loi à l’Institut.
 
-- La demande visée au paragraphe 1 er est accompagnée d’une description des activités d’évaluation de la conformité, du ou des modules d’évaluation de la conformité et du ou des jouets pour lesquels cet organisme s’estime compétent, ainsi que d’un certificat d’accréditation, délivré par un organisme national d’accréditation attestant que l’organisme d’évaluation de la conformité remplit les exigences définies à l’article 24.
+- La demande visée au paragraphe 1er est accompagnée d’une description des activités d’évaluation de la conformité, du ou des modules d’évaluation de la conformité et du ou des jouets pour lesquels cet organisme s’estime compétent, ainsi que d’un certificat d’accréditation, délivré par un organisme national d’accréditation attestant que l’organisme d’évaluation de la conformité remplit les exigences définies à l’article 24.
 
 <a id="art-28"></a>
 ## Art. 28.
@@ -555,7 +555,7 @@ Lorsque l’Institut prend des mesures prévues dans la présente loi, il tient 
 
 - L’opérateur économique concerné s’assure que les mesures correctives appropriées sont prises vis-à-vis des jouets que cet opérateur a mis à disposition sur le marché communautaire.
 
-- Lorsque l’opérateur économique concerné ne prend pas des mesures correctives adéquates dans le délai visé au paragraphe 1 er , l’Institut adopte toutes les mesures provisoires appropriées pour interdire ou restreindre la mise à disposition du jouet sur leur marché national, pour le retirer de ce marché ou pour le rappeler. L’Institut en informe immédiatement la Commission européenne et les autres Etats membres.
+- Lorsque l’opérateur économique concerné ne prend pas des mesures correctives adéquates dans le délai visé au paragraphe 1er, l’Institut adopte toutes les mesures provisoires appropriées pour interdire ou restreindre la mise à disposition du jouet sur leur marché national, pour le retirer de ce marché ou pour le rappeler. L’Institut en informe immédiatement la Commission européenne et les autres Etats membres.
 
 - Les informations visées au paragraphe 4 contiennent toutes les précisions disponibles, notamment les données nécessaires pour identifier le jouet non conforme, son origine, la nature de la non-conformité présumée et du risque encouru, la nature et la durée des mesures nationales adoptées ainsi que les arguments soulevés par l’opérateur économique concerné. En particulier, l’Institut indique si la non-conformité est liée:
 
@@ -586,7 +586,7 @@ Non-conformité formelle
 
   - la documentation technique est indisponible ou incomplète.
 
-- Si la non-conformité visée au paragraphe 1 er persiste, l’Institut prend les mesures appropriées pour restreindre ou interdire la mise à disposition du jouet sur le marché, ou pour assurer son rappel ou son retrait du marché.
+- Si la non-conformité visée au paragraphe 1er persiste, l’Institut prend les mesures appropriées pour restreindre ou interdire la mise à disposition du jouet sur le marché, ou pour assurer son rappel ou son retrait du marché.
 
 #### Chapitre 7. Dispositions finales
 

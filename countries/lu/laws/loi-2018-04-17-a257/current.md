@@ -73,11 +73,11 @@ Les pouvoirs des autorités compétentes incluent le droit :
 
 - d’accéder à tout document et à toute autre donnée, sous quelque forme que ce soit, et d’en recevoir ou d’en prendre copie ;
 
-- de solliciter ou d’exiger des informations de toute personne intervenant dans la fourniture d'un indice de référence et contribuant à sa définition, y compris de tout prestataire de services auprès duquel les fonctions, services ou activités pour la fourniture d'un indice de référence ont été externalisés conformément à l'article 10 du règlement (UE) 2016/1011 , ainsi que leurs mandants, et, si nécessaire, de convoquer cette personne et de l'interroger afin d'obtenir des informations ;
+- de solliciter ou d’exiger des informations de toute personne intervenant dans la fourniture d'un indice de référence et contribuant à sa définition, y compris de tout prestataire de services auprès duquel les fonctions, services ou activités pour la fourniture d'un indice de référence ont été externalisés conformément à l'article 10 du règlement (UE) 2016/1011, ainsi que leurs mandants, et, si nécessaire, de convoquer cette personne et de l'interroger afin d'obtenir des informations ;
 
 - pour les indices de référence de matières premières, de demander des informations aux contributeurs opérant sur les marchés au comptant concernés, le cas échéant, selon des formats et des rapports de transactions standard, et d’accéder directement aux systèmes des opérateurs ;
 
-- de procéder à des inspections sur place, y compris de saisir tout document, fichier électronique ou autres données, sous quelque forme que ce soit, lorsqu'il existe des motifs raisonnables de suspecter que des documents et autres données liés à l'objet de l'inspection ou de l'enquête peuvent se révéler importants pour prouver une violation du règlement (UE) 2016/1011 , auprès des personnes soumises à leur surveillance respective, et, sous réserve de l’autorisation judiciaire prévue à l’article 3, auprès de toute autre personne, en d’autres lieux que le domicile privé des personnes physiques ;
+- de procéder à des inspections sur place, y compris de saisir tout document, fichier électronique ou autres données, sous quelque forme que ce soit, lorsqu'il existe des motifs raisonnables de suspecter que des documents et autres données liés à l'objet de l'inspection ou de l'enquête peuvent se révéler importants pour prouver une violation du règlement (UE) 2016/1011, auprès des personnes soumises à leur surveillance respective, et, sous réserve de l’autorisation judiciaire prévue à l’article 3, auprès de toute autre personne, en d’autres lieux que le domicile privé des personnes physiques ;
 
 - d’exiger les enregistrements existants de conversations téléphoniques, de communications électroniques ou de données relatives au trafic détenus par des entités surveillées ;
 
@@ -89,7 +89,7 @@ Les pouvoirs des autorités compétentes incluent le droit :
 
 - de prendre toutes les mesures nécessaires pour garantir que le public dispose d'une information correcte sur la fourniture d'un indice de référence, y compris en exigeant de l'administrateur concerné ou de la personne qui a publié ou diffusé l'indice de référence, ou des deux, qu'ils publient un rectificatif relatif à des contributions antérieures audit indice ou des valeurs antérieures de l'indice de référence ;
 
-- de publier une déclaration publique telle que visée à l’article 23 ter , paragraphe 2, lettres a) et c), et à l’article 23 quater , paragraphe 1 er , lettres a) et c) du règlement (UE) 2016/1011 .
+- de publier une déclaration publique telle que visée à l’article 23ter, paragraphe 2, lettres a) et c), et à l’article 23quater, paragraphe 1er, lettres a) et c) du règlement (UE) 2016/1011.
 
 <a id="art-3"></a>
 ## Art. 3.
@@ -135,7 +135,7 @@ Les paragraphes 1er à 6 s’appliquent également dans le cadre des inspections
 
 Les autorités compétentes, dans le respect de leurs compétences respectives, peuvent infliger les sanctions administratives et autres mesures administratives visées au paragraphe 2 :
 
-- en cas de violation des articles 4 à 16, 19 bis , paragraphes 1 er et 3, 19 ter , 21, 23 à 29 et 34 du règlement (UE) 2016/1011 lorsqu'ils s'appliquent ; et
+- en cas de violation des articles 4 à 16, 19bis, paragraphes 1er et 3, 19ter, 21, 23 à 29 et 34 du règlement (UE) 2016/1011 lorsqu'ils s'appliquent ; et
 
 - contre ceux qui font obstacle à l’exercice de leurs pouvoirs de surveillance et d’enquête, qui ne donnent pas suite à leurs injonctions prononcées en vertu du paragraphe 2, qui leur auront sciemment donné des informations inexactes ou incomplètes suite à des demandes basées sur l’article 2, ou qui ne se conforment pas à leurs exigences basées sur l’article 2.
 
@@ -157,15 +157,15 @@ Pour les cas visés au paragraphe 1er, les autorités compétentes peuvent prono
 
 - dans le cas d'une personne physique, des sanctions pécuniaires administratives d'un montant maximal de :
 
-  - 500.000 euros pour les violations des articles 4 à 10, de l'article 11, paragraphe 1 er , lettres a), b), c) et e), et paragraphes 2 et 3, et des articles 12 à 16, 19 bis , paragraphes 1 er et 3, 19 ter , 21, 23 à 29 et 34 du règlement (UE) 2016/1011 ; ou
+  - 500.000 euros pour les violations des articles 4 à 10, de l'article 11, paragraphe 1er, lettres a), b), c) et e), et paragraphes 2 et 3, et des articles 12 à 16, 19bis, paragraphes 1er et 3, 19ter, 21, 23 à 29 et 34 du règlement (UE) 2016/1011 ; ou
 
-  - 100.000 euros pour les cas visés au paragraphe 1 er , point 2, ou pour les violations de l'article 11, paragraphe 1 er , lettre d), ou paragraphe 4, du règlement (UE) 2016/1011 ;
+  - 100.000 euros pour les cas visés au paragraphe 1er, point 2, ou pour les violations de l'article 11, paragraphe 1er, lettre d), ou paragraphe 4, du règlement (UE) 2016/1011 ;
 
 - dans le cas d'une personne morale, des sanctions pécuniaires administratives d'un montant maximal de : Aux fins des lettres a) et b), lorsque la personne morale est une entreprise mère ou une filiale d'une entreprise mère qui est tenue d'établir des comptes consolidés conformément à la directive 2013/34/UE du Parlement européen et du Conseil du 26 juin 2013 relative aux états financiers annuels, aux états financiers consolidés et aux rapports y afférents de certaines formes d'entreprises, modifiant la directive 2006/43/CE du Parlement européen et du Conseil et abrogeant les directives 78/660/CEE et 83/349/CEE du Conseil, le chiffre d'affaires annuel total à prendre en considération est le chiffre d'affaires annuel total ou le type de revenu correspondant selon la directive 86/635/CEE du Conseil du 8 décembre 1986 concernant les comptes annuels et les comptes consolidés des banques et autres établissements financiers pour les banques ou la directive 91/674/CEE du Conseil du 19 décembre 1991 concernant les comptes annuels et les comptes consolidés des entreprises d'assurance pour les entreprises d'assurance, tel qu'il ressort des derniers comptes consolidés disponibles approuvés par l'organe de direction de l'entreprise mère ultime ou, si la personne est une association, dix pour cent des chiffres d'affaires cumulés de ses membres.
 
-  - 1.000.000 euros ou de dix pour cent de son chiffre d'affaires annuel total tel qu'il ressort des derniers comptes disponibles approuvés par l'organe de direction, le montant le plus élevé étant retenu, pour les violations des articles 4 à 10, de l'article 11, paragraphe 1 er , lettres a), b), c) et e), et paragraphes 2 et 3, et des articles 12 à 16, 19 bis , paragraphes 1 er et 3, 19 ter , 21, 23 à 29 et 34 du règlement (UE) 2016/1011 ; ou
+  - 1.000.000 euros ou de dix pour cent de son chiffre d'affaires annuel total tel qu'il ressort des derniers comptes disponibles approuvés par l'organe de direction, le montant le plus élevé étant retenu, pour les violations des articles 4 à 10, de l'article 11, paragraphe 1er, lettres a), b), c) et e), et paragraphes 2 et 3, et des articles 12 à 16, 19bis, paragraphes 1er et 3, 19ter, 21, 23 à 29 et 34 du règlement (UE) 2016/1011 ; ou
 
-  - 250.000 euros ou de deux pour cent de son chiffre d'affaires annuel total tel qu'il ressort des derniers comptes disponibles approuvés par l'organe de direction, le montant le plus élevé étant retenu, pour les cas visés au paragraphe 1 er , point 2, ou pour les violations de l'article 11, paragraphe 1 er , lettre d), ou paragraphe 4, du règlement (UE) 2016/1011 .
+  - 250.000 euros ou de deux pour cent de son chiffre d'affaires annuel total tel qu'il ressort des derniers comptes disponibles approuvés par l'organe de direction, le montant le plus élevé étant retenu, pour les cas visés au paragraphe 1er, point 2, ou pour les violations de l'article 11, paragraphe 1er, lettre d), ou paragraphe 4, du règlement (UE) 2016/1011.
 
 (3)
 
@@ -212,7 +212,7 @@ Les données à caractère personnel contenues dans les publications visées à 
 
 À l’article L.226-10, alinéa 2, du Code de la consommation, le mot et à la fin du point 14 est supprimé, le point final à la fin du point 15 est remplacé par ; et, et il est ajouté un nouveau point 16 libellé comme suit :
 
-- lorsque des contrats de crédit immobilier font référence à un indice de référence au sens de l'article 3, paragraphe 1 er , point 3, du règlement (UE) 2016/1011 , les noms des indices de référence et de leurs administrateurs, ainsi que leurs éventuelles implications pour le consommateur. ».
+- lorsque des contrats de crédit immobilier font référence à un indice de référence au sens de l'article 3, paragraphe 1er, point 3, du règlement (UE) 2016/1011, les noms des indices de référence et de leurs administrateurs, ainsi que leurs éventuelles implications pour le consommateur. ».
 
 <a id="art-8"></a>
 ## Art. 8.
@@ -228,7 +228,7 @@ L'article L.226-10, alinéa 2, point 16, ne s'applique pas aux contrats de créd
 <a id="art-9"></a>
 ## Art. 9.
 
-À l’article 2 de la loi modifiée du 23 décembre 1998 portant création d’une commission de surveillance du secteur financier, il est inséré un nouveau paragraphe 2bislibellé comme suit :
+À l’article 2 de la loi modifiée du 23 décembre 1998 portant création d’une commission de surveillance du secteur financier, il est inséré un nouveau paragraphe 2bis libellé comme suit :
 
 « (2bis)
 

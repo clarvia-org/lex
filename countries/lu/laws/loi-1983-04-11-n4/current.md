@@ -89,7 +89,7 @@ Par dérogation aux articles 3 et 4, le ministre ayant la Santé dans ses attrib
 
 - en cas de menace transfrontière grave pour la santé au sens de l’article 3 du règlement (UE) 2022/2371 du Parlement européen et du Conseil du 23 novembre 2022 concernant les menaces transfrontières graves pour la santé et abrogeant la décision n° 1082/2013/UE ;
 
-- en cas d’urgence de santé publique de portée internationale au sens de l’article 1 er , alinéa 1 er , du règlement sanitaire international de 2005 ;
+- en cas d’urgence de santé publique de portée internationale au sens de l’article 1er, alinéa 1er, du règlement sanitaire international de 2005 ;
 
 - en prévention ou en réponse à la propagation suspectée ou confirmée d’agents pathogènes, de toxines, d’agents chimiques ou de radiations nucléaires, qui sont susceptibles de causer des dommages ;
 

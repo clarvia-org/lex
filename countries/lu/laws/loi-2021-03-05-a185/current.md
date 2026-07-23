@@ -39,7 +39,7 @@ Aux fins de la présente loi, on entend par :
 
 - « fournisseur de services d’intermédiation en ligne », le fournisseur tel que défini à l’article 2, point 3, du règlement (UE) n° 2019/1150 ;
 
-- « utilisateur de site internet d’entreprise », l’utilisateur tel que défini à l’article 2, point 7, du règlement (UE) n° 2019/1150 .
+- « utilisateur de site internet d’entreprise », l’utilisateur tel que défini à l’article 2, point 7, du règlement (UE) n° 2019/1150.
 
 <a id="art-2"></a>
 ## Art. 2.

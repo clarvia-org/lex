@@ -70,7 +70,7 @@ Les dispositions suivantes sont applicables sur les autoroutes et les routes pou
 
 - Aux points-frontière, les conducteurs de camions doivent, le cas échéant, suivre la direction indiquée par le signal en place. Cette disposition est indiquée par le signal D,1a portant l’indication de la ou les directions à suivre et complété par un panneau additionnel du modèle 1 portant le symbole du véhicule automoteur destiné au transport de choses avec l’inscription de « 3,5t » sur la silhouette du véhicule.
 
-- Sur les bretelles d’accès et les aires de service, les conducteurs qui circulent sur la voie d’accélération doivent céder le passage aux conducteurs qui circulent sur les voies de circulation de l’autoroute, conformément à l’article 156 de l’ arrêté grand-ducal modifié précité du 23 novembre 1955 . Cette disposition est indiquée par le signal B,1.
+- Sur les bretelles d’accès et les aires de service, les conducteurs qui circulent sur la voie d’accélération doivent céder le passage aux conducteurs qui circulent sur les voies de circulation de l’autoroute, conformément à l’article 156 de l’arrêté grand-ducal modifié précité du 23 novembre 1955. Cette disposition est indiquée par le signal B,1.
 
 - Sur les bretelles d’accès, les dispositions suivantes sont applicables conformément au plan de signalisation qui est annexé au présent règlement comme annexe 1 et qui en fait partie intégrante : Ces dispositions sont indiquées respectivement par les signaux D,2, E,11a, B,1 et D,1a portant l’indication de la ou les directions à suivre.
 
@@ -84,7 +84,7 @@ Les dispositions suivantes sont applicables sur les autoroutes et les routes pou
 
   - lorsque deux bretelles d’accès se rejoignent en amont de la chaussée de l’autoroute, les conducteurs qui circulent sur ces bretelles doivent suivre les directions indiquées par les signaux en place.
 
-- La circulation est réglée par des signaux colorés lumineux conformément à l’article 109 de l’ arrêté grand-ducal modifié précité sur les bretelles d’accès suivantes :
+- La circulation est réglée par des signaux colorés lumineux conformément à l’article 109 de l’arrêté grand-ducal modifié précité sur les bretelles d’accès suivantes :
 
   - sur l’autoroute A6, échangeur Windhof, en direction de Luxembourg-ville ;
 
@@ -159,7 +159,7 @@ Sur les aires de service et la voirie reliant la voirie étatique aux aires de s
 
   - Les conducteurs qui circulent sur la chaussée du giratoire doivent marquer l’arrêt et céder le passage aux conducteurs qui circulent sur les chaussées aboutissant dans le giratoire. Cette disposition est indiquée par le signal B,2a.
 
-- Aux endroits indiqués par le signal E,11a et par un marquage au sol conformément à l’article 110 de l’ arrêté grand-ducal modifié précité , un passage pour piétons est aménagé.
+- Aux endroits indiqués par le signal E,11a et par un marquage au sol conformément à l’article 110 de l’arrêté grand-ducal modifié précité, un passage pour piétons est aménagé.
 
 - Les zones de parking pour camions définies dans l’article 4 et indiquées sur les plans annexés au présent règlement comme annexe 2 sont considérées comme parkings réservés aux camions, le cas échéant, à une ou plusieurs catégories de véhicules. La durée maximale de parcage est limitée à 45 heures. Cette disposition est indiquée par le signal E,23 complété par un panneau additionnel adapté.
 

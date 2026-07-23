@@ -44,9 +44,9 @@ La demande d’autorisation comprend:
 
   - pour les personnes morales: l’indication de la dénomination sociale, de la forme sociale et du siège social du demandeur et de l’entreprise responsable de la pulvérisation aérienne;
 
-- une copie du certificat prévu à l’article 9, paragraphe 1 er , point 4, de la loi du 19 décembre 2014 relative aux produits phytopharmaceutiques;
+- une copie du certificat prévu à l’article 9, paragraphe 1er, point 4, de la loi du 19 décembre 2014 relative aux produits phytopharmaceutiques;
 
-- une copie du certificat prévu à l’article 9, paragraphe 1 er , point 3, de la loi précitée du 19 décembre 2014 ;
+- une copie du certificat prévu à l’article 9, paragraphe 1er, point 3, de la loi précitée du 19 décembre 2014;
 
 - un extrait d’une carte topographique récente permettant d’identifier l’emplacement du terrain d’atterrissage de l’aéronef;
 
@@ -92,7 +92,7 @@ La réalisation de la pulvérisation aérienne est interdite si la vitesse du ve
 
 L’opérateur doit respecter une distance de sécurité de 20 mètres vis-à-vis des lieux suivants :
 
-- zones visées à l’article 9, paragraphe 1 er , point 5 et à l’article 11, paragraphe 2, point 1, de la loi précitée du 19 décembre 2014 ;
+- zones visées à l’article 9, paragraphe 1er, point 5 et à l’article 11, paragraphe 2, point 1, de la loi précitée du 19 décembre 2014 ;
 
 - parcs d'élevage de gibier ;
 

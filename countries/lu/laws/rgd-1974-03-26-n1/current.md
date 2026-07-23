@@ -227,11 +227,11 @@ Sont considérés comme stupéfiants au sens de la loi du 19 février 1973 conce
 
 - N,N-diéthyl-2-[[4-(1-méthyléthoxy)phényl]méthyl]-5-nitro-1H-benzimidazol-1-éthanamine (isotonitazène)
 
-- N -déséthyl isotonitazène
+- N-déséthyl isotonitazène
 
-- N -pyrrolidino protonitazène (protonitazépyne)
+- N-pyrrolidino protonitazène (protonitazépyne)
 
-- N -pyrrolidino métonitazène (métonitazépyne)
+- N-pyrrolidino métonitazène (métonitazépyne)
 
 - Opium.
 
@@ -375,7 +375,7 @@ Ne sont pas soumises aux dispositions du règlement grand-ducal du 19 février 1
 
   - 10 pour 100 de poudre de racine d’ipécacuanha, bien mélangées avec 80 pour 100 d’un autre composant pulvérulent non stupéfiant.
 
-- Les préparations administrables par voie orale qui ne contiennent pas plus de 135 mg de dextropropoxyphène base par unité de prise ou dont la concentration n’excède pas 2,5% dans les préparations de forme non divisée, à condition que ces préparations ne contiennent aucune substance soumise aux mesures de contrôle prévues dans la Convention du 21 février 1971 sur les substances psychotropes .
+- Les préparations administrables par voie orale qui ne contiennent pas plus de 135 mg de dextropropoxyphène base par unité de prise ou dont la concentration n’excède pas 2,5% dans les préparations de forme non divisée, à condition que ces préparations ne contiennent aucune substance soumise aux mesures de contrôle prévues dans la Convention du 21 février 1971 sur les substances psychotropes.
 
 - Les préparations correspondant à une quelconque des formules énumérées dans le présent article, et mélanges de ces préparations avec toute substance ne contenant pas de stupéfiant.
 

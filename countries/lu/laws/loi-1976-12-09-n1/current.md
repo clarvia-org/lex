@@ -743,7 +743,7 @@ Outre les pouvoirs conférés à la chambre des notaires par les lois et règlem
 
 - contrôler la comptabilité des notaires;
 
-- représenter les notaires du Grand-Duché pour la défense des droits et intérêts de la profession ;
+- représenter les notaires du Grand-Duché pour la défense des droits et intérêts de la profession;
 
 - assurer le bon fonctionnement de la plateforme d’échange électronique du notariat, qui est hébergée auprès du Centre des technologies de l’information de l’État dans les limites des conditions régissant la fourniture de services par le Centre des technologies de l’information de l’État.
 
@@ -1045,7 +1045,7 @@ Les moyens d’identification électronique acceptés sont :
 
 - les moyens d’identification électronique délivrés dans le cadre d’un schéma d’identification électronique généralement acceptés au niveau national ;
 
-- les moyens d’identification électronique délivrés dans un autre État membre de l’Union européenne et qui remplissent les conditions énoncées à l’article 6, paragraphe 1 er , du règlement (UE) n° 910/2014 du Parlement européen et du Conseil du 23 juillet 2014 sur l’identification électronique et les services de confiance pour les transactions électroniques au sein du marché intérieur et abrogeant la directive 1999/93/CE .
+- les moyens d’identification électronique délivrés dans un autre État membre de l’Union européenne et qui remplissent les conditions énoncées à l’article 6, paragraphe 1er, du règlement (UE) n° 910/2014 du Parlement européen et du Conseil du 23 juillet 2014 sur l’identification électronique et les services de confiance pour les transactions électroniques au sein du marché intérieur et abrogeant la directive 1999/93/CE.
 
 ##### Dispositions transitoires
 
@@ -1078,13 +1078,13 @@ L’article 7 de l’arrêté grand-ducal du 31 décembre 1938 sur les honoraire
 
 Sont abrogés:
 
-- L’ ordonnance royale grand-ducale du 3 octobre 1841 sur l’organisation du notariat, telle qu’elle a été modifiée et complétée dans la suite;
+- L’ordonnance royale grand-ducale du 3 octobre 1841 sur l’organisation du notariat, telle qu’elle a été modifiée et complétée dans la suite;
 
-- l’article 2 de la loi du 5 mai 1930 portant modification de certaines dispositions de l’ ordonnance précitée ;
+- l’article 2 de la loi du 5 mai 1930 portant modification de certaines dispositions de l’ordonnance précitée;
 
 - les dispositions suivantes de la loi du 9 décembre 1862 sur le tarif des notaires:
 
-  - à l’article 3, alinéa 1 er , le dernier membre de phrase commençant par les mots « à peine d’une amende ... »;
+  - à l’article 3, alinéa 1er, le dernier membre de phrase commençant par les mots « à peine d’une amende ... »;
 
   - à l’article 4 les deux dernières phrases de l’alinéa final;
 
@@ -1094,6 +1094,6 @@ Sont abrogés:
 
   - article 12;
 
-- l’article 9 de l’ arrêté grand-ducal du 7 juillet 1934 portant création d’une caisse commune du notariat;
+- l’article 9 de l’arrêté grand-ducal du 7 juillet 1934 portant création d’une caisse commune du notariat;
 
-- l’ arrêté grand-ducal du 25 octobre 1944 complété par l’ arrêté grand-ducal du 24 février 1949 relatif à l’argent et aux valeurs de tiers détenus par les notaires ainsi que toutes autres dispositions contraires à la présente loi ou incompatibles avec elle.
+- l’arrêté grand-ducal du 25 octobre 1944 complété par l’arrêté grand-ducal du 24 février 1949 relatif à l’argent et aux valeurs de tiers détenus par les notaires ainsi que toutes autres dispositions contraires à la présente loi ou incompatibles avec elle.

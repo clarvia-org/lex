@@ -58,11 +58,11 @@ Un règlement grand-ducal peut déterminer le contenu et les formalités de la d
 
 Pour pouvoir faire la déclaration prévue à l'article 3, les deux parties doivent:
 
-- être capables de contracter conformément aux articles 1123 et 1124 du Code civil ;
+- être capables de contracter conformément aux articles 1123 et 1124 du Code civil;
 
 - ne pas être liées par un mariage ou un autre partenariat;
 
-- ne pas être parents ou alliés au degré prohibé conformément aux articles 161 à 163 et à l'article 358 alinéa 2 du Code civil ;
+- ne pas être parents ou alliés au degré prohibé conformément aux articles 161 à 163 et à l'article 358 alinéa 2 du Code civil;
 
 - résider légalement sur le territoire luxembourgeois.
 
@@ -179,7 +179,7 @@ L'article 44 bis, alinéa 1er du code civil est modifié comme suit: Le bourgmes
 
 Le Code des Assurances sociales est modifié comme suit:
 
-- L'article 1 er est modifié comme suit:
+- L'article 1er est modifié comme suit:
 
   - l'alinéa 1, point 4, in fine, prend la teneur suivante: sont assimilés à ces personnes les associés qui, soit participent d'une façon effective et continue à la gestion courante, soit détiennent seuls ou ensemble avec leur conjoint ou leur partenaire au sens de l'article 2 de la loi du 9 juillet 2004 relative aux effets légaux de certains partenariats, plus de la moitié des parts sociales d'une société ou association ayant pour objet une telle activité;
 
@@ -217,11 +217,11 @@ Le Code des Assurances sociales est modifié comme suit:
 
   - l'alinéa 1 prend la teneur suivante: Si le défunt laisse un conjoint ou un partenaire au sens de l'article 2 de la loi du 9 juillet 2004 relative aux effets légaux de certains partenariats ou des enfants, la rente se chiffre à 42,8 pour cent du salaire annuel pour le conjoint ou le partenaire, jusqu'à son décès ou son nouvel engagement par mariage ou partenariat, et à 21,4 pour cent pour chaque enfant légitime jusqu'à l'âge de dix-huit ans ou, si l'enfant est empêché de gagner sa vie par suite de sa préparation scientifique ou technique à sa future profession, jusqu'à l'âge de vingt-sept ans accomplis.
 
-  - l'alinéa 3, 1 ère phrase, prend la teneur suivante: Tant que la capacité de travail du conjoint ou du partenaire au sens de l'article 2 de la loi du 9 juillet 2004 relative aux effets légaux de certains partenariats, est diminuée de cinquante pour cent au moins, par suite d'une maladie ou de toute autre infirmité, la rente du conjoint ou du partenaire est portée à 53,5 pour cent de la rémunération annuelle.
+  - l'alinéa 3, 1ère phrase, prend la teneur suivante: Tant que la capacité de travail du conjoint ou du partenaire au sens de l'article 2 de la loi du 9 juillet 2004 relative aux effets légaux de certains partenariats, est diminuée de cinquante pour cent au moins, par suite d'une maladie ou de toute autre infirmité, la rente du conjoint ou du partenaire est portée à 53,5 pour cent de la rémunération annuelle.
 
   - l'alinéa 4 prend la teneur suivante: Ces dispositions ne s'appliquent ni au conjoint divorcé, ni à l'ancien partenaire au sens de l'article 13 de la loi du 9 juillet 2004 relative aux effets légaux de certains partenariats.
 
-  - l'alinéa 5, 1 ère phrase, prend la teneur suivante: Si toutefois le défunt ne laisse pas de conjoint ou de partenaire au sens de l'article 2 de la loi du 9 juillet 2004 relative aux effets légaux de certains partenariats, la rente est allouée au conjoint divorcé sous les conditions suivantes:
+  - l'alinéa 5, 1ère phrase, prend la teneur suivante: Si toutefois le défunt ne laisse pas de conjoint ou de partenaire au sens de l'article 2 de la loi du 9 juillet 2004 relative aux effets légaux de certains partenariats, la rente est allouée au conjoint divorcé sous les conditions suivantes:
 
   - l'alinéa 5, point 3, prend la teneur suivante: qu'il n'y ait pas eu remariage ou déclaration de partenariat au sens de l'article 2 de la loi du 9 juillet 2004 relative aux effets légaux de certains partenariats, du conjoint divorcé pendant la période fixée au numéro 1.
 
@@ -255,7 +255,7 @@ Le Code des Assurances sociales est modifié comme suit:
 
   - l'alinéa 2 prend la teneur suivante: En cas de concours de la rente de survie avec une pension de survie du conjoint ou du partenaire au sens de l'article 2 de la loi du 9 juillet 2004 relative aux effets légaux de certains partenariats, due en vertu du présent code, les revenus personnels et le seuil prévisés ne sont pris en compte pour l'application de l'alinéa qui précède qu'au prorata de la rente de survie par rapport à l'ensemble de la pension de survie et de la rente de survie.»
 
-- A l'article 112, alinéas 2 et 3 le terme parents est remplacé par personnes .
+- A l'article 112, alinéas 2 et 3 le terme parents est remplacé par personnes.
 
 - L'article 141, alinéa 7, est modifié comme suit: La charge des cotisations incombe à l'employeur en ce qui concerne les assurés visés à l'article 85 sous 1), 2), 3), 5) et 6) et à la congrégation religieuse en ce qui concerne les assurés visés à l'article 85 sous 4). La cotisation est à charge de l'assuré visé à l'article 85 sous 7), le cas échéant, en lieu et place de son conjoint ou de son partenaire au sens de l'article 2 de la loi du 9 juillet 2004 relative aux effets légaux de certains partenariats.
 
@@ -319,7 +319,7 @@ Le Code des Assurances sociales est modifié comme suit:
 
   - L'alinéa 4 prend la teneur suivante: L'allocation est répartie, le cas échéant, entre deux ou plusieurs conjoints survivants, conjoints divorcés ou partenaires au sens de l'article 2 de la loi du 9 juillet 2004 relative aux effets légaux de certains partenariats survivants conformément à l'article 198, alinéa 4.
 
-  - A l'alinéa 6, deuxième phrase sont insérés à la suite des termes le conjoint survivant les termes ou le partenaire au sens de l'article 2 de la loi du 9 juillet 2004 relative aux effets légaux de certains partenariats survivant .
+  - A l'alinéa 6, deuxième phrase sont insérés à la suite des termes le conjoint survivant les termes ou le partenaire au sens de l'article 2 de la loi du 9 juillet 2004 relative aux effets légaux de certains partenariats survivant.
 
 - L'article 223, alinéa 3, est modifié comme suit: Pour autant que de besoin, un complément est alloué. En cas de décès d'un assuré ou d'un bénéficiaire de pension remplissant les conditions de stage prévues ci-dessus, le complément pour la pension de survie est alloué à raison de trois quarts pour le conjoint ou le partenaire au sens de l'article 2 de la loi du 9 juillet 2004 relative aux effets légaux de certains partenariats, et à raison d'un quart pour l'orphelin.
 
@@ -397,7 +397,7 @@ La loi modifiée du 3 août 1998 instituant des régimes de pension spéciaux po
 
   - L'alinéa 4 prend la teneur suivante: L'allocation est répartie, le cas échéant, entre deux ou plusieurs conjoints survivants, conjoints divorcés ou partenaires au sens de l'article 2 de la loi du 9 juillet 2004 relative aux effets légaux de certains partenariats survivants conformément à l'article 20, alinéa 4.
 
-  - A l'alinéa 6, deuxième phrase sont insérés à la suite des termes le conjoint survivant les termes ou le partenaire au sens de l'article 2 de la loi du 9 juillet 2004 relative aux effets légaux de certains partenariats survivant .
+  - A l'alinéa 6, deuxième phrase sont insérés à la suite des termes le conjoint survivant les termes ou le partenaire au sens de l'article 2 de la loi du 9 juillet 2004 relative aux effets légaux de certains partenariats survivant.
 
 - L'article 46, alinéa 3, est modifié comme suit: Pour autant que de besoin, un complément est alloué. En cas de décès d'un fonctionnaire ou d'un bénéficiaire de pension remplissant les conditions de stage prévues ci-dessus, le complément pour la pension de survie est alloué à raison de trois quarts pour le conjoint ou le partenaire au sens de l'article 2 de la loi du 9 juillet 2004 relative aux effets légaux de certains partenariats, et à raison d'un quart pour l'orphelin.
 
@@ -475,11 +475,35 @@ La loi du 6 janvier 1996 sur la coopération au développement est modifiée com
 
 La loi modifiée du 26 mai 1954 réglant les pensions des fonctionnaires de l'Etat est modifiée comme suit:
 
-- A l'article 1 er , le paragraphe III. est complété par un alinéa final nouveau formulé comme suit: Les termes de partenaire et de partenariat visent respectivement le partenaire et le partenariat au sens de l'article 2 de la loi du 9 juillet 2004 relative aux effets légaux de certains partenariats, et la dissolution du partenariat vise la dissolution en vertu de l'article 13 de la loi du 9 juillet 2004 relative aux effets légaux de certains partenariats.
+- A l'article 1er, le paragraphe III. est complété par un alinéa final nouveau formulé comme suit: Les termes de partenaire et de partenariat visent respectivement le partenaire et le partenariat au sens de l'article 2 de la loi du 9 juillet 2004 relative aux effets légaux de certains partenariats, et la dissolution du partenariat vise la dissolution en vertu de l'article 13 de la loi du 9 juillet 2004 relative aux effets légaux de certains partenariats.
 
-- A l'article 9, paragraphe I. sous a), point 9., deuxième tiret, premier alinéa, les termes de conjoints sont remplacés par ceux de parents .
+- A l'article 9, paragraphe I. sous a), point 9., deuxième tiret, premier alinéa, les termes de conjoints sont remplacés par ceux de parents.
 
-- L'article 20 est modifié comme suit: (a) Le paragraphe I. est remplacé comme suit: «1. Le conjoint ou le partenaire au sens de l'article 2 de la loi du 9 juillet 2004 relative aux effets légaux de certains partenariats a droit à une pension de survie: a) en cas de décès du fonctionnaire après une année de service, si le mariage ou le partenariat a duré une année au moins avant le décès du fonctionnaire, b) en cas de décès du fonctionnaire après une période de service même inférieure à une année, si au moins l'une des conditions ci-après est remplie: qu'un ou plusieurs enfants aient été légitimés par le mariage ou soient nés viables dans le mariage ou le partenariat du fonctionnaire ou qu'un enfant naisse viable moins de trois cents jours après le décès du fonctionnaire marié ou partenaire; si lors du décès du fonctionnaire, son conjoint ou son partenaire est reconnu enceinte, la pension est versée dès la cessation du droit au traitement; les mensualités versées ne sont en aucun cas sujettes à restitution; que le décès du fonctionnaire soit la suite directe d'un accident survenu après le mariage ou le partenariat, c) en cas de décès du fonctionnaire bénéficiaire d'une pension ou ayant droit à pension, si au moins l'une des conditions ci-après est remplie: que le mariage ou le partenariat ait été contracté un an au moins avant la date respectivement de la mise à la retraite du fonctionnaire ou de l'entrée en jouissance de sa pension; que le mariage ou le partenariat ait duré, à la date de décès du fonctionnaire bénéficiaire d'une pension, depuis au moins une année et que le conjoint ou le partenaire soit moins de quinze années plus jeune que le fonctionnaire; que le mariage ou le partenariat ait duré, à la date de décès du fonctionnaire bénéficiaire d'une pension, depuis au moins dix années; qu'à la date de décès du fonctionnaire bénéficiaire d'une pension il existe un enfant né ou conçu lors du mariage ou du partenariat ou soit légitimé par le mariage; que le décès du fonctionnaire bénéficiaire d'une pension d'invalidité soit la suite directe d'un accident survenu après le mariage ou le partenariat. (b) Au paragraphe II., sous a), le début de phrase le conjoint est remplacé par Le conjoint ou le partenaire au sens de l'article 2 de la loi du 9 juillet 2004 relative aux effets légaux de certains partenariats et sous b), les termes du conjoint sont remplacés par ceux de du conjoint ou du partenaire au sens de l'article 2 de la loi du 9 juillet 2004 relative aux effets légaux de certains partenariats.
+- L'article 20 est modifié comme suit: (a) Le paragraphe I. est remplacé comme suit: (b) Au paragraphe II., sous a), le début de phrase le conjoint est remplacé par Le conjoint ou le partenaire au sens de l'article 2 de la loi du 9 juillet 2004 relative aux effets légaux de certains partenariats et sous b), les termes du conjoint sont remplacés par ceux de du conjoint ou du partenaire au sens de l'article 2 de la loi du 9 juillet 2004 relative aux effets légaux de certains partenariats.
+
+«1.
+
+Le conjoint ou le partenaire au sens de l'article 2 de la loi du 9 juillet 2004 relative aux effets légaux de certains partenariats a droit à une pension de survie:
+
+a) en cas de décès du fonctionnaire après une année de service, si le mariage ou le partenariat a duré une année au moins avant le décès du fonctionnaire,
+
+b) en cas de décès du fonctionnaire après une période de service même inférieure à une année, si au moins l'une des conditions ci-après est remplie:
+
+- qu'un ou plusieurs enfants aient été légitimés par le mariage ou soient nés viables dans le mariage ou le partenariat du fonctionnaire ou qu'un enfant naisse viable moins de trois cents jours après le décès du fonctionnaire marié ou partenaire; si lors du décès du fonctionnaire, son conjoint ou son partenaire est reconnu enceinte, la pension est versée dès la cessation du droit au traitement; les mensualités versées ne sont en aucun cas sujettes à restitution;
+
+- que le décès du fonctionnaire soit la suite directe d'un accident survenu après le mariage ou le partenariat,
+
+c) en cas de décès du fonctionnaire bénéficiaire d'une pension ou ayant droit à pension, si au moins l'une des conditions ci-après est remplie:
+
+- que le mariage ou le partenariat ait été contracté un an au moins avant la date respectivement de la mise à la retraite du fonctionnaire ou de l'entrée en jouissance de sa pension;
+
+- que le mariage ou le partenariat ait duré, à la date de décès du fonctionnaire bénéficiaire d'une pension, depuis au moins une année et que le conjoint ou le partenaire soit moins de quinze années plus jeune que le fonctionnaire;
+
+- que le mariage ou le partenariat ait duré, à la date de décès du fonctionnaire bénéficiaire d'une pension, depuis au moins dix années;
+
+- qu'à la date de décès du fonctionnaire bénéficiaire d'une pension il existe un enfant né ou conçu lors du mariage ou du partenariat ou soit légitimé par le mariage;
+
+- que le décès du fonctionnaire bénéficiaire d'une pension d'invalidité soit la suite directe d'un accident survenu après le mariage ou le partenariat.
 
 - Le paragraphe III. est remplacé comme suit: III. La pension de survie du conjoint ou du partenaire au sens de l'article 2 de la loi du 9 juillet 2004 relative aux effets légaux de certains partenariats est suspendue pendant la durée d'un nouveau mariage ou partenariat. Si le titulaire d'une pension de survie contracte un nouvel engagement par mariage ou partenariat avant l'âge de cinquante ans, la pension de survie est rachetée au taux de cinq fois le montant versé au cours des douze derniers mois. En cas de nouvel engagement après l'âge de cinquante ans, le taux est réduit à trois fois le montant prévisé. Toutefois le montant du rachat ne peut pas être supérieur respectivement à cinq fois et trois fois la pension annuelle qui aurait été due pour la même période sans application des dispositions de l'article 44, paragraphe 8 et sans prise en compte des majorations spéciales prévues à l'article 26. Si le nouveau mariage est dissous par le divorce ou le décès du conjoint ou si le nouveau partenariat prend fin en vertu de l'article 13 de la loi du 9 juillet 2004 relative aux effets légaux de certains partenariats ou par suite du décès du partenaire, la pension suspendue est rétablie après respectivement cinq ou trois années à compter du nouvel engagement par mariage ou partenariat suivant que cet engagement a eu lieu avant ou après l'âge de cinquante ans. Au cas où la dissolution du mariage ou du partenariat se situe dans la période couverte par le rachat, la pension est rétablie à partir du 1er jour du mois qui suit cette dissolution, déduction faite du montant ayant servi à la détermination du rachat prévu à l'alinéa 2 ci-dessus pour la période résiduelle. Au cas où le décès du nouveau conjoint ou du nouveau partenaire ouvre également droit à une pension, seule la pension la plus élevée au moment de l'ouverture du droit de cette dernière est payée, compte tenu de l'alinéa qui précède. A l'expiration de la période couverte par le rachat,il est procédé à une nouvelle comparaison et la pension la plus élevée est définitivement allouée.»
 
@@ -487,11 +511,11 @@ La loi modifiée du 26 mai 1954 réglant les pensions des fonctionnaires de l'Et
 
 - L'article 22. est modifié comme suit:
 
-  - Au point a), première phrase, les termes de conjoint survivant sont remplacés par d'ayant droit au sens de l'article 20 ,
+  - Au point a), première phrase, les termes de conjoint survivant sont remplacés par d'ayant droit au sens de l'article 20,
 
-  - Au point 1. y relatif, le cercle de bénéficiaires actuel est complété par les termes ou partenaires, au sens de l'article 2 de la loi du 9 juillet 2004 relative aux effets légaux de certains partenariats, survivants .
+  - Au point 1. y relatif, le cercle de bénéficiaires actuel est complété par les termes ou partenaires, au sens de l'article 2 de la loi du 9 juillet 2004 relative aux effets légaux de certains partenariats, survivants.
 
-  - Au point b), le bout de phrase concernant le conjoint survivant est remplacé par prévues à l'article 20 .
+  - Au point b), le bout de phrase concernant le conjoint survivant est remplacé par prévues à l'article 20.
 
   - Le point d) est remplacé comme suit: d) En cas d'engagement ou de nouvel engagement par mariage ou partenariat, au sens de l'article 2 de la loi du 9 juillet 2004 relative aux effets légaux de certains partenariats, du bénéficiaire, la pension de survie est supprimée.
 
@@ -499,9 +523,9 @@ La loi modifiée du 26 mai 1954 réglant les pensions des fonctionnaires de l'Et
 
   - au paragraphe I., premier alinéa, les termes du conjoint sont remplacés par du conjoint ou du partenaire au sens de l'article 2 de la loi du 9 juillet 2004 relative aux effets légaux de certains partenariats.
 
-  - au paragraphe II., premier alinéa, le bout de phrase contracte mariage. est remplacé par contracte mariage ou partenariat au sens de l'article 2 de la loi du 9 juillet 2004 relative aux effets légaux de certains partenariats .
+  - au paragraphe II., premier alinéa, le bout de phrase contracte mariage. est remplacé par contracte mariage ou partenariat au sens de l'article 2 de la loi du 9 juillet 2004 relative aux effets légaux de certains partenariats.
 
-- A l'article 24, point d), les termes mariage antérieur sont remplacés par mariage ou partenariat, au sens de l'article 2 de la loi du 9 juillet 2004 relative aux effets légaux de certains partenariats, antérieurs .
+- A l'article 24, point d), les termes mariage antérieur sont remplacés par mariage ou partenariat, au sens de l'article 2 de la loi du 9 juillet 2004 relative aux effets légaux de certains partenariats, antérieurs.
 
 - L'article 25 est remplacé comme suit: I. Les pensions conférées dans les cas prévus à l'article 15.IV. sont réversibles, sauf application des taux normaux plus favorables: par 80 % sur le conjoint ou le partenaire, au sens de l'article 2 de la loi du 9 juillet 2004 relative aux effets légaux de certains partenariats, survivant avec un ou plusieurs orphelins, y compris la pension revenant aux orphelins; par 60 % sur le conjoint ou partenaire, aux sens de l'article 2 de la loi du 9 juillet 2004 relative aux effets légaux de certains partenariats, survivant seul ou sur un ou plusieurs orphelins seuls. II. Dans les cas visés à l'article 11. I., II. et III. la pension du conjoint ou partenaire, au sens de l'article 2. de la loi du 9 juillet 2004 relative aux effets légaux de certains partenariats, survivant et des orphelins est fixée comme suit, sauf échéance d'un droit plus favorable: a) pour le conjoint ou partenaire, au sens de l'article 2 de la loi du 9 juillet 2004 relative aux effets légaux de certains partenariats, survivant avec ou sans orphelins à 80 % du «dernier traitement du défunt visé à l'article 14»; b) pour un orphelin seul à 40 %, pour deux orphelins seuls à 60 %, et pour trois orphelins seuls et plus à 80 % de ce traitement. III. Si les enfants ou quelques-uns d'entre eux sont issus d'un mariage ou d'un partenariat, au sens de l'article 2 de la loi du 9 juillet 2004 relative aux effets légaux de certains partenariats, antérieur du fonctionnaire, la pension revenant à ces orphelins est prélevée, sauf réversibilité en faveur du conjoint ou partenaire survivant dans la mesure des extinctions, sur la pension globale d'après les taux prévus par l'article 24b), sans que la pension du conjoint ou partenaire, au sens de l'article 2 de la loi du 9 juillet 2004 relative aux effets légaux de certains partenariats, survivant puisse être inférieure à celle lui revenant d'après les taux prévus par l'article 20. II. b). S'il n'existe pas de conjoint ou partenaire, au sens de l'article 2 de la loi du 9 juillet 2004 relative aux effets légaux de certains partenariats, survivant ou si celui-ci est inhabile à recueillir une pension, la pension allouée globalement à plusieurs enfants leur est répartie par portions égales et par tête, sans distinction de lits.
 
@@ -511,20 +535,32 @@ La loi modifiée du 26 mai 1954 réglant les pensions des fonctionnaires de l'Et
 
   - Au point 8, les alinéas 2 et 3 sont remplacés comme suit: En cas de concours de la pension de survie avec une rente d'accident de survie du conjoint ou du partenaire, aus sens de l'article 2 de la loi du 9 juillet 2004 relative au effets légaux de certains partenariats, due en vertu du Livre II du Code des Assurances Sociales, les revenus personnels et le seuil ne sont pris en compte pour l'application de l'alinéa qui précède qu'au prorata de la pension de survie par rapport à l'ensemble de cette pension et de la rente de survie. Sont pris en compte au titre des revenus personnels, les revenus professionnels et les revenus de remplacement dépassant un seuil correspondant à la valeur de 72 points indiciaires, les pensions et les rentes réalisés ou obtenus au Luxembourg ou à l'étranger, en vertu d'un régime légal au sens de la législation sociale, à l'exception des pensions ou rentes de survie du chef du même conjoint ou du même partenaire au sens de l'article 2 de la loi du 9 juillet 2004 relative aux effets légaux de certains partenariats, ainsi que le forfait d'éducation prévu par la loi du 28 juin 2002 portant création d'un forfait d'éducation. Les salaires et appointements visés à l'article 19 de la loi modifiée du 7 juin 1937 portant règlement légal du louage de service des employés privés ne sont pas pris en compte au titre du présent alinéa.
 
-  - Au point 11 du même article les termes de deux conjoints et conjoint sont remplacés respectivement par deux conjoints ou partenaires, au sens de l'article 2 de la loi du 9 juillet 2004 relative aux effets légaux de certains partenariats et conjoint ou partenaire, au sens de l'article 2 de la loi du 9 juillet 2004 relative aux effets légaux de certains partenariats .
+  - Au point 11 du même article les termes de deux conjoints et conjoint sont remplacés respectivement par deux conjoints ou partenaires, au sens de l'article 2 de la loi du 9 juillet 2004 relative aux effets légaux de certains partenariats et conjoint ou partenaire, au sens de l'article 2 de la loi du 9 juillet 2004 relative aux effets légaux de certains partenariats.
 
-- A l'article 45, point 1, alinéa 2, dernière phrase, le terme de conjoint est remplacé par conjoint ou partenaire au sens de l'article 2 de la loi du 9 juillet 2004 relative aux effets légaux de certains partenariats .
+- A l'article 45, point 1, alinéa 2, dernière phrase, le terme de conjoint est remplacé par conjoint ou partenaire au sens de l'article 2 de la loi du 9 juillet 2004 relative aux effets légaux de certains partenariats.
 
 <a id="art-25bis"></a>
 ## Art. 25bis.
 
 L'article 9 de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l'Etat est modifié comme suit:
 
-- Le paragraphe 3 est remplacé sous a) et b) comme suit: a) le fonctionnaire marié, non séparé de corps, ou le fonctionnaire partenaire au sens de l'article 2 de la loi du 9 juillet 2004 relative aux effets légaux de certains partenariats; b) le fonctionnaire veuf, séparé de corps judiciairement ou divorcé ainsi que le fonctionnaire célibataire ou celui dont le partenariat au sens de l'article 2 de la loi du 9 juillet 2004 relative aux effets légaux de certains partenariats a cessé s'il a ou s'il a eu un ou plusieurs enfants à charge. Est considéré comme enfant à charge au sens de la présente disposition l'enfant légitime, l'enfant naturel reconnu ou l'enfant adoptif du fonctionnaire, pour lesquels il touche ou a touché des allocations familiales; s'il contribue d'une façon appréciable à l'entretien d'un parent ou allié jusqu'au quatrième degré inclusivement vivant avec lui en communauté domestique ou s'il est tenu au paiement d'une pension alimentaire en vertu d'une décision judiciaire, sauf si l'allocation revient à l'autre conjoint ou partenaire en exécution de la disposition qui précède.
+- Le paragraphe 3 est remplacé sous a) et b) comme suit:
 
-- Le paragraphe 4, alinéa 1 er est complété comme suit: Lorsque les deux conjoints ou partenaires au sens de l'article 2 de la loi du 9 juillet 2004 relative aux effets légaux de certains partenariats sont fonctionnaires ou agents publics, l'allocation de famille est calculée sur le traitement le plus élevé.
+a) le fonctionnaire marié, non séparé de corps, ou le fonctionnaire partenaire au sens de l'article 2 de la loi du 9 juillet 2004 relative aux effets légaux de certains partenariats;
 
-- Le paragraphe 5 est remplacé comme suit: Lorsque le conjoint d'un fonctionnaire ou son partenaire au sens de l'article 2 de la loi du 9 juillet 2004 relative aux effets légaux de certains partenariats exerce une fonction salariée autre que celle d'agent public telle qu'elle est définie au paragraphe 4 ci-dessus et qu'il a droit de ce chef à une allocation identique ou analogue à l'allocation de famille, l'allocation payée au conjoint ou partenaire du fonctionnaire est portée en déduction de l'allocation de famille qui revient au fonctionnaire en application du présent article. Pour l'application des dispositions qui précédent, l'allocation payée au conjoint ou au partenaire du fonctionnaire est proratisée par rapport au degré d'occupation du fonctionnaire.
+b) le fonctionnaire veuf, séparé de corps judiciairement ou divorcé ainsi que le fonctionnaire célibataire ou celui dont le partenariat au sens de l'article 2 de la loi du 9 juillet 2004 relative aux effets légaux de certains partenariats a cessé
+
+- s'il a ou s'il a eu un ou plusieurs enfants à charge. Est considéré comme enfant à charge au sens de la présente disposition l'enfant légitime, l'enfant naturel reconnu ou l'enfant adoptif du fonctionnaire, pour lesquels il touche ou a touché des allocations familiales;
+
+- s'il contribue d'une façon appréciable à l'entretien d'un parent ou allié jusqu'au quatrième degré inclusivement vivant avec lui en communauté domestique ou s'il est tenu au paiement d'une pension alimentaire en vertu d'une décision judiciaire, sauf si l'allocation revient à l'autre conjoint ou partenaire en exécution de la disposition qui précède.
+
+- Le paragraphe 4, alinéa 1er est complété comme suit: Lorsque les deux conjoints ou partenaires au sens de l'article 2 de la loi du 9 juillet 2004 relative aux effets légaux de certains partenariats sont fonctionnaires ou agents publics, l'allocation de famille est calculée sur le traitement le plus élevé.
+
+- Le paragraphe 5 est remplacé comme suit:
+
+Lorsque le conjoint d'un fonctionnaire ou son partenaire au sens de l'article 2 de la loi du 9 juillet 2004 relative aux effets légaux de certains partenariats exerce une fonction salariée autre que celle d'agent public telle qu'elle est définie au paragraphe 4 ci-dessus et qu'il a droit de ce chef à une allocation identique ou analogue à l'allocation de famille, l'allocation payée au conjoint ou partenaire du fonctionnaire est portée en déduction de l'allocation de famille qui revient au fonctionnaire en application du présent article.
+
+Pour l'application des dispositions qui précédent, l'allocation payée au conjoint ou au partenaire du fonctionnaire est proratisée par rapport au degré d'occupation du fonctionnaire.
 
 #### Chapitre III. Dispositions relatives aux effets de droit fiscal
 

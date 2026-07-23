@@ -46,7 +46,7 @@ Pour l’application du présent règlement, on entend par :
 
 - « variétés interspécifiques » : Blütenmuskateller, Bronner, Cabaret Noir, Cabernet Blanc, Cabernet Cortis, Cabernet Jura, Cabertin, Calardis Blanc, Calardis Royal, Carillon, Divico, Donauriesling, Donauveltliner, Fidelio, Floreal, Helios, Hibernal, Johanniter, Laurot, Merzling, Muscaris, Pamina, Pinotin, Pinot Nova, Regent, Rondo, Satin Noir, Sauvignac, Solaris, Souvignier gris, Villaris, Voltis ;
 
-- « Unité de contrôle » : le service tel que défini à l’article 1 er du règlement grand-ducal du 22 décembre 2023 portant introduction de règles communes à certaines interventions financières prévues par la loi du 2 août 2023 concernant le soutien au développement durable des zones rurales.
+- « Unité de contrôle » : le service tel que défini à l’article 1er du règlement grand-ducal du 22 décembre 2023 portant introduction de règles communes à certaines interventions financières prévues par la loi du 2 août 2023 concernant le soutien au développement durable des zones rurales.
 
 #### Chapitre 2 Conditions d’admissibilité
 
@@ -76,7 +76,7 @@ Dans les vignobles en pente raide, les vignobles en pente très raide et les vig
 
 - la reconversion variétale par plantation des variétés traditionnelles ou des variétés interspécifiques ;
 
-- la plantation à des fins expérimentales, sur une surface maximale de 10 ares, de variétés de raisins de cuve autres que celles prévues à l’article 1 er , points 6 et 7.
+- la plantation à des fins expérimentales, sur une surface maximale de 10 ares, de variétés de raisins de cuve autres que celles prévues à l’article 1er, points 6 et 7.
 
 (2)
 
@@ -91,7 +91,7 @@ Dans les vignobles en pente, les mesures de restructuration et de reconversion d
 
 - la reconversion variétale par plantation des variétés interspécifiques ;
 
-- la plantation à des fins expérimentales, sur une surface maximale de 10 ares, de variétés de raisins de cuve autres que celles prévues à l’article 1 er , points 6 et 7 ;
+- la plantation à des fins expérimentales, sur une surface maximale de 10 ares, de variétés de raisins de cuve autres que celles prévues à l’article 1er, points 6 et 7 ;
 
 - la plantation des variétés traditionnelles ou des variétés interspécifiques avec utilisation de piquets métalliques, le piquet de tête pouvant être un piquet en bois.
 
@@ -152,7 +152,7 @@ Sont exclues du bénéfice de l’aide :
 
 - les entreprises faisant l’objet d’une injonction de récupération suivant une décision de la Commission déclarant une aide illégale et incompatible avec le marché intérieur ;
 
-- les entreprises en difficulté au sens du règlement (UE) 2022/2472 de la Commission du 14 décembre 2022 déclarant certaines catégories d’aides dans les secteurs agricole et forestier et dans les zones rurales compatibles avec le marché intérieur en application des articles 107 et 108 du traité sur le fonctionnement de l’Union européenne , tel que modifié.
+- les entreprises en difficulté au sens du règlement (UE) 2022/2472 de la Commission du 14 décembre 2022 déclarant certaines catégories d’aides dans les secteurs agricole et forestier et dans les zones rurales compatibles avec le marché intérieur en application des articles 107 et 108 du traité sur le fonctionnement de l’Union européenne, tel que modifié.
 
 <a id="art-8"></a>
 ## Art. 8.

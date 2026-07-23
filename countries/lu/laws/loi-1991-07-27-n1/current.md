@@ -81,7 +81,7 @@ Aux fins de la présente loi, on entend par:
 
 - « décision éditoriale », une décision prise régulièrement dans le but d’exercer la responsabilité éditoriale et liée au fonctionnement du service de médias audiovisuels au quotidien ;
 
-- «Etat membre de l’Espace économique européen», tout Etat ayant adhéré à l’Accord sur l’Espace économique européen ou tout autre Etat ayant conclu avec l’Union européenne un accord de réciprocité en matière d’application de la directive Services de médias audiovisuels ;
+- «Etat membre de l’Espace économique européen», tout Etat ayant adhéré à l’Accord sur l’Espace économique européen ou tout autre Etat ayant conclu avec l’Union européenne un accord de réciprocité en matière d’application de la directive Services de médias audiovisuels;
 
 - « fournisseur de plateformes de partage de vidéos », la personne physique ou morale qui fournit un service de plateformes de partage de vidéos ;
 
@@ -89,9 +89,9 @@ Aux fins de la présente loi, on entend par:
 
 - «fournisseur de services de médias audiovisuels luxembourgeois», un fournisseur de services de médias audiovisuels qui relève de la compétence du Grand-Duché de Luxembourg, parce que
 
-  - soit il répond à l’un des critères établis à cet effet par l’article 2bis, paragraphe 1 er ci-après,
+  - soit il répond à l’un des critères établis à cet effet par l’article 2bis, paragraphe 1er ci-après,
 
-  - soit il tombe sous le champ d’application de l’article 2, paragraphe 5 de la directive 2010/13/UE du Parlement européen et du Conseil du 10 mars 2010 visant à la coordination de certaines dispositions législatives, réglementaires et administratives des Etats membres relatives à la fourniture de services de médias audiovisuels appelée ci-après « directive Services de médias audiovisuels »;
+  - soit il tombe sous le champ d’application de l’article 2, paragraphe 5 de la directive 2010/13/UE du Parlement européen et du Conseil du 10 mars 2010 visant à la coordination de certaines dispositions législatives, réglementaires et administratives des Etats membres relatives à la fourniture de services de médias audiovisuels appelée ci-après «directive Services de médias audiovisuels»;
 
 - «fournisseur de services de radio luxembourgeois», la personne physique ou morale qui est établie au Grand-Duché de Luxembourg, et qui produit ou fait produire un service de radio sonore dont elle assume la responsabilité et qu’elle transmet ou fait transmettre par une tierce personne;
 
@@ -123,7 +123,7 @@ Aux fins de la présente loi, on entend par:
 
 - «service de médias audiovisuels ou sonores non luxembourgeois», tout service de médias audiovisuels ou sonores d’un fournisseur de services de médias audiovisuels ou sonores autre qu’un fournisseur de services de médias audiovisuels luxembourgeois ou un fournisseur de services de radio luxembourgeois;
 
-- « service de plateformes de partage de vidéos », un service tel que défini aux articles 56 et 57 du traité sur le fonctionnement de l’Union européenne , pour lequel l’objet principal du service proprement dit ou d’une partie dissociable de ce service ou une fonctionnalité essentielle du service est la fourniture au grand public de programmes, de vidéos créées par l’utilisateur, ou des deux, qui ne relèvent pas de la responsabilité éditoriale du fournisseur de la plateforme de partage de vidéos, dans le but d’informer, de divertir ou d’éduquer, par le biais de réseaux de communications électroniques et dont l’organisation est déterminée par le fournisseur de la plateforme de partage de vidéos, à l’aide notamment de moyens automatiques ou d’algorithmes, en particulier l’affichage, le balisage et le séquencement ;
+- « service de plateformes de partage de vidéos », un service tel que défini aux articles 56 et 57 du traité sur le fonctionnement de l’Union européenne, pour lequel l’objet principal du service proprement dit ou d’une partie dissociable de ce service ou une fonctionnalité essentielle du service est la fourniture au grand public de programmes, de vidéos créées par l’utilisateur, ou des deux, qui ne relèvent pas de la responsabilité éditoriale du fournisseur de la plateforme de partage de vidéos, dans le but d’informer, de divertir ou d’éduquer, par le biais de réseaux de communications électroniques et dont l’organisation est déterminée par le fournisseur de la plateforme de partage de vidéos, à l’aide notamment de moyens automatiques ou d’algorithmes, en particulier l’affichage, le balisage et le séquencement ;
 
 - «service de radio», tout service qui relève de la responsabilité éditoriale d’un fournisseur de services de médias et dont l’objet principal est la fourniture, par la voie de réseaux de communications électroniques, dans le but d’informer, de divertir ou d’éduquer le public, de services sonores pour l’écoute simultanée sur la base d’une grille de programme;
 
@@ -775,7 +775,7 @@ Conformément à l’article 3, paragraphe 4, les permissions visées aux paragr
 
 - si les obligations inscrites dans le cahier des charges ne sont pas respectées ; ou
 
-- si elles ne font pas l’objet d’une exploitation régulière, conformément aux modalités fixées. Les modalités du retrait sont régies par les dispositions de l’article 35 sexies .
+- si elles ne font pas l’objet d’une exploitation régulière, conformément aux modalités fixées. Les modalités du retrait sont régies par les dispositions de l’article 35sexies.
 
 <a id="art-19bis"></a>
 ## Art. 19bis.
@@ -1150,7 +1150,7 @@ Sans préjudice de l’obligation de respecter et de protéger la dignité humai
 
 - aucune incitation à la violence ou à la haine visant un groupe de personnes ou un membre d’un groupe fondée sur l’un des motifs visés à l’article 21 de la Charte des droits fondamentaux de l’Union européenne ;
 
-- aucune provocation publique à commettre une infraction terroriste telle que visée à l’article 135-11, paragraphes 1 et 2, du Code pénal .
+- aucune provocation publique à commettre une infraction terroriste telle que visée à l’article 135-11, paragraphes 1 et 2, du Code pénal.
 
 B. – REGLES APPLICABLES AUX SERVICES DE MEDIAS AUDIOVISUELS
 
@@ -1419,11 +1419,11 @@ Mesures appropriées à prendre par les fournisseurs de plateformes de partage d
 
 Sans préjudice des articles 60 à 63 de la loi modifiée du 14 août 2000 relative au commerce électronique, les fournisseurs de plateformes de partage de vidéos relevant de la compétence du Grand-Duché de Luxembourg prennent les mesures appropriées pour protéger :
 
-- les mineurs des programmes, vidéos créées par l’utilisateur et communications commerciales audiovisuelles susceptibles de nuire à leur épanouissement physique, mental ou moral, conformément à l’article 27ter, paragraphes 1 er et 2 ;
+- les mineurs des programmes, vidéos créées par l’utilisateur et communications commerciales audiovisuelles susceptibles de nuire à leur épanouissement physique, mental ou moral, conformément à l’article 27ter, paragraphes 1er et 2 ;
 
 - le grand public des programmes, vidéos créées par l’utilisateur et communications commerciales audiovisuelles comportant une incitation à la violence ou à la haine visant un groupe de personnes ou un membre d’un groupe, fondée sur l’un des motifs visés à l’article 21 de la Charte des droits fondamentaux de l’Union européenne ;
 
-- le grand public des programmes, vidéos créées par l’utilisateur et communications commerciales audiovisuelles comportant des contenus dont la diffusion constitue une infraction pénale, à savoir la provocation publique à commettre une infraction terroriste telle qu’énoncée à l’article 135-11, paragraphes 1 er et 2, du Code pénal , les infractions liées à la pédopornographie telles qu’énoncées à l’article 379, point 2°, du Code pénal et les infractions relevant du racisme et de la xénophobie telles qu’énoncées aux articles 457-1 et 457-3 du Code pénal .
+- le grand public des programmes, vidéos créées par l’utilisateur et communications commerciales audiovisuelles comportant des contenus dont la diffusion constitue une infraction pénale, à savoir la provocation publique à commettre une infraction terroriste telle qu’énoncée à l’article 135-11, paragraphes 1er et 2, du Code pénal, les infractions liées à la pédopornographie telles qu’énoncées à l’article 379, point 2°, du Code pénal et les infractions relevant du racisme et de la xénophobie telles qu’énoncées aux articles 457-1 et 457-3 du Code pénal.
 
 (2)
 
@@ -1441,9 +1441,9 @@ Tous les fournisseurs de plateformes de partage de vidéos relevant de la compé
 
 Ces mesures consistent, selon ce qui est approprié, à :
 
-- inclure et appliquer, dans les conditions des services de plateformes de partage de vidéos, les exigences visées au paragraphe 1 er ;
+- inclure et appliquer, dans les conditions des services de plateformes de partage de vidéos, les exigences visées au paragraphe 1er ;
 
-- inclure et appliquer, dans les conditions des services de plateformes de partage de vidéos, les exigences énoncées à l’article 27bis, paragraphes 1 er à 5, pour les communications commerciales audiovisuelles qui ne font pas l’objet d’actions de promotion, ne sont pas vendues et ne sont pas organisées par les fournisseurs de plateformes de partage de vidéos ;
+- inclure et appliquer, dans les conditions des services de plateformes de partage de vidéos, les exigences énoncées à l’article 27bis, paragraphes 1er à 5, pour les communications commerciales audiovisuelles qui ne font pas l’objet d’actions de promotion, ne sont pas vendues et ne sont pas organisées par les fournisseurs de plateformes de partage de vidéos ;
 
 - disposer d’une fonctionnalité permettant aux utilisateurs qui mettent en ligne des vidéos créées par l’utilisateur de déclarer si ces vidéos contiennent, à leur connaissance ou dans la mesure où l’on peut raisonnablement attendre d’eux qu’ils le sachent, des communications commerciales audiovisuelles ;
 
@@ -1453,7 +1453,7 @@ Ces mesures consistent, selon ce qui est approprié, à :
 
 - mettre en place et utiliser des systèmes permettant de vérifier l’âge des utilisateurs des plateformes de partage de vidéos en ce qui concerne les contenus susceptibles de nuire à l’épanouissement physique, mental ou moral des mineurs ;
 
-- mettre en place et utiliser des systèmes faciles à utiliser permettant aux utilisateurs de plateformes de partage de vidéos de classifier les contenus visés au paragraphe 1 er ;
+- mettre en place et utiliser des systèmes faciles à utiliser permettant aux utilisateurs de plateformes de partage de vidéos de classifier les contenus visés au paragraphe 1er ;
 
 - prévoir des systèmes de contrôle parental dont les utilisateurs finaux ont le contrôle en ce qui concerne les contenus susceptibles de nuire à l’épanouissement physique, mental ou moral des mineurs ;
 
@@ -1643,7 +1643,7 @@ L’Autorité a pour mission:
 
 - de surveiller, de contrôler et d’assurer le respect des dispositions légales et réglementaires et des dispositions des cahiers des charges des services de médias audiovisuels ou sonores qui relèvent de la compétence des autorités luxembourgeoises en application de la présente loi, soit parce qu’ils sont bénéficiaires d’une concession ou permission accordée en vertu de la présente loi, soit parce qu’ils ont notifié leurs services conformément à l’article 23bis, 23ter ou 23quater (2) de la présente loi.
 
-- d’exercer les attributions lui confiées par les articles 2 et 4 de la loi du 14 décembre 2015 relative aux sondages d’opinion politique et portant modification 1. de la loi électorale modifiée du 18 février 2003 ; 2. de la loi modifiée du 27 juillet 1991 sur les médias électroniques; 3. de la loi modifiée du 4 février 2005 relative au référendum au niveau national.
+- d’exercer les attributions lui confiées par les articles 2 et 4 de la loi du 14 décembre 2015 relative aux sondages d’opinion politique et portant modification 1. de la loi électorale modifiée du 18 février 2003; 2. de la loi modifiée du 27 juillet 1991 sur les médias électroniques; 3. de la loi modifiée du 4 février 2005 relative au référendum au niveau national.
 
 - d’encourager l’utilisation de la corégulation et la promotion de l’autorégulation au moyen de codes de conduite rédigés par des fournisseurs de services de médias audiovisuels, des fournisseurs de services de plateformes de partage de vidéos ou des organisations qui les représentent, en coopération, le cas échéant, avec d’autres secteurs tels que les associations ou organisations industrielles, commerciales, professionnelles ou de consommateurs. Ces codes sont conçus de manière à être largement acceptés par les principaux acteurs ; définissent leurs objectifs clairement et sans ambiguïté ; prévoient que la réalisation de ces objectifs est suivie et évaluée de manière régulière, transparente et indépendante ; et assurent une mise en œuvre effective, notamment au moyen de sanctions efficaces et proportionnées.
 

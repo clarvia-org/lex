@@ -86,7 +86,7 @@ Le temps passé à l’Institut compte comme temps de service pour le calcul du 
 
 La formation professionnelle prévue à l’article 2 (1) s’applique, en ce qui concerne le volet de la formation pendant le stage ou le service provisoire:
 
-- aux fonctionnaires stagiaires des catégories de traitement de la rubrique «Administration générale», à l’exception des sousgroupes à attributions particulières des groupes de traitement A1 et B1, et aux fonctionnaires stagiaires des catégories de traitement de la rubrique «Douanes» prévues à l’article 10 de la loi fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’Etat ,
+- aux fonctionnaires stagiaires des catégories de traitement de la rubrique «Administration générale», à l’exception des sousgroupes à attributions particulières des groupes de traitement A1 et B1, et aux fonctionnaires stagiaires des catégories de traitement de la rubrique «Douanes» prévues à l’article 10 de la loi fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’Etat,
 
 - aux fonctionnaires en service provisoire des catégories de traitement des rubriques « Administration générale » et « Enseignement », prévues à l’article 11 du règlement grand-ducal modifié du 28 juillet 2017 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires communaux.
 

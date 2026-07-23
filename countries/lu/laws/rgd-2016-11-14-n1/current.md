@@ -57,7 +57,7 @@ Aux fins du présent règlement grand-ducal, on entend par:
 
 - «agent chimique dangereux»:
 
-  - tout agent chimique qui satisfait aux critères de classification en tant que dangereux dans l’une des classes de dangers physiques et/ou de dangers pour la santé énoncées dans le Règlement (CE) n° 1272/2008 du Parlement européen et du Conseil du 16 décembre 2008 relatif à la classification, à l’étiquetage et à l’emballage des substances et des mélanges, modifiant et abrogeant les directives 67/548/CEE et 1999/45/CE et modifiant le règlement (CE) n° 1907/2006 , dénommé ci-après «règlement CLP», que cet agent chimique soit ou non classé au titre dudit règlement;
+  - tout agent chimique qui satisfait aux critères de classification en tant que dangereux dans l’une des classes de dangers physiques et/ou de dangers pour la santé énoncées dans le Règlement (CE) n° 1272/2008 du Parlement européen et du Conseil du 16 décembre 2008 relatif à la classification, à l’étiquetage et à l’emballage des substances et des mélanges, modifiant et abrogeant les directives 67/548/CEE et 1999/45/CE et modifiant le règlement (CE) n° 1907/2006, dénommé ci-après «règlement CLP», que cet agent chimique soit ou non classé au titre dudit règlement;
 
   - tout agent chimique qui, bien que ne satisfaisant pas aux critères de classification en tant que dangereux conformément au présent article, paragraphe 2 point 2, peut présenter un risque pour la sécurité et la santé des salariés en raison de ses propriétés physico- chimiques, chimiques ou toxicologiques et de par la manière dont il est utilisé ou présent sur le lieu de travail, y compris tout agent chimique auquel est affectée une valeur limite d’exposition professionnelle en vertu de l’article 3;
 
@@ -73,7 +73,7 @@ Aux fins du présent règlement grand-ducal, on entend par:
 
 - «risque»: la probabilité que le potentiel de nuisance soit atteint dans les conditions d’utilisation ou d’exposition;
 
-- «autorité compétente»: les autorités compétentes sont celles définies à l’article L. 314-3 du Code du travail .
+- «autorité compétente»: les autorités compétentes sont celles définies à l’article L. 314-3 du Code du travail.
 
 <a id="art-3"></a>
 ## Art. 3.
@@ -95,7 +95,7 @@ Dans l’accomplissement des obligations définies à l’article L. 312-2 parag
 
 - leurs propriétés dangereuses;
 
-- les informations relatives à la sécurité et à la santé qui sont communiquées par le fournisseur dans le cadre du Règlement (CE) n° 1907/2006 du Parlement européen et du Conseil du 18 décembre 2006 concernant l’enregistrement, l’évaluation et l’autorisation des substances chimiques, ainsi que les restrictions applicables à ces substances (REACH), instituant une agence européenne des produits chimiques, modifiant la directive 1999/45/CE et abrogeant le règlement (CEE) n° 793/93 du Conseil et le règlement (CE) n° 1488/94 de la Commission ainsi que la directive 76/769/CEE du Conseil et les directives 91/155/CEE , 93/67/CEE , 93/105/CE et 2000/21/CE de la Commission, dénommé ci-après «règlement REACH»;
+- les informations relatives à la sécurité et à la santé qui sont communiquées par le fournisseur dans le cadre du Règlement (CE) n° 1907/2006 du Parlement européen et du Conseil du 18 décembre 2006 concernant l’enregistrement, l’évaluation et l’autorisation des substances chimiques, ainsi que les restrictions applicables à ces substances (REACH), instituant une agence européenne des produits chimiques, modifiant la directive 1999/45/CE et abrogeant le règlement (CEE) n° 793/93 du Conseil et le règlement (CE) n° 1488/94 de la Commission ainsi que la directive 76/769/CEE du Conseil et les directives 91/155/CEE, 93/67/CEE, 93/105/CE et 2000/21/CE de la Commission, dénommé ci-après «règlement REACH»;
 
 - le niveau, le type et la durée d’exposition;
 
@@ -292,7 +292,7 @@ L’Inspection du travail et des mines peut autoriser des dérogations aux exige
 
 - pour des activités visant à éliminer les agents chimiques qui sont présents sous la forme de sous-produits ou de déchets;
 
-- pour la production des agents chimiques visés au paragraphe 1 er destinés à servir de produits intermédiaires, ainsi que pour leur utilisation.
+- pour la production des agents chimiques visés au paragraphe 1er destinés à servir de produits intermédiaires, ainsi que pour leur utilisation.
 
 L’exposition des salariés aux agents chimiques visés au paragraphe 1er doit être évitée, notamment grâce à des mesures qui prévoient que la production et l’utilisation la plus rapide possible de ces agents chimiques en tant que produits intermédiaires doivent avoir lieu dans un seul système fermé, dont ces agents chimiques ne peuvent être prélevés que dans la mesure nécessaire au contrôle du processus ou à l’entretien du système.
 

@@ -83,7 +83,7 @@ Sans préjudice du Traité relatif à l’établissement du bloc d’espace aér
 
 - peut désigner conformément à l’article 9 du règlement (CE) n° 550/2004 modifié du 10 mars 2004 relatif à la fourniture de services de navigation aérienne dans le ciel unique européen, un ou plusieurs prestataires de services météorologiques pour fournir sur une base exclusive, tout ou partie des données météorologiques pour la totalité ou une partie de l’espace aérien relevant de sa responsabilité;
 
-- désigne conformément à l’article 4 du règlement (UE) n° 139/2014 du 12 février 2014 établissant des exigences et des procédures administratives relatives aux aérodromes conformément au règlement (CE) n° 216/2008 , un ou plusieurs exploitants d’aérodrome pour fournir tout ou partie des services liés à la maintenance et à la gestion d’un aérodrome relevant de sa responsabilité;
+- désigne conformément à l’article 4 du règlement (UE) n° 139/2014 du 12 février 2014 établissant des exigences et des procédures administratives relatives aux aérodromes conformément au règlement (CE) n° 216/2008, un ou plusieurs exploitants d’aérodrome pour fournir tout ou partie des services liés à la maintenance et à la gestion d’un aérodrome relevant de sa responsabilité;
 
 (2)
 
@@ -298,7 +298,7 @@ Les données à caractère personnel du registre visé à l’alinéa 1er access
 
 Le système informatique par lequel l’accès direct est opéré est aménagé de sorte que :
 
-- les membres de la Police visés à l’alinéa 1 er ne puissent consulter le registre auquel ils ont accès qu’en indiquant leur identifiant numérique personnel et un motif de consultation ;
+- les membres de la Police visés à l’alinéa 1er ne puissent consulter le registre auquel ils ont accès qu’en indiquant leur identifiant numérique personnel et un motif de consultation ;
 
 - les informations relatives aux membres de la Police ayant procédé à la consultation ainsi que les informations consultées, la date et l’heure de la consultation soient enregistrées et conservées pendant un délai de trois ans, afin que le motif de la consultation puisse être retracé. Les données à caractère personnel consultées doivent avoir un lien direct avec les faits ayant motivé la consultation.
 
@@ -640,7 +640,7 @@ L’analyse de sang consiste en une détermination quantitative dans le plasma a
 
 S’il existe un indice grave faisant présumer qu’une des personnes visées au paragraphe (1) se trouve sous l’influence d’une des substances prévues à l’alinéa 1er du présent paragraphe, les membres de la police grand-ducale procèdent à un test qui consiste en:
 
-- la constatation, au moyen d’une batterie de tests standardisés, de signes extérieurs confirmant la présomption d’influence d’une des substances visées à l’alinéa 1 er du présent paragraphe, et;
+- la constatation, au moyen d’une batterie de tests standardisés, de signes extérieurs confirmant la présomption d’influence d’une des substances visées à l’alinéa 1er du présent paragraphe, et;
 
 - si les tests visés sous a) constatent plusieurs signes extérieurs, dont au moins un dans les signes corporels et un dans les tests sur la répartition de l’attention, les membres de la police grand-ducale soumettent la personne concernée à un examen de la sueur ou de la salive. Le choix de l’un des types d’examen précités est laissé à l’appréciation des membres de la police grand-ducale.
 
@@ -711,9 +711,9 @@ Sera puni d’un emprisonnement d’un an à cinq ans et d’une amende de 5 000
 
 § 3. La peine sera celle de la réclusion de quinze à vingt ans:
 
-- 1) Si l’infraction prévue au paragraphe 1 er , 1) et 2) a causé soit une maladie paraissant incurable, soit une incapacité permanente de travail personnel, soit la perte de l’usage absolu d’un organe, soit une mutilation grave;
+- 1) Si l’infraction prévue au paragraphe 1er, 1) et 2) a causé soit une maladie paraissant incurable, soit une incapacité permanente de travail personnel, soit la perte de l’usage absolu d’un organe, soit une mutilation grave;
 
-- 2) Si l’infraction prévue au paragraphe 1 er , 1) et 2) a eu pour conséquence directe la destruction de l’aéronef ou son endommagement grave.
+- 2) Si l’infraction prévue au paragraphe 1er, 1) et 2) a eu pour conséquence directe la destruction de l’aéronef ou son endommagement grave.
 
 § 4. Si l’infraction prévue au paragraphe 1er, 1) et 2) a entraîné la mort d’une personne, le coupable sera puni de la réclusion à vie.
 
@@ -742,9 +742,9 @@ La peine sera celle de la réclusion de dix à quinze ans si l’infraction pré
 
 La peine sera celle de la réclusion de quinze à vingt ans:
 
-- Si l’infraction prévue au paragraphe 1 er a causé soit une maladie paraissant incurable, soit une incapacité permanente de travail personnel, soit la perte de l’usage absolu d’un organe, soit une mutilation grave;
+- Si l’infraction prévue au paragraphe 1er a causé soit une maladie paraissant incurable, soit une incapacité permanente de travail personnel, soit la perte de l’usage absolu d’un organe, soit une mutilation grave;
 
-- Si l’infraction prévue au paragraphe 1 er a eu pour conséquence directe la destruction des installations de l’aéroport ou de l’aéronef, ou son endommagement grave.
+- Si l’infraction prévue au paragraphe 1er a eu pour conséquence directe la destruction des installations de l’aéroport ou de l’aéronef, ou son endommagement grave.
 
 (4)
 
@@ -782,7 +782,7 @@ Sera puni d’une amende de 25 euros à 250 euros :
 
 - tout pilote à distance qui, par l’usage d’un aéronef sans équipage à bord, a projeté ou laissé tomber un objet ayant causé un dommage à autrui ;
 
-- tout pilote à distance qui n’a pas fait descendre son aéronef sans équipage à bord ou qui n’a pas obtempéré aux injonctions conformément à l’article 38 bis .
+- tout pilote à distance qui n’a pas fait descendre son aéronef sans équipage à bord ou qui n’a pas obtempéré aux injonctions conformément à l’article 38bis.
 
 Sera puni des mêmes peines l’exploitant d’aéronefs sans équipage à bord qui aura sciemment permis les opérations sanctionnées par l’alinéa 1er, points 2° à 10°.
 
@@ -843,7 +843,7 @@ Le pilote à distance obtempère aux injonctions des agents visés à l’articl
 
 - lors de contrôles du respect des exigences légales et règlementaires effectués par ces agents ;
 
-- lors de la constatation d’infractions à l’article 32 bis ;
+- lors de la constatation d’infractions à l’article 32bis ;
 
 - en cas de mise en danger de personnes ou de biens au sol ou en l’air.
 
@@ -968,7 +968,7 @@ Le présent article s’applique sans préjudice des dispositions relatives à l
 
 Le ministre ayant la Navigation et les transports aériens dans ses attributions peut infliger :
 
-- 1° une amende de 1 250 euros à 5 000 euros à toute entité établie sur le territoire du Grand-Duché de Luxembourg qui se trouve soumise aux exigences du règlement (UE) n° 376/2014 du Parlement européen et du Conseil du 3 avril 2014 concernant les comptes rendus, l’analyse et le suivi d’événements dans l’aviation civile, modifiant le règlement (UE) n° 996/2010 du Parlement européen et du Conseil et abrogeant la directive 2003/42/CE du Parlement européen et du Conseil et les règlements de la Commission (CE) n° 1321/2007 et (CE) n° 1330/2007 , qui ne respecte pas les exigences prévues à l’article 16, paragraphe 11 du règlement (UE) n° 376/2014 précité ;
+- 1° une amende de 1 250 euros à 5 000 euros à toute entité établie sur le territoire du Grand-Duché de Luxembourg qui se trouve soumise aux exigences du règlement (UE) n° 376/2014 du Parlement européen et du Conseil du 3 avril 2014 concernant les comptes rendus, l’analyse et le suivi d’événements dans l’aviation civile, modifiant le règlement (UE) n° 996/2010 du Parlement européen et du Conseil et abrogeant la directive 2003/42/CE du Parlement européen et du Conseil et les règlements de la Commission (CE) n° 1321/2007 et (CE) n° 1330/2007, qui ne respecte pas les exigences prévues à l’article 16, paragraphe 11 du règlement (UE) n° 376/2014 précité ;
 
 - 2° une amende de 2 500 euros à 10 000 euros à toute entité établie sur le territoire du Grand-Duché de Luxembourg qui se trouve soumise aux exigences du règlement (UE) n° 376/2014 précité ne respectant pas les dispositions de l’article 42, paragraphe 2.
 

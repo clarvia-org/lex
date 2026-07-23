@@ -50,7 +50,7 @@ Dans ce dernier cas, les conditions suivantes doivent toutefois être remplies:
 
   - soit directement par un établissement de semences ou un obtenteur.
 
-- L'établissement de semences ou l'obtenteur doit faire une déclaration de multiplication et déposer une description de la variété à l'Administration des services techniques de l'agriculture, service de la production végétale, avant le 1 er mars de l'année au cours de laquelle la certification des semences est prévue.
+- L'établissement de semences ou l'obtenteur doit faire une déclaration de multiplication et déposer une description de la variété à l'Administration des services techniques de l'agriculture, service de la production végétale, avant le 1er mars de l'année au cours de laquelle la certification des semences est prévue.
 
 <a id="art-3"></a>
 ## Art. 3.

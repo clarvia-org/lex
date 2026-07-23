@@ -126,11 +126,11 @@ DEFINITIONS
 
 Aux termes du présent règlement,
 
-- « avocat » signifie toute personne, physique ou morale, inscrite au tableau de l’Ordre des Avocats du Barreau de Luxembourg, sauf si spécifié autrement;
+- «avocat» signifie toute personne, physique ou morale, inscrite au tableau de l’Ordre des Avocats du Barreau de Luxembourg, sauf si spécifié autrement;
 
-- « étude » signifie l’infrastructure dont dispose l’avocat pour l’exercice de sa profession à titre individuel ou collectif, et
+- «étude» signifie l’infrastructure dont dispose l’avocat pour l’exercice de sa profession à titre individuel ou collectif, et
 
-- « Loi » signifie la loi du 10 août 1991 sur la profession d’avocat telle que modifiée.
+- «Loi» signifie la loi du 10 août 1991 sur la profession d’avocat telle que modifiée.
 
 ### TITRE 1. PRINCIPES ESSENTIELS
 

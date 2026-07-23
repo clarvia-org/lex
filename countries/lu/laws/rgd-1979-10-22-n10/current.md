@@ -83,7 +83,7 @@ L’Etat, les communes et les autres collectivités de droit public ne sont pas 
 
   - les inhumations, les exhumations et les concessions de tombes ou de caveaux dans les cimetières;
 
-- les activités qui ne sont pas visées aux points 2 et 3 et qui sont exonérées en vertu de l’article 44 de la loi modifiée du 12 février 1979 concernant la taxe sur la valeur ajoutée ou qui sont en relation directe avec ces activités exonérées. Cette disposition n’est toutefois pas applicable aux opérations immobilières pour lesquelles il peut être renoncé à l’exonération conformément à l’article 45 de ladite loi ;
+- les activités qui ne sont pas visées aux points 2 et 3 et qui sont exonérées en vertu de l’article 44 de la loi modifiée du 12 février 1979 concernant la taxe sur la valeur ajoutée ou qui sont en relation directe avec ces activités exonérées. Cette disposition n’est toutefois pas applicable aux opérations immobilières pour lesquelles il peut être renoncé à l’exonération conformément à l’article 45 de ladite loi;
 
 - la vente de déchets, de matériaux et d’autres objets mobiliers provenant d’activités situées en dehors du champ d’application de la taxe sur la valeur ajoutée.
 

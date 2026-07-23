@@ -194,7 +194,7 @@ Deux ans avant l’expiration des licences octroyées pour la mise en place d’
 
 Dans le cadre de la gestion des ondes radioélectriques l’Institut a pour missions :
 
-- la surveillance et le contrôle des obligations découlant de la présente loi, des licences ainsi que des accords communautaires , régionaux et internationaux en matière de spectre radioélectrique. Font partie de cette mission notamment le contrôle de l’utilisation du spectre et la recherche des brouillages. En cas de violation constatée par l’Institut, rapport en est fait au ministre ;
+- la surveillance et le contrôle des obligations découlant de la présente loi, des licences ainsi que des accords communautaires, régionaux et internationaux en matière de spectre radioélectrique. Font partie de cette mission notamment le contrôle de l’utilisation du spectre et la recherche des brouillages. En cas de violation constatée par l’Institut, rapport en est fait au ministre ;
 
 - l’établissement du plan des fréquences ;
 

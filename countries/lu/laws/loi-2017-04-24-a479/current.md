@@ -319,13 +319,13 @@ CCP = (RM3 × RM1 × 0,5) + (RM4 × RM2 × 0,3)
 
 Ces rapports moyens sont les suivants:
 
-- le rapport moyen (RM 1 ) des surfaces de terrain rattachées aux lots, achevés pendant la période de référence triennale, destinés à l’activité de vente visée à l’article 16, point 1, (SVS), rapportées aux surfaces de terrain rattachées à l’ensemble des lots destinés à la vente de la construction avec emphytéose sur la part de terrain (SV), l’expression mathématique de ce rapport étant: R M 1 = S V S a - 4 + S V S a - 3 + S V S a - 2 S V a - 4 + S V a - 3 + S V a - 2 ;
+- le rapport moyen (RM1) des surfaces de terrain rattachées aux lots, achevés pendant la période de référence triennale, destinés à l’activité de vente visée à l’article 16, point 1, (SVS), rapportées aux surfaces de terrain rattachées à l’ensemble des lots destinés à la vente de la construction avec emphytéose sur la part de terrain (SV), l’expression mathématique de ce rapport étant: R M 1 = S V S a - 4 + S V S a - 3 + S V S a - 2 S V a - 4 + S V a - 3 + S V a - 2 ;
 
-- le rapport moyen (RM 2 ) des surfaces de terrain rattachées aux lots, achevés pendant la période de référence triennale, destinés à l’activité de location visée à l’article 16, point 2, (SLS), rapportées aux surfaces de terrain rattachées à l’ensemble des lots destinés à la location (SL), l’expression mathématique de ce rapport étant: R M 2 = S L S a - 4 + S L S a - 3 + S L S a - 2 S L a - 4 + S L a - 3 + S L a - 2 ;
+- le rapport moyen (RM2) des surfaces de terrain rattachées aux lots, achevés pendant la période de référence triennale, destinés à l’activité de location visée à l’article 16, point 2, (SLS), rapportées aux surfaces de terrain rattachées à l’ensemble des lots destinés à la location (SL), l’expression mathématique de ce rapport étant: R M 2 = S L S a - 4 + S L S a - 3 + S L S a - 2 S L a - 4 + S L a - 3 + S L a - 2 ;
 
-- le rapport moyen (RM 3 ) des surfaces de terrain rattachées aux lots, achevés pendant la période de référence triennale, destinés à l’activité de vente visée à l’article 16, point 1, rapportées aux surfaces de terrain rattachées à l’ensemble des lots destinés aux activités tant de vente que de location visées à l’article 16, points 1 et 2, l’expression mathématique de ce rapport étant: R M 3 = S V S a - 4 + S V S a - 3 + S V S a - 2 S V S a - 4 + S V S a - 3 + S V S a - 2 + S L S a - 4 + S L S a - 3 + S L S a - 2 ;
+- le rapport moyen (RM3) des surfaces de terrain rattachées aux lots, achevés pendant la période de référence triennale, destinés à l’activité de vente visée à l’article 16, point 1, rapportées aux surfaces de terrain rattachées à l’ensemble des lots destinés aux activités tant de vente que de location visées à l’article 16, points 1 et 2, l’expression mathématique de ce rapport étant: R M 3 = S V S a - 4 + S V S a - 3 + S V S a - 2 S V S a - 4 + S V S a - 3 + S V S a - 2 + S L S a - 4 + S L S a - 3 + S L S a - 2 ;
 
-- le rapport moyen (RM 4 ) des surfaces de terrain rattachées aux lots, achevés pendant la période de référence triennale, destinés à l’activité de location visée à l’article 16, point 2, rapportées aux surfaces de terrain rattachées à l’ensemble des lots destinés aux activités tant de vente que de location visées à l’article 16, points 1 et 2, l’expression mathématique de ce rapport étant: R M 4 = S L S a - 4 + S L S a - 3 + S L S a - 2 S V S a - 4 + S V S a - 3 + S V S a - 2 + S L S a - 4 + S L S a - 3 + S L S a - 2 .
+- le rapport moyen (RM4) des surfaces de terrain rattachées aux lots, achevés pendant la période de référence triennale, destinés à l’activité de location visée à l’article 16, point 2, rapportées aux surfaces de terrain rattachées à l’ensemble des lots destinés aux activités tant de vente que de location visées à l’article 16, points 1 et 2, l’expression mathématique de ce rapport étant: R M 4 = S L S a - 4 + S L S a - 3 + S L S a - 2 S V S a - 4 + S V S a - 3 + S V S a - 2 + S L S a - 4 + S L S a - 3 + S L S a - 2 .
 
 (3)
 
@@ -507,13 +507,17 @@ L’indication de la nature de tout droit exclusif ou spécial octroyé au Fonds
 
 La loi modifiée du 25 février 1979 concernant l'aide au logement est modifiée comme suit:
 
-- l'article 22, alinéa 3, prend la teneur suivante: « La participation de l'Etat doit être remboursée avec les intérêts au taux légal commercial, si le terrain n'est pas mis en valeur dans un délai de quinze ans à partir de l'acquisition, sauf dispense accordée par le ministre. Ce délai est porté à vingt-cinq ans pour les terrains acquis avant le 1er janvier 2005, sauf dispense accordée par le ministre. »;
+- l'article 22, alinéa 3, prend la teneur suivante:
 
-- l'article 31, alinéa 1, 3 e tiret, se lit dorénavant comme suit: « Elles sont versées aux promoteurs qui doivent les bonifier intégralement aux acquéreurs éligibles, hormis l'aide à l'acquisition de terrains en cas de mise à disposition de la part de terrain par bail emphytéotique »;
+« La participation de l'Etat doit être remboursée avec les intérêts au taux légal commercial, si le terrain n'est pas mis en valeur dans un délai de quinze ans à partir de l'acquisition, sauf dispense accordée par le ministre. Ce délai est porté à vingt-cinq ans pour les terrains acquis avant le 1er janvier 2005, sauf dispense accordée par le ministre. »;
+
+- l'article 31, alinéa 1, 3e tiret, se lit dorénavant comme suit:
+
+« Elles sont versées aux promoteurs qui doivent les bonifier intégralement aux acquéreurs éligibles, hormis l'aide à l'acquisition de terrains en cas de mise à disposition de la part de terrain par bail emphytéotique »;
 
 - les articles 54 à 65 sont abrogés;
 
-- à l'article 66-1, les termes les promoteurs visés à l'article 22, alinéa 1er sont remplacés par ceux de les promoteurs visés à l'article 22, alinéa 1er à l'exception du Fonds du Logement .
+- à l'article 66-1, les termes les promoteurs visés à l'article 22, alinéa 1er sont remplacés par ceux de les promoteurs visés à l'article 22, alinéa 1er à l'exception du Fonds du Logement.
 
 <a id="art-32"></a>
 ## Art. 32.

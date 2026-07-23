@@ -60,7 +60,7 @@ Définitions.
 
 Aux fins du présent règlement grand-ducal, on entend par:
 
-- Accréditation: l’accréditation au sens de l’article 2, point 10) du règlement (CE) n° 765/2008 du Parlement européen et du Conseil du 9 juillet 2008 fixant les prescriptions relatives à l’accréditation et à la surveillance du marché pour la commercialisation des produits;
+- Accréditation: l’accréditation au sens de l’article 2, point 10) du règlement (CE) n°765/2008 du Parlement européen et du Conseil du 9 juillet 2008 fixant les prescriptions relatives à l’accréditation et à la surveillance du marché pour la commercialisation des produits;
 
 - Distributeur: toute personne physique ou morale faisant partie de la chaîne d’approvisionnement, autre que le fabricant ou l’importateur, qui met un instrument à disposition sur le marché;
 
@@ -102,7 +102,7 @@ Aux fins du présent règlement grand-ducal, on entend par:
 
 - Vérification périodique : une vérification d’un instrument en usage, après la période définie à l’article 34, paragraphe 1 ;
 
-- Refus d’un instrument : une décision du Bureau luxembourgeois de métrologie de l’ILNAS en matière de métrologie légale, spécifiant que l’instrument en question ne répond pas aux exigences du présent règlement et qu’il est interdit, avec effet immédiat, de l’utiliser pour les applications de l’article 1 er , paragraphe 2, lettres a) à f) de ce règlement.
+- Refus d’un instrument : une décision du Bureau luxembourgeois de métrologie de l’ILNAS en matière de métrologie légale, spécifiant que l’instrument en question ne répond pas aux exigences du présent règlement et qu’il est interdit, avec effet immédiat, de l’utiliser pour les applications de l’article 1er, paragraphe 2, lettres a) à f) de ce règlement.
 
 <a id="art-3"></a>
 ## Art. 3.

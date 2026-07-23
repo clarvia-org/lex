@@ -39,7 +39,7 @@ La présente loi s’applique aux oeuvres orphelines, au sens de l’article 2, 
 
 - les oeuvres publiées sous la forme de livres, revues, journaux, magazines ou autres écrits faisant partie des collections des bibliothèques, des musées accessibles au public, des services d’archives, des institutions dépositaires du patrimoine cinématographique ou sonore ou des établissements d’enseignement;
 
-- les oeuvres cinématographiques ou audiovisuelles et les phonogrammes faisant partie de ces collections ou qui ont été produits par des organismes de radiodiffusion de service public avant le 1 er janvier 2003 et qui font partie de leurs archives.
+- les oeuvres cinématographiques ou audiovisuelles et les phonogrammes faisant partie de ces collections ou qui ont été produits par des organismes de radiodiffusion de service public avant le 1er janvier 2003 et qui font partie de leurs archives.
 
 (3)
 
@@ -156,9 +156,9 @@ Utilisations autorisées des oeuvres orphelines.
 
 Les organismes visés à l’article 1er, paragraphe 1er sont autorisés:
 
-- à mettre les oeuvres orphelines présentes dans leurs collections à disposition du public sans être tenus au respect des articles 4, 44 , 53 et 56 bis de la loi modifiée du 18 avril 2001 sur les droits d’auteur, les droits voisins et les bases de données;
+- à mettre les oeuvres orphelines présentes dans leurs collections à disposition du public sans être tenus au respect des articles 4, 44, 53 et 56bis de la loi modifiée du 18 avril 2001 sur les droits d’auteur, les droits voisins et les bases de données;
 
-- à reproduire les oeuvres orphelines présentes dans leurs collections à des fins de numérisation, de mise à disposition, d’indexation, de catalogage, de préservation ou de restauration sans être tenus au respect des articles 3, 43 , 53 et 56 bis de la loi précitée du 18 avril 2001 .
+- à reproduire les oeuvres orphelines présentes dans leurs collections à des fins de numérisation, de mise à disposition, d’indexation, de catalogage, de préservation ou de restauration sans être tenus au respect des articles 3, 43, 53 et 56bis de la loi précitée du 18 avril 2001.
 
 (2)
 

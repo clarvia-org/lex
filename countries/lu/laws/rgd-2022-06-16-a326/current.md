@@ -34,9 +34,9 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 Au sens du présent règlement, on entend par :
 
-- « adulte » : toute personne ayant atteint l’âge de la majorité au 1 er septembre précédant l’année scolaire de référence et qui suit les cours d’adultes ;
+- « adulte » : toute personne ayant atteint l’âge de la majorité au 1er septembre précédant l’année scolaire de référence et qui suit les cours d’adultes ;
 
-- « âge révolu avant le 1 er septembre » : âge révolu avant le 1 er septembre précédant l’année scolaire de référence ;
+- « âge révolu avant le 1er septembre » : âge révolu avant le 1er septembre précédant l’année scolaire de référence ;
 
 - « branche » : toute branche de l’enseignement musical qui peut être enseignée par l’établissement ;
 
@@ -72,7 +72,7 @@ Au sens du présent règlement, on entend par :
 
 - « gros cuivres » : le baryton, l’euphonium, le tuba basse et la contrebasse ;
 
-- « instruments à vent » : le hautbois, le cor anglais, le basson, la flûte à bec, la flûte traversière, la flûte piccolo, la clarinette, la clarinette en mib, la clarinette basse, le saxophone, les petits cuivres, l’alto en mib, le cor en fa, le trombone, le trombone basse , l’euphonium et le tuba basse ;
+- « instruments à vent » : le hautbois, le cor anglais, le basson, la flûte à bec, la flûte traversière, la flûte piccolo, la clarinette, la clarinette en mib, la clarinette basse, le saxophone, les petits cuivres, l’alto en mib, le cor en fa, le trombone, le trombone basse, l’euphonium et le tuba basse ;
 
 - « loi » : Loi du 27 mai 2022 portant organisation de l’enseignement musical dans le secteur communal ;
 
@@ -179,9 +179,9 @@ Le cours d’éveil musical comprend deux années d’études au total.
 
 Sont inscrits :
 
-- en « éveil 1 », cours collectif et hebdomadaire d’une durée de soixante minutes, les enfants âgés d’au moins quatre ans révolus avant le 1 er septembre ;
+- en « éveil 1 », cours collectif et hebdomadaire d’une durée de soixante minutes, les enfants âgés d’au moins quatre ans révolus avant le 1er septembre ;
 
-- en « éveil 2 », cours collectif et hebdomadaire d’une durée de soixante minutes, les enfants âgés d’au moins cinq ans révolus avant le 1 er septembre .
+- en « éveil 2 », cours collectif et hebdomadaire d’une durée de soixante minutes, les enfants âgés d’au moins cinq ans révolus avant le 1er septembre.
 
 - en « éveil 3 », cours collectif et hebdomadaire d’une durée de soixante minutes les enfants âgés d’au moins six ans révolus avant le 1er septembre.
 
@@ -214,7 +214,7 @@ Par dérogation à l’alinéa 1er, point 1°, du présent paragraphe, une divis
 
 - « formation musicale accélérée 1 » qui comprend un cours collectif hebdomadaire d’une durée de cent vingt minutes ;
 
-- « formation musicale accélérée 2 » qui comprend un cours collectif hebdomadaire d’une durée de cent vingt minutes .
+- « formation musicale accélérée 2 » qui comprend un cours collectif hebdomadaire d’une durée de cent vingt minutes.
 
 Le passage d’une année à l’autre est fixé et certifié par l’établissement.
 
@@ -256,9 +256,9 @@ L’élève doit obligatoirement suivre les cours de la division moyenne de la f
 
 - la formation chorale visée à l’article 40.
 
-- le chant baroque visé à l’article 38 bis ;
+- le chant baroque visé à l’article 38bis ;
 
-- le chant musical visé à l’article 38 ter ;
+- le chant musical visé à l’article 38ter ;
 
 - le chant jazz visé à l’article 41.
 
@@ -810,11 +810,11 @@ L’éveil instrumental comprend trois années d’études au total avec un cour
 
 Sont inscrits :
 
-- en « éveil 1 », les enfants âgés d’au moins cinq ans révolus avant le 1 er septembre ;
+- en « éveil 1 », les enfants âgés d’au moins cinq ans révolus avant le 1er septembre ;
 
-- en « éveil 2 », les enfants âgés d’au moins six ans révolus avant le 1 er septembre ;
+- en « éveil 2 », les enfants âgés d’au moins six ans révolus avant le 1er septembre ;
 
-- en « éveil 3 », les enfants âgés d’au moins sept ans révolus avant le 1 er septembre.
+- en « éveil 3 », les enfants âgés d’au moins sept ans révolus avant le 1er septembre.
 
 Le passage d’une année à l’autre se fait en fonction de l’âge de l’enfant.
 
@@ -1892,9 +1892,9 @@ Un adulte peut accéder à la formation qualifiante sur décision de la commune 
 
 - avoir quitté un établissement depuis au moins trois années scolaires ;
 
-- avoir suivi des cours de chant classique, chant rock/pop , chant baroque, chant musical ou chant jazz visés aux articles 34, 37 , 38 bis , 38 ter et 41 ;
+- avoir suivi des cours de chant classique, chant rock/pop , chant baroque, chant musical ou chant jazz visés aux articles 34, 37, 38bis, 38ter et 41 ;
 
-- avoir acquis au moins un niveau d’études correspondant au niveau de l’inférieur 3.2 visé aux articles 34, 37 , 38 bis , 38 ter et 41.
+- avoir acquis au moins un niveau d’études correspondant au niveau de l’inférieur 3.2 visé aux articles 34, 37, 38bis, 38ter et 41.
 
 La formation qualifiante est limitée à deux années d’études, en degré inférieur, dénommées « adultes 1 qualifiante » et « adultes 2 qualifiante », avec un cours individuel hebdomadaire d’une durée de trente minutes.
 
@@ -2173,7 +2173,7 @@ L’organigramme et le programme d’études détaillé de la formation musicale
 
 Le cours d’histoire de la danse comprend deux années d’études au degré moyen, dénommées « moyen 1 » et « moyen 2 », avec un cours collectif hebdomadaire d’une durée de soixante minutes. Il est clôturé par l’obtention du certificat du degré moyen.
 
-Est admissible au cours, tout élève ayant réussi au moins le niveau d’études  « inférieur 5 base »  du cours de danse classique prévu à l’article 64 ou le niveau d’études  « inférieur 4 base »  du cours de danse contemporaine prévu à l’article 65 ou du cours de danse jazz prévu à l’article 66 .
+Est admissible au cours, tout élève ayant réussi au moins le niveau d’études « inférieur 5 base » du cours de danse classique prévu à l’article 64 ou le niveau d’études « inférieur 4 base » du cours de danse contemporaine prévu à l’article 65 ou du cours de danse jazz prévu à l’article 66 .
 
 (2)
 
@@ -2231,11 +2231,11 @@ L’éveil à la danse comprend trois années d’études au total.
 
 Sont inscrits :
 
-- en « éveil 1 », cours collectif et hebdomadaire d’une durée de quarante-cinq minutes, les enfants âgés d’au moins quatre ans révolus avant le 1 er septembre ;
+- en « éveil 1 », cours collectif et hebdomadaire d’une durée de quarante-cinq minutes, les enfants âgés d’au moins quatre ans révolus avant le 1er septembre ;
 
-- en « éveil 2 », cours collectif et hebdomadaire d’une durée de quarante-cinq minutes, les enfants âgés d’au moins cinq ans révolus avant le 1 er septembre ;
+- en « éveil 2 », cours collectif et hebdomadaire d’une durée de quarante-cinq minutes, les enfants âgés d’au moins cinq ans révolus avant le 1er septembre ;
 
-- en « éveil 3 », cours collectif et hebdomadaire d’une durée de soixante minutes, les enfants âgés d’au moins six ans révolus avant le 1 er septembre.
+- en « éveil 3 », cours collectif et hebdomadaire d’une durée de soixante minutes, les enfants âgés d’au moins six ans révolus avant le 1er septembre.
 
 Le passage d’une année à l’autre se fait en fonction de l’âge de l’enfant.
 
@@ -2462,7 +2462,7 @@ Est admissible au cours, tout élève ayant obtenu le certificat de la division 
 
 - une des branches instrumentales de la formation instrumentale ou de la formation instrumentale jazz ;
 
-- chant classique , chant rock/pop , chant jazz , chant baroque , chant musical .
+- chant classique, chant rock/pop , chant jazz , chant baroque , chant musical .
 
 (2)
 
@@ -2525,7 +2525,7 @@ En sus du cours de didactique et méthodologie visé à l’article 68, et suiva
 
 - pour la dominante instrument / chant :
 
-  - un cours d’une des branches instrumentales de la formation instrumentale ou de la formation instrumentale jazz ou un cours de chant classique, chant rock/pop , chant jazz , ou chant baroque ou chant musical , comprenant trois années d’études en degré supérieur, dénommées « supérieur 1 », « supérieur 2 » et « supérieur 3 », avec un cours individuel hebdomadaire d’une durée de quatre-vingt-dix minutes. Il est clôturé par l’obtention du certificat du degré supérieur ; Sur demande motivée de l’enseignant à adresser au directeur, avant le début de l’année scolaire concernée et après accord de celui-ci, une année d’études supplémentaire peut être autorisée à l’intérieur du degré supérieur, dénommée « supérieur 4 » avec un cours individuel hebdomadaire d’une durée de soixante minutes ;
+  - un cours d’une des branches instrumentales de la formation instrumentale ou de la formation instrumentale jazz ou un cours de chant classique, chant rock/pop , chant jazz, ou chant baroque ou chant musical , comprenant trois années d’études en degré supérieur, dénommées « supérieur 1 », « supérieur 2 » et « supérieur 3 », avec un cours individuel hebdomadaire d’une durée de quatre-vingt-dix minutes. Il est clôturé par l’obtention du certificat du degré supérieur ; Sur demande motivée de l’enseignant à adresser au directeur, avant le début de l’année scolaire concernée et après accord de celui-ci, une année d’études supplémentaire peut être autorisée à l’intérieur du degré supérieur, dénommée « supérieur 4 » avec un cours individuel hebdomadaire d’une durée de soixante minutes ;
 
   - le cours de musique d’ensemble comprenant trois années d’études en degré supérieur, dénommées « supérieur 1 », « supérieur 2 » et « supérieur 3 », avec un cours collectif hebdomadaire d’une durée de soixante minutes ;
 
@@ -2873,7 +2873,7 @@ L’élève est censé se présenter à l’examen pour l’obtention du diplôm
 
 (2)
 
-Sur demande motivée de l’enseignant à adresser au directeur, et après accord de celui-ci et suivant les dispositions fixées par le présent règlement, le directeur peut autoriser un allongement d’une année d’études pour se présenter à l’examen pour l’obtention du diplôme supérieur, dénommée  « supérieur 3 »  , d’une durée hebdomadaire identique à l’année d’études dénommée  « supérieur 2 »  de la branche concernée .
+Sur demande motivée de l’enseignant à adresser au directeur, et après accord de celui-ci et suivant les dispositions fixées par le présent règlement, le directeur peut autoriser un allongement d’une année d’études pour se présenter à l’examen pour l’obtention du diplôme supérieur, dénommée « supérieur 3 » , d’une durée hebdomadaire identique à l’année d’études dénommée « supérieur 2 » de la branche concernée .
 
 Le nombre total d’années d’études pour la division supérieure est limité à trois, pour autant qu’il ne soit pas autrement disposé dans le présent règlement.
 

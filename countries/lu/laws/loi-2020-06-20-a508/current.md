@@ -38,7 +38,7 @@ L’État, représenté par le ministre ayant l’Économie dans ses attribution
 
 Sont exclus du champ d’application de la présente loi :
 
-- les entreprises qui étaient en difficulté avant le 1 er janvier 2020 conformément à l’article 2, paragraphe 18, du règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 déclarant certaines catégories d’aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité sur le fonctionnement de l’Union européenne ;
+- les entreprises qui étaient en difficulté avant le 1er janvier 2020 conformément à l’article 2, paragraphe 18, du règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 déclarant certaines catégories d’aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité sur le fonctionnement de l’Union européenne ;
 
 - les employeurs qui ont été condamnés à au moins deux reprises pour contraventions aux dispositions interdisant le travail clandestin ou aux dispositions interdisant l’emploi de ressortissants de pays tiers en séjour irrégulier, au cours des quatre dernières années précédant le jugement de la juridiction compétente.
 

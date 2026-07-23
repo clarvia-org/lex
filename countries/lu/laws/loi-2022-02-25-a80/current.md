@@ -91,7 +91,7 @@ Au sens de la présente loi, l’on entend par :
 
 - « secteur protégé d’intérêt national » : une zone qui regroupe des parties du territoire en vue de mettre en valeur un ou plusieurs biens immeubles classés comme patrimoine culturel national, de permettre un aménagement adéquat des alentours de ces biens immeubles et de créer, rétablir ou sauvegarder la cohérence architecturale, urbanistique et paysagère des espaces visés ;
 
-- « biens culturels » : les biens qui, à titre religieux ou profane, revêtent de l’importance pour l’archéologie, la préhistoire, l’histoire, la littérature, l’art, ou la science et qui font partie de l’une des catégories prévues à l’article 1 er de la Convention concernant les mesures à prendre pour interdire et empêcher l’importation, l’exportation et le transfert de propriété illicites des biens culturels, adoptée par la Conférence générale de l’UNESCO à sa seizième session, à Paris, le 14 novembre 1970, et approuvée par la loi du 17 décembre 2014 , ci-après « Convention de l’UNESCO » ;
+- « biens culturels » : les biens qui, à titre religieux ou profane, revêtent de l’importance pour l’archéologie, la préhistoire, l’histoire, la littérature, l’art, ou la science et qui font partie de l’une des catégories prévues à l’article 1er de la Convention concernant les mesures à prendre pour interdire et empêcher l’importation, l’exportation et le transfert de propriété illicites des biens culturels, adoptée par la Conférence générale de l’UNESCO à sa seizième session, à Paris, le 14 novembre 1970, et approuvée par la loi du 17 décembre 2014, ci-après « Convention de l’UNESCO » ;
 
 - « collections publiques » : les biens culturels appartenant à l’État, aux instituts culturels de l’État tels que définis par la loi modifiée du 25 juin 2004 portant réorganisation des instituts culturels de l’État, aux établissements publics de droit luxembourgeois à vocation culturelle, ainsi qu’à la Fondation Musée d’Art moderne Grand-Duc Jean ;
 
@@ -1633,9 +1633,9 @@ La garantie d’État est accordée par arrêté du ministre sur avis du ministr
 
 La commission de circulation des biens culturels instituée à l’article 110 est entendue en son avis lorsque :
 
-- les biens culturels faisant l’objet de la garantie d’État ont une valeur supérieure à 100 000 euros, ce montant étant établi sur base de la valeur 814,40 de la cote d’application de l’échelle mobile des salaires et variant en fonction de l’évolution de celle-ci, et que le bénéficiaire de la garantie est une entité au sens de l’article 96, paragraphe 1 er , alinéa 1 er , point 2° ou 3° ;
+- les biens culturels faisant l’objet de la garantie d’État ont une valeur supérieure à 100 000 euros, ce montant étant établi sur base de la valeur 814,40 de la cote d’application de l’échelle mobile des salaires et variant en fonction de l’évolution de celle-ci, et que le bénéficiaire de la garantie est une entité au sens de l’article 96, paragraphe 1er, alinéa 1er, point 2° ou 3° ;
 
-- le bénéficiaire de la garantie est une entité au sens de l’article 96, paragraphe 1 er , alinéa 2 .
+- le bénéficiaire de la garantie est une entité au sens de l’article 96, paragraphe 1er, alinéa 2 .
 
 L’avis de la commission de circulation des biens culturels est produit dans un délai d’un mois à partir de la réception de la demande de garantie d’État. Passé ce délai la demande de garantie est censée être agréée.
 
@@ -1919,53 +1919,53 @@ L’article 458 du Code pénal est applicable aux agents visés au paragraphe 4.
 
 Sans préjudice des peines prévues par d’autres dispositions légales, est punie d’une amende de 500 à 1 000 000 euros :
 
-- toute personne qui par infraction à l’article 4, paragraphe 1 er , alinéa 2, planifie des travaux de construction, de démolition ou de remblai et de déblai sur un terrain situé dans la zone d’observation archéologique sans les soumettre au ministre à des fins d’évaluation au plus tard au moment de l’introduction de la demande de l’autorisation de construire ou de démolir ;
+- toute personne qui par infraction à l’article 4, paragraphe 1er, alinéa 2, planifie des travaux de construction, de démolition ou de remblai et de déblai sur un terrain situé dans la zone d’observation archéologique sans les soumettre au ministre à des fins d’évaluation au plus tard au moment de l’introduction de la demande de l’autorisation de construire ou de démolir ;
 
-- toute personne qui par infraction à l’article 9, paragraphe 1 er , alinéa 1 er , effectue des opérations d’archéologie préventive sans agrément ministériel ;
+- toute personne qui par infraction à l’article 9, paragraphe 1er, alinéa 1er, effectue des opérations d’archéologie préventive sans agrément ministériel ;
 
-- toute personne qui par infraction à l’article 11, alinéa 1 er , procède à des recherches archéologiques de terrain sans autorisation ministérielle ;
+- toute personne qui par infraction à l’article 11, alinéa 1er, procède à des recherches archéologiques de terrain sans autorisation ministérielle ;
 
-- toute personne qui par infraction à l’article 12, alinéa 1 er , procède à l’emploi de détecteurs de métaux et de tout autre équipement de détection électronique et magnétique en vue de la recherche des éléments du patrimoine archéologique sans autorisation ministérielle ;
+- toute personne qui par infraction à l’article 12, alinéa 1er, procède à l’emploi de détecteurs de métaux et de tout autre équipement de détection électronique et magnétique en vue de la recherche des éléments du patrimoine archéologique sans autorisation ministérielle ;
 
-- toute personne qui par infraction à l’article 13 procède à la vente, à l’annonce de publicités ou à la fabrication de détecteurs de métaux sans insérer le libellé de l’article 12 dans la notice d’utilisation, la publicité ou toute autre documentation décrivant ou faisant publicité pour le produit assorti de la mention suivante : « Toute personne qui par infraction à l’article 12, alinéa 1 er , de la loi du 25 février 2022 relative au patrimoine culturel procède à l’emploi de détecteurs de métaux et de tout autre équipement de détection électronique et magnétique en vue de la recherche des éléments du patrimoine archéologique sans autorisation ministérielle est punie d’une amende de 500 à 1 000 000 euros conformément à l’article 117, point 4 de ladite loi. » ;
+- toute personne qui par infraction à l’article 13 procède à la vente, à l’annonce de publicités ou à la fabrication de détecteurs de métaux sans insérer le libellé de l’article 12 dans la notice d’utilisation, la publicité ou toute autre documentation décrivant ou faisant publicité pour le produit assorti de la mention suivante : « Toute personne qui par infraction à l’article 12, alinéa 1er, de la loi du 25 février 2022 relative au patrimoine culturel procède à l’emploi de détecteurs de métaux et de tout autre équipement de détection électronique et magnétique en vue de la recherche des éléments du patrimoine archéologique sans autorisation ministérielle est punie d’une amende de 500 à 1 000 000 euros conformément à l’article 117, point 4 de ladite loi. » ;
 
-- toute personne, ayant découvert des éléments du patrimoine archéologique lors de travaux de construction, de démolition ou de remblai et de déblai ou de tout autre fait quelconque ou étant propriétaire d’un terrain sur lequel la découverte a été faite, qui par infraction à l’article 16, alinéa 1 er ,
+- toute personne, ayant découvert des éléments du patrimoine archéologique lors de travaux de construction, de démolition ou de remblai et de déblai ou de tout autre fait quelconque ou étant propriétaire d’un terrain sur lequel la découverte a été faite, qui par infraction à l’article 16, alinéa 1er,
 
   - ne veille pas à l’arrêt immédiat des travaux sur le terrain concerné et au maintien en l’état sans déplacement de tout élément du patrimoine archéologique découvert ;
 
   - n’informe pas l’Institut national de recherches archéologiques au plus tard le jour ouvré qui suit la découverte en indiquant l’endroit précis des découvertes ;
 
-- toute personne qui par infraction à l’article 17, alinéa 1 er , déplace tout élément du patrimoine archéologique découvert sans l’accord écrit préalable du ministre ;
+- toute personne qui par infraction à l’article 17, alinéa 1er, déplace tout élément du patrimoine archéologique découvert sans l’accord écrit préalable du ministre ;
 
-- toute personne qui par infraction à l’article 27, paragraphe 1 er , dans un secteur protégé d’intérêt national, procède, sans autorisation ministérielle, à des travaux soumis à une telle autorisation ;
+- toute personne qui par infraction à l’article 27, paragraphe 1er, dans un secteur protégé d’intérêt national, procède, sans autorisation ministérielle, à des travaux soumis à une telle autorisation ;
 
-- toute personne qui par infraction à l’article 28 procède, sans autorisation ministérielle, à des travaux sur des immeubles figurant à l’inventaire du patrimoine architectural entre la publication prévue à l’article 25, paragraphe 1 er , et l’entrée en vigueur du règlement grand-ducal de classement ;
+- toute personne qui par infraction à l’article 28 procède, sans autorisation ministérielle, à des travaux sur des immeubles figurant à l’inventaire du patrimoine architectural entre la publication prévue à l’article 25, paragraphe 1er, et l’entrée en vigueur du règlement grand-ducal de classement ;
 
-- toute personne qui par infraction à l’article 30, paragraphes 1 er , 2 et 3, alinéa 1 er , procède à :
+- toute personne qui par infraction à l’article 30, paragraphes 1er, 2 et 3, alinéa 1er, procède à :
 
   - un travail de réparation, de restauration ou de modification quelconque, autres que l’entretien, à faire réaliser à l’extérieur et à l’intérieur de l’immeuble classé comme patrimoine culturel national sans une autorisation ministérielle ;
 
   - un adossement d’une construction nouvelle sur un immeuble classé comme patrimoine culturel national sans une autorisation ministérielle ;
 
-- toute personne qui par infraction à l’article 43, paragraphe 1 er , fait installer une publicité sur un bien immeuble classé comme patrimoine culturel national sans l’autorisation ministérielle préalable ;
+- toute personne qui par infraction à l’article 43, paragraphe 1er, fait installer une publicité sur un bien immeuble classé comme patrimoine culturel national sans l’autorisation ministérielle préalable ;
 
 - toute personne qui par infraction à l’article 51, paragraphe 2, procède à la modification, la réparation ou la restauration d’un bien culturel classé comme patrimoine culturel national sans une autorisation écrite du ministre ;
 
 - toute personne qui par infraction à l’article 51, paragraphe 4, transfère à titre définitif un bien culturel classé comme patrimoine culturel national hors du territoire national ;
 
-- toute personne qui par infraction à l’article 52, paragraphe 1 er , cède un bien culturel classé comme patrimoine culturel national ou inscrit sur la liste des biens culturels d’intérêt patrimonial sans informer l’acquéreur de l’existence du classement ;
+- toute personne qui par infraction à l’article 52, paragraphe 1er, cède un bien culturel classé comme patrimoine culturel national ou inscrit sur la liste des biens culturels d’intérêt patrimonial sans informer l’acquéreur de l’existence du classement ;
 
 - toute personne qui par infraction à l’article 52, paragraphe 2, omet de notifier au ministre toute dépossession involontaire ou disparition d’un bien culturel classé comme patrimoine culturel dès sa découverte ;
 
-- toute personne propriétaire d’un bien culturel classé comme patrimoine culturel national qui, par infraction à l’article 53, paragraphe 1 er , procède à la cession du bien culturel sans notification préalable au ministre au moins un mois avant la cession ;
+- toute personne propriétaire d’un bien culturel classé comme patrimoine culturel national qui, par infraction à l’article 53, paragraphe 1er, procède à la cession du bien culturel sans notification préalable au ministre au moins un mois avant la cession ;
 
 - toute personne qui, par infraction à l’article 54, procède à l’aliénation d’un bien culturel classé comme patrimoine culturel national appartenant à l’État ;
 
 - toute personne qui, par infraction à l’article 55, procède à la cession d’un bien culturel classé comme patrimoine culturel national appartenant à une commune ou à un établissement public sans une autorisation ministérielle ;
 
-- toute personne ayant la qualité d’officier public ou habilitée à organiser une cession par vente publique de biens culturels visés par l’article 44, paragraphe 2, qui, par infraction à l’article 63, paragraphe 1 er , procède à la cession par vente publique d’un tel bien culturel et omet d’aviser le ministre au moins quinze jours avant la communication de cette vente au public et d’accompagner cet avis de toutes informations utiles sur ces biens ;
+- toute personne ayant la qualité d’officier public ou habilitée à organiser une cession par vente publique de biens culturels visés par l’article 44, paragraphe 2, qui, par infraction à l’article 63, paragraphe 1er, procède à la cession par vente publique d’un tel bien culturel et omet d’aviser le ministre au moins quinze jours avant la communication de cette vente au public et d’accompagner cet avis de toutes informations utiles sur ces biens ;
 
-- toute personne qui, par infraction à l’article 64, paragraphe 1 er , procède à la cession d’un bien culturel et omet de vérifier que celui-ci ne correspond pas à un des cas de figure prévus par cette disposition et toute personne qui, par infraction à l’article 64, paragraphe 1 er , procède à la cession d’un bien culturel après avoir constaté que celui-ci correspond à un des cas de figure prévus par cette disposition ;
+- toute personne qui, par infraction à l’article 64, paragraphe 1er, procède à la cession d’un bien culturel et omet de vérifier que celui-ci ne correspond pas à un des cas de figure prévus par cette disposition et toute personne qui, par infraction à l’article 64, paragraphe 1er, procède à la cession d’un bien culturel après avoir constaté que celui-ci correspond à un des cas de figure prévus par cette disposition ;
 
 - toute personne dont l’activité professionnelle comprend le commerce de biens culturels, y compris les personnes pratiquant la vente aux enchères, qui, par infraction à l’article 65, omet, en plus des vérifications de l’article 64 :
 
@@ -1979,19 +1979,19 @@ Sans préjudice des peines prévues par d’autres dispositions légales, est pu
 
   - de fournir au ministre, sur sa demande, tous les renseignements nécessaires concernant l’accomplissement du devoir de diligence ;
 
-- toute personne qui, par infraction à l’article 66, paragraphe 1 er , procède à l’aliénation d’un bien culturel relevant des collections publiques ;
+- toute personne qui, par infraction à l’article 66, paragraphe 1er, procède à l’aliénation d’un bien culturel relevant des collections publiques ;
 
-- toute personne qui, par infraction à l’article 68, alinéa 1 er , procède au transfert définitif vers un autre État membre de l’Union européenne d’un bien culturel visé par l’article 44, paragraphe 2, et remplissant les conditions de valeur et d’ancienneté en Annexe I et qui omet d’accompagner ce bien culturel d’un certificat de transfert définitif délivré par le ministre ;
+- toute personne qui, par infraction à l’article 68, alinéa 1er, procède au transfert définitif vers un autre État membre de l’Union européenne d’un bien culturel visé par l’article 44, paragraphe 2, et remplissant les conditions de valeur et d’ancienneté en Annexe I et qui omet d’accompagner ce bien culturel d’un certificat de transfert définitif délivré par le ministre ;
 
 - toute personne qui, par infraction à l’article 70, alinéa 3, omet de procéder immédiatement et à ses frais au retour au Grand-Duché de Luxembourg du bien culturel dont l’autorisation de sortie temporaire est devenue caduque ;
 
-- toute personne qui, par infraction à l’article 72, paragraphe 1 er , transfère au Grand-Duché de Luxembourg un bien culturel ayant quitté illicitement le territoire national d’un État membre de l’Union européenne en violation de la législation de cet État membre en matière de protection des trésors nationaux ;
+- toute personne qui, par infraction à l’article 72, paragraphe 1er, transfère au Grand-Duché de Luxembourg un bien culturel ayant quitté illicitement le territoire national d’un État membre de l’Union européenne en violation de la législation de cet État membre en matière de protection des trésors nationaux ;
 
 - toute personne qui, par infraction à l’article 115 continue les travaux contraires à la loi ou à une décision ministérielle prise en vertu de la loi et qui font l’objet d’une interdiction ministérielle affichée par les soins de l’Institut national de recherches archéologiques ou de l’Institut national pour le patrimoine architectural aux abords du lieu des travaux ;
 
-- toute personne propriétaire d’un bien immeuble retenu au jour de l’entrée en vigueur de la loi comme construction à conserver par un plan d’aménagement général d’une commune, qui, par infraction à l’article 129, paragraphe 1 er , omet d’informer le ministre de tout projet de démolition, totale ou partielle, et de la transformation de la construction à conserver, cela au plus tard au moment de l’introduction de la demande de construire ou de démolir ;
+- toute personne propriétaire d’un bien immeuble retenu au jour de l’entrée en vigueur de la loi comme construction à conserver par un plan d’aménagement général d’une commune, qui, par infraction à l’article 129, paragraphe 1er, omet d’informer le ministre de tout projet de démolition, totale ou partielle, et de la transformation de la construction à conserver, cela au plus tard au moment de l’introduction de la demande de construire ou de démolir ;
 
-- toute personne qui, par infraction aux articles 2, point 1, et 4, du règlement (CE) 116/2009 , procède à l’exportation de biens culturels hors du territoire douanier de la l’Union européenne et omet de présenter une autorisation d’exportation à l’appui de la déclaration d’exportation lors de l’accomplissement des formalités douanières d’exportation auprès du bureau de douane compétent pour l’acceptation de ladite déclaration ;
+- toute personne qui, par infraction aux articles 2, point 1, et 4, du règlement (CE) 116/2009, procède à l’exportation de biens culturels hors du territoire douanier de la l’Union européenne et omet de présenter une autorisation d’exportation à l’appui de la déclaration d’exportation lors de l’accomplissement des formalités douanières d’exportation auprès du bureau de douane compétent pour l’acceptation de ladite déclaration ;
 
 - toute personne qui, par infraction à l’article 3, point 1 du règlement (UE) 2019/880 procède à l’introduction de biens culturels visés à la partie A de l’annexe du règlement (UE) 2019/880 et qui ont été sortis du territoire du pays dans lequel ils ont été créés ou découverts en violation des dispositions législatives et réglementaires de ce pays ;
 
@@ -1999,7 +1999,7 @@ Sans préjudice des peines prévues par d’autres dispositions légales, est pu
 
   - une licence d’importation délivrée conformément à l’article 4 du règlement (UE) 2019/880 ; soit
 
-  - une déclaration de l’importateur présentée conformément à l’article 5 du règlement (UE) 2019/880 .
+  - une déclaration de l’importateur présentée conformément à l’article 5 du règlement (UE) 2019/880.
 
 La tentative est punissable d’une amende de 251 à 500 000 euros.
 
@@ -2034,17 +2034,150 @@ La loi modifiée du 25 juin 2004 portant réorganisation des instituts culturels
 
 - Les termes Service des sites et monuments nationaux sont remplacés par les termes Institut national pour le patrimoine architectural et les termes Centre national de recherche archéologique sont remplacés par Institut national de recherches archéologiques ;
 
-- L’article 1 er est remplacé comme suit : « Art. 1er. Les instituts culturels de l’État comprennent les Archives nationales, la Bibliothèque nationale, le Musée national d’histoire et d’art, le Musée national d’histoire naturelle, l’Institut national pour le patrimoine architectural, le Centre national de l’audiovisuel, le Centre national de littérature et l’Institut national de recherches archéologiques » ;
+- L’article 1er est remplacé comme suit :
+
+« Art. 1er.
+
+Les instituts culturels de l’État comprennent les Archives nationales, la Bibliothèque nationale, le Musée national d’histoire et d’art, le Musée national d’histoire naturelle, l’Institut national pour le patrimoine architectural, le Centre national de l’audiovisuel, le Centre national de littérature et l’Institut national de recherches archéologiques » ;
 
 - À l’article 3 est inséré une dernière phrase qui se lit comme suit : Les instituts culturels de l’État établissent et tiennent à jour un inventaire de leurs collections publiques au sens de la loi du 25 février 2022 relative au patrimoine culturel ;
 
-- Le chapitre 2, point III, est modifié comme suit : « III. Musée national d’histoire et d’art Art. 12. Le Musée national d’histoire et d’art a pour missions : de réunir, d’étudier, de conserver et d’exposer des collections archéologiques, historiques et artistiques nationales et internationales ; de réunir et de conserver des documents iconographiques ainsi qu’une bibliothèque thématique qui sont en rapport avec ses activités ; d’organiser des expositions temporaires, des colloques, des conférences ainsi que des activités pédagogiques qui sont en rapport avec ses activités ; de gérer des dépendances scientifiques, muséales, éducatives et techniques dont notamment le Musée de la Villa romaine d’Echternach et le Musée Draï Eechelen – Forteresse, Histoire, Identités ; de collaborer à la création et à la gestion de musées régionaux et locaux d’histoire, d’archéologie et d’art ; de coopérer avec la Commission pour le patrimoine culturel ainsi que la Commission de circulation des biens culturels. » ;
+- Le chapitre 2, point III, est modifié comme suit :
 
-- L’article 13 est modifié comme suit : « Le Musée national d’histoire et d’art comprend, outre les services administratifs et techniques nécessaires à son bon fonctionnement, les départements suivants : Département « Collections nationales d’archéologie, d’histoire et d’art » les collections d’archéologie préhistorique, les collections d’archéologie protohistorique, les collections d’archéologie gallo-romaine, les collections d’archéologie médiévale et postmédiévale, la section d’histoire luxembourgeoise, la section des arts décoratifs et populaires, la section des beaux-arts, la section d’art contemporain, le cabinet des médailles, le cabinet des estampes, le centre de documentation sur la forteresse de Luxembourg. Département « Services spéciaux » le service de la restauration et des ateliers, le service des publics, le service de la bibliothèque et des archives le service de la régie et de la gestion des dépôts, le service informatique, le service des relations publiques, le service des publications, le service de la numérisation et de l’inventaire. » ;
+##### « III. Musée national d’histoire et d’art
 
-- Le chapitre V est modifié comme suit : V. Institut national pour le patrimoine architectural Art. 16. L’Institut national pour le patrimoine architectural a pour missions : l’étude, la conservation, la protection et la mise en valeur du patrimoine architectural et du patrimoine industriel mobilier et des biens culturels meublant les édifices religieux ; l’établissement et la tenue à jour d’un inventaire du patrimoine architectural au sens de l’article 23 de la loi du 25 février 2022 relative au patrimoine culturel ; de proposer la création des secteurs protégés d’intérêt national ; de surveiller l’exécution des travaux réalisés sur des immeubles classés comme patrimoine culturel national et de conseiller et d’assister les maîtres d’ouvrages ; d’organiser des campagnes de sensibilisation, des expositions et des conférences sur le patrimoine architectural ; de coordonner et de surveiller les initiatives publiques en matière de restauration du patrimoine architectural ; Art. 17. L’Institut national pour le patrimoine architectural comprend, outre les services administratifs et techniques nécessaires à son bon fonctionnement un service de l’inventaire scientifique et un service pédagogique ;
+Art. 12.
 
-- Après l’article 24, il est introduit un article 24 bis précédé de l’intitulé « VIII. –Institut national de recherches archéologiques », qui prend la teneur suivante : « Art. 24bis. (1) L’Institut national de recherches archéologiques a pour missions : d’étudier, de protéger, de conserver et de valoriser le patrimoine archéologique national ; d’organiser et de promouvoir toutes formes de recherches scientifiques en archéologie ; de traiter les dossiers relatifs à l’archéologie préventive et les demandes d’évaluation archéologique qui lui sont adressées dans le cadre de la loi du 25 février 2022 relative au patrimoine culturel ; d’aviser le ministre dans l’exécution des articles 5 et 6 de la loi du 25 février 2022 relative au patrimoine culturel; d’entreprendre des recherches, des prospections et des fouilles archéologiques ; d’assurer le contrôle scientifique et technique d’organismes privés agréés et publics effectuant des opérations ou recherches archéologiques ; de veiller à la protection, à l’entretien et à la mise en valeur des sites archéologiques conservés antérieurs à l’époque médiévale, et de conseiller l’Institut national pour le patrimoine architectural ce qui concerne l’entretien et la mise en valeur des sites archéologiques d’époque médiévale et moderne ; d’instruire les demandes d’autorisation de recherche archéologique préventive et programmée adressées au ministre ; de réaliser un inventaire du patrimoine archéologique, de gérer et actualiser le recensement cartographié du patrimoine archéologique ; d’assurer les analyses post-fouilles, la gestion et la conservation du mobilier archéologique issu de toutes investigations archéologiques ; de soutenir et conseiller les initiatives bénévoles et associatives visant à promouvoir et protéger le patrimoine archéologique ; de gérer des dépendances scientifiques, didactiques et techniques en relation avec le patrimoine archéologique et de collaborer à la création et à la gestion d’infrastructures régionales et locales concernant le patrimoine archéologique ; de coopérer avec le Musée national d’histoire et d’art et plus particulièrement en ce qui concerne les collections archéologiques ; de coopérer avec l’Institut national pour le patrimoine architectural et la Commission pour le patrimoine culturel ainsi que la Commission de circulation des biens culturels au cas où leurs activités concerneraient aussi le patrimoine archéologique ; de coopérer avec le Musée national d’histoire naturelle pour la sauvegarde et la valorisation du patrimoine qu’il a en charge et toutes autres entités chargées de l’archéologie nationale (2) L’Institut national de recherches archéologiques comprend, outre les services administratifs et techniques nécessaires à son bon fonctionnement, dont un service de comptabilité, les deux départements suivants : Département « Archéologie territoriale » ; Département « Recherche archéologique ».
+Le Musée national d’histoire et d’art a pour missions :
+
+- de réunir, d’étudier, de conserver et d’exposer des collections archéologiques, historiques et artistiques nationales et internationales ;
+
+- de réunir et de conserver des documents iconographiques ainsi qu’une bibliothèque thématique qui sont en rapport avec ses activités ;
+
+- d’organiser des expositions temporaires, des colloques, des conférences ainsi que des activités pédagogiques qui sont en rapport avec ses activités ;
+
+- de gérer des dépendances scientifiques, muséales, éducatives et techniques dont notamment le Musée de la Villa romaine d’Echternach et le Musée Draï Eechelen – Forteresse, Histoire, Identités ;
+
+- de collaborer à la création et à la gestion de musées régionaux et locaux d’histoire, d’archéologie et d’art ;
+
+- de coopérer avec la Commission pour le patrimoine culturel ainsi que la Commission de circulation des biens culturels. » ;
+
+- L’article 13 est modifié comme suit :
+
+« Le Musée national d’histoire et d’art comprend, outre les services administratifs et techniques nécessaires à son bon fonctionnement, les départements suivants :
+
+- Département « Collections nationales d’archéologie, d’histoire et d’art »
+
+  - les collections d’archéologie préhistorique,
+
+  - les collections d’archéologie protohistorique,
+
+  - les collections d’archéologie gallo-romaine,
+
+  - les collections d’archéologie médiévale et postmédiévale,
+
+  - la section d’histoire luxembourgeoise,
+
+  - la section des arts décoratifs et populaires,
+
+  - la section des beaux-arts,
+
+  - la section d’art contemporain,
+
+  - le cabinet des médailles,
+
+  - le cabinet des estampes,
+
+  - le centre de documentation sur la forteresse de Luxembourg.
+
+- Département « Services spéciaux »
+
+  - le service de la restauration et des ateliers,
+
+  - le service des publics,
+
+  - le service de la bibliothèque et des archives
+
+  - le service de la régie et de la gestion des dépôts,
+
+  - le service informatique,
+
+  - le service des relations publiques,
+
+  - le service des publications,
+
+  - le service de la numérisation et de l’inventaire. » ;
+
+- Le chapitre V est modifié comme suit :
+
+##### V. Institut national pour le patrimoine architectural
+
+Art. 16.
+
+L’Institut national pour le patrimoine architectural a pour missions :
+
+- l’étude, la conservation, la protection et la mise en valeur du patrimoine architectural et du patrimoine industriel mobilier et des biens culturels meublant les édifices religieux ;
+
+- l’établissement et la tenue à jour d’un inventaire du patrimoine architectural au sens de l’article 23 de la loi du 25 février 2022 relative au patrimoine culturel ;
+
+- de proposer la création des secteurs protégés d’intérêt national ;
+
+- de surveiller l’exécution des travaux réalisés sur des immeubles classés comme patrimoine culturel national et de conseiller et d’assister les maîtres d’ouvrages ;
+
+- d’organiser des campagnes de sensibilisation, des expositions et des conférences sur le patrimoine architectural ;
+
+- de coordonner et de surveiller les initiatives publiques en matière de restauration du patrimoine architectural ;
+
+Art. 17.
+
+L’Institut national pour le patrimoine architectural comprend, outre les services administratifs et techniques nécessaires à son bon fonctionnement un service de l’inventaire scientifique et un service pédagogique ;
+
+- Après l’article 24, il est introduit un article 24bis précédé de l’intitulé « VIII. –Institut national de recherches archéologiques », qui prend la teneur suivante :
+
+<a id="art-24bis"></a>
+## « Art. 24bis.
+
+(1)
+
+L’Institut national de recherches archéologiques a pour missions :
+
+- d’étudier, de protéger, de conserver et de valoriser le patrimoine archéologique national ;
+
+- d’organiser et de promouvoir toutes formes de recherches scientifiques en archéologie ;
+
+- de traiter les dossiers relatifs à l’archéologie préventive et les demandes d’évaluation archéologique qui lui sont adressées dans le cadre de la loi du 25 février 2022 relative au patrimoine culturel ;
+
+- d’aviser le ministre dans l’exécution des articles 5 et 6 de la loi du 25 février 2022 relative au patrimoine culturel;
+
+- d’entreprendre des recherches, des prospections et des fouilles archéologiques ;
+
+- d’assurer le contrôle scientifique et technique d’organismes privés agréés et publics effectuant des opérations ou recherches archéologiques ;
+
+- de veiller à la protection, à l’entretien et à la mise en valeur des sites archéologiques conservés antérieurs à l’époque médiévale, et de conseiller l’Institut national pour le patrimoine architectural ce qui concerne l’entretien et la mise en valeur des sites archéologiques d’époque médiévale et moderne ;
+
+- d’instruire les demandes d’autorisation de recherche archéologique préventive et programmée adressées au ministre ;
+
+- de réaliser un inventaire du patrimoine archéologique, de gérer et actualiser le recensement cartographié du patrimoine archéologique ;
+
+- d’assurer les analyses post-fouilles, la gestion et la conservation du mobilier archéologique issu de toutes investigations archéologiques ;
+
+- de soutenir et conseiller les initiatives bénévoles et associatives visant à promouvoir et protéger le patrimoine archéologique ;
+
+- de gérer des dépendances scientifiques, didactiques et techniques en relation avec le patrimoine archéologique et de collaborer à la création et à la gestion d’infrastructures régionales et locales concernant le patrimoine archéologique ;
+
+- de coopérer avec le Musée national d’histoire et d’art et plus particulièrement en ce qui concerne les collections archéologiques ;
+
+- de coopérer avec l’Institut national pour le patrimoine architectural et la Commission pour le patrimoine culturel ainsi que la Commission de circulation des biens culturels au cas où leurs activités concerneraient aussi le patrimoine archéologique ;
+
+- de coopérer avec le Musée national d’histoire naturelle pour la sauvegarde et la valorisation du patrimoine qu’il a en charge et toutes autres entités chargées de l’archéologie nationale
+
+(2)
+
+L’Institut national de recherches archéologiques comprend, outre les services administratifs et techniques nécessaires à son bon fonctionnement, dont un service de comptabilité, les deux départements suivants :
+
+- Département « Archéologie territoriale » ;
+
+- Département « Recherche archéologique ».
 
 <a id="art-123"></a>
 ## Art. 123.

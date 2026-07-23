@@ -1174,7 +1174,7 @@ L'administration centrale du fonds de pension où sont prises les principales d�
 
 Les informations satisfont aux exigences suivantes :
 
-- elles sont communiquées dans un format permettant l’extraction de données au sens de l’article 2, point 3), du règlement (UE) 2023/2859 , ou, lorsque le droit de l’Union européenne l’exige, dans un format lisible par machine au sens de l’article 2, point 4), dudit règlement ;
+- elles sont communiquées dans un format permettant l’extraction de données au sens de l’article 2, point 3), du règlement (UE) 2023/2859, ou, lorsque le droit de l’Union européenne l’exige, dans un format lisible par machine au sens de l’article 2, point 4), dudit règlement ;
 
 - elles sont accompagnées des métadonnées suivantes :
 
@@ -1329,7 +1329,7 @@ Lorsqu'ils établissent et appliquent la politique de rémunération visée au p
 
 Les informations satisfont aux exigences suivantes :
 
-- elles sont communiquées dans un format permettant l’extraction de données au sens de l’article 2, point 3), du règlement (UE) 2023/2859 , ou, lorsque le droit de l’Union européenne l’exige, dans un format lisible par machine au sens de l’article 2, point 4), dudit règlement ;
+- elles sont communiquées dans un format permettant l’extraction de données au sens de l’article 2, point 3), du règlement (UE) 2023/2859, ou, lorsque le droit de l’Union européenne l’exige, dans un format lisible par machine au sens de l’article 2, point 4), dudit règlement ;
 
 - elles sont accompagnées des métadonnées suivantes :
 
@@ -2524,7 +2524,7 @@ Les comptes annuels et rapports annuels tels que prévus aux paragraphes (1) et 
 
 Les informations satisfont aux exigences suivantes :
 
-- elles sont communiquées dans un format permettant l’extraction de données au sens de l’article 2, point 3), du règlement (UE) 2023/2859 , ou, lorsque le droit de l’Union européenne l’exige, dans un format lisible par machine au sens de l’article 2, point 4), dudit règlement ;
+- elles sont communiquées dans un format permettant l’extraction de données au sens de l’article 2, point 3), du règlement (UE) 2023/2859, ou, lorsque le droit de l’Union européenne l’exige, dans un format lisible par machine au sens de l’article 2, point 4), dudit règlement ;
 
 - elles sont accompagnées des métadonnées suivantes :
 

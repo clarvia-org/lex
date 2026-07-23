@@ -70,7 +70,7 @@ Au sens du présent règlement, on entend par:
 
 - puissance nominale utile: la puissance calorifique maximale, exprimée en kW, fixée et garantie par le constructeur comme pouvant être fournie en marche continue tout en respectant les rendements utiles annoncés par le constructeur;
 
-- exploitant: le propriétaire ou le locataire d’un bâtiment dans lequel sont utilisés les équipements ou les systèmes de climatisation dont question à l’article 1 er .»
+- exploitant: le propriétaire ou le locataire d’un bâtiment dans lequel sont utilisés les équipements ou les systèmes de climatisation dont question à l’article 1er.»
 
 <a id="art-3"></a>
 ## Art. 3.

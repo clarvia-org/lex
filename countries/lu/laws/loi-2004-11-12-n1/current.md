@@ -75,7 +75,7 @@ Par « établissement financier » au sens de la présente loi, est désigné :
 
 - tout prestataire de services sur crypto-actifs ;
 
-- tout intermédiaire d’assurance au sens de l’article 2, paragraphe 1 er , point 3), de la directive (UE) 2016/97 du Parlement européen et du Conseil du 20 janvier 2016 sur la distribution d’assurances lorsqu’il s’occupe d’assurance vie et d’autres services liés à des placements ;
+- tout intermédiaire d’assurance au sens de l’article 2, paragraphe 1er , point 3), de la directive (UE) 2016/97 du Parlement européen et du Conseil du 20 janvier 2016 sur la distribution d’assurances lorsqu’il s’occupe d’assurance vie et d’autres services liés à des placements ;
 
 - toute personne autre que celles visées aux points a) à d), ainsi qu’au paragraphe (3), qui exerce à titre professionnel au moins l’une des activités énumérées à l’annexe I au nom ou pour le compte d’un client ;
 
@@ -169,7 +169,7 @@ Par « personnes physiques qui occupent ou se sont vu confier une fonction publi
 
 - les directeurs, les directeurs adjoints et les membres du conseil d’une organisation internationale, ou les personnes qui occupent une position équivalente en son sein ;
 
-- les personnes physiques exerçant les fonctions figurant sur la liste publiée par la Commission européenne sur base de l’article 20 bis , paragraphe 3, de la directive (UE) 2015/849 du Parlement Européen et du Conseil du 20 mai 2015 relative à la prévention de l’utilisation du système financier aux fins du blanchiment de capitaux ou du financement du terrorisme, modifiant le règlement (UE) n° 648/2012 du Parlement européen et du Conseil et abrogeant la directive 2005/60/CE du Parlement européen et du Conseil et la directive 2006/70/CE de la Commission, dénommée ci-après « directive (UE) 2015/849 ».
+- les personnes physiques exerçant les fonctions figurant sur la liste publiée par la Commission européenne sur base de l’article 20bis, paragraphe 3, de la directive (UE) 2015/849 du Parlement Européen et du Conseil du 20 mai 2015 relative à la prévention de l’utilisation du système financier aux fins du blanchiment de capitaux ou du financement du terrorisme, modifiant le règlement (UE) n° 648/2012 du Parlement européen et du Conseil et abrogeant la directive 2005/60/CE du Parlement européen et du Conseil et la directive 2006/70/CE de la Commission, dénommée ci-après « directive (UE) 2015/849 ».
 
 Aucune des catégories citées aux points a) à h) du présent paragraphe, ne couvre des personnes occupant une fonction intermédiaire ou inférieure.
 
@@ -487,7 +487,7 @@ Les professionnels sont obligés d’appliquer des mesures de vigilance à l'ég
 
   - d’un montant égal ou supérieur à 15.000 euros, que cette transaction soit exécutée en une seule ou en plusieurs opérations qui semblent être liées ;
 
-  - constituant un transfert de fonds au sens de l’article 3, point 9), du règlement (UE) 2023/1113 , supérieur à 1.000 euros ; ou
+  - constituant un transfert de fonds au sens de l’article 3, point 9), du règlement (UE) 2023/1113, supérieur à 1.000 euros ; ou
 
   - constituant un transfert de crypto-actifs supérieur à 1.000 euros ;
 
@@ -505,11 +505,11 @@ Un règlement grand-ducal peut modifier le montant des seuils prévus au présen
 
 Les mesures de vigilance à l'égard de la clientèle comprennent :
 
-- l'identification du client et la vérification de son identité, sur la base de documents, de données ou d'informations de sources fiables et indépendantes, y compris, le cas échéant, les moyens d’identification électronique et les services de confiance pertinents prévus par le règlement (UE) n° 910/2014 du Parlement européen et du Conseil du 23 juillet 2014 sur l’identification électronique et les services de confiance pour les transactions électroniques au sein du marché intérieur et abrogeant la directive 1999/93/CE , dénommé ci-après « règlement (UE) n° 910/2014 », ou tout autre processus d’identification sécurisé, électronique ou à distance, réglementé, reconnu, approuvé ou accepté par les autorités nationales concernées ;
+- l'identification du client et la vérification de son identité, sur la base de documents, de données ou d'informations de sources fiables et indépendantes, y compris, le cas échéant, les moyens d’identification électronique et les services de confiance pertinents prévus par le règlement (UE) n° 910/2014 du Parlement européen et du Conseil du 23 juillet 2014 sur l’identification électronique et les services de confiance pour les transactions électroniques au sein du marché intérieur et abrogeant la directive 1999/93/CE, dénommé ci-après « règlement (UE) n° 910/2014 », ou tout autre processus d’identification sécurisé, électronique ou à distance, réglementé, reconnu, approuvé ou accepté par les autorités nationales concernées ;
 
 - l'identification du bénéficiaire effectif et la prise de mesures raisonnables pour vérifier son identité, à l’aide des informations ou données pertinentes obtenues d’une source fiable et indépendante, de telle manière que le professionnel ait l'assurance de connaître ledit bénéficiaire effectif, ainsi que, pour les personnes morales, les fiducies, les trusts, les sociétés, les fondations et les constructions juridiques similaires, la prise de mesures raisonnables pour comprendre la structure de propriété et de contrôle du client. Pour les clients qui sont des personnes morales, le professionnel identifie et prend des mesures raisonnables pour vérifier l’identité des bénéficiaires effectifs au moyen des informations suivantes : Les professionnels conservent les informations relatives aux mesures prises ainsi qu’à toutes difficultés rencontrées durant le processus de vérification. Pour les clients qui sont des constructions juridiques, les professionnels identifient les bénéficiaires effectifs et prennent des mesures raisonnables pour vérifier l’identité de ces personnes au moyen des informations suivantes :
 
-  - l’identité des personnes physiques, si elles existent, qui en dernier lieu détiennent une participation de contrôle au sens de l’article 1 er , paragraphe (7), point a), point i), dans une personne morale ; et
+  - l’identité des personnes physiques, si elles existent, qui en dernier lieu détiennent une participation de contrôle au sens de l’article 1er, paragraphe (7), point a), point i), dans une personne morale ; et
 
   - dès lors que, après avoir appliqué le point i), il existe des doutes quant au fait de savoir si les personnes ayant une participation de contrôle sont les bénéficiaires effectifs, ou dès lors qu’aucune personne physique n’exerce de contrôle au travers d’une participation, l’identité des personnes physiques, si elles existent, exerçant le contrôle de la personne morale par d’autres moyens ; et
 
@@ -822,7 +822,7 @@ Aux fins du présent article, on entend par « tiers » les professionnels énum
 
 - qui appliquent à l'égard des clients des mesures de vigilance et de conservation des documents et pièces qui sont compatibles avec celles qui sont prévues par la présente loi ou par la directive (UE) 2015/849 ; et
 
-- qui sont soumis, pour ce qui concerne le respect des exigences de la présente loi, de la directive (UE) 2015/849 ou de règles équivalentes qui leur sont applicables, à une surveillance compatible avec le chapitre VI, section 2 de la directive (UE) 2015/849 .
+- qui sont soumis, pour ce qui concerne le respect des exigences de la présente loi, de la directive (UE) 2015/849 ou de règles équivalentes qui leur sont applicables, à une surveillance compatible avec le chapitre VI, section 2 de la directive (UE) 2015/849.
 
 Il est interdit aux professionnels de recourir à des tiers établis dans des pays à haut risque. Sont exemptées de cette interdiction, les tiers qui sont des succursales et filiales détenues majoritairement par des professionnels établis dans l'Union européenne, si ces succursales et filiales détenues majoritairement respectent intégralement les politiques et procédures à l'échelle du groupe conformément à l’article 4-1 ou à l’article 45 de la directive (UE) 2015/849.
 
@@ -1083,7 +1083,7 @@ Les prestataires de services aux sociétés et fiducies doivent s’enregistrer 
 
   - pour les personnes non résidentes non inscrites au registre national des personnes physiques, un numéro d’identification étranger ;
 
-  - le ou les services prestés qui correspondent à un ou plusieurs des services visés à l’article 1 er , paragraphe (8).
+  - le ou les services prestés qui correspondent à un ou plusieurs des services visés à l’article 1er, paragraphe (8).
 
 - dans le cas d’une personne morale requérante :
 
@@ -1097,7 +1097,7 @@ Les prestataires de services aux sociétés et fiducies doivent s’enregistrer 
 
     - d’une personne morale non immatriculée auprès du registre de commerce et des sociétés de Luxembourg, le cas échéant, le nom du registre auquel la personne morale est immatriculée et le numéro d’immatriculation au registre, si la législation de l’État dont elle relève prévoit un tel numéro ;
 
-  - le ou les services prestés qui correspondent à un ou plusieurs des services visés à l’article 1 er , paragraphe (8).
+  - le ou les services prestés qui correspondent à un ou plusieurs des services visés à l’article 1er, paragraphe (8).
 
 (2)
 
@@ -1360,7 +1360,7 @@ Lorsque le professionnel concerné est un prestataire de services de jeux d’ar
 
 Lorsque le professionnel concerné est un établissement de crédit ou un établissement financier, le montant maximal des amendes administratives visées au paragraphe (2), point f), est porté à :
 
-- dans le cas d’une personne morale, 5.000.000 d’euros ou 10 pour cent du chiffre d’affaires annuel total selon les derniers comptes disponibles approuvés par l’organe de direction ; lorsque le professionnel est une entreprise mère ou une filiale d’une entreprise mère qui est tenue d’établir des comptes consolidés conformément à l’article 22 de la directive 2013/34/UE , le chiffre d’affaires total à prendre en considération est le chiffre d’affaires annuel total ou le type de revenus correspondant conformément aux directives comptables pertinentes, tel qu’il ressort des derniers comptes consolidés disponibles approuvés par l’organe de direction de l’entreprise mère ultime ;
+- dans le cas d’une personne morale, 5.000.000 d’euros ou 10 pour cent du chiffre d’affaires annuel total selon les derniers comptes disponibles approuvés par l’organe de direction ; lorsque le professionnel est une entreprise mère ou une filiale d’une entreprise mère qui est tenue d’établir des comptes consolidés conformément à l’article 22 de la directive 2013/34/UE, le chiffre d’affaires total à prendre en considération est le chiffre d’affaires annuel total ou le type de revenus correspondant conformément aux directives comptables pertinentes, tel qu’il ressort des derniers comptes consolidés disponibles approuvés par l’organe de direction de l’entreprise mère ultime ;
 
 - dans le cas d’une personne physique, 5.000.000 d’euros.
 
@@ -1739,7 +1739,7 @@ La communication d’informations par les autorités de contrôle à une autorit
 
 - les informations communiquées sont nécessaires et destinées à l’accomplissement de la mission de l’autorité qui les reçoit au titre de la directive (UE) 2015/849 ou de la législation nationale de cette autorité en matière de lutte contre le blanchiment et contre le financement du terrorisme ;
 
-- les informations communiquées tombent sous le secret professionnel de l’autorité qui les reçoit et le secret professionnel de cette autorité offre des garanties au moins équivalentes au secret professionnel auquel sont soumises les autorités de contrôle, en particulier en ce qui concerne les personnes travaillant pour elles conformément à l’article 9-1 bis , paragraphe (2) ;
+- les informations communiquées tombent sous le secret professionnel de l’autorité qui les reçoit et le secret professionnel de cette autorité offre des garanties au moins équivalentes au secret professionnel auquel sont soumises les autorités de contrôle, en particulier en ce qui concerne les personnes travaillant pour elles conformément à l’article 9-1bis , paragraphe (2) ;
 
 - l’autorité qui reçoit des informations de la part des autorités de contrôle ne peut les utiliser qu’aux fins pour lesquelles elles lui ont été communiquées et est en mesure d’assurer qu’aucun autre usage n’en sera fait ;
 
@@ -1825,7 +1825,7 @@ La communication d’informations par la CSSF ou le CAA, à une autorité homolo
 
 - les informations communiquées sont nécessaires et destinées à l’accomplissement de la mission de l’autorité qui les reçoit au titre de la directive (UE) 2015/849 ou de la législation nationale de cette autorité relative à lutte contre le blanchiment et contre le financement du terrorisme ou relative à réglementation et à la surveillance prudentielle des établissements de crédit et des établissements financiers ainsi que de la surveillance des marchés financiers ;
 
-- les informations communiquées tombent sous le secret professionnel de l’autorité qui les reçoit et le secret professionnel de cette autorité offre des garanties au moins équivalentes au secret professionnel auquel sont soumis la CSSF et le CAA, en particulier en ce qui concerne les personnes travaillant pour eux conformément à l’article 9-1 bis , paragraphe (2) ;
+- les informations communiquées tombent sous le secret professionnel de l’autorité qui les reçoit et le secret professionnel de cette autorité offre des garanties au moins équivalentes au secret professionnel auquel sont soumis la CSSF et le CAA, en particulier en ce qui concerne les personnes travaillant pour eux conformément à l’article 9-1bis, paragraphe (2) ;
 
 - l’autorité qui reçoit des informations de la part des autorités de contrôle ne peut les utiliser qu’aux fins pour lesquelles elles lui ont été communiquées et est en mesure d’assurer qu’aucun autre usage n’en sera fait ;
 

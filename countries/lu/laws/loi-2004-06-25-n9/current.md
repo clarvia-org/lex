@@ -177,15 +177,15 @@ L'élaboration et la mise en œuvre de la démarche des lycées
 
 La promotion, le soutien et la coordination de l'élaboration et de la mise en œuvre de la démarche des lycées incombe, selon le domaine concerné, aux services suivants :
 
-- au service psycho-social et d'accompagnement scolaires du lycée prévue à l'article 28 bis , pour le domaine de l'accompagnement psycho-social des élèves ;
+- au service psycho-social et d'accompagnement scolaires du lycée prévue à l'article 28bis, pour le domaine de l'accompagnement psycho-social des élèves ;
 
-- au service socio-éducatif du lycée prévu à l'article 28 ter , pour le domaine de la participation des élèves ;
+- au service socio-éducatif du lycée prévu à l'article 28ter, pour le domaine de la participation des élèves ;
 
-- au service socio-éducatif du lycée prévu à l'article 28 ter et à l'internat prévu à l'article 32, pour les domaines de l'éducation non-formelle et de l'offre périscolaire ;
+- au service socio-éducatif du lycée prévu à l'article 28ter et à l'internat prévu à l'article 32, pour les domaines de l'éducation non-formelle et de l'offre périscolaire ;
 
-- à l'équipe de soutien des élèves à besoins éducatifs spécifiques, ci-après « ESEB » prévue à l'article 28 quater , pour le domaine de l'encadrement des élèves à besoins éducatifs spécifiques ;
+- à l'équipe de soutien des élèves à besoins éducatifs spécifiques, ci-après « ESEB » prévue à l'article 28quater, pour le domaine de l'encadrement des élèves à besoins éducatifs spécifiques ;
 
-- à la cellule d'orientation et d'intégration scolaires prévue à l'article 28 quinquies , pour les domaines de l'orientation et de l'intégration scolaires des élèves.
+- à la cellule d'orientation et d'intégration scolaires prévue à l'article 28quinquies, pour les domaines de l'orientation et de l'intégration scolaires des élèves.
 
 <a id="art-3quinquies"></a>
 ## Art. 3quinquies.
@@ -428,7 +428,7 @@ Le fonctionnement de la commission d'inclusion est fixé par règlement grand-du
 
 La commission d'inclusion a les missions suivantes :
 
-- définir soit à la demande des parents ou de l'élève majeur, soit à la demande du directeur, soit de l'un des services mentionnés à l'article 28 bi s et à l'article 28 quater et pour autant que les parents ou l'élève majeur aient marqué leur accord, les mesures mentionnées à l'article 14 ter , paragraphe 1 er ;
+- définir soit à la demande des parents ou de l'élève majeur, soit à la demande du directeur, soit de l'un des services mentionnés à l'article 28bis et à l'article 28quater et pour autant que les parents ou l'élève majeur aient marqué leur accord, les mesures mentionnées à l'article 14ter, paragraphe 1er ;
 
 - désigner, pour chaque élève pour lequel elle est saisie, une personne de référence qui est l'interlocuteur entre l'élève, ses parents et les personnes chargées de la mise en œuvre du plan de formation individualisé ;
 
@@ -436,7 +436,7 @@ La commission d'inclusion a les missions suivantes :
 
 - veiller à la mise en œuvre du plan de formation individualisé de l'élève et charger l'ESEB de la réévaluation des besoins de l'élève lorsqu'elle l'estime nécessaire ;
 
-- saisir la Commission des aménagements raisonnables, pour autant que les parents ou l'élève majeur aient marqué leur accord, si elle estime que l'élève requiert des aménagements raisonnables, autres que ceux visés à l'article 14 ter , paragraphe 1 er et veiller à la mise en œuvre des aménagements raisonnables décidés ;
+- saisir la Commission des aménagements raisonnables, pour autant que les parents ou l'élève majeur aient marqué leur accord, si elle estime que l'élève requiert des aménagements raisonnables, autres que ceux visés à l'article 14ter, paragraphe 1er et veiller à la mise en œuvre des aménagements raisonnables décidés ;
 
 - saisir la Commission nationale d'inclusion, pour autant que les parents ou l'élève majeur aient marqué leur accord, si elle estime que l'élève requiert une prise en charge spécialisée conformément à la loi modifiée du 20 juillet 2018 en faveur de l'inclusion scolaire.
 

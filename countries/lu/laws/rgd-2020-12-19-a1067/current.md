@@ -47,13 +47,13 @@ Au sens du présent règlement, on entend par :
 
 - « salaires » ou « pensions » ou « rémunérations » :
 
-  - les salaires qui, aux termes de l’article 136, alinéa 1 er de la loi , sont passibles de la retenue à la source au titre de l’impôt sur le revenu,
+  - les salaires qui, aux termes de l’article 136, alinéa 1er de la loi, sont passibles de la retenue à la source au titre de l’impôt sur le revenu,
 
-  - les pensions passibles de cette retenue en vertu de l’article 144 de la loi , à moins qu’une acception différente ne se dégage du contexte ;
+  - les pensions passibles de cette retenue en vertu de l’article 144 de la loi, à moins qu’une acception différente ne se dégage du contexte ;
 
 - « salariés » ou « pensionnés » : les contribuables bénéficiant respectivement d’un salaire ou d’une pension visés au numéro 6 ;
 
-- « conjoints imposables collectivement » : ceux qui, au moment de la constatation de la situation, sont contribuables résidents entrant dans les prévisions de l’article 3 de la loi et qui n’ont pas demandé conjointement une imposition individuelle suivant les dispositions de l’article 3 ter , alinéa 2 ou alinéa 3 de la loi ;
+- « conjoints imposables collectivement » : ceux qui, au moment de la constatation de la situation, sont contribuables résidents entrant dans les prévisions de l’article 3 de la loi et qui n’ont pas demandé conjointement une imposition individuelle suivant les dispositions de l’article 3ter, alinéa 2 ou alinéa 3 de la loi ;
 
 - « résident » ou « non-résident » : une personne physique qui, au moment de la constatation d’une situation, a ou n’a pas son domicile fiscal ou son séjour habituel au Grand-Duché ;
 
@@ -75,7 +75,7 @@ Au sens du présent règlement, on entend par :
 
 - « date de fin de validité » : la date après laquelle les inscriptions de la fiche de retenue d’impôt ne sont plus applicables ;
 
-- « caisse de pension » : tout débiteur d’une pension ou rente passible de retenue en vertu de l’article 144 de la loi .
+- « caisse de pension » : tout débiteur d’une pension ou rente passible de retenue en vertu de l’article 144 de la loi.
 
 #### Chapitre 2 Dispositions générales
 
@@ -141,7 +141,7 @@ Les changements en cours d’une année des situations documentées par les insc
 
 - le règlement des modalités de déduction en ce qui concerne une modification de la déduction à titre de frais de déplacement, de frais d’obtention autres que frais de déplacement, de dépenses spéciales, d’abattement pour charges extraordinaires et d’abattement de maintien dans la vie professionnelle ;
 
-- les articles 14 à 17 et 19 du règlement de détermination de la retenue , en ce qui concerne toute modification du taux de retenue inscrit sur une fiche additionnelle ainsi que de la déduction représentant les fractions de minima forfaitaires et d’abattement extra-professionnel revenant aux conjoints salariés de salariés.
+- les articles 14 à 17 et 19 du règlement de détermination de la retenue, en ce qui concerne toute modification du taux de retenue inscrit sur une fiche additionnelle ainsi que de la déduction représentant les fractions de minima forfaitaires et d’abattement extra-professionnel revenant aux conjoints salariés de salariés.
 
 (2)
 
@@ -200,7 +200,7 @@ Lors de l’émission d’une fiche de retenue, l’Administration des contribut
 
 - la déduction pour frais de déplacement se dégageant de l’article 4 du règlement des modalités de déduction ;
 
-- les crédits d’impôt pour salariés et pensionnés se dégageant de l’article 12, alinéa 1 er du règlement des modalités de déduction ;
+- les crédits d’impôt pour salariés et pensionnés se dégageant de l’article 12, alinéa 1er du règlement des modalités de déduction ;
 
 - un identifiant de la fiche de retenue et la date d’émission ;
 
@@ -253,9 +253,9 @@ L’Administration des contributions directes est autorisée, en cas de circonst
 
 L’Administration des contributions directes est seule compétente pour les opérations suivantes :
 
-- La fixation et l’inscription de déductions à pratiquer, conformément aux dispositions de l’article 139 de la loi et du règlement des modalités de déduction , sur les revenus passibles de retenue avant la détermination de celle-ci ;
+- La fixation et l’inscription de déductions à pratiquer, conformément aux dispositions de l’article 139 de la loi et du règlement des modalités de déduction, sur les revenus passibles de retenue avant la détermination de celle-ci ;
 
-- le remplacement de la classe d’impôt 1 par la classe d’impôt 1a du fait de la survenance en cours d’année dans le ménage du salarié ou du pensionné résident d’un enfant susceptible de le faire bénéficier d’une modération d’impôt pour enfant selon les dispositions prévues à l’article 1 er , point 11. Dans ce cas la date de la survenance dans le ménage se substitue à celle du début de l’année. Le remplacement de la classe 1 par la classe 1a a un caractère provisoire.
+- le remplacement de la classe d’impôt 1 par la classe d’impôt 1a du fait de la survenance en cours d’année dans le ménage du salarié ou du pensionné résident d’un enfant susceptible de le faire bénéficier d’une modération d’impôt pour enfant selon les dispositions prévues à l’article 1er, point 11. Dans ce cas la date de la survenance dans le ménage se substitue à celle du début de l’année. Le remplacement de la classe 1 par la classe 1a a un caractère provisoire.
 
 <a id="art-14"></a>
 ## Art. 14.
@@ -299,7 +299,7 @@ L’Administration des contributions directes détermine la classe d’impôt du
 
   - pour les salariés et pensionnés veufs au début de l’année d’imposition,
 
-  - pour les salariés et pensionnés susceptibles de bénéficier d’une modération d’impôt pour enfant selon les dispositions de l’article 1 er , point 11. Cette certification a un caractère provisoire,
+  - pour les salariés et pensionnés susceptibles de bénéficier d’une modération d’impôt pour enfant selon les dispositions de l’article 1er, point 11. Cette certification a un caractère provisoire,
 
   - pour les salariés et pensionnés qui ont terminé leur soixante-quatrième année au début de l’année d’imposition ;
 
@@ -356,7 +356,7 @@ L’Administration des contributions directes inscrit sur la fiche de retenue ad
 
 - le taux de retenue non réduit visé à l’article 14 du règlement de détermination de la retenue et correspondant à la classe d’impôt certifiée comme prévu à l’article 15 ;
 
-- lorsqu’il s’agit d’une fiche additionnelle d’un salarié ou pensionné résident marié qui a demandé, ensemble avec son conjoint, une imposition individuelle suivant les dispositions de l’article 3 ter , alinéa 3 de la loi , l’Administration des contributions directes inscrit, en lieu et place de la classe d’impôt et du taux de retenue visé sub b), le taux de retenue qui se trouve sur la fiche principale du salarié ou pensionné, à savoir celui qui serait applicable en cas d’imposition collective du salarié ou pensionné avec son conjoint en vertu de l’article 3 de la loi ; dans ce cas, la retenue d’impôt est déterminée par application de ce taux au montant semi-net de la rémunération ;
+- lorsqu’il s’agit d’une fiche additionnelle d’un salarié ou pensionné résident marié qui a demandé, ensemble avec son conjoint, une imposition individuelle suivant les dispositions de l’article 3ter, alinéa 3 de la loi, l’Administration des contributions directes inscrit, en lieu et place de la classe d’impôt et du taux de retenue visé sub b), le taux de retenue qui se trouve sur la fiche principale du salarié ou pensionné, à savoir celui qui serait applicable en cas d’imposition collective du salarié ou pensionné avec son conjoint en vertu de l’article 3 de la loi ; dans ce cas, la retenue d’impôt est déterminée par application de ce taux au montant semi-net de la rémunération ;
 
 - s’il s’agit d’une fiche relative au premier salaire d’une personne, dont le conjoint est également salarié et qu’il y a imposition collective, la déduction correspondant aux fractions de minima forfaitaires et d’abattement extra-professionnel revenant à cette personne. Lorsque celle-ci exerce, en dehors de son premier emploi, un ou plusieurs autres emplois salariés, la déduction n’est pas à inscrire sur les fiches relatives à ces emplois supplémentaires.
 
@@ -367,13 +367,13 @@ L’Administration des contributions directes inscrit sur la fiche de retenue ad
 
 Les fiches de retenue destinées aux salariés et pensionnés non résidents sont établies et font, le cas échéant, l’objet d’inscriptions correctives dans les mêmes conditions et selon les mêmes modalités que les fiches destinées aux résidents, sauf
 
-- que l’inscription des classes d’impôt ou taux de retenue à porter sur les fiches de retenue des contribuables non résidents a lieu conformément aux dispositions de l’article 157 bis , alinéas 1 à 4 de la loi et à celles de l’article 3 du règlement grand-ducal modifié du 28 décembre 1990 portant exécution de l’article 140 de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu ;
+- que l’inscription des classes d’impôt ou taux de retenue à porter sur les fiches de retenue des contribuables non résidents a lieu conformément aux dispositions de l’article 157bis, alinéas 1 à 4 de la loi et à celles de l’article 3 du règlement grand-ducal modifié du 28 décembre 1990 portant exécution de l’article 140 de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu ;
 
 - que les dispositions de l’article 14, alinéas 2 et 3, de l’article 15, de l’article 16 et de l’article 18, alinéa 2, lettres c) et d) du présent règlement ne s’appliquent pas ;
 
-- que sur la fiche principale d’un salarié ou pensionné non résident marié qui a demandé, ensemble avec son conjoint, l’application des dispositions de l’article 157 bis , alinéa 3 de la loi , l’Administration des contributions directes inscrit, outre les données prévues à l’article 10 : La retenue d’impôt est déterminée par application du taux de retenue visé sub i) au montant semi-net de la rémunération diminué des déductions visées sub ii) et iii) et, le cas échéant, de la déduction visée sub iv) ;
+- que sur la fiche principale d’un salarié ou pensionné non résident marié qui a demandé, ensemble avec son conjoint, l’application des dispositions de l’article 157bis, alinéa 3 de la loi, l’Administration des contributions directes inscrit, outre les données prévues à l’article 10 : La retenue d’impôt est déterminée par application du taux de retenue visé sub i) au montant semi-net de la rémunération diminué des déductions visées sub ii) et iii) et, le cas échéant, de la déduction visée sub iv) ;
 
-  - le taux de retenue prévu à l’article 157 bis , alinéa 3, de la loi , c’est-à-dire celui qui serait applicable en cas d’imposition des revenus indigènes suivant les conditions et modalités de l’article 157 ter de la loi ; ce taux de retenue est inscrit en lieu et place de la classe d’impôt ;
+  - le taux de retenue prévu à l’article 157bis, alinéa 3, de la loi, c’est-à-dire celui qui serait applicable en cas d’imposition des revenus indigènes suivant les conditions et modalités de l’article 157ter de la loi ; ce taux de retenue est inscrit en lieu et place de la classe d’impôt ;
 
   - la déduction correspondant au minimum forfaitaire pour frais d’obtention de la catégorie de revenu considérée (indiquée par le code FFO sur la fiche) ;
 
@@ -381,7 +381,7 @@ Les fiches de retenue destinées aux salariés et pensionnés non résidents son
 
   - si les conjoints touchent chacun un ou plusieurs salaires, la déduction correspondant à l’abattement extra-professionnel revenant au salarié ou pensionné (indiquée par le code AE sur la fiche).
 
-- que sur les fiches additionnelles d’un salarié ou pensionné non résident marié qui a demandé, ensemble avec son conjoint, l’application des dispositions de l’article 157 bis , alinéa 3, de la loi , l’Administration des contributions directes inscrit, outre les données prévues à l’article 10 et en lieu et place de la classe d’impôt et du taux de retenue non réduit visé à l’article 14 du règlement de détermination de la retenue , le taux de retenue prévu à l’article 157 bis , alinéa 3, de la loi , c’est-à-dire celui qui serait applicable en cas d’imposition des revenus indigènes suivant les conditions et modalités de l’article 157 ter de la loi . La retenue d’impôt est déterminée par application de ce taux au montant semi-net de la rémunération.
+- que sur les fiches additionnelles d’un salarié ou pensionné non résident marié qui a demandé, ensemble avec son conjoint, l’application des dispositions de l’article 157bis, alinéa 3, de la loi, l’Administration des contributions directes inscrit, outre les données prévues à l’article 10 et en lieu et place de la classe d’impôt et du taux de retenue non réduit visé à l’article 14 du règlement de détermination de la retenue, le taux de retenue prévu à l’article 157bis, alinéa 3, de la loi, c’est-à-dire celui qui serait applicable en cas d’imposition des revenus indigènes suivant les conditions et modalités de l’article 157ter de la loi. La retenue d’impôt est déterminée par application de ce taux au montant semi-net de la rémunération.
 
 #### Chapitre 6 Obligations des employeurs et des caisses de pension
 

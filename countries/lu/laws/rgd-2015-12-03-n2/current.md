@@ -33,7 +33,7 @@ Aux fins du présent règlement grand-ducal, on entend par:
 
 - «borne de charge»: un dispositif électrique, connecté directement ou indirectement au réseau de distribution basse ou moyenne tension, permettant à un utilisateur final de procéder à la recharge de son véhicule électrique en le connectant sur l’un de ses points de charge;
 
-- «borne de charge publique»: une borne de charge installée par les gestionnaires de réseau de distribution et faisant partie de l’infrastructure publique liée à la mobilité électrique conformément à la loi modifiée du 1er août 2007 relative à l’organisation du marché de l’électricité , et à laquelle les utilisateurs ont accès de façon non discriminatoire. L’accès non discriminatoire à cette borne n’empêche pas d’imposer certaines conditions en termes d’authentification, d’utilisation et de paiement ;
+- «borne de charge publique»: une borne de charge installée par les gestionnaires de réseau de distribution et faisant partie de l’infrastructure publique liée à la mobilité électrique conformément à la loi modifiée du 1er août 2007 relative à l’organisation du marché de l’électricité, et à laquelle les utilisateurs ont accès de façon non discriminatoire. L’accès non discriminatoire à cette borne n’empêche pas d’imposer certaines conditions en termes d’authentification, d’utilisation et de paiement ;
 
 - «fournisseur physique»: un fournisseur choisi et mandaté par les gestionnaires de réseau de distribution pour la fourniture en électricité de toutes les bornes de charge publiques;
 
@@ -57,7 +57,7 @@ Aux fins du présent règlement grand-ducal, on entend par:
 
 - «point d’intérêt communal»: pôle d’attraction d’une commune tel que les quartiers centraux d’une localité, zones d’activité, infrastructures scolaires, sites touristiques, culturels ou sportifs, hôpitaux, commerces, mairies et administrations;
 
-- «emplacement de stationnement public»: espace sur la voie publique destiné au stationnement d’automobiles au sens de l’ arrêté grand-ducal modifié du 23 novembre 1955 portant règlement de la circulation sur toutes les voies publiques;
+- «emplacement de stationnement public»: espace sur la voie publique destiné au stationnement d’automobiles au sens de l’arrêté grand-ducal modifié du 23 novembre 1955 portant règlement de la circulation sur toutes les voies publiques;
 
 - «parking public»: espace ouvert à la circulation publique et spécifiquement aménagé pour le parcage d’automobiles au sens de l’arrêté grand-ducal modifié du 23 novembre 1955 portant règlement de la circulation sur toutes les voies publiques;
 
@@ -65,9 +65,9 @@ Aux fins du présent règlement grand-ducal, on entend par:
 
 - «parking de co-voiturage»: parking public destiné à la pratique du co-voiturage.
 
-- « aire de service autoroutière » : aire de repos ou de ravitaillement ouverte à la circulation publique et aménagée en bordure d’une autoroute. Le terme « autoroute » s’entend tel que défini à l’article 2, point 1.6., de l’ arrêté grand-ducal modifié du 23 novembre 1955 portant règlement de la circulation sur toutes les voies publiques ;
+- « aire de service autoroutière » : aire de repos ou de ravitaillement ouverte à la circulation publique et aménagée en bordure d’une autoroute. Le terme « autoroute » s’entend tel que défini à l’article 2, point 1.6., de l’arrêté grand-ducal modifié du 23 novembre 1955 portant règlement de la circulation sur toutes les voies publiques ;
 
-- « aire de service routière » : aire de repos ou de ravitaillement ouverte à la circulation publique et aménagée en bordure d’une route pour véhicules automoteurs. Les termes « route pour véhicules automoteurs » s’entendent tels que définis à l’article 2, point 1.7., de l’ arrêté grand-ducal modifié du 23 novembre 1955 portant règlement de la circulation sur toutes les voies publiques.
+- « aire de service routière » : aire de repos ou de ravitaillement ouverte à la circulation publique et aménagée en bordure d’une route pour véhicules automoteurs. Les termes « route pour véhicules automoteurs » s’entendent tels que définis à l’article 2, point 1.7., de l’arrêté grand-ducal modifié du 23 novembre 1955 portant règlement de la circulation sur toutes les voies publiques.
 
 ##### Chapitre II Tâches des gestionnaires de réseau de distribution
 

@@ -786,7 +786,7 @@ Selon la nature et la gravité de la faute, les sanctions suivantes peuvent êtr
 
 - la limitation de recevoir des versements pécuniaires et des subsides de l'extérieur pendant une durée n’excédant pas trois mois ;
 
-- le changement ou le retrait du travail pendant une durée n’excédant pas trois mois . À l’expiration du retrait, le détenu se trouve dans la même situation qu’un nouveau demandeur d’emploi et n’a pas de droit acquis à pouvoir bénéficier du même travail que celui qu’il avait avant le retrait ;
+- le changement ou le retrait du travail pendant une durée n’excédant pas trois mois. À l’expiration du retrait, le détenu se trouve dans la même situation qu’un nouveau demandeur d’emploi et n’a pas de droit acquis à pouvoir bénéficier du même travail que celui qu’il avait avant le retrait ;
 
 - le retrait intégral ou partiel des activités individuelles et communes pendant une durée n’excédant pas trois mois ;
 
@@ -1129,13 +1129,20 @@ Les tenues de service des agents pénitentiaires sont déterminées par règleme
 
 Le Code pénal est modifié comme suit :
 
-- À l’article 157, les mots administrateurs, gardiens et concierges des maisons de dépôt, d’arrêt, de justice ou de peine, sont remplacés par ceux de directeurs et membres du personnel des centres pénitentiaires .
+- À l’article 157, les mots administrateurs, gardiens et concierges des maisons de dépôt, d’arrêt, de justice ou de peine, sont remplacés par ceux de directeurs et membres du personnel des centres pénitentiaires.
 
-- À l’article 269, les mots les membres du personnel effectuant le service de garde et les chefs d’atelier des établissements pénitentiaires sont remplacés par les mots les membres du personnel pénitentiaire .
+- À l’article 269, les mots les membres du personnel effectuant le service de garde et les chefs d’atelier des établissements pénitentiaires sont remplacés par les mots les membres du personnel pénitentiaire.
 
-- À l’article 332, l’alinéa 2 est remplacé comme suit : Toutes les fois qu’une évasion de détenus a lieu, les membres du personnel pénitentiaire et de la police grand-ducale préposés à la conduite, aux transfèrements et à la garde des détenus sont punis ainsi qu’il suit.
+- À l’article 332, l’alinéa 2 est remplacé comme suit :
 
-- Il est inséré au Code pénal un article 337-1 nouveau, libellé comme suit : Art. 337-1. Est présumé ne pas être une négligence au sens des articles 333 et 334 dans le chef des préposés à la conduite, aux transfèrements et à la garde des détenus le fait, en cas d’extraction d’un détenu, de ne pas faire usage de moyens de contrainte ou de modifier les modalités de surveillance du détenu, sur demande d’un magistrat ou d’un médecin.
+Toutes les fois qu’une évasion de détenus a lieu, les membres du personnel pénitentiaire et de la police grand-ducale préposés à la conduite, aux transfèrements et à la garde des détenus sont punis ainsi qu’il suit.
+
+- Il est inséré au Code pénal un article 337-1 nouveau, libellé comme suit :
+
+<a id="art-337-1"></a>
+## Art. 337-1.
+
+Est présumé ne pas être une négligence au sens des articles 333 et 334 dans le chef des préposés à la conduite, aux transfèrements et à la garde des détenus le fait, en cas d’extraction d’un détenu, de ne pas faire usage de moyens de contrainte ou de modifier les modalités de surveillance du détenu, sur demande d’un magistrat ou d’un médecin.
 
 <a id="art-51"></a>
 ## Art. 51.
@@ -1188,7 +1195,7 @@ Le Code de procédure pénale est modifié comme suit :
 
 - L’article 608 est modifié comme suit :
 
-  - à l’alinéa 1 er , les mots « au gardien » sont remplacés par ceux de « au membre du personnel pénitentiaire compétent » ;
+  - à l’alinéa 1er, les mots « au gardien » sont remplacés par ceux de « au membre du personnel pénitentiaire compétent » ;
 
   - aux alinéas 2 et 3, les mots « le gardien » sont remplacés par ceux de « l’agent pénitentiaire compétent ».
 
@@ -1224,9 +1231,9 @@ Le Gouvernement est autorisé à établir sur le domaine donné un centre pénit
 
 La loi modifiée du 10 août 1991 sur la profession d'avocat est modifiée comme suit :
 
-- À l’article 37-1 (1), alinéa 4, les mots , ainsi qu'en matière de procédure disciplinaire s'il est détenu dans un centre pénitentiaire. sont insérés après les mots d’éloignement des étrangers .
+- À l’article 37-1 (1), alinéa 4, les mots , ainsi qu'en matière de procédure disciplinaire s'il est détenu dans un centre pénitentiaire. sont insérés après les mots d’éloignement des étrangers.
 
-- À l’article 37-1 (2), alinéa 1 er , 1 ère phrase, les mots , ainsi qu'en matière de procédure disciplinaire si le bénéficiaire est détenu dans un centre pénitentiaire. sont insérés après les mots en demande ou en défense .
+- À l’article 37-1 (2), alinéa 1er, 1ère phrase, les mots , ainsi qu'en matière de procédure disciplinaire si le bénéficiaire est détenu dans un centre pénitentiaire. sont insérés après les mots en demande ou en défense.
 
 <a id="art-56"></a>
 ## Art. 56.
@@ -1263,22 +1270,32 @@ L’article 33 de la loi modifiée du 3 août 1998 instituant des régimes de pe
 
 - L’intitulé de l’article est remplacé comme suit : « Modification et suppression des pensions ».
 
-- L’alinéa 1 er , la première phrase de l’alinéa 2, ainsi que l’alinéa 3 de l’article 33 sont abrogés.
+- L’alinéa 1er, la première phrase de l’alinéa 2, ainsi que l’alinéa 3 de l’article 33 sont abrogés.
 
 <a id="art-58"></a>
 ## Art. 58.
 
 La loi du 10 décembre 2009 relative à l’hospitalisation sans leur consentement de personnes atteintes de troubles mentaux est modifiée comme suit :
 
-- L’article 4 (1), alinéa 1 er , est remplacé comme suit : Sans préjudice des dispositions de l'article 2-1 de la loi modifiée du 17 avril 1998 portant création d’un établissement public dénommé « centre hospitalier neuropsychiatrique », l’admission et le placement d’une personne atteinte de troubles mentaux ne peuvent avoir lieu que dans un service ou établissement visé à l’article 1er.
+- L’article 4 (1), alinéa 1er, est remplacé comme suit :
 
-- L’article 4 (1), alinéa 3, est remplacé comme suit : Sauf pour les cas visés à l'article 2-1 de la loi modifiée du 17 avril 1998 portant création d’un établissement public dénommé « centre hospitalier neuropsychiatrique », l’admission ne peut intervenir que dans un service de psychiatrie d'un hôpital.
+Sans préjudice des dispositions de l'article 2-1 de la loi modifiée du 17 avril 1998 portant création d’un établissement public dénommé « centre hospitalier neuropsychiatrique », l’admission et le placement d’une personne atteinte de troubles mentaux ne peuvent avoir lieu que dans un service ou établissement visé à l’article 1er.
 
-- La phrase suivante est ajoutée à l’alinéa 2 de l'article 7 (1) : Cette condition est légalement présumée remplie dès lors que la personne à placer est détenue dans un centre pénitentiaire.
+- L’article 4 (1), alinéa 3, est remplacé comme suit :
 
-- La phrase suivante est ajoutée à l'article 7 (2) : Si la personne est détenue dans un centre pénitentiaire, l’admission se fait à l'unité de psychiatrie socio-judiciaire visée à l'article 2-1 de la loi modifiée du 17 avril 1998 portant création d’un établissement public dénommé « centre hospitalier neuropsychiatrique. »
+Sauf pour les cas visés à l'article 2-1 de la loi modifiée du 17 avril 1998 portant création d’un établissement public dénommé « centre hospitalier neuropsychiatrique », l’admission ne peut intervenir que dans un service de psychiatrie d'un hôpital.
 
-- L'article 32 est remplacé comme suit : L’admission de toute personne ordonné par une juridiction de jugement ou d’instruction en application de l’article 71 du Code pénal est effectué dans l'unité de psychiatrie socio-judiciaire, conformément à 2-1 de la loi modifiée du 17 avril 1998 portant création d’un établissement public dénommé « centre hospitalier neuropsychiatrique »
+- La phrase suivante est ajoutée à l’alinéa 2 de l'article 7 (1) :
+
+Cette condition est légalement présumée remplie dès lors que la personne à placer est détenue dans un centre pénitentiaire.
+
+- La phrase suivante est ajoutée à l'article 7 (2) :
+
+Si la personne est détenue dans un centre pénitentiaire, l’admission se fait à l'unité de psychiatrie socio-judiciaire visée à l'article 2-1 de la loi modifiée du 17 avril 1998 portant création d’un établissement public dénommé « centre hospitalier neuropsychiatrique. »
+
+- L'article 32 est remplacé comme suit :
+
+L’admission de toute personne ordonné par une juridiction de jugement ou d’instruction en application de l’article 71 du Code pénal est effectué dans l'unité de psychiatrie socio-judiciaire, conformément à 2-1 de la loi modifiée du 17 avril 1998 portant création d’un établissement public dénommé « centre hospitalier neuropsychiatrique »
 
 <a id="art-59"></a>
 ## Art. 59.

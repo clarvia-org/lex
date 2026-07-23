@@ -14718,7 +14718,7 @@ Les créances privilégiées sur certains meubles sont:
 
 - Les créances résultant d'abus et prévarications commis par les fonctionnaires publics dans l'exercice de leurs fonctions, sur les fonds de leur cautionnement, et sur les intérêts qui en peuvent être dus;
 
-- ( L. du 10 juin 1932 ) ( L. du 7 avril 1976 ) Les créances nées d'un accident au profit des tiers lésés par cet accident ou de leurs ayants droit, sur l'indemnité dont l'assureur de la responsabilité civile se reconnaît ou a été judiciairement reconnu débiteur à raison de la convention d'assurance.
+- (L. du 10 juin 1932) (L. du 7 avril 1976) Les créances nées d'un accident au profit des tiers lésés par cet accident ou de leurs ayants droit, sur l'indemnité dont l'assureur de la responsabilité civile se reconnaît ou a été judiciairement reconnu débiteur à raison de la convention d'assurance.
 
 Aucun paiement fait à l'assuré ne sera libératoire tant que les créanciers privilégiés n'auront pas été désintéressés.
 

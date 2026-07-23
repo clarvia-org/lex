@@ -839,7 +839,23 @@ Les fonds réaffectés sont à exploiter comme prairie humide extensive selon le
 
 L’aide est constituée des composantes suivantes:
 
-- l’allocation d’une indemnité unique pour perte future de bois n’ayant pas encore atteint leur terme d’exploitabilité qui se base sur le barème en euros par hectare ci-dessous, les âges non repris par le barème étant déterminés par extrapolation linéaire: classe de productivité I classe de productivité II classe de productivité III classe de productivité IV (30 m3 / 50 ans) (27 m3 / 50 ans) (24 m3 / 50 ans) (21 m3 / 50 ans) Qualité Qualité Qualité Qualité âge 1 2 3 4 1 2 3 4 1 2 3 4 1 2 3 4 10 4.924 4.712 4.509 4.275 15 5.933 5.543 5.177 4.767 20 7.925 7.288 6.704 6.067 25 9.550 8.573 7.697 6.764 30 16.207 14.258 12.310 9.387 13.544 11.988 10.432 8.099 10.973 9.789 8.605 6.829 9.220 8.328 7.436 6.098 35 18.703 15.150 11.598 6.268 15.284 12.416 9.548 5.247 11.893 9.687 7.481 4.172 9.192 7.533 5.875 3.387 40 14.327 11.585 8.843 4.731 11.767 9.536 7.306 3.960 8.975 7.302 5.628 3.119 7.279 5.940 4.602 2.593 45 8.247 6.704 5.160 2.844 7.043 5.726 4.409 2.434 5.648 4.598 3.549 1.975 4.976 4.052 3.129 1.743 50 3.430 2.812 2.194 1.268 2.986 2.443 1.900 1.086 2.328 1.909 1.490 862 2.293 1.868 1.444 807 Qualité 1 (<20 % bois d'industrie) Qualité 2 (20-40 % bois d'industrie) Qualité 3 (40-60 % bois d'industrie) Qualité 4 (60-100 % bois d'industrie)
+- l’allocation d’une indemnité unique pour perte future de bois n’ayant pas encore atteint leur terme d’exploitabilité qui se base sur le barème en euros par hectare ci-dessous, les âges non repris par le barème étant déterminés par extrapolation linéaire:
+
+|  | classe de productivité I | classe de productivité II | classe de productivité III | classe de productivité IV |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | (30 m3 / 50 ans) | (27 m3 / 50 ans) | (24 m3 / 50 ans) | (21 m3 / 50 ans) |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | Qualité | Qualité | Qualité | Qualité |  |  |  |  |  |  |  |  |  |  |  |  |
+| âge | 1 | 2 | 3 | 4 | 1 | 2 | 3 | 4 | 1 | 2 | 3 | 4 | 1 | 2 | 3 | 4 |
+| 10 | 4.924 | 4.712 | 4.509 | 4.275 |  |  |  |  |  |  |  |  |  |  |  |  |
+| 15 | 5.933 | 5.543 | 5.177 | 4.767 |  |  |  |  |  |  |  |  |  |  |  |  |
+| 20 | 7.925 | 7.288 | 6.704 | 6.067 |  |  |  |  |  |  |  |  |  |  |  |  |
+| 25 | 9.550 | 8.573 | 7.697 | 6.764 |  |  |  |  |  |  |  |  |  |  |  |  |
+| 30 | 16.207 | 14.258 | 12.310 | 9.387 | 13.544 | 11.988 | 10.432 | 8.099 | 10.973 | 9.789 | 8.605 | 6.829 | 9.220 | 8.328 | 7.436 | 6.098 |
+| 35 | 18.703 | 15.150 | 11.598 | 6.268 | 15.284 | 12.416 | 9.548 | 5.247 | 11.893 | 9.687 | 7.481 | 4.172 | 9.192 | 7.533 | 5.875 | 3.387 |
+| 40 | 14.327 | 11.585 | 8.843 | 4.731 | 11.767 | 9.536 | 7.306 | 3.960 | 8.975 | 7.302 | 5.628 | 3.119 | 7.279 | 5.940 | 4.602 | 2.593 |
+| 45 | 8.247 | 6.704 | 5.160 | 2.844 | 7.043 | 5.726 | 4.409 | 2.434 | 5.648 | 4.598 | 3.549 | 1.975 | 4.976 | 4.052 | 3.129 | 1.743 |
+| 50 | 3.430 | 2.812 | 2.194 | 1.268 | 2.986 | 2.443 | 1.900 | 1.086 | 2.328 | 1.909 | 1.490 | 862 | 2.293 | 1.868 | 1.444 | 807 |
+|  | Qualité 1 (<20 % bois d'industrie) | Qualité 2 (20-40 % bois d'industrie) | Qualité 3 (40-60 % bois d'industrie) | Qualité 4 (60-100 % bois d'industrie) |  |  |  |  |  |  |  |  |  |  |  |  |
 
 - l’allocation d’un montant de 35 euros l’are pour les travaux de reboisement réalisés dans les zones rivulaires avec des associations forestières naturelles autochtones adaptées à la station.
 

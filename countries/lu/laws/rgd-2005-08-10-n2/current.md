@@ -82,7 +82,7 @@ En sus des dispositions concernant la représentation des élèves et des parent
 
 - Les parents qui ont inscrit leur enfant au lycée-pilote sont informés régulièrement des progrès scolaires réalisés par leur enfant. Ils peuvent s’adresser à un membre de l’équipe pédagogique pendant les heures de disponibilité.
 
-- Les parents sont associés à l’orientation de leur enfant conformément aux dispositions des articles 9 et 10 de la loi portant création du lycée pilote .
+- Les parents sont associés à l’orientation de leur enfant conformément aux dispositions des articles 9 et 10 de la loi portant création du lycée pilote.
 
 <a id="art-4"></a>
 ## Art. 4.
@@ -101,7 +101,7 @@ Le volume de la tâche hebdomadaire réglementaire des professeurs, instituteurs
 
 - après cinquante années d’âge: une décharge de deux leçons normales hebdomadaires;
 
-- après cinquante-cinq années d’âge: une décharge de quatre leçons normales hebdomadaires .»
+- après cinquante-cinq années d’âge: une décharge de quatre leçons normales hebdomadaires.»
 
 Pour les enseignants bénéficiaires soit d’un congé pour travail à mi-temps, soit d’un service à temps partiel de vingt-cinq, cinquante ou soixante-quinze pour cent d’une tâche complète, les deux parties de la tâche sont réduites dans la même proportion.
 

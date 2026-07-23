@@ -123,7 +123,7 @@ Le conseil d’administration a pour missions :
 
 - de décider sur les acquisitions, aliénations et échanges d’immeubles indispensables à l’accomplissement de sa mission et leur affectation, à l’exception de ceux mis à la disposition de l’Institut ;
 
-- d’analyser les avis consultatifs émis par la commission consultative prévue à l’article 3 quater ;
+- d’analyser les avis consultatifs émis par la commission consultative prévue à l’article 3quater ;
 
 - de nommer, pour un mandat de trois ans renouvelable, un réviseur d’entreprises agréé pour le contrôle des comptes de l’Institut.
 
@@ -174,7 +174,7 @@ Le montant des jetons de présence, par réunion, des membres du conseil scienti
 
 Le conseil scientifique a pour mission de:
 
-- procéder à une évaluation globale des activités de recherche de l’Observatoire de l’année écoulée et en faire rapport au conseil d’administration au plus tard pour le 1 er mars de l’année suivante;
+- procéder à une évaluation globale des activités de recherche de l’Observatoire de l’année écoulée et en faire rapport au conseil d’administration au plus tard pour le 1er mars de l’année suivante;
 
 - donner son avis sur tout nouveau projet de recherche ainsi que sur toute question scientifique que le conseil d’administration lui soumet;
 
@@ -217,7 +217,7 @@ Le directeur est choisi parmi :
 
 - soit les fonctionnaires appartenant au personnel classé à la catégorie de traitement A ;
 
-- soit les candidats du secteur privé, détenteurs d’au moins un diplôme de bachelor ou d’un titre de formation inscrit au registre des titres de formation, section de l’enseignement supérieur, visé à l’article 68 de la loi modifiée du 28 octobre 2016 relative à la reconnaissance des qualifications professionnelles, et correspondant au moins au niveau 6 du cadre luxembourgeois des qualifications visé à l’article 69 de la loi précitée du 28 octobre 2016 .
+- soit les candidats du secteur privé, détenteurs d’au moins un diplôme de bachelor ou d’un titre de formation inscrit au registre des titres de formation, section de l’enseignement supérieur, visé à l’article 68 de la loi modifiée du 28 octobre 2016 relative à la reconnaissance des qualifications professionnelles, et correspondant au moins au niveau 6 du cadre luxembourgeois des qualifications visé à l’article 69 de la loi précitée du 28 octobre 2016.
 
 <a id="art-3quater"></a>
 ## Art. 3quater.
@@ -515,7 +515,7 @@ L’employé de l’État de la carrière de l’ingénieur technicien, les empl
 
 - L’employé, détenteur d’un diplôme d’éducateur, remplissant actuellement les fonctions de secrétaire des cours d’orientation et d’initiation professionnelles, pourra être nommé à la fonction d’éducateur gradué suivant les modalités du paragraphe 5 ci-dessus. Il pourra être autorisé à porter le titre de secrétaire du Centre de formation professionnelle continue.
 
-- Les restrictions prévues à l’article 7, paragraphe 6, de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’État ne seront pas appliquées aux chargés de cours et aux employés au service de l’État visés par le présent article et, en vue de l’application des articles 8 et 22 de la même loi , il leur sera tenu compte, comme années de grade, des années passées en qualité de chargé de cours ou d’employé au service de l’État et dépassant deux années.
+- Les restrictions prévues à l’article 7, paragraphe 6, de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’État ne seront pas appliquées aux chargés de cours et aux employés au service de l’État visés par le présent article et, en vue de l’application des articles 8 et 22 de la même loi, il leur sera tenu compte, comme années de grade, des années passées en qualité de chargé de cours ou d’employé au service de l’État et dépassant deux années.
 
 <a id="art-19"></a>
 ## Art. 19.

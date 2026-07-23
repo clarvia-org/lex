@@ -240,7 +240,7 @@ Les biens à exproprier sont estimés en prenant seule en considération la vale
 
 - soit de la décision du Gouvernement en conseil prise en vertu de l’article 12, paragraphe 2 de la loi du 17 avril 2018 concernant l’aménagement du territoire ;
 
-- soit de la décision du Gouvernement en conseil prise en vertu de l’article 19, paragraphe 2 de la loi précitée du 17 avril 2018 .
+- soit de la décision du Gouvernement en conseil prise en vertu de l’article 19, paragraphe 2 de la loi précitée du 17 avril 2018.
 
 Il est cependant tenu compte de l’évolution générale du prix des biens.
 
@@ -307,7 +307,7 @@ Le Fonds des routes est alimenté:
 
 - par le produit de la vente d'immeubles acquis dans le cadre du programme précité et rendus disponibles après l'établissement de la grande voirie;
 
-- par les remboursements effectués par la République fédérale d'Allemagne conformément à l'article 7 de la convention entre le Grand-Duché de Luxembourg et la République fédérale d'Allemagne concernant la jonction des autoroutes et la construction d'un pont frontalier sur la Moselle dans la région de Perl et de Schengen signée à Luxembourg, le 18 avril 1994, et approuvée par la loi du 18 août 1995 .
+- par les remboursements effectués par la République fédérale d'Allemagne conformément à l'article 7 de la convention entre le Grand-Duché de Luxembourg et la République fédérale d'Allemagne concernant la jonction des autoroutes et la construction d'un pont frontalier sur la Moselle dans la région de Perl et de Schengen signée à Luxembourg, le 18 avril 1994, et approuvée par la loi du 18 août 1995.
 
 Les sommes dont question sub b), c) et d) de l'alinéa qui précède sont portées directement en recette au Fonds des routes.
 
@@ -884,7 +884,7 @@ Pour l’application de la présente loi, on entend par :
 
 - « réseau routier transeuropéen » : les réseaux routiers répertoriés par le règlement (UE) n° 1315/2013 du Parlement européen et du Conseil du 11 décembre 2013 sur les orientations de l’Union pour le développement du réseau transeuropéen de transport et abrogeant la décision n° 661/2010/UE ;
 
-- « autoroute » : voie publique telle que définie par les dispositions de l’article 2, paragraphe 1 er , point 1.6., de l’ arrêté grand-ducal modifié du 23 novembre 1955 portant règlement de la circulation sur toutes les voies publiques ;
+- « autoroute » : voie publique telle que définie par les dispositions de l’article 2, paragraphe 1er, point 1.6., de l’arrêté grand-ducal modifié du 23 novembre 1955 portant règlement de la circulation sur toutes les voies publiques ;
 
 - « route principale » : une route située en dehors des agglomérations qui relie les principales villes ou régions et qui appartient à la catégorie de route la plus élevée en dessous de la catégorie « autoroute ». Ces routes principales sont déterminées par voie de règlement grand-ducal ;
 
@@ -1398,7 +1398,7 @@ La réalisation d’un audit à un stade donné peut conduire à reconsidérer l
 
   - limitation de vitesse (générale, pour les motocycles, pour les camions) ;
 
-  - vitesse d’exploitation (85 e centile) ;
+  - vitesse d’exploitation (85e centile) ;
 
   - régulation de la vitesse ou modération du trafic ;
 

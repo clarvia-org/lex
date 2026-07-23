@@ -596,21 +596,35 @@ Les appareils pris en charge par l'assurance dépendance sont inscrits sur une l
 
 Le livre I du code des assurances sociales est modifié comme suit:
 
-- A l'article 10 il est inséré entre les alinéas 2 et 3 actuels un alinéa 3 nouveau libellé comme suit, les alinéas 3 et 4 actuels devenant les alinéas 4 et 5 nouveaux: «Pour les assurés visés à l'article 330, l'indemnité pécuniaire est calculée sur base du nombre d'heures que l'assuré aurait normalement travaillées pendant le congé de maladie ainsi que du salaire horaire mis en compte pour le calcul des cotisations pour le mois de calendrier précédent.»
+- A l'article 10 il est inséré entre les alinéas 2 et 3 actuels un alinéa 3 nouveau libellé comme suit, les alinéas 3 et 4 actuels devenant les alinéas 4 et 5 nouveaux:
+
+«Pour les assurés visés à l'article 330, l'indemnité pécuniaire est calculée sur base du nombre d'heures que l'assuré aurait normalement travaillées pendant le congé de maladie ainsi que du salaire horaire mis en compte pour le calcul des cotisations pour le mois de calendrier précédent.»
 
 - L'article 17 est modifié comme suit:
 
-  - Le point 2) est libellé comme suit: les traitements dispensés par les professionnels de santé;»
+  - Le point 2) est libellé comme suit:
 
-  - Le point 6) prend la teneur suivante: les moyens curatifs, les produits accessoires au traitement et les appareils;»
+- les traitements dispensés par les professionnels de santé;»
 
-- A l'article 19 il est ajouté un alinéa 4 ayant la teneur suivante: «Les personnes bénéficiant des prestations en nature de l'assurance dépendance n'ont droit à la prise en charge des actes inscrits à la nomenclature des infirmiers que si ces actes sont dispensés par le réseau ou l'établissement d'aides et de soins ayant conclu un contrat d'aides et de soins.»
+  - Le point 6) prend la teneur suivante:
 
-- L'article 34 est complété par un alinéa 3 conçu comme suit: «Un règlement grand-ducal peut exclure de l'assiette de cotisation certains éléments de la rémunération non soumis à l'impôt sur le revenu.»
+- les moyens curatifs, les produits accessoires au traitement et les appareils;»
 
-- L'alinéa 2 de l’article 35 est conçu comme suit: «En attendant l’établissement du revenu professionnel de l’exercice en cause par l’administration des contributions directes, les cotisations sont calculées provisoirement sur base du dernier revenu connu ou, pour un assuré nouveau, sur base du minimum cotisable, à moins que l’assuré ne justifie la mise en compte d’un revenu différent notamment par une déclaration faite à cette administration. Après l’émission du bulletin d’impôts définitif, elles font d’office l’objet d’un recalcul, sans préjudice de l’application de la dernière phrase de l’article 241, alinéa 10.» L'alinéa 4 est abrogé.
+- A l'article 19 il est ajouté un alinéa 4 ayant la teneur suivante:
 
-- L'article 65, alinéa 4 est complété par la phrase suivante: «Cette cotation forfaitaire s'impose pour les actes et services professionnels dispensés par les prestataires visés à l'article 61 sous 1) et 3) dans des établissements d'aides et de soins.»
+«Les personnes bénéficiant des prestations en nature de l'assurance dépendance n'ont droit à la prise en charge des actes inscrits à la nomenclature des infirmiers que si ces actes sont dispensés par le réseau ou l'établissement d'aides et de soins ayant conclu un contrat d'aides et de soins.»
+
+- L'article 34 est complété par un alinéa 3 conçu comme suit:
+
+«Un règlement grand-ducal peut exclure de l'assiette de cotisation certains éléments de la rémunération non soumis à l'impôt sur le revenu.»
+
+- L'alinéa 2 de l’article 35 est conçu comme suit: L'alinéa 4 est abrogé.
+
+«En attendant l’établissement du revenu professionnel de l’exercice en cause par l’administration des contributions directes, les cotisations sont calculées provisoirement sur base du dernier revenu connu ou, pour un assuré nouveau, sur base du minimum cotisable, à moins que l’assuré ne justifie la mise en compte d’un revenu différent notamment par une déclaration faite à cette administration. Après l’émission du bulletin d’impôts définitif, elles font d’office l’objet d’un recalcul, sans préjudice de l’application de la dernière phrase de l’article 241, alinéa 10.»
+
+- L'article 65, alinéa 4 est complété par la phrase suivante:
+
+«Cette cotation forfaitaire s'impose pour les actes et services professionnels dispensés par les prestataires visés à l'article 61 sous 1) et 3) dans des établissements d'aides et de soins.»
 
 <a id="article-iii"></a>
 ## Article III.
@@ -622,17 +636,31 @@ Dans le livre II du code des assurances sociales l'alinéa 10 de l'article 97 et
 
 Le livre III du code des assurances sociales est modifié comme suit:
 
-- L'article 171, alinéa 1 est complété par les numéros 12) et 13) libellés comme suit: «12) les périodes pendant lesquelles une personne a assuré des aides et des soins à une personne dépendante au sens du livre V, sans qu'il s'agisse d'une activité professionnelle au sens des numéros 1), 2) et 4) visés ci-dessus. 13) les périodes pendant lesquelles une personne a accueilli un enfant en placement de jour et de nuit ou en placement de jour et que ce placement a été effectué par un organisme agréé conformément à la législation réglant les relations entre l’Etat et les organismes oeuvrant dans les domaines social, familial et thérapeutique.»
+- L'article 171, alinéa 1 est complété par les numéros 12) et 13) libellés comme suit:
 
-- A l'article 172, alinéa 1, le numéro 7) est modifié comme suit: «7) les périodes du 1er janvier 1990 au 31 décembre 1998 pendant lesquelles une personne a assuré des soins au bénéficiaire d'une allocation de soins prévue par la loi du 22 mai 1989, d'une allocation spéciale pour personnes gravement handicapées au titre de la loi modifiée du 16 avril 1979, d'une majoration de la rente d'accident en vertu de l'article 97, alinéa 7 ou d'une majoration de complément du revenu minimum garanti prévu par l'article 3, alinéa 4 de la loi modifiée du 26 juillet 1986;»
+«12) les périodes pendant lesquelles une personne a assuré des aides et des soins à une personne dépendante au sens du livre V, sans qu'il s'agisse d'une activité professionnelle au sens des numéros 1), 2) et 4) visés ci-dessus.
 
-- L'article 240 est complété par les tirets supplémentaires ayant la teneur ci-après: «- à l'assurance dépendance dans la limite prévue à l'article 357 et pour autant qu'il s'agit de périodes au sens de l'article 171 sous 1) ou 12) pendant lesquelles l'assuré a assuré des aides et des soins à une personne dépendante; - aux organismes agréés conformément à la législation réglant les relations entre l’Etat et les organismes oeuvrant dans les domaines social, familial et thérapeutique, au maximum jusqu’à concurrence d’une cotisation calculée sur base du salaire social minimum mensuel prévu pour un travailleur non-qualifié âgé de dix-huit ans au moins et pour autant qu’il s’agit de périodes au sens de l’article 171 sous 13) pendant lesquelles l’assuré a assuré l’accueil d’un enfant en placement de jour et de nuit ou en placement de jour.»
+13) les périodes pendant lesquelles une personne a accueilli un enfant en placement de jour et de nuit ou en placement de jour et que ce placement a été effectué par un organisme agréé conformément à la législation réglant les relations entre l’Etat et les organismes oeuvrant dans les domaines social, familial et thérapeutique.»
+
+- A l'article 172, alinéa 1, le numéro 7) est modifié comme suit:
+
+«7) les périodes du 1er janvier 1990 au 31 décembre 1998 pendant lesquelles une personne a assuré des soins au bénéficiaire d'une allocation de soins prévue par la loi du 22 mai 1989, d'une allocation spéciale pour personnes gravement handicapées au titre de la loi modifiée du 16 avril 1979, d'une majoration de la rente d'accident en vertu de l'article 97, alinéa 7 ou d'une majoration de complément du revenu minimum garanti prévu par l'article 3, alinéa 4 de la loi modifiée du 26 juillet 1986;»
+
+- L'article 240 est complété par les tirets supplémentaires ayant la teneur ci-après:
+
+«- à l'assurance dépendance dans la limite prévue à l'article 357 et pour autant qu'il s'agit de périodes au sens de l'article 171 sous 1) ou 12) pendant lesquelles l'assuré a assuré des aides et des soins à une personne dépendante;
+
+- aux organismes agréés conformément à la législation réglant les relations entre l’Etat et les organismes oeuvrant dans les domaines social, familial et thérapeutique, au maximum jusqu’à concurrence d’une cotisation calculée sur base du salaire social minimum mensuel prévu pour un travailleur non-qualifié âgé de dix-huit ans au moins et pour autant qu’il s’agit de périodes au sens de l’article 171 sous 13) pendant lesquelles l’assuré a assuré l’accueil d’un enfant en placement de jour et de nuit ou en placement de jour.»
 
 - L’article 241 est modifié comme suit:
 
-  - L’alinéa 5 est complété par une phrase ayant la teneur suivante: «Un règlement grand-ducal peut exclure de l’assiette de cotisation certains éléments de la rémunération non soumis à l’impôt sur le revenu.»
+  - L’alinéa 5 est complété par une phrase ayant la teneur suivante:
 
-  - L’alinéa 10 est remplacé comme suit: «En attendant l’établissement du revenu professionnel de l’exercice en cause par l’administration des contributions directes, les cotisations sont calculées provisoirement sur base du dernier revenu connu ou, pour un assuré nouveau, sur base du minimum cotisable, à moins que l’assuré ne justifie la mise en compte d’un revenu différent notamment par une déclaration faite à cette administration. Après l’émission du bulletin d’impôts définitif, elles font d’office l’objet d’un recalcul. Toutefois, les cotisations provisoires mises en compte dans la pension ne sont recalculées qu’à la demande du bénéficiaire qui peut être présentée même lorsque que la décision d’attribution de la pension est devenue définitive.»
+«Un règlement grand-ducal peut exclure de l’assiette de cotisation certains éléments de la rémunération non soumis à l’impôt sur le revenu.»
+
+  - L’alinéa 10 est remplacé comme suit:
+
+«En attendant l’établissement du revenu professionnel de l’exercice en cause par l’administration des contributions directes, les cotisations sont calculées provisoirement sur base du dernier revenu connu ou, pour un assuré nouveau, sur base du minimum cotisable, à moins que l’assuré ne justifie la mise en compte d’un revenu différent notamment par une déclaration faite à cette administration. Après l’émission du bulletin d’impôts définitif, elles font d’office l’objet d’un recalcul. Toutefois, les cotisations provisoires mises en compte dans la pension ne sont recalculées qu’à la demande du bénéficiaire qui peut être présentée même lorsque que la décision d’attribution de la pension est devenue définitive.»
 
 - L’alinéa 2 de l’article 242 est abrogé.
 
@@ -643,39 +671,73 @@ Le livre IV du code des assurances sociales est modifié comme suit:
 
 - L'article 293 est modifié comme suit:
 
-  - A l'alinéa 3, la troisième phrase prend la teneur suivante: «Lorsque la détermination de la caisse de maladie compétente soulève une difficulté ou lorsqu'il s'agit d'un recours en application de l'article 382, alinéa 2, le président statue seul.»
+  - A l'alinéa 3, la troisième phrase prend la teneur suivante:
 
-  - La première phrase de l'alinéa 5 prend la teneur suivante: «Le président, le vice-président et le juge qui se suppléent mutuellement sont des fonctionnaires de l'Etat nommés par le Grand-Duc.»
+«Lorsque la détermination de la caisse de maladie compétente soulève une difficulté ou lorsqu'il s'agit d'un recours en application de l'article 382, alinéa 2, le président statue seul.»
 
-  - L'alinéa 7 prend la teneur suivante: «Sauf dans les cas prévus aux articles 62, 70, 72, 73 et 382, le conseil supérieur des assurances sociales se compose en outre de deux délégués élus par les délégations des caisses de maladie. Les dispositions de l'alinéa 3 qui précède sont applicables.»
+  - La première phrase de l'alinéa 5 prend la teneur suivante:
 
-- L'article 330 prend la teneur suivante: «Les employeurs sont tenus à déclarer tous les mois les rémunérations brutes effectivement versées. Par dérogation à l'alinéa qui précède, les employeurs déclarent les rémunérations nettes convenues, le cas échéant, avec les personnes qu'ils occupent dans le cadre de leur vie privée pour des travaux de ménage, pour la garde de leurs enfants ainsi que pour leur assurer des aides et des soins nécessaires en raison de leur état de dépendance. Un règlement grand-ducal peut prévoir que la rémunération déclarée est adaptée d’office à l’évolution de l’indice du coût de la vie et du salaire social minimum et sert d’assiette de cotisation, à moins que l’employeur ou l’assuré ne signale dans un délai déterminé une divergence avec la rémunération effectivement payée . Pour les occupations visées à l'alinéa qui précède, le centre commun procède à la perception de l'impôt sur le revenu simultanément à celle des cotisations. L'impôt perçu est transmis chaque mois à l'Etat ensemble avec les données nominatives servant de base à cette perception.»
+«Le président, le vice-président et le juge qui se suppléent mutuellement sont des fonctionnaires de l'Etat nommés par le Grand-Duc.»
 
-- A l’article 331, alinéa 1, la deuxième phrase prend la teneur suivante: «Les indications nécessaires pour la constatation et la fixation des activités non salariées même exercées à titre accessoire sont fournies par l’administration des contributions directes, sans préjudice des dispositions de l’article 241, alinéas 11 et 12 relatives à la détermination du revenu de l’exploitation agricole.»
+  - L'alinéa 7 prend la teneur suivante:
 
-- A l'article 341 il est intercalé entre les alinéas 3 et 4 actuels un alinéa 4 nouveau ayant la teneur suivante: «Si pour une même personne il y a contrariété entre les avis d'un médecin-conseil du contrôle médical de la sécurité sociale et la cellule d'évaluation et d'orientation, l'affaire est portée devant le médecin directeur du contrôle médical de la sécurité sociale qui arrête l'avis définitif.»
+«Sauf dans les cas prévus aux articles 62, 70, 72, 73 et 382, le conseil supérieur des assurances sociales se compose en outre de deux délégués élus par les délégations des caisses de maladie. Les dispositions de l'alinéa 3 qui précède sont applicables.»
+
+- L'article 330 prend la teneur suivante:
+
+«Les employeurs sont tenus à déclarer tous les mois les rémunérations brutes effectivement versées.
+
+Par dérogation à l'alinéa qui précède, les employeurs déclarent les rémunérations nettes convenues, le cas échéant, avec les personnes qu'ils occupent dans le cadre de leur vie privée pour des travaux de ménage, pour la garde de leurs enfants ainsi que pour leur assurer des aides et des soins nécessaires en raison de leur état de dépendance. Un règlement grand-ducal peut prévoir que la rémunération déclarée est adaptée d’office à l’évolution de l’indice du coût de la vie et du salaire social minimum et sert d’assiette de cotisation, à moins que l’employeur ou l’assuré ne signale dans un délai déterminé une divergence avec la rémunération effectivement payée .
+
+Pour les occupations visées à l'alinéa qui précède, le centre commun procède à la perception de l'impôt sur le revenu simultanément à celle des cotisations. L'impôt perçu est transmis chaque mois à l'Etat ensemble avec les données nominatives servant de base à cette perception.»
+
+- A l’article 331, alinéa 1, la deuxième phrase prend la teneur suivante:
+
+«Les indications nécessaires pour la constatation et la fixation des activités non salariées même exercées à titre accessoire sont fournies par l’administration des contributions directes, sans préjudice des dispositions de l’article 241, alinéas 11 et 12 relatives à la détermination du revenu de l’exploitation agricole.»
+
+- A l'article 341 il est intercalé entre les alinéas 3 et 4 actuels un alinéa 4 nouveau ayant la teneur suivante:
+
+«Si pour une même personne il y a contrariété entre les avis d'un médecin-conseil du contrôle médical de la sécurité sociale et la cellule d'évaluation et d'orientation, l'affaire est portée devant le médecin directeur du contrôle médical de la sécurité sociale qui arrête l'avis définitif.»
 
 <a id="article-vi"></a>
 ## Article VI.
 
 La loi du 4 décembre 1967 concernant l'impôt sur le revenu est modifiée et complétée comme suit:
 
-- A l’article 115 le numéro 6 est remplacé comme suit: Les prestations en nature allouées par un organisme de sécurité sociale.»
+- A l’article 115 le numéro 6 est remplacé comme suit:
 
-- L’article 136, alinéa 8 est complété par un numéro 3 libellé comme suit: «prévoir des dispositions d’exécution spéciales en ce qui concerne les rémunérations imposées forfaitairement en vertu de l’article 137 alinéa 5.»
+- Les prestations en nature allouées par un organisme de sécurité sociale.»
 
-- L’article 137 est complété par un alinéa 5 libellé comme suit: «(5) Par dérogation aux dispositions des quatre premiers alinéas et au régime d’imposition normal, sont imposées forfaitairement les rémunérations versées par les employeurs qui occupent exclusivement dans le cadre de leur vie privée des salariés pour des travaux de ménage, pour la garde d’enfant ainsi que pour assurer des aides et des soins nécessaires en raison de leur état de dépendance. L’impôt forfaitaire est fixé à six pour cent du montant net du salaire alloué et est à prendre en charge par l’employeur. L’impôt forfaitaire est perçu par le centre commun de la sécurité sociale pour le compte de l’administration des contributions. Nonobstant les dispositions qui précèdent, le salarié peut demander après la fin de l’année d’imposition en cause, suivant le cas, par décompte annuel ou par voie d’assiette, la régularisation de l’imposition des rémunérations prévisées d’après les règles du régime d’imposition normal. Un règlement grand-ducal déterminera les dispositions d’exécution du présent alinéa.»
+- L’article 136, alinéa 8 est complété par un numéro 3 libellé comme suit:
+
+«prévoir des dispositions d’exécution spéciales en ce qui concerne les rémunérations imposées forfaitairement en vertu de l’article 137 alinéa 5.»
+
+- L’article 137 est complété par un alinéa 5 libellé comme suit:
+
+«(5) Par dérogation aux dispositions des quatre premiers alinéas et au régime d’imposition normal, sont imposées forfaitairement les rémunérations versées par les employeurs qui occupent exclusivement dans le cadre de leur vie privée des salariés pour des travaux de ménage, pour la garde d’enfant ainsi que pour assurer des aides et des soins nécessaires en raison de leur état de dépendance. L’impôt forfaitaire est fixé à six pour cent du montant net du salaire alloué et est à prendre en charge par l’employeur. L’impôt forfaitaire est perçu par le centre commun de la sécurité sociale pour le compte de l’administration des contributions.
+
+Nonobstant les dispositions qui précèdent, le salarié peut demander après la fin de l’année d’imposition en cause, suivant le cas, par décompte annuel ou par voie d’assiette, la régularisation de l’imposition des rémunérations prévisées d’après les règles du régime d’imposition normal.
+
+Un règlement grand-ducal déterminera les dispositions d’exécution du présent alinéa.»
 
 <a id="article-vii"></a>
 ## Article VII.
 
 La loi modifiée du 27 novembre 1933 concernant le recouvrement des contributions directes, des droits d’accise sur l’eau-de-vie et des cotisations d’assurance sociale est modifiée comme suit:
 
-- A l’article 3, alinéa 1, les termes taxes sur les véhicules à moteur mécanique sont remplacés par les termes taxes sur les véhicules automoteurs ,
+- A l’article 3, alinéa 1, les termes taxes sur les véhicules à moteur mécanique sont remplacés par les termes taxes sur les véhicules automoteurs,
 
-- A l’article 3, l’alinéa 2 est remplacé par le texte suivant: «Il en est de même du recouvrement des cotisations et contributions, avances sur cotisations et contributions, amendes d’ordre et autres prestations dues à la sécurité sociale ou aux chambres professionnelles.»
+- A l’article 3, l’alinéa 2 est remplacé par le texte suivant:
 
-- L’article 11 est modifié à la suite du numéro 2° comme suit: les taxes sur les véhicules automoteurs; les cotisations et contributions dues à la sécurité sociale; les cotisations et taxes dues aux chambres professionnelles.»
+«Il en est de même du recouvrement des cotisations et contributions, avances sur cotisations et contributions, amendes d’ordre et autres prestations dues à la sécurité sociale ou aux chambres professionnelles.»
+
+- L’article 11 est modifié à la suite du numéro 2° comme suit:
+
+- les taxes sur les véhicules automoteurs;
+
+- les cotisations et contributions dues à la sécurité sociale;
+
+- les cotisations et taxes dues aux chambres professionnelles.»
 
 ### Dispositions transitoires
 
@@ -684,7 +746,7 @@ La loi modifiée du 27 novembre 1933 concernant le recouvrement des contribution
 
 Les personnes bénéficiant en date du 31 décembre 1998 de prestations au titre
 
-- de l’article 97 alinéas 10 et 11, deuxième phrase, du code des assurances sociales ;
+- de l’article 97 alinéas 10 et 11, deuxième phrase, du code des assurances sociales;
 
 - de la loi modifiée du 16 avril 1979 portant création d’une allocation spéciale pour personnes gravement handicapées;
 

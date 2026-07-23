@@ -69,6 +69,17 @@ def test_boundary_equivalence_recognizes_known_glue() -> None:
     assert report.exact_canonical_token_match is False
 
 
+def test_ordinal_bridge_prefers_digit_before_bare_erbis() -> None:
+    """``1``+``erbis`` must pair with ``1er``+``bis`` before ``erbis``→``er``+``bis``."""
+    report = build_fidelity_report(
+        ["1", "1", "1", "erbis", "erbis", "erbis", "keep"],
+        ["1er", "bis", "1er", "bis", "1er", "bis", "keep"],
+    )
+    assert report.unexplained_source_only_tokens == 0
+    assert report.unexplained_markdown_only_tokens == 0
+    assert report.recognized_boundary_differences == 3
+
+
 def test_boundary_equivalence_rejects_arbitrary_splits() -> None:
     report = build_fidelity_report(
         ["chaton", "keep"],
@@ -104,7 +115,7 @@ def test_renormalized_code_consommation_word_parity() -> None:
     assert report.unexplained_source_only_tokens / report.source_tokens <= WORD_COUNT_MARGIN
 
 
-def test_renormalized_code_fonction_publique_boundary_classified() -> None:
+def test_renormalized_code_fonction_publique_exact_parity() -> None:
     adapter = _load_adapter()
     law = Path("countries/lu/laws/code-fonction-publique")
     source = (law / "source.xml").read_bytes()
@@ -112,7 +123,10 @@ def test_renormalized_code_fonction_publique_boundary_classified() -> None:
     report = build_fidelity_report(xml_body_words(source), markdown_body_words(body))
     assert report.source_tokens
     assert report.ok
-    assert report.recognized_boundary_differences >= 10
-    # Tiny residual count drift on common words may remain; gate uses unexplained.
-    assert report.unexplained_source_only_tokens / report.source_tokens <= WORD_COUNT_MARGIN
-    assert "recognized_boundary_differences" in report.format_public()
+    assert report.missing_articles == 0
+    assert report.source_articles == report.markdown_articles
+    assert report.unexplained_source_only_tokens == 0
+    assert report.unexplained_markdown_only_tokens == 0
+    assert report.source_only_tokens == 0
+    assert report.markdown_only_tokens == 0
+    assert report.exact_canonical_token_match is True

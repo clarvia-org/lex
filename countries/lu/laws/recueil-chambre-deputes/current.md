@@ -136,143 +136,7 @@ La loi du 18 avril 1911 sur les enquêtes parlementaires est abrogée.
 
 ## Version consolidée applicable au 21/01/2026 : Règlement de la Chambre des Députés.
 
-TITRE I De l’organisation de la Chambre et de son fonctionnement
-
-Chapitre 1 Du Bureau provisoire
-
-Chapitre 2 De la vérification des pouvoirs
-
-Chapitre 3 Du Bureau définitif
-
-Chapitre 4 Des groupes politiques et techniques
-
-Chapitre 5 Des commissions
-
-Chapitre 6 De la Conférence des Présidents
-
-Chapitre 7 Des séances publiques
-
-Chapitre 8 Des modes de votation
-
-Chapitre 9 De la discipline
-
-TITRE II De la procédure en matière de projets de loi et de propositions de loi
-
-Chapitre 1 Des projets de loi
-
-Chapitre 2 Des propositions de loi
-
-bis
-
-Chapitre 3 De la discussion des projets de loi et propositions de loi
-
-Chapitre 4 Des amendements
-
-Chapitre 5 Des affaires sans rapport ou sans débat
-
-Chapitre 6 Des seconds votes
-
-TITRE III Du contrôle de l’action du Gouvernement
-
-Chapitre 1 Des questions
-
-bis
-
-Chapitre 2 Des motions et des résolutions
-
-Chapitre 3 Des questions de confiance, des motions de confiance, des motions de censure et des motions de méfiance
-
-Chapitre 4 Des interpellations
-
-Chapitre 5 Du débat de consultation
-
-Chapitre 6 Du débat d’orientation
-
-Chapitre 7 De la déclaration gouvernementale selon l’article 74 de la Constitution
-
-Chapitre 8 Retrait des questions, motions, résolutions, interpellations et débats
-
-TITRE IV De la procédure budgétaire
-
-Chapitre 1 Définition
-
-Chapitre 2 Débat sur l’état de la nation
-
-Chapitre 3 Débat sur la politique financière et budgétaire
-
-Chapitre 4 Approbation des comptes généraux
-
-TITRE V Procédures et dispositions particulières
-
-Chapitre 1 Élections et présentation de candidats
-
-Chapitre 2 De la procédure de désignation des candidats pour les postes de conseillers d’État
-
-bis
-
-Chapitre 3 De la procédure de proposition de nomination pour le poste de président, de vice-président ou de conseiller à la Cour des Comptes
-
-Chapitre 4 De l’Ombudsman
-
-Chapitre 5 Du Centre pour l’égalité de traitement
-
-Chapitre 6 De la procédure de nomination du commissaire aux comptes de la Société Nationale de Crédit et d’Investissement
-
-Chapitre 7 De la procédure de désignation de deux membres du conseil national des finances publiques
-
-loi du 23 juillet 2016
-
-Chapitre 9 De l’Ombudsman fir Kanner a Jugendlecher
-
-Chapitre 10 De la procédure de désignation d’un député comme membre de la commission de suivi de la convention portant sur la prestation du service public luxembourgeois en matière de télévision
-
-Chapitre 11 Des pétitions
-
-Chapitre 12 Des rapports de la Chambre avec le Grand-Duc, la Cour des Comptes et le Conseil d’État
-
-Chapitre 13 Du contrôle et de l’apurement des comptes de la Cour des Comptes, de l’Ombudman, du Centre pour l’égalité de traitement et de l’Ombudsman fir Kanner a Jugendlecher
-
-Chapitre 14 De l’administration parlementaire, du Secrétaire général, des fonctionnaires et des salariés de la Chambre
-
-Chapitre 15 Du compte rendu
-
-Chapitre 16 De la retransmission des séances publiques
-
-Chapitre 17 De la comptabilité
-
-Chapitre 18 Des devoirs des députés
-
-bis
-
-Chapitre 19 Des affaires européennes
-
-Chapitre 20 De la police de la Chambre et des tribunes
-
-Chapitre 21 De la procédure d’examen des demandes d’arrestation d’un membre de la Chambre
-
-Chapitre 22 De la procédure en cas de demande par plus d’un quart des membres de la Chambre des Députés d’organiser un référendum selon l’article 131, alinéa 3 de la Constitution
-
-Chapitre 23 L’octroi du titre honorifique aux anciens députés
-
-Chapitre 24 De la vérification des pouvoirs relative au Parlement européen
-
-Chapitre 25 Des changements au Règlement
-
-Chapitre 26 Disposition transitoire
-
-Chapitre 27 Disposition finale
-
-Annexe 1 : Code de conduite des députés luxembourgeois en matière d’intérêts financiers et de conflits d’intérêts
-
-Annexe 2 : Règlement d’ordre intérieur de la Commission de contrôle parlementaire du Service de renseignement de l’État
-
-Annexe 3 : Aide-Mémoire sur la coopération entre la Chambre des Députés et le Gouvernement du Grand-Duché de Luxembourg en matière de politique européenne
-
-Annexe 4 : Statut des fonctionnaires de l’Administration parlementaire
-
-Annexe 5 : Régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’Administration parlementaire
-
-Annexe 6 : Règlements d’exécution du statut des fonctionnaires de l’Administration parlementaire
+TITRE I De l’organisation de la Chambre et de son fonctionnement Chapitre 1 Du Bureau provisoire Chapitre 2 De la vérification des pouvoirs Chapitre 3 Du Bureau définitif Chapitre 4 Des groupes politiques et techniques Chapitre 5 Des commissions Chapitre 6 De la Conférence des Présidents Chapitre 7 Des séances publiques Chapitre 8 Des modes de votation Chapitre 9 De la discipline TITRE II De la procédure en matière de projets de loi et de propositions de loi Chapitre 1 Des projets de loi Chapitre 2 Des propositions de loi Chapitre 2bis Des propositions motivées aux fins de légiférer Chapitre 3 De la discussion des projets de loi et propositions de loi Chapitre 4 Des amendements Chapitre 5 Des affaires sans rapport ou sans débat Chapitre 6 Des seconds votes TITRE III Du contrôle de l’action du Gouvernement Chapitre 1 Des questions Chapitre 1bis Le droit de requérir de la part du Gouvernement des informations et des documents Chapitre 2 Des motions et des résolutions Chapitre 3 Des questions de confiance, des motions de confiance, des motions de censure et des motions de méfiance Chapitre 4 Des interpellations Chapitre 5 Du débat de consultation Chapitre 6 Du débat d’orientation Chapitre 7 De la déclaration gouvernementale selon l’article 74 de la Constitution Chapitre 8 Retrait des questions, motions, résolutions, interpellations et débats TITRE IV De la procédure budgétaire Chapitre 1 Définition Chapitre 2 Débat sur l’état de la nation Chapitre 3 Débat sur la politique financière et budgétaire Chapitre 4 Approbation des comptes généraux TITRE V Procédures et dispositions particulières Chapitre 1 Élections et présentation de candidats Chapitre 2 De la procédure de désignation des candidats pour les postes de conseillers d’État Chapitre 2bis De la procédure de désignation des candidats pour les postes de membre effectif ou de membre suppléant du Conseil national de la justice Chapitre 3 De la procédure de proposition de nomination pour le poste de président, de vice-président ou de conseiller à la Cour des Comptes Chapitre 4 De l’Ombudsman Chapitre 5 Du Centre pour l’égalité de traitement Chapitre 6 De la procédure de nomination du commissaire aux comptes de la Société Nationale de Crédit et d’Investissement Chapitre 7 De la procédure de désignation de deux membres du conseil national des finances publiques Chapitre 8 De la procédure de désignation de deux députés comme membres du comité d’évaluation institué par la loi du 23 juillet 2016 portant mise en place d’un statut spécifique pour certaines données à caractère personnel traitées par le Service de renseignement de l’État Chapitre 9 De l’Ombudsman fir Kanner a Jugendlecher Chapitre 10 De la procédure de désignation d’un député comme membre de la commission de suivi de la convention portant sur la prestation du service public luxembourgeois en matière de télévision Chapitre 11 Des pétitions Chapitre 12 Des rapports de la Chambre avec le Grand-Duc, la Cour des Comptes et le Conseil d’État Chapitre 13 Du contrôle et de l’apurement des comptes de la Cour des Comptes, de l’Ombudman, du Centre pour l’égalité de traitement et de l’Ombudsman fir Kanner a Jugendlecher Chapitre 14 De l’administration parlementaire, du Secrétaire général, des fonctionnaires et des salariés de la Chambre Chapitre 15 Du compte rendu Chapitre 16 De la retransmission des séances publiques Chapitre 17 De la comptabilité Chapitre 18 Des devoirs des députés Chapitre 18bis Le Registre de transparence Chapitre 19 Des affaires européennes Chapitre 20 De la police de la Chambre et des tribunes Chapitre 21 De la procédure d’examen des demandes d’arrestation d’un membre de la Chambre Chapitre 22 De la procédure en cas de demande par plus d’un quart des membres de la Chambre des Députés d’organiser un référendum selon l’article 131, alinéa 3 de la Constitution Chapitre 23 L’octroi du titre honorifique aux anciens députés Chapitre 24 De la vérification des pouvoirs relative au Parlement européen Chapitre 25 Des changements au Règlement Chapitre 26 Disposition transitoire Chapitre 27 Disposition finale Annexe 1 : Code de conduite des députés luxembourgeois en matière d’intérêts financiers et de conflits d’intérêts Annexe 2 : Règlement d’ordre intérieur de la Commission de contrôle parlementaire du Service de renseignement de l’État Annexe 3 : Aide-Mémoire sur la coopération entre la Chambre des Députés et le Gouvernement du Grand-Duché de Luxembourg en matière de politique européenne Annexe 4 : Statut des fonctionnaires de l’Administration parlementaire Annexe 5 : Régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’Administration parlementaire Annexe 6 : Règlements d’exécution du statut des fonctionnaires de l’Administration parlementaire
 
 ### TITRE I De l’organisation de la Chambre et de son fonctionnement
 
@@ -3147,7 +3011,7 @@ La Commission des Pétitions instruit par ordre chronologique de dépôt les dem
 
 - faire usage d’un langage provocateur, vexatoire ou inapproprié ;
 
-- poursuivre des revendications ne rentrant pas dans les attributions de la Chambre des Députés conformément à l’article 62 de la Constitution ;
+- poursuivre des revendications ne rentrant pas dans les attributions de la Chambre des Députés conformément à l’article 62 de laConstitution;
 
 - poursuivre des revendications contraires aux droits de l’Homme, contraires au principe de non-discrimination ou incitant à la haine ;
 
@@ -3766,13 +3630,13 @@ Des facilités matérielles peuvent être accordées aux Présidents d’honneur
 
 Avant de siéger au Parlement européen, les candidats élus sont tenus de :
 
-- fournir à la Chambre les pièces justificatives permettant d’établir de façon certaine qu’ils remplissent les conditions d’éligibilité fixées aux articles 285 (1) et 286 alinéa 1 er de la loi électorale du 18 février 2003 .
+- fournir à la Chambre les pièces justificatives permettant d’établir de façon certaine qu’ils remplissent les conditions d’éligibilité fixées aux articles 285 (1) et 286 alinéa 1er de la loi électorale du 18 février 2003.
 
-- déclarer par écrit qu’ils ne sont pas frappés par les incompatibilités liées à la parenté ou à l’alliance visées à l’article 288 de la loi électorale du 18 février 2003 .
+- déclarer par écrit qu’ils ne sont pas frappés par les incompatibilités liées à la parenté ou à l’alliance visées à l’article 288 de la loi électorale du 18 février 2003.
 
 - s’engager à prendre, si leurs pouvoirs sont validés par la Chambre, toutes les mesures nécessaires afin de ne pas être frappés par les incompatibilités de fonction prévues à l’article 287 (1) et (2) de la loi électorale du 18 février 2003 ainsi qu’à l’article 7, paragraphes 1 et 2, de l’Acte européen du 20 septembre 1976. Les membres du Parlement européen élus au Grand-Duché de Luxembourg informent le Président de la Chambre de tout changement de leur situation à ces trois égards dans les trois jours suivant ledit changement. Outre les trois formalités mentionnées ci-avant, les candidats élus sont aussi tenus de :
 
-- déclarer par écrit qu’ils n’étaient pas, conformément aux dispositions de l’alinéa 12 de l’article 291 de la loi électorale , inscrits comme candidats aux élections européennes dans un autre État membre de l’Union européenne que le Grand-Duché de Luxembourg.
+- déclarer par écrit qu’ils n’étaient pas, conformément aux dispositions de l’alinéa 12 de l’article 291 de la loi électorale, inscrits comme candidats aux élections européennes dans un autre État membre de l’Union européenne que le Grand-Duché de Luxembourg.
 
 (2)
 
@@ -3940,13 +3804,13 @@ Principaux devoirs des députés
 
 Dans le cadre de leur mandat, les députés :
 
-- ne passent aucun accord les conduisant à agir ou voter dans l’intérêt d’une personne physique ou morale tierce, qui pourrait compromettre leur liberté de vote telle qu’elle est consacrée à l’article 62 de la Constitution ,
+- ne passent aucun accord les conduisant à agir ou voter dans l’intérêt d’une personne physique ou morale tierce, qui pourrait compromettre leur liberté de vote telle qu’elle est consacrée à l’article 62 de la Constitution,
 
 - ne sollicitent, ni n’acceptent ou ne reçoivent aucun avantage financier direct ou indirect, ou toute autre gratification, contre l’exercice d’une influence ou un vote concernant la législation, les propositions de résolution, les déclarations écrites ou les questions déposées auprès de la Chambre des Députés ou de l’une de ses commissions, et veillent scrupuleusement à éviter toute situation susceptible de s’apparenter à la corruption,
 
 - exercent leur mandat en toute probité en évitant tout conflit avec les dispositions de l’article 246 du Code pénal relatif au crime de trafic d’influence,
 
-- dénoncent toute tentative de corruption en application de l’article 23 (2) du code de procédure pénale .
+- dénoncent toute tentative de corruption en application de l’article 23 (2) du code de procédure pénale.
 
 <a id="art-n14276"></a>
 ## Art. 3.
@@ -4473,7 +4337,7 @@ Il est institué, au sein de l’Administration parlementaire et pour les besoin
 
 Le Bureau d’ordre auxiliaire est composé
 
-- de deux fonctionnaires de la carrière A1, à savoir le secrétaire-administrateur prévu à l’article 9, paragraphe 1 er et de l’officier de sécurité prévu à l’article 12, et
+- de deux fonctionnaires de la carrière A1, à savoir le secrétaire-administrateur prévu à l’article 9, paragraphe 1er et de l’officier de sécurité prévu à l’article 12, et
 
 - d’un fonctionnaire de la carrière B1.
 
@@ -4649,7 +4513,7 @@ Dans l’application des dispositions du présent statut, toute discrimination d
 
 Aux fins de l’alinéa 1er du présent paragraphe,
 
-- une discrimination directe se produit lorsqu’une personne est traitée de manière moins favorable qu’une autre ne l’est, ne l’a été ou ne le serait dans une situation comparable, sur la base de l’un des motifs visés à l’alinéa 1 er ci-dessus ;
+- une discrimination directe se produit lorsqu’une personne est traitée de manière moins favorable qu’une autre ne l’est, ne l’a été ou ne le serait dans une situation comparable, sur la base de l’un des motifs visés à l’alinéa 1er ci-dessus ;
 
 - une discrimination indirecte se produit lorsqu’une disposition, un critère ou une pratique apparemment neutre est susceptible d’entraîner un désavantage particulier pour des personnes d’une religion ou de convictions, d’un handicap, d’un âge ou d’une orientation sexuelle, de l’appartenance ou la non appartenance, vraie ou supposée, à une race ou ethnie données, par rapport à d’autres personnes, à moins que cette disposition, ce critère ou cette pratique ne soient objectivement justifiés par un objectif légitime et que les moyens de réaliser cet objectif soient appropriés et nécessaires.
 
@@ -4781,7 +4645,7 @@ Le stage peut être prolongé pour une période s’étendant au maximum sur dou
 
 - en faveur du stagiaire qui a subi un échec à l’examen de fin de stage. Dans ce cas, le stagiaire devra se présenter de nouveau à l’examen. Un nouvel échec entraîne l’élimination définitive du candidat ;
 
-- en faveur du stagiaire qui bénéficie des congés visés aux articles 29 ou 29 ter , paragraphe 2.
+- en faveur du stagiaire qui bénéficie des congés visés aux articles 29 ou 29ter, paragraphe 2.
 
 Les décisions prévues aux alinéas 7 et 9 sont prises par le Bureau de la Chambre des Députés sur avis du Secrétaire général. Cet avis n’est pas requis pour la prolongation du stage en cas d’insuccès à l’examen de fin de stage.
 
@@ -5563,7 +5427,7 @@ Sont jours fériés pour le fonctionnaire :
 
   - le lundi de Pâques ;
 
-  - le 1 er mai ;
+  - le 1er mai ;
 
   - la Journée de l’Europe ;
 
@@ -5778,7 +5642,7 @@ Des congés et dispenses de service pour activités syndicales peuvent être mis
 
 - si elle est représentée au sein de la Chambre des fonctionnaires et employés publics : proportionnellement au nombre de sièges qu’elle a obtenus lors des élections pour la composition de la Chambre des fonctionnaires et employés publics ;
 
-- si elle n’est pas représentée par des élus au sein de cette chambre professionnelle pour en avoir été écartée en vertu de l’article 43 ter , alinéa 5 de la loi modifiée du 4 avril 1924 portant création de chambres professionnelles à base élective et de son règlement d’exécution : les congés et dispenses de service accordés à ses adhérents ne peuvent pas dépasser le volume qui correspond sous 1° ci-dessus à un siège obtenu dans la même catégorie lors des élections pour cette chambre professionnelle ;
+- si elle n’est pas représentée par des élus au sein de cette chambre professionnelle pour en avoir été écartée en vertu de l’article 43ter, alinéa 5 de la loi modifiée du 4 avril 1924 portant création de chambres professionnelles à base élective et de son règlement d’exécution : les congés et dispenses de service accordés à ses adhérents ne peuvent pas dépasser le volume qui correspond sous 1° ci-dessus à un siège obtenu dans la même catégorie lors des élections pour cette chambre professionnelle ;
 
 - si elle est représentative sur le plan national pour le secteur public dans son ensemble ; est considérée comme telle toute organisation professionnelle qui, d’une part, justifie de la représentativité nationale et qui, d’autre part, est active dans l’intérêt des agents de l’État en général.
 
@@ -5913,7 +5777,7 @@ Tout parent a droit, suite à la naissance ou à l’adoption d’un ou de plusi
 
 Peut prétendre au congé parental tout parent, pour autant qu’il
 
-- est affilié obligatoirement à la sécurité sociale luxembourgeoise au moment de la naissance ou de l’accueil du ou des enfants à adopter et sans interruption pendant au moins douze mois continus précédant immédiatement le début du congé parental, soit au sens de l’article 1 er , alinéa 1 er , sous 1) du Code de la sécurité sociale auprès de l’État pour une durée de travail totalisant au moins dix heures de travail par semaine, soit au sens de l’article 1 er , alinéa 1 er , sous 2) ou 10) du Code de la sécurité sociale ;
+- est affilié obligatoirement à la sécurité sociale luxembourgeoise au moment de la naissance ou de l’accueil du ou des enfants à adopter et sans interruption pendant au moins douze mois continus précédant immédiatement le début du congé parental, soit au sens de l’article 1er, alinéa 1er, sous 1) du Code de la sécurité sociale auprès de l’État pour une durée de travail totalisant au moins dix heures de travail par semaine, soit au sens de l’article 1er, alinéa 1er, sous 2) ou 10) du Code de la sécurité sociale ;
 
 - est détenteur de cet engagement pendant toute la durée du congé parental ;
 
@@ -7760,15 +7624,33 @@ Pour le calcul de la subvention, le ou les prêts sont pris en considération ju
 
 La subvention est attribuée et calculée annuellement par la prise en considération des facteurs suivants :
 
-- du solde du prêt au 1 er janvier de l’année de référence
+- du solde du prêt au 1er janvier de l’année de référence
 
-- du taux annuel effectif accordé au demandeur au 1 er janvier de l’année de référence
+- du taux annuel effectif accordé au demandeur au 1er janvier de l’année de référence
 
 - du taux de référence
 
 - des pourcentages fixés pour les bénéficiaires n’ayant aucun enfant à charge à 0,50% calculée sur le solde du prêt multiplié par le taux renseigné au plan d’amortissement, majoré de 0,50% pour chaque enfant à charge
 
-- du plan d’amortissement défini comme suit : Année de la demande Solde du prêt au 1er janvier à multiplier par 01e 1,00 02e 0,93 03e 0,86 04e 0,80 05e 0,73 06e 0,66 07e 0,60 08e 0,53 09e 0,46 10e 0,40 11e 0,33 12e 0,26 13e 0,20 14e 0,13 15e 0,06
+- du plan d’amortissement défini comme suit :
+
+| Année de la demande | Solde du prêt au 1er janvier à multiplier par |
+| --- | --- |
+| 01e | 1,00 |
+| 02e | 0,93 |
+| 03e | 0,86 |
+| 04e | 0,80 |
+| 05e | 0,73 |
+| 06e | 0,66 |
+| 07e | 0,60 |
+| 08e | 0,53 |
+| 09e | 0,46 |
+| 10e | 0,40 |
+| 11e | 0,33 |
+| 12e | 0,26 |
+| 13e | 0,20 |
+| 14e | 0,13 |
+| 15e | 0,06 |
 
 Aucune subvention n’est allouée si le montant total calculé est inférieur à 25 euros.
 

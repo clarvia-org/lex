@@ -121,7 +121,7 @@ Ne peuvent pas bénéficier des aides à l’investissement à finalité région
 
 - 2. les entreprises faisant l’objet d’une injonction de récupération non exécutée, émise dans une décision antérieure de la Commission déclarant une aide octroyée par le Grand-Duché de Luxembourg illégale et incompatible avec le marché intérieur ;
 
-- 3. les bénéficiaires ayant cessé une activité identique ou similaire dans l’Espace économique européen dans les deux ans qui précèdent la demande d’aide à l’investissement à finalité régionale ou qui, au moment de la demande d’aide à l’investissement à finalité régionale, envisagent concrètement de cesser une telle activité dans les deux ans suivant l’achèvement de l’investissement initial pour lequel l’aide est demandée .
+- 3. les bénéficiaires ayant cessé une activité identique ou similaire dans l’Espace économique européen dans les deux ans qui précèdent la demande d’aide à l’investissement à finalité régionale ou qui, au moment de la demande d’aide à l’investissement à finalité régionale, envisagent concrètement de cesser une telle activité dans les deux ans suivant l’achèvement de l’investissement initial pour lequel l’aide est demandée.
 
 Du 1er janvier 2020 au 30 juin 2021, par dérogation à l’alinéa 1er, les entreprises en difficulté qui n’étaient pas en difficulté au 31 décembre 2019 peuvent bénéficier des aides à l’investissement à finalité régionale, pour autant qu’elles ne fassent pas l’objet d’une procédure collective d’insolvabilité ou ne remplissent pas, selon le droit national qui leur est applicable, les conditions de soumission à une procédure collective d’insolvabilité à la demande de leurs créanciers.
 
@@ -177,7 +177,7 @@ Afin de pouvoir bénéficier d’une aide à l’investissement à finalité ré
 
   - la région « Sud-Ouest » comprenant la commune de Differdange ;
 
-- en ce qui concerne les aides octroyées après le 31 décembre 2021, sur les zones situées sur le territoire du Grand-Duché figurant sur la carte des aides à finalité régionale approuvée par la Commission européenne en application de l’article 107, paragraphe 3, points a) et c), du traité sur le fonctionnement de l’Union européenne pour la période allant du 1 er janvier 2022 au 31 décembre 2027.
+- en ce qui concerne les aides octroyées après le 31 décembre 2021, sur les zones situées sur le territoire du Grand-Duché figurant sur la carte des aides à finalité régionale approuvée par la Commission européenne en application de l’article 107, paragraphe 3, points a) et c), du traité sur le fonctionnement de l’Union européenne pour la période allant du 1er janvier 2022 au 31 décembre 2027.
 
 <a id="art-5"></a>
 ## Art. 5.

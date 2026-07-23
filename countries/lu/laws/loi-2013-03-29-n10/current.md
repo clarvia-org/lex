@@ -135,7 +135,7 @@ Le bulletin No 1 est délivré sur demande:
 
 - aux autorités judiciaires luxembourgeoises dans le cadre d’une procédure pénale;
 
-- aux membres luxembourgeois d’Eurojust , d’Europol et du Parquet européen dans le cadre d’une procédure pénale;
+- aux membres luxembourgeois d’Eurojust, d’Europol et du Parquet européen dans le cadre d’une procédure pénale;
 
 - aux autorités centrales compétentes des États membres de l’Union européenne lorsqu’une demande d’informations extraites du casier judiciaire concernant une personne physique ressortissante d’un État membre ou une personne morale de droit luxembourgeois est adressée aux fins d’une procédure pénale ;
 
@@ -197,7 +197,7 @@ Le bulletin N° 2 d’une personne physique ou morale est délivré sur demande:
 
 - au Ministère en charge de la gestion et du fonctionnement du registre électronique national prévu à l’article 16 du règlement (CE) n° 1071/2009 du Parlement européen et du Conseil du 21 octobre 2009 établissant des règles communes sur les conditions à respecter pour exercer la profession de transporteur par route, et abrogeant la directive 96/26/CE du Conseil (système ERRU). Dans ce cas, la transmission peut se faire de façon électronique;
 
-- 3bis) au ministre ayant l’immigration et l’asile dans ses attributions, en sa qualité d’autorité responsable de l’unité nationale ETIAS au sens du règlement (UE) 2018/1240 du Parlement européen et du Conseil du 12 septembre 2018 portant création d’un système européen d’information et d’autorisation concernant les voyages (ETIAS) et modifiant les règlements (UE) n° 1077/2011 , (UE) n° 515/2014 , (UE) 2016/399 , (UE) 2016/1624 et (UE) 2017/2226 ;
+- 3bis) au ministre ayant l’immigration et l’asile dans ses attributions, en sa qualité d’autorité responsable de l’unité nationale ETIAS au sens du règlement (UE) 2018/1240 du Parlement européen et du Conseil du 12 septembre 2018 portant création d’un système européen d’information et d’autorisation concernant les voyages (ETIAS) et modifiant les règlements (UE) n° 1077/2011, (UE) n° 515/2014, (UE) 2016/399, (UE) 2016/1624 et (UE) 2017/2226 ;
 
 - au ministre ayant les affaires consulaires dans ses attributions, en sa qualité d’autorité compétente chargée des visas, au sens du 3ter) règlement (CE) n° 767/2008 du Parlement européen et du Conseil du 9 juillet 2008 concernant le système d’information sur les visas (VIS) et l’échange de données entre les États membres sur les visas de court séjour (règlement VIS), tel que modifié ;
 
@@ -534,9 +534,9 @@ L’article 658 du Code de procédure pénale est modifié comme suit: Art. 658.
 
 Sont abrogés:
 
-- les articles 623, 625-4 et 628-3 du Code de procédure pénale ;
+- les articles 623, 625-4 et 628-3 du Code de procédure pénale;
 
-- l’article 57-4 du Code pénal ;
+- l’article 57-4 du Code pénal;
 
 - l’article 75 de la loi modifiée du 7 mars 1980 sur l’organisation judiciaire;
 

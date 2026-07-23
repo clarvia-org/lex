@@ -58,13 +58,15 @@ L’article 11, alinéa 1er, du même règlement est modifié comme suit :
 
 L’article 16 du même règlement est modifié comme suit :
 
-- Au paragraphe 2, alinéa 3, les chiffres 1 à 9 sont suivis du signe ° .
+- Au paragraphe 2, alinéa 3, les chiffres 1 à 9 sont suivis du signe °.
 
 - Le paragraphe 3 est modifiée comme suit :
 
-  - La première phrase est remplacée comme suit : « Le maximum de points à attribuer s’élève pour les modules visés aux points 1° à 8° à 60 points et pour le module visé au point 9° à 120 points. ».
+  - La première phrase est remplacée comme suit :
 
-  - À la deuxième phrase, le chiffre 30 est remplacé par les termes la moitié du maximum des points pouvant être obtenus .
+« Le maximum de points à attribuer s’élève pour les modules visés aux points 1° à 8° à 60 points et pour le module visé au point 9° à 120 points. ».
+
+  - À la deuxième phrase, le chiffre 30 est remplacé par les termes la moitié du maximum des points pouvant être obtenus.
 
 - Le paragraphe 7 est abrogé.
 
@@ -73,15 +75,17 @@ L’article 16 du même règlement est modifié comme suit :
 
 L’article 17 du même règlement est modifié comme suit :
 
-- Au paragraphe 1 er , alinéa 1 er , le terme organisé est remplacé par celui de organisée .
+- Au paragraphe 1er, alinéa 1er, le terme organisé est remplacé par celui de organisée.
 
-- Au paragraphe 2, alinéa 1 er , les chiffres 1 à 7 sont suivis du signe ° .
+- Au paragraphe 2, alinéa 1er, les chiffres 1 à 7 sont suivis du signe °.
 
 - Le paragraphe 3 est modifié comme suit :
 
-  - La première phrase est remplacée comme suit : « Le maximum de points à attribuer s’élève pour les modules visés aux points 1° à 5° et 7° à 60 points et pour le module visé au point 6° à 120 points. ».
+  - La première phrase est remplacée comme suit :
 
-  - À la deuxième phrase, le chiffre 30 est remplacé par les termes la moitié du maximum des points pouvant être obtenus .
+« Le maximum de points à attribuer s’élève pour les modules visés aux points 1° à 5° et 7° à 60 points et pour le module visé au point 6° à 120 points. ».
+
+  - À la deuxième phrase, le chiffre 30 est remplacé par les termes la moitié du maximum des points pouvant être obtenus.
 
 - Le paragraphe 7 est abrogé.
 
@@ -95,13 +99,15 @@ L’article 17 du même règlement est modifié comme suit :
 
 L’article 19 du même règlement est modifié comme suit :
 
-- Au paragraphe 1 er , alinéa 2, les chiffres 1 à 9 sont suivis du signe ° .
+- Au paragraphe 1er, alinéa 2, les chiffres 1 à 9 sont suivis du signe °.
 
 - Le paragraphe 2 est modifié comme suit :
 
-  - La première phrase est remplacée comme suit : « Le maximum de points à attribuer s’élève pour les modules visés aux points 1° à 7° à 60 points et pour les modules visés aux points 8° et 9° à 120 points. ».
+  - La première phrase est remplacée comme suit :
 
-  - À la deuxième phrase, le chiffre 600 est remplacé par celui de 660 .
+« Le maximum de points à attribuer s’élève pour les modules visés aux points 1° à 7° à 60 points et pour les modules visés aux points 8° et 9° à 120 points. ».
+
+  - À la deuxième phrase, le chiffre 600 est remplacé par celui de 660.
 
 - Le paragraphe 6 est abrogé.
 

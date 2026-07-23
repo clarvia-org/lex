@@ -55,7 +55,7 @@ Au livre II, titre III, chapitre IV, du Code du travail, il est rétabli une sec
 
 Les acteurs culturels suivants peuvent bénéficier d’un congé culturel :
 
-- des artistes créateurs et exécutants au sens de l’article 1 er , paragraphe 1-0, points 3 et 4, de la loi modifiée du 19 décembre 2014 relative 1) aux mesures de soutien pour les artistes professionnels indépendants et pour les intermittents du spectacle 2) à la promotion de la création artistique dans les domaines des arts visuels et audiovisuels, des arts multimédia et des arts numériques, des arts du spectacle vivant, de la littérature et de l’édition, de la musique et de l’architecture ;
+- des artistes créateurs et exécutants au sens de l’article 1er, paragraphe 1-0, points 3 et 4, de la loi modifiée du 19 décembre 2014 relative 1) aux mesures de soutien pour les artistes professionnels indépendants et pour les intermittents du spectacle 2) à la promotion de la création artistique dans les domaines des arts visuels et audiovisuels, des arts multimédia et des arts numériques, des arts du spectacle vivant, de la littérature et de l’édition, de la musique et de l’architecture ;
 
 - toute autre personne intervenant dans le cadre d’un projet ou d’une production cinématographique, audiovisuelle, musicale, des arts de la scène, des arts graphiques, plastiques, visuels ou littéraires, que ce soit au stade de la préparation, de la création, de l’exécution, de la diffusion ou de la promotion.
 
@@ -63,7 +63,7 @@ Les acteurs culturels suivants peuvent bénéficier d’un congé culturel :
 
 Les dispositions de la présente section s’appliquent aux acteurs culturels qui :
 
-- sont affiliés de manière continue au Grand-Duché de Luxembourg en vertu de l’article 1 er du Code de la sécurité sociale depuis au moins six mois précédant la date de la demande d’admission au bénéfice du congé culturel ;
+- sont affiliés de manière continue au Grand-Duché de Luxembourg en vertu de l’article 1er du Code de la sécurité sociale depuis au moins six mois précédant la date de la demande d’admission au bénéfice du congé culturel ;
 
 - font preuve d’un engagement notoire dans la scène culturelle et artistique luxembourgeoise en raison de la diffusion publique de leurs œuvres, des retombées de leur activité et en raison de la reconnaissance par leurs pairs ;
 
@@ -237,9 +237,18 @@ Le congé culturel est considéré comme temps de travail.
 
 La loi modifiée du 24 décembre 1985 fixant le statut général des fonctionnaires communaux est modifiée comme suit :
 
-- L’article 29, paragraphe 1 er , est complété par une lettre u) nouvelle libellée comme suit : le congé culturel.
+- L’article 29, paragraphe 1er, est complété par une lettre u) nouvelle libellée comme suit :
 
-- À la suite de l’article 30 decies , il est ajouté un article 30 undecies nouveau libellé comme suit : Art. 30undecies. Congé culturel Le fonctionnaire en activité de service a droit à un congé culturel à accorder selon les conditions et modalités prévues par le Code du travail.
+- le congé culturel.
+
+- À la suite de l’article 30decies, il est ajouté un article 30undecies nouveau libellé comme suit :
+
+<a id="art-30undecies"></a>
+## Art. 30undecies.
+
+Congé culturel
+
+Le fonctionnaire en activité de service a droit à un congé culturel à accorder selon les conditions et modalités prévues par le Code du travail.
 
 <a id="art-5"></a>
 ## Art. 5.

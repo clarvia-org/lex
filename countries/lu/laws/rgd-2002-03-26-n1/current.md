@@ -45,17 +45,17 @@ La délimitation de la zone protégée d’intérêt national est indiquée sur 
 
 Dans la zone protégée sont interdits:
 
-- la chasse, ceci à partir de l'entrée en vigueur du nouveau bail de chasse c.-à-d. le 1 er août 2003;
+- la chasse, ceci à partir de l'entrée en vigueur du nouveau bail de chasse c.-à-d. le 1er août 2003;
 
 - la capture, la perturbation ou la destruction d’animaux sauvages indigènes non classés comme gibier ;
 
 - les travaux de terrassement, notamment le dépôt et l’extraction de matériaux, l’enlèvement de terre végétale, le déblai et le remblai, à l’exception de ceux relatifs aux interventions prévues au point 6°, lettre b) ;
 
-- la divagation d'animaux domestiques tels que chiens et chats , ainsi que la circulation avec animaux de compagnie non tenus en laisse ;
+- la divagation d'animaux domestiques tels que chiens et chats, ainsi que la circulation avec animaux de compagnie non tenus en laisse ;
 
 - la circulation à l’aide de véhicules motorisés ; cette interdiction ne s’applique ni aux propriétaires des terrains et à leurs ayants droit, ni à la circulation dans le couloir prévu au point 6°, lettre b) ;
 
-- toute construction incorporée au sol ou non ; cette interdiction ne s’applique pas : Les exceptions visées sous les lettres a) et b) restent soumises à autorisation préalable du ministre ayant l’Environnement dans ces attributions, désigné ci-après comme « ministre ».
+- toute construction incorporée au sol ou non; cette interdiction ne s’applique pas : Les exceptions visées sous les lettres a) et b) restent soumises à autorisation préalable du ministre ayant l’Environnement dans ces attributions, désigné ci-après comme « ministre ».
 
   - aux interventions nécessaires à l’entretien ou aux modifications des constructions existantes ;
 
@@ -63,7 +63,7 @@ Dans la zone protégée sont interdits:
 
 - l’emploi de pesticides, la fertilisation ou le chaulage ;
 
-- le changement d'affectation des sols , y compris la réduction, la destruction ou la détérioration de biotopes protégés et habitats visés par l’article 17 de la loi du 18 juillet 2018 concernant la protection de la nature et des ressources naturelles ;
+- le changement d'affectation des sols, y compris la réduction, la destruction ou la détérioration de biotopes protégés et habitats visés par l’article 17 de la loi du 18 juillet 2018 concernant la protection de la nature et des ressources naturelles ;
 
 - l’enlèvement, la destruction et l’endommagement de plantes sauvages et de parties de ces plantes appartenant à la flore indigène sans préjudice de l’exploitation agricole et forestière ou des travaux nécessaires pour des raisons de sécurité publique ; la lutte mécanique ou thermique contre les adventices de l’agriculture est autorisée dans le contexte de la conditionnalité de l’exploitation agricole ;
 

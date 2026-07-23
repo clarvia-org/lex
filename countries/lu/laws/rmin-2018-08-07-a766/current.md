@@ -42,7 +42,7 @@ L’année scolaire commence le lundi 17 septembre 2018 et finit le samedi 13 ju
 
 - Les vacances de Pâques commencent le dimanche 7 avril 2019 et finissent le lundi 22 avril 2019.
 
-- Jour férié légal : le mercredi 1 er mai 2019.
+- Jour férié légal : le mercredi 1er mai 2019.
 
 - 5°bis Jour férié légal de la Journée de l’Europe : le jeudi 9 mai 2019.
 
@@ -66,7 +66,7 @@ L’année scolaire commence le lundi 16 septembre 2019 et finit le mercredi 15 
 
 - Les vacances de Pâques commencent le dimanche 5 avril 2020 et finissent le dimanche 19 avril 2020.
 
-- Jour férié légal : le vendredi 1 er mai 2020.
+- Jour férié légal : le vendredi 1er mai 2020.
 
 - Jour de congé pour l’Ascension : le jeudi 21 mai 2020.
 
@@ -80,7 +80,7 @@ Année scolaire 2020/2021
 
 L’année scolaire commence le mardi 15 septembre 2020 et finit le jeudi 15 juillet 2021.
 
-- Le congé de la Toussaint commence le dimanche 1 er novembre 2020 et finit le dimanche 8 novembre 2020.
+- Le congé de la Toussaint commence le dimanche 1er novembre 2020 et finit le dimanche 8 novembre 2020.
 
 - Les vacances de Noël commencent le dimanche 20 décembre 2020 et finissent le dimanche 3 janvier 2021.
 
@@ -88,7 +88,7 @@ L’année scolaire commence le mardi 15 septembre 2020 et finit le jeudi 15 jui
 
 - Les vacances de Pâques commencent le samedi 3 avril 2021 et finissent le dimanche 18 avril 2021.
 
-- Jour férié légal : le samedi 1 er mai 2021.
+- Jour férié légal : le samedi 1er mai 2021.
 
 - Jour de congé pour l’Ascension : le jeudi 13 mai 2021.
 

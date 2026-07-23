@@ -30,7 +30,7 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 Aux fins du présent règlement, on entend par :
 
-- « borne de charge » : un dispositif électrique fixe dédié au chargement de véhicules électriques raccordé au réseau de distribution basse tension et équipé d’un ou de plusieurs points de charge consistant soit en une prise de chargement pour un véhicule électrique, soit en un câble fixe avec connecteur pour un véhicule électrique, chacun de ces points de charge communiquant avec le véhicule pour piloter la puissance de la charge , à l’exclusion des dispositifs d’une puissance de sortie inférieure ou égale à 3,7 kilowatt. Un tel dispositif peut contenir certains éléments pouvant être détachés pour fonctionner comme dispositif de recharge mobile ;
+- « borne de charge » : un dispositif électrique fixe dédié au chargement de véhicules électriques raccordé au réseau de distribution basse tension et équipé d’un ou de plusieurs points de charge consistant soit en une prise de chargement pour un véhicule électrique, soit en un câble fixe avec connecteur pour un véhicule électrique, chacun de ces points de charge communiquant avec le véhicule pour piloter la puissance de la charge, à l’exclusion des dispositifs d’une puissance de sortie inférieure ou égale à 3,7 kilowatt. Un tel dispositif peut contenir certains éléments pouvant être détachés pour fonctionner comme dispositif de recharge mobile ;
 
 - « borne de charge OCPP » : borne de charge équipée avec une interface intégrée ou externe compatible avec le standard « Open Charge Point Protocol (OCPP) » version 1.6 ou supérieure ;
 

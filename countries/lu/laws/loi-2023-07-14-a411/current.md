@@ -146,7 +146,7 @@ Informations requises dans le cadre de la notification
 
 Dans le cadre de la notification, l’investisseur étranger communique au ministre les informations suivantes :
 
-- la structure de propriété de l’investisseur étranger et de l’entité de droit luxembourgeois avant la réalisation de l’investissement direct étranger ou à la suite d’évènements ayant modifié la répartition du capital conformément à l’article 3, paragraphe 3, y compris des informations sur le bénéficiaire effectif, tel que défini à l’article 1 er , paragraphe 7, de la loi modifiée du 12 novembre 2004 relative à la lutte contre le blanchiment et contre le financement du terrorisme, et la participation au capital ;
+- la structure de propriété de l’investisseur étranger et de l’entité de droit luxembourgeois avant la réalisation de l’investissement direct étranger ou à la suite d’évènements ayant modifié la répartition du capital conformément à l’article 3, paragraphe 3, y compris des informations sur le bénéficiaire effectif, tel que défini à l’article 1er, paragraphe 7, de la loi modifiée du 12 novembre 2004 relative à la lutte contre le blanchiment et contre le financement du terrorisme, et la participation au capital ;
 
 - la valeur approximative de l’investissement direct étranger ;
 

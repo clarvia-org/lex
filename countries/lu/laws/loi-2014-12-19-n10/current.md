@@ -46,7 +46,7 @@ Au sens de la présente loi, on entend par :
 
 - « technicien de scène » : toute personne qui se sert de techniques sonores, audiovisuelles, d’éclairage ou de toute autre technologie de pointe, numériques ou autres, actuelles ou à venir, pour assurer le bon fonctionnement d’un spectacle ;
 
-- « artiste professionnel indépendant » : la personne qui, en dehors de tout lien de subordination, détermine elle-même les conditions dans lesquelles elle pratique un art ou une discipline artistique et qui est affiliée en tant que travailleur indépendant auprès d’un régime d’assurance pension au sens de l’article 1 er , alinéa 1 er , point 4, première phrase, du Code de la sécurité sociale ;
+- « artiste professionnel indépendant » : la personne qui, en dehors de tout lien de subordination, détermine elle-même les conditions dans lesquelles elle pratique un art ou une discipline artistique et qui est affiliée en tant que travailleur indépendant auprès d’un régime d’assurance pension au sens de l’article 1er, alinéa 1er, point 4, première phrase, du Code de la sécurité sociale ;
 
 - « intermittent du spectacle » : l’artiste, créateur ou exécutant, le technicien de scène ou tout autre professionnel intervenant dans le cadre d’un projet ou d’une production cinématographique, audiovisuelle, musicale, des arts de la scène, des arts graphiques, plastiques, visuels ou littéraires, que ce soit au stade de la préparation, de la création, de l’exécution, de la diffusion ou de la promotion, qui travaille principalement de manière temporaire dans le cadre de projets individuels et limités dans la durée, de sorte qu’il alterne des périodes d’activités et des périodes d’inactivités. L’intermittent du spectacle exerce son activité principalement soit pour le compte d’entreprises ou organisateurs du spectacle vivant ou du secteur de la production cinématographique, audiovisuelle et musicale soit dans le cadre d’une production de spectacle vivant et offre ses services à autrui moyennant salaire, honoraires ou cachet sur base d’un contrat de travail à durée déterminée ou d’un contrat d’entreprise.
 
@@ -119,9 +119,9 @@ Aides en faveur des artistes professionnels indépendants
 
 Les artistes professionnels indépendants au sens de la présente loi, sur demande écrite adressée au ministre, sont admis au bénéfice des aides en faveur des artistes professionnels indépendants à condition :
 
-- de remplir la condition prévue à l’article 1 er , paragraphe 3 ;
+- de remplir la condition prévue à l’article 1er, paragraphe 3 ;
 
-- de répondre aux critères de la définition prévue à l’article 1 er , paragraphe 1-0, point 6, depuis au moins deux ans précédant immédiatement la demande ;
+- de répondre aux critères de la définition prévue à l’article 1er, paragraphe 1-0, point 6, depuis au moins deux ans précédant immédiatement la demande ;
 
 - que leur activité artistique ait généré un revenu moyen annuel d’au moins quatre fois le salaire social minimum mensuel pour travailleurs non qualifiés sur les deux années précédant immédiatement la demande ;
 
@@ -190,11 +190,11 @@ Le bénéfice d’une indemnisation en cas d’inactivité involontaire est acco
 
 - que cette activité ait donné lieu à affiliation auprès d’un régime d’assurance pension;
 
-- qu’ils remplissent la condition prévue à l’article 1 er , paragraphe 3;
+- qu’ils remplissent la condition prévue à l’article 1er, paragraphe 3;
 
 - qu’ils ne soient pas admis au bénéfice des aides en faveur des artistes professionnels indépendants;
 
-- qu’ils ne soient pas admis au bénéfice de l’indemnité de chômage prévue par le titre II du livre V du Code du travail ;
+- qu’ils ne soient pas admis au bénéfice de l’indemnité de chômage prévue par le titre II du livre V du Code du travail;
 
 - qu’ils ne soient pas admis au bénéfice du revenu d’inclusion sociale prévu par la loi modifiée du 28 juillet 2018 relative au revenu d’inclusion sociale.
 
@@ -306,7 +306,7 @@ Bourse de relève
 
 Une bourse de relève pour une durée maximale de six mois peut être attribuée aux artistes professionnels qui peuvent se prévaloir d’un diplôme de niveau universitaire sanctionnant un cycle complet d’au moins trois années, délivré à la suite d’études spécialisées dans une des disciplines artistiques visées par la présente loi et inscrit au registre des titres de formation prévu par la loi modifiée du 28 octobre 2016 relative à la reconnaissance des qualifications professionnelles et qui soumettent leur demande dans l’année qui suit l’obtention de leur diplôme, à condition :
 
-- d’être affiliées en tant que travailleur indépendant au sens de l’article 1 er , alinéa 1 er , point 4, première phrase, du Code de la sécurité sociale ;
+- d’être affiliées en tant que travailleur indépendant au sens de l’article 1er, alinéa 1er, point 4, première phrase, du Code de la sécurité sociale ;
 
 - de faire preuve d’un engagement dans la scène artistique et culturelle luxembourgeoise et de fournir une motivation écrite concernant leurs activités artistiques prévues.
 

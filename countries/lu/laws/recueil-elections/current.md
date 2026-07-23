@@ -3503,7 +3503,7 @@ Les dispositions des articles 3 et 4 de la loi du 23 décembre 1978 portant fusi
 
 Sont abrogées:
 
-- la loi électorale du 31 juillet 1924 , telle qu'elle a été modifiée par la suite;
+- la loi électorale du 31 juillet 1924, telle qu'elle a été modifiée par la suite;
 
 - la loi du 7 janvier 1999 sur le remboursement partiel des frais de campagnes électorales aux partis et groupements politiques engagés dans les élections à la Chambre des députés et du Parlement européen.
 
@@ -3927,13 +3927,13 @@ Les dispositions de la présente loi s'appliquent aux référendums prévus aux 
 
 Pour l'application de la présente loi, on entend par:
 
-- «le référendum prévu à l'article 114 de la Constitution »: le référendum dans le cadre d'une procédure de révision constitutionnelle;
+- «le référendum prévu à l'article 114 de la Constitution»: le référendum dans le cadre d'une procédure de révision constitutionnelle;
 
-- «loi électorale»: la loi électorale du 18 février 2003 , telle que modifiée par la suite;
+- «loi électorale»: la loi électorale du 18 février 2003, telle que modifiée par la suite;
 
-- «électeurs»: les électeurs inscrits sur les listes électorales pour les élections législatives conformément aux dispositions de la loi électorale ;
+- «électeurs»: les électeurs inscrits sur les listes électorales pour les élections législatives conformément aux dispositions de la loi électorale;
 
-- «domicile électoral»: le domicile électoral du citoyen est au lieu de sa résidence habituelle, c'est-à-dire au lieu où il habite d'ordinaire conformément à l'article 10 de la loi électorale ;
+- «domicile électoral»: le domicile électoral du citoyen est au lieu de sa résidence habituelle, c'est-à-dire au lieu où il habite d'ordinaire conformément à l'article 10 de la loi électorale;
 
 - «comité d'initiative»: l'ensemble des personnes physiques à l'origine d'une demande visant l'organisation d'un référendum dans le cadre d'une procédure de révision constitutionnelle;
 
@@ -3994,7 +3994,7 @@ Les frais y relatifs sont à charge du budget de l'Etat.
 
 Chaque liste d'inscription conçue d'après le modèle figurant à l'annexe 1 de la présente loi doit mentionner:
 
-- l'intitulé du texte de la révision constitutionnelle qui fait l'objet de la demande d'organisation d'un référendum, précédé de la mention «Demande d'organisation d'un référendum sur la révision constitutionnelle» ;
+- l'intitulé du texte de la révision constitutionnelle qui fait l'objet de la demande d'organisation d'un référendum, précédé de la mention «Demande d'organisation d'un référendum sur la révision constitutionnelle»;
 
 - les dates de début et de fin de la période de collecte des signatures;
 

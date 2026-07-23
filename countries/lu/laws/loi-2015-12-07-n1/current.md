@@ -865,6 +865,8 @@ Le CAA dresse une liste des entreprises de réassurance concernées et la commun
 
 ### TITRE II Les entreprises d’assurance et de réassurance
 
+#### Sous-titre I Règles générales concernant l’accès à l’activité de l’assurance directe et de la réassurance et leur exercice
+
 #### Chapitre 1 Définitions applicables en matière d’entreprises d’assurance et de réassurance
 
 <a id="art-43"></a>
@@ -2037,7 +2039,7 @@ La publication du capital de solvabilité requis est assortie d’une indication
 
 Les informations satisfont aux exigences suivantes :
 
-- elles sont communiquées dans un format permettant l’extraction de données au sens de l’article 2, point 3), du règlement (UE) 2023/2859 , ou, lorsque le droit de l’Union européenne l’exige, dans un format lisible par machine au sens de l’article 2, point 4), dudit règlement ;
+- elles sont communiquées dans un format permettant l’extraction de données au sens de l’article 2, point 3), du règlement (UE) 2023/2859, ou, lorsque le droit de l’Union européenne l’exige, dans un format lisible par machine au sens de l’article 2, point 4), dudit règlement ;
 
 - elles sont accompagnées des métadonnées suivantes :
 
@@ -3696,6 +3698,8 @@ Traitement réservé par les pays tiers aux entreprises d’assurance et de réa
 
 Le CAA informe la Commission et l’EIOPA des difficultés d’ordre général que rencontrent les entreprises d’assurance ou de réassurance luxembourgeoises pour s’établir et opérer dans un pays tiers ou y exercer leur activité.
 
+#### Sous-titre II Dispositions particulières relatives à l’assurance et à la réassurance
+
 #### Chapitre 1 Droit et conditions applicables aux contrats d’assurance directe
 
 ##### Section 1 Droit applicable
@@ -4006,6 +4010,8 @@ Sont établis au Grand-Duché de Luxembourg au regard de la présente loi, les s
 (3)
 
 Les véhicules de titrisation agréés par le ministre avant le 31 décembre 2015 sont soumis aux dispositions de la loi modifiée du 6 décembre 1991 sur le secteur des assurances et de ses règlements d’exécution. Toute nouvelle activité de ces véhicules de titrisation commencée après cette date est cependant soumise aux dispositions de la présente loi.
+
+#### Sous-titre III Contrôle des entreprises d’assurance et de réassurance faisant partie d’un groupe
 
 #### Chapitre 1 Contrôle de groupe : définitions, applicabilité, portée et niveaux
 
@@ -4476,7 +4482,7 @@ Les entreprises d’assurance et de réassurance luxembourgeoises, les société
 
 Les informations satisfont aux exigences suivantes :
 
-- elles sont communiquées dans un format permettant l’extraction de données au sens de l’article 2, point 3), du règlement (UE) 2023/2859 , ou, lorsque le droit de l’Union européenne l’exige, dans un format lisible par machine au sens de l’article 2, point 4), dudit règlement ;
+- elles sont communiquées dans un format permettant l’extraction de données au sens de l’article 2, point 3), du règlement (UE) 2023/2859, ou, lorsque le droit de l’Union européenne l’exige, dans un format lisible par machine au sens de l’article 2, point 4), dudit règlement ;
 
 - elles sont accompagnées des métadonnées suivantes :
 
@@ -4602,6 +4608,8 @@ Lorsque l’entreprise mère d’une ou plusieurs entreprises d’assurance ou d
 (2)
 
 Les articles 194 à 199 et les dispositions relatives au contrôle des transactions intragroupe du règlement CAA pris en application de l’article 190, paragraphe 1er, s’appliquent mutatis mutandis.
+
+#### Sous-titre IV Dispositions sur la surveillance complémentaire des entreprises d’assurance et de réassurance appartenant à un conglomérat financier
 
 #### Chapitre 1er Définitions
 
@@ -4991,15 +4999,15 @@ Le CAA en sa qualité de coordinateur exerce un contrôle prudentiel sur les exi
 
 Les informations satisfont aux exigences suivantes :
 
-- elles sont communiquées dans un format permettant l’extraction de données au sens de l’article 2, point 3), du règlement (UE) 2023/2859 , ou, lorsque le droit de l’Union européenne l’exige, dans un format lisible par machine au sens de l’article 2, point 4), dudit règlement ;
+- elles sont communiquées dans un format permettant l’extraction de données au sens de l’article 2, point 3), du règlement (UE) 2023/2859, ou, lorsque le droit de l’Union européenne l’exige, dans un format lisible par machine au sens de l’article 2, point 4), dudit règlement ;
 
 - elles sont accompagnées des métadonnées suivantes :
 
-  - tous les noms de l’entité visée au paragraphe 4, alinéa 1 er , à laquelle les informations se rapportent ;
+  - tous les noms de l’entité visée au paragraphe 4, alinéa 1er, à laquelle les informations se rapportent ;
 
-  - l’identifiant d’entité juridique de l’entité visée au paragraphe 4, alinéa 1 er , précisé conformément à l’article 7, paragraphe 4, lettre b), du règlement (UE) 2023/2859 ;
+  - l’identifiant d’entité juridique de l’entité visée au paragraphe 4, alinéa 1er, précisé conformément à l’article 7, paragraphe 4, lettre b), du règlement (UE) 2023/2859 ;
 
-  - la taille de l’entité visées au paragraphe 4, alinéa 1 er , suivant la catégorie précisée conformément à l’article 7, paragraphe 4, lettre d), du règlement (UE) 2023/2859 ;
+  - la taille de l’entité visées au paragraphe 4, alinéa 1er, suivant la catégorie précisée conformément à l’article 7, paragraphe 4, lettre d), du règlement (UE) 2023/2859 ;
 
   - le type d’informations concerné, suivant la classification prévue par l’article 7, paragraphe 4, lettre c), du règlement (UE) 2023/2859 ;
 
@@ -5260,6 +5268,8 @@ Le CAA informe les autres autorités compétentes intéressées ainsi que la Com
 Coopération avec les autorités compétentes de pays tiers
 
 Le CAA peut conclure avec les autorités compétentes de pays tiers des accords de coopération précisant les modalités d’exercice de la surveillance complémentaire.
+
+#### Sous-titre V Assainissement et liquidation des entreprises d’assurance
 
 #### Chapitre 1er Champ d’application et définitions
 
@@ -6000,6 +6010,8 @@ Actions contre les liquidateurs
 Toutes les actions contre les liquidateurs pris en cette qualité se prescrivent par cinq ans à partir de la publication de la clôture des opérations de liquidation prévue à l’article 254, paragraphe 2.
 
 Les actions contre les liquidateurs pour faits de leurs fonctions se prescrivent par cinq ans à partir de ces faits, ou, s’ils ont été celés par dol, à partir de la découverte de ces faits.
+
+#### Sous-titre VI La liquidation volontaire
 
 <a id="art-256"></a>
 ## Art. 256
@@ -6926,7 +6938,7 @@ Lorsqu’ils établissent et appliquent la politique de rémunération visée au
 
 Les informations satisfont aux exigences suivantes :
 
-- elles sont communiquées dans un format permettant l’extraction de données au sens de l’article 2, point 3), du règlement (UE) 2023/2859 , ou, lorsque le droit de l’Union européenne l’exige, dans un format lisible par machine au sens de l’article 2, point 4), dudit règlement ;
+- elles sont communiquées dans un format permettant l’extraction de données au sens de l’article 2, point 3), du règlement (UE) 2023/2859, ou, lorsque le droit de l’Union européenne l’exige, dans un format lisible par machine au sens de l’article 2, point 4), dudit règlement ;
 
 - elles sont accompagnées des métadonnées suivantes :
 
@@ -7112,7 +7124,7 @@ Un règlement du CAA peut préciser des règles plus détaillées quant au conte
 
 Les informations satisfont aux exigences suivantes :
 
-- elles sont communiquées dans un format permettant l’extraction de données au sens de l’article 2, point 3), du règlement (UE) 2023/2859 , ou, lorsque le droit de l’Union européenne l’exige, dans un format lisible par machine au sens de l’article 2, point 4), dudit règlement ;
+- elles sont communiquées dans un format permettant l’extraction de données au sens de l’article 2, point 3), du règlement (UE) 2023/2859, ou, lorsque le droit de l’Union européenne l’exige, dans un format lisible par machine au sens de l’article 2, point 4), dudit règlement ;
 
 - elles sont accompagnées des métadonnées suivantes :
 

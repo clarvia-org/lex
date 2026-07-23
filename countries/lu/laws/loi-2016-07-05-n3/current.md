@@ -35,7 +35,7 @@ Au sens de la présente loi on entend par:
 
 - «taxi»: voiture automobile à personnes, comportant au moins quatre places assises et au plus huit places assises, hormis celle du conducteur, et destinée à servir au transport occasionnel rémunéré de voyageurs par route;
 
-- «taxi zéro émissions»: taxi, tel que défini au point a), dont l’utilisation ne produit pas d’émissions de CO 2 ni de NOx;
+- «taxi zéro émissions»: taxi, tel que défini au point a), dont l’utilisation ne produit pas d’émissions de CO2 ni de NOx;
 
 - «licence d’exploitation de taxi»: titre administratif, conférant à son titulaire le droit d’exploiter un taxi tel que défini au point a) en vue de prester des services de taxi;
 
@@ -283,7 +283,7 @@ Est radié de la liste d’attente,
 
 - le titulaire dont l’inscription a cessé de produire ses effets;
 
-- le titulaire d’une inscription qui s’est vu octroyer une licence d’exploitation de taxi conformément à l’article 4, paragraphe 1 er ;
+- le titulaire d’une inscription qui s’est vu octroyer une licence d’exploitation de taxi conformément à l’article 4, paragraphe 1er;
 
 - le titulaire d’une inscription qui, après mise en demeure, reste en défaut de payer l’une des taxes visées à l’article 20.
 
@@ -456,7 +456,7 @@ Lors de l’immatriculation, le numéro de la licence d’exploitation de taxi e
 
 Dans le cadre du contrôle technique prévu à l’article 4bis de la loi modifiée du 14 février 1955 concernant la réglementation de la circulation sur toutes les voies publiques, le contrôle technique des taxis porte en outre sur:
 
-- les équipements techniques spécifiques dont question au paragraphe 1 er ;
+- les équipements techniques spécifiques dont question au paragraphe 1er;
 
 - le scellement du taximètre et de l’installation afférente ou du dispositif de fermeture dont question au paragraphe 4 ainsi que la vignette scellée dont question au paragraphe 2 de l’article 14;
 
@@ -569,19 +569,19 @@ Le ministre a la qualité de responsable du traitement. Il peut faire exécuter 
 
 Dans la poursuite des finalités décrites au paragraphe 1er, le ministre peut accéder aux traitements de données suivants:
 
-- pour les finalités visées au paragraphe 1 er points 1, 3, 4, 5 et 6, le registre national des personnes morales créé par la loi du 30 mars 1979 organisant l’identification numérique des personnes physiques et morales, afin d’obtenir les informations d’identification des conducteurs et exploitants de taxis;
+- pour les finalités visées au paragraphe 1er points 1, 3, 4, 5 et 6, le registre national des personnes morales créé par la loi du 30 mars 1979 organisant l’identification numérique des personnes physiques et morales, afin d’obtenir les informations d’identification des conducteurs et exploitants de taxis;
 
-- pour les finalités visées au paragraphe 1 er points 1, 2, 3, 4, 5 et 6, le registre national des personnes physiques créé par la loi du 19 juin 2013 relative à l’identification des personnes physiques, afin d’obtenir les informations d’identification des conducteurs de taxis;
+- pour les finalités visées au paragraphe 1er points 1, 2, 3, 4, 5 et 6, le registre national des personnes physiques créé par la loi du 19 juin 2013 relative à l’identification des personnes physiques, afin d’obtenir les informations d’identification des conducteurs de taxis;
 
-- pour les finalités visées au paragraphe 1 er point 1, le fichier du registre de commerce et des sociétés exploité en vertu de la loi du 19 décembre 2002 concernant le registre de commerce et des sociétés ainsi que la comptabilité et les comptes annuels des entreprises et modifiant certaines autres dispositions légales;
+- pour les finalités visées au paragraphe 1er point 1, le fichier du registre de commerce et des sociétés exploité en vertu de la loi du 19 décembre 2002 concernant le registre de commerce et des sociétés ainsi que la comptabilité et les comptes annuels des entreprises et modifiant certaines autres dispositions légales;
 
-- pour les finalités visées au paragraphe 1 er point 1, le registre des entreprises qui exercent une activité visée à la loi du 2 septembre 2011 précitée;
+- pour les finalités visées au paragraphe 1er point 1, le registre des entreprises qui exercent une activité visée à la loi du 2 septembre 2011 précitée;
 
-- pour les finalités visées au paragraphe 1 er points 1, 2, 4, 5 et 6, les fichiers exploités par la Police grand-ducale et l’Administration des douanes et accises pour la tenue des avertissements taxés;
+- pour les finalités visées au paragraphe 1er points 1, 2, 4, 5 et 6, les fichiers exploités par la Police grand-ducale et l’Administration des douanes et accises pour la tenue des avertissements taxés;
 
-- pour la finalité visée au paragraphe 1 er points 1 et 6, le fichier exploité par le ministre ayant les transports dans ses attributions, renseignant sur les voitures immatriculées au Luxembourg;
+- pour la finalité visée au paragraphe 1er points 1 et 6, le fichier exploité par le ministre ayant les transports dans ses attributions, renseignant sur les voitures immatriculées au Luxembourg;
 
-- pour la finalité visée au paragraphe 1 er points 2, 4, 5 et 6 le fichier exploité par le ministre ayant les transports dans ses attributions, renseignant sur les permis de conduire.
+- pour la finalité visée au paragraphe 1er points 2, 4, 5 et 6 le fichier exploité par le ministre ayant les transports dans ses attributions, renseignant sur les permis de conduire.
 
 (4)
 
@@ -674,7 +674,7 @@ Il peut, à titre de sanction administrative, en outre décider:
 
   - en cas de non-paiement ou de défaut de preuve de paiement d’une des taxes prévues à l’article 20;
 
-  - en cas de non-respect de l’article 2 paragraphes 1 er à 3, de l’article 5 paragraphes 1 er à 3, de l’article 7 paragraphe 1 er , de l’article 11 paragraphe 1 er , de l’article 12 paragraphes 1 er à 3, de l’article 13 paragraphe 1 er , ou de l’article 15 paragraphe 1 er .
+  - en cas de non-respect de l’article 2 paragraphes 1er à 3, de l’article 5 paragraphes 1er à 3, de l’article 7 paragraphe 1er, de l’article 11 paragraphe 1er, de l’article 12 paragraphes 1er à 3, de l’article 13 paragraphe 1er, ou de l’article 15 paragraphe 1er.
 
 (2)
 
@@ -728,9 +728,9 @@ Sera puni d’une amende de 25 à 250 euros, le conducteur de taxi qui aura comm
 
 - défaut d’afficher de manière visible la carte de conducteur de taxi pendant son service;
 
-- infraction aux dispositions des paragraphes 1 er à 3 de l’article 12;
+- infraction aux dispositions des paragraphes 1er à 3 de l’article 12;
 
-- infraction aux dispositions du paragraphe 1 er de l’article 13;
+- infraction aux dispositions du paragraphe 1er de l’article 13;
 
 - infraction aux dispositions du paragraphe 2 de l’article 17.
 
@@ -748,11 +748,11 @@ Sera puni de la même peine, le conducteur de taxi qui aura commis une ou plusie
 
 - infractions aux dispositions des paragraphes 2 et 3 de l’article 5;
 
-- infractions aux dispositions du paragraphe 1 er de l’article 7;
+- infractions aux dispositions du paragraphe 1er de l’article 7;
 
-- infractions aux dispositions du paragraphe 1 er de l’article 11;
+- infractions aux dispositions du paragraphe 1er de l’article 11;
 
-- infractions aux dispositions du paragraphe 1 er de l’article 15.
+- infractions aux dispositions du paragraphe 1er de l’article 15.
 
 Sera puni de la même peine, l’exploitant de taxi qui aura toléré qu’un conducteur de taxi commette une ou plusieurs des infractions visées sous a), b) et d) de l’alinéa précédent.
 
@@ -799,7 +799,7 @@ Sans préjudice de l’article 17 de la loi modifiée du 14 février 1955 préci
 
 Les fonctionnaires de l’Administration des douanes et accises sont en droit d’immobiliser un taxi sur la voie publique, soit en enlevant au conducteur les clés de contact, soit en procédant à l’immobilisation du taxi au moyen d’un système mécanique, lorsque:
 
-- le conducteur du taxi qui n’a pas sa résidence normale au Luxembourg et qui est en infraction à la présente loi ou à la législation routière, pour autant que sont concernés l’aménagement des véhicules ainsi que les plaques d’immatriculation, les numéros d’identification et les documents de bord, omet de payer l’avertissement taxé ou, à défaut, de régler la somme à consigner conformément à l’article 16 de la loi modifiée du 14 février 1955 ;
+- le conducteur du taxi qui n’a pas sa résidence normale au Luxembourg et qui est en infraction à la présente loi ou à la législation routière, pour autant que sont concernés l’aménagement des véhicules ainsi que les plaques d’immatriculation, les numéros d’identification et les documents de bord, omet de payer l’avertissement taxé ou, à défaut, de régler la somme à consigner conformément à l’article 16 de la loi modifiée du 14 février 1955;
 
 - le taxi présente soit une irrégularité grave au point de vue des documents de bord, soit un défaut technique manifeste de nature à mettre gravement en danger la circulation;
 

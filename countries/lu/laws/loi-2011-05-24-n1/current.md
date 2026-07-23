@@ -41,11 +41,11 @@ La présente loi ne s’applique pas aux activités suivantes::
 
 - les services d’intérêt général non économiques;
 
-- les services financiers tels que ceux ayant trait à la banque, au crédit, à l’assurance et à la réassurance, aux retraites professionnelles ou individuelles, aux titres, aux fonds d’investissements, aux paiements et aux conseils en investissement, y compris les services énumérés à l’annexe I de la directive 2006/48/CE ;
+- les services financiers tels que ceux ayant trait à la banque, au crédit, à l’assurance et à la réassurance, aux retraites professionnelles ou individuelles, aux titres, aux fonds d’investissements, aux paiements et aux conseils en investissement, y compris les services énumérés à l’annexe I de la directive 2006/48/CE;
 
-- les services et réseaux de communications électroniques ainsi que les ressources et services associés pour ce qui concerne les matières régies par les textes nationaux transposant les directives 2002/19/CE , 2002/20/CE , 2002/21/CE , 2002/22/CE et 2002/58/CE ;
+- les services et réseaux de communications électroniques ainsi que les ressources et services associés pour ce qui concerne les matières régies par les textes nationaux transposant les directives 2002/19/CE, 2002/20/CE, 2002/21/CE, 2002/22/CE et 2002/58/CE;
 
-- les services dans le domaine des transports, y compris les services portuaires, qui entrent dans le champ d’application du titre VI du traité sur le fonctionnement de l’Union européenne ;
+- les services dans le domaine des transports, y compris les services portuaires, qui entrent dans le champ d’application du titre VI du traité sur le fonctionnement de l’Union européenne;
 
 - les services des agences de travail intérimaire;
 
@@ -55,7 +55,7 @@ La présente loi ne s’applique pas aux activités suivantes::
 
 - les activités de jeux d’argent impliquant des mises ayant une valeur monétaire dans les jeux de hasard, y compris les loteries, les casinos et les transactions portant sur des paris;
 
-- les activités participant à l’exercice de l’autorité publique conformément à l’article 51 du traité sur le fonctionnement de l’Union européenne ;
+- les activités participant à l’exercice de l’autorité publique conformément à l’article 51 du traité sur le fonctionnement de l’Union européenne;
 
 - les services sociaux relatifs au logement social, à l’aide à l’enfance et à l’aide aux familles et aux personnes se trouvant de manière permanente ou temporaire dans une situation de besoin qui sont assurés par l’Etat, par des prestataires mandatés par l’Etat ou par des associations caritatives reconnues comme telles par l’Etat;
 
@@ -74,7 +74,7 @@ Définitions
 
 Aux fins de la présente loi, on entend par:
 
-- «service», toute activité économique non salariée, exercée normalement contre rémunération, visée à l’article 57 du traité sur le fonctionnement de l’Union européenne ;
+- «service», toute activité économique non salariée, exercée normalement contre rémunération, visée à l’article 57 du traité sur le fonctionnement de l’Union européenne;
 
 - «Etat membre», Etat membre de l’Union européenne ou de l’Espace économique européen (EEE);
 
@@ -96,7 +96,7 @@ Aux fins de la présente loi, on entend par:
 
 - «Etat membre où le service est fourni», l’Etat membre où le service est fourni par un prestataire établi dans un autre Etat membre;
 
-- «profession réglementée», une activité ou un ensemble d’activités professionnelles visées par les textes nationaux transposant l’article 3, paragraphe (1), point a), de la directive 2005/36/CE ;
+- «profession réglementée», une activité ou un ensemble d’activités professionnelles visées par les textes nationaux transposant l’article 3, paragraphe (1), point a), de la directive 2005/36/CE;
 
 - «communication commerciale», toute forme de communication destinée à promouvoir, directement ou indirectement, les biens, les services ou l’image d’une entreprise, d’une organisation ou d’une personne ayant une activité commerciale, industrielle, artisanale ou exerçant une profession réglementée. Ne constituent pas en tant que telles des communications commerciales:
 
@@ -495,11 +495,11 @@ L’article 14 ne s’applique pas:
 
 - aux matières couvertes par le règlement (CEE) No 1408/71 du Conseil du 14 juin 1971 relatif à l’application des régimes de sécurité sociale aux travailleurs salariés, aux travailleurs non salariés et aux membres de leur famille qui se déplacent à l’intérieur de la Communauté;
 
-- en ce qui concerne les formalités administratives relatives à la libre circulation des personnes et à leur résidence, aux matières couvertes par les textes nationaux transposant les dispositions de la directive 2004/38/CE du Parlement européen et du Conseil du 29 avril 2004 relative au droit des citoyens de l’Union et des membres de leurs familles de circuler et de séjourner librement sur le territoire des Etats membres, modifiant le règlement (CEE) No 1612/68 et abrogeant les directives 64/221/CEE , 68/360/CEE , 72/194/CEE , 73/148/CEE , 75/34/CEE , 75/35/CEE , 90/364/CEE , 90/365/CEE et 93/96/CEE qui précisent les démarches administratives que les bénéficiaires doivent entreprendre auprès des autorités compétentes de l’Etat membre où le service est fourni;
+- en ce qui concerne les formalités administratives relatives à la libre circulation des personnes et à leur résidence, aux matières couvertes par les textes nationaux transposant les dispositions de la directive 2004/38/CE du Parlement européen et du Conseil du 29 avril 2004 relative au droit des citoyens de l’Union et des membres de leurs familles de circuler et de séjourner librement sur le territoire des Etats membres, modifiant le règlement (CEE) No 1612/68 et abrogeant les directives 64/221/CEE, 68/360/CEE, 72/194/CEE, 73/148/CEE, 75/34/CEE, 75/35/CEE, 90/364/CEE, 90/365/CEE et 93/96/CEE qui précisent les démarches administratives que les bénéficiaires doivent entreprendre auprès des autorités compétentes de l’Etat membre où le service est fourni;
 
-- en ce qui concerne les ressortissants de pays tiers qui se déplacent dans un autre Etat membre dans le cadre d’une prestation de service, à la faculté des Etats membres de requérir un visa ou un permis de séjour pour les ressortissants de pays tiers qui ne sont pas couverts par le régime de reconnaissance mutuelle prévu à l’article 21 de la convention d’application de l’ Accord de Schengen du 14 juin 1985 relatif à la suppression graduelle des contrôles aux frontières communes, ni à la faculté des Etats membres d’imposer aux ressortissants de pays tiers de se manifester auprès des autorités compétentes de l’Etat membre où le service est fourni au moment de leur entrée sur le territoire ou ultérieurement;
+- en ce qui concerne les ressortissants de pays tiers qui se déplacent dans un autre Etat membre dans le cadre d’une prestation de service, à la faculté des Etats membres de requérir un visa ou un permis de séjour pour les ressortissants de pays tiers qui ne sont pas couverts par le régime de reconnaissance mutuelle prévu à l’article 21 de la convention d’application de l’Accord de Schengen du 14 juin 1985 relatif à la suppression graduelle des contrôles aux frontières communes, ni à la faculté des Etats membres d’imposer aux ressortissants de pays tiers de se manifester auprès des autorités compétentes de l’Etat membre où le service est fourni au moment de leur entrée sur le territoire ou ultérieurement;
 
-- en ce qui concerne les transferts de déchets, aux matières couvertes par le règlement (CEE) No 259/93 du Conseil du 1 er février 1993 concernant la surveillance et le contrôle des transferts de déchets à l’entrée et à la sortie de la Communauté européenne;
+- en ce qui concerne les transferts de déchets, aux matières couvertes par le règlement (CEE) No 259/93 du Conseil du 1er février 1993 concernant la surveillance et le contrôle des transferts de déchets à l’entrée et à la sortie de la Communauté européenne;
 
 - aux droits d’auteur et droits voisins, aux droits visés par les textes nationaux transposant la directive 87/54/CEE du Conseil du 16 décembre 1986 concernant la protection juridique des topographies de produits semiconducteurs et par la directive 96/9/CE du Parlement européen et du Conseil, du 11 mars 1996, concernant la protection juridique des bases de données ainsi qu’aux droits de propriété industrielle;
 

@@ -90,7 +90,7 @@ L'application au personnel de la Caisse nationale d'assurance pension des dispos
 
 - les termes «salariés de l'Etat» sont à remplacer par les termes «salariés assimilés aux salariés de l'Etat»;
 
-- sans préjudice des dispositions de l'article 1 er , point a) et des dispositions du présent article, les compétences dévolues au Grand-Duc, au Gouvernement, au Conseil de Gouvernement, au ministre du ressort et à l'autorité investie du pouvoir de nomination sont exercées par le comité directeur de la Caisse nationale d'assurance pension;
+- sans préjudice des dispositions de l'article 1er, point a) et des dispositions du présent article, les compétences dévolues au Grand-Duc, au Gouvernement, au Conseil de Gouvernement, au ministre du ressort et à l'autorité investie du pouvoir de nomination sont exercées par le comité directeur de la Caisse nationale d'assurance pension;
 
 - les compétences dévolues au ministre ayant dans ses attributions la Fonction publique par la loi du 25 mars 2015 déterminant le régime et les indemnités des employés de l'Etat, excepté celles concernant la commission d'appréciation des performances professionnelles, sont exercées par le comité directeur de la Caisse nationale d'assurance pension, l'avis du ministre du ressort n'étant pas requis;
 

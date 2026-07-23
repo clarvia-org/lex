@@ -37,7 +37,7 @@ Tout véhicule routier, visé par :
 
 - le règlement (UE) n° 167/2013 du Parlement européen et du Conseil du 5 février 2013 relatif à la réception et à la surveillance du marché des véhicules agricoles et forestiers, tel que modifié,
 
-- le règlement (UE) 2018/858 du Parlement européen et du Conseil du 30 mai 2018 relatif à la réception et à la surveillance du marché des véhicules à moteur et de leurs remorques, ainsi que des systèmes, composants et entités techniques distinctes destinés à ces véhicules, modifiant les règlements (CE) n° 715/2007 et (CE) n° 595/2009 et abrogeant la directive 2007/46/CE , tel que modifié, doit faire l’objet d’une réception européenne par type ou individuelle.
+- le règlement (UE) 2018/858 du Parlement européen et du Conseil du 30 mai 2018 relatif à la réception et à la surveillance du marché des véhicules à moteur et de leurs remorques, ainsi que des systèmes, composants et entités techniques distinctes destinés à ces véhicules, modifiant les règlements (CE) n° 715/2007 et (CE) n° 595/2009 et abrogeant la directive 2007/46/CE, tel que modifié, doit faire l’objet d’une réception européenne par type ou individuelle.
 
 Le type de véhicule routier qui a fait l’objet d’une réception européenne par type est désigné « type de véhicule homologué ». Le véhicule routier qui a fait l’objet d’une réception européenne individuelle est désigné « véhicule homologué ».
 
@@ -75,7 +75,7 @@ Une réception nationale individuelle ainsi qu’une réception nationale par ty
 
 - que ce véhicule ne présente ni de danger pour ses occupants ou pour les autres usagers de la route, ni de non-conformité sur le plan technique ou environnemental, et
 
-- que ce véhicule réponde aux dispositions des règlements européens repris à l’article 1 er , paragraphe 1 er ou le cas échéant à l’ arrêté grand-ducal modifié du 23 novembre 1955 portant règlement de la circulation sur toutes les voies publiques en vigueur au moment de sa construction, à moins :
+- que ce véhicule réponde aux dispositions des règlements européens repris à l’article 1er, paragraphe 1er ou le cas échéant à l’arrêté grand-ducal modifié du 23 novembre 1955 portant règlement de la circulation sur toutes les voies publiques en vigueur au moment de sa construction, à moins :
 
   - d’être conçu suivant de nouvelles technologies,
 
@@ -89,7 +89,7 @@ Pour un véhicule qui ne correspond pas à un type de véhicule homologué ou à
 
 - que ce véhicule ait été immatriculé en dernier lieu dans le pays de provenance du propriétaire ou détenteur au nom de celui-ci,
 
-- que le propriétaire ou détenteur puisse documenter sa situation régulière au Luxembourg conformément aux exigences de l’article 12, paragraphe 6 , et soit inscrit sur le certificat d’immatriculation en tant que titulaire du certificat d’immatriculation .
+- que le propriétaire ou détenteur puisse documenter sa situation régulière au Luxembourg conformément aux exigences de l’article 12, paragraphe 6, et soit inscrit sur le certificat d’immatriculation en tant que titulaire du certificat d’immatriculation .
 
 (3)
 
@@ -110,7 +110,7 @@ Une réception isolée est délivrée pour un véhicule, à condition :
 
 - que ce véhicule ne présente ni de danger pour ses occupants ou pour les autres usagers de la route, ni de non-conformité sur le plan technique ou environnemental, et
 
-- que ce véhicule réponde aux dispositions de l’ arrêté grand-ducal modifié du 23 novembre 1955 portant règlement de la circulation sur toutes les voies publiques en vigueur au moment de sa construction, à moins :
+- que ce véhicule réponde aux dispositions de l’arrêté grand-ducal modifié du 23 novembre 1955 portant règlement de la circulation sur toutes les voies publiques en vigueur au moment de sa construction, à moins :
 
   - d’être conçu suivant de nouvelles technologies,
 
@@ -195,7 +195,7 @@ Par dérogation aux dispositions des paragraphes 1er à 5, le ministre peut, dan
 
 - accorder une dispense temporaire d’immatriculation pour des véhicules utilisés pour des missions particulières ou pour des missions à durée limitée;
 
-- autoriser une immatriculation temporaire, pour une durée ne dépassant pas six mois, d’un véhicule qui, en vertu des dispositions du paragraphe 1 er , alinéa 2, ne peut pas faire l’objet d’une immatriculation au Luxembourg;
+- autoriser une immatriculation temporaire, pour une durée ne dépassant pas six mois, d’un véhicule qui, en vertu des dispositions du paragraphe 1er, alinéa 2, ne peut pas faire l’objet d’une immatriculation au Luxembourg;
 
 - autoriser l’immatriculation, à titre exceptionnel, pour une durée limitée ou non, d’un véhicule routier au nom d’un propriétaire, détenteur ou titulaire d’un certificat d’immatriculation qui n’a pas sa résidence normale au Luxembourg, à condition pour cette personne :
 
@@ -296,11 +296,11 @@ Aux fins de l’immatriculation d’un véhicule au Luxembourg ou de l’obtenti
 
 - la situation régulière au Luxembourg du titulaire du certificat d’immatriculation du véhicule ;
 
-- le paiement de la taxe prévue au règlement grand-ducal précité du 12 novembre 1981 ainsi que du tarif prévu à l’article 42, paragraphe 1 er , rubrique 14° ;
+- le paiement de la taxe prévue au règlement grand-ducal précité du 12 novembre 1981 ainsi que du tarif prévu à l’article 42, paragraphe 1er, rubrique 14° ;
 
-- la couverture du véhicule par un certificat de contrôle technique en cours de validité, délivré dans les conditions de l’article 4 bis de la loi précitée du 14 février 1955 ;
+- la couverture du véhicule par un certificat de contrôle technique en cours de validité, délivré dans les conditions de l’article 4bis de la loi précitée du 14 février 1955 ;
 
-- l’existence de toute autorisation requise en vertu de la loi précitée du 14 février 1955 , du présent règlement, ou en vertu d’autres lois ou règlements régissant la réception et l’immatriculation du véhicule ;
+- l’existence de toute autorisation requise en vertu de la loi précitée du 14 février 1955, du présent règlement, ou en vertu d’autres lois ou règlements régissant la réception et l’immatriculation du véhicule ;
 
 - l’identité de la personne ayant introduit ou présenté la demande en question.
 
@@ -430,7 +430,7 @@ La SNCA, est autorisée à communiquer l’information relative à la validité 
 
 - le Fonds de garantie automobile, conformément à l’article 16 de la loi du 16 avril 2003 relative à l’assurance obligatoire de la responsabilité civile en matière de véhicules automoteurs ;
 
-- le Bureau, tel que défini à l’article 1 er lettre g) de la loi du 16 avril 2003 relative à l’assurance obligatoire de la responsabilité civile en matière de véhicules automoteurs et qui conformément à l’article 15 du règlement modifié du 11 novembre 2003 pris en exécution de la loi du 16 avril 2003 relative à l’assurance obligatoire de la responsabilité civile en matière de véhicules automoteurs se porte garant pour les des sinistres survenus sur le territoire du Grand-Duché de Luxembourg.
+- le Bureau, tel que défini à l’article 1er lettre g) de la loi du 16 avril 2003 relative à l’assurance obligatoire de la responsabilité civile en matière de véhicules automoteurs et qui conformément à l’article 15 du règlement modifié du 11 novembre 2003 pris en exécution de la loi du 16 avril 2003 relative à l’assurance obligatoire de la responsabilité civile en matière de véhicules automoteurs se porte garant pour les des sinistres survenus sur le territoire du Grand-Duché de Luxembourg.
 
 (5)
 
@@ -466,7 +466,7 @@ Aux fins de documenter la situation régulière d’un véhicule en matière du 
 
 - un certificat de contrôle technique en cours de validité, délivré pour ce véhicule par un organisme autorisé à cette fin dans un pays de l’Espace Économique Européen ou de la Suisse;
 
-- un certificat de contrôle technique en cours de validité, délivré pour ce véhicule par un organisme de contrôle technique agréé au Luxembourg en vertu de l’article 4 ter , paragraphe 1 er , de la loi précitée du 14 février 1955 .
+- un certificat de contrôle technique en cours de validité, délivré pour ce véhicule par un organisme de contrôle technique agréé au Luxembourg en vertu de l’article 4ter, paragraphe 1er, de la loi précitée du 14 février 1955.
 
 <a id="art-13"></a>
 ## Art. 13.
@@ -605,7 +605,7 @@ Les dispositions des articles 17 et 18 ne sont pas applicables:
 
 - aux motocycles, tricycles, quadricycles, cyclomoteurs et quadricycles légers ayant été mis en circulation avant le 26 novembre 1975;
 
-- aux autres véhicules routiers ayant été mis en circulation avant le 1 er octobre 1971.
+- aux autres véhicules routiers ayant été mis en circulation avant le 1er octobre 1971.
 
 ##### Section 3 Les numéros d’immatriculation des véhicules routiers
 

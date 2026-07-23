@@ -56,7 +56,7 @@ Font partie des services de transports publics par rail :
 
 - les transports intérieurs assurés au moyen de trains et de tramways, assurant les services réguliers sur les relations confinées au territoire national ;
 
-- les transports transfrontaliers régionaux assurés au moyen de trains assurant les services réguliers sur des relations à l’intérieur de la région transfrontalière délimitée conformément à l’article 1 er et qui ont comme origine ou comme destination une gare luxembourgeoise.
+- les transports transfrontaliers régionaux assurés au moyen de trains assurant les services réguliers sur des relations à l’intérieur de la région transfrontalière délimitée conformément à l’article 1er et qui ont comme origine ou comme destination une gare luxembourgeoise.
 
 Sont également considérés comme services de transports publics les services prestés au moyen de trains internationaux, selon des conditions à convenir entre le ministre et les transporteurs et autorités organisatrices concernés sur base du règlement (CE) n° 1370/2007 précité.
 
@@ -86,7 +86,7 @@ Les activités de transport suivantes ne sont pas considérées comme services d
 
 - les transports de tourisme d’agrément ;
 
-- les transports pour compte propre tels que définis à l’article 2 du règlement (CE) n° 1073/2009 du Parlement européen et du Conseil du 21 octobre 209 établissant des règles communes pour l’accès au marché international des services de transport par autocars et autobus, et modifiant le règlement (CE) n° 561/2006 , tel que modifié.
+- les transports pour compte propre tels que définis à l’article 2 du règlement (CE) n° 1073/2009 du Parlement européen et du Conseil du 21 octobre 209 établissant des règles communes pour l’accès au marché international des services de transport par autocars et autobus, et modifiant le règlement (CE) n° 561/2006, tel que modifié.
 
 #### Chapitre 2 Administration des transports publics
 
@@ -122,7 +122,7 @@ L’administration :
 
 - effectue les tâches administratives et procédurales résultant des dispositions de l’Union européenne en matière de transports de voyageurs par route ;
 
-- est chargée de l’organisation, de la gestion et de la planification des horaires ainsi que du contrôle des transports publics par route tels que définis à l’article 3 et à l’article 4, paragraphe 1 er ainsi que de l’information multimodale des usagers des moyens de transports publics.
+- est chargée de l’organisation, de la gestion et de la planification des horaires ainsi que du contrôle des transports publics par route tels que définis à l’article 3 et à l’article 4, paragraphe 1er ainsi que de l’information multimodale des usagers des moyens de transports publics.
 
 <a id="art-7"></a>
 ## Art. 7.
@@ -228,7 +228,7 @@ Aux articles 1, 2 et 4 de la loi du 10 septembre 2012 déterminant le régime de
 
 - les articles L. 311-5 et L. 311-6 du Code de la consommation ;
 
-- l’article 7 bis de la loi modifiée du 29 juin 2004 sur les transports publics, les mots la Communauté des Transports sont remplacés par ceux de le ministre ayant la Protection des consommateurs dans ses attributions .
+- l’article 7bis de la loi modifiée du 29 juin 2004 sur les transports publics, les mots la Communauté des Transports sont remplacés par ceux de le ministre ayant la Protection des consommateurs dans ses attributions.
 
 <a id="art-21"></a>
 ## Art. 21.

@@ -60,7 +60,7 @@ Pour l’application de la présente loi et aux fins des échanges entre la Poli
 
   - une infraction visée à l’article 3, paragraphe 3, de la loi modifiée du 17 mars 2004 relative au mandat d’arrêt européen et aux procédures de remise entre États membres de l’Union européenne ;
 
-  - une infraction visée à l’article 3, paragraphe 1 er ou 2, du règlement (UE) 2016/794 du Parlement européen et du Conseil du 11 mai 2016 relatif à l’Agence de l’Union européenne pour la coopération des services répressifs (Europol) et remplaçant et abrogeant les décisions du Conseil 2009/371/JAI , 2009/934/JAI , 2009/935/JAI , 2009/936/JAI et 2009/968/JAI , ci-après le « règlement (UE) 2016/794 » ;
+  - une infraction visée à l’article 3, paragraphe 1er ou 2, du règlement (UE) 2016/794 du Parlement européen et du Conseil du 11 mai 2016 relatif à l’Agence de l’Union européenne pour la coopération des services répressifs (Europol) et remplaçant et abrogeant les décisions du Conseil 2009/371/JAI, 2009/934/JAI, 2009/935/JAI, 2009/936/JAI et 2009/968/JAI, ci-après le « règlement (UE) 2016/794 » ;
 
 - « informations » : tout contenu concernant plusieurs personnes physiques ou morales, des faits ou des circonstances qui revêtent un intérêt pour les services répressifs compétents aux fins de l’accomplissement des missions de prévention ou de détection des infractions pénales, ou d’enquête en la matière, qui leur incombent en application du droit national, y compris le renseignement en matière pénale ;
 
@@ -70,7 +70,7 @@ Pour l’application de la présente loi et aux fins des échanges entre la Poli
 
 - « informations indirectement accessibles » : les données à caractère personnel et les informations que le point de contact unique ou les services répressifs compétents peuvent obtenir d’autres autorités publiques ou parties privées établies au Grand-Duché de Luxembourg, lorsque le droit national le permet et conformément à celui-ci, sans mesures coercitives ;
 
-- « données à caractère personnel » : les données à caractère personnel au sens de l’article 2, paragraphe 1 er , point 1°, de la loi du 1er août 2018 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel en matière pénale ainsi qu’en matière de sécurité nationale ;
+- « données à caractère personnel » : les données à caractère personnel au sens de l’article 2, paragraphe 1er, point 1°, de la loi du 1er août 2018 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel en matière pénale ainsi qu’en matière de sécurité nationale ;
 
 - « point de contact unique » : l’entité centrale chargée de coordonner et de faciliter l’échange d’informations.
 
@@ -91,11 +91,11 @@ Le point de contact unique a pour missions de :
 
 - coordonner l’analyse et structurer les informations en vue de les communiquer aux points de contact uniques et, le cas échéant, aux services répressifs compétents d’autres États membres de l’Union européenne ;
 
-- communiquer, sur demande ou de sa propre initiative, des informations aux entités visées à l’article 1 er , points 1) et 2), conformément aux articles 3 bis , 8, 9 et 11 ;
+- communiquer, sur demande ou de sa propre initiative, des informations aux entités visées à l’article 1er, points 1) et 2), conformément aux articles 3bis, 8, 9 et 11 ;
 
 - refuser de communiquer des informations conformément à l’article 7 et, si nécessaire, demander des éclaircissements ou des précisions conformément à l’article 7, paragraphes 5 à 6 ;
 
-- adresser des demandes d’informations aux entités visées à l’article 1 er , point 2), aux points de contact uniques d’autres États membres de l’Union européenne conformément à l’article 3 et, s’il y a lieu, fournir des éclaircissements ou des précisions conformément à l’article 7, paragraphes 5 à 6.
+- adresser des demandes d’informations aux entités visées à l’article 1er, point 2), aux points de contact uniques d’autres États membres de l’Union européenne conformément à l’article 3 et, s’il y a lieu, fournir des éclaircissements ou des précisions conformément à l’article 7, paragraphes 5 à 6.
 
 Le point de contact unique exerce ses missions vingt-quatre heures sur vingt-quatre et sept jours sur sept.
 
@@ -141,19 +141,19 @@ La formation se compose d’une formation de base de quatre heures à l’entré
 
 Le point de contact unique déploie et exploite un système électronique unique de gestion des dossiers en tant que répertoire lui permettant d’accomplir les tâches qui lui incombent en vertu de la présente loi. Le système de gestion des dossiers est doté de l’ensemble des fonctions et capacités suivantes :
 
-- enregistrement des demandes d’informations entrantes et sortantes visées aux articles 3 bis , 8, 9 et 11 bis ainsi que de toute autre communication relative à ces demandes avec les points de contact uniques et, le cas échéant, les services répressifs compétents et les services répressifs désignés des autres États membres de l’Union européenne, y compris les informations sur les refus de demandes d’informations ainsi que les demandes et communications d’éclaircissements ou de précisions prévues à l’article 7 ;
+- enregistrement des demandes d’informations entrantes et sortantes visées aux articles 3bis, 8, 9 et 11bis ainsi que de toute autre communication relative à ces demandes avec les points de contact uniques et, le cas échéant, les services répressifs compétents et les services répressifs désignés des autres États membres de l’Union européenne, y compris les informations sur les refus de demandes d’informations ainsi que les demandes et communications d’éclaircissements ou de précisions prévues à l’article 7 ;
 
 - enregistrement des communications entre le point de contact unique et les services répressifs compétents, en application de l’article 1ter, paragraphe 2, lettre b) ;
 
-- enregistrement des informations communiquées au point de contact unique et, le cas échéant, aux services répressifs compétents d’autres États membres de l’Union européenne, conformément aux articles 3 bis , 8, 9 bis , 11 et 11 bis ;
+- enregistrement des informations communiquées au point de contact unique et, le cas échéant, aux services répressifs compétents d’autres États membres de l’Union européenne, conformément aux articles 3bis, 8, 9bis, 11 et 11bis ;
 
-- recoupement des demandes d’informations entrantes, visées aux articles 3 bis , 8, 9 et 11 bis , avec les informations dont dispose le point de contact unique, y compris les informations communiquées conformément à l’article 3 bis , paragraphe 2, et à l’article 11, paragraphe 4 et avec les autres informations pertinentes enregistrées dans le système de gestion des dossiers ;
+- recoupement des demandes d’informations entrantes, visées aux articles 3bis, 8, 9 et 11bis, avec les informations dont dispose le point de contact unique, y compris les informations communiquées conformément à l’article 3bis, paragraphe 2, et à l’article 11, paragraphe 4 et avec les autres informations pertinentes enregistrées dans le système de gestion des dossiers ;
 
 - suivi des demandes d’informations entrantes visées à l’article 3, notamment en vue de respecter les délais de communication des informations demandées fixés aux articles 8 et 9 ;
 
 - interopérabilité avec l’application SIENA, afin notamment que les communications entrantes qui transitent par cette application puissent être directement enregistrées dans le système de gestion des dossiers et que les communications sortantes qui transitent par cette application puissent être directement envoyées à partir dudit système ;
 
-- production de statistiques sur les échanges d’informations au titre de la présente loi à des fins d’évaluation et de suivi, notamment aux fins de l’article 13 ter ;
+- production de statistiques sur les échanges d’informations au titre de la présente loi à des fins d’évaluation et de suivi, notamment aux fins de l’article 13ter ;
 
 - journalisation des accès et des autres opérations de traitement pour ce qui est des informations contenues dans le système de gestion des dossiers, à des fins de responsabilité et de cybersécurité, conformément à l’article 24 de la loi du 1er août 2018 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel en matière pénale ainsi qu’en matière de sécurité nationale.
 
@@ -217,7 +217,7 @@ Par dérogation au paragraphe 4, les services répressifs désignés nationaux v
 
 Dans le cadre des échanges entre les entités visées à l’article 1er, points 1) et 2), les demandes d’informations ne sont soumises au point de contact unique d’un autre État membre de l’Union européenne que lorsqu’il existe des raisons objectives de penser que :
 
-- les informations demandées sont nécessaires et proportionnées pour réaliser l’objectif d’échange adéquat et rapide d’informations entre les services répressifs compétents aux fins mentionnées au paragraphe 1 er .
+- les informations demandées sont nécessaires et proportionnées pour réaliser l’objectif d’échange adéquat et rapide d’informations entre les services répressifs compétents aux fins mentionnées au paragraphe 1er.
 
 - cet autre État membre de l’Union européenne dispose des informations demandées.
 
@@ -358,7 +358,7 @@ Aux fins des échanges d’informations entre les entités visées à l’articl
 
 - la demande d’informations ne satisfait pas aux exigences prévues à l’article 3 ;
 
-- les informations demandées constituent des données à caractère personnel autres que celles relevant des catégories des données à caractère personnel visées à l’article 13 bis , lettre b) ;
+- les informations demandées constituent des données à caractère personnel autres que celles relevant des catégories des données à caractère personnel visées à l’article 13bis, lettre b) ;
 
 - les informations demandées se sont révélées inexactes, incomplètes ou ne sont plus à jour et ne peuvent être communiquées conformément à l’article 6, paragraphe 2, de la loi du 1er août 2018 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel en matière pénale ainsi qu’en matière de sécurité nationale ;
 
@@ -395,9 +395,9 @@ Les refus des demandes d’informations, les motifs de tels refus, les demandes 
 
 Sans préjudice des autres conditions prévues au présent chapitre, le point de contact unique est tenu de transmettre les données à caractère personnel et informations demandées dans un délai maximal de huit heures à partir de la réception de la demande y afférente lorsque :
 
-- la demande émane d’un des services visés à l’article 1 er , point 1), et
+- la demande émane d’un des services visés à l’article 1er, point 1), et
 
-- la demande est motivée comme urgente par le service requérant portant sur des informations directement accessibles telles que définies par l’article 1 bis , point 6 , et
+- la demande est motivée comme urgente par le service requérant portant sur des informations directement accessibles telles que définies par l’article 1bis, point 6 , et
 
 - les informations demandées concernent une ou plusieurs infractions justifiant la remise d’une personne à un autre État membre de l’Union européenne au sens de la loi du 17 mars 2004 relative au mandat d’arrêt européen et aux procédures de remise entre États membres de l’Union européenne, et
 
@@ -599,7 +599,7 @@ Les statistiques visées au paragraphe 1er portent sur :
 
 - le nombre de demandes d’informations refusées en vertu de l’article 7, ventilé par État membre de l’Union européenne demandeur et par motif de refus ;
 
-- le nombre de cas dans lesquels il a été dérogé aux délais prévus à l’article 8, paragraphe 1 er , parce qu’il était nécessaire d’obtenir une autorisation judiciaire conformément à l’article 9 bis ventilé par État membre de l’Union européenne ayant soumis les demandes d’informations concernées.
+- le nombre de cas dans lesquels il a été dérogé aux délais prévus à l’article 8, paragraphe 1er, parce qu’il était nécessaire d’obtenir une autorisation judiciaire conformément à l’article 9bis ventilé par État membre de l’Union européenne ayant soumis les demandes d’informations concernées.
 
 ##### Section 2 Dispositions particulières relatives à la décision 2008/615/JAI du Conseil du 23 juin 2008 relative à l’approfondissement de la coopération transfrontalière, notamment en vue de lutter contre le terrorisme et la criminalité transfrontalière.
 
@@ -678,7 +678,7 @@ L’autorisation accordée par le Procureur général d’État en application d
 
 La présente section s’applique à l’échange de données à caractère personnel et d’informations disponibles telles que définies à l’article 1bis :
 
-- entre les officiers de police judiciaire de la Police grand-ducale visés à l’article 10 du Code de procédure pénale , de même que les agents de police judiciaire, et
+- entre les officiers de police judiciaire de la Police grand-ducale visés à l’article 10 du Code de procédure pénale, de même que les agents de police judiciaire, et
 
 - entre les agents de l’Administration des douanes et accises qui exécutent des missions de police administrative ou judiciaire en vertu d’une disposition légale, et
 
@@ -754,9 +754,9 @@ La transmission visée à l’article 23, qui peut avoir lieu sur demande ou de 
 
 - lorsqu’il s’agit de données et d’informations qui proviennent d’une enquête ou d’une instruction préparatoire en cours, l’autorisation écrite visée à l’article 20, paragraphe 2, est requise préalablement à la transmission ;
 
-- lorsqu’il s’agit de données et d’informations qui ont été communiquées aux personnes visées à l’article 18, paragraphe 1 er , au préalable par une entité visée à l’article 1 er , l’accord écrit de cette entité est requis préalablement à la transmission ;
+- lorsqu’il s’agit de données et d’informations qui ont été communiquées aux personnes visées à l’article 18, paragraphe 1er, au préalable par une entité visée à l’article 1er, l’accord écrit de cette entité est requis préalablement à la transmission ;
 
-- aucun des motifs visés à l’article 7, paragraphe 1 er , ne s’y oppose.
+- aucun des motifs visés à l’article 7, paragraphe 1er, ne s’y oppose.
 
 <a id="art-25"></a>
 ## Art. 25.

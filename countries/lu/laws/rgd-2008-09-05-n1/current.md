@@ -84,7 +84,7 @@ La preuve des ressources visées au paragraphe (1) qui précède, est rapportée
 
 - une attestation bancaire justifiant les ressources exigées;
 
-- une attestation de prise en charge à l’égard de l’Etat luxembourgeois et de l’étudiant, pour les frais de séjour, y compris les frais d’études et de santé, d’au moins une année académique et les frais de retour, établie dans les formes prévues à l’article 4 de la loi .
+- une attestation de prise en charge à l’égard de l’Etat luxembourgeois et de l’étudiant, pour les frais de séjour, y compris les frais d’études et de santé, d’au moins une année académique et les frais de retour, établie dans les formes prévues à l’article 4 de la loi.
 
 (3)
 

@@ -394,18 +394,26 @@ L'alinéa 4 de l'article 4 de la loi modifiée du 18 juin 1969 sur l'enseignemen
 
 Les modifications suivantes sont apportées à la loi du 22 juin 1989 portant modification de la loi modifiée du 10 mai 1968 portant réforme de l'enseignement, titreVI: de l'enseignement secondaire:
 
-- à l'article 6, paragraphe 3, le point a) est remplacé comme suit: être détenteur d'un diplôme de fin d'études secondaires ou de fin d'études secondaires techniques, luxembourgeois ou étranger reconnu équivalent suivant la réglementation luxembourgeoise en vigueur»;
+- à l'article 6, paragraphe 3, le point a) est remplacé comme suit:
 
-- à l'article 8, l'alinéa 2 est complété par l'adjonction suivante: « . . . ou dans le grade E6».
+- être détenteur d'un diplôme de fin d'études secondaires ou de fin d'études secondaires techniques, luxembourgeois ou étranger reconnu équivalent suivant la réglementation luxembourgeoise en vigueur»;
+
+- à l'article 8, l'alinéa 2 est complété par l'adjonction suivante:
+
+« . . . ou dans le grade E6».
 
 <a id="art60"></a>
 ## Art. 60.
 
 Les modifications suivantes sont apportées à la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l'Etat:
 
-- A l'article 20ter, il est ajouté l'alinéa suivant: «La nomination de l'instituteur classé au grade E3 ou E3ter à une fonction classée au grade E4 est à considérer comme une promotion.»
+- A l'article 20ter, il est ajouté l'alinéa suivant:
 
-- A l'article 22, section II, paragraphe 17, l'alinéa 3 est modifié comme suit: «Le maître de cours pratiques (grade E2) et le maître d'enseignement technique (grade E2) bénéficient d'un avancement en traitement au grade E3bis après douze années de grade.»
+«La nomination de l'instituteur classé au grade E3 ou E3ter à une fonction classée au grade E4 est à considérer comme une promotion.»
+
+- A l'article 22, section II, paragraphe 17, l'alinéa 3 est modifié comme suit:
+
+«Le maître de cours pratiques (grade E2) et le maître d'enseignement technique (grade E2) bénéficient d'un avancement en traitement au grade E3bis après douze années de grade.»
 
 - A l'annexe A - Classification des fonctions, la rubrique «IV.— Enseignement» est complétée comme suit:
 

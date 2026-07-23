@@ -5005,9 +5005,9 @@ Si l'oyant est défaillant, le commissaire fera son rapport au jour par lui indi
 
 - du Traité du 24 novembre 1961 entre la Belgique, les Pays-Bas et le Luxembourg sur la compétence judiciaire, sur la faillite, sur l'autorité et l'exécution des décisions judiciaires, des sentences arbitrales et des actes authentiques pour autant qu'il soit en vigueur,
 
-- ( L. 12 décembre 2025 ) de la Convention de La Haye du 2 octobre 1973 sur la reconnaissance et l'exécution des décisions relatives aux obligations alimentaires,
+- (L. 12 décembre 2025) de la Convention de La Haye du 2 octobre 1973 sur la reconnaissance et l'exécution des décisions relatives aux obligations alimentaires,
 
-- ( L. 12 décembre 2025 ) ou de la Convention de La Haye du 2 juillet 2019 sur la reconnaissance et l’exécution des jugements étrangers en matière civile ou commerciale,
+- (L. 12 décembre 2025) ou de la Convention de La Haye du 2 juillet 2019 sur la reconnaissance et l’exécution des jugements étrangers en matière civile ou commerciale,
 
 remplissent les conditions pour être reconnues et exécutées au Luxembourg, sont rendues exécutoires dans les formes prévues par les dispositions des articles 680 à 685.
 

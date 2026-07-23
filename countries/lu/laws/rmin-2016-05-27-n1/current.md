@@ -99,15 +99,15 @@ Les publications pouvant être générées par le gestionnaire du registre de co
 
 - les dénonciations de siège, telles que prévues à l’article 13, point 14) de la loi du 19 décembre 2002 concernant le registre de commerce et des sociétés ainsi que la comptabilité et les comptes annuels des entreprises;
 
-- l’extrait prescrit à l’article 100-13, paragraphe 1 er , point 1°, de la loi modifiée du 10 août 1915 concernant les sociétés commerciales et aux articles 22, paragraphe 2, point 1° et 57, paragraphe 2, point 1°, de la loi du 7 août 2023 sur les associations sans but lucratif et les fondations ;
+- l’extrait prescrit à l’article 100-13, paragraphe 1er, point 1°, de la loi modifiée du 10 août 1915 concernant les sociétés commerciales et aux articles 22, paragraphe 2, point 1° et 57, paragraphe 2, point 1°, de la loi du 7 août 2023 sur les associations sans but lucratif et les fondations ;
 
 - les informations dont la loi prescrit la publication par mention ;
 
 - les décisions judiciaires de rabattement, telles que prévues à l’article 13, point 16) de la loi modifiée du 19 décembre 2002 concernant le registre de commerce et des sociétés ainsi que la comptabilité et les comptes annuels des entreprises ;
 
-- les informations communiquées au moyen du système d’interconnexion des registres en application de l’article 24 bis , paragraphe 3 bis , point 1°, du règlement grand-ducal modifié du 23 janvier 2003 portant exécution de la loi du 19 décembre 2002 concernant le registre de commerce et des sociétés ainsi que la comptabilité et les comptes annuels des entreprises et qui doivent être publiées en application de l’article 1300-5 de la loi modifiée du 10 août 1915 concernant les sociétés commerciales.
+- les informations communiquées au moyen du système d’interconnexion des registres en application de l’article 24bis, paragraphe 3bis, point 1°, du règlement grand-ducal modifié du 23 janvier 2003 portant exécution de la loi du 19 décembre 2002 concernant le registre de commerce et des sociétés ainsi que la comptabilité et les comptes annuels des entreprises et qui doivent être publiées en application de l’article 1300-5 de la loi modifiée du 10 août 1915 concernant les sociétés commerciales.
 
-- l’extrait prescrit aux articles 67 de la loi du 7 août 2023 relative à la préservation des entreprises et portant modernisation du droit de la faillite et 536-3 et 536-4 du code de commerce .
+- l’extrait prescrit aux articles 67 de la loi du 7 août 2023 relative à la préservation des entreprises et portant modernisation du droit de la faillite et 536-3 et 536-4 du code de commerce.
 
 Les publications prescrites aux points 1°, 2° et 3° sont générées par le gestionnaire sur base d’un formulaire spécifique, dûment complété par le déposant.
 

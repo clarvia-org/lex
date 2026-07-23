@@ -608,7 +608,7 @@ A l'article 4 de la loi modifiée du 3 août 1998 instituant des régimes de pen
 
 Le Code des assurances sociales est modifié comme suit:
 
-- L'article 1 er , alinéa 1 est complété par un point 19) libellé comme suit: aux travailleurs handicapés occupés dans les ateliers protégés et aux personnes bénéficiant d'un revenu pour personnes gravement handicapées au sens de la loi du 12 septembre 2003 relative aux personnes handicapées.
+- L'article 1er, alinéa 1 est complété par un point 19) libellé comme suit: aux travailleurs handicapés occupés dans les ateliers protégés et aux personnes bénéficiant d'un revenu pour personnes gravement handicapées au sens de la loi du 12 septembre 2003 relative aux personnes handicapées.
 
 - L'article 32 est complété par un nouveau tiret libellé comme suit: par parts égales à l'Etat ou l'atelier protégé et aux assurés visés à l'article 1er, sous 19).
 

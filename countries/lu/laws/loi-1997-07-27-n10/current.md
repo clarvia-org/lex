@@ -294,7 +294,7 @@ Avant la conclusion du contrat d’assurance, le preneur d’assurance doit rece
 
 et en outre pour l’assurance sur la vie:
 
-- dans le cas d’un contrat émis par une entreprise d’assurance de l’Espace économique européen, une référence concrète au rapport sur la solvabilité et la situation financière prévu à l’article 82 de la loi sur le secteur des assurances , qui permet au preneur d’assurance d’accéder facilement à ces informations; dans le cas d’un contrat émis par une entreprise d’assurance hors de l’Espace économique européen, des indications sur leur solvabilité au regard de la réglementation prudentielle qui leur est applicable, et en outre pour l’assurance sur la vie,
+- dans le cas d’un contrat émis par une entreprise d’assurance de l’Espace économique européen, une référence concrète au rapport sur la solvabilité et la situation financière prévu à l’article 82 de la loi sur le secteur des assurances, qui permet au preneur d’assurance d’accéder facilement à ces informations; dans le cas d’un contrat émis par une entreprise d’assurance hors de l’Espace économique européen, des indications sur leur solvabilité au regard de la réglementation prudentielle qui leur est applicable, et en outre pour l’assurance sur la vie,
 
 - les modalités de calcul et d’attribution des participations aux bénéfices,
 

@@ -87,7 +87,7 @@ Lorsqu’un dispositif incorpore comme partie intégrante une substance qui, si 
 
 Le présent règlement ne s’applique pas:
 
-- aux médicaments relevant de la directive 2001/83/CE . Pour décider si un produit relève de ladite directive ou du présent règlement, il est tenu compte tout particulièrement du mode d’action principal du produit;
+- aux médicaments relevant de la directive 2001/83/CE. Pour décider si un produit relève de ladite directive ou du présent règlement, il est tenu compte tout particulièrement du mode d’action principal du produit;
 
 - au sang humain, aux produits sanguins, au plasma, aux cellules sanguines d’origine humaine ou aux dispositifs qui contiennent au moment de leur mise sur le marché des produits sanguins, du plasma ou des cellules d’origine humaine, à l’exception des dispositifs visés au paragraphe 5;
 

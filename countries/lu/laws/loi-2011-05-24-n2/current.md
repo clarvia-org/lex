@@ -48,7 +48,7 @@ La présente loi ne s'applique pas aux :
 
 - Organismes de placement collectif au sens de l'article 2, paragraphe 2, de la loi modifiée du 17 décembre 2010 sur les organismes de placement collectif ;
 
-- Organismes de placement collectif au sens de l'article 1 er , paragraphe 39, de la loi modifiée du 12 juillet 2013 relative aux gestionnaires de fonds d'investissement alternatifs ;
+- Organismes de placement collectif au sens de l'article 1er, paragraphe 39, de la loi modifiée du 12 juillet 2013 relative aux gestionnaires de fonds d'investissement alternatifs ;
 
 - Sociétés coopératives.
 
@@ -88,7 +88,7 @@ Aux fins de la présente loi on entend par :
 
 - 3bis° « États membres » : les États membres de l’Union européenne et les États parties à l’Accord sur l’Espace économique européen autres que les États membres de l’Union Européenne, dans les limites définies par cet accord et les actes y afférents ;
 
-- « gestionnaire d’actifs » : une entreprise d’investissement au sens de l’article 1 er , paragraphe 1 er , point 16, de la loi du 30 mai 2018 relative aux marchés d’instruments financiers qui fournit des services de gestion de portefeuille à des investisseurs, un gestionnaire de fonds d’investissement alternatif au sens de l’article 1 er , point 46, de la loi modifiée du 12 juillet 2013 relative aux gestionnaires de fonds d’investissement alternatifs qui ne remplit pas les conditions d’exemption prévues à l’article 3 de la loi précitée du 12 juillet 2013 ou une société de gestion au sens de l’article 1 er , paragraphe 1 er , point 31), de la loi modifiée du 5 avril 1993 relative au secteur financier ou une société d’investissement qui est agréée conformément à la loi modifiée du 17 décembre 2010 concernant les organismes de placement collectif, pour autant qu’elle n’ait pas confié sa gestion à une société de gestion agréée au titre de ladite loi ;
+- « gestionnaire d’actifs » : une entreprise d’investissement au sens de l’article 1er, paragraphe 1er, point 16, de la loi du 30 mai 2018 relative aux marchés d’instruments financiers qui fournit des services de gestion de portefeuille à des investisseurs, un gestionnaire de fonds d’investissement alternatif au sens de l’article 1er, point 46, de la loi modifiée du 12 juillet 2013 relative aux gestionnaires de fonds d’investissement alternatifs qui ne remplit pas les conditions d’exemption prévues à l’article 3 de la loi précitée du 12 juillet 2013 ou une société de gestion au sens de l’article 1er, paragraphe 1er, point 31), de la loi modifiée du 5 avril 1993 relative au secteur financier ou une société d’investissement qui est agréée conformément à la loi modifiée du 17 décembre 2010 concernant les organismes de placement collectif, pour autant qu’elle n’ait pas confié sa gestion à une société de gestion agréée au titre de ladite loi ;
 
 - « informations concernant l’identité des actionnaires » : les informations permettant d’établir l’identité d’un actionnaire, y compris, au minimum , les informations suivantes :
 
@@ -98,15 +98,15 @@ Aux fins de la présente loi on entend par :
 
   - uniquement dans la mesure où elles sont exigées par la société, une ou plusieurs des informations suivantes: les catégories ou classes des actions détenues ou la date depuis laquelle les actions sont détenues.
 
-- « intermédiaire » : une personne telle qu’une entreprise d’investissement au sens de l’article 1 er , point 16, de la loi du 30 mai 2018 relative aux marchés d’instruments financier, un établissement de crédit au sens de l’article 1 er , point 12, de la loi modifiée du 5 avril 1993 relative au secteur financier et un dépositaire central de titres au sens de l’article 2, paragraphe 1 er , point) 1, du règlement (UE) no 909/2014 du Parlement européen et du Conseil, qui fournit des services de garde d’actions, de gestion d’actions ou de tenue de comptes de titres au nom d’actionnaires ou d’autres personnes ;
+- « intermédiaire » : une personne telle qu’une entreprise d’investissement au sens de l’article 1er, point 16, de la loi du 30 mai 2018 relative aux marchés d’instruments financier, un établissement de crédit au sens de l’article 1er, point 12, de la loi modifiée du 5 avril 1993 relative au secteur financier et un dépositaire central de titres au sens de l’article 2, paragraphe 1er, point) 1, du règlement (UE) no 909/2014 du Parlement européen et du Conseil, qui fournit des services de garde d’actions, de gestion d’actions ou de tenue de comptes de titres au nom d’actionnaires ou d’autres personnes ;
 
 - « investisseur institutionnel » :
 
   - une entreprise qui exerce des activités d’assurance vie au sens de l’article 35 de la loi modifiée du 7 décembre 2015 sur le secteur des assurances et de réassurance au sens de l’article 43, point 28, lettres a) et b), de la loi précitée du 7 décembre 2015 pour autant que ces activités couvrent les obligations d’assurance vie, et qui n’est pas exclue en vertu de la loi précitée du 7 décembre 2015 ;
 
-  - une institution de retraite professionnelle au sens de l’article 1 er de la loi modifiée du 13 juillet 2005 concernant les activités et la surveillance des institutions de retraite professionnelle ;
+  - une institution de retraite professionnelle au sens de l’article 1er de la loi modifiée du 13 juillet 2005 concernant les activités et la surveillance des institutions de retraite professionnelle ;
 
-- « marché réglementé » : un marché réglementé au sens de l’article 1 er , point 31, de la loi précitée du 30 mai 2018 relative aux marchés d’instruments financiers, établi ou opérant dans un État Membre de l’Union européenne ;
+- « marché réglementé » : un marché réglementé au sens de l’article 1er, point 31, de la loi précitée du 30 mai 2018 relative aux marchés d’instruments financiers, établi ou opérant dans un État Membre de l’Union européenne ;
 
 - « partie liée » : une partie liée au sens des normes comptables internationales adoptées conformément au règlement (CE) no 1606/2002 du Parlement européen et du Conseil du 19 juillet 2002 sur l’application des normes comptables internationales ;
 
@@ -374,7 +374,7 @@ La convocation visée au paragraphe 1er, contient au moins les éléments d’in
 
 Pendant une période ininterrompue commençant le jour de la publication de la convocation à l’assemblée générale et incluant le jour de l’assemblée générale, la société doit mettre à la disposition de ses actionnaires sur son site Internet au moins les informations suivantes :
 
-- la convocation visée au paragraphe 1 er ;
+- la convocation visée au paragraphe 1er ;
 
 - le nombre total d’actions et de droits de vote à la date de la convocation y compris des totaux distincts pour chaque catégorie d’actions, lorsque le capital de la société est divisé en deux catégories d’actions ou plus ;
 
@@ -546,7 +546,7 @@ S’il y a lieu, le rapport sur la rémunération doit contenir les informations
 
 - des informations sur l’utilisation de la possibilité de demander la restitution d’une rémunération variable ;
 
-- des informations sur tout écart par rapport à la procédure de mise en œuvre de la politique de rémunération visée à l’article 7 bis , paragraphe 6, et sur toute dérogation appliquée conformément à l’article 7 bis , paragraphe 4, y compris l’explication de la nature des circonstances exceptionnelles et l’indication des éléments spécifiques auxquels il est dérogé.
+- des informations sur tout écart par rapport à la procédure de mise en œuvre de la politique de rémunération visée à l’article 7bis, paragraphe 6, et sur toute dérogation appliquée conformément à l’article 7bis, paragraphe 4, y compris l’explication de la nature des circonstances exceptionnelles et l’indication des éléments spécifiques auxquels il est dérogé.
 
 (2)
 
@@ -603,7 +603,7 @@ Les sociétés ne sont pas soumises aux exigences des paragraphes 1er à 3 pour 
 
 - les transactions conclues entre la société et ses filiales, pour autant qu’elles soient détenues en totalité ou qu’aucune autre partie liée de la société ne possède d’intérêt dans la filiale
 
-- les transactions concernant la rémunération des dirigeants, ou certains éléments de la rémunération des dirigeants, octroyée ou due, conformément à l’article 7 bis ;
+- les transactions concernant la rémunération des dirigeants, ou certains éléments de la rémunération des dirigeants, octroyée ou due, conformément à l’article 7bis ;
 
 - les transactions conclues par des établissements de crédit sur la base de mesures visant à préserver leur stabilité, adoptées par la Commission de surveillance du secteur financier ;
 
@@ -706,7 +706,7 @@ Le formulaire de vote à distance doit reprendre au moins les mentions suivantes
 
 - le délai dans lequel le formulaire de vote à distance doit parvenir à la société ;
 
-- la signature de l’actionnaire, le cas échéant, sous la forme d’une signature électronique qui répond aux conditions des articles 1322-1 et 1322-2 du Code civil .
+- la signature de l’actionnaire, le cas échéant, sous la forme d’une signature électronique qui répond aux conditions des articles 1322-1 et 1322-2 du Code civil.
 
 (3)
 
@@ -753,7 +753,7 @@ Accessibilité des informations sur le point d’accès unique européen
 
 Les informations satisfont aux exigences suivantes :
 
-- elles sont communiquées dans un format permettant l’extraction de données au sens de l’article 2, point 3), du règlement (UE) 2023/2859 , ou, lorsque le droit de l’Union européenne l’exige, dans un format lisible par machine au sens de l’article 2, point 4), dudit règlement ;
+- elles sont communiquées dans un format permettant l’extraction de données au sens de l’article 2, point 3), du règlement (UE) 2023/2859, ou, lorsque le droit de l’Union européenne l’exige, dans un format lisible par machine au sens de l’article 2, point 4), dudit règlement ;
 
 - elles sont accompagnées des métadonnées suivantes :
 

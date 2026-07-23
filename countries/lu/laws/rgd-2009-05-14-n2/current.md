@@ -43,7 +43,7 @@ L’organisation scolaire établie par le conseil communal ou le comité du synd
 
 - les horaires hebdomadaires et journaliers des classes;
 
-- la répartition des classes et le relevé des élèves , en tenant compte de l’article 4 ter du règlement grand-ducal modifié du 11 août 2011 fixant le plan d’études pour les quatre cycles de l’enseignement fondamental ;
+- la répartition des classes et le relevé des élèves, en tenant compte de l’article 4ter du règlement grand-ducal modifié du 11 août 2011 fixant le plan d’études pour les quatre cycles de l’enseignement fondamental ;
 
 - les activités dans le cadre de l’horaire scolaire, y compris le soutien aux élèves en difficulté d’apprentissage, les mesures relatives au plan de réussite scolaire et, le cas échéant, les initiatives de projets scolaires et le détail de leurs retombées en matière de leçons d’enseignement;
 

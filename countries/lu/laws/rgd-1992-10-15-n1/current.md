@@ -39,7 +39,7 @@ Pour être électeur ou éligible, l'agent doit :
 
 - avoir acquis l'âge de la majorité civile au jour de l'élection ;
 
-- faire partie du personnel de l'entreprise d'une façon ininterrompue depuis 6 mois au moins à la date à laquelle la liste des électeurs est arrêtée provisoirement conformément à l'article 5 alinéa 1 er ;
+- faire partie du personnel de l'entreprise d'une façon ininterrompue depuis 6 mois au moins à la date à laquelle la liste des électeurs est arrêtée provisoirement conformément à l'article 5 alinéa 1er ;
 
 - ne bénéficier ni d'un congé sans traitement ni d'un congé spécial au sens de la loi du 27 août 1977 concernant le statut des fonctionnaires entrés au service d'institutions internationales.
 

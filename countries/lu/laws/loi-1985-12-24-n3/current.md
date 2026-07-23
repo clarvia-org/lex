@@ -82,9 +82,9 @@ Sont applicables aux fonctionnaires retraités les dispositions suivantes de la 
 
 Dans l’application des dispositions de la présente loi, toute discrimination directe ou indirecte fondée sur la religion ou les convictions, le handicap, l’âge, l’orientation sexuelle, l’appartenance ou non appartenance, vraie ou supposée, à une race ou ethnie est interdite. Il en est de même pour toute discrimination directe ou indirecte fondée sur la nationalité, sans préjudice des dispositions prévues à l’article 2, paragraphe 1er, alinéa 1er, point a) et alinéa 3. Aux fins de l’alinéa 1er, du présent paragraphe,
 
-- une discrimination directe se produit lorsqu’une personne est traitée de manière moins favorable qu’une autre ne l’est, ne l’a été ou ne le serait dans une situation comparable, sur la base de l’un des motifs visés à l’alinéa 1 er ci-dessus;
+- une discrimination directe se produit lorsqu’une personne est traitée de manière moins favorable qu’une autre ne l’est, ne l’a été ou ne le serait dans une situation comparable, sur la base de l’un des motifs visés à l’alinéa 1er ci-dessus;
 
-- une discrimination indirecte se produit lorsqu’une disposition, un critère ou une pratique apparemment neutre est susceptible d’entraîner un désavantage particulier pour des personnes d’une religion ou de convictions, d’un handicap, d’un âge ou d’une orientation sexuelle, de l’appartenance ou la non appartenance, vraie ou supposée, à une race ou ethnie données, par rapport à d’autres personnes, à moins que cette disposition, ce critère ou cette pratique ne soient objectivement justifiés par un objectif légitime et que les moyens de réaliser cet objectif soient appropriés et nécessaires. Le harcèlement tel que défini à l’article 12, paragraphe 3, alinéa 6 de la présente loi est considéré comme une forme de discrimination au sens de l’alinéa 1 er du présent paragraphe. Tout comportement consistant à enjoindre à quiconque de pratiquer une discrimination à l’encontre de personnes pour l’un des motifs visés à l’alinéa 1er est considéré comme discrimination.
+- une discrimination indirecte se produit lorsqu’une disposition, un critère ou une pratique apparemment neutre est susceptible d’entraîner un désavantage particulier pour des personnes d’une religion ou de convictions, d’un handicap, d’un âge ou d’une orientation sexuelle, de l’appartenance ou la non appartenance, vraie ou supposée, à une race ou ethnie données, par rapport à d’autres personnes, à moins que cette disposition, ce critère ou cette pratique ne soient objectivement justifiés par un objectif légitime et que les moyens de réaliser cet objectif soient appropriés et nécessaires. Le harcèlement tel que défini à l’article 12, paragraphe 3, alinéa 6 de la présente loi est considéré comme une forme de discrimination au sens de l’alinéa 1er du présent paragraphe. Tout comportement consistant à enjoindre à quiconque de pratiquer une discrimination à l’encontre de personnes pour l’un des motifs visés à l’alinéa 1er est considéré comme discrimination.
 
 2.
 
@@ -770,7 +770,7 @@ Pour pouvoir bénéficier de la dispense de service, le fonctionnaire doit:
 
 - s’inscrire à un cycle d’études en relation avec ses attributions et missions ou dans d’autres domaines susceptibles de promouvoir son développement professionnel auprès de l’administration publique;
 
-- avoir épuisé le congé individuel de formation prévu à l’article 29, paragraphe 1 er , lettre q).
+- avoir épuisé le congé individuel de formation prévu à l’article 29, paragraphe 1er, lettre q).
 
 Pendant la dispense de service, le fonctionnaire continue de bénéficier intégralement de son traitement. Au cas où il quitte, pour quelque raison que ce soit, son service auprès d’une administration communale, d’un syndicat de communes ou d’un établissement public placé sous la surveillance des communes moins de dix ans après l’octroi de la dispense de service, il doit rembourser le traitement correspondant à la dispense de service qu’il a touché, calculé proportionnellement au temps qui manque pour atteindre dix années.
 
@@ -1994,13 +1994,13 @@ Les sanctions disciplinaires sont:
 
 - Le retard dans la promotion ou l’avancement en traitement pour une durée ne dépassant pas une année. La sanction sort ses effets à partir du moment où le fonctionnaire l’ayant encourue est en rang utile pour une promotion ou un avancement en traitement.
 
-- La rétrogradation . Cette sanction consiste dans le classement du fonctionnaire au grade immédiatement inférieur à son ancien grade avant la rétrogradation ou au grade précédant le grade immédiatement inférieur. Le grade et l’échelon de traitement dans lesquels le fonctionnaire est classé sont fixés par le Conseil de discipline dont la décision doit aboutir au résultat que le traitement nouvellement fixé soit inférieur au traitement d’avant la sanction disciplinaire. À partir de la date d’effet de la décision disciplinaire, les prochains avancements en grade interviennent à chaque fois après trois années, sans préjudice des conditions d’accès au niveau supérieur et au dernier grade.
+- La rétrogradation. Cette sanction consiste dans le classement du fonctionnaire au grade immédiatement inférieur à son ancien grade avant la rétrogradation ou au grade précédant le grade immédiatement inférieur. Le grade et l’échelon de traitement dans lesquels le fonctionnaire est classé sont fixés par le Conseil de discipline dont la décision doit aboutir au résultat que le traitement nouvellement fixé soit inférieur au traitement d’avant la sanction disciplinaire. À partir de la date d’effet de la décision disciplinaire, les prochains avancements en grade interviennent à chaque fois après trois années, sans préjudice des conditions d’accès au niveau supérieur et au dernier grade.
 
 - L’exclusion temporaire des fonctions avec ou sans privation partielle ou totale de la rémunération, pour une période de six mois au maximum. La période de l’exclusion ne compte pas comme temps de service pour les biennales, l’avancement en traitement et la pension.
 
 - La mise à la retraite d’office pour inaptitude professionnelle ou non-respect de la dignité des fonctions telle que définie à l’article 12.
 
-- La révocation . La révocation comporte la perte de l’emploi, du titre et du droit à la pension, sans préjudice aux droits découlant de l’assurance rétroactive prévue en matière de coordination des régimes de pension. Toutefois, la perte du droit à la pension n’est encourue que par le fonctionnaire visé par la loi instituant un régime de pension spécial transitoire pour les fonctionnaires de l’État et des communes, ainsi que pour les agents de la Société nationale des Chemins de Fer luxembourgeois.
+- La révocation. La révocation comporte la perte de l’emploi, du titre et du droit à la pension, sans préjudice aux droits découlant de l’assurance rétroactive prévue en matière de coordination des régimes de pension. Toutefois, la perte du droit à la pension n’est encourue que par le fonctionnaire visé par la loi instituant un régime de pension spécial transitoire pour les fonctionnaires de l’État et des communes, ainsi que pour les agents de la Société nationale des Chemins de Fer luxembourgeois.
 
 <a id="art-59"></a>
 ## Art. 59.

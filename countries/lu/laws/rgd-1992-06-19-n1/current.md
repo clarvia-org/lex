@@ -30,7 +30,7 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 Personnalité, dénomination, siège, tutelle.
 
-- L'établissement public créé par l'article 14, alinéa (2) de la loi du 27 juillet 1991 sur les médias électroniques, appelée ci-après «la loi », jouit de la personnalité juridique et de l'autonomie financière et administrative.
+- L'établissement public créé par l'article 14, alinéa (2) de la loi du 27 juillet 1991 sur les médias électroniques, appelée ci-après «la loi», jouit de la personnalité juridique et de l'autonomie financière et administrative.
 
 - L'établissement est dénommé «établissement de radiodiffusion socioculturelle». Il est autorisé à faire usage à l'égard du public d'autres appellations de son choix ne prêtant pas à confusion avec celles d'autres institutions publiques ou privées.
 
@@ -49,7 +49,7 @@ Objet.
 
   - d'organiser des programmes à finalité socioculturelle, dont il assume la responsabilité.
 
-- A cette fin l'établissement se verra attribuer par le Gouvernement une permission de radiodiffusion, conformément à l'article 13 de la loi , et une autorisation d'émettre, conformément à l'article 4 de la loi .
+- A cette fin l'établissement se verra attribuer par le Gouvernement une permission de radiodiffusion, conformément à l'article 13 de la loi, et une autorisation d'émettre, conformément à l'article 4 de la loi.
 
 - L'établissement peut faire en outre toutes autres prestations se rattachant directement ou indirectement à son objet ou tendant à favoriser la réalisation de celui-ci.
 
@@ -110,7 +110,7 @@ Conseil d'administration.
 
 - Le président représente l'établissement en justice et dans les actes privés et publics.
 
-- Le conseil d'administration est l'organe responsable au sens des articles 14, alinéa (5) et 30, alinéa (1) c) de la loi . Dans ce contexte, la définition des suites à réserver à d'éventuelles notifications adressées à l'établissement en vertu de l'article 35 de la loi et à d'éventuelles sentences arbitrales prononcées par la Commission indépendante de la radiodiffusion tombe dans les attributions du conseil d'administration.
+- Le conseil d'administration est l'organe responsable au sens des articles 14, alinéa (5) et 30, alinéa (1) c) de la loi. Dans ce contexte, la définition des suites à réserver à d'éventuelles notifications adressées à l'établissement en vertu de l'article 35 de la loi et à d'éventuelles sentences arbitrales prononcées par la Commission indépendante de la radiodiffusion tombe dans les attributions du conseil d'administration.
 
 <a id="art-4"></a>
 ## Art. 4.
@@ -141,7 +141,7 @@ Surveillance du contenu des programmes.
 
 - La surveillance du contenu des programmes est assurée par le Ministre ayant dans ses attributions les médias, avec le concours du Conseil national des programmes.
 
-- L'établissement est tenu au respect des sentences arbitrales prononcées par la Commission indépendante de la radiodiffusion en vertu de l'article 14, alinéa (5) de la loi , sous peine de l'application des dispositions de l'article 35 de la loi .
+- L'établissement est tenu au respect des sentences arbitrales prononcées par la Commission indépendante de la radiodiffusion en vertu de l'article 14, alinéa (5) de la loi, sous peine de l'application des dispositions de l'article 35 de la loi.
 
 <a id="art-7"></a>
 ## Art. 7.

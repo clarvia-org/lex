@@ -55,7 +55,7 @@ L’interdiction de l’article 1er n’est pas applicable:
 
 - aux véhicules utilisés pour le service urgent de la gendarmerie, de la police, de l’armée, des douanes, du Corps grand-ducal d’incendie et de secours et des associations et organismes de secours ayant la sécurité civile dans leur objet social ainsi qu’aux véhicules destinés au transport de véhicules tombés en panne ou accidentés;
 
-- aux véhicules circulant sous le couvert d’une autorisation exceptionnelle du ministre ayant la Circulation routière dans ses attributions augmentant la masse maximale réglementaire prévue à l’article 1 er pour des transports destinés notamment à permettre le fonctionnement d’usines à feu continu, à éviter une rupture d’approvisionnement intolérable ou à contribuer à l’exécution de services publics répondant à des besoins collectifs immédiats.
+- aux véhicules circulant sous le couvert d’une autorisation exceptionnelle du ministre ayant la Circulation routière dans ses attributions augmentant la masse maximale réglementaire prévue à l’article 1er pour des transports destinés notamment à permettre le fonctionnement d’usines à feu continu, à éviter une rupture d’approvisionnement intolérable ou à contribuer à l’exécution de services publics répondant à des besoins collectifs immédiats.
 
 L’autorisation ministérielle prévue au dernier tiret doit pouvoir être exhibée sur toute réquisition des agents chargés du contrôle de la circulation routière.
 
@@ -69,11 +69,11 @@ En cas d’urgence, et lorsque l’application des dispositions du présent règ
 
 Par jour férié au sens de l’article 1er on entend:
 
-- le Jour du Nouvel An (1 er janvier);
+- le Jour du Nouvel An (1er janvier);
 
 - le lundi de Pâques;
 
-- La Fête du Travail (1 er mai);
+- La Fête du Travail (1er mai);
 
 - l’Ascension;
 
@@ -81,7 +81,7 @@ Par jour férié au sens de l’article 1er on entend:
 
 - l’Assomption (15 août);
 
-- la Toussaint (1 er novembre);
+- la Toussaint (1er novembre);
 
 - Noël (25 décembre).
 

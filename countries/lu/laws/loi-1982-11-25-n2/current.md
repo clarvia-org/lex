@@ -221,11 +221,11 @@ Le personnel de santé intervenant dans la chaîne qui va du don à la transplan
 
 Pour les échanges d’organes avec un autre Etat membre de l’Union européenne, un règlement grand-ducal établit:
 
-- des procédures pour la transmission des informations relatives à la caractérisation des organes et des donneurs en conformité avec l’article 15 bis ;
+- des procédures pour la transmission des informations relatives à la caractérisation des organes et des donneurs en conformité avec l’article 15bis;
 
 - des procédures pour la transmission des informations nécessaires en vue d’assurer la traçabilité des organes, en conformité avec l’article 15, alinéa 2;
 
-- des procédures permettant d’assurer la notification de tout incident ou réaction indésirable grave, en conformité avec l’article 15 ter .
+- des procédures permettant d’assurer la notification de tout incident ou réaction indésirable grave, en conformité avec l’article 15ter.
 
 <a id="art-16"></a>
 ## Art. 16.

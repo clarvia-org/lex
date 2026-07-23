@@ -66,9 +66,9 @@ Pour le calcul de la subvention, le ou les prêts sont pris en considération ju
 
 La subvention est attribuée et calculée annuellement par la prise en considération des facteurs suivants:
 
-- du solde du prêt au 1 er janvier de l'année de référence
+- du solde du prêt au 1er janvier de l'année de référence
 
-- du taux annuel effectif accordé au demandeur au 1 er janvier de l'année de référence
+- du taux annuel effectif accordé au demandeur au 1er janvier de l'année de référence
 
 - du taux de référence
 

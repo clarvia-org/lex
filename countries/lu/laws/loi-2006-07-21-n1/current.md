@@ -35,22 +35,22 @@ Le Gouvernement est autorisé à organiser des classes internationales préparan
 
 Les classes internationales sont:
 
-- la classe de 10 e qui suit le programme de la classe de 4 e année du premier cycle secondaire du baccalauréat international;
+- la classe de 10e qui suit le programme de la classe de 4e année du premier cycle secondaire du baccalauréat international;
 
-- la classe de 11 e qui suit le programme de la classe de 5 e année du premier cycle secondaire du baccalauréat international;
+- la classe de 11e qui suit le programme de la classe de 5e année du premier cycle secondaire du baccalauréat international;
 
-- la classe de 12 e correspondant à la 1 re année du programme du baccalauréat international;
+- la classe de 12e correspondant à la 1re année du programme du baccalauréat international;
 
-- la classe de 13 e correspondant à la 2 e année du programme du baccalauréat international.
+- la classe de 13e correspondant à la 2e année du programme du baccalauréat international.
 
 <a id="art-3"></a>
 ## Art. 3.
 
 Les matières enseignées, désignées d'après la terminologie du baccalauréat international, sont les suivantes:
 
-- dans les classes de 10 e et de 11 e : la langue française, la langue anglaise, les sciences humaines, les sciences expérimentales, les mathématiques, les arts, la technologie, l'éducation sportive;
+- dans les classes de 10e et de 11e: la langue française, la langue anglaise, les sciences humaines, les sciences expérimentales, les mathématiques, les arts, la technologie, l'éducation sportive;
 
-- dans les classes de 12 e et de 13 e : la langue française, la langue anglaise, la matière «individus et sociétés», les sciences expérimentales, les mathématiques, la matière «arts et options» et l'éducation sportive. Dans les classes de 12e et 13e les élèves doivent suivre un cours de théorie de la Connaissance, ainsi qu'un programme d'activités «créativité, action, service» et réaliser un mémoire. Les élèves admissibles à l'examen doivent se prévaloir de compétences équivalant au niveau A2 déterminé par le Cadre commun de référence pour les langues établi par le Conseil de l'Europe dans une troisième langue autre que la langue française ou la langue anglaise . Un règlement grand-ducal détermine:
+- dans les classes de 12e et de 13e: la langue française, la langue anglaise, la matière «individus et sociétés», les sciences expérimentales, les mathématiques, la matière «arts et options» et l'éducation sportive. Dans les classes de 12e et 13e les élèves doivent suivre un cours de théorie de la Connaissance, ainsi qu'un programme d'activités «créativité, action, service» et réaliser un mémoire. Les élèves admissibles à l'examen doivent se prévaloir de compétences équivalant au niveau A2 déterminé par le Cadre commun de référence pour les langues établi par le Conseil de l'Europe dans une troisième langue autre que la langue française ou la langue anglaise . Un règlement grand-ducal détermine:
 
   - les niveaux des cours offerts dans les langues,
 

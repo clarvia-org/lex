@@ -43,7 +43,7 @@ Est visé un logement durable qui remplit simultanément les conditions suivante
 
 - Il atteint, dans chacune des trois catégories de critères de durabilité «Ecologie», «Bâtiment et installations techniques» et «Fonctionnalité», au moins 60 pour cent du nombre maximal de points effectivement réalisables par le logement faisant l’objet de la demande d’aide financière, pour la sélection de critères de durabilité repris à l’annexe II et définis par le règlement grand-ducal du 23 décembre 2016 relatif à la certification de la durabilité des logements.
 
-- Il atteint 24 points pour le critère de durabilité 4.1.1 «Évaluation environnementale des matériaux de construction – indicateur environnemental I env » de la catégorie «Ecologie». Toutefois, pour les bâtiments comportant au moins trois étages au-delà du rez-de-chaussée, le nombre de points à atteindre pour le critère de durabilité 4.1.1 est réduit à 21.
+- Il atteint 24 points pour le critère de durabilité 4.1.1 «Évaluation environnementale des matériaux de construction – indicateur environnemental Ienv» de la catégorie «Ecologie». Toutefois, pour les bâtiments comportant au moins trois étages au-delà du rez-de-chaussée, le nombre de points à atteindre pour le critère de durabilité 4.1.1 est réduit à 21.
 
 - Il atteint 10 points pour le critère de durabilité 5.8.1 «Montage et capacité de démontage» de la catégorie «Bâtiment et installations techniques». Toutefois:
 
@@ -51,7 +51,7 @@ Est visé un logement durable qui remplit simultanément les conditions suivante
 
   - le nombre de points est ramené à 8 dans le cas d’un nouveau logement durable pour lequel l’autorisation de bâtir est demandée en 2018;
 
-  - l´aide financière visée au paragraphe 2 est diminuée de 20 pour cent pour les nouveaux logements durables pour lesquels l’autorisation de bâtir est demandée à partir du 1 er janvier 2019 et qui atteignent seulement 8 points.
+  - l´aide financière visée au paragraphe 2 est diminuée de 20 pour cent pour les nouveaux logements durables pour lesquels l’autorisation de bâtir est demandée à partir du 1er janvier 2019 et qui atteignent seulement 8 points.
 
 (2)
 
@@ -136,7 +136,7 @@ Les mesures d’assainissement visées au paragraphe 3 peuvent être réalisées
 
 Pour les murs extérieurs, isolés du côté extérieur ou du côté intérieur avec des isolants thermiques qui remplissent simultanément les conditions suivantes:
 
-- Ils présentent un indicateur écologique I eco12 dont la valeur est inférieure ou égale à 23,7 UI6/m², et
+- Ils présentent un indicateur écologique Ieco12 dont la valeur est inférieure ou égale à 23,7 UI6/m², et
 
 - Ils sont intégralement de nature minérale, y compris l’enduit,
 
@@ -146,7 +146,7 @@ les aides reprises dans le tableau au paragraphe 3, le cas échéant augmentées
 
 Pour les éléments assainis avec des isolants thermiques qui remplissent simultanément les conditions suivantes:
 
-- Ils présentent un indicateur écologique I eco12 dont la valeur est inférieure ou égale à 23,7 UI6/m²,
+- Ils présentent un indicateur écologique Ieco12 dont la valeur est inférieure ou égale à 23,7 UI6/m²,
 
 - Ils sont constitués exclusivement de matériaux renouvelables, et
 
@@ -461,15 +461,15 @@ Modalités d’éligibilité
 
 Sont éligibles les investissements et services pour lesquels la facture est établie entre:
 
-- le 1 er janvier 2017 et le 31 décembre 2024 inclus dans le cas d’un nouveau logement durable visé à l’article 1 er et pour lequel l’autorisation de bâtir est demandée entre le 1 er janvier 2017 et le 31 décembre 2021 inclus .
+- le 1er janvier 2017 et le 31 décembre 2024 inclus dans le cas d’un nouveau logement durable visé à l’article 1er et pour lequel l’autorisation de bâtir est demandée entre le 1er janvier 2017 et le 31 décembre 2021 inclus .
 
-- le 1 er janvier 2017 et le 31 décembre 2024 inclus dans le cas d’un assainissement énergétique d’un bâtiment utilisé à des fins d’habitation après les travaux d’assainissement énergétique ou d’une partie d’un bâtiment utilisée à des fins d’habitation après les travaux d’assainissement énergétique, sous condition que:
+- le 1er janvier 2017 et le 31 décembre 2024 inclus dans le cas d’un assainissement énergétique d’un bâtiment utilisé à des fins d’habitation après les travaux d’assainissement énergétique ou d’une partie d’un bâtiment utilisée à des fins d’habitation après les travaux d’assainissement énergétique, sous condition que:
 
-  - l’assainissement soit réalisé sur base d’un conseil en énergie conforme au présent règlement dont la facture a été établie entre le 1 er janvier 2017 et le 31 décembre 2021 inclus , et que
+  - l’assainissement soit réalisé sur base d’un conseil en énergie conforme au présent règlement dont la facture a été établie entre le 1er janvier 2017 et le 31 décembre 2021 inclus , et que
 
   - l’investissement concerné, à savoir l’élément de construction de l’enveloppe thermique ou la ventilation mécanique contrôlée, ne bénéficie pas d’une aide financière sous le règlement grand-ducal modifié du 12 décembre 2012 instituant un régime d’aides pour la promotion de l’utilisation rationnelle de l’énergie et la mise en valeur des énergies renouvelables dans le domaine du logement.
 
-- le 1 er janvier 2017 et le 31 décembre 2021 inclus dans le cas des installations techniques visées aux articles 3 à 7 ainsi que du conseil en énergie visé à l’article 8, sous condition que l’installation technique concernée ne bénéficie pas d’une aide financière sous le règlement grand-ducal modifié du 12 décembre 2012 instituant un régime d’aides pour la promotion de l’utilisation rationnelle de l’énergie et la mise en valeur des énergies renouvelables dans le domaine du logement. Mis à part pour les installations photovoltaïques, ce délai est prolongé jusqu’au 31 décembre 2024 inclus sous condition que les investissements et services en question soient réalisés conjointement soit avec la construction d’une nouveau logement durable visé au point 1 soit avec l’assainissement énergétique d’un bâtiment existant visé au point 2.
+- le 1er janvier 2017 et le 31 décembre 2021 inclus dans le cas des installations techniques visées aux articles 3 à 7 ainsi que du conseil en énergie visé à l’article 8, sous condition que l’installation technique concernée ne bénéficie pas d’une aide financière sous le règlement grand-ducal modifié du 12 décembre 2012 instituant un régime d’aides pour la promotion de l’utilisation rationnelle de l’énergie et la mise en valeur des énergies renouvelables dans le domaine du logement. Mis à part pour les installations photovoltaïques, ce délai est prolongé jusqu’au 31 décembre 2024 inclus sous condition que les investissements et services en question soient réalisés conjointement soit avec la construction d’une nouveau logement durable visé au point 1 soit avec l’assainissement énergétique d’un bâtiment existant visé au point 2.
 
 Sont également éligibles les investissements et services pour lesquels :
 

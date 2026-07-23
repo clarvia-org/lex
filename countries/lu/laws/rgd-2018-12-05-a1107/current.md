@@ -147,7 +147,7 @@ Le service anti-fraude est chargé :
 
 - du traitement des demandes d'assistance transmises au service anti-fraude sur le fondement des dispositions communautaires et des conventions internationales ;
 
-- de la participation aux activités prévues par les programmes d'action nationaux, communautaires et internationaux en matière de TVA .
+- de la participation aux activités prévues par les programmes d'action nationaux, communautaires et internationaux en matière de TVA.
 
 - de la surveillance et des contrôles dans le cadre de la lutte contre le blanchiment et contre le financement du terrorisme.
 

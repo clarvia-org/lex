@@ -190,7 +190,7 @@ Pour l’accomplissement des missions visées aux articles 4, 8 et 9, l’inspec
 
 - le fichier des sociétés du Registre de commerce et des sociétés ;
 
-- le fichier relatif aux affiliations des salariés, des indépendants et des employeurs géré par le Centre commun de la sécurité sociale sur base de l’article 413 du Code de la sécurité sociale , à l’exclusion de toutes données relatives à la santé ;
+- le fichier relatif aux affiliations des salariés, des indépendants et des employeurs géré par le Centre commun de la sécurité sociale sur base de l’article 413 du Code de la sécurité sociale, à l’exclusion de toutes données relatives à la santé ;
 
 - le fichier des étrangers exploité pour le compte du service des étrangers du ministre ayant l’Immigration dans ses attributions ;
 
@@ -345,7 +345,7 @@ Il est institué auprès du ministre une commission de contrôle du cadre polici
 
 - émettre son avis sur le respect de la procédure de demande de changement de groupe de traitement introduite en vertu du paragraphe 4 ou de la procédure de demande de changement de groupe temporaire introduite en vertu de l’article 30 ;
 
-- veiller à ce que les limites et conditions prévues par le présent article et plus particulièrement par les paragraphes 2 et 3 soient respectées pour toute demande introduite en vertu du présent article et veiller à ce que les limites et conditions d’éligibilité fixées par l’article 30, paragraphes 1 er , 2 et 3 soient respectées pour toute demande introduite en vertu de cet article ;
+- veiller à ce que les limites et conditions prévues par le présent article et plus particulièrement par les paragraphes 2 et 3 soient respectées pour toute demande introduite en vertu du présent article et veiller à ce que les limites et conditions d’éligibilité fixées par l’article 30, paragraphes 1er, 2 et 3 soient respectées pour toute demande introduite en vertu de cet article ;
 
 - évaluer les compétences du candidat par rapport aux missions et exigences du poste brigué ;
 
@@ -456,9 +456,13 @@ Au livre Ier, article 32, du Code de la sécurité sociale, le 3e tiret prend la
 
 La loi modifiée du 25 mars 2015 instituant un régime de pension spécial transitoire pour les fonctionnaires de l’État et des communes ainsi que pour les agents de la Société nationale des Chemins de Fer luxembourgeois est modifiée comme suit :
 
-- L’intitulé de la section 10 du titre II, chapitre 1 er , prend la teneur suivante : Section 10 Régime spécial des militaires de carrière de l’Armée, des membres du cadre policier de la Police et des fonctionnaires de l’Inspection générale de la Police issus du cadre policier de la Police.
+- L’intitulé de la section 10 du titre II, chapitre 1er, prend la teneur suivante :
 
-- À l’article 63, l’alinéa 1 er prend la teneur suivante : Sous réserve des dérogations qui suivent, toutes les dispositions du Titre I sont applicables aux militaires de carrière de l’Armée, aux membres du cadre policier de la Police et aux membres du cadre policier de l’Inspection générale de la Police.
+##### Section 10 Régime spécial des militaires de carrière de l’Armée, des membres du cadre policier de la Police et des fonctionnaires de l’Inspection générale de la Police issus du cadre policier de la Police.
+
+- À l’article 63, l’alinéa 1er prend la teneur suivante :
+
+Sous réserve des dérogations qui suivent, toutes les dispositions du Titre I sont applicables aux militaires de carrière de l’Armée, aux membres du cadre policier de la Police et aux membres du cadre policier de l’Inspection générale de la Police.
 
 <a id="art-28"></a>
 ## Art. 28.

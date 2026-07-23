@@ -49,15 +49,15 @@ Pour l’application de la présente loi, on entend par :
 
 - « syntaxe » : le langage ou le dialecte lisible par une machine qui est utilisé pour représenter les éléments de données contenus dans une facture électronique ;
 
-- « pouvoirs adjudicateurs » : les pouvoirs adjudicateurs au sens de l’article 3, point 21, de la loi du 26 décembre 2012 sur les marchés publics de la défense et de la sécurité, au sens de l’article 6, point 1, de la loi du 3 juillet 2018 sur l’attribution de contrats de concession et portant modification du Code pénal , du Code du travail et de la loi modifiée du 10 novembre 2010 instituant les recours en matière de marchés publics et au sens de l’article 2, lettre a, de la loi modifiée du 8 avril 2018 sur les marchés publics ;
+- « pouvoirs adjudicateurs » : les pouvoirs adjudicateurs au sens de l’article 3, point 21, de la loi du 26 décembre 2012 sur les marchés publics de la défense et de la sécurité, au sens de l’article 6, point 1, de la loi du 3 juillet 2018 sur l’attribution de contrats de concession et portant modification du Code pénal, du Code du travail et de la loi modifiée du 10 novembre 2010 instituant les recours en matière de marchés publics et au sens de l’article 2, lettre a, de la loi modifiée du 8 avril 2018 sur les marchés publics ;
 
 - « pouvoirs adjudicateurs sous-centraux » : les pouvoirs adjudicateurs au sens de l’article 2, lettre c, de la loi modifiée du 8 avril 2018 sur les marchés publics ;
 
 - « centrale d’achat » : une centrale d’achat au sens de l’article 4, lettre g, de la loi modifiée du 8 avril 2018 sur les marchés publics ;
 
-- « entités adjudicatrices » : les entités adjudicatrices au sens de de l’article 3, point 21, de la loi du 26 décembre 2012 sur les marchés publics de la défense et de la sécurité, au sens de l’article 7 de la loi du 3 juillet 2018 sur l’attribution de contrats de concession et portant modification du Code pénal , du Code du travail et de la loi modifiée du 10 novembre 2010 instituant les recours en matière de marchés publics et au sens de l’article 87 de la loi modifiée du 8 avril 2018 sur les marchés publics ;
+- « entités adjudicatrices » : les entités adjudicatrices au sens de de l’article 3, point 21, de la loi du 26 décembre 2012 sur les marchés publics de la défense et de la sécurité, au sens de l’article 7 de la loi du 3 juillet 2018 sur l’attribution de contrats de concession et portant modification du Code pénal, du Code du travail et de la loi modifiée du 10 novembre 2010 instituant les recours en matière de marchés publics et au sens de l’article 87 de la loi modifiée du 8 avril 2018 sur les marchés publics ;
 
-- « norme européenne » : une norme européenne au sens de l’article 2, point 1) b), du règlement (UE) n° 1025/2012 du Parlement européen et du Conseil du 25 octobre 2012 relatif à la normalisation européenne, modifiant les directives 89/686/CEE et 93/15/CEE du Conseil ainsi que les directives 94/9/CE , 94/25/CE , 95/16/CE , 97/23/CE , 98/34/CE , 2004/22/CE , 2007/23/CE , 2009/23/CE et 2009/105/CE du Parlement européen et du Conseil et abrogeant la décision 87/95/CEE du Conseil et la décision n° 1673/2006/CE du Parlement européen et du Conseil ;
+- « norme européenne » : une norme européenne au sens de l’article 2, point 1) b), du règlement (UE) n° 1025/2012 du Parlement européen et du Conseil du 25 octobre 2012 relatif à la normalisation européenne, modifiant les directives 89/686/CEE et 93/15/CEE du Conseil ainsi que les directives 94/9/CE, 94/25/CE, 95/16/CE, 97/23/CE, 98/34/CE, 2004/22/CE, 2007/23/CE, 2009/23/CE et 2009/105/CE du Parlement européen et du Conseil et abrogeant la décision 87/95/CEE du Conseil et la décision n° 1673/2006/CE du Parlement européen et du Conseil ;
 
 - « opérateurs économiques » : les opérateurs économiques au sens de l’article 3, point 20, de la loi du 26 décembre 2012 sur les marchés publics de la défense et de la sécurité, au sens de l’article 5, point 2, de la loi du 3 juillet 2018 sur l’attribution de contrats de concession et au sens de l’article 3, paragraphe 2, lettre i, de la loi modifiée du 8 avril 2018 sur les marchés publics ;
 
@@ -181,7 +181,7 @@ L’article 4bis s’applique cinq mois après l’entrée en vigueur de la loi 
 
 Par dérogation à l’alinéa 1er, les opérateurs économiques :
 
-- appliquent l’obligation énoncée à l’article 4 bis , dix mois après l’entrée en vigueur de la loi du 13 décembre 2021 modifiant la loi du 16 mai 2019 relative à la facturation électronique dans le cadre des marchés publics et des contrats de concession au plus tard, à la condition de ne pas dépasser à la date de clôture du bilan de l’année 2019, les limites chiffrées d’au moins deux des trois critères suivants :
+- appliquent l’obligation énoncée à l’article 4bis, dix mois après l’entrée en vigueur de la loi du 13 décembre 2021 modifiant la loi du 16 mai 2019 relative à la facturation électronique dans le cadre des marchés publics et des contrats de concession au plus tard, à la condition de ne pas dépasser à la date de clôture du bilan de l’année 2019, les limites chiffrées d’au moins deux des trois critères suivants :
 
   - total du bilan : 20 millions d’euros ;
 
@@ -189,7 +189,7 @@ Par dérogation à l’alinéa 1er, les opérateurs économiques :
 
   - nombre des membres du personnel employé à plein temps et en moyenne au cours de l’exercice : 250.
 
-- appliquent l’obligation énoncée à l’article 4 bis , quinze mois après l’entrée en vigueur de de la loi du 13 décembre 2021 modifiant la loi du 16 mai 2019 relative à la facturation électronique dans le cadre des marchés publics et des contrats de concession au plus tard, à la condition de ne pas dépasser à la date de clôture du bilan de l’année 2019, les limites chiffrées d’au moins deux des trois critères suivants :
+- appliquent l’obligation énoncée à l’article 4bis, quinze mois après l’entrée en vigueur de de la loi du 13 décembre 2021 modifiant la loi du 16 mai 2019 relative à la facturation électronique dans le cadre des marchés publics et des contrats de concession au plus tard, à la condition de ne pas dépasser à la date de clôture du bilan de l’année 2019, les limites chiffrées d’au moins deux des trois critères suivants :
 
   - total du bilan : 4,4 millions d’euros ;
 
@@ -197,4 +197,4 @@ Par dérogation à l’alinéa 1er, les opérateurs économiques :
 
   - nombre des membres du personnel employé à plein temps et en moyenne au cours de l’exercice : 50.
 
-- appliquent l’obligation énoncée à l’article 4 bis , quinze mois après l’entrée en vigueur de la loi du 13 décembre 2021 modifiant la loi du 16 mai 2019 relative à la facturation électronique dans le cadre des marchés publics et des contrats de concession au plus tard s’il leur est matériellement impossible de fournir, pour l’année 2019, les limites chiffrées d’au moins un des trois critères visés respectivement au point 1°, lettres a) à c) et au point 2°, lettres a) à c).
+- appliquent l’obligation énoncée à l’article 4bis, quinze mois après l’entrée en vigueur de la loi du 13 décembre 2021 modifiant la loi du 16 mai 2019 relative à la facturation électronique dans le cadre des marchés publics et des contrats de concession au plus tard s’il leur est matériellement impossible de fournir, pour l’année 2019, les limites chiffrées d’au moins un des trois critères visés respectivement au point 1°, lettres a) à c) et au point 2°, lettres a) à c).

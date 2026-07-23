@@ -62,7 +62,7 @@ Le ministre ayant l’Agriculture dans ses attributions ; ci-après « ministre 
 
 - du règlement (CE) n° 854/2004 du Parlement européen et du Conseil du 29 avril 2004 fixant les règles spécifiques d’organisation des contrôles officiels concernant les produits d’origine animale destinés à la consommation humaine ci-après désigné par « règlement (CE) n° 854/2004 » ;
 
-- du règlement (UE) 2017/625 du Parlement européen et du Conseil du 15 mars 2017 concernant les contrôles officiels et les autres activités officielles servant à assurer le respect de la législation alimentaire et de la législation relative aux aliments pour animaux ainsi que des règles relatives à la santé et au bien-être des animaux, à la santé des végétaux et aux produits phytopharmaceutiques, modifiant les règlements du Parlement européen et du Conseil (CE) n° 999/2001 , (CE) n° 396/2005 , (CE) n° 1069/2009 , (CE) n° 1107/2009 , (UE) n° 1151/2012 , (UE) n° 652/2014 , (UE) 2016/429 et (UE) 2016/2031 , les règlements du Conseil (CE) n° 1/2005 et (CE) n° 1099/2009 ainsi que les directives du Conseil 98/58/CE , 1999/74/CE , 2007/43/CE , 2008/119/CE et 2008/120/CE , et abrogeant les règlements du Parlement européen et du Conseil (CE) n° 854/2004 et (CE) n° 882/2004 , les directives du Conseil 89/608/CEE , 89/662/CEE , 90/425/CEE , 91/496/CEE , 96/23/CE , 96/93/CE et 97/78/CE ainsi que la décision 92/438/CEE du Conseil (règlement sur les contrôles officiels), ci-après désigné par « règlement (UE) 2017/625 » ;
+- du règlement (UE) 2017/625 du Parlement européen et du Conseil du 15 mars 2017 concernant les contrôles officiels et les autres activités officielles servant à assurer le respect de la législation alimentaire et de la législation relative aux aliments pour animaux ainsi que des règles relatives à la santé et au bien-être des animaux, à la santé des végétaux et aux produits phytopharmaceutiques, modifiant les règlements du Parlement européen et du Conseil (CE) n° 999/2001, (CE) n° 396/2005, (CE) n° 1069/2009, (CE) n° 1107/2009, (UE) n° 1151/2012, (UE) n° 652/2014, (UE) 2016/429 et (UE) 2016/2031, les règlements du Conseil (CE) n° 1/2005 et (CE) n° 1099/2009 ainsi que les directives du Conseil 98/58/CE, 1999/74/CE, 2007/43/CE, 2008/119/CE et 2008/120/CE, et abrogeant les règlements du Parlement européen et du Conseil (CE) n° 854/2004 et (CE) n° 882/2004, les directives du Conseil 89/608/CEE, 89/662/CEE, 90/425/CEE, 91/496/CEE, 96/23/CE, 96/93/CE et 97/78/CE ainsi que la décision 92/438/CEE du Conseil (règlement sur les contrôles officiels), ci-après désigné par « règlement (UE) 2017/625 » ;
 
 - du règlement CEE n° 315/93 du 8 février 1993 portant établissement des procédures communautaires relatives aux contaminants dans les denrées alimentaires ci-après désigné par « règlement (CE) n° 315/93 » ;
 
@@ -76,13 +76,13 @@ Le ministre ayant l’Agriculture dans ses attributions ; ci-après « ministre 
 
 - du règlement (CE) n° 1334/2008 du Parlement européen et du Conseil du 16 décembre 2008 relatif aux arômes et à certains ingrédients alimentaires possédant des propriétés aromatisantes qui sont destinés à être utilisés dans et sur les denrées alimentaires et modifiant le règlement (CEE) n° 1601/91 du Conseil, les règlements (CE) n° 2232/96 et (CE) n° 110/2008 et la directive 2000/13/CE ci-après désigné par « règlement (CE) n° 1334/2008 » ;
 
-- du règlement (CE) n° 1332/2008 du Parlement européen et du Conseil du 16 décembre 2008 concernant les enzymes alimentaires et modifiant la directive 83/417/CEE du Conseil, le règlement (CE) n° 1493/1999 du Conseil, la directive 2000/13/CE , la directive 2001/112/CE du Conseil et le règlement (CE) n° 258/97 ci-après désigné par « règlement (CE) n° 1332/2008 » ;
+- du règlement (CE) n° 1332/2008 du Parlement européen et du Conseil du 16 décembre 2008 concernant les enzymes alimentaires et modifiant la directive 83/417/CEE du Conseil, le règlement (CE) n° 1493/1999 du Conseil, la directive 2000/13/CE, la directive 2001/112/CE du Conseil et le règlement (CE) n° 258/97 ci-après désigné par « règlement (CE) n° 1332/2008 » ;
 
 - du règlement (CE) n° 1331/2008 du Parlement européen et du Conseil du 16 décembre 2008 établissant une procédure d’autorisation uniforme pour les additifs, enzymes et arômes alimentaires ci-après désigné par « règlement (CE) n° 1331/2008 » ;
 
 - du règlement (UE) 2015/2283 du Parlement européen et du Conseil du 25 novembre 2015 relatif aux nouveaux aliments, modifiant le règlement (UE) n° 1169/2011 du Parlement européen et du Conseil et abrogeant le règlement (CE) n° 258/97 du Parlement européen et du Conseil et le règlement (CE) n° 1852/2001 de la Commission, ci-après désigné par « règlement (UE) 2015/2283 » ;
 
-- du règlement (UE) n° 609/2013 du Parlement européen et du Conseil du 12 juin 2013 concernant les denrées alimentaires destinées aux nourrissons et aux enfants en bas âge, les denrées alimentaires destinées à des fins médicales spéciales et les substituts de la ration journalière totale pour contrôle du poids et abrogeant la directive 92/52/CEE du Conseil, les directives 96/8/CE , 1999/21/CE , 2006/125/CE et 2006/141/CE de la Commission, la directive 2009/39/CE du Parlement européen et du Conseil et les règlements (CE) n° 41/2009 et (CE) n° 953/2009 de la Commission ci-après désigné par « règlement (CE) n° 609/2013 » ;
+- du règlement (UE) n° 609/2013 du Parlement européen et du Conseil du 12 juin 2013 concernant les denrées alimentaires destinées aux nourrissons et aux enfants en bas âge, les denrées alimentaires destinées à des fins médicales spéciales et les substituts de la ration journalière totale pour contrôle du poids et abrogeant la directive 92/52/CEE du Conseil, les directives 96/8/CE, 1999/21/CE, 2006/125/CE et 2006/141/CE de la Commission, la directive 2009/39/CE du Parlement européen et du Conseil et les règlements (CE) n° 41/2009 et (CE) n° 953/2009 de la Commission ci-après désigné par « règlement (CE) n° 609/2013 » ;
 
 - du règlement (CE) n° 1925/2006 du Parlement européen et du Conseil du 20 décembre 2006 concernant l'adjonction de vitamines, de minéraux et de certaines autres substances aux denrées alimentaires ci-après désigné par « règlement (CE) n° 1925/2006 » ;
 
@@ -387,9 +387,9 @@ Taxes
 
 Afin de couvrir les coûts des contrôles officiels des denrées alimentaires et des matériaux et objets destinés à entrer en contact avec les denrées alimentaires effectués par les agents visés à l’article 11 dans le cadre de l’exécution des missions visées par les règlements européens mentionnés à l’article 2, les exploitants du secteur alimentaire sont redevables :
 
-- des taxes pour les contrôles officiels visés à article 79, paragraphe 1 er , du règlement (UE) 2017/625 appliquées conformément aux montants indiqués à l’annexe IV du règlement précité ;
+- des taxes pour les contrôles officiels visés à article 79, paragraphe 1er, du règlement (UE) 2017/625 appliquées conformément aux montants indiqués à l’annexe IV du règlement précité ;
 
-- des taxes pour les contrôles officiels visés à article 79, paragraphe 2, lettres a) et c), du règlement (UE) 2017/625 .
+- des taxes pour les contrôles officiels visés à article 79, paragraphe 2, lettres a) et c), du règlement (UE) 2017/625.
 
 (2)
 
@@ -416,13 +416,13 @@ Sera puni d’une amende de 150 à 2.000 euros, l’exploitant du secteur alimen
 
 - des articles 16 et 19, paragraphe 2 du règlement (CE) n° 178/2002 ;
 
-- de l’article 5, alinéa 1 er du règlement (CE) n° 2065/2003 ;
+- de l’article 5, alinéa 1er du règlement (CE) n° 2065/2003 ;
 
-- des articles 3, 4, paragraphes 1 er , 2, 3, points a), c) à e), et 4 ; 5, paragraphes 1 er , 4, points b) et c), 6, paragraphes 1 er , 2 et 3 du règlement (CE) n° 852/2004 ;
+- des articles 3, 4, paragraphes 1er, 2, 3, points a), c) à e), et 4 ; 5, paragraphes 1er, 4, points b) et c), 6, paragraphes 1er, 2 et 3 du règlement (CE) n° 852/2004 ;
 
-- des articles 3, paragraphes 1 er et 2, 4, paragraphes 1 er , point b), 2 et 3 ; 5, paragraphes 1 er et 3 ; 6, 7 du règlement (CE) n° 853/2004 ;
+- des articles 3, paragraphes 1er et 2, 4, paragraphes 1er, point b), 2 et 3 ; 5, paragraphes 1er et 3 ; 6, 7 du règlement (CE) n° 853/2004 ;
 
-- de l’article 4, paragraphe 1 er , du règlement (CE) n° 854/2004 ;
+- de l’article 4, paragraphe 1er, du règlement (CE) n° 854/2004 ;
 
 - de l’article 15, paragraphes 1 et 2 du règlement (UE) 2017/625
 
@@ -432,27 +432,27 @@ Sera puni d’une amende de 150 à 2.000 euros, l’exploitant du secteur alimen
 
 - des articles 11 et 12 du règlement (CE) n° 1332/2008 ;
 
-- des articles 12, 22, 23, paragraphes 1 er à 4, et 24 du règlement (CE) n° 1333/2008 ;
+- des articles 12, 22, 23, paragraphes 1er à 4, et 24 du règlement (CE) n° 1333/2008 ;
 
-- des articles 4, point b), 14, paragraphe 1 er , 15, paragraphes 1 er à 3, 16, paragraphes 2 à 6, et 17, paragraphes 1 er et 2 du règlement (CE) n° 1334/2008 ;
+- des articles 4, point b), 14, paragraphe 1er, 15, paragraphes 1er à 3, 16, paragraphes 2 à 6, et 17, paragraphes 1er et 2 du règlement (CE) n° 1334/2008 ;
 
-- des articles 6, 7, paragraphes 1 er , 2 et 4, 8, paragraphes 6 à 8, 9, paragraphes 1 er , point a) à e), et h) à k), 2 à 4, 10, paragraphe 1 er , 12 à 14, 15, paragraphe 1 er , 36 à 38, 39, paragraphe 1 er , 40 à 43, et 44, paragraphe 1 er du règlement (CE) n° 1169/2011 ;
+- des articles 6, 7, paragraphes 1er, 2 et 4, 8, paragraphes 6 à 8, 9, paragraphes 1er, point a) à e), et h) à k), 2 à 4, 10, paragraphe 1er, 12 à 14, 15, paragraphe 1er, 36 à 38, 39, paragraphe 1er, 40 à 43, et 44, paragraphe 1er du règlement (CE) n° 1169/2011 ;
 
-- de l’article 10 du règlement (UE) n° 609/2013 .
+- de l’article 10 du règlement (UE) n° 609/2013.
 
-- des articles 13, paragraphes 1 er , 2 et 5, 15 et 15 bis , alinéas 1 er et 2, du règlement (UE) n° 1760/2000 .
+- des articles 13, paragraphes 1er, 2 et 5, 15 et 15bis, alinéas 1er et 2, du règlement (UE) n° 1760/2000.
 
 (2)
 
 Sera puni d’un emprisonnement de huit jours à six mois et d’une amende de 2.001 à 50.000 euros ou d’une de ces peines seulement, l’exploitant du secteur alimentaire qui agit en violation
 
-- de l’article 2, paragraphes 1 er et 3 du règlement (CE ) n° 315/93 ;
+- de l’article 2, paragraphes 1er et 3 du règlement (CE ) n° 315/93 ;
 
 - des articles 3 et 4 du règlement (CE) n° 258/97 ;
 
-- des articles 11, 12, 14, paragraphe 1 er , 17, paragraphe 1 er , 18, paragraphes 2 et 3, 19, paragraphes 1 er , 3, 4 ; 53 et 54 du règlement (CE) n° 178/2002 ;
+- des articles 11, 12, 14, paragraphe 1er, 17, paragraphe 1er, 18, paragraphes 2 et 3, 19, paragraphes 1er, 3, 4 ; 53 et 54 du règlement (CE) n° 178/2002 ;
 
-- des articles 4, paragraphes 1 er et 2, 5, paragraphes 1 er et 2, 6, 13, paragraphes 1 er à 3, du règlement (CE) n° 2065/2003 ;
+- des articles 4, paragraphes 1er et 2, 5, paragraphes 1er et 2, 6, 13, paragraphes 1er à 3, du règlement (CE) n° 2065/2003 ;
 
 - de l’article 4, paragraphe 4 du règlement (CE) n° 853/2004 ;
 
@@ -462,25 +462,25 @@ Sera puni d’un emprisonnement de huit jours à six mois et d’une amende de 2
 
 - des articles 8 à 10, et 12 à 14 du règlement (CE) n° 1924/2006 ;
 
-- des articles 3, paragraphe 1 er , 4 à 6, et 8, paragraphe 2 du règlement (CE) n° 1925/2006 ;
+- des articles 3, paragraphe 1er, 4 à 6, et 8, paragraphe 2 du règlement (CE) n° 1925/2006 ;
 
-- des articles 4, 5, 7, 14, paragraphes 1 er à 3 du règlement (CE) n° 1332/2008 ;
+- des articles 4, 5, 7, 14, paragraphes 1er à 3 du règlement (CE) n° 1332/2008 ;
 
-- des articles 4, paragraphes 1 er et 2, 5, 14 à 17, 26, paragraphes 1 er et 2 du règlement (CE) n° 1333/2008 ;
+- des articles 4, paragraphes 1er et 2, 5, 14 à 17, 26, paragraphes 1er et 2 du règlement (CE) n° 1333/2008 ;
 
-- des articles 4, point a), 5, 6, paragraphes 1 er et 2, 7, paragraphes 1 er et 2, 10, et 19, paragraphes 1 er à 3 du règlement (CE) n° 1334/2008 ;
+- des articles 4, point a), 5, 6, paragraphes 1er et 2, 7, paragraphes 1er et 2, 10, et 19, paragraphes 1er à 3 du règlement (CE) n° 1334/2008 ;
 
-- des articles 7, paragraphe 3, 8, paragraphes 2, 4 et 5, 9, paragraphes 1 er , points c), f), g), l), et 2 à 4, 39, paragraphe 1 er , points a) et c), et 44, paragraphe 1 er , point a) du règlement (UE) n° 1169/2011 ;
+- des articles 7, paragraphe 3, 8, paragraphes 2, 4 et 5, 9, paragraphes 1er, points c), f), g), l), et 2 à 4, 39, paragraphe 1er, points a) et c), et 44, paragraphe 1er, point a) du règlement (UE) n° 1169/2011 ;
 
 - des articles 9, 11 et 15 du règlement (UE) n° 609/2013 ;
 
-- des articles 4, 6 et 25 du règlement (UE) n° 2283/2015 .
+- des articles 4, 6 et 25 du règlement (UE) n° 2283/2015.
 
-- des articles 2, 8, paragraphes 1 er à 3, 9 et 16 du règlement (CE) n° 999/2001 ;
+- des articles 2, 8, paragraphes 1er à 3, 9 et 16 du règlement (CE) n° 999/2001 ;
 
 - de l’article 9 et des points D et E de l’annexe II du règlement (CE) n° 2160/2003 ;
 
-- des articles 14, paragraphe 6, 16 et 23 du règlement (CE) n° 470/2009 .
+- des articles 14, paragraphe 6, 16 et 23 du règlement (CE) n° 470/2009.
 
 (3)
 
@@ -506,7 +506,9 @@ Modification de la loi modifiée du 25 septembre 1953 ayant pour objet la réorg
 
 La loi modifiée du 25 septembre 1953 ayant pour objet la réorganisation du contrôle des denrées alimentaires, boissons et produits usuels est modifiée comme suit :
 
-- L’article 1 er est remplacé par le texte suivant : « Dans l’intérêt de la santé publique sont soumis à la surveillance des autorités, d’après les dispositions de la présente loi, la fabrication, la préparation, la transformation, le commerce et la distribution des objets de consommation et d’habillement ; des produits cosmétiques et articles de toilette ; des objets et produits usuels employés dans le ménage, tels que jouets, tapis, meubles, tapisseries, ustensiles, couleurs, essences et autres substances liquides ou solides.
+- L’article 1er est remplacé par le texte suivant :
+
+« Dans l’intérêt de la santé publique sont soumis à la surveillance des autorités, d’après les dispositions de la présente loi, la fabrication, la préparation, la transformation, le commerce et la distribution des objets de consommation et d’habillement ; des produits cosmétiques et articles de toilette ; des objets et produits usuels employés dans le ménage, tels que jouets, tapis, meubles, tapisseries, ustensiles, couleurs, essences et autres substances liquides ou solides.
 
 - À la fin de l’article 2, alinéa 2, point 1, les termes et des denrées alimentaires sont à ajouter ;
 

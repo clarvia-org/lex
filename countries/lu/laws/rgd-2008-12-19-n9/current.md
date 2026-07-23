@@ -45,17 +45,17 @@ Au sens du présent règlement, on entend:
 
   - celles des cotisations visées à l’article 3 qui ne peuvent être déduites d’office conformément aux prescriptions dudit article;
 
-  - dans le chef des contribuables résidents et pour autant qu’elles dépassent le minimum forfaitaire prévu par l’article 113 de la loi , les dépenses spéciales au sens de l’article 109 de la loi autres que celles visées ci-dessus, à l’exception des dons en espèces dont question à l’article 1 er du règlement grand-ducal portant exécution de l’article 112, alinéa 2 de la loi ;
+  - dans le chef des contribuables résidents et pour autant qu’elles dépassent le minimum forfaitaire prévu par l’article 113 de la loi, les dépenses spéciales au sens de l’article 109 de la loi autres que celles visées ci-dessus, à l’exception des dons en espèces dont question à l’article 1er du règlement grand-ducal portant exécution de l’article 112, alinéa 2 de la loi;
 
 - par abattement pour charges extraordinaires (code CE):
 
-  - l’abattement pour charges extraordinaires résultant du régime normal de l’article 127 de la loi , ainsi que les abattements forfaitaires pour charges extraordinaires résultant de l’article 127, alinéas 4a et 6 de la loi ;
+  - l’abattement pour charges extraordinaires résultant du régime normal de l’article 127 de la loi, ainsi que les abattements forfaitaires pour charges extraordinaires résultant de l’article 127, alinéas 4a et 6 de la loi;
 
-  - l’abattement forfaitaire pour charges d’enfants visé à l’article 127bis de la loi ;
+  - l’abattement forfaitaire pour charges d’enfants visé à l’article 127bis de la loi;
 
 - E bis. par abattement de maintien dans la vie professionnelle (MVP), l’abattement visé à l’article 129g de la loi ;
 
-- par crédits d’impôt, le crédit d’impôt pour salariés (code CIS) visé à l’article 154 quater de la loi , le crédit d’impôt pour pensionnés (code CIP) visé à l’article 154 quinquies de la loi et le crédit d’impôt monoparental visé à l’article 154ter de la loi (code CIM);
+- par crédits d’impôt, le crédit d’impôt pour salariés (code CIS) visé à l’article 154quater de la loi, le crédit d’impôt pour pensionnés (code CIP) visé à l’article 154quinquies de la loi et le crédit d’impôt monoparental visé à l’article 154ter de la loi (code CIM);
 
 - par administration communale compétente, l’administration communale qui aux termes du règlement grand-ducal portant exécution de l’article 143 de la loi est compétente pour l’établissement et, le cas échéant, la modification des fiches de retenue d’impôt des salariés et pensionnés résidents;
 
@@ -87,7 +87,7 @@ Les inscriptions pour crédits d’impôt imputables après la détermination de
 
 L’employeur ou la caisse de pension porte d’office en déduction du revenu dans lequel elles sont comprises:
 
-- les prélèvements et cotisation versées en raison de l’affiliation obligatoire des salariés au titre de l’assurance maladie et de l’assurance pension visés à l’article 110, numéro 1 de la loi ,
+- les prélèvements et cotisation versées en raison de l’affiliation obligatoire des salariés au titre de l’assurance maladie et de l’assurance pension visés à l’article 110, numéro 1 de la loi,
 
 - les cotisations personnelles opérées sur les rénumérations des salariés en raison de l’existence d’un régime complémentaire de pension instauré conformément à la loi du 8 juin 1999 relative aux régimes complémentaires de pension, jusqu’à concurrence d’un montant de 1.200 euros par an.
 
@@ -227,9 +227,26 @@ En cas de modification de la situation du contribuable par suite de changement d
 
 Les salariés invalides ou infirmes qui ont droit au minimum forfaitaire majoré prévu par le règlement grand-ducal portant exécution de l’article 107, alinéa 7 de la loi, obtiennent sur demande et dans les conditions fixées au règlement précité, l’inscription, sur leur fiche de retenue, d’une déduction pour frais d’obtention (code FO) correspondant, selon les tableaux ci-après au degré de leur incapacité de travail:
 
-- Salariés autres que ceux sub 2° ci-dessous Degré d’incapacité de travail Déduction en euros par an par mois par jour de 25% à moins de 35% 105 8,75 0,35 de 35% à moins de 45% 135 11,25 0,45 de 45% à moins de 55% 240 20,00 0,80 de 55% à moins de 65% 285 23,75 0,95 de 65% à moins de 75% 345 28,75 1,15 de 75% à moins de 85% 390 32,50 1,30 de 85% à moins de 95% 420 35,00 1,40 de 95% à 100% 480 40,00 1,60
+- Salariés autres que ceux sub 2° ci-dessous
 
-- Salariés dont la vision centrale est nulle ou inférieure à 1/20 e de la normale ou qui se trouvent dans un état d’impotence tel qu’ils ne peuvent subsister sans l’assistance et les soins d’autrui. Déduction en euros par an par mois par jour 975 81,25 3,25
+| Degré d’incapacité de travail | Déduction en euros |  |  |
+| --- | --- | --- | --- |
+| par an | par mois | par jour |  |
+| de 25% à moins de 35% | 105 | 8,75 | 0,35 |
+| de 35% à moins de 45% | 135 | 11,25 | 0,45 |
+| de 45% à moins de 55% | 240 | 20,00 | 0,80 |
+| de 55% à moins de 65% | 285 | 23,75 | 0,95 |
+| de 65% à moins de 75% | 345 | 28,75 | 1,15 |
+| de 75% à moins de 85% | 390 | 32,50 | 1,30 |
+| de 85% à moins de 95% | 420 | 35,00 | 1,40 |
+| de 95% à 100% | 480 | 40,00 | 1,60 |
+
+- Salariés dont la vision centrale est nulle ou inférieure à 1/20e de la normale ou qui se trouvent dans un état d’impotence tel qu’ils ne peuvent subsister sans l’assistance et les soins d’autrui.
+
+| Déduction en euros |  |  |
+| --- | --- | --- |
+| par an | par mois | par jour |
+| 975 | 81,25 | 3,25 |
 
 (2)
 
@@ -244,13 +261,13 @@ La déduction suivant les tableaux qui précèdent exclut toute autre mise en co
 
 Le salarié ou le pensionné obtient sur demande et dans les conditions fixées par les dispositions légales, une déduction pour excédent de dépenses spéciales (code DS), dans la mesure où les dépenses mentionnées ci-après dépassent le minimum forfaitaire prévu à ce titre par l’article 113 de la loi:
 
-- les arrérages de rentes et de charges permanentes visés à l’article 109, alinéa 1 er , numéro 1 de la loi ;
+- les arrérages de rentes et de charges permanentes visés à l’article 109, alinéa 1er, numéro 1 de la loi;
 
-- les intérêts débiteurs visés à l’article 109, alinéa 1 er , numéro 1a de la loi ;
+- les intérêts débiteurs visés à l’article 109, alinéa 1er, numéro 1a de la loi;
 
-- les cotisations et primes d’assurances visées à l’article 109, alinéa 1 er , numéro 2 de la loi , dans la mesure où les cotisations en cause ne sont pas déjà prises en compte par l’employeur ou la caisse de pension en vertu de l’article 3 du présent règlement. En ce qui concerne les primes versées au titre d’un contrat de prévoyance-vieillesse au sens de l’article 111bis L.I.R. , elles ne sont prises en considération que sur présentation des pièces justificatives;
+- les cotisations et primes d’assurances visées à l’article 109, alinéa 1er, numéro 2 de la loi, dans la mesure où les cotisations en cause ne sont pas déjà prises en compte par l’employeur ou la caisse de pension en vertu de l’article 3 du présent règlement. En ce qui concerne les primes versées au titre d’un contrat de prévoyance-vieillesse au sens de l’article 111bis L.I.R., elles ne sont prises en considération que sur présentation des pièces justificatives;
 
-- les rentes versées au conjoint divorcé visées à l’article 109bis de la loi .
+- les rentes versées au conjoint divorcé visées à l’article 109bis de la loi.
 
 (2)
 
@@ -288,9 +305,26 @@ Pour la détermination de l’abattement pour charges extraordinaires du chef de
 
 Le salarié ou pensionné invalide ou infirme qui a droit à l’abattement forfaitaire prévu par le règlement grand-ducal portant exécution de l’article 127, alinéa 6 de la loi, obtient sur demande et dans les conditions fixées au règlement précité, l’inscription, sur sa fiche de retenue, d’une déduction correspondant, selon les tableaux ci-après au degré de son incapacité de travail et à la catégorie de revenu auquel elle s’applique:
 
-- Salariés et pensionnés résidents, à l’exclusion de ceux visés sub 2° Degré d’incapacité de travail Déduction en euros par an par mois par jour de 25% à moins de 35% 150 12,50 0,50 de 35% à moins de 45% 225 18,75 0,75 de 45% à moins de 55% 375 31,25 1,25 de 55% à moins de 65% 450 37,50 1,50 de 65% à moins de 75% 525 43,75 1,75 de 75% à moins de 85% 585 48,75 1,95 de 85% à moins de 95% 645 53,75 2,15 de 95% à 100% 735 61,25 2,45
+- Salariés et pensionnés résidents, à l’exclusion de ceux visés sub 2°
 
-- Salariés et pensionnés résidents dont la vision centrale est nulle ou inférieure à 1/20 e de la normale ou qui se trouvent dans un état d’impotence tel qu’ils ne peuvent subsister sans l’assistance et les soins d’autrui Déduction en euros par an par mois par jour 1.455 131,25 4,85
+| Degré d’incapacité de travail | Déduction en euros |  |  |
+| --- | --- | --- | --- |
+| par an | par mois | par jour |  |
+| de 25% à moins de 35% | 150 | 12,50 | 0,50 |
+| de 35% à moins de 45% | 225 | 18,75 | 0,75 |
+| de 45% à moins de 55% | 375 | 31,25 | 1,25 |
+| de 55% à moins de 65% | 450 | 37,50 | 1,50 |
+| de 65% à moins de 75% | 525 | 43,75 | 1,75 |
+| de 75% à moins de 85% | 585 | 48,75 | 1,95 |
+| de 85% à moins de 95% | 645 | 53,75 | 2,15 |
+| de 95% à 100% | 735 | 61,25 | 2,45 |
+
+- Salariés et pensionnés résidents dont la vision centrale est nulle ou inférieure à 1/20e de la normale ou qui se trouvent dans un état d’impotence tel qu’ils ne peuvent subsister sans l’assistance et les soins d’autrui
+
+| Déduction en euros |  |  |
+| --- | --- | --- |
+| par an | par mois | par jour |
+| 1.455 | 131,25 | 4,85 |
 
 (6)
 

@@ -33,7 +33,7 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 Pour l’application de la présente loi, est considérée comme société de gestion de patrimoine familial, en abrégé SPF, toute société:
 
-- qui a adopté la forme d’une société à responsabilité limitée, d’une société anonyme, d’une société en commandite par actions , d’une société par actions simplifiée ou d’une société coopérative organisée sous forme d’une société anonyme, et
+- qui a adopté la forme d’une société à responsabilité limitée, d’une société anonyme, d’une société en commandite par actions, d’une société par actions simplifiée ou d’une société coopérative organisée sous forme d’une société anonyme, et
 
 - dont l’objet exclusif est l’acquisition, la détention, la gestion et la réalisation d’actifs financiers tels que définis à l’article 2 de la présente loi, à l’exclusion de toute activité commerciale, et
 

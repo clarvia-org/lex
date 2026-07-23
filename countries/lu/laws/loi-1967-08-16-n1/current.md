@@ -212,7 +212,7 @@ Les biens à exproprier sont estimés en prenant seule en considération la vale
 
 - soit de la décision du Gouvernement en conseil prise en vertu de l’article 12, paragraphe 2 de la loi du 17 avril 2018 concernant l’aménagement du territoire ;
 
-- soit de la décision du Gouvernement en conseil prise en vertu de l’article 19, paragraphe 2 de la loi précitée du 17 avril 2018 .
+- soit de la décision du Gouvernement en conseil prise en vertu de l’article 19, paragraphe 2 de la loi précitée du 17 avril 2018.
 
 Il est cependant tenu compte de l’évolution générale du prix des biens.
 
@@ -291,7 +291,7 @@ Le Fonds des routes est alimenté:
 
 - par le produit de la vente d'immeubles acquis dans le cadre du programme précité et rendus disponibles après l'établissement de la grande voirie;
 
-- par les remboursements effectués par la République fédérale d'Allemagne conformément à l'article 7 de la convention entre le Grand-Duché de Luxembourg et la République fédérale d'Allemagne concernant la jonction des autoroutes et la construction d'un pont frontalier sur la Moselle dans la région de Perl et de Schengen signée à Luxembourg, le 18 avril 1994, et approuvée par la loi du 18 août 1995 .
+- par les remboursements effectués par la République fédérale d'Allemagne conformément à l'article 7 de la convention entre le Grand-Duché de Luxembourg et la République fédérale d'Allemagne concernant la jonction des autoroutes et la construction d'un pont frontalier sur la Moselle dans la région de Perl et de Schengen signée à Luxembourg, le 18 avril 1994, et approuvée par la loi du 18 août 1995.
 
 Les sommes dont question sub b), c) et d) de l'alinéa qui précède sont portées directement en recette au Fonds des routes.
 

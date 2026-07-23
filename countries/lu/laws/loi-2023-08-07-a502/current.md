@@ -364,7 +364,7 @@ La Police grand-ducale ne communique des informations au chef d’état-major de
 
 - incriminés en tant que crime ou délit par la loi ;
 
-- ayant motivé une procédure d’expulsion sur base de l’article 1 er de la loi modifiée du 8 septembre 2003 sur la violence domestique.
+- ayant motivé une procédure d’expulsion sur base de l’article 1er de la loi modifiée du 8 septembre 2003 sur la violence domestique.
 
 L’alinéa 1er ne s’applique pas aux faits qui, bien que relevant du point 1°, ont fait l’objet d’un acquittement, d’une réhabilitation judiciaire ou légale, ou sont prescrits.
 
@@ -621,7 +621,7 @@ Les conditions de formation continue pour l’avancement en grades militaires du
 
 - Niveau caporal :
 
-  - L’avancement au grade de caporal 1 ère classe est subordonné à la réussite d’une formation préparant à la fonction de chef d’équipe. Cette formation vise à donner les compétences pour commander une équipe sous la responsabilité d’un chef de section. Cette formation comprend au moins les volets tactique, leadership (aptitude à commander) et gestion de matériel. La durée minimale de cette formation est de deux semaines.
+  - L’avancement au grade de caporal 1ère classe est subordonné à la réussite d’une formation préparant à la fonction de chef d’équipe. Cette formation vise à donner les compétences pour commander une équipe sous la responsabilité d’un chef de section. Cette formation comprend au moins les volets tactique, leadership (aptitude à commander) et gestion de matériel. La durée minimale de cette formation est de deux semaines.
 
   - L’avancement au grade de premier caporal-chef est subordonné à la réussite d’une formation préparant à la fonction de caporal administratif ou spécialisé. Cette formation comprend au moins les volets leadership (aptitude à commander) et gestion de matériel ou personnel. La durée minimale de cette formation est de deux semaines.
 
@@ -1433,7 +1433,7 @@ Il est institué auprès du ministre une commission de contrôle de la carrière
 
 - émettre son avis sur le respect de la procédure de demande de changement de groupe de traitement introduit en vertu de l’article 68 ou des procédures de demande de changements de groupe temporaire introduites en vertu de l’article 121 ;
 
-- veiller à ce que les limites et conditions prévues par les articles 67 et 69 soient respectées pour toute demande introduite en vertu de l’article 68 et veiller à ce que les limites et conditions d’éligibilité fixées par l’article 121, paragraphes 2, 4 et 5, alinéas 2 à 4, soient respectées pour toute demande introduite en vertu du paragraphe 5, alinéa 1 er de cet article ;
+- veiller à ce que les limites et conditions prévues par les articles 67 et 69 soient respectées pour toute demande introduite en vertu de l’article 68 et veiller à ce que les limites et conditions d’éligibilité fixées par l’article 121, paragraphes 2, 4 et 5, alinéas 2 à 4, soient respectées pour toute demande introduite en vertu du paragraphe 5, alinéa 1er de cet article ;
 
 - évaluer les compétences du candidat par rapport aux missions et exigences du poste brigué ;
 
@@ -1709,7 +1709,7 @@ L’article 14 de la loi modifiée du 16 avril 1979 fixant le statut général d
 
 Le soldat volontaire de l’Armée bénéficie lors du service volontaire :
 
-- d’un congé annuel de récréation, conformément à l’article 28-2, paragraphe 1 er de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’État, augmenté, pendant la période militaire, du congé supplémentaire prévu à l’article 47 de la présente loi ;
+- d’un congé annuel de récréation, conformément à l’article 28-2, paragraphe 1er de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’État, augmenté, pendant la période militaire, du congé supplémentaire prévu à l’article 47 de la présente loi ;
 
 - d’un habillement militaire et d’équipement militaire gratuits ;
 
@@ -2013,7 +2013,21 @@ Le ministre peut commissionner des représentants de culte des communautés reli
 
 La loi modifiée du 27 juillet 1992 relative à la participation du Grand-Duché de Luxembourg à des opérations pour le maintien de la paix et des opérations de prévention, ainsi que de gestion de crise est modifiée comme suit :
 
-- L’article 10, paragraphe 2 est remplacé par un nouveau paragraphe ayant la teneur suivante : Néanmoins, lorsqu’un ancien participant à une opération entre au service permanent de l’État, le temps passé en opération est considéré comme période passée au service de l’État à tâche complète et donne droit à une bonification d’ancienneté de service en vue de la fixation du traitement initial conformément à l’article 5 de la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État ; une bonification du temps requis pour obtenir un avancement en grade conformément à la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État ; une bonification du temps de service en vue de la computation prévue par l’article 8 de la loi modifiée du 25 mars 2015 déterminant le régime des indemnités des employés de l’État ; une bonification du temps requis pour l’admission à l’examen de promotion prévu par la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’État ; à l’égard de l’ancien participant à une opération, entré au service de l’État avant le 1er janvier 1999, une computation double du temps de service en vue de l’application des dispositions de la loi modifiée du 25 mars 2015 instituant un régime de pension spécial transitoire pour les fonctionnaires de l’État et des communes ainsi que pour les agents de la Société nationale des Chemins de Fer ; une réduction de stage équivalente à la durée de service effective dans les opérations.
+- L’article 10, paragraphe 2 est remplacé par un nouveau paragraphe ayant la teneur suivante :
+
+Néanmoins, lorsqu’un ancien participant à une opération entre au service permanent de l’État, le temps passé en opération est considéré comme période passée au service de l’État à tâche complète et donne droit à
+
+- une bonification d’ancienneté de service en vue de la fixation du traitement initial conformément à l’article 5 de la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État ;
+
+- une bonification du temps requis pour obtenir un avancement en grade conformément à la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État ;
+
+- une bonification du temps de service en vue de la computation prévue par l’article 8 de la loi modifiée du 25 mars 2015 déterminant le régime des indemnités des employés de l’État ;
+
+- une bonification du temps requis pour l’admission à l’examen de promotion prévu par la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’État ;
+
+- à l’égard de l’ancien participant à une opération, entré au service de l’État avant le 1er janvier 1999, une computation double du temps de service en vue de l’application des dispositions de la loi modifiée du 25 mars 2015 instituant un régime de pension spécial transitoire pour les fonctionnaires de l’État et des communes ainsi que pour les agents de la Société nationale des Chemins de Fer ;
+
+- une réduction de stage équivalente à la durée de service effective dans les opérations.
 
 - L’article 17 est abrogé.
 
@@ -2029,29 +2043,176 @@ La loi modifiée du 27 juillet 1992 relative à la participation du Grand-Duché
 
 La loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État est modifiée comme suit :
 
-- À l’article 14, les paragraphes 1 er , 1 bis , 1 ter , 2 et 3 sont remplacés comme suit : « (1) Dans la catégorie de traitement A, groupe de traitement A1, il est créé trois sous-groupes : un sous-groupe militaire avec un niveau général et un niveau supérieur ; un sous-groupe policier avec un niveau général et un niveau supérieur ; un sous-groupe à attributions particulières. Pour les sous-groupes sous a) et b), le niveau général comprend les grades F11, F12 et F13 et les avancements en traitement aux grades F12 et F13 se font après respectivement trois et six années de grade à compter de la première nomination. Le niveau supérieur comprend les grades F14 et F15 et les promotions aux grades F14 et F15 interviennent, sous réserve que toutes les conditions prévues par la loi soient remplies, après chaque fois trois années de grade à compter du dernier avancement en grade, sans que la promotion au dernier grade du sous-groupe ne puisse intervenir avant d’avoir accompli vingt années de grade à compter de la première nomination. Pour le sous-groupe à attributions particulières mentionné sous c), les avancements en traitement ou le classement des fonctions sont définis comme suit : Pour les fonctionnaires de la musique militaire, le niveau général comprend les grades F11, F12 et F13 et les avancements en traitement aux grades F12 et F13 se font après respectivement trois et six années de grade à compter de la première nomination. Le niveau supérieur comprend les grades F14 et F15 et les promotions aux grades F14 et F15 interviennent, sous réserve que toutes les conditions prévues par la loi soient remplies, après chaque fois trois années de grade à compter du dernier avancement en grade, sans que la promotion au dernier grade du sous-groupe ne puisse intervenir avant d’avoir accompli vingt années de grade à compter de la première nomination. Les fonctions de directeur général adjoint de la Police, d’inspecteur général adjoint de la Police, de directeur central de la Police, de chef d’état-major adjoint de l’Armée, de commandant des forces, de directeur de division et d’officier médecin sont classées au grade F16. Pour les fonctions de directeur général adjoint de la Police, d’inspecteur général adjoint de la Police, de chef d’état-major adjoint de l’Armée, de commandant des forces et d’officier médecin l’indice 616 du grade F16 est remplacé par l’indice 625. Les fonctions de directeur général de la police, d’inspecteur général de la police et de chef d’état-major de l’armée sont classées au grade F17. (1bis) Dans la catégorie de traitement A, groupe de traitement A2, il est créé trois sous-groupes : un sous-groupe militaire avec un niveau général et un niveau supérieur ; un sous-groupe policier avec un niveau général et un niveau supérieur ; un sous-groupe à attributions particulières avec un niveau général et un niveau supérieur. Pour les trois sous-groupes, le niveau général comprend les grades F9, F10 et F11 et les avancements en traitement aux grades F10 et F11 se font après respectivement trois et six années de grade à compter de la première nomination. Le niveau supérieur comprend les grades F12 et F13 et les promotions aux grades F12 et F13 interviennent, sous réserve que toutes les conditions prévues par la loi soient remplies, après chaque fois trois années de grade à compter du dernier avancement en grade, sans que la promotion au dernier grade du sous-groupe ne puisse intervenir avant d’avoir accompli vingt années de grade à compter de la première nomination. (1ter) Dans la catégorie de traitement B, groupe de traitement B1, il est créé trois sous-groupes : un sous-groupe militaire avec un niveau général et un niveau supérieur ; un sous-groupe policier avec un niveau général et un niveau supérieur ; un sous-groupe à attributions particulières avec un niveau général et un niveau supérieur. Pour les trois sous-groupes, le niveau général comprend les grades F6, F7, F8 et F9 et les avancements en traitement aux grades F7, F8 et F9 se font après respectivement trois, six et neuf années de grade à compter de la première nomination. Pour bénéficier du second avancement en traitement et des avancements en grade ultérieurs de son sous-groupe, le fonctionnaire doit avoir passé avec succès un examen de promotion. Toutefois, la condition d’avoir passé avec succès un examen de promotion n’est pas requise pour bénéficier du second avancement en traitement lorsque le fonctionnaire est âgé de cinquante ans au moins. Pour les trois sous-groupes, le niveau supérieur comprend les grades F10, F11 et F12 et les promotions aux grades F10, F11 et F12 interviennent, sous réserve que toutes les conditions prévues par la loi soient remplies, après chaque fois trois années de grade à compter du dernier avancement en grade, sans que la promotion au dernier grade du sous-groupe ne puisse intervenir avant d’avoir accompli vingt années de grade à compter de la première nomination. (2) Dans la catégorie de traitement C, groupe de traitement C1, il est créé trois sous-groupes : un sous-groupe militaire avec un niveau général et un niveau supérieur ; un sous-groupe policier avec un niveau général et un niveau supérieur ; un sous-groupe à attributions particulières avec un niveau général et un niveau supérieur. Pour les trois sous-groupes, le niveau général comprend les grades F2, F3 et F4 et les avancements en traitement aux grades F3 et F4 se font après respectivement trois et six années de grade à compter de la première nomination. En ce qui concerne le sous-groupe sous c), le fonctionnaire doit avoir passé avec succès un examen de promotion pour bénéficier du second avancement en traitement et des avancements en grade ultérieurs de son sous-groupe. Toutefois, la condition d’avoir passé avec succès un examen de promotion n’est pas requise pour bénéficier du second avancement en traitement lorsque le fonctionnaire est âgé de cinquante ans au moins. En ce qui concerne les sous-groupes sous a) et b), le fonctionnaire doit avoir passé avec succès un examen de promotion pour bénéficier du troisième avancement en traitement et des avancements en grade ultérieurs de son sous-groupe. Toutefois, la condition d’avoir passé avec succès un examen de promotion n’est pas requise pour accéder au premier grade du niveau supérieur lorsque le fonctionnaire est âgé de cinquante ans au moins. Pour les trois sous-groupes, le niveau supérieur comprend les grades F5, F6 et F7, les promotions aux grades F5, F6 et F7 interviennent, sous réserve que toutes les conditions prévues par la loi soient remplies, après chaque fois trois années de grade à compter du dernier avancement en grade, sans que la promotion au dernier grade du sous-groupe ne puisse intervenir avant d’avoir accompli vingt années de grade à compter de la première nomination. (3) Dans la catégorie de traitement C, groupe de traitement C2, il est créé deux sous-groupes : un sous-groupe militaire avec un niveau général et un niveau supérieur ; un sous-groupe policier avec un niveau général et un niveau supérieur. Pour les deux sous-groupes, le niveau général comprend les grades F1 et F2 et l’avancement en traitement au grade F2 se fait après trois années de grade à compter de la première nomination. Pour bénéficier du second avancement en traitement et des avancements en grade ultérieurs de son sous-groupe, le fonctionnaire doit avoir passé avec succès un examen de promotion. Toutefois, la condition d’avoir passé avec succès un examen de promotion n’est pas requise pour bénéficier du second avancement en traitement lorsque le fonctionnaire est âgé de cinquante ans au moins. Pour les deux sous-groupes, le niveau supérieur comprend les grades F3 et F4, les promotions aux grades F3 et F4 interviennent, sous réserve que toutes les conditions prévues par la loi soient remplies, après chaque fois trois années de grade à compter du dernier avancement en grade, sans que la promotion au dernier grade du sous-groupe ne puisse intervenir avant d’avoir accompli vingt années de grade à compter de la première nomination.
+- À l’article 14, les paragraphes 1er, 1bis, 1ter, 2 et 3 sont remplacés comme suit :
 
-- À l’article 17, alinéa 1 er , lettre b), les termes colonel-chef d’état-major sont remplacés par les termes chef d’état-major , les termes lieutenant-colonel/chef d’état-major adjoint sont remplacés par les termes chef d’état-major adjoint , les termes lieutenant-colonel commandant du centre militaire sont remplacés par les termes commandant des forces, directeurs de division, .
+« (1)
 
-- À l’article 22, paragraphe 1 er , lettre c), les termes , ainsi que l’officier appelé à exercer les fonctions d’infirmier gradué de l’armée sont supprimés.
+Dans la catégorie de traitement A, groupe de traitement A1, il est créé trois sous-groupes :
+
+- un sous-groupe militaire avec un niveau général et un niveau supérieur ;
+
+- un sous-groupe policier avec un niveau général et un niveau supérieur ;
+
+- un sous-groupe à attributions particulières.
+
+Pour les sous-groupes sous a) et b), le niveau général comprend les grades F11, F12 et F13 et les avancements en traitement aux grades F12 et F13 se font après respectivement trois et six années de grade à compter de la première nomination.
+
+Le niveau supérieur comprend les grades F14 et F15 et les promotions aux grades F14 et F15 interviennent, sous réserve que toutes les conditions prévues par la loi soient remplies, après chaque fois trois années de grade à compter du dernier avancement en grade, sans que la promotion au dernier grade du sous-groupe ne puisse intervenir avant d’avoir accompli vingt années de grade à compter de la première nomination.
+
+Pour le sous-groupe à attributions particulières mentionné sous c), les avancements en traitement ou le classement des fonctions sont définis comme suit :
+
+- Pour les fonctionnaires de la musique militaire, le niveau général comprend les grades F11, F12 et F13 et les avancements en traitement aux grades F12 et F13 se font après respectivement trois et six années de grade à compter de la première nomination. Le niveau supérieur comprend les grades F14 et F15 et les promotions aux grades F14 et F15 interviennent, sous réserve que toutes les conditions prévues par la loi soient remplies, après chaque fois trois années de grade à compter du dernier avancement en grade, sans que la promotion au dernier grade du sous-groupe ne puisse intervenir avant d’avoir accompli vingt années de grade à compter de la première nomination.
+
+- Les fonctions de directeur général adjoint de la Police, d’inspecteur général adjoint de la Police, de directeur central de la Police, de chef d’état-major adjoint de l’Armée, de commandant des forces, de directeur de division et d’officier médecin sont classées au grade F16. Pour les fonctions de directeur général adjoint de la Police, d’inspecteur général adjoint de la Police, de chef d’état-major adjoint de l’Armée, de commandant des forces et d’officier médecin l’indice 616 du grade F16 est remplacé par l’indice 625.
+
+- Les fonctions de directeur général de la police, d’inspecteur général de la police et de chef d’état-major de l’armée sont classées au grade F17.
+
+(1bis)
+
+Dans la catégorie de traitement A, groupe de traitement A2, il est créé trois sous-groupes :
+
+- un sous-groupe militaire avec un niveau général et un niveau supérieur ;
+
+- un sous-groupe policier avec un niveau général et un niveau supérieur ;
+
+- un sous-groupe à attributions particulières avec un niveau général et un niveau supérieur.
+
+Pour les trois sous-groupes, le niveau général comprend les grades F9, F10 et F11 et les avancements en traitement aux grades F10 et F11 se font après respectivement trois et six années de grade à compter de la première nomination.
+
+Le niveau supérieur comprend les grades F12 et F13 et les promotions aux grades F12 et F13 interviennent, sous réserve que toutes les conditions prévues par la loi soient remplies, après chaque fois trois années de grade à compter du dernier avancement en grade, sans que la promotion au dernier grade du sous-groupe ne puisse intervenir avant d’avoir accompli vingt années de grade à compter de la première nomination.
+
+(1ter)
+
+Dans la catégorie de traitement B, groupe de traitement B1, il est créé trois sous-groupes :
+
+- un sous-groupe militaire avec un niveau général et un niveau supérieur ;
+
+- un sous-groupe policier avec un niveau général et un niveau supérieur ;
+
+- un sous-groupe à attributions particulières avec un niveau général et un niveau supérieur.
+
+Pour les trois sous-groupes, le niveau général comprend les grades F6, F7, F8 et F9 et les avancements en traitement aux grades F7, F8 et F9 se font après respectivement trois, six et neuf années de grade à compter de la première nomination.
+
+Pour bénéficier du second avancement en traitement et des avancements en grade ultérieurs de son sous-groupe, le fonctionnaire doit avoir passé avec succès un examen de promotion. Toutefois, la condition d’avoir passé avec succès un examen de promotion n’est pas requise pour bénéficier du second avancement en traitement lorsque le fonctionnaire est âgé de cinquante ans au moins.
+
+Pour les trois sous-groupes, le niveau supérieur comprend les grades F10, F11 et F12 et les promotions aux grades F10, F11 et F12 interviennent, sous réserve que toutes les conditions prévues par la loi soient remplies, après chaque fois trois années de grade à compter du dernier avancement en grade, sans que la promotion au dernier grade du sous-groupe ne puisse intervenir avant d’avoir accompli vingt années de grade à compter de la première nomination.
+
+(2)
+
+Dans la catégorie de traitement C, groupe de traitement C1, il est créé trois sous-groupes :
+
+- un sous-groupe militaire avec un niveau général et un niveau supérieur ;
+
+- un sous-groupe policier avec un niveau général et un niveau supérieur ;
+
+- un sous-groupe à attributions particulières avec un niveau général et un niveau supérieur.
+
+Pour les trois sous-groupes, le niveau général comprend les grades F2, F3 et F4 et les avancements en traitement aux grades F3 et F4 se font après respectivement trois et six années de grade à compter de la première nomination.
+
+En ce qui concerne le sous-groupe sous c), le fonctionnaire doit avoir passé avec succès un examen de promotion pour bénéficier du second avancement en traitement et des avancements en grade ultérieurs de son sous-groupe. Toutefois, la condition d’avoir passé avec succès un examen de promotion n’est pas requise pour bénéficier du second avancement en traitement lorsque le fonctionnaire est âgé de cinquante ans au moins.
+
+En ce qui concerne les sous-groupes sous a) et b), le fonctionnaire doit avoir passé avec succès un examen de promotion pour bénéficier du troisième avancement en traitement et des avancements en grade ultérieurs de son sous-groupe. Toutefois, la condition d’avoir passé avec succès un examen de promotion n’est pas requise pour accéder au premier grade du niveau supérieur lorsque le fonctionnaire est âgé de cinquante ans au moins.
+
+Pour les trois sous-groupes, le niveau supérieur comprend les grades F5, F6 et F7, les promotions aux grades F5, F6 et F7 interviennent, sous réserve que toutes les conditions prévues par la loi soient remplies, après chaque fois trois années de grade à compter du dernier avancement en grade, sans que la promotion au dernier grade du sous-groupe ne puisse intervenir avant d’avoir accompli vingt années de grade à compter de la première nomination.
+
+(3)
+
+Dans la catégorie de traitement C, groupe de traitement C2, il est créé deux sous-groupes :
+
+- un sous-groupe militaire avec un niveau général et un niveau supérieur ;
+
+- un sous-groupe policier avec un niveau général et un niveau supérieur.
+
+Pour les deux sous-groupes, le niveau général comprend les grades F1 et F2 et l’avancement en traitement au grade F2 se fait après trois années de grade à compter de la première nomination.
+
+Pour bénéficier du second avancement en traitement et des avancements en grade ultérieurs de son sous-groupe, le fonctionnaire doit avoir passé avec succès un examen de promotion. Toutefois, la condition d’avoir passé avec succès un examen de promotion n’est pas requise pour bénéficier du second avancement en traitement lorsque le fonctionnaire est âgé de cinquante ans au moins.
+
+Pour les deux sous-groupes, le niveau supérieur comprend les grades F3 et F4, les promotions aux grades F3 et F4 interviennent, sous réserve que toutes les conditions prévues par la loi soient remplies, après chaque fois trois années de grade à compter du dernier avancement en grade, sans que la promotion au dernier grade du sous-groupe ne puisse intervenir avant d’avoir accompli vingt années de grade à compter de la première nomination.
+
+- À l’article 17, alinéa 1er, lettre b), les termes colonel-chef d’état-major sont remplacés par les termes chef d’état-major, les termes lieutenant-colonel/chef d’état-major adjoint sont remplacés par les termes chef d’état-major adjoint, les termes lieutenant-colonel commandant du centre militaire sont remplacés par les termes commandant des forces, directeurs de division,.
+
+- À l’article 22, paragraphe 1er, lettre c), les termes , ainsi que l’officier appelé à exercer les fonctions d’infirmier gradué de l’armée sont supprimés.
 
 - L’article 22, paragraphe 2, est modifié comme suit :
 
   - La lettre a) est remplacée comme suit : a) aux agents de la catégorie de traitement A, groupes de traitement A1 et A2, sous-groupe policier, sous-groupe militaire et sous-groupe à attributions particulières de la rubrique « Armée, Police et Inspection générale de la Police » ;
 
-  - À la lettre b), après les termes sous-groupe policier , sont ajoutés les termes et du sous-groupe militaire .
+  - À la lettre b), après les termes sous-groupe policier, sont ajoutés les termes et du sous-groupe militaire.
 
-  - À la lettre d), après les termes agents de la , sont ajoutés les termes catégorie de traitement B, groupe de traitement B1 et et les termes sous-groupe à attributions particulières sont remplacés par les termes sous-groupes à attributions particulières .
+  - À la lettre d), après les termes agents de la, sont ajoutés les termes catégorie de traitement B, groupe de traitement B1 et et les termes sous-groupe à attributions particulières sont remplacés par les termes sous-groupes à attributions particulières.
 
-- À l’article 22, paragraphe 8, il est inséré après l’alinéa 1 un nouvel alinéa 2, qui se lit comme suit : Une prime d’astreinte d’une valeur de 12 points indiciaires est allouée au personnel civil de l’Armée soumis à une obligation de permanence ou de présence.
+- À l’article 22, paragraphe 8, il est inséré après l’alinéa 1 un nouvel alinéa 2, qui se lit comme suit :
 
-- À l’article 23 est inséré à la suite du paragraphe 1 er un nouveau paragraphe 2 avec la teneur suivante : (2) Une prime d’opérationnalité militaire non pensionnable de 20 points indiciaires est allouée aux agents relevant du sous-groupe militaire des catégories de traitement A et B et aux militaires de carrière du sous-groupe à attributions particulières des grades F16 et F17, s’ils sont cumulativement physiquement, médicalement et professionnellement aptes à participer aux exercices et manœuvres sur le territoire national et à l’étranger ; exercer toutes les tâches militaires leur imposées, dont le port d’une arme de service ; être déployés dans une opération pour le maintien de la paix, conformément à la loi modifiée du 27 juillet 1992 relative à la participation du Grand-Duché de Luxembourg à des opérations pour le maintien de la paix et des opérations de prévention, ainsi que de gestion de crise. L’aptitude opérationnelle est évaluée annuellement sur base d’un examen médical, d’un test de condition physique et d’un parcours d’instruction et d’entrainements militaires dont les modalités sont déterminées par règlement grand-ducal. L’agent qui, pendant une période de 12 mois consécutifs, ne remplit plus toutes les conditions énumérées à l’alinéa 1er, se voit retirer le bénéfice de la prime d’opérationnalité militaire. Le bénéfice de la prime est rétabli à partir de la date à laquelle l’agent remplit à nouveau lesdites conditions. Par dérogation à l’alinéa 3, lorsque l’inaptitude opérationnelle de l’agent est la conséquence d’un accident de travail survenu dans l’exercice de ses fonctions, l’agent continue à bénéficier de la prime d’opérationnalité militaire.
+Une prime d’astreinte d’une valeur de 12 points indiciaires est allouée au personnel civil de l’Armée soumis à une obligation de permanence ou de présence.
 
-- À l’article 23 sont insérés à la suite du paragraphe 2, devenu paragraphe 3, les paragraphes qui se lisent comme suit : « (4) Le personnel navigant actif, membre actif d’un équipage d’aéronef qui effectue régulièrement des vols ou participe à des vols, de la composante aérienne touche une prime de vol versée mensuellement avec le traitement de base. Elle est imposable, cotisable et pensionnable. Les montants mensuels de la prime correspondent aux points indiciaires suivants : a) co-pilote en apprentissage : 18,78 points indiciaires ; b) co-pilote : 87,17 points indiciaires ; c) commandant de bord en apprentissage : 93,7 points indiciaires ; d) commandant de bord : 106,8 points indiciaires ; e) soutier certifié : 33,06 points indiciaires ; f) soutier breveté : 52,57 points indiciaires ; g) opérateur de cabine certifié : 52,62 points indiciaires ; h) opérateur de cabine breveté : 56,45 points indiciaires ; i) assistant à l’opérateur de cabine : 19,52 points indiciaires. (5) Le personnel navigant non-actif est constitué du personnel navigant de l’Armée qui a été membre actif d’un équipage d’aéronef, mais qui n’effectue plus de vols ou ne participe plus à des vols. (6) Par référence aux montants fixés au paragraphe 4, le personnel navigant non-actif, qui a été membre actif d’un équipage d’aéronef pendant moins de douze ans touche une prime de vol mensuelle imposable, cotisable et pensionnable, dont le montant correspond à : cent pour cent du montant de la dernière prime perçue en tant que membre actif d’un équipage d’aéronef pendant trente-six mois à compter de la date à partir de laquelle il fait partie du personnel navigant non-actif ; quatre-vingt pour cent du montant de la dernière prime perçue en tant que membre actif d’un équipage d’aéronef pendant vingt-quatre mois à partir de l’écoulement de la période de trente-six mois mentionnée à la lettre a) ; soixante pour cent du montant de la dernière prime perçue en tant que membre actif d’un équipage d’aéronef pendant vingt-quatre mois à partir de l’écoulement de la période de vingt-quatre mois mentionnée à la lettre b). Après l’écoulement d’une durée totale de quatre-vingt-quatre mois à compter de la date à partir de laquelle il fait partie du personnel navigant non-actif, le personnel navigant, qui a été membre actif d’un équipage d’aéronef pendant moins de douze ans, ne touche plus de prime de vol. (7) Par référence aux montants fixés au paragraphe 4, le personnel navigant non-actif, qui a été membre actif d’un équipage d’aéronef pendant au moins ou plus de douze ans, touche une prime de vol mensuelle imposable, cotisable et pensionnable, dont le montant correspond à : cent pour cent du montant de la dernière prime perçue en tant que membre actif d’un équipage d’aéronef pendant trente-six mois à compter de la date à partir de laquelle il fait partie du personnel navigant non-actif ; quatre-vingt pour cent du montant de la dernière prime perçue en tant que membre actif d’un équipage d’aéronef pendant vingt-quatre mois à partir de l’écoulement de la période de trente-six mois mentionnée à la lettre a) ; soixante pour cent du montant de la dernière prime perçue en tant que membre actif d’un équipage d’aéronef pendant cent-vingt mois à partir de l’écoulement de la période de vingt-quatre mois mentionnée à la lettre b). (8) Le personnel navigant qui a été membre actif d’un équipage d’aéronef et qui, de son propre gré, demande une réaffectation à une fonction non navigante ou qui, pour des raisons d’échec professionnel, perd sa qualification aérienne n’a pas droit à la prime.
+- À l’article 23 est inséré à la suite du paragraphe 1er un nouveau paragraphe 2 avec la teneur suivante :
+
+(2)
+
+Une prime d’opérationnalité militaire non pensionnable de 20 points indiciaires est allouée aux agents relevant du sous-groupe militaire des catégories de traitement A et B et aux militaires de carrière du sous-groupe à attributions particulières des grades F16 et F17, s’ils sont cumulativement physiquement, médicalement et professionnellement aptes à
+
+- participer aux exercices et manœuvres sur le territoire national et à l’étranger ;
+
+- exercer toutes les tâches militaires leur imposées, dont le port d’une arme de service ;
+
+- être déployés dans une opération pour le maintien de la paix, conformément à la loi modifiée du 27 juillet 1992 relative à la participation du Grand-Duché de Luxembourg à des opérations pour le maintien de la paix et des opérations de prévention, ainsi que de gestion de crise.
+
+L’aptitude opérationnelle est évaluée annuellement sur base d’un examen médical, d’un test de condition physique et d’un parcours d’instruction et d’entrainements militaires dont les modalités sont déterminées par règlement grand-ducal.
+
+L’agent qui, pendant une période de 12 mois consécutifs, ne remplit plus toutes les conditions énumérées à l’alinéa 1er, se voit retirer le bénéfice de la prime d’opérationnalité militaire. Le bénéfice de la prime est rétabli à partir de la date à laquelle l’agent remplit à nouveau lesdites conditions.
+
+Par dérogation à l’alinéa 3, lorsque l’inaptitude opérationnelle de l’agent est la conséquence d’un accident de travail survenu dans l’exercice de ses fonctions, l’agent continue à bénéficier de la prime d’opérationnalité militaire.
+
+- À l’article 23 sont insérés à la suite du paragraphe 2, devenu paragraphe 3, les paragraphes qui se lisent comme suit :
+
+« (4)
+
+Le personnel navigant actif, membre actif d’un équipage d’aéronef qui effectue régulièrement des vols ou participe à des vols, de la composante aérienne touche une prime de vol versée mensuellement avec le traitement de base. Elle est imposable, cotisable et pensionnable. Les montants mensuels de la prime correspondent aux points indiciaires suivants :
+
+| a) co-pilote en apprentissage : | 18,78 points indiciaires ; |
+| --- | --- |
+| b) co-pilote : | 87,17 points indiciaires ; |
+| c) commandant de bord en apprentissage : | 93,7 points indiciaires ; |
+| d) commandant de bord : | 106,8 points indiciaires ; |
+| e) soutier certifié : | 33,06 points indiciaires ; |
+| f) soutier breveté : | 52,57 points indiciaires ; |
+| g) opérateur de cabine certifié : | 52,62 points indiciaires ; |
+| h) opérateur de cabine breveté : | 56,45 points indiciaires ; |
+| i) assistant à l’opérateur de cabine : | 19,52 points indiciaires. |
+
+(5)
+
+Le personnel navigant non-actif est constitué du personnel navigant de l’Armée qui a été membre actif d’un équipage d’aéronef, mais qui n’effectue plus de vols ou ne participe plus à des vols.
+
+(6)
+
+Par référence aux montants fixés au paragraphe 4, le personnel navigant non-actif, qui a été membre actif d’un équipage d’aéronef pendant moins de douze ans touche une prime de vol mensuelle imposable, cotisable et pensionnable, dont le montant correspond à :
+
+- cent pour cent du montant de la dernière prime perçue en tant que membre actif d’un équipage d’aéronef pendant trente-six mois à compter de la date à partir de laquelle il fait partie du personnel navigant non-actif ;
+
+- quatre-vingt pour cent du montant de la dernière prime perçue en tant que membre actif d’un équipage d’aéronef pendant vingt-quatre mois à partir de l’écoulement de la période de trente-six mois mentionnée à la lettre a) ;
+
+- soixante pour cent du montant de la dernière prime perçue en tant que membre actif d’un équipage d’aéronef pendant vingt-quatre mois à partir de l’écoulement de la période de vingt-quatre mois mentionnée à la lettre b).
+
+Après l’écoulement d’une durée totale de quatre-vingt-quatre mois à compter de la date à partir de laquelle il fait partie du personnel navigant non-actif, le personnel navigant, qui a été membre actif d’un équipage d’aéronef pendant moins de douze ans, ne touche plus de prime de vol.
+
+(7)
+
+Par référence aux montants fixés au paragraphe 4, le personnel navigant non-actif, qui a été membre actif d’un équipage d’aéronef pendant au moins ou plus de douze ans, touche une prime de vol mensuelle imposable, cotisable et pensionnable, dont le montant correspond à :
+
+- cent pour cent du montant de la dernière prime perçue en tant que membre actif d’un équipage d’aéronef pendant trente-six mois à compter de la date à partir de laquelle il fait partie du personnel navigant non-actif ;
+
+- quatre-vingt pour cent du montant de la dernière prime perçue en tant que membre actif d’un équipage d’aéronef pendant vingt-quatre mois à partir de l’écoulement de la période de trente-six mois mentionnée à la lettre a) ;
+
+- soixante pour cent du montant de la dernière prime perçue en tant que membre actif d’un équipage d’aéronef pendant cent-vingt mois à partir de l’écoulement de la période de vingt-quatre mois mentionnée à la lettre b).
+
+(8)
+
+Le personnel navigant qui a été membre actif d’un équipage d’aéronef et qui, de son propre gré, demande une réaffectation à une fonction non navigante ou qui, pour des raisons d’échec professionnel, perd sa qualification aérienne n’a pas droit à la prime.
 
 - À l’annexe A, la rubrique III. Armée, Police et Inspection générale de la Police est remplacée par la rubrique figurant à l’annexe A de la présente loi.
 
-- À l’annexe B, sous « B2) Allongements », point 5, les termes et du sous-groupe militaire sont insérés entre les termes groupe de traitement C2, sous-groupe policier et les termes de la même rubrique .
+- À l’annexe B, sous « B2) Allongements », point 5, les termes et du sous-groupe militaire sont insérés entre les termes groupe de traitement C2, sous-groupe policier et les termes de la même rubrique.
 
 <a id="art-113"></a>
 ## Art. 113.
@@ -2060,7 +2221,7 @@ L’article 1er, paragraphe 8 de la loi modifiée du 16 avril 1979 fixant le sta
 
 - À la lettre a), le terme lieutenant est remplacé par ceux de militaire de carrière ;
 
-- À la lettre b), après les termes en enseignement technique sont ajoutés ceux de et du militaire de carrière de la musique militaire .
+- À la lettre b), après les termes en enseignement technique sont ajoutés ceux de et du militaire de carrière de la musique militaire.
 
 #### Chapitre 7 Disposition abrogatoire
 

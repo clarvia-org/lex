@@ -34,7 +34,7 @@ Aux fins de la présente loi, on entend par :
 
 - « service agréé » :
 
-  - tout service de formation, d’emploi ou d’activité de jour pour personnes en situation de handicap ainsi que tout centre psycho-gériatrique pour personnes âgées agréés conformément à l’article 1 er , alinéa 2, de la loi modifiée du 8 septembre 1998 réglant les relations entre l’État et les organismes œuvrant dans les domaines social, familial et thérapeutique ;
+  - tout service de formation, d’emploi ou d’activité de jour pour personnes en situation de handicap ainsi que tout centre psycho-gériatrique pour personnes âgées agréés conformément à l’article 1er, alinéa 2, de la loi modifiée du 8 septembre 1998 réglant les relations entre l’État et les organismes œuvrant dans les domaines social, familial et thérapeutique ;
 
   - tout service comparable à ceux énumérés à la lettre a) agréé par une autorité compétente d’un État membre de l’Union européenne ;
 
@@ -114,7 +114,7 @@ Par dérogation à l’article 54, alinéas 1er et 2, et à l’article 12, alin
 
 - le remboursement intégral du salaire et autres avantages, les charges patronales incluses, avancés par l’employeur pour les incapacités de travail concernant le congé pour soutien familial ;
 
-- le paiement aux travailleurs indépendants du montant intégral des indemnités pécuniaires dues à titre du congé pour soutien familial pendant la période de suspension prévue à l’article 12, alinéa 3, du Code de la sécurité sociale .
+- le paiement aux travailleurs indépendants du montant intégral des indemnités pécuniaires dues à titre du congé pour soutien familial pendant la période de suspension prévue à l’article 12, alinéa 3, du Code de la sécurité sociale.
 
 <a id="art-4"></a>
 ## Art. 4.

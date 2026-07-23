@@ -143,11 +143,11 @@ Cessation de validité de la marque d’identification
 
 La marque d’identification attribuée n’est plus valable:
 
-- en cas de changement de propriétaire ou de détenteur de la «menue embarcation» ;
+- en cas de changement de propriétaire ou de détenteur de la «menue embarcation»;
 
-- en cas de vol, destruction, exportation ou mise hors usage de la «menue embarcation» ;
+- en cas de vol, destruction, exportation ou mise hors usage de la «menue embarcation»;
 
-- en cas de changement des caractéristiques techniques ou du nom ou de la devise de la «menue embarcation» ;
+- en cas de changement des caractéristiques techniques ou du nom ou de la devise de la «menue embarcation»;
 
 - en cas de changement de domicile du propriétaire ou du détenteur;
 

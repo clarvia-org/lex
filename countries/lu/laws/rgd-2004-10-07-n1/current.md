@@ -138,7 +138,7 @@ La demande en reconnaissance de la qualité de salarié handicapé est à introd
 
 - des pièces justifiant de la qualité d'administrateur légal ou de représentant légal si le requérant a besoin d'être représenté dans ses actes
 
-  - si le requérant est un majeur protégé au sens des dispositions légales du Titre XI du Livre 1 er du Code civil , la demande sera accompagnée d'une copie du jugement ou d'un extrait du répertoire civil ou d'une attestation équivalente justifiant de la qualité de représentant légal du requérant
+  - si le requérant est un majeur protégé au sens des dispositions légales du Titre XI du Livre 1er du Code civil, la demande sera accompagnée d'une copie du jugement ou d'un extrait du répertoire civil ou d'une attestation équivalente justifiant de la qualité de représentant légal du requérant
 
 (2)
 
@@ -209,7 +209,7 @@ La demande en obtention du revenu pour personnes gravement handicapées est form
 
 - rapporter la preuve d’un droit de séjour de plus de trois mois, conformément aux dispositions des articles 6 et 7 de la loi modifiée du 29 août 2008 sur la libre circulation des personnes et l’immigration, s’il est ressortissant d’un Etat membre de l’Union européenne ou d’un Etat ayant adhéré à l’Accord sur l’Espace Economique Européen ou de la Confédération suisse;
 
-- rapporter la preuve qu’il était en séjour régulier au Luxembourg pendant la période de cinq ans, prise en considération, conformément au paragraphe 2, alinéa 2 de l’article 1 er de la loi, s’il est ressortissant d’un Etat autre que ceux visés à l’alinéa ci-avant.
+- rapporter la preuve qu’il était en séjour régulier au Luxembourg pendant la période de cinq ans, prise en considération, conformément au paragraphe 2, alinéa 2 de l’article 1er de la loi, s’il est ressortissant d’un Etat autre que ceux visés à l’alinéa ci-avant.
 
 (2)
 
@@ -476,7 +476,7 @@ La demande du salarié handicapé visé par le dernier alinéa du paragraphe 2 d
 
 - une décision devenue définitive de la Commission d'orientation et de reclassement professionnel quant à l'orientation du requérant sur le marché de travail ordinaire ou dans un atelier protégé,
 
-- une pièce délivrée par la commune de résidence du requérant et établissant la condition d) du paragraphe 2 de l'article 1 er de la loi dans le chef du requérant,
+- une pièce délivrée par la commune de résidence du requérant et établissant la condition d) du paragraphe 2 de l'article 1er de la loi dans le chef du requérant,
 
 - des pièces récentes établissant l'état des ressources du requérant,
 
@@ -484,7 +484,7 @@ La demande du salarié handicapé visé par le dernier alinéa du paragraphe 2 d
 
 - des pièces justifiant de la qualité d'administrateur légal ou de représentant légal si le requérant a besoin d'être représenté dans ses actes
 
-  - si le requérant est un majeur protégé au sens des dispositions légales du Titre XI du Livre 1 er du Code civil , la demande sera accompagnée d'une copie du jugement ou d'un extrait du répertoire civil ou d'une attestation équivalente justifiant de la qualité de représentant légal du requérant.
+  - si le requérant est un majeur protégé au sens des dispositions légales du Titre XI du Livre 1er du Code civil, la demande sera accompagnée d'une copie du jugement ou d'un extrait du répertoire civil ou d'une attestation équivalente justifiant de la qualité de représentant légal du requérant.
 
 (2)
 

@@ -76,7 +76,7 @@ Le siège du CGDIS est à Luxembourg.
 
 Le CGDIS a comme mission la planification, la mise en œuvre et l’organisation :
 
-- des secours aux personnes victimes de détresses vitales, d’accidents, d’événements calamiteux, de catastrophes, de sinistres et d’incendies , du transport en ambulance dépêché par le central des secours d’urgence vers un service d’urgence d’un centre hospitalier participant au service de garde, tel que visé à l’article 4, paragraphe 6 de la loi du 8 mars 2018 relative aux établissements hospitaliers et à la planification hospitalière ;
+- des secours aux personnes victimes de détresses vitales, d’accidents, d’événements calamiteux, de catastrophes, de sinistres et d’incendies, du transport en ambulance dépêché par le central des secours d’urgence vers un service d’urgence d’un centre hospitalier participant au service de garde, tel que visé à l’article 4, paragraphe 6 de la loi du 8 mars 2018 relative aux établissements hospitaliers et à la planification hospitalière ;
 
 - de la prévention, de la protection et de la lutte contre les incendies ;
 
@@ -1079,7 +1079,7 @@ Les centres d'incendie et de secours sont les unités organisationnelles chargé
 
 Ils sont créés et classés en six catégories conformément aux objectifs suivants :
 
-- les centres d’incendie et de secours de catégorie IV bis assurent simultanément au moins deux départs en intervention pour une mission de lutte contre l'incendie ou de sauvetage, au moins quatre départs en intervention pour une mission de secours d'urgence aux personnes et deux autres départs en intervention ;
+- les centres d’incendie et de secours de catégorie IVbis assurent simultanément au moins deux départs en intervention pour une mission de lutte contre l'incendie ou de sauvetage, au moins quatre départs en intervention pour une mission de secours d'urgence aux personnes et deux autres départs en intervention ;
 
 - les centres d’incendie et de secours de catégorie IV assurent simultanément au moins deux départs en intervention pour une mission de lutte contre l'incendie ou de sauvetage, au moins deux départs en intervention pour une mission de secours d'urgence aux personnes et un autre départ en intervention ;
 
@@ -1087,7 +1087,7 @@ Ils sont créés et classés en six catégories conformément aux objectifs suiv
 
 - les centres d’incendie et de secours de catégorie II assurent simultanément au moins un départ en intervention pour une mission de lutte contre l'incendie ou de sauvetage et un autre départ en intervention ;
 
-- les centres d’incendie et de secours de catégorie II bis assurent simultanément au moins un départ en intervention pour une mission de lutte contre l'incendie ou de sauvetage et une mission de secours d'urgence aux personnes ;
+- les centres d’incendie et de secours de catégorie IIbis assurent simultanément au moins un départ en intervention pour une mission de lutte contre l'incendie ou de sauvetage et une mission de secours d'urgence aux personnes ;
 
 - les centres d’incendie et de secours de catégorie I assurent au moins un départ en intervention.
 
@@ -1371,9 +1371,13 @@ En cas de récidive dans le délai de deux ans après une condamnation définiti
 
 La loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu est modifiée comme suit :
 
-- l’article 112, alinéa 1 er , point 1 est complété par le tiret suivant : « - à l’établissement public « Corps grand-ducal d’incendie et de secours, » ;
+- l’article 112, alinéa 1er, point 1 est complété par le tiret suivant :
 
-- l’article 150 est complété par les termes «, le Corps grand-ducal d’incendie et de secours ».
+« - à l’établissement public « Corps grand-ducal d’incendie et de secours, » ;
+
+- l’article 150 est complété par les termes
+
+«, le Corps grand-ducal d’incendie et de secours ».
 
 <a id="art-111"></a>
 ## Art. 111.
@@ -1383,7 +1387,7 @@ L’article 1er, paragraphe 2, de la loi modifiée du 16 avril 1979 portant rég
 <a id="art-112"></a>
 ## Art. 112.
 
-L’article 8, lettre b) de la loi modifiée du 8 décembre 1981 sur les réquisitions en cas de conflit armé, de crise internationale grave ou de catastrophe est complété in finecomme suit :
+L’article 8, lettre b) de la loi modifiée du 8 décembre 1981 sur les réquisitions en cas de conflit armé, de crise internationale grave ou de catastrophe est complété in fine comme suit :
 
 - les membres du Corps grand-ducal d’incendie et de secours, pour des prestations autres que celles prévues dans les lois et règlements régissant ce corps. ».
 
@@ -1392,11 +1396,27 @@ L’article 8, lettre b) de la loi modifiée du 8 décembre 1981 sur les réquis
 
 La loi communale modifiée du 13 décembre 1988 est modifiée comme suit :
 
-- À l’article 11 ter , paragraphe 1 er , il est ajouté un point 7 : Les membres du comité directeur tels que définis aux articles 20 et suivants de la loi du 27 mars 2018 portant organisation de la sécurité civile. ».
+- À l’article 11ter, paragraphe 1er, il est ajouté un point 7 :
 
-- À l’article 11 quater , il est ajouté un point 3 : Le chef de zone, le chef de zone adjoint au sein de leur zone d’affectation, le chef de centre ainsi que le chef de centre adjoint au sein de leur commune d’affectation, tels que définis aux articles 78 et 79 de la loi du 27 mars 2018 portant organisation de la sécurité civile. ».
+- Les membres du comité directeur tels que définis aux articles 20 et suivants de la loi du 27 mars 2018 portant organisation de la sécurité civile. ».
 
-- L’article 100 est remplacé par le texte suivant : « Chaque commune participe au coût de la mise en place et du maintien du service d’incendie et de secours en contribuant au financement de l’établissement public à caractère administratif dénommé « Corps grand-ducal d’incendie et de secours », chargé de la mise en œuvre des services d’incendie et de secours au pays. Les contributions financières annuelles des communes sont fixées comme suit : - cinquante pour cent de la contribution de chaque commune sont déterminés en fonction du nombre d’habitants dans la commune, calculé par l’Institut national de la statistique et des études économiques et arrêté au 1er janvier de l’année précédant celle pour laquelle la contribution est due ; - cinquante pour cent de la contribution de chaque commune sont déterminés par le quotient de la part de la commune dans l’ensemble des recettes nationales perçues au profit du Fonds de dotation globale des communes, des participations directes au produit en impôt commercial communal, ainsi que des mesures de compensation éventuelles, déduction faite des participations éventuelles au Fonds pour l’emploi, ces montants se rapportant à l’exercice précédant celui pour lequel la contribution est due. Respectivement les avances et la participation définitive allouées à chaque commune au titre du Fonds de dotation globale des communes, institué par la loi du 14 décembre 2016 portant création d’un Fonds de dotation globale des communes, sont diminuées de la contribution obligatoire de la commune au financement du Corps grand-ducal d’incendie et de secours. Pour l’exercice 2018, l’avance du deuxième trimestre 2018 comprend également la contribution obligatoire du premier trimestre 2018. Les modalités d’application des dispositions ci-dessus peuvent être précisées par règlement grand-ducal. ».
+- À l’article 11quater, il est ajouté un point 3 :
+
+- Le chef de zone, le chef de zone adjoint au sein de leur zone d’affectation, le chef de centre ainsi que le chef de centre adjoint au sein de leur commune d’affectation, tels que définis aux articles 78 et 79 de la loi du 27 mars 2018 portant organisation de la sécurité civile. ».
+
+- L’article 100 est remplacé par le texte suivant :
+
+« Chaque commune participe au coût de la mise en place et du maintien du service d’incendie et de secours en contribuant au financement de l’établissement public à caractère administratif dénommé « Corps grand-ducal d’incendie et de secours », chargé de la mise en œuvre des services d’incendie et de secours au pays.
+
+Les contributions financières annuelles des communes sont fixées comme suit :
+
+- cinquante pour cent de la contribution de chaque commune sont déterminés en fonction du nombre d’habitants dans la commune, calculé par l’Institut national de la statistique et des études économiques et arrêté au 1er janvier de l’année précédant celle pour laquelle la contribution est due ;
+
+- cinquante pour cent de la contribution de chaque commune sont déterminés par le quotient de la part de la commune dans l’ensemble des recettes nationales perçues au profit du Fonds de dotation globale des communes, des participations directes au produit en impôt commercial communal, ainsi que des mesures de compensation éventuelles, déduction faite des participations éventuelles au Fonds pour l’emploi, ces montants se rapportant à l’exercice précédant celui pour lequel la contribution est due.
+
+Respectivement les avances et la participation définitive allouées à chaque commune au titre du Fonds de dotation globale des communes, institué par la loi du 14 décembre 2016 portant création d’un Fonds de dotation globale des communes, sont diminuées de la contribution obligatoire de la commune au financement du Corps grand-ducal d’incendie et de secours. Pour l’exercice 2018, l’avance du deuxième trimestre 2018 comprend également la contribution obligatoire du premier trimestre 2018.
+
+Les modalités d’application des dispositions ci-dessus peuvent être précisées par règlement grand-ducal. ».
 
 - Les articles 101 et 102 sont abrogés.
 
@@ -1421,17 +1441,25 @@ d’assurer l’intervention en cas d’accident ou d’incident d’aéronef su
 
 La loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État est modifiée comme suit :
 
-- À l'article 12, paragraphe 1 er , alinéa 7, point 8°, les termes de directeur fonctionnel du Corps grand-ducal d'incendie et de secours, sont insérés à la suite des termes d'inspecteur général adjoint de la sécurité dans la Fonction publique, .
+- À l'article 12, paragraphe 1er, alinéa 7, point 8°, les termes de directeur fonctionnel du Corps grand-ducal d'incendie et de secours,sont insérés à la suite des termes d'inspecteur général adjoint de la sécurité dans la Fonction publique,.
 
-- À l'article 12, paragraphe 1 er , alinéa 7, point 11°, les termes de directeur général du Corps grand-ducal d'incendie et de secours sont insérés à la suite des termes de Haut-Commissaire à la Protection nationale, .
+- À l'article 12, paragraphe 1er, alinéa 7, point 11°, les termes de directeur général du Corps grand-ducal d'incendie et de secourssont insérés à la suite des termes de Haut-Commissaire à la Protection nationale, .
 
-- À l’article 22, paragraphe 1 er , la lettre b) est modifiée comme suit : « aux agents du cadre de base des pompiers professionnels du Corps grand-ducal d’incendie et de secours, tel que défini à l’article 53 de la loi du 27 mars 2018 portant organisation de la sécurité civile ; ».
+- À l’article 22, paragraphe 1er, la lettre b) est modifiée comme suit :
 
-- À l’article 22, paragraphe 2, il est ajouté une lettre c) libellée comme suit : aux agents du cadre supérieur et du cadre moyen des pompiers professionnels du Corps grand-ducal d’incendie et de secours, tels que définis aux articles 51 et 52 de la loi du 27 mars 2018 portant organisation de la sécurité civile ».
+« aux agents du cadre de base des pompiers professionnels du Corps grand-ducal d’incendie et de secours, tel que défini à l’article 53 de la loi du 27 mars 2018 portant organisation de la sécurité civile ; ».
 
-- À l’article 22, paragraphe 2, il est ajouté une lettre d) libellée comme suit : au directeur général, ainsi qu’aux directeurs fonctionnels du Corps grand-ducal d’incendie et de secours ».
+- À l’article 22, paragraphe 2, il est ajouté une lettre c) libellée comme suit :
 
-- L’annexe A est complétée au grade 17 par la fonction « , directeur général du Corps grand-ducal d’incendie et de secours »
+- aux agents du cadre supérieur et du cadre moyen des pompiers professionnels du Corps grand-ducal d’incendie et de secours, tels que définis aux articles 51 et 52 de la loi du 27 mars 2018 portant organisation de la sécurité civile ».
+
+- À l’article 22, paragraphe 2, il est ajouté une lettre d) libellée comme suit :
+
+- au directeur général, ainsi qu’aux directeurs fonctionnels du Corps grand-ducal d’incendie et de secours ».
+
+- L’annexe A est complétée au grade 17 par la fonction
+
+« , directeur général du Corps grand-ducal d’incendie et de secours »
 
 et au grade 16 par la fonction
 

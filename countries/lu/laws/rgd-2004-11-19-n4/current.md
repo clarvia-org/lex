@@ -78,7 +78,7 @@ Le pharmacien responsable de la fabrication prévu à l’article 4 de la loi du
 
 - de s’assurer dans le cas de médicaments en provenance de pays tiers, même si la fabrication a été effectuée dans la Communauté, que chaque lot de fabrication importé a fait l’objet, dans un État membre, d’une analyse qualitative complète, d’une analyse quantitative d’au moins toutes les substances actives et de tous les autres essais ou vérifications nécessaires pour assurer la qualité des médicaments dans le respect des exigences retenues pour l’autorisation de mise sur le marché.
 
-- de veiller, dans le cas de médicaments destinés à être mis sur le marché dans l’Union européenne, à ce que les dispositifs de sécurité visés à l’article 10, paragraphe 1 er , point o) du règlement grand-ducal modifié du 15 décembre 1992 relatif à la mise sur le marché des médicaments, aient été apposés sur l’emballage.
+- de veiller, dans le cas de médicaments destinés à être mis sur le marché dans l’Union européenne, à ce que les dispositifs de sécurité visés à l’article 10, paragraphe 1er, point o) du règlement grand-ducal modifié du 15 décembre 1992 relatif à la mise sur le marché des médicaments, aient été apposés sur l’emballage.
 
 <a id="art-3"></a>
 ## Art. 3.
@@ -645,7 +645,7 @@ Le titulaire d’une autorisation de distribution conserve une documentation soi
 
 - le nom et l’adresse du fournisseur ou du destinataire, selon le cas,
 
-- le numéro de lot des médicaments, au moins pour les médicaments portant les dispositifs de sécurité visés à l’article 10, paragraphe 1 er , point o) du règlement grand-ducal modifié du 15 décembre 1992 relatif à la mise sur le marché des médicaments.
+- le numéro de lot des médicaments, au moins pour les médicaments portant les dispositifs de sécurité visés à l’article 10, paragraphe 1er, point o) du règlement grand-ducal modifié du 15 décembre 1992 relatif à la mise sur le marché des médicaments.
 
 <a id="art-22quinquies"></a>
 ## Art. 22quinquies.
@@ -689,11 +689,11 @@ Le titulaire d’une autorisation de distribution est tenu:
 
 Les substances actives ne peuvent être importées que si les conditions suivantes sont remplies:
 
-- les substances actives ont été fabriquées conformément à des normes de bonnes pratiques de fabrication visées à l’article 11, paragraphe 1 er au moins équivalentes à celles visées à l’article 11, paragraphe 1 er ; et
+- les substances actives ont été fabriquées conformément à des normes de bonnes pratiques de fabrication visées à l’article 11, paragraphe 1er au moins équivalentes à celles visées à l’article 11, paragraphe 1er; et
 
 - les substances actives sont accompagnées d’une confirmation écrite de l’autorité compétente du pays tiers exportateur attestant que:
 
-  - les normes de bonnes pratiques de fabrication applicables à l’établissement qui fabrique la substance active exportée sont au moins équivalentes à celles visées à l’article 11, paragraphe 1 er ;
+  - les normes de bonnes pratiques de fabrication applicables à l’établissement qui fabrique la substance active exportée sont au moins équivalentes à celles visées à l’article 11, paragraphe 1er;
 
   - l’établissement de fabrication concerné fait l’objet de contrôles réguliers, stricts et transparents et de mesures efficaces d’exécution des bonnes pratiques de fabrication, y compris d’inspections répétées et inopinées, garantissant une protection de la santé publique au moins équivalente à celle assurée par l’Union européenne; et
 
@@ -731,7 +731,7 @@ Pour toute fourniture de médicaments à un pharmacien, le titulaire d’une aut
 
 - le nom et l’adresse du fournisseur et du destinataire,
 
-- le numéro de lot des médicaments, au moins pour les médicaments portant des dispositifs de sécurité visés à l’article 10, paragraphe 1 er , point o) du règlement grand-ducal modifié du 15 décembre 1992 relatif à la mise sur le marché des médicaments.
+- le numéro de lot des médicaments, au moins pour les médicaments portant des dispositifs de sécurité visés à l’article 10, paragraphe 1er, point o) du règlement grand-ducal modifié du 15 décembre 1992 relatif à la mise sur le marché des médicaments.
 
 <a id="art-22nonies"></a>
 ## Art. 22nonies.
@@ -788,7 +788,7 @@ Les personnes exerçant des activités de courtage de médicaments sont tenues:
 
   - le nom et l’adresse du fournisseur ou du destinataire, selon le cas,
 
-  - le numéro de lot des médicaments, au moins pour les médicaments portant les dispositifs de sécurité visés à l’article 10, paragraphe 1 er , point o);
+  - le numéro de lot des médicaments, au moins pour les médicaments portant les dispositifs de sécurité visés à l’article 10, paragraphe 1er, point o);
 
 - tenir la documentation visée au point b) à la disposition des pharmaciens-inspecteurs une période de cinq ans;
 

@@ -26,6 +26,8 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 ### Titre 1er Interventions financières en faveur du secteur agricole
 
+#### Sous-titre 1er Dispositions communes
+
 <a id="art-1er"></a>
 ## Art. 1er.
 
@@ -177,6 +179,8 @@ Pour chaque exploitation agricole le ministre arrête le nombre d’unités de t
 
 Lorsqu’il constate qu’un exploitant se trouve en infraction à l’article 6, le ministre met celui-ci en demeure de régulariser sa situation. Si, à l’expiration du délai imparti, l’exploitation se poursuit dans des conditions irrégulières, le ministre prononce à l’encontre de l’exploitant une sanction pécuniaire correspondant à 20 000 euros par unité de travail annuel se rapportant à la production animale dépassant le nombre autorisé. La sanction est reconduite annuellement aussi longtemps que l’intéressé n’a pas régularisé sa situation.
 
+#### Sous-titre 2 Paiements directs
+
 #### Chapitre 1er Aide de base au revenu pour un développement durable
 
 <a id="art-10"></a>
@@ -262,6 +266,8 @@ L’agriculteur actif reçoit annuellement, sur demande, une aide pour la partic
 L’aide prend la forme d’un montant par hectare.
 
 Un règlement grand-ducal précise le contenu des programmes et les conditions d’application des aides.
+
+#### Sous-titre 3 Aides au développement rural
 
 #### Chapitre 1er Investissements
 
@@ -1679,11 +1685,11 @@ La sanction administrative peut revêtir une des formes suivantes :
 
 La sanction administrative s’inscrit dans les limites suivantes :
 
-- le montant de la sanction visée au paragraphe 1 er , alinéa 2, points 1 et 2, ne peut pas dépasser, pour une année déterminée, 100 pour cent du montant des demandes d’aide auxquelles la sanction est appliquée ;
+- le montant de la sanction visée au paragraphe 1er, alinéa 2, points 1 et 2, ne peut pas dépasser, pour une année déterminée, 100 pour cent du montant des demandes d’aide auxquelles la sanction est appliquée ;
 
-- l’exclusion visée au paragraphe 1 er , alinéa 2, point 3, s’applique au maximum pendant trois années consécutives et s’applique à nouveau en présence d’un nouveau cas de non-respect ;
+- l’exclusion visée au paragraphe 1er, alinéa 2, point 3, s’applique au maximum pendant trois années consécutives et s’applique à nouveau en présence d’un nouveau cas de non-respect ;
 
-- le refus d’attribution ou le retrait de droits au paiement, visés au paragraphe 1 er , alinéa 2, point 4, ne peut pas dépasser le nombre de droits au paiement demandés.
+- le refus d’attribution ou le retrait de droits au paiement, visés au paragraphe 1er, alinéa 2, point 4, ne peut pas dépasser le nombre de droits au paiement demandés.
 
 (3)
 

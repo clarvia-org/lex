@@ -38,7 +38,7 @@ Au formulaire dûment rempli sont à joindre les documents justificatifs suivant
 
 - une copie d’une pièce d’identité en cours de validité ; et le cas échéant un document attestant le bénéfice des dispositions de l’article 3, point q) de la loi du 28 octobre 2016 relative à la reconnaissance des qualifications professionnelles ;
 
-- une copie des titres de formation ou des décisions de reconnaissance visées aux points a) et b) du paragraphe 1 er de l’article 2 de la loi du 14 juillet 2015 portant création de la profession de psychothérapeute;
+- une copie des titres de formation ou des décisions de reconnaissance visées aux points a) et b) du paragraphe 1er de l’article 2 de la loi du 14 juillet 2015 portant création de la profession de psychothérapeute;
 
 - l’attestation relative à la santé physique et psychique visée à l’article 2 du présent règlement;
 

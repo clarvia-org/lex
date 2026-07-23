@@ -66,7 +66,7 @@ Cette liste a pour finalité :
 
 - la transparence, auprès du comité d’éthique, des informations précitées touchant aux activités rémunérées et professionnelles des membres du Gouvernement, de leurs conjoints ou partenaires, les participations financières individualisées ainsi qu’au patrimoine immobilier et à la situation d’endettement des membres du Gouvernement ;
 
-- l’information des citoyens sur des données visées au paragraphe 1 er à l’exception des points 4° et 5° ;
+- l’information des citoyens sur des données visées au paragraphe 1er à l’exception des points 4° et 5° ;
 
 - la mise à disposition au public de ces informations à l’exception des points 4° et 5°.
 
@@ -151,13 +151,13 @@ Le Gouvernement tient un registre des entrevues ayant eu lieu entre les membres 
 
 Le registre a pour finalité :
 
-- l’identification et le recensement des informations relatives aux entrevues visées à l’alinéa 1 er ;
+- l’identification et le recensement des informations relatives aux entrevues visées à l’alinéa 1er ;
 
 - la transparence des prises d’influence sur les activités législatives ou réglementaires du Gouvernement par les représentants d’intérêts et les tiers ;
 
 - l’information des citoyens sur les contacts entre les membres du Gouvernement et les représentants d’intérêts et les tiers ;
 
-- la mise à disposition au public des informations relatives aux entrevues visées à l’alinéa 1 er .
+- la mise à disposition au public des informations relatives aux entrevues visées à l’alinéa 1er.
 
 Le registre est publiquement accessible sur le site internet du Gouvernement.
 

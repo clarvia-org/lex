@@ -191,9 +191,9 @@ Jusqu’au 20 décembre 2029, les employeurs veillent à ce qu’aucun salarié 
 
 À compter du 21 décembre 2029, les employeurs veillent à ce qu’aucun salarié ne soit exposé à une concentration d’amiante en suspension dans l’air supérieure :
 
-- à 0,01 fibre par cm 3 en moyenne pondérée dans le temps sur 8 heures (TWA), conformément à l’article 7, paragraphe 6, alinéa 3 ; ou
+- à 0,01 fibre par cm3 en moyenne pondérée dans le temps sur 8 heures (TWA), conformément à l’article 7, paragraphe 6, alinéa 3 ; ou
 
-- à 0,002 fibre par cm 3 en moyenne pondérée dans le temps sur 8 heures (TWA).
+- à 0,002 fibre par cm3 en moyenne pondérée dans le temps sur 8 heures (TWA).
 
 3.
 
@@ -203,9 +203,9 @@ Jusqu’au 20 décembre 2029, la valeur alarme de la concentration d’amiante e
 
 À compter du 21 décembre 2029, la valeur alarme de la concentration d’amiante en suspension dans l’air lors de la surveillance d’un chantier de désamiantage est fixée :
 
-- à 0,005 fibre par cm 3 en moyenne pondérée dans le temps sur 8 heures (TWA), conformément à l’article 7, paragraphe 6, alinéa 3 ; ou
+- à 0,005 fibre par cm3 en moyenne pondérée dans le temps sur 8 heures (TWA), conformément à l’article 7, paragraphe 6, alinéa 3 ; ou
 
-- à 0,001 fibre par cm 3 en moyenne pondérée dans le temps sur 8 heures (TWA).
+- à 0,001 fibre par cm3 en moyenne pondérée dans le temps sur 8 heures (TWA).
 
 <a id="art-9"></a>
 ## Art. 9.
@@ -440,7 +440,7 @@ Sous réserve de l'article 3, paragraphe 3, les mesures suivantes doivent être 
 
 - Une évaluation de son état de santé doit être disponible pour chaque salarié préalablement à l'exposition à la poussière provenant de l'amiante ou des matériaux contenant de l'amiante. Cette évaluation doit inclure un examen spécifique du thorax. L'annexe II donne des recommandations pratiques auxquelles il est possible de se référer pour la surveillance clinique des salariés . Une nouvelle évaluation doit être disponible au moins une fois tous les trois ans aussi longtemps que dure l'exposition. Un dossier médical individuel est établi auprès du service de la médecine au travail compétent pour chaque salarié visé à l’alinéa 1er .
 
-- À la suite de la surveillance clinique visée au point 1, le directeur de l'inspection du travail et des mines ou, en cas d'empêchement, le directeur adjoint su r avis d'un médecin du travail de la direction de la santé, pourra se prononcer sur ou déterminer les éventuelles mesures individuelles de protection ou de prévention à prendre; ces mesures peuvent comprendre, le cas échéant, le retrait du salarié concerné de toute exposition à la poussière provenant de l'amiante ou des matériaux contenant de l'amiante conformément à l'article L. 351-4 du Code du travail .
+- À la suite de la surveillance clinique visée au point 1, le directeur de l'inspection du travail et des mines ou, en cas d'empêchement, le directeur adjoint su r avis d'un médecin du travail de la direction de la santé, pourra se prononcer sur ou déterminer les éventuelles mesures individuelles de protection ou de prévention à prendre; ces mesures peuvent comprendre, le cas échéant, le retrait du salarié concerné de toute exposition à la poussière provenant de l'amiante ou des matériaux contenant de l'amiante conformément à l'article L. 351-4 du Code du travail.
 
 - Des informations et des conseils doivent être fournis aux salariés en ce qui concerne toute évaluation de leur santé à laquelle ils peuvent se soumettre après la fin de l'exposition. Le médecin du travail peut indiquer que la surveillance médicale doit se prolonger après la fin de l'exposition pendant le temps qu'il juge nécessaire pour sauvegarder la santé de l'intéressé.
 
@@ -451,7 +451,7 @@ Sous réserve de l'article 3, paragraphe 3, les mesures suivantes doivent être 
 
 Sous réserve de l'article 3, paragraphe 3:
 
-- L’employeur inscrit dans un registre les informations relatives aux salariés exerçant les activités visées à l’article 3, paragraphe 1 er . Ces informations indiquent la nature et la durée de l’activité ainsi que l’exposition à laquelle les salariés ont été soumis. Le médecin du travail a accès à ce registre. Les salariés ont accès à leurs résultats personnels contenus dans ce registre. Les salariés et les délégués du personnel ont accès aux informations collectives anonymes contenues dans ce registre.
+- L’employeur inscrit dans un registre les informations relatives aux salariés exerçant les activités visées à l’article 3, paragraphe 1er. Ces informations indiquent la nature et la durée de l’activité ainsi que l’exposition à laquelle les salariés ont été soumis. Le médecin du travail a accès à ce registre. Les salariés ont accès à leurs résultats personnels contenus dans ce registre. Les salariés et les délégués du personnel ont accès aux informations collectives anonymes contenues dans ce registre.
 
 - Le registre visé au point 1 et les dossiers médicaux individuels visés à l'article 14 , point 1, alinéa 4, sont à conserver au moins quarante ans après la fin de l'exposition.
 

@@ -1898,7 +1898,7 @@ L’inscription sur les listes électorales se fait obligatoirement et exclusive
 
 - l’adresse physique postale ;
 
-- le groupe électoral tel que prévu par l’article 1 er ;
+- le groupe électoral tel que prévu par l’article 1er ;
 
 - l’activité principale.
 
@@ -2331,7 +2331,7 @@ Sont nuls :
 
   - qui contiennent à l’intérieur un papier ou un objet quelconque.
 
-- Conformément à l’article 34 de la loi modifiée du 26 octobre 2010 , seront punis d’une amende de 251 à 5.000 euros :
+- Conformément à l’article 34 de la loi modifiée du 26 octobre 2010, seront punis d’une amende de 251 à 5.000 euros :
 
   - quiconque, pour se faire inscrire sur la liste électorale, aura produit des actes ou pièces qu’il savait être simulés ; celui qui aura pratiqué les mêmes manœuvres dans le but de faire inscrire un citoyen sur cette liste ou de l’en faire rayer ;
 
@@ -3076,7 +3076,7 @@ L’inscription sur les listes électorales se fait obligatoirement et exclusive
 
 - l’adresse physique postale ;
 
-- le groupe électoral tel que prévu par l’article 1 er ;
+- le groupe électoral tel que prévu par l’article 1er ;
 
 - l’activité principale.
 
@@ -3509,7 +3509,7 @@ Sont nuls :
 
   - qui contiennent à l’intérieur un papier ou un objet quelconque.
 
-- Conformément à l’article 34 de la loi modifiée du 26 octobre 2010 , seront punis d’une amende de 251 à 5.000 euros :
+- Conformément à l’article 34 de la loi modifiée du 26 octobre 2010, seront punis d’une amende de 251 à 5.000 euros :
 
   - quiconque, pour se faire inscrire sur la liste électorale, aura produit des actes ou pièces qu’il savait être simulés ; celui qui aura pratiqué les mêmes manœuvres dans le but de faire inscrire un citoyen sur cette liste ou de l’en faire rayer ;
 

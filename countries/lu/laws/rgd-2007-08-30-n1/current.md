@@ -218,7 +218,7 @@ Les établissements de tissus importateurs ayant pris des mesures pour garantir 
 
 Dans l’hypothèse d’une importation exceptionnelle, les établissements de tissus importateurs ne doivent pas fournir les informations de l’annexe IX, partie F et de l’annexe XI, à condition que :
 
-- la traçabilité des importations, du donneur au receveur et inversement est garanti; et
+- la traçabilité des importations, du donneur au receveur et inversement est garanti;et
 
 - que les tissus et cellules importés ne sont pas appliqués à des personnes autres que les receveurs prévus.
 
@@ -254,7 +254,7 @@ Les établissements de tissus importateurs ont conclu des accords écrits avec l
 
 Dans l’hypothèse d’une importation exceptionnelle, les établissements de tissus importateurs peuvent passer outre cet accord écrit, à condition que :
 
-- la traçabilité des importations, du donneur au receveur et inversement est garanti; et
+- la traçabilité des importations, du donneur au receveur et inversement est garanti;et
 
 - que les tissus et cellules importés ne sont pas appliqués à des personnes autres que les receveurs prévus.
 

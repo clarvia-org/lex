@@ -48,7 +48,7 @@ Peuvent être engagés en qualité de chargé de cours de l’enseignement music
 
 -
 
-  - être au moins détenteur d’un diplôme du 1 er prix visé aux articles 3 et 4 de la loi du 28 avril 1998 portant harmonisation de l’enseignement musical dans le secteur communal et modifiant l’article 5 de la loi du 24 mai 1989 sur le contrat de travail ou d’un diplôme étranger reconnu équivalent par le Ministre ayant l’Enseignement supérieur dans ses attributions, sinon
+  - être au moins détenteur d’un diplôme du 1er prix visé aux articles 3 et 4 de la loi du 28 avril 1998 portant harmonisation de l’enseignement musical dans le secteur communal et modifiant l’article 5 de la loi du 24 mai 1989 sur le contrat de travail ou d’un diplôme étranger reconnu équivalent par le Ministre ayant l’Enseignement supérieur dans ses attributions, sinon
 
   - pouvoir se prévaloir d’un certificat spécial tel que défini à l’article 4, point d) du présent règlement.
 
@@ -79,7 +79,7 @@ Les décisions individuelles de classement sont prises par les conseils communau
 
 - le chargé de cours de l’enseignement musical ou le chargé de direction d’une école de musique titulaire d’un diplôme ou certificat de fin d’études délivré après au moins trois années d’études par un établissement d’enseignement supérieur de musique, de danse ou d’art dramatique, reconnu par le le Ministre ayant l’Enseignement supérieur dans ses attributions, est classé dans le grade E3;
 
-- le chargé de cours de l’enseignement musical ou le chargé de direction d’une école de musique titulaire d’un diplôme du degré supérieur d’un conservatoire de musique luxembourgeois ou d’un diplôme étranger reconnu équivalent par le Ministre ayant l’Enseignement supérieur dans ses attributions est classé au grade E2. Il en est de même du chargé de cours de l’enseignement musical ou du chargé de direction d’une école de musique titulaire d’un diplôme de fin d’études secondaires et d’un diplôme du 1 er prix d’un conservatoire de musique luxembourgeois ou d’un diplôme étranger reconnu équivalent par le Ministre de l’Education Nationale.
+- le chargé de cours de l’enseignement musical ou le chargé de direction d’une école de musique titulaire d’un diplôme du degré supérieur d’un conservatoire de musique luxembourgeois ou d’un diplôme étranger reconnu équivalent par le Ministre ayant l’Enseignement supérieur dans ses attributions est classé au grade E2. Il en est de même du chargé de cours de l’enseignement musical ou du chargé de direction d’une école de musique titulaire d’un diplôme de fin d’études secondaires et d’un diplôme du 1er prix d’un conservatoire de musique luxembourgeois ou d’un diplôme étranger reconnu équivalent par le Ministre de l’Education Nationale.
 
 - le chargé de cours de l’enseignement musical, titulaire d’un certificat spécial attestant les compétences nécessaires pour enseigner une matière déterminée à un niveau déterminé de l’enseignement musical, sans toutefois être titulaire d’un des diplômes visés sous les points a), b) et c) du présent article, et engagé pour une tâche partielle et à durée déterminée pour enseigner la branche en question, est classé dans un des grades E1, E2 ou E3 selon la proposition incluse dans le certificat spécial. Le certificat peut être délivré sur demande par le Ministre ayant la culture dans ses attributions, le Commissaire à l’enseignement musical entendu en son avis;
 

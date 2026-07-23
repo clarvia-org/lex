@@ -83,7 +83,7 @@ L’application au personnel de l’Association d’assurance accident des dispo
 
 - les termes «employés de l’Etat» sont à remplacer par les termes «employés assimilés aux employés de l’Etat»;
 
-- sans préjudice des dispositions de l’article 1 er , point a) et des dispositions du présent article, les compétences dévolues au Grand-Duc, au Gouvernement, au Conseil de Gouvernement, au ministre du ressort et à l’autorité investie du pouvoir de nomination sont exercées par le comité directeur de l’Association d’assurance accident;
+- sans préjudice des dispositions de l’article 1er, point a) et des dispositions du présent article, les compétences dévolues au Grand-Duc, au Gouvernement, au Conseil de Gouvernement, au ministre du ressort et à l’autorité investie du pouvoir de nomination sont exercées par le comité directeur de l’Association d’assurance accident;
 
 - les compétences dévolues au ministre ayant dans ses attributions la Fonction publique par la loi du 25 mars 2015 déterminant le régime et les indemnités des employés de l’Etat, excepté celles concernant la commission d’appréciation des performances professionnelles, sont exercées par le comité directeur de l’Association d’assurance accident, l’avis du ministre du ressort n’étant pas requis;
 

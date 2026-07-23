@@ -144,7 +144,7 @@ Au sens du présent règlement on entend par :
 
   - pour lesquelles il a été constaté, lors d’un examen officiel ou lors d’un examen effectué sous contrôle officiel, que les conditions énoncées aux lettres a), et b) ont été respectées.
 
-- « Contrôle officiel » : l’inspection des cultures sur pied et l’examen des semences après la récolte, effectués par un des organismes officiels de contrôle visés à l’article 5, paragraphe 1 er de la loi du 18 mars 2008 sur la commercialisation des semences et plants ainsi que sur la coexistence des cultures génétiquement modifiées, conventionnelles et biologiques.
+- « Contrôle officiel » : l’inspection des cultures sur pied et l’examen des semences après la récolte, effectués par un des organismes officiels de contrôle visés à l’article 5, paragraphe 1er de la loi du 18 mars 2008 sur la commercialisation des semences et plants ainsi que sur la coexistence des cultures génétiquement modifiées, conventionnelles et biologiques.
 
 <a id="art-4"></a>
 ## Art. 4.
@@ -502,7 +502,7 @@ Lorsque, dans ces cas, les semences ont été produites directement à partir de
 
 Les semences de plantes oléagineuses et à fibres qui ont été récoltées dans l’Union européenne et sont destinées à être certifiées conformément aux dispositions du paragraphe 1er
 
-- sont emballées et étiquetées à l’aide d’une étiquette officielle remplissant les conditions fixées à l’annexe VI, parties A et B, conformément aux dispositions prévues par l’article 19, paragraphe 1 er et,
+- sont emballées et étiquetées à l’aide d’une étiquette officielle remplissant les conditions fixées à l’annexe VI, parties A et B, conformément aux dispositions prévues par l’article 19, paragraphe 1er et,
 
 - sont accompagnées d’un document officiel remplissant les conditions prévues à l’annexe VI, partie C.
 

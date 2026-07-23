@@ -361,21 +361,29 @@ En cas d’absence du certificat de présence, la note finale n’est pas commun
 
 Le règlement grand-ducal modifié du 13 avril 1984 déterminant la procédure des commissions d’examen de l’examen de fin de formation spéciale pendant le stage et de l’examen de promotion dans les administrations et services de l’État est modifié comme suit :
 
-- À l’article 3, paragraphe 1 er , l’alinéa 1 er est supprimé.
+- À l’article 3, paragraphe 1er, l’alinéa 1er est supprimé.
 
-- À l’article 4, le paragraphe 1 er est complété par un nouvel alinéa 2, libellé comme suit : Par dérogation à l’alinéa qui précède, la règle de la double correction des épreuves ne s’applique pas en cas d’épreuves standardisées effectuées par voie informatisée.
+- À l’article 4, le paragraphe 1er est complété par un nouvel alinéa 2, libellé comme suit :
+
+Par dérogation à l’alinéa qui précède, la règle de la double correction des épreuves ne s’applique pas en cas d’épreuves standardisées effectuées par voie informatisée.
 
 - L’article 5 est modifié comme suit :
 
-  - Au paragraphe 3, les termes ou par voie électronique à l’adresse personnelle du président sont insérés entre les termes sous pli fermé et et avant .
+  - Au paragraphe 3, les termes ou par voie électronique à l’adresse personnelle du président sont insérés entre les termes sous pli fermé et et avant.
 
-  - Au paragraphe 4, le terme présentés est supprimé et les termes jusqu’au début de l’épreuve concernée sont ajoutés derrière le terme observé .
+  - Au paragraphe 4, le terme présentés est supprimé et les termes jusqu’au début de l’épreuve concernée sont ajoutés derrière le terme observé.
 
-  - Le paragraphe 5 est complété par un nouvel alinéa 2, libellé comme suit : L’alinéa 1er ne s’applique pas en cas d’épreuves standardisées effectuées par voie informatisée.
+  - Le paragraphe 5 est complété par un nouvel alinéa 2, libellé comme suit :
 
-  - Le paragraphe 7 est complété par un nouvel alinéa 2, libellé comme suit : L’alinéa 1er ne s’applique pas en cas d’épreuves standardisées effectuées par voie informatisée.
+L’alinéa 1er ne s’applique pas en cas d’épreuves standardisées effectuées par voie informatisée.
 
-  - Le paragraphe 11 est complété par un nouvel alinéa 3, libellé comme suit : Les alinéas 1er et 2 ne s’appliquent pas en cas d’épreuves standardisées effectuées par voie informatisée.
+  - Le paragraphe 7 est complété par un nouvel alinéa 2, libellé comme suit :
+
+L’alinéa 1er ne s’applique pas en cas d’épreuves standardisées effectuées par voie informatisée.
+
+  - Le paragraphe 11 est complété par un nouvel alinéa 3, libellé comme suit :
+
+Les alinéas 1er et 2 ne s’appliquent pas en cas d’épreuves standardisées effectuées par voie informatisée.
 
 <a id="art-24"></a>
 ## Art. 24.

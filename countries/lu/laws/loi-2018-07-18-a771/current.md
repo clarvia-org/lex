@@ -110,9 +110,9 @@ Au sens de la présente loi, on entend par :
 
   - il existe et il continuera probablement d’exister un habitat suffisamment étendu pour que ses populations se maintiennent à long terme.
 
-- « espèces Natura 2000 » : espèces d’intérêt communautaire visées par l’annexe II de la directive 92/43/CEE et par l’article 4, point 1, et l’article 4, point 2, de la directive 2009/147/CE . Ces espèces pour lesquelles les zones Natura 2000 sont désignées, sont listées en annexes 2 et 3 ;
+- « espèces Natura 2000 » : espèces d’intérêt communautaire visées par l’annexe II de la directive 92/43/CEE et par l’article 4, point 1, et l’article 4, point 2, de la directive 2009/147/CE. Ces espèces pour lesquelles les zones Natura 2000 sont désignées, sont listées en annexes 2 et 3 ;
 
-- « espèces d’intérêt communautaire » : les espèces visées par l’article 1 er de la directive 2009/147/CE , ainsi que les espèces reprises par le point g) de l’article 1 er de la directive 92/43/CEE et qui sur le territoire européen des États membres où le Traité sur le fonctionnement de l’Union européenne s’applique sont :
+- « espèces d’intérêt communautaire » : les espèces visées par l’article 1er de la directive 2009/147/CE, ainsi que les espèces reprises par le point g) de l’article 1er de la directive 92/43/CEE et qui sur le territoire européen des États membres où le Traité sur le fonctionnement de l’Union européenne s’applique sont :
 
   - en danger, excepté celles dont l’aire de répartition naturelle s’étend de manière marginale sur ce territoire et qui ne sont ni en danger ni vulnérables dans l’aire paléarctique occidentale ; ou
 
@@ -245,7 +245,7 @@ Les activités d’exploitation visées à l’alinéa 1er et les constructions 
 
 - Par exploitation cynégétique, on entend l’exercice du droit de chasse par un locataire de chasse en possession d’un contrat de bail de chasse d’un lot de chasse. Seule est autorisée une cabane de chasse par lot de chasse et pour la durée du bail. Les miradors ne sont autorisés que pour la durée du bail du lot de chasse. Ne constituent pas une activité d’exploitation cynégétique l’élevage, le dressage et l’entraînement des chiens de chasse.
 
-- Par dérogation au paragraphe 1 er , point 1°, première phrase, sont autorisées des constructions de petite envergure, lorsqu’il s’agit d’activités d’exploitation qui comportent la gestion des surfaces proches de leur état naturel. Sont visées la détention en plein air d’animaux de pâturage ou autres activités agricoles, horticoles ou maraichères. Un règlement grand-ducal précise la surface maximale de ces abris en fonction de la surface exploitée, du type d’exploitation et, le cas échéant, du nombre des animaux.
+- Par dérogation au paragraphe 1er, point 1°, première phrase, sont autorisées des constructions de petite envergure, lorsqu’il s’agit d’activités d’exploitation qui comportent la gestion des surfaces proches de leur état naturel. Sont visées la détention en plein air d’animaux de pâturage ou autres activités agricoles, horticoles ou maraichères. Un règlement grand-ducal précise la surface maximale de ces abris en fonction de la surface exploitée, du type d’exploitation et, le cas échéant, du nombre des animaux.
 
 - Un règlement grand-ducal détermine les dispositions à respecter relatives aux dimensions, au nombre, à la surface, à l’implantation, à la durabilité et à l’intégration des constructions.
 
@@ -328,9 +328,9 @@ Une modification des dimensions visée au paragraphe 2, point 5°, est autorisé
 
   - est compatible avec une des affectations prévues à l’article 6 ;
 
-  - n’est pas compatible avec une des affectations prévues à l’article 6 mais les constructions sont légalement existantes ou assimilées au sens du paragraphe 1 er et que la modification des dimensions est nécessaire aux fins d’assainissement thermique des façades et du toit.
+  - n’est pas compatible avec une des affectations prévues à l’article 6 mais les constructions sont légalement existantes ou assimilées au sens du paragraphe 1er et que la modification des dimensions est nécessaire aux fins d’assainissement thermique des façades et du toit.
 
-- les constructions servant de logement sont légalement existantes ou assimilées au sens du paragraphe 1 er et pour
+- les constructions servant de logement sont légalement existantes ou assimilées au sens du paragraphe 1er et pour
 
   - l’augmentation de la surface d’emprise au sol des constructions autorisées en vertu de l’article 6, paragraphe 2 ;
 
@@ -892,7 +892,7 @@ Sans préjudice du chapitre 12 et de ses règlements d’exécution, tout plan o
 
 L’évaluation des incidences est effectuée le cas échéant en plusieurs phases :
 
-- une évaluation sommaire des incidences : elle identifie les conséquences possibles du plan ou du projet du paragraphe 1 er sur une zone Natura 2000 et établit si ce prédit plan ou projet risque d’affecter une zone Natura 2000 de manière significative ; à défaut pour l’évaluation sommaire d’écarter tout risque que la zone Natura 2000 soit affectée de manière significative, une évaluation des incidences doit être effectuée ;
+- une évaluation sommaire des incidences : elle identifie les conséquences possibles du plan ou du projet du paragraphe 1er sur une zone Natura 2000 et établit si ce prédit plan ou projet risque d’affecter une zone Natura 2000 de manière significative ; à défaut pour l’évaluation sommaire d’écarter tout risque que la zone Natura 2000 soit affectée de manière significative, une évaluation des incidences doit être effectuée ;
 
 - une évaluation des incidences : elle est effectuée dans l’hypothèse où un risque pour la zone Natura 2000 n’a pas pu être exclu dans le cadre de l’évaluation sommaire ; elle identifie le risque encouru à cause du plan ou projet par une zone Natura 2000 en fonction des objectifs et mesures de maintien ou de rétablissement de l’état de conservation des espèces et habitats de la zone ; l’évaluation identifie si le plan ou projet aura des incidences négatives sur la zone en portant atteinte à l’intégrité de cette zone ;
 
@@ -1429,7 +1429,7 @@ Peuvent être subventionnés :
 
 - les mesures relatives au maintien et à la restauration des services écosystémiques ; et
 
-- l’entretien ou la restauration d’arbres remarquables listés en vertu de l’article 14 bis .
+- l’entretien ou la restauration d’arbres remarquables listés en vertu de l’article 14bis.
 
 (2)
 
@@ -1875,17 +1875,17 @@ Est punie d’une peine d’emprisonnement de huit jours à trois ans et d’une
 
 - Toute personne qui par infraction à l’article 7, paragraphe 3, change l’affectation d’une construction vers une affectation qui n’est pas conforme à une des affectations prévues à l’article 6 ;
 
-- Toute personne qui par infraction à l’article 7, paragraphe 4, procède à des travaux ou constructions de sécurisation d’une construction qui n’est pas légalement existante en zone verte ou assimilée au sens de l’article 7, paragraphe 1 er , ou du terrain entourant une construction qui n’est pas légalement existante en zone verte ou assimilée au sens de l’article 7, paragraphe 1 er , ou procède à des travaux ou constructions de sécurisation d’une construction ou d’un terrain entourant une construction alors qu’elle n’a pas établi la nécessité de tels travaux ou constructions de sécurisation ;
+- Toute personne qui par infraction à l’article 7, paragraphe 4, procède à des travaux ou constructions de sécurisation d’une construction qui n’est pas légalement existante en zone verte ou assimilée au sens de l’article 7, paragraphe 1er, ou du terrain entourant une construction qui n’est pas légalement existante en zone verte ou assimilée au sens de l’article 7, paragraphe 1er, ou procède à des travaux ou constructions de sécurisation d’une construction ou d’un terrain entourant une construction alors qu’elle n’a pas établi la nécessité de tels travaux ou constructions de sécurisation ;
 
-- Toute personne qui par infraction à l’article 7, paragraphe 5, modifie l’aspect extérieur d’une construction qui n’est pas légalement existante en zone verte ou assimilée au sens du paragraphe 1 er ou modifie l’aspect extérieur d’une construction vers un aspect extérieur qui n’est pas compatible avec les objectifs de l’article 1 er ;
+- Toute personne qui par infraction à l’article 7, paragraphe 5, modifie l’aspect extérieur d’une construction qui n’est pas légalement existante en zone verte ou assimilée au sens du paragraphe 1er ou modifie l’aspect extérieur d’une construction vers un aspect extérieur qui n’est pas compatible avec les objectifs de l’article 1er ;
 
-- Toute personne qui par infraction à l’article 7, paragraphe 6, point 1°, modifie les dimensions d’une construction ne servant pas de logement et dont l’affectation n’est pas compatible avec une des affectations prévues à l’article 6 et qui n’est pas légalement existante en zone verte ou assimilée au sens de l’article 7, paragraphe 1 er , ou modifie les dimensions d’une construction ne servant pas de logement et dont l’affectation n’est pas compatible avec une des affectations prévues à l’article 6 à des fins autres que l’assainissement thermique des façades ou du toit ;
+- Toute personne qui par infraction à l’article 7, paragraphe 6, point 1°, modifie les dimensions d’une construction ne servant pas de logement et dont l’affectation n’est pas compatible avec une des affectations prévues à l’article 6 et qui n’est pas légalement existante en zone verte ou assimilée au sens de l’article 7, paragraphe 1er, ou modifie les dimensions d’une construction ne servant pas de logement et dont l’affectation n’est pas compatible avec une des affectations prévues à l’article 6 à des fins autres que l’assainissement thermique des façades ou du toit ;
 
-- Toute personne qui par infraction à l’article 7, paragraphe 6, point 2°, modifie les dimensions d’une construction servant de logement qui n’est pas légalement existante ou assimilée au sens de l’article 7, paragraphe 1 er , ou modifie les dimensions d’une construction servant de logement qui est légalement existante ou assimilée au sens de l’article 7, paragraphe 1 er , à une fin autre que l’augmentation de la surface d’emprise au sol des constructions autorisées en vertu de l’article 6, paragraphe 2, l’assainissement thermique des façades et du toit, la modification de la hauteur libre sous plafond des niveaux pleins dans la limite d’une hauteur maximale de 2,7 mètres, ou la modification la hauteur libre sous plafond du niveau sous combles dans la limite d’une hauteur maximale de 2,2 mètres sur la moitié de la surface ;
+- Toute personne qui par infraction à l’article 7, paragraphe 6, point 2°, modifie les dimensions d’une construction servant de logement qui n’est pas légalement existante ou assimilée au sens de l’article 7, paragraphe 1er, ou modifie les dimensions d’une construction servant de logement qui est légalement existante ou assimilée au sens de l’article 7, paragraphe 1er, à une fin autre que l’augmentation de la surface d’emprise au sol des constructions autorisées en vertu de l’article 6, paragraphe 2, l’assainissement thermique des façades et du toit, la modification de la hauteur libre sous plafond des niveaux pleins dans la limite d’une hauteur maximale de 2,7 mètres, ou la modification la hauteur libre sous plafond du niveau sous combles dans la limite d’une hauteur maximale de 2,2 mètres sur la moitié de la surface ;
 
-- Toute personne qui par infraction à l’article 7, paragraphe 7, alinéa 1 er , procède à la reconstruction d’une construction qui n’est pas légalement existante ou assimilée au sens de l’article 7, paragraphe 1 er , ou qui procède à la reconstruction d’une construction légalement existante ou assimilée au sens de l’article 7, paragraphe 1 er , qui n’a pas été détruite par un cas fortuit et dont les murs extérieurs ne subsistent pas jusqu’à la hauteur de la corniche sur la majorité des côtés de la construction ;
+- Toute personne qui par infraction à l’article 7, paragraphe 7, alinéa 1er, procède à la reconstruction d’une construction qui n’est pas légalement existante ou assimilée au sens de l’article 7, paragraphe 1er, ou qui procède à la reconstruction d’une construction légalement existante ou assimilée au sens de l’article 7, paragraphe 1er, qui n’a pas été détruite par un cas fortuit et dont les murs extérieurs ne subsistent pas jusqu’à la hauteur de la corniche sur la majorité des côtés de la construction ;
 
-- Toute personne qui par infraction à l’article 7, paragraphe 7, alinéa 2, procède à la reconstruction d’une construction qui n’est pas légalement existante ou assimilée au sens de l’article 7, paragraphe 1 er , ou qui procède à la reconstruction d’une construction qui est légalement existante ou assimilée au sens de l’article 7, paragraphe 1 er , et dont les murs extérieurs ne subsistent pas jusqu’à la hauteur de la corniche sur la majorité des côtés de la construction sans avoir rapporté la preuve que la construction a été détruite par un cas fortuit ;
+- Toute personne qui par infraction à l’article 7, paragraphe 7, alinéa 2, procède à la reconstruction d’une construction qui n’est pas légalement existante ou assimilée au sens de l’article 7, paragraphe 1er, ou qui procède à la reconstruction d’une construction qui est légalement existante ou assimilée au sens de l’article 7, paragraphe 1er, et dont les murs extérieurs ne subsistent pas jusqu’à la hauteur de la corniche sur la majorité des côtés de la construction sans avoir rapporté la preuve que la construction a été détruite par un cas fortuit ;
 
 - Toute personne qui par infraction à l’article 7, paragraphe 7, alinéa 3, procède à la reconstruction non identique d’une construction sans autorisation de modifier l’aspect extérieur de la construction conformément au paragraphe 5 ou de changer les dimensions de la construction conformément au paragraphe 6 ;
 
@@ -1893,13 +1893,13 @@ Est punie d’une peine d’emprisonnement de huit jours à trois ans et d’une
 
 - Toute personne qui par infraction à l’article 8 met en place des installations de transport, de communication et de télécommunication, des conduites d’énergie, de liquide ou de gaz en zone verte sans l’autorisation y visée ou en violation de celle-ci ;
 
-- Toute personne qui par infraction à l’article 9, paragraphe 1 er procède dans la zone verte à l’ouverture d’une minière, sablière, carrière ou gravière ou à l’enlèvement ou au dépôt de terre arable sur une superficie dépassant 10 ares ou un volume de 50 mètres cube sans l’autorisation y visée ou en violation de celle-ci ;
+- Toute personne qui par infraction à l’article 9, paragraphe 1er procède dans la zone verte à l’ouverture d’une minière, sablière, carrière ou gravière ou à l’enlèvement ou au dépôt de terre arable sur une superficie dépassant 10 ares ou un volume de 50 mètres cube sans l’autorisation y visée ou en violation de celle-ci ;
 
 - Tout bénéficiaire de l’autorisation qui par infraction à l'article 9, paragraphe 2 et sauf dispense du ministre omet de rendre au sol son caractère naturel, en boisant ou en regarnissant de végétation les excavations, déblais ou remblais destinés à subsister d’une manière permanente ;
 
 - Toute personne qui par infraction à l’article 10 procède à des travaux de drainage, de curage de fossés ou de cours d’eau ou à des travaux en relation avec l’eau, susceptibles d’avoir une influence préjudiciable sur les espèces sauvages et leurs habitats, ou à la création ou la modification d’étangs ou autres plans d’eau en zone verte sans l'autorisation y visée ou en violation de celle-ci ;
 
-- Toute personne qui par infraction à l’article 12, paragraphe 1 er abandonne, dépose ou jette des déchets en zone verte, en dehors des lieux y visés ;
+- Toute personne qui par infraction à l’article 12, paragraphe 1er abandonne, dépose ou jette des déchets en zone verte, en dehors des lieux y visés ;
 
 - Toute personne qui par infraction à l’article 12, paragraphe 2 installe ou exploite une décharge sans l’autorisation y visée ou en violation de celle-ci ;
 
@@ -1907,21 +1907,21 @@ Est punie d’une peine d’emprisonnement de huit jours à trois ans et d’une
 
 - Toute personne qui par infraction à l’article 12, paragraphe 3 et sans l’autorisation y prévue dépose à titre temporaire des déblais, des engins mécaniques, des parties d’engins mécaniques ou d’autres matériaux en zone verte ;
 
-- Toute personne qui par infraction à l’article 13, paragraphe 1 er change l’affectation d’un fonds forestier sans l’autorisation y visée ou en violation de celle-ci ;
+- Toute personne qui par infraction à l’article 13, paragraphe 1er change l’affectation d’un fonds forestier sans l’autorisation y visée ou en violation de celle-ci ;
 
 - Toute personne qui par infraction à l’article 13, paragraphe 3 procède à une coupe rase de plus de cinquante ares d’un seul tenant sans l’autorisation y visée ou en violation de celle-ci ;
 
 - Toute personne qui par infraction à l'article 13, paragraphe 3 ne procède pas à la régénération naturelle, artificielle ou assistée du peuplement forestier dans un délai de trois ans à compter du début des travaux d’abattage, de peuplements forestiers équivalents, du point de vue production et écologie, au peuplement exploité ;
 
-- Toute personne qui par infraction à l´article 14, paragraphe 1 er procède aux travaux y prévus sans l'autorisation y visée ou en violation de celle-ci ;
+- Toute personne qui par infraction à l´article 14, paragraphe 1er procède aux travaux y prévus sans l'autorisation y visée ou en violation de celle-ci ;
 
-- Toute personne qui par infraction à l’article 14 bis abat, déracine, transfère, endommage ou détruit un ou plusieurs arbres remarquables sans l’autorisation y visée ou en violation de celle-ci ;
+- Toute personne qui par infraction à l’article 14bis abat, déracine, transfère, endommage ou détruit un ou plusieurs arbres remarquables sans l’autorisation y visée ou en violation de celle-ci ;
 
-- Toute personne qui par infraction à l'article 15, paragraphe 1 er organise des manifestations sportives sans l’autorisation y visée ou en violation de celle-ci ;
+- Toute personne qui par infraction à l'article 15, paragraphe 1er organise des manifestations sportives sans l’autorisation y visée ou en violation de celle-ci ;
 
 - Toute personne qui par infraction à l’article 16 plante des résineux à une distance inférieure à trente mètres du bord des cours d’eau ou sans l’autorisation visée à l’article 16, alinéa 2 ou en violation de cette autorisation ;
 
-- Toute personne qui par infraction à l’article 17, paragraphe 1 er et sous réserve des dérogations prévues à l’article 17, paragraphes 2, 3 et 5, réduit, détruit ou détériore des biotopes protégés, des habitats d’intérêt communautaire ou des habitats des espèces d’intérêt communautaire pour lesquelles l’état de conservation des espèces a été évalué non favorable ;
+- Toute personne qui par infraction à l’article 17, paragraphe 1er et sous réserve des dérogations prévues à l’article 17, paragraphes 2, 3 et 5, réduit, détruit ou détériore des biotopes protégés, des habitats d’intérêt communautaire ou des habitats des espèces d’intérêt communautaire pour lesquelles l’état de conservation des espèces a été évalué non favorable ;
 
 - Toute personne qui par infraction à l’article 17, paragraphe 2 réduit, détruit ou détériore des biotopes protégés, des habitats d’intérêt communautaire ou des habitats des espèces d’intérêt communautaire pour lesquelles l’état de conservation des espèces a été évalué non favorable sans l’autorisation y visée ou en violation de celle-ci ;
 
@@ -1929,17 +1929,17 @@ Est punie d’une peine d’emprisonnement de huit jours à trois ans et d’une
 
 - Toute personne qui par infraction à l’article 17, paragraphe 7 procède à l’essartement à feu courant ou l’incinération de la couverture végétale de prairies, friches ou bords de champs, de prés, de terrains forestiers, de chemins ou de routes sans l’autorisation y visée ou en violation de celle-ci ;
 
-- Toute personne qui par infraction à l’article 19, paragraphe 1 er et de manière non justifiée exploite, utilise, mutile ou détruit des espèces animales sauvages ;
+- Toute personne qui par infraction à l’article 19, paragraphe 1er et de manière non justifiée exploite, utilise, mutile ou détruit des espèces animales sauvages ;
 
-- Toute personne qui par infraction à l’article 19, paragraphe 1 er manipule des individus d’espèces animales sauvages sans respecter les impératifs biologiques de leur espèce et leur bien-être ;
+- Toute personne qui par infraction à l’article 19, paragraphe 1er manipule des individus d’espèces animales sauvages sans respecter les impératifs biologiques de leur espèce et leur bien-être ;
 
 - Toute personne qui par infraction à l’article 19, paragraphe 2, détient, capture, tient en captivité ou relâche dans la nature des spécimens y visés ou procède au commerce de spécimens de ces espèces à l'état vivant, mort ou naturalisé sans l’autorisation y visée ou en violation de celle-ci, et sous réserve des dérogations y visées ;
 
-- Toute personne qui par infraction à l’article 20, paragraphe 1 er contrevient aux interdictions y visées pour les espèces et les spécimens des espèces végétales intégralement protégées ;
+- Toute personne qui par infraction à l’article 20, paragraphe 1er contrevient aux interdictions y visées pour les espèces et les spécimens des espèces végétales intégralement protégées ;
 
 - Toute personne qui par infraction à l’article 20, paragraphe 3 et sous réserve des dérogations y visées détériore ou détruit intentionnellement les habitats dans lesquels la présence des espèces végétales protégées particulièrement est établie ;
 
-- Toute personne qui par infraction à l’article 21, paragraphe 1 er et sous réserve des dérogations y visées commet une des actions y visées contre les espèces animales intégralement protégées, les spécimens de ces espèces, ou encore leurs sites de reproduction ou leurs aires de repos ;
+- Toute personne qui par infraction à l’article 21, paragraphe 1er et sous réserve des dérogations y visées commet une des actions y visées contre les espèces animales intégralement protégées, les spécimens de ces espèces, ou encore leurs sites de reproduction ou leurs aires de repos ;
 
 - Toute personne qui par infraction à l’article 21, paragraphe 4, procède au prélèvement, à la capture ou à la mise à mort des espèces animales partiellement protégées ou de spécimens de ces espèces sans l'autorisation y visée ou en violation de celle-ci ;
 
@@ -1947,9 +1947,9 @@ Est punie d’une peine d’emprisonnement de huit jours à trois ans et d’une
 
 - Toute personne qui par infraction à l’article 23 commet une des actions y visées contre les espèces protégées par des conventions internationales ;
 
-- Toute personne qui par infraction à l’article 25, paragraphe 1 er et sous réserve des dérogations y visées importe des espèces non indigènes dans le but de les rendre à la vie sauvage ou les introduit dans la vie sauvage sans l'autorisation y visée ou en violation de celle-ci ;
+- Toute personne qui par infraction à l’article 25, paragraphe 1er et sous réserve des dérogations y visées importe des espèces non indigènes dans le but de les rendre à la vie sauvage ou les introduit dans la vie sauvage sans l'autorisation y visée ou en violation de celle-ci ;
 
-- Toute personne qui par infraction à l’article 27 réalise des projets, plans ou activités ayant une incidence significative sur des espèces protégées particulièrement ou sur leurs sites de reproduction ou leurs aires de repos sans l’autorisation visée à l’article 27, alinéa 1 er ou en violation de cette autorisation ;
+- Toute personne qui par infraction à l’article 27 réalise des projets, plans ou activités ayant une incidence significative sur des espèces protégées particulièrement ou sur leurs sites de reproduction ou leurs aires de repos sans l’autorisation visée à l’article 27, alinéa 1er ou en violation de cette autorisation ;
 
 - Toute personne qui par infraction à l’article 32 réalise un plan ou projet, susceptible d’affecter une zone Natura 2000 de manière significative, qui n’a pas fait l’objet d’une évaluation des incidences ou sans l’autorisation prévue à l’article 33, paragraphe 2 ;
 
@@ -1983,11 +1983,11 @@ Est punie d’une peine d’emprisonnement de huit jours à trois ans et d’une
 
   - interdiction d’activités incompatibles avec la tranquillité du site ;
 
-- Toute personne qui par infraction à l’article 61, paragraphes 1 er et 2 ne respecte pas les conditions et mesures prévues dans l’autorisation accordée ;
+- Toute personne qui par infraction à l’article 61, paragraphes 1er et 2 ne respecte pas les conditions et mesures prévues dans l’autorisation accordée ;
 
 - Toute personne qui par infraction à l’article 63, paragraphe 3 ne réalise pas les mesures compensatoires dans le délai et suivant les conditions imposées par le ministre ;
 
-- Toute personne qui par infraction à l’article 65, paragraphe 1 er commence les travaux autorisés avant le paiement de la taxe de remboursement ;
+- Toute personne qui par infraction à l’article 65, paragraphe 1er commence les travaux autorisés avant le paiement de la taxe de remboursement ;
 
 - Toute personne qui par infraction à l’article 73 continue les travaux de construction entrepris ;
 
@@ -1997,13 +1997,13 @@ Est punie d’une peine d’emprisonnement de huit jours à trois ans et d’une
 
 Est punie d’une amende de 24 euros à 1 000 euros :
 
-- Toute personne qui par infraction à l’article 11, paragraphe 1 er stationne des roulottes, caravanes ou mobilhomes en dehors des terrains et zones y visés ;
+- Toute personne qui par infraction à l’article 11, paragraphe 1er stationne des roulottes, caravanes ou mobilhomes en dehors des terrains et zones y visés ;
 
 - Toute personne qui par infraction à l’article 11, paragraphe 3 stationne en zone verte des véhicules automoteurs et des roulottes servant à l’habitation admis à la circulation sur les voies publiques en dehors des voies y visées ;
 
 - Toute personne qui par infraction à l’article 11, paragraphe 4 procède à l’amarrage, à demeure ou saisonnier d’embarcations ou d’établissements flottants de toute espèce aménagés de façon à pouvoir servir soit d’abri, soit à l’habitation ou au séjour ;
 
-- Toute personne qui en infraction de l’article 15, paragraphe 1 er emploie des instruments sonores ou exerce des activités de loisirs susceptibles d’avoir une incidence significative sur l’environnement naturel, sans l'autorisation y visée ou en violation de celle-ci ;
+- Toute personne qui en infraction de l’article 15, paragraphe 1er emploie des instruments sonores ou exerce des activités de loisirs susceptibles d’avoir une incidence significative sur l’environnement naturel, sans l'autorisation y visée ou en violation de celle-ci ;
 
 - Toute personne qui par infraction à l’article 15, paragraphe 2 et sous réserve des dérogations y prévues utilise des engins automoteurs aux endroits y spécifiés sans l’autorisation y visée ou en violation de celle-ci ;
 

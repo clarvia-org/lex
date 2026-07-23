@@ -85,7 +85,7 @@ Le temps passé à l’Institut compte comme temps de service pour le calcul du 
 
 La formation professionnelle prévue à l’article 2 (1) s’applique, en ce qui concerne le volet de la formation pendant le stage ou le service provisoire:
 
-- aux fonctionnaires stagiaires des catégories de traitement de la rubrique «Administration générale», à l’exception des sousgroupes à attributions particulières des groupes de traitement A1 et B1, et aux fonctionnaires stagiaires des catégories de traitement de la rubrique «Douanes» prévues à l’article 10 de la loi fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’Etat ,
+- aux fonctionnaires stagiaires des catégories de traitement de la rubrique «Administration générale», à l’exception des sousgroupes à attributions particulières des groupes de traitement A1 et B1, et aux fonctionnaires stagiaires des catégories de traitement de la rubrique «Douanes» prévues à l’article 10 de la loi fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’Etat,
 
 - aux fonctionnaires en service provisoire des catégories de traitement des rubriques « Administration générale » et « Enseignement », prévues à l’article 11 du règlement grand-ducal modifié du 28 juillet 2017 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires communaux.
 
@@ -2235,7 +2235,7 @@ Le règlement grand-ducal modifié du 13 avril 1984 déterminant la procédure d
 
 - À l’intitulé, les termes du concours d’admission au stage, de l’examen de fin de stage sont remplacés par de l’examen de fin de formation spéciale pendant le stage ;
 
-- À l’article 1 er , les termes de l’examen de fin de stage sont remplacés par de l’examen de fin de formation spéciale pendant le stage .
+- À l’article 1er, les termes de l’examen de fin de stage sont remplacés par de l’examen de fin de formation spéciale pendant le stage.
 
 <a id="art-n14b16"></a>
 ## Art. 40.
@@ -2244,7 +2244,16 @@ Le règlement grand-ducal modifié du 27 octobre 2000 déterminant à l’Instit
 
 - l’article 2, paragraphe III, est abrogé ;
 
-- l’article 4 est remplacé par la disposition suivante : « Art. 4. Le ministre ayant dans ses attributions la Fonction publique nomme les membres de la commission. Le chargé de direction de l’Institut préside la commission. La commission désigne son vice-président. Le président désigne le secrétaire de la commission et le cas échéant un secrétaire adjoint. » ; et
+- l’article 4 est remplacé par la disposition suivante :
+
+<a id="art-n14b57"></a>
+## « Art. 4.
+
+Le ministre ayant dans ses attributions la Fonction publique nomme les membres de la commission.
+
+Le chargé de direction de l’Institut préside la commission. La commission désigne son vice-président.
+
+Le président désigne le secrétaire de la commission et le cas échéant un secrétaire adjoint. » ; et
 
 - le Chapitre I. du Titre II. est abrogé.
 
@@ -2262,13 +2271,13 @@ Pour les stagiaires ou employés qui ont commencé leur formation générale sou
 
   - le nombre total des points obtenus dans le cadre de l’examen de fin de formation générale ou du contrôle des connaissances est repris dans le cadre de la mise en compte des résultats des deux parties de l’examen de fin de stage ou des résultats du contrôle des connaissances et du rapport d’aptitude professionnelle ;
 
-  - le nombre d’heures de formation suivies dans le cadre de la formation générale sous le régime du règlement grand-ducal modifié du 27 octobre 2000 précité à l’alinéa 1 er est pris en compte pour le nombre total d’heures de formation à suivre sous le régime du présent règlement grand-ducal.
+  - le nombre d’heures de formation suivies dans le cadre de la formation générale sous le régime du règlement grand-ducal modifié du 27 octobre 2000 précité à l’alinéa 1er est pris en compte pour le nombre total d’heures de formation à suivre sous le régime du présent règlement grand-ducal.
 
 - Pour les stagiaires qui n’ont pas encore réussi à l’examen théorique de l’examen de fin de formation générale ou pour les employés qui n’ont pas encore participé au contrôle des connaissances :
 
   - ils sont obligés à suivre l’intégralité des formations du tronc commun pour une durée totale de 60 heures ;
 
-  - le nombre d’heures de formation déjà suivies dans le cadre de la formation générale sous le régime du règlement grand-ducal modifié du 27 octobre 2000 précité à l’alinéa 1 er est pris en compte pour le nombre total d’heures de formation à suivre sous le régime du présent règlement grand-ducal.
+  - le nombre d’heures de formation déjà suivies dans le cadre de la formation générale sous le régime du règlement grand-ducal modifié du 27 octobre 2000 précité à l’alinéa 1er est pris en compte pour le nombre total d’heures de formation à suivre sous le régime du présent règlement grand-ducal.
 
 #### Chapitre 5 Dispositions finales
 
@@ -2735,7 +2744,7 @@ Le programme détaillé du cours « Le Luxembourg et l’intégration européenn
 
   - Crise de la chaise vide (1965-66)
 
-  - Négociation du 1 er projet d’union économique et monétaire (1969-1971)
+  - Négociation du 1er projet d’union économique et monétaire (1969-1971)
 
   - Négociation du traité de Maastricht (1990-91)
 
@@ -3321,7 +3330,7 @@ Le programme détaillé du cours « Règlement extrajudiciaire des litiges de co
 
   - Entité qualifiée / Critères à respecter par une entité pour être notifiée à la Commission européenne
 
-  - Règlement en ligne des litiges de consommation découlant de contrats conclus en ligne ( Règlement N° 524/2013 )
+  - Règlement en ligne des litiges de consommation découlant de contrats conclus en ligne (Règlement N° 524/2013)
 
   - Rôle du Centre européen des consommateurs
 
@@ -4989,7 +4998,7 @@ Le programme détaillé du cours « Phénomène de la corruption - lutte contre 
 
 - Instruments juridiques internationaux
 
-- Instruments juridiques nationaux ( code pénal ) et leurs mises en œuvre
+- Instruments juridiques nationaux (code pénal) et leurs mises en œuvre
 
 - Infractions 'voisines'
 
@@ -7283,7 +7292,7 @@ Le programme détaillé du cours « Initiation à la langue portugaise » organi
 
   - Masculin féminin
 
-  - Présent de quelques verbes du 1 ier groupe : habiter, étudier, travailler
+  - Présent de quelques verbes du 1ier groupe : habiter, étudier, travailler
 
   - Les adjectifs possessifs : mon, ma, mes
 
@@ -7605,7 +7614,7 @@ Lorsque le fonctionnaire en service provisoire est absent lors d’une ou de plu
 
 Les fonctionnaires en service provisoire suivent des formations au choix parmi les matières énumérées à l’annexe du présent règlement pour un nombre minimum de 30 heures de formation, déterminées par le collège des bourgmestre et échevins, le bureau du syndicat de communes ou le président de l’établissement public placé sous la surveillance de la commune. Sont concernés les fonctionnaires suivants :
 
-- les fonctionnaires en service provisoire de la catégorie de traitement A, groupe de traitement A1, sous-groupe administratif et sous-groupe à attributions particulières de la rubrique « Administration générale », à l’exception de ceux énumérés à l’article 12, paragraphe 1 er , alinéa 7, points 4° à 12° du règlement grand-ducal modifié du 28 juillet 2017 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires communaux et relevant de la rubrique « Administration générale » ;
+- les fonctionnaires en service provisoire de la catégorie de traitement A, groupe de traitement A1, sous-groupe administratif et sous-groupe à attributions particulières de la rubrique « Administration générale », à l’exception de ceux énumérés à l’article 12, paragraphe 1er, alinéa 7, points 4° à 12° du règlement grand-ducal modifié du 28 juillet 2017 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires communaux et relevant de la rubrique « Administration générale » ;
 
 - les fonctionnaires en service provisoire de la catégorie de traitement A, groupe de traitement A1, sous-groupe scientifique et technique et sous-groupe éducatif et psycho-social de la rubrique « Administration générale » ;
 

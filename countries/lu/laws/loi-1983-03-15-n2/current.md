@@ -32,8 +32,6 @@ Tombent sous le régime de la présente loi, les armes et munitions énumérées
 
 ### Catégorie I. Armes prohibées
 
-Armes prohibées
-
 - les armes ou autres engins destinés à porter atteinte aux personnes au moyen de substances lacrymogènes, toxiques, asphyxiantes, inhibitives, ou de substances similaires, ainsi que leurs munitions, à l’exception des pistolets et revolvers destinés à tirer des cartouches à substance inhibitive et des munitions destinées à ces armes;
 
 - les armes et autres engins, destinés à porter atteinte aux personnes ou aux biens par le feu ou au moyen d’une explosion, ainsi que leurs munitions, à l’exception des armes et engins énumérés à la catégorie II ci-dessous;
@@ -55,8 +53,6 @@ Armes prohibées
 | «g)» | toutes les autres armes à feu ne figurant pas dans la catégorie II, ainsi que leurs munitions et accessoires. |
 
 ### Catégorie II. Armes et accessoires d’armes soumis à autorisation
-
-Armes et accessoires d’armes soumis à autorisation
 
 (Loi du 3 août 2011)
 
@@ -129,9 +125,9 @@ Aux fins de la présente loi, il y a lieu d’entendre par:
 
 - «arme à feu ancienne»: toute arme à feu pour laquelle le requérant peut établir:
 
-  - qu’elle a été fabriquée avant le 1 er janvier 1870, ou
+  - qu’elle a été fabriquée avant le 1er janvier 1870, ou
 
-  - qu’elle a été fabriquée avant le 1 er janvier 1900 et qu’elle a été conçue pour tirer de la poudre noire, sous condition qu’elle ne peut tirer des munitions à étui métallique, ou
+  - qu’elle a été fabriquée avant le 1er janvier 1900 et qu’elle a été conçue pour tirer de la poudre noire, sous condition qu’elle ne peut tirer des munitions à étui métallique, ou
 
   - que, bien que fabriquée après les dates visées aux points (a) et (b), elle reprend exactement les principes de fonctionnement des modèles originaux antérieurs aux deux dates respectives.»
 
@@ -377,7 +373,7 @@ La durée de validité des autorisations est fixée par règlement grand-ducal; 
 
 L’autorisation visée à l’article 16 sera refusée:
 
-- aux mineurs, sauf exception à accorder par le Ministre de la Justice pour les armes énoncées à l’article 1 er catégorie II «a)» , e) et f);
+- aux mineurs, sauf exception à accorder par le Ministre de la Justice pour les armes énoncées à l’article 1er catégorie II «a)», e) et f);
 
 - aux personnes placées sous tutelle ou curatelle, à celles qui sont régulièrement colloquées dans une maison d’aliénés, à toutes autres notoirement connues pour ne pas être saines d’esprit;
 
@@ -420,7 +416,7 @@ L’intéressé communique, avant toute expédition, au Ministre de la Justice:
 
 - le nombre d’armes faisant partie de l’envoi ou du transport;
 
-- les données permettant l’identification de chaque arme et, en outre, l’indication que l’arme à feu a fait l’objet d’un contrôle selon les dispositions de la convention du 1 er juillet 1969 relative à la reconnaissance réciproque des poinçons d’épreuve des armes à feu portatives;
+- les données permettant l’identification de chaque arme et, en outre, l’indication que l’arme à feu a fait l’objet d’un contrôle selon les dispositions de la convention du 1er juillet 1969 relative à la reconnaissance réciproque des poinçons d’épreuve des armes à feu portatives;
 
 - le moyen de transfert, et
 
@@ -526,19 +522,19 @@ Sont punis des peines prévues à l’alinéa 2 tous ceux qui procèdent ou qui 
 
 Sont abrogés:
 
-- les articles 316 et 317 du Code pénal tels qu’ils ont été modifiés par la loi du 22 mars 1934 portant modification des articles 316 et 317 du Code pénal ;
+- les articles 316 et 317 du Code pénal tels qu’ils ont été modifiés par la loi du 22 mars 1934 portant modification des articles 316 et 317 du Code pénal;
 
-- les articles 2 et 4 de la loi précitée du 22 mars 1934 ;
+- les articles 2 et 4 de la loi précitée du 22 mars 1934;
 
-- l’ arrêté grand-ducal du 22 mars 1937 pris en exécution de la loi du 22 mars 1934 précitée ;
+- l’arrêté grand-ducal du 22 mars 1937 pris en exécution de la loi du 22 mars 1934 précitée;
 
-- l’ arrêté grand-ducal du 9 avril 1945 concernant la déclaration et la remise des armes prohibées, tel qu’il a été modifié par l’ arrêté grand-ducal du 17 juillet 1947 , à l’exception de son article 6, lequel reste en vigueur;
+- l’arrêté grand-ducal du 9 avril 1945 concernant la déclaration et la remise des armes prohibées, tel qu’il a été modifié par l’arrêté grand-ducal du 17 juillet 1947, à l’exception de son article 6, lequel reste en vigueur;
 
-- l’ arrêté grand-ducal du 18 mai 1951 concernant la déclaration d’armes de chasse considérées comme armes prohibées;
+- l’arrêté grand-ducal du 18 mai 1951 concernant la déclaration d’armes de chasse considérées comme armes prohibées;
 
 - les numéros 1 et 2 de l’article 7 de la loi du 13 juillet 1949 ayant pour objet la majoration de certains droits d’enregistrement et de timbre et de taxes diverses;
 
-- les numéros 1 et 2 de l’article 1 er de l’ arrêté grand-ducal du 25 juillet 1949 portant nouvelle fixation de certaines taxes.
+- les numéros 1 et 2 de l’article 1er de l’arrêté grand-ducal du 25 juillet 1949 portant nouvelle fixation de certaines taxes.
 
 <a id="art-30"></a>
 ## Art. 30.

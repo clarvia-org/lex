@@ -81,7 +81,7 @@ Aux fins du présent règlement grand-ducal, on entend par :
 
   - des courants de contact;
 
-- « expert agréé » : une ou plusieurs personnes physiques ou morales, de droit privé ou de droit public, agréées dans le cadre des compétences et attributions de l’Inspection du travail et des mines et conformément aux conditions d’agrément visées à l’article L.614-7 du Code du travail ;
+- « expert agréé » : une ou plusieurs personnes physiques ou morales, de droit privé ou de droit public, agréées dans le cadre des compétences et attributions de l’Inspection du travail et des mines et conformément aux conditions d’agrément visées à l’article L.614-7 du Code du travail;
 
 - «valeurs limites d’exposition (« VLE »)»: des valeurs établies sur la base de considérations biophysiques et biologiques, notamment sur la base des effets directs aigus et à court terme scientifiquement bien établis, c’est-à-dire des effets thermiques et la stimulation électrique des tissus;
 
@@ -205,7 +205,7 @@ Lorsque l’évaluation des risques est effectuée en vertu de l’article L.312
 
 - l’existence d’équipements de remplacement conçus pour réduire le niveau d’exposition aux champs électromagnétiques;
 
-- des informations appropriées obtenues du médecin du travail prévu par les articles L.325-1 à L.325-4 du Code du travail ;
+- des informations appropriées obtenues du médecin du travail prévu par les articles L.325-1 à L.325-4 du Code du travail;
 
 - les informations communiquées par le fabriquant de l’équipement;
 
@@ -349,9 +349,9 @@ Est puni d’une ou des peines prévues à l’article L.314-4 du Code du travai
 
 - l’employeur qui par infraction à l’article 3, paragraphe 3, ne prend pas les mesures prévues conformément à l’article 5, paragraphe 2, lorsque l’exposition dépasse les « VA », à l’exception des dérogations visées à cet article;
 
-- l’employeur qui par infraction à l’article 4, paragraphe 1 er , n’évalue pas tous les risques pour les salariés dus aux champs électromagnétiques sur le lieu de travail et, si nécessaire, ne mesure pas ou ne calcule pas les niveaux des champs électromagnétiques auxquels les salariés sont exposés;
+- l’employeur qui par infraction à l’article 4, paragraphe 1er, n’évalue pas tous les risques pour les salariés dus aux champs électromagnétiques sur le lieu de travail et, si nécessaire, ne mesure pas ou ne calcule pas les niveaux des champs électromagnétiques auxquels les salariés sont exposés;
 
-- l’employeur qui par infraction à l’article 4, paragraphe 4, ne veille pas à ce que l’évaluation, la mesure et les calculs visés aux paragraphes 1 er , 2 et 3 soient programmés et effectués par des services ou personnes compétents, à des intervalles appropriés;
+- l’employeur qui par infraction à l’article 4, paragraphe 4, ne veille pas à ce que l’évaluation, la mesure et les calculs visés aux paragraphes 1er, 2 et 3 soient programmés et effectués par des services ou personnes compétents, à des intervalles appropriés;
 
 - l’employeur qui par infraction à l’article 4, paragraphe 4, alinéa 2, ne conserve pas les informations y visées sous forme de papier pendant une durée de 30 ans au moins;
 
@@ -363,7 +363,7 @@ Est puni d’une ou des peines prévues à l’article L.314-4 du Code du travai
 
 - l’employeur qui par infraction à l’article 4, paragraphe 7, ne met pas à jour l’évaluation des risques dans les cas y définis;
 
-- l’employeur qui par infraction à l’article 5, paragraphe 1 er , ne prend pas les mesures nécessaires pour garantir que les risques résultant des champs électromagnétiques sur le lieu de travail soient éliminés ou réduits au minimum;
+- l’employeur qui par infraction à l’article 5, paragraphe 1er, ne prend pas les mesures nécessaires pour garantir que les risques résultant des champs électromagnétiques sur le lieu de travail soient éliminés ou réduits au minimum;
 
 - l’employeur qui par infraction à l’article 5 paragraphe 2, n’établit et ne met pas en œuvre le plan d’action y prévu en tenant compte des éléments énumérés;
 
@@ -389,7 +389,7 @@ Est puni d’une ou des peines prévues à l’article L.314-4 du Code du travai
 
 - l’employeur qui par infraction à l’article 6, ne veille pas à ce que les personnes y visées reçoivent toute information nécessaire ainsi que la formation y prévues;
 
-- l’employeur qui par infraction à l’article 7, paragraphe 2, alinéa 2, ne veille pas à ce que le salarié concerné puisse bénéficier d’examens médicaux ou d’une surveillance médicale appropriés, conformément aux articles L.326-1 à L.327-1 du Code du travail ;
+- l’employeur qui par infraction à l’article 7, paragraphe 2, alinéa 2, ne veille pas à ce que le salarié concerné puisse bénéficier d’examens médicaux ou d’une surveillance médicale appropriés, conformément aux articles L.326-1 à L.327-1 du Code du travail;
 
 - l’employeur qui par infraction à l’article 7, paragraphe 2, alinéa 3, ne rend pas possible ces examens ou cette surveillance pendant les heures de travail ou ne prend pas en charge les coûts y afférents.
 

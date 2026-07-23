@@ -44,7 +44,7 @@ Sont exclues du champ d’application du présent chapitre les entreprises et ai
 
 - les sociétés dont l’activité principale est la détention de participations dans d’autres sociétés ;
 
-- les aides en faveur des entreprises qui étaient en difficulté avant le 1 er janvier 2020 conformément au paragraphe 18, article 2 du règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 déclarant certaines catégories d’aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité .
+- les aides en faveur des entreprises qui étaient en difficulté avant le 1er janvier 2020 conformément au paragraphe 18, article 2 du règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 déclarant certaines catégories d’aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité.
 
 - Les employeurs qui ont été condamnés à au moins deux reprises pour contraventions aux dispositions interdisant le travail clandestin ou aux dispositions interdisant l’emploi de ressortissants de pays tiers en séjour irrégulier, au cours des quatre dernières années précédant le jugement de la juridiction compétente, sont exclues du bénéfice de la présente loi pendant une durée de trois années à compter de la date de ce jugement.
 
@@ -57,9 +57,9 @@ Aux fins du présent chapitre, on entend par :
 
 - « entreprise » : a) l’entreprise commerciale, artisanale ou industrielle disposant d’une autorisation d’établissement délivrée en application de loi modifiée du 2 septembre 2011 réglementant l’accès aux professions d’artisan, de commerçant, d’industriel ainsi qu’à certaines professions libérales ;
 
-  - la personne physique ou morale établie au Luxembourg qui exerce à titre principal et d’une façon indépendante une des activités visées à l’article 91, alinéa 1 er , numéro 1 de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu.
+  - la personne physique ou morale établie au Luxembourg qui exerce à titre principal et d’une façon indépendante une des activités visées à l’article 91, alinéa 1er, numéro 1 de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu.
 
-- « établissement de crédit » : tout établissement de crédit de droit luxembourgeois au sens de l’article 1 er , point 12 de la loi modifiée du 5 avril 1993 relative au secteur financier ;
+- « établissement de crédit » : tout établissement de crédit de droit luxembourgeois au sens de l’article 1er, point 12 de la loi modifiée du 5 avril 1993 relative au secteur financier ;
 
 - « grande entreprise » : toute entreprise ne remplissant pas les critères énoncés à l’annexe I du règlement (UE) n° 651/2014 précité ;
 
